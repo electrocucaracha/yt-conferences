@@ -27,6 +27,7 @@ from pathlib import Path
 
 import click
 import frontmatter
+import yaml
 
 ROOT = Path(__file__).resolve().parents[1] / "docs"
 
@@ -95,7 +96,7 @@ def validate_bundle(root: Path) -> list[str]:
             errors.append(f"{directory}: missing directory index.md")
 
     for path in sorted(root.rglob("*.md")):
-        if path.name in {"index.md", "log.md"}:
+        if path.name in {"index.md", "log.md", "README.md"}:
             continue
         text = path.read_text(encoding="utf-8")
         if not text.startswith("---\n"):
@@ -107,7 +108,7 @@ def validate_bundle(root: Path) -> list[str]:
             continue
         try:
             document = frontmatter.loads(text)
-        except Exception as err:  # noqa: BLE001
+        except yaml.YAMLError as err:
             errors.append(f"{path}: invalid YAML frontmatter ({err})")
             continue
         if not document.metadata.get("type"):
@@ -130,7 +131,7 @@ def validate_bundle(root: Path) -> list[str]:
 @click.option(
     "--root", type=click.Path(path_type=Path), default=ROOT, show_default=True
 )
-def main(root: Path) -> None:
+def main(root: Path = ROOT) -> None:
     """Validate the bundle and exit with a failure status when invalid."""
     errors = validate_bundle(root)
     if errors:

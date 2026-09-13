@@ -139,7 +139,7 @@ def format_concept(path: Path) -> None:
 @click.option(
     "--root", type=click.Path(path_type=Path), default=ROOT, show_default=True
 )
-def main(root: Path) -> None:
+def main(root: Path = ROOT) -> None:
     """Format all concept documents in the documentation bundle."""
     for concept in sorted(root.rglob("*.md")):
         if concept.name not in {"index.md", "log.md"}:
