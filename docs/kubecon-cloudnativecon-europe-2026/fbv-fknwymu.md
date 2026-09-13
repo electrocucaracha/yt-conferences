@@ -49,7 +49,7 @@ He concludes by inviting viewers to a maintainer summit for further questions.
 |  16 | For production, it is recommended to use cert-manager as the certificate provider.                                                                 |
 |  17 | The TLS section can specify cert-manager as the provider, along with certificate name, validity, issuer, and type.                                 |
 |  18 | Cert-manager creates and mounts certificates and secrets to the pods.                                                                              |
-|  19 | A maintaine                                                                                                                                        |
+|  19 | A maintained                                                                                                                                       |
 
 # Video
 

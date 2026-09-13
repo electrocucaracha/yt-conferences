@@ -53,7 +53,7 @@ The session concludes with a summary of best practices and an invitation for com
 |  17 | Use startup and readiness probes to delay traffic until initialization completes.                                                                    |
 |  18 | Pre-fill database and thread pools during initialization.                                                                                            |
 |  19 | Optionally, use warm-up traffic to trigger runtime optimizations (e.g., JIT compilation).                                                            |
-|  20 | The "impress port resize" feature allows changing resource allocations without restartin                                                             |
+|  20 | The "impress port resize" feature allows changing resource allocations without restarting                                                            |
 
 # Video
 

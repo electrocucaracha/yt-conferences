@@ -8,7 +8,7 @@ description:
   The lecture introduces deep learning, beginning with a review of linear
   regression and classification, and then motivating the need for nonlinear methods
   to achieve more powerful machine learning models. The instructor transitions from
-  buil...
+  build...
 resource: https://www.youtube.com/watch?v=89NND-Ca0yY
 tags:
   - stanford-cs221-artificial-intelligence-principles

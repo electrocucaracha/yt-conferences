@@ -46,7 +46,7 @@ The speaker reassures the audience that best practices, such as using security.t
 |  12 | Individual developers and consultants are not required to take CRA actions.                                                                                |
 |  13 | Stewards must report infrastructure security incidents (e.g., GitHub break-ins).                                                                           |
 |  14 | Security reporting will use a single EU platform; national platforms are also available.                                                                   |
-|  15 | Recommended practices: use security.txt, become a CNA to assign CVEs, follow OpenSSF best practices badge.                                                 |
+|  15 | Recommended practices: use security.txt, become a CAN to assign CVEs, follow OpenSSF best practices badge.                                                 |
 |  16 | Tools like the Free Software Foundation Europe's reuse tool and CNCF SBOM generators are recommended.                                                      |
 |  17 | OpenSSF provides a checklist on GitHub.                                                                                                                    |
 |  18 | CRA is in force, but implementation starts June (government readiness) and September (manufacturers report vulnerabilities).                               |

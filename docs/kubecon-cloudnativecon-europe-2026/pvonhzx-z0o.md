@@ -51,7 +51,7 @@ The team demonstrates how their approach allows for suspending and resuming dist
 |  16 | Deduplication reduces checkpoint size by up to 90% for quantized/fine-tuned models; less effective for full precision training.                                                  |
 |  17 | Integrated GPU checkpointing across the stack: Linux kernel, GPU driver, Kubernetes, and Python SDK (Kubeflow).                                                                  |
 |  18 | Extended train job controller to trigger checkpointing on suspend/resume, supporting preemption and manual suspension.                                                           |
-|  19 | Checkpoints saved as archives, conver                                                                                                                                            |
+|  19 | Checkpoints saved as archives, convert                                                                                                                                           |
 
 # Video
 

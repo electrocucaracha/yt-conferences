@@ -50,7 +50,7 @@ The session concludes with a discussion on the importance of standard protocols 
 |  16 | Cloudflare can now expose its entire API via a single MCP server using code mode, minimizing context size and progressively disclosing capabilities. |
 |  17 | Building robust MCP clients is challenging; Cloudflare currently handles code execution server-side.                                                 |
 |  18 | MCP standardizes communication between agents and backend services, especially when integrating with third-party agents.                             |
-|  19 | Future: More primitives for secur                                                                                                                    |
+|  19 | Future: More primitives for secure                                                                                                                   |
 
 # Video
 

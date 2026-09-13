@@ -52,7 +52,7 @@ Looking ahead, they predict continued growth in cluster sizes, greater adoption 
 |  17 | Large clusters (potentially 250,000+ nodes) will persist, but bring risks like blast radius and reliability.                                         |
 |  18 | Multicluster architectures mitigate risk but add management complexity.                                                                              |
 |  19 | Kubernetes must remain modular and easy to customize, while improving the process for standardizing innovations.                                     |
-|  20 | Controller sharding and work queue partitionin                                                                                                       |
+|  20 | Controller sharding and work queue partitioning                                                                                                      |
 
 # Video
 

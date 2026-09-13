@@ -33,7 +33,7 @@ The community continues to grow, focusing on scalability, dashboard improvements
 
 |   # | Main point                                                                                                                                                                                                         |
 | --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   1 | Speakers introduced: Hungai (Huawei, Kamada maintainer), Mihashilo (Bloomberg, streaming platform), Tessa Fam (Bloomberg, AI training/notebooks), Juni (Trip.com, online travel agency)                            |
+|   1 | Speakers introduced: Hungai (Huawei, Kamada maintainer), Mihashilo (Bloomberg, streaming platform), Tessa Fam (Bloomberg, AI training/notebooks), June (Trip.com, online travel agency)                            |
 |   2 | Agenda: Kamada introduction, new features, use cases, community status                                                                                                                                             |
 |   3 | Kamada manages multiple Kubernetes clusters, schedules workloads across clusters, supports various workloads (deployments, jobs, Spark, Flink, PyTorch, custom resources), and uses Kubernetes API                 |
 |   4 | Quarterly releases with new features developed with the community                                                                                                                                                  |

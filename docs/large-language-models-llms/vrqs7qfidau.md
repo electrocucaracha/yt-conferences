@@ -10,7 +10,7 @@ description:
   Joshua Batson from Anthropic presents an overview of his team's work
   on mechanistic interpretability of large language models, focusing on understanding
   their internal "biology." He explains that, rather than simply pattern-matching
-  or usin...
+  or using...
 resource: https://www.youtube.com/watch?v=vRQs7qfIDaU
 tags:
   - large-language-models-llms

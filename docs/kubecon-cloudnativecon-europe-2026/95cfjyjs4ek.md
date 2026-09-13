@@ -10,7 +10,7 @@ description:
   In this KubeCon presentation, Lorenzo and Mario from Enpal explain the
   concept of a virtual power plant (VPP) and its role in modernizing the energy grid.
   They begin by describing how traditional power grids operate, emphasizing the need
-  fo...
+  of...
 resource: https://www.youtube.com/watch?v=95cFjYJS4ek
 tags:
   - kubecon-cloudnativecon-europe-2026

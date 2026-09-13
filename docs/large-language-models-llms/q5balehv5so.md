@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 3 - Tranformers
+  Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 3 - Transformers
   & Large Language Models
 nav_order: 3
 parent: Large Language Models Llms

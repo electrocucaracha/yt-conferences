@@ -46,7 +46,7 @@ Solutions such as separating driver and executor node groups, implementing globa
 |  10 | Resource management uses tiered queues with preemption and historical usage-based guarantees.                                                                                                                  |
 |  11 | Customized schedulers enable efficient resource utilization, fair sharing, and advanced scheduling features.                                                                                                   |
 |  12 | Unused reserved AWS capacity is leveraged for non-critical Spark jobs via a rebalancing approach using separate clusters for online and offline workloads.                                                     |
-|  13 | Trough utilization project uses a custom controller to move capacity from online to Spark clusters during off-peak hours, scaling clusters up or down as needed.                                               |
+|  13 | Through utilization project uses a custom controller to move capacity from online to Spark clusters during off-peak hours, scaling clusters up or down as needed.                                              |
 |  14 | Mocha decouples compute and storage with remote shuffling, enabling flexible scaling and unified cluster setup.                                                                                                |
 |  15 | Solutions for challenges include static node groups for Spark drivers, balancing disk size and IO throughput, global                                                                                           |
 

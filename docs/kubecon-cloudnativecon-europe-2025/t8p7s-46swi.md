@@ -8,7 +8,7 @@ description:
   Vadim Mau, co-maintainer of Project Harour, discusses their experience
   with the Alfix mentorship program, which connects mentors and mentees to work on
   a project under guidance and supervision. Over two and a half years, they've had
-  12 ment...
+  12 meant...
 resource: https://www.youtube.com/watch?v=t8p7S-46SWI
 tags:
   - kubecon-cloudnativecon-europe-2025

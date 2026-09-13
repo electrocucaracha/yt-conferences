@@ -49,7 +49,7 @@ John concludes that while the ideal platform remains aspirational, incremental i
 |  16 | Manual customization is possible via pull requests, with bots automating reviews and deployments.                                     |
 |  17 | Documentation and debugging are handled via simple internal tools, not a unified portal.                                              |
 |  18 | Backstage was archived, but the concept of platform engineering and golden paths remains valuable.                                    |
-|  19 | There’s always a new bottleneck to solve, even as previou                                                                             |
+|  19 | There’s always a new bottleneck to solve, even as previous                                                                            |
 
 # Video
 

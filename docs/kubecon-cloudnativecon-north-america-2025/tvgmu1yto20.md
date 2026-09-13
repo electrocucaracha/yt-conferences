@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  'Capabilities, APIs, and Experiences: Blueprints To Bu... Kyle Penfound & Mauricio
+  'Capabilities, APIs, and Experiences: Blueprints To By... Kyle Penfound & Mauricio
   "Salaboy" Salatino'
 nav_order: 39
 parent: Kubecon Cloudnativecon North America 2025

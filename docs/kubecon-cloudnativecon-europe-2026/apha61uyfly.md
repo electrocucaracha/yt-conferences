@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Sponsored Keynote: Scaling Platform Ops with AI Agents: Troubleshootin...
+  "Sponsored Keynote: Scaling Platform Ops with AI Agents: Troubleshooting...
   Jorge Palma & Natan Yellin"
 nav_order: 344
 parent: Kubecon Cloudnativecon Europe 2026

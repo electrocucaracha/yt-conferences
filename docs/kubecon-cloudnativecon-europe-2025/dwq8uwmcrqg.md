@@ -9,7 +9,7 @@ type: Video Note
 description:
   Adun, a Norwegian public sector professional, shares the story of building
   a platform and community called "Nice" that has transformed the way the government
-  delivers services. The idea for Nice began at Cubec Con in Berlin 8 years ago, whe...
+  delivers services. The idea for Nice began at Cubec Con in Berlin 8 years ago, when...
 resource: https://www.youtube.com/watch?v=DWq8UWmcRQg
 tags:
   - kubecon-cloudnativecon-europe-2025

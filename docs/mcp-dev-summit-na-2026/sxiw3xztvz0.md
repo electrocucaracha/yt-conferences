@@ -50,7 +50,7 @@ Nate also addresses security considerations, such as phishing risks and the need
 |  16 | Mechanism is generic: useful for payments, OAuth, API keys, passwords, and other sensitive data entry                                                                                         |
 |  17 | Supported in MCP since November release; Visual Studio Code, Cursor, and Cloud Code clients support it                                                                                        |
 |  18 | Adoption across clients is slow; more SDK and conformance suite support needed                                                                                                                |
-|  19 | Security considerations: URLs should not expose sensitive parameters; provenance and trust of MCP ser                                                                                         |
+|  19 | Security considerations: URLs should not expose sensitive parameters; provenance and trust of MCP set                                                                                         |
 
 # Video
 

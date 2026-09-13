@@ -45,10 +45,10 @@ Eduardo addresses community questions on integration, performance benchmarking, 
 |  13 | Security updates: new OIDC implementation, JWT validation with caching, and improved authorization.                                                                           |
 |  14 | New processors: cumulative-to-delta, topological data analysis, enhanced metric processing.                                                                                   |
 |  15 | YAML configuration and native processors offer faster, more granular data processing and conditional routing.                                                                 |
-|  16 | Multi-threaded HTTP server and input plugins (Splunk, Elastic, OT, Prometheus) for higher throughput.                                                                         |
+|  16 | Multi-threaded HTTP server and input plugins (Splunk, Elastic, TO, Prometheus) for higher throughput.                                                                         |
 |  17 | Internal logs and metrics can now be routed through the pipeline.                                                                                                             |
 |  18 | Performance optimizations: SIMD, faster trace sampling, reduced memory/CPU usage.                                                                                             |
-|  19 | Fluent Bit v5 outperforms v4.2 and OT collector in throughput and efficiency.                                                                                                 |
+|  19 | Fluent Bit v5 outperforms v4.2 and TO collector in throughput and efficiency.                                                                                                 |
 |  20 | Backward compatibility for filters; filters can be attached as processors.                                                                                                    |
 |  21 | Vendor-neutral approach; integrates with OpenTelemetry Collector b                                                                                                            |
 

@@ -50,7 +50,7 @@ Paul concludes by inviting contributors to join the MCP O interest group to help
 |  15 | Proposed solution: client ID metadata documents (SEP 9991), where client ID is a URL to metadata, reducing database issues and improving clarity           |
 |  16 | More trust needed: registry API and stronger moderation for server URLs, especially in enterprise/internal environments                                    |
 |  17 | Second hop problem: MCP servers often access additional resources outside MCP, adding complexity and requiring guidance/examples for secure token handling |
-|  18 | Recap: MCP OAuth is hard due to enabling general-purpose clients, implementatio                                                                            |
+|  18 | Recap: MCP OAuth is hard due to enabling general-purpose clients, implementation                                                                           |
 
 # Video
 

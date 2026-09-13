@@ -10,7 +10,7 @@ description:
   The speaker, Juan Antonio (Oz), discusses the importance of using OCI
   (Open Container Initiative) images as a secure packaging format for MCP servers
   and AI tooling, emphasizing the security risks of running tools directly with commands
-  lik...
+  like...
 resource: https://www.youtube.com/watch?v=zzIoinEd_bM
 tags:
   - mcp-dev-summit-na-2026

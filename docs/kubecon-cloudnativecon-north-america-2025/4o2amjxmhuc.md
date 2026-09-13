@@ -53,7 +53,7 @@ He also clarifies the complementary roles of Ray and Kubernetes, emphasizing tha
 |  18 | Ray joined the PyTorch and Linux Foundation to foster open-source collaboration and adoption.                                         |
 |  19 | Ray consists of a core API and a growing ecosystem of third-party libraries for RL, data curation, distributed inference, and agents. |
 |  20 | AnyScale was founded to commercialize Ray and provide production features like multi-cloud deployment and observability.              |
-|  21 | Kubernetes support for AI workloads is improving, including better accelerator support and topology-aware schedulin                   |
+|  21 | Kubernetes support for AI workloads is improving, including better accelerator support and topology-aware scheduling                  |
 
 # Video
 

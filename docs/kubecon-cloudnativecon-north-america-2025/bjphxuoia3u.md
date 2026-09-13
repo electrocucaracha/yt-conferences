@@ -10,7 +10,7 @@ description:
   The Zinga team from Take Two Interactive discussed their approach to
   launching games on Kubernetes. They operate in a hub-and-spoke model, providing
   common services such as identity and game state management to multiple mobile games.
-  The te...
+  The the...
 resource: https://www.youtube.com/watch?v=Bjphxuoia3U
 tags:
   - kubecon-cloudnativecon-north-america-2025

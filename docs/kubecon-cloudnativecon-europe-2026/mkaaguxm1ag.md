@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Privacy as Infrastructure: Declarative Data Protection fo... Joaquin Rodriguez
+  "Privacy as Infrastructure: Declarative Data Protection of... Joaquin Rodriguez
   & Krishnendu Dasgupta"
 nav_order: 246
 parent: Kubecon Cloudnativecon Europe 2026

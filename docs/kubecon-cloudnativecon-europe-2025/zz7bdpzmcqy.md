@@ -2,7 +2,7 @@
 layout: default
 title:
   How We Progressively Deliver Changes To Kubernetes Using Canary Deployments
-  and Featur... Bob Walker
+  and Feature... Bob Walker
 nav_order: 124
 parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note

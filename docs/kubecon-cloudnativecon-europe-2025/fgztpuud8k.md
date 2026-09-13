@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Dapr + Score: Mixing the Perfect Cocktail for an Enhanced Develope... Mathieu
+  "Dapr + Score: Mixing the Perfect Cocktail for an Enhanced Develop... Mathieu
   Benoit & Kendall Roden"
 nav_order: 59
 parent: Kubecon Cloudnativecon Europe 2025

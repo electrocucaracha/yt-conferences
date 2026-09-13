@@ -9,7 +9,7 @@ type: Video Note
 description:
   Max, an open source community leader and author on platform engineering,
   emphasizes that successful platform engineering is less about specific technologies
-  and more about people, culture, and processes. He explains that platform engineerin...
+  and more about people, culture, and processes. He explains that platform engineering...
 resource: https://www.youtube.com/watch?v=jhF3sTA7B0M
 tags:
   - kubecon-cloudnativecon-europe-2026

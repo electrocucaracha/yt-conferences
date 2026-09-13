@@ -9,7 +9,7 @@ type: Video Note
 description:
   Millennium BCP leverages Radius to empower developer and operator collaboration
   by providing an application model that allows platform engineers to build IDPs better
-  serving their customers. Radius is a cloud-native application platform tha...
+  serving their customers. Radius is a cloud-native application platform that...
 resource: https://www.youtube.com/watch?v=ZmcZlDCYDgE
 tags:
   - kubecon-cloudnativecon-europe-2025

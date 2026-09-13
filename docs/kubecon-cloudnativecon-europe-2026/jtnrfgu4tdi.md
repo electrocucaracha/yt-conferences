@@ -53,7 +53,7 @@ Finally, they address the unique challenges of orchestrating IMX daemons within 
 |  18 | Scaling beyond single node: Multi-node NVLink and compute domains.                                                                                                                            |
 |  19 | Compute domain abstraction (via DRA driver) allows users to declare multi-node connectivity in Kubernetes.                                                                                    |
 |  20 | IMX daemons coordinate GPU communication across nodes; standard Kubernetes scheduling applies.                                                                                                |
-|  21 | For VMs, IMX daemon must run inside guest; challenges includ                                                                                                                                  |
+|  21 | For VMs, IMX daemon must run inside guest; challenges include                                                                                                                                 |
 
 # Video
 

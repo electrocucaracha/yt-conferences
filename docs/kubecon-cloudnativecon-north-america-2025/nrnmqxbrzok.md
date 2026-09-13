@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Designing Platforms With Judgment: Agentic Flows With MCP - Shivay Lamba &
+  "Designing Platforms With Judgment: Agentic Flows With MCP - Shivay Lambda &
   Ekansh Gupta"
 nav_order: 60
 parent: Kubecon Cloudnativecon North America 2025

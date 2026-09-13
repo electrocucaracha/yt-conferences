@@ -7,7 +7,7 @@ type: Video Note
 description:
   In this talk, Stefan Pradan, a long-time Flux maintainer, discusses the
   evolution of Flux and its integration with AI tools to address challenges in GitOps
-  workflows. He explains how Flux has shifted from synchronizing clusters with a singl...
+  workflows. He explains how Flux has shifted from synchronizing clusters with a single...
 resource: https://www.youtube.com/watch?v=QAatvo2o-No
 tags:
   - kubecon-cloudnativecon-north-america-2025

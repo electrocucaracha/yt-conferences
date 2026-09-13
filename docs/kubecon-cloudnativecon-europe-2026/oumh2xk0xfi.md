@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Project Lightning Talk: K3s Lightning Update - Manuel Buil, Maintainer"
+title: "Project Lightning Talk: K3s Lightning Update - Manuel Build, Maintainer"
 nav_order: 271
 parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note

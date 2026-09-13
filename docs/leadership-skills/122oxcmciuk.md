@@ -7,7 +7,7 @@ type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering
   manager, explains that influence is not an innate talent but a skill anyone can
-  develop using a scientific approach. He introduces a five-step process for influencin...
+  develop using a scientific approach. He introduces a five-step process for influencing...
 resource: https://www.youtube.com/watch?v=122oXcmciuk
 tags:
   - leadership-skills

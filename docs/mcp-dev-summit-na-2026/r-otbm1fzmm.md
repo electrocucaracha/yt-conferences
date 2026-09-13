@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "My MCP Server Code Works, but the Agent Fails: The Case for MCP-specif...
+  "My MCP Server Code Works, but the Agent Fails: The Case for MCP-specify...
   Calum Murray & Wesley Chun"
 nav_order: 67
 parent: Mcp Dev Summit Na 2026

@@ -38,7 +38,7 @@ The talk concludes with a Q&A addressing technical nuances of the new stateless 
 |   3 | HTTP+SSE required persistent open streams, making horizontal scaling difficult.                                                                                                            |
 |   4 | Streamable HTTP introduced session IDs for correlating requests, but load balancers could route requests to different servers, causing issues with session state and elicitation/sampling. |
 |   5 | Unofficial stateless mode allowed skipping session IDs, but disabled elicitation and sampling.                                                                                             |
-|   6 | The new June spec introduces SHTTP stateless mode and MRTR (multi-round trip requests), enabling elicitation and sampling in stateless, horizontally scaled environments.                  |
+|   6 | The new June spec introduces HTTPS stateless mode and MRTR (multi-round trip requests), enabling elicitation and sampling in stateless, horizontally scaled environments.                  |
 |   7 | MRTR works by ending a request and asking the client to remake it with additional information, avoiding persistent connections.                                                            |
 |   8 | Functions may rerun multiple times in stateless mode, requiring code changes and new programming patterns.                                                                                 |
 |   9 | SDKs will provide a compatibility layer for single-server scenarios to ease migration.                                                                                                     |

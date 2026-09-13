@@ -58,7 +58,7 @@ Cochril emphasizes that this solution serves as an assistant to cloud security a
 |  22 | Knowledge base can scale to thousands of documents                                                                                                        |
 |  23 | Cloud security architects can use the system to generate first drafts of threat models, then refine them                                                  |
 |  24 | Solution acts as an assistant, not a replacement for architects                                                                                           |
-|  25 | Outpu                                                                                                                                                     |
+|  25 | Output                                                                                                                                                    |
 
 # Video
 

@@ -51,7 +51,7 @@ While most workloads now run on Carpenter, some critical infrastructure remains 
 |  15 | Migration involved gradually scaling down node groups and shifting workloads to Carpenter-managed nodes.                                                                              |
 |  16 | Disruption frequency managed with low-disruption node pools, disruption budgets, and time-based restrictions.                                                                         |
 |  17 | Most clusters run 3-4 node pools; controller manages EC2 node classes, not node pools.                                                                                                |
-|  18 | Mixed instanc                                                                                                                                                                         |
+|  18 | Mixed instance                                                                                                                                                                        |
 
 # Video
 

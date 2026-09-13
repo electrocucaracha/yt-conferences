@@ -50,7 +50,7 @@ The team also uses OPA for policy enforcement beyond Kubernetes, and highlights 
 |  15 | AI used to refine rules, reduce false positives, and benchmark against security frameworks; reduced findings by 88%                                   |
 |  16 | Over 50 rules and 13 OPA policies shipped in 6 weeks; zero incidents after rollout                                                                    |
 |  17 | Key lessons: start in warn mode, address false positives quickly, provide clear remediation steps, make secure path the easiest path                  |
-|  18 | Security is now built into the developer workflow, with continuous improvemen                                                                         |
+|  18 | Security is now built into the developer workflow, with continuous improvement                                                                        |
 
 # Video
 

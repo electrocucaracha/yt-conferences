@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Cloud Native Storage and Data: The CNCF Storage TAG Projects, Te... Raffaele
+  "Cloud Native Storage and Data: The CNCF Storage TAG Projects, The... Raffaele
   Spazzoli & Alex Chircop"
 nav_order: 46
 parent: Kubecon Cloudnativecon Europe 2025

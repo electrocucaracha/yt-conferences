@@ -50,7 +50,7 @@ The session concludes with a demo showing how AI can help generate Helm values f
 |  14 | Kubernetes API objects for inference: deployment, horizontal pod scaler, config map, service, persistent volume claim, leader worker set, Ray service API.                                       |
 |  15 | Helmcharts allow packaging, versioning, and templatization of Kubernetes API objects and configs.                                                                                                |
 |  16 | Less than five Helmcharts can cover most inference scenarios; only Helm values need to be supplied.                                                                                              |
-|  17 | Demo: Using AI to generate Helm values for new models, running a Jupyter notebook to deploy, and leve                                                                                            |
+|  17 | Demo: Using AI to generate Helm values for new models, running a Jupyter notebook to deploy, and level                                                                                           |
 
 # Video
 

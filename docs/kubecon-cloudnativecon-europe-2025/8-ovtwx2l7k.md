@@ -2,7 +2,7 @@
 layout: default
 title:
   "Project Lightning Talk: Expanding Crossplane’s Reach - Providers, Bridges,
-  and Exten... Ariel Septon"
+  and Extend... Ariel Septon"
 nav_order: 235
 parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note

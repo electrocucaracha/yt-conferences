@@ -48,7 +48,7 @@ The session concludes with a discussion on future developments for Skyhook and t
 |  13 | Most OS tuning had no positive impact; workloads were GPU-bound, so CPU/kernel tweaks had little effect.                                                                                            |
 |  14 | Key lesson: profile workloads before tuning; reliability and stability may benefit more from OS settings than raw performance.                                                                      |
 |  15 | Skyhook also used for security, threat detection, SSH agents, and managing cluster-specific tweaks without custom images.                                                                           |
-|  16 | Future plans for Skyhook include deployment strat                                                                                                                                                   |
+|  16 | Future plans for Skyhook include deployment start                                                                                                                                                   |
 
 # Video
 

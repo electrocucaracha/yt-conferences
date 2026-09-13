@@ -27,7 +27,7 @@ generated:
 Microsoft principal security researcher Yosi Wiseman discusses default misconfigurations in cloud-native applications, particularly those using Kubernetes.
 He highlights examples of popular applications like Helm, Kubernetes dashboard, and Couplow that expose themselves to the internet without authentication or proper configuration.
 The presentation also covers AI applications, such as MCP servers, MLflow instances, and K agent, which are often deployed with misconfigured settings that allow attackers to gain access to sensitive data and cluster resources.
-Wiseman emphasizes the importance of understanding default configurations and using tools like KNO, OPA, Cublin, and Truffle Hog to identify and mitigate risks.
+Wiseman emphasizes the importance of understanding default configurations and using tools like KNOW, OPA, Cublin, and Truffle Hog to identify and mitigate risks.
 
 # Main Points
 

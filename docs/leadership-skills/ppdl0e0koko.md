@@ -10,7 +10,7 @@ description:
   In this episode, Doug Howard, a leadership coach for engineers, discusses
   the pervasive issue of the "bad leadership cycle" in engineering, which is causing
   burnout, high turnover, and stifled innovation across the industry. He explains
-  tha...
+  that...
 resource: https://www.youtube.com/watch?v=PPDL0E0koKo
 tags:
   - leadership-skills

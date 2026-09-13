@@ -49,7 +49,7 @@ Regular meetings and open channels are available for those interested in partici
 |  16 | Infrastructure management: lifecycle control, provisioning, drift detection, policy, automation; examples include Crossplane, MetalCube, Kyverno.                                     |
 |  17 | Edge and sovereignty: extends cloud native to resource-constrained/distributed sites, focuses on synchronization, conflict resolution, multi-architecture scheduling, and compliance. |
 |  18 | Outputs: frameworks, white papers, best practice assessments, testing guidelines, reference implementations.                                                                          |
-|  19 | Ongoing initiatives: Landscape v3 (storag                                                                                                                                             |
+|  19 | Ongoing initiatives: Landscape v3 (storage                                                                                                                                            |
 
 # Video
 

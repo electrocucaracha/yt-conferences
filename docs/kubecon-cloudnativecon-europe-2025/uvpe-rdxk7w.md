@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "From Hours To Minutes: The Evolution of Platform Engineerin... Adrien Gillard
+  "From Hours To Minutes: The Evolution of Platform Engineering... Adrien Gillard
   & Christophe Furmaniak"
 nav_order: 104
 parent: Kubecon Cloudnativecon Europe 2025

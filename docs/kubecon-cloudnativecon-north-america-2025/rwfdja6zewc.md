@@ -49,7 +49,7 @@ Additionally, the talk covers related subprojects like the inference extension a
 |  14 | Upcoming work: documentation overhaul, improved CRD provider guidance, standardizing retries and timeouts, ListenerSet for scalable configuration, backend/frontend mTLS, advancing TLSRoute, more frequent experimental releases |
 |  15 | Gateway API ecosystem expanding with subprojects: Inference Extension, AI Gateway Working Group, Agentic Networking                                                                                                               |
 |  16 | Inference Extension focuses on efficient, self-hosted model serving with L7 routing and integration with broader AI ecosystems                                                                                                    |
-|  17 | Agentic Networking aims to provide governance and connectivity for agentic AI workloads, suppor                                                                                                                                   |
+|  17 | Agentic Networking aims to provide governance and connectivity for agentic AI workloads, support                                                                                                                                  |
 
 # Video
 

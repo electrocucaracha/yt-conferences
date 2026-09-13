@@ -47,7 +47,7 @@ He concludes by inviting the audience to explore Deco Studio, their platform for
 |  12 | MCPs can export not only tools but also UIs/apps, enabling human-in-the-loop for tasks requiring judgment (e.g., marketing teams configuring criteria for product ordering).   |
 |  13 | Distinction between tasks suitable for full automation (verifiable outcomes) and those requiring human judgment (subjective decisions).                                        |
 |  14 | Effective autonomy requires mastering each step: centralizing tools, agent access, triggers, collaboration, and appropriate human interfaces.                                  |
-|  15 | Agentic workflows are best fo                                                                                                                                                  |
+|  15 | Agentic workflows are best of                                                                                                                                                  |
 
 # Video
 

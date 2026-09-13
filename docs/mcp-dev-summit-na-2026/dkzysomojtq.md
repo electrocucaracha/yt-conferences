@@ -46,7 +46,7 @@ Through YAML-based configurations and live demos, he shows how organizations can
 |  12 | **Crow (Kubernetes Resource Orchestrator):** Enables dynamic CRD creation and composition using CEL expressions, allowing abstraction and adaptation of existing CRDs without Go code.                              |
 |  13 | Crow supports resource graph definitions (DAGs) for dependency management and status propagation.                                                                                                                   |
 |  14 | Demonstrations showed deploying agents, MCP servers, and related resources using YAML and Crow, highlighting unified APIs and abstraction benefits.                                                                 |
-|  15 | Unified CRDs allow organizations to switch te                                                                                                                                                                       |
+|  15 | Unified CRDs allow organizations to switch the                                                                                                                                                                      |
 
 # Video
 

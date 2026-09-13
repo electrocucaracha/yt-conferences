@@ -49,7 +49,7 @@ The talk introduces the DSPy library as a tool for principled, modular AI system
 |  14 | Data-driven optimization of prompts and demonstrations can outperform hand-crafted strategies.                                                          |
 |  15 | Most enterprise AI usage relies on smaller models due to cost and latency constraints; system design is key to maximizing their value.                  |
 |  16 | Tool access (e.g., web search, APIs) further emphasizes the need for system-level thinking.                                                             |
-|  17 | Future progres                                                                                                                                          |
+|  17 | Future progress                                                                                                                                         |
 
 # Video
 

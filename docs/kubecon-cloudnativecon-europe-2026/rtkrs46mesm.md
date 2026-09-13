@@ -2,7 +2,7 @@
 layout: default
 title:
   "The Missing Half of Performance Profiling: Understanding Memory in Cloud Native
-  Syste... Dom Delnano"
+  System... Dom Delnano"
 nav_order: 363
 parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note

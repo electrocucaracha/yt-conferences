@@ -49,7 +49,7 @@ Finally, they emphasize ongoing communication, user adoption strategies, and con
 |  16 | Align with organizational practices (build vs. buy, in-house vs. outsource).                                                                             |
 |  17 | Treat the platform as an internal product; focus on user needs and adoption.                                                                             |
 |  18 | Plan for day two operations: maintenance, support, ongoing communication.                                                                                |
-|  19 | Bui                                                                                                                                                      |
+|  19 | Build                                                                                                                                                    |
 
 # Video
 

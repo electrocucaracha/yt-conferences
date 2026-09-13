@@ -10,7 +10,7 @@ description:
   Bogdan, from Adobe's observability team, discusses the importance of
   building configuration management systems that "age well" by establishing clear
   boundaries and best practices. Using the analogy of training his dog to illustrate
-  how boun...
+  how bound...
 resource: https://www.youtube.com/watch?v=H1g0jnmjJN8
 tags:
   - kubecon-cloudnativecon-europe-2026

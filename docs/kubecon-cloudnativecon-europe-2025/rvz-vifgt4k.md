@@ -26,7 +26,7 @@ generated:
 Microsoft engineer Rita discusses updates in SIG O for a and authorization, including graduated features such as service account token improvements, cluster trust bundles, fine-grained cublet API authorization, and external signing for service account tokens.
 These features aim to improve security, reduce reliance on long-lived secrets, and enhance resource allocation.
 The SIG O team has worked on various projects, including the development of a new certificate feature that allows easy minting of client certificates for service accounts.
-The team also plans to introduce additional features in future releases, including hardened of cubat 7 ser validation and PSA restrictions for probes host fields.
+The team also plans to introduce additional features in future releases, including hardened of cubat 7 set validation and PSA restrictions for probes host fields.
 
 # Main Points
 

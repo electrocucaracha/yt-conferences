@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Steering the Ship: Ask the Kubernetes Steering Committ... Kat Cosgrove, Maciej
+  "Steering the Ship: Ask the Kubernetes Steering Committee... Kat Cosgrove, Maciej
   Szulik & Antonio Ojea"
 nav_order: 347
 parent: Kubecon Cloudnativecon Europe 2026

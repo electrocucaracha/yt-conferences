@@ -9,7 +9,7 @@ type: Video Note
 description:
   Philip Conrad, a maintainer of the Open Policy Agent (OPA) project, presented
   updates on OPA’s performance improvements at CubeCon, using slides prepared by his
-  colleague Sebastian. OPA is a CNCF graduated, general-purpose policy engine tha...
+  colleague Sebastian. OPA is a CNCF graduated, general-purpose policy engine that...
 resource: https://www.youtube.com/watch?v=j-d3n88MZn4
 tags:
   - kubecon-cloudnativecon-north-america-2025

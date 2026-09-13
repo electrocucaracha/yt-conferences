@@ -9,7 +9,7 @@ type: Video Note
 description:
   The video discusses image snapshoters, specifically lazy pulling snapshoters,
   which enable efficient data access and reduce the amount of data downloaded from
-  registries. The three main snapshoters explored are Starg, Sochi, and CVMFS. Thes...
+  registries. The three main snapshoters explored are Starg, Sochi, and CVMFS. These...
 resource: https://www.youtube.com/watch?v=Dc6S4vU9GiM
 tags:
   - kubecon-cloudnativecon-europe-2025

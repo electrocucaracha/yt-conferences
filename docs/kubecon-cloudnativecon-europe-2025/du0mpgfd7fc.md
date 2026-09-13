@@ -10,7 +10,7 @@ description:
   The video transcript discusses the concept of Web Assembly (WASM) and
   its potential to enable more efficient and portable application development. The
   speaker, David Justice, is joined by Terrence, who explains that they are working
-  on buil...
+  on build...
 resource: https://www.youtube.com/watch?v=Du0mPGFd7Fc
 tags:
   - kubecon-cloudnativecon-europe-2025

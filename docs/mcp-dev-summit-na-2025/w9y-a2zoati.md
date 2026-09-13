@@ -55,7 +55,7 @@ To mitigate these threats, Arjun recommends establishing a trusted MCP registry,
 |  22 | Review tool scopes, permissions, and conflicts.                                                                                   |
 |  23 | Monitor runtime inputs/outputs and tool list changes.                                                                             |
 |  24 | Sandbox and isolate MCP servers.                                                                                                  |
-|  25 | Centralized MCP regist                                                                                                            |
+|  25 | Centralized MCP register                                                                                                          |
 
 # Video
 

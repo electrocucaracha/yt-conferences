@@ -8,7 +8,7 @@ description:
   The Cloud Native Computing Foundation (CNCF) has established a formal
   program to represent end-user companies, providing representation on the board and
   technical boards, as well as opportunities for collaboration, contribution, and
-  learnin...
+  learning...
 resource: https://www.youtube.com/watch?v=K3edF36HWYU
 tags:
   - kubecon-cloudnativecon-europe-2025

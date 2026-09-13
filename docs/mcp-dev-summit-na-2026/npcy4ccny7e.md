@@ -56,7 +56,7 @@ Jake emphasizes the flexibility and security of running Jupyter locally, the eas
 |  20 | Security: Jupyter can run fully locally; ACP allows granular control over agent tool access.                        |
 |  21 | Custom personas can be restricted (e.g., tutor persona that doesn’t write code).                                    |
 |  22 | Jupyter AI features may not work out-of-the-box on platforms like Databricks.                                       |
-|  23 | Jake is open to feedback and ques                                                                                   |
+|  23 | Jake is open to feedback and queues                                                                                 |
 
 # Video
 

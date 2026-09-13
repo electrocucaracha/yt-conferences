@@ -55,7 +55,7 @@ The solution meets their non-functional requirements by minimizing compute costs
 |  20 | Send welcome emails                                                                                                                                                                                                                                             |
 |  21 | Create outreach record and notify sales/marketing                                                                                                                                                                                                               |
 |  22 | Non-functional requirements: cost efficiency, scalability, extensibility, embedded logic, built-in retries                                                                                                                                                      |
-|  23 | Demo: Fully automated onboarding workflow using NATS, CloudEvents, Speltos, and Kubernete                                                                                                                                                                       |
+|  23 | Demo: Fully automated onboarding workflow using NATS, CloudEvents, Speltos, and Kubernetes                                                                                                                                                                      |
 
 # Video
 

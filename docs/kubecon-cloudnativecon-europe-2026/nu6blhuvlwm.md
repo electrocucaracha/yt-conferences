@@ -57,7 +57,7 @@ The talk emphasizes that running GPUs in Kubernetes is fundamentally different f
 |  20 | Nvidia container toolkit integrates with container runtime to expose GPU to containers.                                 |
 |  21 | Nvidia device plugin registers GPU resources with kubelet and Kubernetes.                                               |
 |  22 | Kubernetes scheduler allocates pods to nodes with available GPUs.                                                       |
-|  23 | GPU containe                                                                                                            |
+|  23 | GPU container                                                                                                           |
 
 # Video
 

@@ -10,7 +10,7 @@ description:
   Mark Derer, a community manager for the Deer project, introduces Deer,
   the Distributed Application Runtime, which is a CNCF-graduated project designed
   to simplify building secure and reliable microservices and agentic AI systems through
-  bui...
+  buy...
 resource: https://www.youtube.com/watch?v=N7ocoqSUNV4
 tags:
   - kubecon-cloudnativecon-north-america-2025

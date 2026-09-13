@@ -9,7 +9,7 @@ type: Video Note
 description:
   The speakers, Dan Pchev and Jonathan, discuss their journey of applying
   the component model to the Kubernetes scheduler using WebAssembly (WASM). They initially
-  encountered challenges with defining their own width and generating bindings fo...
+  encountered challenges with defining their own width and generating bindings of...
 resource: https://www.youtube.com/watch?v=hjbZOBghxYU
 tags:
   - kubecon-cloudnativecon-europe-2025

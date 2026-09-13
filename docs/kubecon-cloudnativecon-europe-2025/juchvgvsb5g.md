@@ -8,7 +8,7 @@ description:
   The Cloud Native Computing Foundation (CNCF) Technical Oversight Committee
   (TOC) has been working on various initiatives to improve the CNCF ecosystem. The
   TOC has 11 members, including new additions, and aims to provide a vision for the
-  te...
+  the...
 resource: https://www.youtube.com/watch?v=jUChVGvSB5g
 tags:
   - kubecon-cloudnativecon-europe-2025

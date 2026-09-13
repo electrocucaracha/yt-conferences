@@ -8,7 +8,7 @@ description:
   The SIG API Machinery is a broad cross-cutting Special Interest Group
   (SIG) within Kubernetes, responsible for the rest mechanics of the Kubernetes API,
   including versioning, serialization protocols, resources, sub-resources, and support
-  fo...
+  of...
 resource: https://www.youtube.com/watch?v=VCmp--NcxeE
 tags:
   - kubecon-cloudnativecon-europe-2025

@@ -9,7 +9,7 @@ type: Video Note
 description:
   Alexa Griffith and Ankita from Bloomberg discuss the challenges of managing
   an AI platform and introduce their approach to tackling these issues through "SLOs"
-  (Service Level Objectives) and "dashboards." They explain that SLOs are like anc...
+  (Service Level Objectives) and "dashboards." They explain that SLOs are like and...
 resource: https://www.youtube.com/watch?v=KyoxaAtHi-c
 tags:
   - kubecon-cloudnativecon-europe-2025

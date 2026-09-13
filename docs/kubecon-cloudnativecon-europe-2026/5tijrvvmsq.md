@@ -9,7 +9,7 @@ type: Video Note
 description:
   In this session, the maintainers of SIG Scheduling discussed recent updates
   and future plans for Kubernetes scheduling, focusing on the transition from pod-based
-  to pod group (gang) scheduling. They explained the architecture of the schedul...
+  to pod group (gang) scheduling. They explained the architecture of the schedule...
 resource: https://www.youtube.com/watch?v=-5TIJrVvmsQ
 tags:
   - kubecon-cloudnativecon-europe-2026

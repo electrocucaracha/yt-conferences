@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  Building Cloud Native Agentic Workflows on Kubernetes for Preven... Benjamin
+  Building Cloud Native Agentic Workflows on Kubernetes for Prevent... Benjamin
   Consolvo & Daron Yöndem
 nav_order: 30
 parent: Kubecon Cloudnativecon North America 2025

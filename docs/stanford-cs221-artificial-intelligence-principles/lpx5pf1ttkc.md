@@ -49,7 +49,7 @@ In the latter part, the lecture considers AI as a general purpose technology, co
 |  15 | Distribution strategies for AI models (closed vs. open) influence downstream applications, pricing, competition, privacy, and innovation.              |
 |  16 | AI is considered a general purpose technology due to pervasiveness, improvement over time, and enabling complementary innovations.                     |
 |  17 | Productivity gains from general purpose technologies often follow a J-curve: initial lag before broad economic impact.                                 |
-|  18 | Traditional GDP may not fully capture AI's valu                                                                                                        |
+|  18 | Traditional GDP may not fully capture AI's value                                                                                                       |
 
 # Video
 

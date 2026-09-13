@@ -54,7 +54,7 @@ The presenters also emphasize the importance of managing the lifecycle and versi
 |  18 | Challenges: Standardizing agent card JSON formats and task endpoints across clouds.                                                     |
 |  19 | Emphasis on versioning prompts, agent cards, and code for lifecycle management.                                                         |
 |  20 | Testing includes unit tests for MCP, orchestrator, and service bus.                                                                     |
-|  21 | Importance of managing agent environments and data sources fo                                                                           |
+|  21 | Importance of managing agent environments and data sources of                                                                           |
 
 # Video
 

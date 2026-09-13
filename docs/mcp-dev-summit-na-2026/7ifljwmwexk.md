@@ -2,7 +2,7 @@
 layout: default
 title:
   "From One MCP Server To an Ecosystem: When MCP Stops Being a Server and Becomes
-  a Pla... Vaibhav Tupe"
+  a Pla... Vaibhav Tuple"
 nav_order: 29
 parent: Mcp Dev Summit Na 2026
 type: Video Note
@@ -57,7 +57,7 @@ The talk concludes with key takeaways: confining domains, using tags and skills 
 |  21 | Observability is critical: monitor tool call accuracy, failures, and rate limiting.                                       |
 |  22 | Operational lessons: session stickiness, stateful MCP for elicitation, human-in-the-loop for infrastructure changes.      |
 |  23 | Key takeaways: bounded domains, tags and skills for context control, OAuth for security, ecosystem thinking from day one. |
-|  24 | Breaking up mega MCP servers requires customer/agent workflow-centric domain defin Ratings (1-5): 3                       |
+|  24 | Breaking up mega MCP servers requires customer/agent workflow-centric domain define Ratings (1-5): 3                      |
 
 # Video
 

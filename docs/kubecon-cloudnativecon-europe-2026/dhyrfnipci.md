@@ -54,7 +54,7 @@ These efforts demonstrate the power of community collaboration in advancing Kube
 |  18 | Kru simplifies resource management with a schema and resource list, letting Kubernetes handle the complexity.                              |
 |  19 | Kru is a collaborative project among AWS, Google Cloud, Azure, and SAP, now a SIG cloud provider subproject nearing 1.0.                   |
 |  20 | Adaptive permission models are needed for platform building.                                                                               |
-|  21 | RBAC grants permissions but can't specif                                                                                                   |
+|  21 | RBAC grants permissions but can't specify                                                                                                  |
 
 # Video
 

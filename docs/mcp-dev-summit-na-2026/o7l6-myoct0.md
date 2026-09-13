@@ -10,7 +10,7 @@ description:
   In this presentation, Gor of Saxa and Metway discuss the challenges of
   evaluating AI agents in real-world, production environments, particularly within
   complex, infrastructure-dependent domains like automotive telemetry and incident
-  respons...
+  response...
 resource: https://www.youtube.com/watch?v=o7L6_MyOCt0
 tags:
   - mcp-dev-summit-na-2026

@@ -51,7 +51,7 @@ A live demo illustrates how these features work in practice, and the presenters 
 |  15 | Demo showed practical use: multiple network interfaces with different bandwidths, prioritized allocation, and enforcement of capacity limits                                |
 |  16 | Device vendors/cluster admins can define request policies (default, minimum, maximum, chunk size) for capacity consumption                                                  |
 |  17 | Consumable capacity feature is applicable beyond networking, e.g., virtual GPU memory partitioning, storage, CPUs                                                           |
-|  18 | Scheduler handles accounting fo                                                                                                                                             |
+|  18 | Scheduler handles accounting of                                                                                                                                             |
 
 # Video
 

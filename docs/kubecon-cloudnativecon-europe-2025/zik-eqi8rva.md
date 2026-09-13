@@ -6,8 +6,8 @@ parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Google team is working on improving the performance and efficiency
-  of the Kuberenetes scheduler, specifically the Scheduleuler component. Recent updates
-  include "queing hints" to handle unschedulable parts by retrying them after a certa...
+  of the Kubernetes scheduler, specifically the Scheduleuler component. Recent updates
+  include "queuing hints" to handle unschedulable parts by retrying them after a certa...
 resource: https://www.youtube.com/watch?v=ZIk_EqI8rVA
 tags:
   - kubecon-cloudnativecon-europe-2025
@@ -21,8 +21,8 @@ generated:
 
 # Summary
 
-The Google team is working on improving the performance and efficiency of the Kuberenetes scheduler, specifically the Scheduleuler component.
-Recent updates include "queing hints" to handle unschedulable parts by retrying them after a certain period, allowing for more efficient use of resources.
+The Google team is working on improving the performance and efficiency of the Kubernetes scheduler, specifically the Scheduleuler component.
+Recent updates include "queuing hints" to handle unschedulable parts by retrying them after a certain period, allowing for more efficient use of resources.
 Another update is "async preemption," which enables higher priority parts to preempt lower priority ones, improving scheduling throughput.
 Additionally, the team has introduced features such as partitionable devices and prioritized device requests, enabling more flexible resource allocation.
 The Scheduleuler simulator allows users to test custom plugins and configurations without affecting their production clusters.

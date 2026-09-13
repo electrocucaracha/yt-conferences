@@ -53,7 +53,7 @@ The talk concludes by inviting the community to contribute to the ongoing develo
 |  18 | The main constraint remains access to required platform capabilities.                                                                                  |
 |  19 | Vertical scaling (adding more platform engineers) is insufficient; horizontal scaling (enabling specialists to deliver value independently) is needed. |
 |  20 | A multiplayer marketplace platform allows both production and consumption of capabilities.                                                             |
-|  21 | Past lessons from platforms as a service and the 12-factor app can infor                                                                               |
+|  21 | Past lessons from platforms as a service and the 12-factor app can information                                                                         |
 
 # Video
 

@@ -10,7 +10,7 @@ description:
   In this session, Wulan, a senior tech lead at docloud, discusses making
   topology-aware scheduling practical for AI workloads, emphasizing the importance
   of network topology discovery and cost-effective validation approaches. He explains
-  tha...
+  that...
 resource: https://www.youtube.com/watch?v=Jj8DNLA5hYc
 tags:
   - kubecon-cloudnativecon-europe-2026

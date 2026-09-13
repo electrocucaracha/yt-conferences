@@ -61,7 +61,7 @@ The Q&A covers topics such as data retention (handled by external storage soluti
 |  27 | User space correlation maps ACL IDs back to Kubernetes network policies                                                                           |
 |  28 | Second demo:                                                                                                                                      |
 |  29 | Shows how NetObserve and OVN-Kubernetes integration helps debug network policy issues (e.g., dropped/allowed connections, misconfigured policies) |
-|  30 | Demonstrates updat                                                                                                                                |
+|  30 | Demonstrates update                                                                                                                               |
 
 # Video
 

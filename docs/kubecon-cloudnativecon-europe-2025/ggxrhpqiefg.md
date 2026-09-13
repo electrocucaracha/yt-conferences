@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Into the Shopfloor: Moving Manufacturing Execution Syste... Manuel Peuster
+  "Into the Shopfloor: Moving Manufacturing Execution System... Manuel Peuster
   & Andrei Traian Cucuruzac"
 nav_order: 132
 parent: Kubecon Cloudnativecon Europe 2025
