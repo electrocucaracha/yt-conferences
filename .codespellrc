@@ -1,0 +1,2 @@
+[codespell]
+skip = docs/foro-de-crecimiento/**/*.md
