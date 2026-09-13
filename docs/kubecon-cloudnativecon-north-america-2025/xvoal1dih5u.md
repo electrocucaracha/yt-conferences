@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Comms & Social Media - Why Does a Project Need It - Chris Short, CIQ & Kaslin
+  Fields, Google
+nav_order: 40
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Comms & Social Media - Why Does a Project Need It - Chris Short, CIQ & Kaslin Fields, Google"
-description: "In this talk, Chris Short and Kaslyn Fields discuss the evolution and current practices of the Kubernetes contributor communications team, which focuses on ensuring contributors and the broader community are informed about important develop..."
+description:
+  In this talk, Chris Short and Kaslyn Fields discuss the evolution and
+  current practices of the Kubernetes contributor communications team, which focuses
+  on ensuring contributors and the broader community are informed about important
+  develop...
 resource: https://www.youtube.com/watch?v=XVoAl1dih5U
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They describe the challenges of scaling communications as the Kubernetes communi
 The team, composed mostly of volunteers, uses automation tools like Zapier and Buffer to manage multiple platforms and maintain consistent messaging, primarily broadcasting rather than engaging interactively due to limited resources.
 They highlight lessons learned, such as the Docker shim deprecation incident, which underscored the need to tailor messages for different audiences and the importance of concise, accessible communication.
 Success is measured variably, often by follower growth and project-specific outcomes, with ongoing evaluation of platforms and strategies to best reach their diverse, expanding audience.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

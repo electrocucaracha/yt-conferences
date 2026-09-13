@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Closing - Robert Sirchia"
-description: "The speaker expresses heartfelt gratitude to attendees and emphasizes the importance of the project pavilion, encouraging everyone to visit it as it is separate from the vendor booths. Attendees are urged to engage with projects, especially..."
+nav_order: 256
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  The speaker expresses heartfelt gratitude to attendees and emphasizes
+  the importance of the project pavilion, encouraging everyone to visit it as it is
+  separate from the vendor booths. Attendees are urged to engage with projects, especially...
 resource: https://www.youtube.com/watch?v=1WELP5EHd2k
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ The speaker expresses heartfelt gratitude to attendees and emphasizes the import
 Attendees are urged to engage with projects, especially those seeking contributors from different companies, and to participate in presentations, such as those by George Castro.
 The speaker also offers practical advice to newcomers at KubeCon, suggesting they stay hydrated, wear comfortable shoes, relax, and avoid excessive partying.
 The remarks conclude with well wishes for a positive KubeCon experience, followed by applause.
+
 # Main Points
 
 |   # | Main point                                                                                                            |

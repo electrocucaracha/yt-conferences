@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | EnvoyCon: Zone Aware Routing With Per-Locality Load
+  Awareness- Isaac Wilson"
+nav_order: 64
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | EnvoyCon: Zone Aware Routing With Per-Locality Load Awareness- Isaac Wilson"
-description: "Isaac from The Trade Desk discusses challenges and solutions related to zone-aware routing within Envoy in their on-premise data centers, where workloads are distributed across multiple racks and zones using Kubernetes and Envoy Gateway. He..."
+description:
+  Isaac from The Trade Desk discusses challenges and solutions related
+  to zone-aware routing within Envoy in their on-premise data centers, where workloads
+  are distributed across multiple racks and zones using Kubernetes and Envoy Gateway.
+  He...
 resource: https://www.youtube.com/watch?v=ZTacKbmGfMI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that while Envoy’s zone-aware routing generally works well by pref
 To address this, Isaac explores using dynamic modules and a central load reporting service (LRS) to aggregate load data and enable real-time, client-side weighted round robin routing that accounts for actual load per zone.
 He also describes ongoing work to add locality-aware picking policies within Envoy, allowing for more balanced request distribution without sacrificing local preference.
 Isaac highlights the benefits of dynamic modules for extending Envoy without custom builds, shares experiences with Orca metrics and probe traffic for better load awareness, and answers audience questions about migration from HAProxy, dynamic module implementation, and comparisons to similar solutions like Spotify’s proxyless approach.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

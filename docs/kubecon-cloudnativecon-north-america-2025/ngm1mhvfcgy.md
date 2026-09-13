@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Zero-Downtime Telemetry: Hot Reloading OpenTelemetry Collector Pipel... Amir
+  Jakoby & Shiran Melamed"
+nav_order: 347
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Zero-Downtime Telemetry: Hot Reloading OpenTelemetry Collector Pipel... Amir Jakoby & Shiran Melamed"
-description: "The speakers discuss the challenges of managing telemetry data, such as logs, metrics, and traces, at massive scale without data loss or downtime, drawing parallels to navigating crowds in a train station. They highlight incidents where con..."
+description:
+  The speakers discuss the challenges of managing telemetry data, such
+  as logs, metrics, and traces, at massive scale without data loss or downtime, drawing
+  parallels to navigating crowds in a train station. They highlight incidents where
+  con...
 resource: https://www.youtube.com/watch?v=ngm1mHVfcgY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They highlight incidents where configuration changes caused widespread outages, 
 To address this, they developed a "hot reload processor" that allows targeted, in-place configuration updates within the collector, minimizing data loss and latency by draining and swapping processors without restarting the entire system.
 This solution also introduces observability features and rollback capabilities, though it brings new technical and operational challenges, such as configuration validation and monitoring.
 The team has open-sourced their processor, inviting community feedback and collaboration to further improve reliability and flexibility in telemetry data management.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

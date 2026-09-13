@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Patch Me If You Can: Tackling Outdated Addons Before They Become... Stevie
+  Caldwell & Andy Suderman"
+nav_order: 196
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Patch Me If You Can: Tackling Outdated Addons Before They Become... Stevie Caldwell & Andy Suderman"
-description: "In this talk, Stevie Caldwell and Andy from Fairwinds discuss the critical role of Kubernetes add-ons, emphasizing that despite their name, add-ons are essential for cluster functionality, scalability, and security. They highlight the incre..."
+description:
+  In this talk, Stevie Caldwell and Andy from Fairwinds discuss the critical
+  role of Kubernetes add-ons, emphasizing that despite their name, add-ons are essential
+  for cluster functionality, scalability, and security. They highlight the incre...
 resource: https://www.youtube.com/watch?v=2SoLCWl800w
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the increasing number and severity of vulnerabilities (CVEs) affe
 Drawing parallels to the evolution of Kubernetes upgrades, they advocate for a proactive, continuous upgrade approach—"bring the pain forward"—to minimize tech debt and security risks.
 The speakers recommend leveraging automation and open source tools like Pluto, Nova, and Go No Go to streamline upgrades, monitor deprecated APIs, and assess upgrade safety, while also acknowledging the persistent challenges of time constraints and incomplete solutions for zero-CVE environments.
 They conclude by encouraging regular research, staged testing, and frequent upgrades as best practices for managing Kubernetes add-ons effectively.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

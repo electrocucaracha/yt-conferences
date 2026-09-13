@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "[Session] Resources: Building the Next Wave of MCP Apps with Shaun Smith,
+  LLMindset"
+nav_order: 5
+parent: Mcp Dev Summit Na 2025
 type: Video Note
-title: "[Session] Resources: Building the Next Wave of MCP Apps with Shaun Smith, LLMindset"
-description: "The speaker discusses their experience integrating with MCP (Modular Communication Protocol), highlighting how MCP servers and tools enable large language models (LLMs) to combine tool calls and generate valuable outputs with minimal coordi..."
+description:
+  The speaker discusses their experience integrating with MCP (Modular
+  Communication Protocol), highlighting how MCP servers and tools enable large language
+  models (LLMs) to combine tool calls and generate valuable outputs with minimal coordi...
 resource: https://www.youtube.com/watch?v=2Jy3z05MspY
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They note the rapid adoption of MCP tools, driven by their ease of use and compa
 The talk emphasizes the importance of resources—structured data with MIME types and URIs—which provide semantic context and can be embedded in prompts and tool results to improve LLM task performance and user experience.
 The speaker also describes emerging user experience patterns, the benefits of in-context learning, and the potential of URI schemes to facilitate interoperability and richer applications.
 They conclude by encouraging involvement in the MCP working group to further refine the protocol and enhance the ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

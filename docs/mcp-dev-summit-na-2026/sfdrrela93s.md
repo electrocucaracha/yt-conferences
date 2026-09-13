@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Path to V2 for MCP SDKs - Max Isbey, Anthropic
+nav_order: 71
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Path to V2 for MCP SDKs - Max Isbey, Anthropic"
-description: "Max, the maintainer of the Python MCP SDK, presents an overview of the upcoming version 2 changes, focusing on transport mechanisms and breaking updates affecting both Python and other SDKs. He explains the evolution from standard IO and HT..."
+description:
+  Max, the maintainer of the Python MCP SDK, presents an overview of the
+  upcoming version 2 changes, focusing on transport mechanisms and breaking updates
+  affecting both Python and other SDKs. He explains the evolution from standard IO
+  and HT...
 resource: https://www.youtube.com/watch?v=SfdRReLa93s
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ The new June specification introduces a stateless mode using multi-round trip re
 Additional changes include renaming components to reduce confusion, making server definitions more explicit and type-safe, introducing pluggable transports, and adopting a dispatcher pattern to facilitate custom transport integration.
 Max also details efforts to ensure smooth migration through comprehensive guides and automated evaluation frameworks, with similar processes underway for the TypeScript SDK.
 The talk concludes with a Q&A addressing technical nuances of the new stateless approach and its implications for state management and backward compatibility.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                 |

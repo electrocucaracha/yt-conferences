@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "When OTTL Goes Off the Rails: Debugging Transformations wit... Edmo Vamerlatti
+  Costa & Tyler Helmuth"
+nav_order: 402
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "When OTTL Goes Off the Rails: Debugging Transformations wit... Edmo Vamerlatti Costa & Tyler Helmuth"
-description: "In this session, Tyler Helmouth and Aimo provide an intermediate-level overview of debugging the OpenTelemetry Transformation Language (OTTL) with confidence, emphasizing the importance of understanding the OpenTelemetry (OTEL) data model a..."
+description:
+  In this session, Tyler Helmouth and Aimo provide an intermediate-level
+  overview of debugging the OpenTelemetry Transformation Language (OTTL) with confidence,
+  emphasizing the importance of understanding the OpenTelemetry (OTEL) data model
+  a...
 resource: https://www.youtube.com/watch?v=465RlwgsNHg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ The presenters demonstrate three key debugging tools: the debug exporter, which 
 Through several live examples, they illustrate common pitfalls such as case sensitivity in conditions, manipulating shared resources, and the importance of selecting the appropriate context for efficient transformations.
 The session concludes with key takeaways: always inspect and understand your data as seen by the collector, leverage the available debugging tools, and experiment safely to ensure reliable OTTL transformations.
 Audience questions address topics like integrating OTTL into CI/CD pipelines and the current limitations of debug log granularity within the collector.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                          |

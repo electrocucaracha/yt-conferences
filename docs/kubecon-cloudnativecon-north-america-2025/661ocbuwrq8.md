@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "A Parallel World: Understanding CNCF's TOC, TAGs, and TCGs - Eddie Knight,
+  Sonatype"
+nav_order: 4
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "A Parallel World: Understanding CNCF's TOC, TAGs, and TCGs - Eddie Knight, Sonatype"
-description: "Eddie Knight, a sponsored contributor at Sonatype, shares his journey from early freelance web development to becoming deeply involved in open source communities, particularly within the CNCF and the Fintech Open Source Foundation. He recou..."
+description:
+  Eddie Knight, a sponsored contributor at Sonatype, shares his journey
+  from early freelance web development to becoming deeply involved in open source
+  communities, particularly within the CNCF and the Fintech Open Source Foundation.
+  He recou...
 resource: https://www.youtube.com/watch?v=661OcBuwRq8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He recounts formative experiences, such as accidentally causing a major outage a
 Eddie describes his progression from maintaining open source projects to leading and governing them, emphasizing the importance of collaboration, shared pain points, and community-driven solutions.
 He explains the structure and responsibilities of the CNCF’s Technical Oversight Committee (TOC), Technical Advisory Groups (TAGs), subprojects, initiatives, and Technical Community Groups (TCGs), noting recent governance changes and the roles each group plays in fostering project maturity.
 Eddie encourages both newcomers and experienced professionals to get involved in these groups, stressing that participation and shared expertise are vital to the growth and health of the open source ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

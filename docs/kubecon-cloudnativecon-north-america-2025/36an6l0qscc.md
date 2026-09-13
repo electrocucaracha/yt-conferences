@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Unlocking Financial Progress: Credit Karma's AI Assista... Raj Kiran Gupta
+  Katakam & Sukanya Moorthy"
+nav_order: 333
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Unlocking Financial Progress: Credit Karma's AI Assista... Raj Kiran Gupta Katakam & Sukanya Moorthy"
-description: "The speakers, staff machine learning engineers at Credit Karma (part of Intuit), discuss the development and deployment of Credit Karma’s financial assistant, specifically the “CY solution,” which leverages large language models (LLMs) and..."
+description:
+  The speakers, staff machine learning engineers at Credit Karma (part
+  of Intuit), discuss the development and deployment of Credit Karma’s financial assistant,
+  specifically the “CY solution,” which leverages large language models (LLMs) and...
 resource: https://www.youtube.com/watch?v=36aN6L0qSCc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They emphasize the importance of robust guardrails—both before and after LLM c
 Initially, they adopted a sidecar pattern for rapid MVP deployment, but as scaling challenges emerged (such as overprovisioning and debugging difficulties), they transitioned to Kubernetes-based model serving, enabling independent scaling, cost reduction, and faster iteration.
 This evolution allowed them to remain cloud-agnostic and efficiently onboard new models and guardrails, ultimately supporting a complex, multi-cloud ML infrastructure.
 Key lessons include starting simple and evolving with scale, ruthlessly separating business logic from model inference, and recognizing that generative AI introduces unique orchestration and compliance challenges compared to traditional ML systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                       |

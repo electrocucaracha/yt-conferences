@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Overcoming Burnout in Engineering & Tech | Strategies to Thrive in Your Career
+  and Wellbeing
+nav_order: 37
+parent: Leadership Skills
 type: Video Note
-title: "Overcoming Burnout in Engineering & Tech | Strategies to Thrive in Your Career and Wellbeing"
-description: "In this episode, the host interviews Richard Donovan, a former software developer turned mindset coach and personal trainer who specializes in helping software developers address burnout, mental health, and overall well-being. Richard share..."
+description:
+  In this episode, the host interviews Richard Donovan, a former software
+  developer turned mindset coach and personal trainer who specializes in helping software
+  developers address burnout, mental health, and overall well-being. Richard share...
 resource: https://www.youtube.com/watch?v=ewTRQjtNo2Y
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Richard shares his journey from being an introverted, self-taught developer to r
 He emphasizes that perception shapes reality, and that self-awareness and actively questioning personal beliefs are key to overcoming challenges like imposter syndrome and burnout.
 Richard provides practical advice, such as starting with small, manageable changes and reflecting on what one truly wants and does not want in life, to help developers gain clarity and make better decisions.
 He also highlights the importance of shifting perspectives when moving into leadership roles and advocates for integrating mindset work proactively within teams and organizations to enhance performance and well-being.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

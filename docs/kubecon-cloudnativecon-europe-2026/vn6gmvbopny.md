@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Sponsored Keynote: Inference and Sovereign AI: Scaling Cloud-Nat... Karena
+  Angell & Vincent Caldeira"
+nav_order: 343
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Sponsored Keynote: Inference and Sovereign AI: Scaling Cloud-Nat... Karena Angell & Vincent Caldeira"
-description: "The speaker discusses the challenges and solutions involved in scaling generative AI (GenAI) systems while maintaining data sovereignty. As organizations increasingly prioritize sovereign AI and use Kubernetes to scale AI workloads, traditi..."
+description:
+  The speaker discusses the challenges and solutions involved in scaling
+  generative AI (GenAI) systems while maintaining data sovereignty. As organizations
+  increasingly prioritize sovereign AI and use Kubernetes to scale AI workloads, traditi...
 resource: https://www.youtube.com/watch?v=Vn6gmvbOpNY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ As organizations increasingly prioritize sovereign AI and use Kubernetes to scal
 To address this, the team is building a Kubernetes-native, open-source AI factory that ensures interoperability, avoids vendor lock-in, and supports regulatory compliance, such as the EU AI Act.
 Their approach integrates tools like KServe for abstraction and autoscaling, a new API inference gateway for AI-aware load balancing, and LLMD for intelligent, cost-effective distributed inference and resource optimization.
 This modular stack transforms standard clusters into efficient, sovereign inference engines by enabling advanced, state-aware scheduling and routing, maximizing GPU performance and minimizing delays.
+
 # Main Points
 
 |   # | Main point                                                                                                              |

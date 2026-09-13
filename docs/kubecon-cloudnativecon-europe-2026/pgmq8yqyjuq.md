@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Banking on Reliability: Cloud Native SRE Practices in Financial Services -
+  Clément Nussbaumer"
+nav_order: 24
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Banking on Reliability: Cloud Native SRE Practices in Financial Services - Clément Nussbaumer"
-description: "The speaker, a systems engineer at Post Finance, a major Swiss bank, discusses the implementation of site reliability engineering (SRE) principles to improve service reliability, particularly focusing on Kubernetes clusters. Initially, the..."
+description:
+  The speaker, a systems engineer at Post Finance, a major Swiss bank,
+  discusses the implementation of site reliability engineering (SRE) principles to
+  improve service reliability, particularly focusing on Kubernetes clusters. Initially,
+  the...
 resource: https://www.youtube.com/watch?v=pgmQ8YqyjUQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ By defining and monitoring SLOs, they identified and addressed issues such as un
 The talk also covers the development and open-sourcing of monitoring tools like Cubers, which performs health checks and neighbor latency detection, and the importance of efficient end-to-end testing to proactively catch service failures.
 A case study on sporadic 502 errors reveals the significance of aligning backend and ingress timeout settings, illustrating how even rare errors can uncover critical system insights.
 The speaker concludes by emphasizing the value of SLOs, open-source collaboration, comprehensive testing, and attention to every error, no matter how infrequent.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "How Telemetry Data Moves: Lessons From Building a High-Performance Open Source
+  Agent - Eduardo Silva"
+nav_order: 144
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "How Telemetry Data Moves: Lessons From Building a High-Performance Open Source Agent - Eduardo Silva"
-description: "In this session, Eduardo discusses the fundamental concepts of how data moves within real systems, particularly focusing on the flow between user space and kernel space in operating systems. He explains that data pipelines typically involve..."
+description:
+  In this session, Eduardo discusses the fundamental concepts of how data
+  moves within real systems, particularly focusing on the flow between user space
+  and kernel space in operating systems. He explains that data pipelines typically
+  involve...
 resource: https://www.youtube.com/watch?v=SdovZWMJsgs
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that data pipelines typically involve collecting data from various s
 Eduardo emphasizes the importance of understanding system calls, memory management, and the roles of event loops, multi-threading, and coroutines in building scalable and resilient data processing applications.
 He uses the architecture of Fluent Bit as an example, highlighting its evolution toward high performance and low resource consumption by adopting asynchronous I/O and event-driven models, similar to advancements seen in web servers like Apache and NGINX.
 The talk concludes by encouraging developers to anticipate bottlenecks, design for failure scenarios, and leverage concurrency to efficiently handle increasing data volumes.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

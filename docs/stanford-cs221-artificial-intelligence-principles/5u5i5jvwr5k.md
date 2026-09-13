@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 20: Fireside Chat, Conclusion"
-description: "The fireside chat featured Percy, the instructor, discussing his journey into AI, the evolution of the field, and its current societal impact. Percy reflected on how early AI education focused on theory and classical techniques, with machin..."
+nav_order: 12
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The fireside chat featured Percy, the instructor, discussing his journey
+  into AI, the evolution of the field, and its current societal impact. Percy reflected
+  on how early AI education focused on theory and classical techniques, with machin...
 resource: https://www.youtube.com/watch?v=5u5I5jvWR5k
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -18,6 +29,7 @@ He addressed concerns about academia’s relevance, arguing that universities re
 On education and careers, Percy advised students to focus on adaptability, learning, and collaboration, noting that the most valuable skills are the ability to learn quickly and work well with others in a rapidly changing landscape.
 He encouraged students to look beyond obvious AI applications and consider interdisciplinary opportunities, and he discussed the importance of transparency, ethics, and public awareness in AI development.
 The session concluded with practical advice on research involvement and reassurances about the enduring value of a strong foundational education in computer science and AI.
+
 # Main Points
 
 |   # | Main point                                                                                                                    |

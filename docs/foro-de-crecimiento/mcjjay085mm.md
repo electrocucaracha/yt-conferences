@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Como dar un salto cuántico | Mauricio Benoist - sesión 42
+nav_order: 10
+parent: Foro De Crecimiento
 type: Video Note
-title: "Como dar un salto cuántico | Mauricio Benoist - sesión 42"
-description: 'En esta conversación, Mauricio Benoist, experto en neurociencia y desarrollo personal, explica cómo los verdaderos cambios en la vida, llamados "saltos cuánticos", se logran al trabajar en los niveles neurológicos propuestos por Robert Dilt...'
+description:
+  En esta conversación, Mauricio Benoist, experto en neurociencia y desarrollo
+  personal, explica cómo los verdaderos cambios en la vida, llamados "saltos cuánticos",
+  se logran al trabajar en los niveles neurológicos propuestos por Robert Dilt...
 resource: https://www.youtube.com/watch?v=mcJJay085MM
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ En esta conversación, Mauricio Benoist, experto en neurociencia y desarrollo pe
 Benoist enfatiza que la identidad se forma en la infancia y condiciona el éxito y la relación con el dinero, por lo que es fundamental revisar y transformar las imágenes mentales y creencias limitantes.
 Destaca la importancia de conectar con un propósito personal, rodearse de un contexto que impulse el crecimiento y adoptar conductas alineadas con el bienestar propio, en lugar de imitar ciegamente a los ricos.
 Finalmente, invita a abandonar la mentalidad de víctima y asumir el protagonismo de la propia vida, buscando libertad en conciencia, emociones, finanzas, tiempo y geografía para alcanzar una vida épica.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

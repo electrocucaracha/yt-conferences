@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Paying Engineers like Salespeople – Arman Hezarkhani, Tenex
+nav_order: 5
+parent: Aie Code 2025 Ai Leadership
 type: Video Note
-title: "Paying Engineers like Salespeople – Arman Hezarkhani, Tenex"
-description: "Arman, co-founder of 10X, discusses his company's unique approach to compensating engineers by paying them based on completed story points, similar to how salespeople are incentivized. He explains that traditional compensation models—hourly..."
+description:
+  Arman, co-founder of 10X, discusses his company's unique approach to
+  compensating engineers by paying them based on completed story points, similar to
+  how salespeople are incentivized. He explains that traditional compensation models—hourly...
 resource: https://www.youtube.com/watch?v=4mRekpZpBZs
-tags: ["aie-code-2025-ai-leadership", video, learning]
+tags:
+  - aie-code-2025-ai-leadership
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains that traditional compensation models—hourly, salary with bonuses, 
 At 10X, engineers receive a flat base pay and additional compensation each quarter based on the number of story points they complete, with strategists and engineers working together to scope and deliver projects.
 This model has enabled 10X to hire top talent and deliver high-quality, maintainable code quickly, as demonstrated by successful AI projects for clients in advertising and retail.
 Arman acknowledges potential risks such as inflated story points and quality concerns, but addresses them through careful role structuring, rigorous internal and client reviews, and a strong emphasis on hiring the right people, ultimately arguing that rethinking compensation can unlock greater employee potential in the age of AI.
+
 # Main Points
 
 |   # | Main point                                                                                                                    |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Why Engineering Managers and Technical Leaders Struggle With Giving Negative
+  Feedback | 10 Reasons
+nav_order: 42
+parent: Leadership Skills
 type: Video Note
-title: "Why Engineering Managers and Technical Leaders Struggle With Giving Negative Feedback | 10 Reasons"
-description: "In this video, Doug Howard addresses the common challenges engineering managers and technical leaders face when giving negative or constructive feedback to their teams. He outlines ten main barriers, including personal discomfort due to ana..."
+description:
+  In this video, Doug Howard addresses the common challenges engineering
+  managers and technical leaders face when giving negative or constructive feedback
+  to their teams. He outlines ten main barriers, including personal discomfort due
+  to ana...
 resource: https://www.youtube.com/watch?v=PQAgMu3E7g8
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ In this video, Doug Howard addresses the common challenges engineering managers 
 He outlines ten main barriers, including personal discomfort due to analytical thinking and lack of emotional intelligence, absence of positive role models, uncertainty about how to deliver feedback, time constraints, fear of damaging relationships, pressure to maintain technical expertise, lack of training, preference for positive reinforcement, fear of demotivating team members, and company culture.
 Doug emphasizes that overcoming these obstacles requires self-awareness, emotional intelligence, intentional training, and the creation of a feedback-oriented team culture.
 He encourages managers to prioritize feedback, seek relevant training, and practice effective communication techniques to support both their team's growth and their own development as leaders.
+
 # Main Points
 
 |   # | Main point                                                                                                                               |

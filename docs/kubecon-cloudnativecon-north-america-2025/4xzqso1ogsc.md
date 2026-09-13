@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: OpenFGA: Google Zanzibar Style Authorization Made
+  Developer-Fri... Tyler Nix"
+nav_order: 234
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: OpenFGA: Google Zanzibar Style Authorization Made Developer-Fri... Tyler Nix"
-description: "Tyler Nicks, a product manager at Octa, introduces Open FGA, a centralized, developer-friendly authorization system based on relationship-based access control, blending elements of role-based and attribute-based models and inspired by Googl..."
+description:
+  Tyler Nicks, a product manager at Octa, introduces Open FGA, a centralized,
+  developer-friendly authorization system based on relationship-based access control,
+  blending elements of role-based and attribute-based models and inspired by Googl...
 resource: https://www.youtube.com/watch?v=4xZqSO1OGSc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Open FGA, now an incubating project within the CNCF, is open-source and maintain
 The system requires an authorization model and tuples (user-relation-object data) to evaluate policies, supporting various databases such as SQLite, Postgres, and MySQL, and offers multiple SDKs.
 Open FGA simplifies the creation and iteration of complex, nested permission hierarchies, allowing for cascading and inherited permissions across resources like organizations, folders, and documents.
 Tyler invites interested developers to connect at the project pavilion and attend further talks on Open FGA.
+
 # Main Points
 
 |   # | Main point                                                                                                                   |

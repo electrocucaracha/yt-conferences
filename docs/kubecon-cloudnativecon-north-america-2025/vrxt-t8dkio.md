@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Maximizing Global Potential: Cost-Op... Wei Jiang, Jingkang Jiang, Michael
+  McCune & Praseeda Sathaye"
+nav_order: 166
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Maximizing Global Potential: Cost-Op... Wei Jiang, Jingkang Jiang, Michael McCune & Praseeda Sathaye"
-description: "The session discusses strategies for cost-optimized, resilient GPU workload scheduling across multiple cloud providers and regions using open-source technologies like Kubernetes, Cluster API, Carpenter, and Karmada. The speakers introduce t..."
+description:
+  The session discusses strategies for cost-optimized, resilient GPU workload
+  scheduling across multiple cloud providers and regions using open-source technologies
+  like Kubernetes, Cluster API, Carpenter, and Karmada. The speakers introduce t...
 resource: https://www.youtube.com/watch?v=VrXt_T8DkIo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Their solution treats all cloud providers as a unified GPU resource pool, levera
 They address specific challenges such as traffic routing proportional to replica distribution, balancing cost and reliability with a mix of on-demand and spot instances, dynamic adjustment of workloads based on real-time capacity and pricing, and handling spot interruptions.
 The team demonstrates their approach and acknowledges current limitations, such as setup complexity and limited provider support, while outlining future improvements for greater simplicity and broader compatibility.
 The Q&A highlights ongoing challenges in networking, security, and authentication across clouds, as well as the potential for integrating on-premises resources, emphasizing that while the approach is complex and evolving, it is increasingly in demand and under active development.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                |

@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: FluxCD - Gitops For All Sizes - Matheus Pimenta, Maintainer"
-description: "Matos Pimementa, a Flux maintainer at Control Plane, introduces Flux as a lightweight, Kubernetes-native GitOps tool designed for automating CI/CD pipelines with a focus on performance and security. Flux integrates deeply with the Kubernete..."
+nav_order: 263
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Matos Pimementa, a Flux maintainer at Control Plane, introduces Flux
+  as a lightweight, Kubernetes-native GitOps tool designed for automating CI/CD pipelines
+  with a focus on performance and security. Flux integrates deeply with the Kubernete...
 resource: https://www.youtube.com/watch?v=qln3o8Ol7pQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Flux integrates deeply with the Kubernetes security model, offers comprehensive 
 Key features include robust Helm support, native server-side apply, advanced health checks with dependency management, and the recent addition of cell expressions for customizable health assessments.
 The Flux Operator project now enables declarative management of Flux itself, including a new UI and MCP server, while recent enhancements also cover agent skills, OCI artifact support, and OpenTelemetry integration for resource tracing.
 Pimementa concludes by inviting further discussion and highlighting ongoing improvements to the Flux ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Open Policy Agent (OPA) Intro & Deep Dive - Philip Conrad, Tyler Schade, Rita
+  Zhang & Jaydip Gabani
+nav_order: 188
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Open Policy Agent (OPA) Intro & Deep Dive - Philip Conrad, Tyler Schade, Rita Zhang & Jaydip Gabani"
-description: "The Open Policy Agent (OPA) is a general-purpose policy engine that generates decisions about how to behave in various scenarios. It's used for Kubernetes admission controllers, validation steps, and CI/CD pipelines, among others. OPA allow..."
+description:
+  The Open Policy Agent (OPA) is a general-purpose policy engine that generates
+  decisions about how to behave in various scenarios. It's used for Kubernetes admission
+  controllers, validation steps, and CI/CD pipelines, among others. OPA allow...
 resource: https://www.youtube.com/watch?v=tDBYMF2XXLA
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -18,6 +31,7 @@ New features include parameterized testing, improved performance, and the abilit
 OPA Envoy, a plugin for Envoy proxy, provides transparent authorization for services running behind an Envoy proxy.
 Gatekeeper, another project, offers audit controller and admission controller capabilities using Cell and Rego as its policy engine.
 The Open Policy Agent has reached its 10th anniversary and is being used in various cloud-native environments, including Kubernetes, Azure, and GKE.
+
 # Main Points
 
 |   # | Main point |

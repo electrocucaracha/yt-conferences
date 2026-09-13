@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Ctrl-X, Ctrl-V Your Pods: WG Checkpoint Restore in Kub... Peter H, Adrian
+  R, Radostin S & Viktória S"
+nav_order: 80
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Ctrl-X, Ctrl-V Your Pods: WG Checkpoint Restore in Kub... Peter H, Adrian R, Radostin S & Viktória S"
-description: "In this session, Razin, Peter, and Victoria introduce the Kubernetes Checkpoint Restore Working Group, outlining the background, motivations, and current progress of integrating checkpoint and restore functionality into Kubernetes. Checkpoi..."
+description:
+  In this session, Razin, Peter, and Victoria introduce the Kubernetes
+  Checkpoint Restore Working Group, outlining the background, motivations, and current
+  progress of integrating checkpoint and restore functionality into Kubernetes. Checkpoi...
 resource: https://www.youtube.com/watch?v=lLxrtmpIlMk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Checkpoint restore, originally developed for saving and resuming application sta
 The group describes the technical challenges and historical development, including initial implementations in Docker and Podman, and the move toward Kubernetes-native support, with a focus on minimal viable use cases like forensic container checkpointing and warm start scenarios.
 They discuss the complexities of designing APIs that balance flexibility, security, and practicality, as well as open questions around pod identity, storage, security, and integration with higher-level Kubernetes objects.
 The session concludes with a call for community participation to help shape the feature, address open questions, and ensure the solution meets diverse user needs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                         |

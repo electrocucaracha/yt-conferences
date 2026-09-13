@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Automating Kubernetes Cluster Updates: Achieving Z... Haitao Zhang, Ling Ling,
+  Wei Jiang & Baofa Fan"
+nav_order: 20
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Automating Kubernetes Cluster Updates: Achieving Z... Haitao Zhang, Ling Ling, Wei Jiang & Baofa Fan"
-description: "The speaker discusses the challenges of updating Kubernetes clusters, particularly when it comes to node upgrades. They introduce two strategies for automating this process: rowing update and kipanda. Rowing update involves upgrading nodes..."
+description:
+  "The speaker discusses the challenges of updating Kubernetes clusters,
+  particularly when it comes to node upgrades. They introduce two strategies for automating
+  this process: rowing update and kipanda. Rowing update involves upgrading nodes..."
 resource: https://www.youtube.com/watch?v=rAIcQvKBuZA
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Rowing update involves upgrading nodes one by one, while kipanda takes a snapsho
 Kipanda also provides features such as node class management and intelligent node selection to optimize scaling and cost savings.
 However, kipanda has limitations, including no gradual update control and no built-in fallback strategy.
 The speaker concludes that cloud providers like Cloud AI are working to extend kipanda's features with intelligent scaling and automation capabilities.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

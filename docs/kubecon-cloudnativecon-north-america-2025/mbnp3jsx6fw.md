@@ -1,11 +1,22 @@
 ---
+layout: default
+title: The Enterprise Is Ready for gRPC - Alex Van Boxel, Collibra
+nav_order: 305
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "The Enterprise Is Ready for gRPC - Alex Van Boxel, Collibra"
-description: "In this talk, Alex, a principal architect at Calibra, discusses the benefits of using gRPC and its ecosystem for enterprise solutions, focusing on its compact binary format, extensibility, and robust versioning. He explains how gRPC, built..."
+description:
+  In this talk, Alex, a principal architect at Calibra, discusses the benefits
+  of using gRPC and its ecosystem for enterprise solutions, focusing on its compact
+  binary format, extensibility, and robust versioning. He explains how gRPC, built...
 resource: https://www.youtube.com/watch?v=mbnP3jSx6fw
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains how gRPC, built on Protocol Buffers (proto), efficiently encodes dat
 Alex highlights the advantages of proto’s domain-specific language for contract definition, inline documentation, and deprecation management, making it accessible even to less technical users and supporting smooth versioning.
 He emphasizes the reuse of messages across RPC and messaging systems, the canonical conversion from proto to JSON, and the ability to generate REST interfaces via tools like gRPC Gateway and Envoy.
 Finally, Alex notes that adopting gRPC can help modularize monolithic systems and facilitate future scalability, underscoring the unified approach to data contracts as a key selling point for enterprises.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

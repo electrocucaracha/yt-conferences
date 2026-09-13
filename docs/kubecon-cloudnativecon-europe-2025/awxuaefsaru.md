@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "WG-Batch Updates: What’s New and What Is Next? - Marcin Wielgus, Google"
-description: "The batch working group aims to enhance Kubernetes support for high-performance computing, AI, and machine learning workloads. Q is a workload-level scheduler that operates on CS and holds, determining when to start or stop workloads, and s..."
+nav_order: 362
+parent: Kubecon Cloudnativecon Europe 2025
+type: Video Note
+description:
+  The batch working group aims to enhance Kubernetes support for high-performance
+  computing, AI, and machine learning workloads. Q is a workload-level scheduler that
+  operates on CS and holds, determining when to start or stop workloads, and s...
 resource: https://www.youtube.com/watch?v=aWxuaEFSarU
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Q is a workload-level scheduler that operates on CS and holds, determining when 
 It also manages resource quotas, maximizes cluster utilization, and supports specialized hardware.
 The group has launched several projects, including QCTL for day-to-day operations, APIs for job management, and K jobs for easy submission of batch workflows.
 These tools aim to provide a cohesive ecosystem for batch workloads in Kubernetes, making it easier for users to manage complex workflows and leverage the power of Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

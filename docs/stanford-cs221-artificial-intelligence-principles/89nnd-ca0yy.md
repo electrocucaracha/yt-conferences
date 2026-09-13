@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 4: Learning III"
-description: "The lecture introduces deep learning, beginning with a review of linear regression and classification, and then motivating the need for nonlinear methods to achieve more powerful machine learning models. The instructor transitions from buil..."
+nav_order: 15
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture introduces deep learning, beginning with a review of linear
+  regression and classification, and then motivating the need for nonlinear methods
+  to achieve more powerful machine learning models. The instructor transitions from
+  buil...
 resource: https://www.youtube.com/watch?v=89NND-Ca0yY
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ The lecture covers the basics of defining and training linear models in PyTorch,
 This leads to the introduction of multi-layer perceptrons (MLPs), where the addition of nonlinear activation functions like ReLU between linear layers allows for greater expressivity.
 The lecture then discusses deep neural networks, challenges such as vanishing and exploding gradients, and practical solutions including residual connections, layer normalization, careful initialization, and the use of stochastic gradient descent.
 Throughout, the instructor emphasizes the modularity and flexibility of PyTorch, the importance of monitoring loss during training, and the need for experience to develop intuition for training deep networks.
+
 # Main Points
 
 |   # | Main point                                                                                                |

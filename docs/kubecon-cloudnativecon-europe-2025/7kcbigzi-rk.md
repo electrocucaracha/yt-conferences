@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Building & Operating a Large-scale HPC AI Cluster on Kubernetes - Kalyan Saladi
+  & Chandan Avdhut
+nav_order: 32
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Building & Operating a Large-scale HPC AI Cluster on Kubernetes - Kalyan Saladi & Chandan Avdhut"
-description: "The presentation discusses building an AI HPC cluster on top of Kubernetes in public cloud, with a focus on researcher experience and reliability. The speaker explains how they used Kubernetes to manage infrastructure across multiple cloud..."
+description:
+  The presentation discusses building an AI HPC cluster on top of Kubernetes
+  in public cloud, with a focus on researcher experience and reliability. The speaker
+  explains how they used Kubernetes to manage infrastructure across multiple cloud...
 resource: https://www.youtube.com/watch?v=7KCBigZi_Rk
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The presentation discusses building an AI HPC cluster on top of Kubernetes in pu
 The speaker explains how they used Kubernetes to manage infrastructure across multiple cloud providers, while maintaining a consistent experience for researchers who use Slurm for their workloads.
 The team implemented custom solutions, such as a CLI to simplify the research workflow and a monitoring system to track node failures, to ensure reliability and performance.
 They also discussed the challenges of scaling HPC workloads in Kubernetes and the importance of observability.
+
 # Main Points
 
 |   # | Main point                                                                                               |

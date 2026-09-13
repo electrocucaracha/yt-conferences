@@ -1,11 +1,22 @@
 ---
+layout: default
+title: El Poder del Enfoque para Crear la Vida que Sueñas | Danny López - Sesión 22
+nav_order: 19
+parent: Foro De Crecimiento
 type: Video Note
-title: "El Poder del Enfoque para Crear la Vida que Sueñas | Danny López - Sesión 22"
-description: "En esta conversación, Dani López, empresario y conferencista, profundiza sobre la importancia del enfoque para el crecimiento personal y profesional. Explica que enfocarse no es solo cumplir tareas diarias, sino tener claridad en los objeti..."
+description:
+  En esta conversación, Dani López, empresario y conferencista, profundiza
+  sobre la importancia del enfoque para el crecimiento personal y profesional. Explica
+  que enfocarse no es solo cumplir tareas diarias, sino tener claridad en los objeti...
 resource: https://www.youtube.com/watch?v=x1WwFZT02ZA
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Explica que enfocarse no es solo cumplir tareas diarias, sino tener claridad en 
 Destaca que el enfoque requiere sacrificio, salir de la zona de confort y una planificación detallada, incluyendo la gestión del tiempo y la agenda, priorizando tanto el trabajo como la vida familiar.
 Dani resalta que la productividad y el éxito dependen de mantener la energía enfocada, evitar la procrastinación y rodearse de personas que sumen.
 Finalmente, subraya que el verdadero logro no está solo en lo material, sino en el crecimiento personal y en el impacto positivo sobre los seres queridos, recomendando buscar satisfacción en los intangibles y mantener siempre la determinación para avanzar.
+
 # Main Points
 
 |   # | Main point                                                                                                     |

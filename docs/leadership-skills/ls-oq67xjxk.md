@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Here’s Why You’re Struggling to Advance in Your Engineering Career | You’re
+  Missing These Skills!
+nav_order: 14
+parent: Leadership Skills
 type: Video Note
-title: "Here’s Why You’re Struggling to Advance in Your Engineering Career | You’re Missing These Skills!"
-description: "Doug Howard, a licensed engineer and manager with 15 years of experience, discusses how engineering education heavily emphasizes logic and technical skills while neglecting the development of social skills. He explains that this imbalance l..."
+description:
+  Doug Howard, a licensed engineer and manager with 15 years of experience,
+  discusses how engineering education heavily emphasizes logic and technical skills
+  while neglecting the development of social skills. He explains that this imbalance
+  l...
 resource: https://www.youtube.com/watch?v=Ls_Oq67XjXk
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that this imbalance leads many engineers to become overdependent on 
 Drawing from his own career, Doug shares that relying solely on technical expertise led to frustration and limited progress, but learning and systematizing social skills transformed his professional life.
 He emphasizes that social skills, like riding a bike, can be learned with practice and are essential for career growth, encouraging engineers to proactively develop these abilities.
 Doug concludes by inviting viewers to subscribe for more strategies on building social skills and advancing their engineering careers.
+
 # Main Points
 
 |   # | Main point                                                                                                                              |

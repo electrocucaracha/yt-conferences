@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Spiderpool: Dynamic Topology-Aware RDMA Allocation
+  For GPU... Weizhou Lan"
+nav_order: 237
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Spiderpool: Dynamic Topology-Aware RDMA Allocation For GPU... Weizhou Lan"
-description: "The speaker discusses Sparo, a dynamic topology-aware RDMA allocation solution designed for GPU-based AI workloads in multi-tenant inference clusters. Efficient GPU and RDMA device allocation is crucial, especially when distributed inferenc..."
+description:
+  The speaker discusses Sparo, a dynamic topology-aware RDMA allocation
+  solution designed for GPU-based AI workloads in multi-tenant inference clusters.
+  Efficient GPU and RDMA device allocation is crucial, especially when distributed
+  inferenc...
 resource: https://www.youtube.com/watch?v=fBE6UiLROWA
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Efficient GPU and RDMA device allocation is crucial, especially when distributed
 Traditional device plug-ins for GPUs and RDMA operate separately and do not coordinate allocations based on PCIe affinity, leading to inefficiencies.
 Sparo, as a Singi project plug-in, addresses these challenges by enabling underlay networking for containers, detecting PCIe affinity between RDMA devices and GPUs, and providing dedicated RDMA interfaces with independent IP addresses for traceable traffic.
 It offers two allocation approaches: pre-defined resource allocation, which allows administrators to specify resource claims in advance, and adaptive RDMA resource allocation, which automatically assigns RDMA devices based on the PCIe topology of allocated GPUs, improving flexibility and efficiency over traditional methods.
+
 # Main Points
 
 |   # | Main point                                                                                                                          |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "WG-Batch Updates: What’s New and What Is Next? - Yuki Iwai, CyberAgent, Inc.
+  & Kevin Hannon, Red Hat"
+nav_order: 391
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "WG-Batch Updates: What’s New and What Is Next? - Yuki Iwai, CyberAgent, Inc. & Kevin Hannon, Red Hat"
-description: "The presentation provides an update from the Kubernetes Batch Working Group, led by Yuki and Kevin, focusing on enhancements for batch workloads such as AI, ML, and data analytics. The group aims to reduce fragmentation in Kubernetes by imp..."
+description:
+  The presentation provides an update from the Kubernetes Batch Working
+  Group, led by Yuki and Kevin, focusing on enhancements for batch workloads such
+  as AI, ML, and data analytics. The group aims to reduce fragmentation in Kubernetes
+  by imp...
 resource: https://www.youtube.com/watch?v=H_dfPaDpHHQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Recent updates include the graduation of pod replacement policy, mutable pod res
 The JobSet project has introduced features like execution ordering, volume claim policies, failure policies, and in-place restarts to better support distributed workloads.
 The Q scheduler, a second-level scheduler for AI workloads, now supports advanced topology-aware scheduling algorithms and API upgrades, with future plans for extended resource and elastic job support.
 The team is also working on workload-aware scheduling and gang scheduling APIs to simplify group-based scheduling and improve support for complex AI workloads, encouraging community involvement and integration with these new features.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

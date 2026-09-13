@@ -1,11 +1,23 @@
 ---
+layout: default
+title: I’ve Got 99 Problems and They’re All Controllers - Tim Goodwin, UC Santa Cruz
+nav_order: 113
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "I’ve Got 99 Problems and They’re All Controllers - Tim Goodwin, UC Santa Cruz"
-description: 'Tim Goodwin, a PhD student at UC Santa Cruz, discusses the challenges of composing Kubernetes controllers to build higher-level platform abstractions and introduces "camera," a simulation testing tool he developed to address these issues. H...'
+description:
+  Tim Goodwin, a PhD student at UC Santa Cruz, discusses the challenges
+  of composing Kubernetes controllers to build higher-level platform abstractions
+  and introduces "camera," a simulation testing tool he developed to address these
+  issues. H...
 resource: https://www.youtube.com/watch?v=E1f87Z6mij0
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains how Kubernetes evolved from container orchestration to a universal c
 However, composing multiple controllers introduces complexity and subtle bugs, especially in their asynchronous interactions, making debugging difficult.
 Camera simulates the Kubernetes control plane, enabling exhaustive testing of controller interactions and verifying properties like deterministic convergence using model checking, all without requiring a live cluster.
 The tool is open source but research-grade, and Tim encourages practitioners to try it out and provide feedback to help refine its capabilities.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                 |

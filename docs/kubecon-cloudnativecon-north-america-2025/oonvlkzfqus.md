@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Community Capital: Making OSS and Businesses Successful Together - Liz Rice,
+  Isovalent at Cisco"
+nav_order: 41
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Community Capital: Making OSS and Businesses Successful Together - Liz Rice, Isovalent at Cisco"
-description: "Liz, an engineer at ISVent and long-time CNCF participant, discusses the intersection of open source and business, drawing on her experience with the Selium project and its acquisition by Cisco. She highlights the immense value created by o..."
+description:
+  Liz, an engineer at ISVent and long-time CNCF participant, discusses
+  the intersection of open source and business, drawing on her experience with the
+  Selium project and its acquisition by Cisco. She highlights the immense value created
+  by o...
 resource: https://www.youtube.com/watch?v=OoNvlkZFQUs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ She highlights the immense value created by open source software, noting that wh
 Liz emphasizes that open source maintainers and contributors are not contractually obligated to provide ongoing support or features, and that businesses must find ways to add value—such as support, training, or enterprise features—if they wish to monetize open source.
 She likens open source to a community campfire, where anyone can benefit but additional services can be built on top, and stresses the importance of clear licensing and governance, especially when projects are contributed to foundations.
 Ultimately, Liz argues that aligning the interests of vendors, maintainers, and users through trust and commercial agreements is key to sustaining open source ecosystems, and encourages maintainers not to give away valuable work for free when it is clearly benefiting well-resourced enterprises.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

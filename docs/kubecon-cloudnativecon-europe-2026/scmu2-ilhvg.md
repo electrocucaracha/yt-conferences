@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | EnvoyCon: The Next Generation of Envoy Extensibility:
+  Dynami... Rohit Agrawal"
+nav_order: 63
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | EnvoyCon: The Next Generation of Envoy Extensibility: Dynami... Rohit Agrawal"
-description: "Rohit Agarval, a software engineer at Databricks and Envoy maintainer, discusses the evolution of Envoy's extensibility, highlighting the transition from Lua scripting to WASM filters, Golang HTTP filters, and most recently, dynamic modules..."
+description:
+  Rohit Agarval, a software engineer at Databricks and Envoy maintainer,
+  discusses the evolution of Envoy's extensibility, highlighting the transition from
+  Lua scripting to WASM filters, Golang HTTP filters, and most recently, dynamic modules...
 resource: https://www.youtube.com/watch?v=ScMu2-ILhvg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Dynamic modules, introduced in June 2024, allow developers to write in-process e
 Rohit shares internal Databricks use cases where dynamic modules significantly reduced latency and configuration size, such as real-time audit logging and dynamic RBAC policy updates, and removed the need for sidecars in Kubernetes deployments.
 He notes that dynamic modules have led to up to 50x config size reduction and 5x faster startup times, and expresses the team's goal to expand dynamic module support across all Envoy extension points.
 In the Q&A, Rohit addresses language preferences, future contribution models, and the possibility of officially maintained dynamic modules, emphasizing the flexibility and ongoing development of this extensibility approach.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                 |

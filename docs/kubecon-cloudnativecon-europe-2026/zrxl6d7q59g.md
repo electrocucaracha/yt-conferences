@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Pay Less for More: A Practitioner's Playbook for Kubern... Malgorzata Widelicka
+  & Lukasz Ogrodowczyk"
+nav_order: 240
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Pay Less for More: A Practitioner's Playbook for Kubern... Malgorzata Widelicka & Lukasz Ogrodowczyk"
-description: "Ma Gojata and Gash, DevOps specialists at Roche, discuss their experiences managing large-scale cloud platforms in the highly regulated pharmaceutical sector, focusing on Kubernetes autoscaling. They describe the challenges of financial was..."
+description:
+  Ma Gojata and Gash, DevOps specialists at Roche, discuss their experiences
+  managing large-scale cloud platforms in the highly regulated pharmaceutical sector,
+  focusing on Kubernetes autoscaling. They describe the challenges of financial was...
 resource: https://www.youtube.com/watch?v=ZRXl6d7Q59g
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They describe the challenges of financial waste from over-provisioned infrastruc
 By adopting the open-source Carpenter project for autoscaling, they optimized costs—achieving up to 90% reduction—by provisioning resources only when needed and tailoring node pools to workload requirements.
 They emphasize the importance of observability, careful configuration, and aligning infrastructure scaling with application logic, sharing practical examples and lessons learned, such as managing node churn, optimizing cold starts, and balancing cost with performance and compliance.
 The session concludes with key takeaways: customize configurations to workload needs, leverage observability for insights, and prioritize paying for execution over readiness.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                      |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Slinky Expanded: Slurm, Kubernetes, and DRA - Praveen Krishna, Google & Marlow
+  Warnicke, SchedMD LLC"
+nav_order: 333
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Slinky Expanded: Slurm, Kubernetes, and DRA - Praveen Krishna, Google & Marlow Warnicke, SchedMD LLC"
-description: "Marlo Boricki from Nvidia and Pravin from Google present Slinky, a set of tools designed to integrate Slurm—a leading high-performance computing workload manager—with Kubernetes environments. They focus on Slurm Bridge, which enables Slurm..."
+description:
+  Marlo Boricki from Nvidia and Pravin from Google present Slinky, a set
+  of tools designed to integrate Slurm—a leading high-performance computing workload
+  manager—with Kubernetes environments. They focus on Slurm Bridge, which enables
+  Slurm...
 resource: https://www.youtube.com/watch?v=Gy2_BwETo3M
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ The discussion highlights the development of the CPU DRA (Dynamic Resource Alloc
 The architecture leverages DRA and NRI (Node Resource Interface) plugins to enforce resource assignments and prevent interference between containers.
 Recent advancements now allow for more flexible resource sharing, support for multiple device plugins, and improved integration between Slurm and Kubernetes, with ongoing community efforts to expand capabilities and tighter ecosystem integration.
 The session concludes with a live demo, audience Q&A, and an invitation for feedback and collaboration as the tools continue to evolve.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

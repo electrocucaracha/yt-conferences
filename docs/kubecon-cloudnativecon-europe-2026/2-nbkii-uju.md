@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "OpenAPI Meets Kubernetes: Auto-Generating CRDs and Oper... Sergiusz Urbaniak
+  & Jose Vázquez González"
+nav_order: 229
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "OpenAPI Meets Kubernetes: Auto-Generating CRDs and Oper... Sergiusz Urbaniak & Jose Vázquez González"
-description: "In this CubeCon talk, Sergio and Jose from MongoDB discuss the challenges of developing Kubernetes operators, particularly for integrating external systems like MongoDB Atlas. They explain that traditional operator patterns, which often inv..."
+description:
+  In this CubeCon talk, Sergio and Jose from MongoDB discuss the challenges
+  of developing Kubernetes operators, particularly for integrating external systems
+  like MongoDB Atlas. They explain that traditional operator patterns, which often
+  inv...
 resource: https://www.youtube.com/watch?v=2_nbkiI_UJU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that traditional operator patterns, which often involve manual codi
 To address these issues, they developed an automated pipeline that starts with an OpenAPI specification and generates Kubernetes Custom Resource Definitions (CRDs), Go code, and scaffolding for controllers, emphasizing an API-first approach.
 Their toolchain includes components for translating between OpenAPI specs and CRDs, generating Go types, scaffolding state machine-based controllers, and handling two-way data translation between Kubernetes and external APIs.
 The approach streamlines operator development, ensures consistency, and supports rapid prototyping, and all tools are open source, with the team seeking community feedback and collaboration.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

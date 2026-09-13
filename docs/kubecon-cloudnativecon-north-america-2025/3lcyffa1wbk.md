@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Hidden Risks in AI/ML Supply Chains: How To Secure Your Workloads - Yash
+  Pimple, Chainguard"
+nav_order: 310
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "The Hidden Risks in AI/ML Supply Chains: How To Secure Your Workloads - Yash Pimple, Chainguard"
-description: "The speaker discusses the hidden risks in the machine learning (ML) supply chain, emphasizing how its complexity and unique dependencies create a larger attack surface compared to traditional software supply chains. They highlight recent in..."
+description:
+  The speaker discusses the hidden risks in the machine learning (ML) supply
+  chain, emphasizing how its complexity and unique dependencies create a larger attack
+  surface compared to traditional software supply chains. They highlight recent in...
 resource: https://www.youtube.com/watch?v=3lcyFfA1Wbk
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight recent increases in supply chain attacks, such as the SolarWinds 
 To address these risks, the speaker introduces several open-source tools and community initiatives: Software Bill of Materials (SBOMs) for transparency, AI-specific BOMs and model cards for documenting model provenance and limitations, model scanning tools to detect vulnerabilities, and model signing for verifying authenticity.
 While these tools improve transparency, integrity, and authenticity in the ML workflow, challenges remain, particularly in certifying training data provenance and preventing data poisoning.
 The session concludes with a demonstration of scanning and signing a model, and a Q&A addressing current limitations and ongoing developments in securing the ML supply chain.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

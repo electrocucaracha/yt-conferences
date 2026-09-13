@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How To Break Multi-Tenancy Again and Again ...and What We Can Learn F... Lorin
+  Lehawany & Sven Nobis
+nav_order: 146
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "How To Break Multi-Tenancy Again and Again ...and What We Can Learn F... Lorin Lehawany & Sven Nobis"
-description: "In this talk, security analysts Lauren Lehavani and Sven Nois from a German security consultancy share their research on breaking namespace-based multi-tenancy in Kubernetes clusters, highlighting that industry best practices are often insu..."
+description:
+  In this talk, security analysts Lauren Lehavani and Sven Nois from a
+  German security consultancy share their research on breaking namespace-based multi-tenancy
+  in Kubernetes clusters, highlighting that industry best practices are often insu...
 resource: https://www.youtube.com/watch?v=PEU4uDzurvc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They present three real-world exploits: insecure cross-namespace references in c
 The speakers detail their responsible disclosures and note that while some issues were fixed, others remain due to design trade-offs.
 They introduce a three-step methodology for organizations to assess and mitigate multi-tenancy risks: identifying multi-tenancy usage, evaluating potential weaknesses, and applying targeted controls such as policy enforcement or migration to the Gateway API.
 The talk concludes by urging practitioners to thoroughly assess namespace-based multi-tenancy implications, use the provided methodology as a guideline, and remain vigilant, as these vulnerabilities are subtle and widespread.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

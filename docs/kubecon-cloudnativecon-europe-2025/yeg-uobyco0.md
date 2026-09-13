@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "A Fork to Reckon With: Minimizing Friction When Adopting... Alexander Perlman
+  & Narayanamurthi Mari"
+nav_order: 5
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "A Fork to Reckon With: Minimizing Friction When Adopting... Alexander Perlman & Narayanamurthi Mari"
-description: 'The speaker discusses the importance of avoiding "NIH" (Not Invented Here), a phenomenon where companies reinvent the wheel instead of leveraging mature industry-standard open-source solutions. They present four approaches to address capabi...'
+description:
+  The speaker discusses the importance of avoiding "NIH" (Not Invented
+  Here), a phenomenon where companies reinvent the wheel instead of leveraging mature
+  industry-standard open-source solutions. They present four approaches to address
+  capabi...
 resource: https://www.youtube.com/watch?v=yeg-uoBYCO0
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +31,7 @@ Forking can be done when necessary, but it requires high maintenance burden.
 Wrapping can abstract underlying dependencies, but it also introduces complexity and brittleness.
 Mutation is a powerful solution that allows direct modification of manifests at runtime, making it easy to address specific use cases without requiring extensive coding knowledge.
 The speaker emphasizes the importance of closing gaps in upstream dependencies instead of rebuilding them in-house and provides a decision tree to help users evaluate which approach to use for their specific use case.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

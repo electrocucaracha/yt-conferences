@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Bespoke To Bulletproof: SPIFFE/SPIRE With ESO for Enterprise Zero...
+  May Large & Ivy Alkhaz"
+nav_order: 82
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "From Bespoke To Bulletproof: SPIFFE/SPIRE With ESO for Enterprise Zero... May Large & Ivy Alkhaz"
-description: "At CubeCon, Ivy Alcaz and May Large from State Farm shared their journey implementing Spire for Enterprise Zero Trust, detailing their transition from a bespoke, out-of-the-box Spire deployment to a scalable, highly available nested Spire a..."
+description:
+  At CubeCon, Ivy Alcaz and May Large from State Farm shared their journey
+  implementing Spire for Enterprise Zero Trust, detailing their transition from a
+  bespoke, out-of-the-box Spire deployment to a scalable, highly available nested
+  Spire a...
 resource: https://www.youtube.com/watch?v=EVbFeCipis8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They described initial challenges with static secrets, scaling issues, and consu
 Leveraging the hardened Helm chart and strong community support, they streamlined deployment, managed cross-account secrets securely using External Secrets Operator (ESO), and ensured a smooth rollout with minimal consumer disruption by overlapping token validity periods and addressing AWS and Kubernetes constraints.
 The move to nested Spire simplified JWT issuer management, improved workload API availability, and enabled easier SVID consumption, while future plans include expanding UI capabilities, service mesh integration, federation, and broader platform support.
 Throughout, they emphasized the value of community collaboration, automation, and practical lessons learned for large-scale, secure Spire adoption.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

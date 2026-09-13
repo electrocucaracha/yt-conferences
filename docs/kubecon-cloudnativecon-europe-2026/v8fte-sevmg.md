@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Operators in Action: Making Kubernetes Work for You - Verena Traub, b'nerd
+  GmbH"
+nav_order: 236
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Operators in Action: Making Kubernetes Work for You - Verena Traub, b'nerd GmbH"
-description: "The speaker begins by introducing themselves and their background, then outlines the focus of the talk: how Kubernetes operators can help manage complex applications, using a recent case from their company as an example. The application in..."
+description:
+  "The speaker begins by introducing themselves and their background, then
+  outlines the focus of the talk: how Kubernetes operators can help manage complex
+  applications, using a recent case from their company as an example. The application
+  in..."
 resource: https://www.youtube.com/watch?v=V8fTE-SeVmg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The application in question was not originally designed for Kubernetes and requi
 The speaker explains the basics of Kubernetes operators, custom resource definitions (CRDs), and the reconciliation loop, then details how their team addressed challenges such as managing app dependencies, automating naming and credential generation, supporting different user profiles, reducing startup time with pre-warmed instance pools, integrating DNS, and coordinating with external services.
 They emphasize the importance of carefully designing CRDs, leveraging existing operators and tools, modularizing logic, and documenting from the start.
 The talk concludes with lessons learned about resource cleanup, testing, and debugging operators, and the speaker answers a question about deploying operators, noting their use of Flux for managing deployments and CRDs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

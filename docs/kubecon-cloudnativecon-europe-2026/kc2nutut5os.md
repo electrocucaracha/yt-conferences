@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  When an Agent Acts on Your Behalf, Who Holds the Keys? - Mariusz Sabath & Maia
+  Iyer, IBM Research
+nav_order: 403
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "When an Agent Acts on Your Behalf, Who Holds the Keys? - Mariusz Sabath & Maia Iyer, IBM Research"
-description: "Mario and Maya from IBM Research present their work on securing agentic applications at the platform level, focusing on challenges that arise when agents, rather than users, interact with enterprise systems. They explain that traditional AP..."
+description:
+  Mario and Maya from IBM Research present their work on securing agentic
+  applications at the platform level, focusing on challenges that arise when agents,
+  rather than users, interact with enterprise systems. They explain that traditional
+  AP...
 resource: https://www.youtube.com/watch?v=kc2NuTUt5Os
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ To address this, they advocate for a standards-based approach using OAuth 2, Spi
 Their open-source project, Kajenti, demonstrates how these standards can be integrated into a pluggable platform, with the Obridge component transparently handling identity, authentication, and authorization for agents without requiring changes to application code.
 The team also discusses ongoing work to improve attestation of agent attributes, support for dynamic authorization, and handling of advanced scenarios such as human-in-the-loop privilege escalation and independent agent identities.
 Audience questions explore local versus remote agent workflows, privilege management, agent autonomy, and the use of gateways and guardrails for fine-grained control.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

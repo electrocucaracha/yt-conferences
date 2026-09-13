@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "[Session] Too Many Tools: Surviving the MCP Tool Overload with Shalev Shalit
+  - Webrix"
+nav_order: 16
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Session] Too Many Tools: Surviving the MCP Tool Overload with Shalev Shalit - Webrix"
-description: "In this presentation, Shalev, co-founder and CEO of Webbricks, discusses the challenges enterprises face when integrating too many tools into their AI agents, particularly the issues of context overload, attention dilution, and decreased pe..."
+description:
+  In this presentation, Shalev, co-founder and CEO of Webbricks, discusses
+  the challenges enterprises face when integrating too many tools into their AI agents,
+  particularly the issues of context overload, attention dilution, and decreased pe...
 resource: https://www.youtube.com/watch?v=hJY04dV-o7U
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ In this presentation, Shalev, co-founder and CEO of Webbricks, discusses the cha
 He outlines four main solutions: disabling unnecessary tools for simplicity, creating shareable toolkits tailored to specific roles or tasks, implementing a "search and call" method for environments with numerous APIs, and using dynamic MCPs (DMCPs) that allow tools to be added or removed as needed.
 Each approach has its benefits and drawbacks, such as ease of use, shareability, or implementation complexity, and their effectiveness depends on the specific use case.
 Shalev concludes by suggesting that the future lies in more sophisticated, capability-based tool management and a shift toward specialized agents working collaboratively, rather than relying on a single super-agent to handle all tasks.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                    |

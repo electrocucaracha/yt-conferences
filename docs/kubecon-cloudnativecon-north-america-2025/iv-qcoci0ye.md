@@ -1,11 +1,23 @@
 ---
+layout: default
+title: What’s New in Containerd 2.2 - Derek McGowan, Docker & Phil Estes, AWS
+nav_order: 340
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "What’s New in Containerd 2.2 - Derek McGowan, Docker & Phil Estes, AWS"
-description: "Phil Estus and Derek McGawan present updates on the containerd project, highlighting its recent 2.2 release and ongoing community growth, including new reviewers and committers from diverse companies. They note the project's 10-year anniver..."
+description:
+  Phil Estus and Derek McGawan present updates on the containerd project,
+  highlighting its recent 2.2 release and ongoing community growth, including new
+  reviewers and committers from diverse companies. They note the project's 10-year
+  anniver...
 resource: https://www.youtube.com/watch?v=iV_qCOCi0yE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They note the project's 10-year anniversary and emphasize the importance of exte
 Derek details architectural components—high-level runtime, core, and low-level runtime—and introduces new features like the transfer service, parallel unpack, sandbox controller, mount manager, and enhanced support for Aerofs snapshotter.
 A new shim leveraging these features now enables containerd to run fully on macOS using libkrun, with a demonstration showing fast Linux container startup on a Darwin host.
 The session concludes with a discussion on the shim's potential use cases and its compatibility with other runtimes, reinforcing containerd's commitment to innovation and broad ecosystem support.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                  |

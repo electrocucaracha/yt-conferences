@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "El Arte de AMARTE: Aprende a Vivir SIN CULPA - Eugenio Cobo sesión de crecimiento
+  #5"
+nav_order: 18
+parent: Foro De Crecimiento
 type: Video Note
-title: "El Arte de AMARTE: Aprende a Vivir SIN CULPA - Eugenio Cobo sesión de crecimiento #5"
-description: "En esta conversación, Eugenio Cobo, reconocido actor, productor y director del Centro de Educación Artística de Televisa, comparte sus reflexiones sobre temas fundamentales como la culpa, el miedo, el talento, la conciencia, el éxito, el eg..."
+description:
+  En esta conversación, Eugenio Cobo, reconocido actor, productor y director
+  del Centro de Educación Artística de Televisa, comparte sus reflexiones sobre temas
+  fundamentales como la culpa, el miedo, el talento, la conciencia, el éxito, el eg...
 resource: https://www.youtube.com/watch?v=GbBEpAZfc9s
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Sobre el miedo, señala que es un invento aprendido en la infancia y que reconoc
 Cobo enfatiza la importancia de la educación basada en la libertad y el respeto, así como el desarrollo de la creatividad y la conciencia entendida como “darse cuenta”.
 Aconseja a los padres apoyar los horizontes artísticos de sus hijos y destaca que el éxito consiste en estar y sentirse bien en el presente.
 Finalmente, invita a la autoaceptación, a soltar los apegos negativos y a avanzar en la vida aceptando que las cosas son como son.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

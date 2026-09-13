@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Tools, Not Endpoints: The Layered MCP Pattern for Task‑Centric Agents"
-description: 'The speaker introduces the concept of the "layered tool pattern" in API and agent design, using Square''s platform as a case study. Faced with the challenge of enabling an LLM to navigate over 30 APIs and 200 endpoints, the team distilled th...'
+nav_order: 14
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  The speaker introduces the concept of the "layered tool pattern" in API
+  and agent design, using Square's platform as a case study. Faced with the challenge
+  of enabling an LLM to navigate over 30 APIs and 200 endpoints, the team distilled
+  th...
 resource: https://www.youtube.com/watch?v=fulofLB7bZk
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Faced with the challenge of enabling an LLM to navigate over 30 APIs and 200 end
 This pattern, demonstrated through a live demo, allowed an agent to autonomously complete complex tasks from a simple prompt by iteratively discovering, planning, and executing actions.
 The speaker observes that this layered approach mirrors processes in fields like medicine and the scientific method, emphasizing that simplifying tools to align with human workflows makes agents more effective.
 Ultimately, the talk encourages designing tools that reflect how people naturally solve problems, advocating for observation, curiosity, and user-centered design.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

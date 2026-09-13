@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  The Evolution of Platform APIs in the Age of LLMs - Mauricio "Salaboy" Salatino
+  & Viktor Farcic
+nav_order: 306
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: 'The Evolution of Platform APIs in the Age of LLMs - Mauricio "Salaboy" Salatino & Viktor Farcic'
-description: "The speaker discusses the challenges and considerations of integrating AI agents into internal developer platforms, particularly for operations tasks like creating cloud resources. They highlight that AI agents, much like new human hires, l..."
+description:
+  The speaker discusses the challenges and considerations of integrating
+  AI agents into internal developer platforms, particularly for operations tasks like
+  creating cloud resources. They highlight that AI agents, much like new human hires,
+  l...
 resource: https://www.youtube.com/watch?v=aOMcUwR4PN4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They highlight that AI agents, much like new human hires, lack context about com
 To address this, the speaker proposes managing context through semantic search using embeddings and vector databases, enabling AI to retrieve relevant APIs, patterns, and policies from scattered company knowledge.
 They demonstrate a system (MCP) that guides users through workflows, asks clarifying questions, and leverages company-specific data to generate appropriate solutions, emphasizing the importance of workflows, context management, and incremental learning.
 The talk concludes by noting that AI is most valuable for creative, non-deterministic tasks, while deterministic, repeatable processes should remain automated by scripts or code, and that effective AI integration requires ongoing effort to curate and structure company knowledge.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

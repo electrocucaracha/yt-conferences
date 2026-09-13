@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Extending Kubernetes for AI | Lessons Learned From Platform... - Susan, Lucy,
+  Andrea, Etienne, Tim
+nav_order: 93
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Extending Kubernetes for AI | Lessons Learned From Platform... - Susan, Lucy, Andrea, Etienne, Tim"
-description: "The panel discussion focuses on extending Kubernetes for AI workloads, with experts from Google Cloud, Uber, and Overstory sharing their experiences and insights. They discuss the challenges of managing stateful loads, such as databases, an..."
+description:
+  The panel discussion focuses on extending Kubernetes for AI workloads,
+  with experts from Google Cloud, Uber, and Overstory sharing their experiences and
+  insights. They discuss the challenges of managing stateful loads, such as databases,
+  an...
 resource: https://www.youtube.com/watch?v=d9K5PSsHtDg
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The panel discussion focuses on extending Kubernetes for AI workloads, with expe
 They discuss the challenges of managing stateful loads, such as databases, and the importance of dynamic resource allocation to optimize GPU utilization.
 The panelists also touch on the need for more checkpointing and disruption tolerance in batch training, particularly with expensive GPUs.
 They share their strategies for making compute choices, including using specialized compute variations and collocation to improve resource overcommitting.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                    |

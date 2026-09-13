@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: GitOps With Or Without Git Using Flux - Tamao Nakahara,
+  Community Maintainer"
+nav_order: 218
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: GitOps With Or Without Git Using Flux - Tamao Nakahara, Community Maintainer"
-description: "Tama O Nakahara introduces the Flux graduated project, highlighting its key features for modern CI/CD pipelines, including GitOps, progressive delivery, automation, reliability, and security. Flux is widely adopted by industries such as ban..."
+description:
+  Tama O Nakahara introduces the Flux graduated project, highlighting its
+  key features for modern CI/CD pipelines, including GitOps, progressive delivery,
+  automation, reliability, and security. Flux is widely adopted by industries such
+  as ban...
 resource: https://www.youtube.com/watch?v=wxFXL35fALQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Flux is widely adopted by industries such as banking, government, telecommunicat
 A central focus is Flux’s artifact generator, which enables both composition and decomposition of deployment artifacts, supporting efficient workflows with monorepos and multi-team collaboration.
 Flux is Kubernetes-native, leverages the native Helm SDK, and simplifies multi-cluster management, offering robust maintenance and troubleshooting tools like open telemetry tracing and AI-assisted MCP server operations.
 The project’s ecosystem includes additional operators and UIs, supports custom health checks, and accelerates Kubernetes adoption by providing a safe, flexible, and scalable platform for experimentation and delivery.
+
 # Main Points
 
 |   # | Main point                                                                                                                              |

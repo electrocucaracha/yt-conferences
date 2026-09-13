@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Confidential Observability on Kubernetes: Protecting Telemetry End-to-End-
+  Jitendra Singh, Microsoft"
+nav_order: 44
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Confidential Observability on Kubernetes: Protecting Telemetry End-to-End- Jitendra Singh, Microsoft"
-description: "Jitendra Singh introduces the topic of confidential observability on Kubernetes, highlighting the limitations of traditional observability methods in protecting sensitive data during processing. He explains that while data at rest and in tr..."
+description:
+  Jitendra Singh introduces the topic of confidential observability on
+  Kubernetes, highlighting the limitations of traditional observability methods in
+  protecting sensitive data during processing. He explains that while data at rest
+  and in tr...
 resource: https://www.youtube.com/watch?v=ZVM8azeTHAU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that while data at rest and in transit can be encrypted, data is vul
 To address this, Singh discusses confidential computing, which uses hardware-based isolation (like Intel TDX and AMD technologies) to secure data even while it is being processed.
 He describes the implementation of confidential containers in Kubernetes, where workloads run inside secure environments that prevent unauthorized access, ensuring end-to-end encryption from data collection to storage.
 Singh concludes by emphasizing that confidential observability is particularly valuable for organizations handling sensitive data, as it provides comprehensive protection for data in use, not just at rest or in transit.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

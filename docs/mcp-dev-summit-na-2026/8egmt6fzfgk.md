@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Securing the MCP Ecosystem: Production Patterns for Transparency... Lisa Tagliaferri
+  & Trevor Dunlap"
+nav_order: 81
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Securing the MCP Ecosystem: Production Patterns for Transparency... Lisa Tagliaferri & Trevor Dunlap"
-description: "In this presentation, Lisa and Trevor from Changuard discuss the evolving security challenges in the Model Context Protocol (MCP) ecosystem, highlighting the shift from theoretical to real-world threats such as data exfiltration, toolchain..."
+description:
+  In this presentation, Lisa and Trevor from Changuard discuss the evolving
+  security challenges in the Model Context Protocol (MCP) ecosystem, highlighting
+  the shift from theoretical to real-world threats such as data exfiltration, toolchain...
 resource: https://www.youtube.com/watch?v=8eGmT6fZfGk
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They note that existing security tools for MCPs are still maturing, often produc
 Trevor details their approach to securing infrastructure MCPs like MCP Grafana by rebuilding images from source, minimizing dependencies, continuously scanning for vulnerabilities, and providing verifiable provenance and signed artifacts.
 Lisa explains the unique risks of content MCPs, where compromised documentation can influence AI assistants at scale, and describes their pipeline controls, including content sanitation, secret scanning, and provenance tracking.
 Both emphasize the importance of minimal base images, signed and regularly rebuilt artifacts, and transparent, open-source workflows to strengthen security as the MCP ecosystem rapidly grows.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                 |

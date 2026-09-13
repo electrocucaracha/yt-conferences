@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "OpenTelemetry Logs Driving a Major Shift: Events, Richer Data, and Smarter
+  Semantics - Robert Pająk"
+nav_order: 233
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "OpenTelemetry Logs Driving a Major Shift: Events, Richer Data, and Smarter Semantics - Robert Pająk"
-description: "The speaker, Robert Pajonk, introduces updates to logging in OpenTelemetry, emphasizing the need for better logging standards due to the inefficiency and noise of traditional, unstructured logs. He explains that OpenTelemetry now treats log..."
+description:
+  The speaker, Robert Pajonk, introduces updates to logging in OpenTelemetry,
+  emphasizing the need for better logging standards due to the inefficiency and noise
+  of traditional, unstructured logs. He explains that OpenTelemetry now treats log...
 resource: https://www.youtube.com/watch?v=aoEe2FDnnDk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that OpenTelemetry now treats logs as structured, first-class citize
 The new logging API allows direct log emission, improved performance through an "enabled" check, and reduces reliance on third-party logging libraries.
 A significant change is the planned deprecation of span events in favor of log-based events, with a focus on providing a smooth migration path for users.
 Pajonk highlights the importance of following OpenTelemetry's semantic conventions to ensure consistency, interoperability, and richer, more efficient telemetry data across systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

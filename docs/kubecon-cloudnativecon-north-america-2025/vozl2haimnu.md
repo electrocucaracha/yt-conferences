@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Progressive Configuration Delivery for Zero-Downtime Cloud Workloads - Yuxing
+  Yuan & Hao Wu
+nav_order: 202
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Progressive Configuration Delivery for Zero-Downtime Cloud Workloads - Yuxing Yuan & Hao Wu"
-description: "The presentation introduces a new approach to configuration management in cloud-native environments, focusing on achieving zero-downtime configuration updates through the OpenKruise project. OpenKruise, a CNCF incubating project adopted by..."
+description:
+  The presentation introduces a new approach to configuration management
+  in cloud-native environments, focusing on achieving zero-downtime configuration
+  updates through the OpenKruise project. OpenKruise, a CNCF incubating project adopted
+  by...
 resource: https://www.youtube.com/watch?v=vozl2HAiMNU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ OpenKruise, a CNCF incubating project adopted by hundreds of companies, offers f
 The speakers highlight the limitations of current Kubernetes configuration update methods, which are manual, risky, and lack observability, and present ConfigMapSet—a declarative custom resource for versioned, progressive, and observable configuration delivery.
 ConfigMapSet enables safe, controlled rollouts, decouples configuration updates from workload lifecycles, and supports multi-version management, rollback, and gradual dependency migration.
 The team invites community contributions and outlines future enhancements, including multi-version rollout strategies and package version management for drivers, aiming to make configuration delivery as automated and reliable as application deployment.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                               |

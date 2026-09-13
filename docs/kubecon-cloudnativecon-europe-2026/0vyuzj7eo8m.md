@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Next-Gen AI Orchestration With Volcano On Kubernetes
+  - Zhonghu Xu"
+nav_order: 280
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Next-Gen AI Orchestration With Volcano On Kubernetes - Zhonghu Xu"
-description: "The speaker, a maintainer from Huawei Technology, introduces Volcano, a cloud-native batch system for Kubernetes that manages queueing, scheduling, and supports heterogeneous devices. As AI workloads have evolved, especially with the rise o..."
+description:
+  The speaker, a maintainer from Huawei Technology, introduces Volcano,
+  a cloud-native batch system for Kubernetes that manages queueing, scheduling, and
+  supports heterogeneous devices. As AI workloads have evolved, especially with the
+  rise o...
 resource: https://www.youtube.com/watch?v=0vYUzJ7eO8M
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ As AI workloads have evolved, especially with the rise of large language models 
 Recent updates include the introduction of an agent scheduler for latency-sensitive workloads, enhancements in network topology-aware scheduling through the Hypernode abstraction, and efforts to make Hypernode a first-class Kubernetes entity for better modeling of network domains.
 Additionally, two subprojects are highlighted: Casino, a native serving platform with intelligent routing and autoscaling for inference workloads, and Agent Cube, which focuses on AI agent workload scheduling and provides SDKs for building agent tools.
 The speaker concludes by encouraging collaboration on these initiatives.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

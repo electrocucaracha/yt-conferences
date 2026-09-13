@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Invisible FinOps and Compliance: Shift Left With Cloud
+  Custodian - Sonny Shi"
+nav_order: 220
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Invisible FinOps and Compliance: Shift Left With Cloud Custodian - Sonny Shi"
-description: 'Sonia, head of product at Stacklet and maintainer of the Cloud Custodian project, discusses the importance of addressing "invisible PHOPS," compliance, and shifting left in cloud resource management. She explains that while creating cloud r...'
+description:
+  Sonia, head of product at Stacklet and maintainer of the Cloud Custodian
+  project, discusses the importance of addressing "invisible PHOPS," compliance, and
+  shifting left in cloud resource management. She explains that while creating cloud
+  r...
 resource: https://www.youtube.com/watch?v=PDkkn5ct_Ek
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ She explains that while creating cloud resources initially incurs minimal cost, 
 By implementing automated, enforceable policies—such as identifying and resizing underutilized resources—organizations can proactively optimize cloud spend and improve security and compliance.
 These policies can also be applied to infrastructure as code, allowing issues to be detected and addressed even earlier in the development process.
 Sonia advises starting with simple, sensible policies, socializing them within the organization, and ensuring they empower rather than hinder developers, ultimately promoting efficient and compliant cloud operations.
+
 # Main Points
 
 |   # | Main point                                                                                                                            |

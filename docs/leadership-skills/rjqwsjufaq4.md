@@ -1,11 +1,22 @@
 ---
+layout: default
+title: How to Influence Upward, Downward, and Cross Functionally at Work
+nav_order: 27
+parent: Leadership Skills
 type: Video Note
-title: "How to Influence Upward, Downward, and Cross Functionally at Work"
-description: "In this video, leadership coach Doug Howard introduces the AEC framework—Appreciate, Empathize, and Convert—as a practical method for influencing people at all levels within an organization. He explains that influence is a learnable skill r..."
+description:
+  In this video, leadership coach Doug Howard introduces the AEC framework—Appreciate,
+  Empathize, and Convert—as a practical method for influencing people at all levels
+  within an organization. He explains that influence is a learnable skill r...
 resource: https://www.youtube.com/watch?v=RJqwsjUFAq4
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains that influence is a learnable skill rooted in understanding basic hu
 The first step, Appreciate, involves giving others genuine attention and showing interest in their experiences, which captures their attention and primes them for influence.
 The second step, Empathize, is about making people feel heard and understood by acknowledging their perspectives and offering support, which builds trust and rapport.
 Finally, Convert focuses on aligning what you want with what the other person wants, starting with small requests to build momentum and gradually working toward larger goals, thereby creating intrinsic motivation for others to support your objectives.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

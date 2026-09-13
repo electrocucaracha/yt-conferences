@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Multi-Cluster Orchestration System: Karmada Updates
+  A... Joe Nathan Abellard"
+nav_order: 278
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Multi-Cluster Orchestration System: Karmada Updates A... Joe Nathan Abellard"
-description: "Joe, a senior software engineer at Bloomberg and core owner of the Kamada project, provides an overview of Kamada, a CNCF project designed for Kubernetes-native multicluster management. Kamada enables organizations to orchestrate workloads..."
+description:
+  Joe, a senior software engineer at Bloomberg and core owner of the Kamada
+  project, provides an overview of Kamada, a CNCF project designed for Kubernetes-native
+  multicluster management. Kamada enables organizations to orchestrate workloads...
 resource: https://www.youtube.com/watch?v=IlXsx4lMrQU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Kamada enables organizations to orchestrate workloads across clusters, regions, 
 Architecturally, Kamada resembles a Kubernetes cluster setup, with a control plane and member clusters, and is cloud agnostic, supporting both private and public cloud environments.
 Since its open-source release in 2021, Kamada has progressed through CNCF’s project stages and has seen wide adoption by companies like Bloomberg and Trip.com.
 Joe invites attendees to learn more at upcoming Kamada talks and the project booth, emphasizing Kamada’s value for distributed AI infrastructure, public cloud platforms, and evolving Kubernetes environments.
+
 # Main Points
 
 |   # | Main point                                                                                                       |

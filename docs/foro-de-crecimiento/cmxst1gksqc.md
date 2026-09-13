@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  The Ultimate Guide to Growing on Instagram and TikTok (and Making a Living
+  from It) || Andrea Mex...
+nav_order: 69
+parent: Foro De Crecimiento
 type: Video Note
-title: "The Ultimate Guide to Growing on Instagram and TikTok (and Making a Living from It) || Andrea Mex..."
-description: "En esta extensa conversación, se aborda la evolución y el impacto de ser creador de contenido en redes sociales, destacando que antes era visto como algo poco serio, pero hoy representa una gran oportunidad de crecimiento personal y profesi..."
+description:
+  En esta extensa conversación, se aborda la evolución y el impacto de
+  ser creador de contenido en redes sociales, destacando que antes era visto como
+  algo poco serio, pero hoy representa una gran oportunidad de crecimiento personal
+  y profesi...
 resource: https://www.youtube.com/watch?v=cMxST1Gksqc
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Andrea Mexle, pionera en el tema, comparte su experiencia y consejos para quiene
 Se explica cómo la calidad y autenticidad del contenido, así como el análisis de estadísticas y la adaptación a tendencias, son claves para el éxito, además de la relevancia de diversificar formatos (reels, historias, publicaciones) y plataformas.
 También se discuten estrategias de monetización, desde la venta de productos propios hasta colaboraciones y campañas con marcas, subrayando la necesidad de saber venderse y negociar.
 Finalmente, se reconoce que el camino implica retos como la crítica y la disciplina, pero también ofrece la posibilidad de influir positivamente en otros y lograr un impacto significativo si se actúa con autenticidad y perseverancia.
+
 # Main Points
 
 |   # | Main point                                                                                    |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Projects to Products: The Sociotechnical Journey Behind Sony... Eugenia
+  Bergman & Hagen Tonnies"
+nav_order: 125
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Projects to Products: The Sociotechnical Journey Behind Sony... Eugenia Bergman & Hagen Tonnies"
-description: "In this talk, the speakers from Sony PlayStation describe their journey in building and scaling an internal cloud platform, highlighting the challenges of moving from a project-oriented to a product-oriented approach. Initially, their platf..."
+description:
+  In this talk, the speakers from Sony PlayStation describe their journey
+  in building and scaling an internal cloud platform, highlighting the challenges
+  of moving from a project-oriented to a product-oriented approach. Initially, their
+  platf...
 resource: https://www.youtube.com/watch?v=zrXvt9DXQ3U
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Initially, their platform appeared mature but struggled to meet diverse team nee
 As the organization expanded, coordination became complex, prompting them to adopt clearer capability boundaries, modular architecture, and explicit contracts between teams.
 They shifted their focus from infrastructure metrics and project completion to user adoption, value delivery, and feedback loops, redefining "done" as delivering integrated, supported, and actually used capabilities.
 Ultimately, aligning architectural, organizational, and feedback processes enabled them to transition from simply shipping projects to building a platform as a product, emphasizing continuous learning, clear ownership, and leadership support.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "Limitless Possibilities, Consistent Design: Crafting Dashboards... Nicolas
+  Takashi & Antoine Thébaud"
+nav_order: 187
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Limitless Possibilities, Consistent Design: Crafting Dashboards... Nicolas Takashi & Antoine Thébaud"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=7h70Olo5Uzk
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +23,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 Here is a summary of the video transcript in 3-5 sentences: Antoine Tu, senior software engineer at Amadius, introduces Pers, an observability visualization tool that aims to converge towards open specifications for dashboards and increase interoperability between various observability tools.
 Pers has a plug-in architecture that allows users to create their own plugins to extend its capabilities, and it is also embeddable in other UIs.
 The project also focuses on "dashboard as code" initiatives, which enable users to describe their dashboards using code languages like YAML or JSON, making it easier to manage and share dashboards.
+
 # Main Points
 
 |   # | Main point                                                                                                 |

@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  Challenges of and Solutions for Migrating Spark From Legacy Hadoop Clu... Neha
+  Singla & Rasik Pandey
+nav_order: 41
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Challenges of and Solutions for Migrating Spark From Legacy Hadoop Clu... Neha Singla & Rasik Pandey"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Q2ct5OXQ8fU
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +23,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 Here is a summary of the video transcript in 3-5 sentences: Apple's Nay and Nha discuss their journey from moving Spark workloads from legacy Hadoop clusters to Kubernetes, highlighting challenges such as resource management, storage, and networking issues.
 They introduce Unicorn, a specialized layer between Kubernetes control plane and Spark applications, which provides hierarchical resource management with guaranteed quotas per user.
 The team also discusses the importance of proper porting, shuffle tracking, and dynamic allocation in optimizing Spark performance on Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                          |

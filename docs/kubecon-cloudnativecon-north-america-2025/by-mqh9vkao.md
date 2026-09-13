@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "On the Origin of Platforms: Evolution of a Capital One Enterpris... Bradley
+  Whitfield & Jacob Walden"
+nav_order: 185
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "On the Origin of Platforms: Evolution of a Capital One Enterpris... Bradley Whitfield & Jacob Walden"
-description: "In this talk, Brad Whitfield and Jake Walden from Capital One describe the evolution of their internal multi-tenant compute platform, Dragon, built on Kubernetes. They outline five stages of platform development: inception, stabilization, m..."
+description:
+  "In this talk, Brad Whitfield and Jake Walden from Capital One describe
+  the evolution of their internal multi-tenant compute platform, Dragon, built on
+  Kubernetes. They outline five stages of platform development: inception, stabilization,
+  m..."
 resource: https://www.youtube.com/watch?v=BY-mQH9VKAo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Initially, they prioritized speed and simplicity, limiting features and document
 The migration from ECS to Kubernetes enabled greater flexibility, automation, and tenant isolation, while partnerships with internal teams improved efficiency and compliance.
 As the platform matured, they adopted custom resource definitions and operators to manage complexity, supported advanced use cases, and scaled rapidly, highlighting the importance of automation, robust testing, and strong feedback loops with users.
 The presenters stress that platform evolution is a gradual, ongoing process shaped by both technical and organizational factors, and encourage teams to celebrate incremental progress and maintain open communication with stakeholders.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

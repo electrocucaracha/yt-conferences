@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Keynote] MCP Project Update with David Soria Parra - Anthropic"
-description: "David, co-creator of MCP and technical staff at Anthropic, provides an overview of MCP’s progress as it nears its one-year anniversary. He highlights the rapid growth of the ecosystem, with over 10,000 MCP servers and a wide variety of clie..."
+nav_order: 23
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  David, co-creator of MCP and technical staff at Anthropic, provides an
+  overview of MCP’s progress as it nears its one-year anniversary. He highlights the
+  rapid growth of the ecosystem, with over 10,000 MCP servers and a wide variety of
+  clie...
 resource: https://www.youtube.com/watch?v=-OAebRdfUhI
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He highlights the rapid growth of the ecosystem, with over 10,000 MCP servers an
 The protocol has seen fast-paced development, including two major new versions, improvements in streaming, authorization, and structured output, while maintaining a focus on practicality and backward compatibility.
 David discusses ongoing challenges such as scaling community governance, improving server quality, and enhancing SDK clarity, and outlines upcoming priorities like asynchronous tasks, statelessness, and server identity.
 He encourages further community involvement, emphasizes the need for better tools and standards, and expresses excitement about underutilized features like structured output and resources, while acknowledging remaining issues around security, context, and model-specific prompting.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                      |

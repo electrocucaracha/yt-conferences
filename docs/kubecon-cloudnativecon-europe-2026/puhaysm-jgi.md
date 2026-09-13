@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Ghost in the Platform: How the Dutch Tax Authority Built a Servi... Jerry
+  van Hulst, & Marcel Kerker"
+nav_order: 134
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Ghost in the Platform: How the Dutch Tax Authority Built a Servi... Jerry van Hulst, & Marcel Kerker"
-description: "The presentation introduces the Coina platform, developed by the Dutch tax authority (Belastingdienst), which manages tax collection, benefits, and customs in the Netherlands. The platform’s journey began in 2017 with the goal of maximizing..."
+description:
+  The presentation introduces the Coina platform, developed by the Dutch
+  tax authority (Belastingdienst), which manages tax collection, benefits, and customs
+  in the Netherlands. The platform’s journey began in 2017 with the goal of maximizing...
 resource: https://www.youtube.com/watch?v=PUHAYSM_jGI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Early adoption saw rapid growth, but challenges emerged as developers faced high
 To address this, the team created a structured onboarding process, a comprehensive manifesto, and the open-source Project as a Service (Paas) operator, enabling developers to provision fully configured Kubernetes environments with a single YAML request.
 The platform also offers a “golden path” of best practices, extensive documentation, workshops, and a strong community of practice, supporting over 80 teams and 160 applications across 78 OpenShift clusters.
 Looking ahead, the team aims to expand integrations, enhance automation with AI, and continue empowering developers toward self-sufficiency and standardization.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

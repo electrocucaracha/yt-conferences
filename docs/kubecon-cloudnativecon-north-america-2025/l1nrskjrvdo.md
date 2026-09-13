@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Share With Care: Efficient Device Sharing With Guaranteed... Sunyanan Choochotkaew
+  & John Belamaric"
+nav_order: 278
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Share With Care: Efficient Device Sharing With Guaranteed... Sunyanan Choochotkaew & John Belamaric"
-description: 'John Bellame and Syan introduce a new alpha feature in Kubernetes called "consumable capacity," developed as part of the Dynamic Resource Allocation (DRA) framework. They explain that traditional methods for allocating network bandwidth to...'
+description:
+  John Bellame and Syan introduce a new alpha feature in Kubernetes called
+  "consumable capacity," developed as part of the Dynamic Resource Allocation (DRA)
+  framework. They explain that traditional methods for allocating network bandwidth
+  to...
 resource: https://www.youtube.com/watch?v=L1NRskjrvDo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that traditional methods for allocating network bandwidth to pods a
 The new consumable capacity feature allows multiple resource claims to share a single device, such as a network interface card (NIC), while the scheduler tracks and enforces aggregate resource limits to prevent overcommitment.
 This is achieved through enhancements to the DRA APIs, including new fields for multi-allocation and distinct device selection, enabling more flexible and scalable resource management for networking and other hardware types.
 A live demo illustrates how these features work in practice, and the presenters note that while the feature is currently in alpha, it is expected to reach beta in a future Kubernetes release, with ongoing work to expand its capabilities and use cases.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                  |

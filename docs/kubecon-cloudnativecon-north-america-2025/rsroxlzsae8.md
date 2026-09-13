@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Rage Against the Machine: Fighting AI Complexity With Kubernetes Simplicity
+  - Paul Yu & Sachi Desai"
+nav_order: 253
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Rage Against the Machine: Fighting AI Complexity With Kubernetes Simplicity - Paul Yu & Sachi Desai"
-description: "In this session, the presenters discuss simplifying the integration of AI, specifically large language models (LLMs), into applications using Kubernetes. They highlight the challenges of grounding LLMs with accurate, context-specific data..."
+description:
+  In this session, the presenters discuss simplifying the integration of
+  AI, specifically large language models (LLMs), into applications using Kubernetes.
+  They highlight the challenges of grounding LLMs with accurate, context-specific
+  data...
 resource: https://www.youtube.com/watch?v=RsROxLzsAe8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They highlight the challenges of grounding LLMs with accurate, context-specific 
 The CNCF sandbox project Kaido is introduced as a Kubernetes-native toolchain operator that streamlines the deployment and management of AI workloads, including inference, fine-tuning, and RAG, through declarative workspaces and minimal YAML configuration.
 A live demo showcases how Kaido enables developers to quickly set up context-aware AI applications—such as a CubeCon session planner—by abstracting away infrastructure complexity and supporting flexible routing to different models and endpoints.
 The session concludes by emphasizing Kaido’s ability to consolidate disparate AI tools and frameworks into a scalable, efficient, and developer-friendly Kubernetes workflow, encouraging attendees to experiment with the demo and contribute to the project.
+
 # Main Points
 
 |   # | Main point                                                                                                                                      |

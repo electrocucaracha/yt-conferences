@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Kubernetes at the Edge – Come See It in Action! - Xavier Avrillier & Antonia
+  von den Driesch
+nav_order: 144
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Kubernetes at the Edge – Come See It in Action! - Xavier Avrillier & Antonia von den Driesch"
-description: "Antonia and Savvi from Giantswarm introduce Kubernetes at the edge, explaining that edge computing brings data processing closer to where information is generated, such as in factories with IoT devices, to address challenges like latency, b..."
+description:
+  Antonia and Savvi from Giantswarm introduce Kubernetes at the edge, explaining
+  that edge computing brings data processing closer to where information is generated,
+  such as in factories with IoT devices, to address challenges like latency, b...
 resource: https://www.youtube.com/watch?v=Wn1rE1MzZmk
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They focus on the open-source project KubeEdge, which extends Kubernetes to edge
 The architecture involves a cloud core component in the Kubernetes cluster and an edge core on each edge node, enabling edge devices to appear as standard Kubernetes nodes and continue operating workloads even when offline, thanks to local caching.
 They demonstrate a practical setup using a Raspberry Pi, webcam, and Python app to count raised hands, showing how device data is collected, mapped, and visualized through KubeEdge’s custom resources and mappers.
 The session concludes with a Q&A covering KubeEdge’s applicability beyond IoT, its resource overhead, installation process, digital twin representation, and how edge nodes maintain operation during network disconnections.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                           |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Lessons Learned Building Intelligent UIs With MCP Apps - Riley Scheid, Reboot
+  (reboot.dev)
+nav_order: 52
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Lessons Learned Building Intelligent UIs With MCP Apps - Riley Scheid, Reboot (reboot.dev)"
-description: "Riley presents lessons learned from building MCP apps over the past two months, focusing on emerging patterns and best practices. He explains that MCP apps now support returning real UI components, which is especially valuable when a graphi..."
+description:
+  Riley presents lessons learned from building MCP apps over the past two
+  months, focusing on emerging patterns and best practices. He explains that MCP apps
+  now support returning real UI components, which is especially valuable when a graphi...
 resource: https://www.youtube.com/watch?v=aRSO4yfCLxQ
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Riley discusses the challenges of implementing real-time and asynchronous commun
 He emphasizes the importance of managing state carefully, recommending the use of an authoritative state server to avoid inconsistencies between the UI, context, and model, and warns about potential pitfalls with tools like updateModelContext and sendMessage.
 Riley also highlights the significance of clear API schemas and descriptions, the need to account for client-specific behaviors (such as session handling), and introduces the Reboot framework, which simplifies building scalable, reactive, and multiplayer MCP apps with strong state management and declarative interfaces.
 The talk concludes with a Q&A covering topics like multi-user interactions, framework compatibility, authorization flows, client differences, and tool composition strategies.
+
 # Main Points
 
 |   # | Main point                                                                                                                          |

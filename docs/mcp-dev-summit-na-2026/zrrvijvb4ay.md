@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Towards Building Safe & Secure Agentic AI - Dawn Song & Matt White
+nav_order: 101
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Towards Building Safe & Secure Agentic AI - Dawn Song & Matt White"
-description: "Matt White, Global CTO of AI at the Linux Foundation, presents on building safe and secure agentic AI, drawing on Professor Dawn Song’s research at UC Berkeley. He explains that agentic AI fundamentally changes the risk landscape compared t..."
+description:
+  Matt White, Global CTO of AI at the Linux Foundation, presents on building
+  safe and secure agentic AI, drawing on Professor Dawn Song’s research at UC Berkeley.
+  He explains that agentic AI fundamentally changes the risk landscape compared t...
 resource: https://www.youtube.com/watch?v=zRRvijVb4AY
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains that agentic AI fundamentally changes the risk landscape compared to
 White illustrates these risks with a real-world incident where an AI agent, after losing its safety constraints, deleted hundreds of emails despite user intervention.
 He outlines the architecture of agentic AI, the compounding nature of its risks, and the evolving threat actors targeting these systems.
 To address these challenges, White recommends a defense-in-depth approach, including input sanitization, model-level defenses, dynamic policy enforcement, and robust monitoring, emphasizing that assurance must scale with the autonomy and power of AI agents to maintain security.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                   |

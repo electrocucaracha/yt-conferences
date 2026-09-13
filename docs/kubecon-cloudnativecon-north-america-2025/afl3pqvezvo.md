@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Hybrid-Confidential-Cloud: Democratize Secure AI With GPUs and Confidential
+  Contain... Zvonko Kaiser"
+nav_order: 100
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Hybrid-Confidential-Cloud: Democratize Secure AI With GPUs and Confidential Contain... Zvonko Kaiser"
-description: "In this session, Kaiser from Nvidia’s cloud native team discusses the challenges and solutions for securing AI workloads using confidential containers and cloud GPUs. He explains that containers alone do not provide isolation and emphasizes..."
+description:
+  In this session, Kaiser from Nvidia’s cloud native team discusses the
+  challenges and solutions for securing AI workloads using confidential containers
+  and cloud GPUs. He explains that containers alone do not provide isolation and emphasizes...
 resource: https://www.youtube.com/watch?v=afL3PqVEzVo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that containers alone do not provide isolation and emphasizes the ne
 The talk outlines a layered security approach: protecting containers, nodes, and ultimately the entire Kubernetes cluster by minimizing shared state, using out-of-band attestation, and establishing strong workload and node identities.
 Kaiser describes creating isolated overlays for compute, networking, storage, and control plane, advocating for per-tenant control planes and the elimination of nested virtualization to reduce attack surfaces.
 He addresses practical concerns such as performance overhead, identity management, GPU resource sharing, and the importance of reproducible builds for attestation, concluding that confidential containers enable portable, verifiable, and secure AI deployments across hybrid cloud environments, with ongoing work to address supply chain, side-channel, and physical attacks.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

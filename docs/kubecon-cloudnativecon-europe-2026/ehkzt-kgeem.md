@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Retroactive Sampling with OpenTelemetry: Cut 90% Distributed Traci... Roman
+  Khavronenko & Zhu Jiekun"
+nav_order: 309
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Retroactive Sampling with OpenTelemetry: Cut 90% Distributed Traci... Roman Khavronenko & Zhu Jiekun"
-description: "In this session, Shu-Jie Khun and Roman Khvoroenkov from VictoriaMetrics introduced the concept of retroactive sampling in OpenTelemetry as a way to reduce the costs associated with distributed tracing. They explained the challenges of trad..."
+description:
+  In this session, Shu-Jie Khun and Roman Khvoroenkov from VictoriaMetrics
+  introduced the concept of retroactive sampling in OpenTelemetry as a way to reduce
+  the costs associated with distributed tracing. They explained the challenges of
+  trad...
 resource: https://www.youtube.com/watch?v=ehKzt_kGEeM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explained the challenges of traditional head and tail sampling methods, par
 Retroactive sampling addresses these issues by extracting only key information needed for sampling decisions, sending minimal data to a centralized sampling server, and buffering full spans locally until a decision is made, thus significantly reducing network traffic and resource usage.
 Benchmark results showed that retroactive sampling can cut network traffic by 70% and lower CPU and memory consumption compared to tail sampling, with only a modest increase in disk usage.
 The speakers also discussed trade-offs, such as limitations when sampling based on many attributes, and answered questions about implementation details, emphasizing their intent to open source their solution and inviting community feedback.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

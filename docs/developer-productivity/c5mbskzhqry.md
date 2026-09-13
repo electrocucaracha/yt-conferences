@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  Streamlining Large-Scale Java Development Using Error Prone • Sander Mak •
+  GOTO 2022
+nav_order: 127
+parent: Developer Productivity
 type: Video Note
-title: "Streamlining Large-Scale Java Development Using Error Prone • Sander Mak • GOTO 2022"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=C5MBsKZHqrY
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: The speaker discusse
 They created custom book checks using the Error Prone API to identify specific issues, such as unused methods or incorrect usage of APIs, and even rewrote code to conform to a desired style.
 The speaker also demonstrated how they integrated Error Prone into their CI/CD pipeline to ensure that all code changes adhered to their coding standards.
 By automating these tasks, the team was able to improve code quality, reduce errors, and increase productivity.
+
 # Main Points
 
 |   # | Main point                                                                                                                  |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Symbiosis of Storage and Workloads: Longhorn for Hyperconverged Bl...
+  Jinhong Kim & Jangseon Ryu"
+nav_order: 369
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Symbiosis of Storage and Workloads: Longhorn for Hyperconverged Bl... Jinhong Kim & Jangseon Ryu"
-description: "In this presentation, the speakers from Naver, a leading South Korean internet company, discuss the challenges of operating large-scale storage for distributed applications and how they addressed these issues by adopting a hyper-converged s..."
+description:
+  In this presentation, the speakers from Naver, a leading South Korean
+  internet company, discuss the challenges of operating large-scale storage for distributed
+  applications and how they addressed these issues by adopting a hyper-converged s...
 resource: https://www.youtube.com/watch?v=qNxIebuifp8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that their previous centralized storage system led to cost ineffici
 To overcome these problems, they implemented a flexible model that combines the strengths of both centralized and local storage, focusing on five key goals: flexible replication, improved workload isolation, locality with service continuity, coordinated scheduling, and storage mobility.
 By leveraging Longhorn’s data locality features and Kubernetes’ CSI storage capacity, they improved scheduling decisions to better align storage and workload placement, though they identified limitations in Kubernetes’ default scheduling, particularly for rescheduling events.
 To address this, they developed a custom scheduler that considers both storage capacity and the location of existing replicas, enhancing storage-aware scheduling for hyper-converged environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                 |

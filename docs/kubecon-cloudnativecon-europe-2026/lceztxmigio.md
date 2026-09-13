@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "From Chaos to Control: A Prescription for Managing Apps on Private Cellular
+  Networks - Luis Ariza"
+nav_order: 115
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Chaos to Control: A Prescription for Managing Apps on Private Cellular Networks - Luis Ariza"
-description: "Luis Arisa discusses the evolution of deploying private cellular networks, highlighting how the process has shifted from complex, on-premise, and repetitive tasks to a much simpler approach enabled by new technologies. He introduces a solut..."
+description:
+  Luis Arisa discusses the evolution of deploying private cellular networks,
+  highlighting how the process has shifted from complex, on-premise, and repetitive
+  tasks to a much simpler approach enabled by new technologies. He introduces a solut...
 resource: https://www.youtube.com/watch?v=lceZtXmIGio
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He introduces a solution that leverages Kubernetes, cloud-native tools, artifici
 The system integrates open-source software, AI-powered 3GPP expertise, and automation to streamline network deployment, monitoring, and self-healing, reducing the need for specialized knowledge and minimizing costs and complexity.
 Through live demos, Luis demonstrates that anyone, regardless of age or background, can set up a private cellular network with minimal hardware requirements and a single command, emphasizing the democratization and accessibility of advanced telecom infrastructure.
 He concludes by answering questions about hardware needs and clarifying aspects of network connectivity, reinforcing the practicality and scalability of his approach.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

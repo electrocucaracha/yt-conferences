@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Intelligent LLM Routing: A New Paradigm for Multi-Model AI Orchestration...
+  Chen Wang & Huamin Chen"
+nav_order: 106
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Intelligent LLM Routing: A New Paradigm for Multi-Model AI Orchestration... Chen Wang & Huamin Chen"
-description: "The session introduces an open-source project called VM Semantic Router, designed to optimize intelligent routing and semantic caching for large language model (LLM) workloads within Kubernetes and cloud environments. The project addresses..."
+description:
+  The session introduces an open-source project called VM Semantic Router,
+  designed to optimize intelligent routing and semantic caching for large language
+  model (LLM) workloads within Kubernetes and cloud environments. The project addresses...
 resource: https://www.youtube.com/watch?v=DIwlL5Z8v1o
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The project addresses key inefficiencies in LLM inference, such as misrouting qu
 By employing advanced classification techniques, semantic caching, and jailbreaking detection, the router intelligently selects the most suitable model and reasoning chain for each query, significantly improving both accuracy and cost-effectiveness.
 Benchmarking results show that the router’s auto-selection mode outperforms single-model deployments in accuracy while reducing average costs by nearly 40%, and its hybrid in-memory caching architecture delivers up to 15 times faster cache lookups.
 The system is implemented as a Rust core with Go integration, supports CNCF observability tools, and is extensible for various AI gateway and Kubernetes deployments, with ongoing research and community contributions encouraged.
+
 # Main Points
 
 |   # | Main point                                                                                         |

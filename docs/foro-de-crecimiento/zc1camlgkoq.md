@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Domina el Escenario \U0001F3A4: Secretos para Hablar en Público | Paco Benitez
+  sesión de crecimiento #6"
+nav_order: 16
+parent: Foro De Crecimiento
 type: Video Note
-title: "Domina el Escenario 🎤: Secretos para Hablar en Público | Paco Benitez sesión de crecimiento #6"
-description: "En esta conversación, Paco Benítez, coach de conferencistas, comparte su experiencia y consejos sobre la importancia de la comunicación efectiva, destacando que no basta con tener conocimientos o habilidades técnicas si no se sabe transmiti..."
+description:
+  En esta conversación, Paco Benítez, coach de conferencistas, comparte
+  su experiencia y consejos sobre la importancia de la comunicación efectiva, destacando
+  que no basta con tener conocimientos o habilidades técnicas si no se sabe transmiti...
 resource: https://www.youtube.com/watch?v=Zc1CaMlgKoQ
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ En esta conversación, Paco Benítez, coach de conferencistas, comparte su exper
 Explica que la percepción del público se basa más en cómo se comunica que en lo que realmente se sabe, y que muchas oportunidades profesionales se pierden por falta de habilidades de comunicación.
 Paco enfatiza la necesidad de conectar con la audiencia a través de historias, carisma y autenticidad, dejando de lado la oratoria tradicional y enfocándose en ser natural y entretenido.
 Además, ofrece recomendaciones prácticas sobre lenguaje corporal, manejo de nervios, estructura del discurso y la importancia de tener un propósito claro al comunicar, concluyendo que en igualdad de condiciones, quien mejor comunica es quien más oportunidades tiene de destacar y trascender.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Enterprise-Scale Migrations Using Agentic Workflows with Human-in... Alvaro
+  Saurin & Jose M Navarro
+nav_order: 103
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Enterprise-Scale Migrations Using Agentic Workflows with Human-in... Alvaro Saurin & Jose M Navarro"
-description: "Albert Saurin and Jose Manuel Navaro, senior software engineers at Adobe, described their team's complex migration of an API gateway from an older engineext and Lua-based system to a modern stack using Envoy and Argo CD. The migration invol..."
+description:
+  Albert Saurin and Jose Manuel Navaro, senior software engineers at Adobe,
+  described their team's complex migration of an API gateway from an older engineext
+  and Lua-based system to a modern stack using Envoy and Argo CD. The migration invol...
 resource: https://www.youtube.com/watch?v=m6jAXyS9_Ek
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The migration involved over 2,600 services across 500+ clusters, handling massiv
 To address the scale and complexity, they developed a semi-autonomous workflow using coding agents and custom LLM-based agents: coding agents generated deterministic translation tools for configuration files, while custom agents managed verification, DNS cutover, and monitoring, invoking human engineers only when necessary.
 This approach allowed parallel migrations, reduced manual intervention, and ensured reliability by using golden files for regression checks and strict security controls.
 The team found that LLMs excelled at generating code but struggled with direct configuration translation, and that agentic workflows enabled efficient, large-scale migrations with minimal downtime and oversight.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

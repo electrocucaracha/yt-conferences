@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Make GenAI Production-Ready With Kubernetes Patterns - Roland Huss, Red Hat
+  & Bilgin Ibryam, Diagrid
+nav_order: 215
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Make GenAI Production-Ready With Kubernetes Patterns - Roland Huss, Red Hat & Bilgin Ibryam, Diagrid"
-description: "In this session, the speakers introduce themselves as experts in Kubernetes and generative AI, highlighting their collaborative work on books about Kubernetes patterns and running generative AI workloads. They explain how traditional Kubern..."
+description:
+  In this session, the speakers introduce themselves as experts in Kubernetes
+  and generative AI, highlighting their collaborative work on books about Kubernetes
+  patterns and running generative AI workloads. They explain how traditional Kubern...
 resource: https://www.youtube.com/watch?v=tLK5jyhQOgA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain how traditional Kubernetes patterns—such as controller, init cont
 The discussion covers emerging patterns specific to generative AI, such as efficient model data initialization using persistent volumes, model cars, and the new image volume type in Kubernetes 1.35, which streamlines mounting large model data.
 They also address advanced request routing for LLMs, emphasizing the need for state-aware routing based on model load and cache, and introduce prefix-aware and split-phase routing for improved efficiency.
 Finally, they discuss the retrieval augmented generation (RAG) pattern, demonstrating how Kubernetes primitives support complex AI pipelines, and encourage attendees to consult their books for further details.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

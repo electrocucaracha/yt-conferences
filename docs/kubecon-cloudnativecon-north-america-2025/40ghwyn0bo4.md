@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Fluent Bit: Smarter Telemetry Routing, Faster Pipelines - Eduardo Silva, Chronosphere"
-description: "Eduardo Silva, creator and maintainer of Fluent Bit, opened his conference presentation by discussing the project's history, its evolution from embedded Linux to cloud environments, and its recent organizational change, with Fluent Bit and..."
+nav_order: 80
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  Eduardo Silva, creator and maintainer of Fluent Bit, opened his conference
+  presentation by discussing the project's history, its evolution from embedded Linux
+  to cloud environments, and its recent organizational change, with Fluent Bit and...
 resource: https://www.youtube.com/watch?v=40gHwYn0bo4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He introduced a major new feature: next-generation routing, which allows users t
 Silva demonstrated this feature with examples and explained how it reduces computing time and CPU usage, referencing a real-world case where OpenAI halved CPU consumption by adjusting configuration.
 He also highlighted Fluent Bit's pluggable architecture, support for various input sources (including syslog and Windows event logs), and recent enhancements in security and trace sampling.
 During the Q&A, Silva addressed questions about Fluent Bit's role as an aggregator or collector, its multi-threaded processing improvements, Windows support, OTLP attribute modification, AWS integration, and advanced data manipulation capabilities, emphasizing ongoing community engagement and the importance of benchmarking for specific use cases.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

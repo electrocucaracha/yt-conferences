@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Call Now, Fetch Later: MCP Tasks and SEP-1686 - Adam Azzam, Prefect"
-description: "In this talk, Adam from Prefect discusses SEP 1686, which addresses task execution and orchestration in the MCP ecosystem. He explains the historical challenges of building resilient, reliable task orchestration, such as the risks of colloc..."
+nav_order: 6
+parent: Mcp Dev Summit Na 2026
+type: Video Note
+description:
+  In this talk, Adam from Prefect discusses SEP 1686, which addresses task
+  execution and orchestration in the MCP ecosystem. He explains the historical challenges
+  of building resilient, reliable task orchestration, such as the risks of colloc...
 resource: https://www.youtube.com/watch?v=isKuHXRf6wM
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains the historical challenges of building resilient, reliable task orche
 SEP 1686 proposes a protocol for assigning task IDs, managing state machines, and retrieving results, but widespread adoption has been hindered by limited client implementation, creating a chicken-and-egg problem between clients and servers.
 To work around this, Adam demonstrates using MCP apps and iframes to enable background task execution and polling for results, even with "bad" clients that lack native support.
 While this approach is a workaround rather than an ideal solution, it allows for resilient, non-blocking applications and highlights the need for better client support to fully realize the benefits of task orchestration in MCP.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

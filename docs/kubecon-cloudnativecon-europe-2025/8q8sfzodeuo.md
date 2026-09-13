@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Tutorial: Hacking up a Storm With Kubernetes - Rory McCune, Datadog; Marion
+  McCune & Iain Smart"
+nav_order: 351
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Tutorial: Hacking up a Storm With Kubernetes - Rory McCune, Datadog; Marion McCune & Iain Smart"
-description: 'The tutorial demonstrated how to bypass Kubernetes security controls by exploiting vulnerabilities in the system. The presenter used a service account token to gain elevated privileges and create a new role with "star" rights, which allowed...'
+description:
+  The tutorial demonstrated how to bypass Kubernetes security controls
+  by exploiting vulnerabilities in the system. The presenter used a service account
+  token to gain elevated privileges and create a new role with "star" rights, which
+  allowed...
 resource: https://www.youtube.com/watch?v=8Q8sFzODEUo
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The tutorial demonstrated how to bypass Kubernetes security controls by exploiti
 The presenter used a service account token to gain elevated privileges and create a new role with "star" rights, which allowed them to access any resource in the cluster.
 They also exploited an unpatchable CVE to hijack traffic between namespaces, demonstrating the importance of network policies and admission control.
 The presenter emphasized the need for careful permission management, minimal access, and segregation of resources to prevent similar vulnerabilities.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

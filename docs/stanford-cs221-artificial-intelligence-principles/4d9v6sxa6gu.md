@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 14: Bayesian Networks and Learning"
-description: "The lecture reviews Bayesian networks, which define joint probability distributions over sets of variables using directed acyclic graphs, with each node representing a random variable and associated local conditional distributions. It cover..."
+nav_order: 5
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture reviews Bayesian networks, which define joint probability
+  distributions over sets of variables using directed acyclic graphs, with each node
+  representing a random variable and associated local conditional distributions. It
+  cover...
 resource: https://www.youtube.com/watch?v=4d9V6Sxa6gU
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ It covers probabilistic inference methods, including exact inference, rejection 
 The main focus is on learning the parameters of Bayesian networks from fully observed data by counting occurrences of variable assignments and normalizing to estimate probabilities, with examples scaling from simple to more complex networks and introducing parameter sharing to reduce the number of parameters.
 The lecture also discusses maximum likelihood estimation as the underlying principle for parameter learning, Laplace smoothing to address overfitting with limited data, and the expectation-maximization (EM) algorithm for handling partially observed data by iteratively estimating hidden variables and updating parameters.
 The session concludes by emphasizing the importance of parameter sharing, smoothing, and EM in practical Bayesian network learning, and previews a shift to logic-based reasoning in future lectures.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

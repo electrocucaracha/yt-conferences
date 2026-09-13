@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Let's Have Harbor Everywhere! - Orlin Vasilev, Maintainer/Community
+  Manager"
+nav_order: 227
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Let's Have Harbor Everywhere! - Orlin Vasilev, Maintainer/Community Manager"
-description: "Olen, the Harvard community maintainer, CNCF ambassador, and open source technology advocate at SUSA, introduces Harbor as a mature and renowned CNCF graduated project, clarifying that it is more than just a container registry and now suppo..."
+description:
+  Olen, the Harvard community maintainer, CNCF ambassador, and open source
+  technology advocate at SUSA, introduces Harbor as a mature and renowned CNCF graduated
+  project, clarifying that it is more than just a container registry and now suppo...
 resource: https://www.youtube.com/watch?v=t0boSezfVLE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He outlines Harbor’s history, noting its inception at VMware in 2014, open sou
 Recent updates include two new releases since London, featuring long-awaited TLS support for Radius connections, expanded language support, enhanced garbage collection, and improved cloud native AI model integration.
 Olen highlights the upcoming addition of multi-architecture builds, enabling Harbor to run on ARM thanks to Ronnie’s contributions, with this feature expected in version 2.15.
 He demonstrates Harbor running on ARM in his local K3S cluster and invites the community, including those interested in RISC-V support, to connect and join the maintainers track for more detailed updates.
+
 # Main Points
 
 |   # | Main point                                                                                                              |

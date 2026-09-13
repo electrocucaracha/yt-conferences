@@ -1,11 +1,23 @@
 ---
+layout: default
+title: How I Moved from Manager to Director Without Even Asking for the Promotion
+nav_order: 16
+parent: Leadership Skills
 type: Video Note
-title: "How I Moved from Manager to Director Without Even Asking for the Promotion"
-description: "In this video, Doug Howard shares his personal experience of advancing from a manager to a director role, achieving a 30% salary increase without even requesting it. He explains that despite years of hard work and delivering results, promot..."
+description:
+  In this video, Doug Howard shares his personal experience of advancing
+  from a manager to a director role, achieving a 30% salary increase without even
+  requesting it. He explains that despite years of hard work and delivering results,
+  promot...
 resource: https://www.youtube.com/watch?v=XGQgvd9Y5Zk
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ Doug emphasizes the importance of building influence, particularly with key deci
 He details how he strategically built a relationship with his boss’s boss by showing appreciation for the parent company’s resources, making small, incremental requests, and aligning himself with the executive’s goals for growth, automation, and collaboration.
 By actively engaging in strategic discussions and demonstrating his value at a higher level, Doug was eventually promoted, illustrating that reputation and influence are crucial for career advancement.
 He concludes by highlighting a simple three-step framework for influencing decisions, encouraging viewers to focus on relationships and strategic visibility to move up in their careers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                  |

@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Adopting a Fleet-first Mindset - Andy Beane, Spotify
+nav_order: 11
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Adopting a Fleet-first Mindset - Andy Beane, Spotify"
-description: 'The speaker, an engineer at Spotify, discusses the challenges of managing software at scale and the evolution toward a "fleet first" mindset, which treats all software components as a unified fleet. Historically, migrations and updates acro...'
+description:
+  The speaker, an engineer at Spotify, discusses the challenges of managing
+  software at scale and the evolution toward a "fleet first" mindset, which treats
+  all software components as a unified fleet. Historically, migrations and updates
+  acro...
 resource: https://www.youtube.com/watch?v=-E9ffAB3DoA
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Historically, migrations and updates across Spotify’s vast and complex ecosyst
 By standardizing on "golden technologies," adopting declarative infrastructure, and building the Fleet Shift platform, Spotify now automates fleetwide changes—such as dependency updates, security patches, and infrastructure optimizations—through automated pull requests and continuous monitoring, drastically reducing manual effort and engineering toil.
 This approach has saved hundreds of thousands of engineering hours, enabled rapid responses to incidents (e.g., patching 80% of services for Log4j in 11 hours), and improved the consistency and reliability of software maintenance.
 Looking ahead, Spotify aims to further enhance fleet management with AI-driven automation and broader adoption, continuing to reduce complexity and empower engineers to focus on higher-value work.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

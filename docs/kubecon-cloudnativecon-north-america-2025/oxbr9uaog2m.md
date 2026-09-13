@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Bringing Agentic AI To Cloud Native With Kagent -
+  Eitan Yarmush"
+nav_order: 208
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Bringing Agentic AI To Cloud Native With Kagent - Eitan Yarmush"
-description: "Eton Yarmish, an architect at solo.io and maintainer of K agent, introduces the K agent project by first explaining the fundamental components of an agent: a system prompt, a language model (LM), and tools. He describes the agent's core loo..."
+description:
+  "Eton Yarmish, an architect at solo.io and maintainer of K agent, introduces
+  the K agent project by first explaining the fundamental components of an agent:
+  a system prompt, a language model (LM), and tools. He describes the agent's core
+  loo..."
 resource: https://www.youtube.com/watch?v=oXBr9UAOG2M
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He describes the agent's core loop, where a user message is processed by the sys
 Yarmish likens the agent stack to a layered cake, with frameworks orchestrating agents that use tools, and notes that this structure is inherently declarative, making it suitable for Kubernetes.
 K agent enables users to define agents in YAML by specifying the model configuration, system prompt, and tools, simplifying deployment and management within Kubernetes environments.
 The project is new but gaining traction, with some companies already running it in production, and Yarmish invites attendees to learn more at the Solo IO booth.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                           |

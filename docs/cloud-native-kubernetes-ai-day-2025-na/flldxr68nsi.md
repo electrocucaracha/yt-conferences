@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Sponsored Keynote: Cloud-Native GraphRAG: AI’s Logical Edge - Stephen Chin,
+  Neo4j"
+nav_order: 13
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Sponsored Keynote: Cloud-Native GraphRAG: AI’s Logical Edge - Stephen Chin, Neo4j"
-description: "The speaker, who is VP at Neo Forj and content chair at the AI LFN Data Foundation, introduces a session focused on improving AI model quality and accuracy using graph RAG (Retrieval-Augmented Generation). After highlighting the importance..."
+description:
+  The speaker, who is VP at Neo Forj and content chair at the AI LFN Data
+  Foundation, introduces a session focused on improving AI model quality and accuracy
+  using graph RAG (Retrieval-Augmented Generation). After highlighting the importance...
 resource: https://www.youtube.com/watch?v=flldXr68NsI
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The speaker, who is VP at Neo Forj and content chair at the AI LFN Data Foundati
 After highlighting the importance of diversity in technology, the speaker presents a logic problem about seating girls in a classroom, illustrating how both humans and AI models approach such challenges differently.
 The discussion reveals that AI models, like GPT-5, may anchor on familiar patterns from their training data, leading to biased or suboptimal solutions, whereas graph algorithms can offer more logical and accurate reasoning.
 The speaker then demonstrates how graph RAG, as part of the open platform for enterprise AI, can enhance model relevance and context by loading documents into a graph database and querying them, showcasing the practical benefits of this approach for improving AI outcomes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                   |

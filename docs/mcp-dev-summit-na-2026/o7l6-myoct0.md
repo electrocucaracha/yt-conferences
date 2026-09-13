@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Benchmarks To Business Value: Building a Use-Case Specific Agen... Gaurav
+  Saxena & Matvey Kukuy"
+nav_order: 26
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "From Benchmarks To Business Value: Building a Use-Case Specific Agen... Gaurav Saxena & Matvey Kukuy"
-description: "In this presentation, Gor of Saxa and Metway discuss the challenges of evaluating AI agents in real-world, production environments, particularly within complex, infrastructure-dependent domains like automotive telemetry and incident respons..."
+description:
+  In this presentation, Gor of Saxa and Metway discuss the challenges of
+  evaluating AI agents in real-world, production environments, particularly within
+  complex, infrastructure-dependent domains like automotive telemetry and incident
+  respons...
 resource: https://www.youtube.com/watch?v=o7L6_MyOCt0
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They argue that generic model benchmarks fail to capture the nuanced operational
 The team proposes an agent evaluation framework combining three approaches: static validators (rule-based checks on tool usage), sub-agent auditors (agents that assess whether objectives are met), and observer agents (external evaluators analyzing agent traces), each with its own strengths and limitations.
 They emphasize the importance of continuous, scenario-specific evaluation and metrics collection to ensure agent reliability, while acknowledging the challenges of environment-specific testing and the risk of blind spots in agent performance data.
 The presenters invite the community to contribute to their open-source efforts and further refine these evaluation methods.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                  |

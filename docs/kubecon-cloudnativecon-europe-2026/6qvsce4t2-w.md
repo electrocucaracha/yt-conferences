@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Exploring NRI for Automated CA Trust Injection - Tsuzuki Tsuchiya & Kento Kubo,
+  LY Corporation
+nav_order: 110
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Exploring NRI for Automated CA Trust Injection - Tsuzuki Tsuchiya & Kento Kubo, LY Corporation"
-description: "In this presentation, Suzuit and Kent Kubo discuss the challenges of injecting private CA certificates into containers within their private cloud infrastructure, which operates over 1,000 Kubernetes clusters. They review existing approaches..."
+description:
+  In this presentation, Suzuit and Kent Kubo discuss the challenges of
+  injecting private CA certificates into containers within their private cloud infrastructure,
+  which operates over 1,000 Kubernetes clusters. They review existing approaches...
 resource: https://www.youtube.com/watch?v=6qvsce4t2_w
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They review existing approaches—such as modifying Dockerfiles, using init cont
 To address these issues, they developed an automated solution using the Node Resource Interface (NRI), which enables OS- and language-aware CA certificate injection during container startup with minimal user intervention, requiring only a pod annotation.
 Their implementation leverages NRI plugins, OCI hooks, and an entry point modifier to detect environments and inject certificates appropriately, currently supporting NodeJS and Python, with plans to add Java and other languages.
 While their approach simplifies certificate management and improves automation, it requires node-level privileges and does not yet support read-only filesystems or complete CA replacement, but future work aims to address these limitations and integrate with Kubernetes standards like cluster trust bundles.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

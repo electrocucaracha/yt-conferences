@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Closing Remarks"
-description: "The speaker expresses gratitude to the keynote speakers, co-chairs, and attendees for their energy and contributions to the event, highlighting the significance of CubeCon Amsterdam 2023 as a personal milestone and one of the largest attend..."
+nav_order: 167
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  The speaker expresses gratitude to the keynote speakers, co-chairs, and
+  attendees for their energy and contributions to the event, highlighting the significance
+  of CubeCon Amsterdam 2023 as a personal milestone and one of the largest attend...
 resource: https://www.youtube.com/watch?v=D5Lv3dstAfA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They reflect on their journey from giving their first talk at CubeCon to co-chai
 The speaker then announces the transition of the co-chair role to Abdel Skiar, acknowledging his strong presence in the community, and Abdel expresses his honor and excitement to join the leadership team.
 Attendees are reminded that breakout sessions resume at 11 a.m., the solution showcase closes at 2 p.m., and to visit sponsors before the event concludes.
 The closing remarks encourage continued engagement at future CubeCon and Cloud Native Con events and thank everyone for their participation.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

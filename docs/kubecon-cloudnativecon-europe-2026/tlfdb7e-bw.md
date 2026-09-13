@@ -1,11 +1,22 @@
 ---
+layout: default
+title: The Future of Kubernetes Node Lifecycle - Lucy Sweet, Uber & Dawn Chen, Google
+nav_order: 357
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Future of Kubernetes Node Lifecycle - Lucy Sweet, Uber & Dawn Chen, Google"
-description: "The speakers discuss the evolution and future of Kubernetes node lifecycle management, particularly in the context of supporting increasingly complex workloads such as AI, machine learning, and high-performance computing. They highlight how..."
+description:
+  The speakers discuss the evolution and future of Kubernetes node lifecycle
+  management, particularly in the context of supporting increasingly complex workloads
+  such as AI, machine learning, and high-performance computing. They highlight how...
 resource: https://www.youtube.com/watch?v=-TlFdB7E-Bw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They highlight how Kubernetes has shifted from managing simple web services to o
 Key issues identified include the lack of nuanced maintenance signaling, inadequate node readiness checks, inconsistent feature discovery, and difficulties ensuring application availability during disruptions.
 To address these, the team is introducing features such as the eviction request API for more controlled pod evictions, node-declared features for standardized capability reporting, and customizable node readiness gates.
 The overarching goal is to abstract away node management complexities so users can focus on deploying applications, with ongoing efforts to move towards higher-level workload abstractions and improved automation, all supported by a broad Kubernetes contributor community.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

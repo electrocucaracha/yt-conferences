@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Sponsored Keynote: From Open Source to Real-World Scale - Aleksandr Patrushev,
+  Nebius"
+nav_order: 14
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Sponsored Keynote: From Open Source to Real-World Scale - Aleksandr Patrushev, Nebius"
-description: "The speaker introduces Nibbus, a NASDAQ-listed, engineering-led company building AI cloud infrastructure designed to empower innovators of all sizes. Nibbus is a strategic Nvidia partner and is vertically integrated, handling everything fro..."
+description:
+  The speaker introduces Nibbus, a NASDAQ-listed, engineering-led company
+  building AI cloud infrastructure designed to empower innovators of all sizes. Nibbus
+  is a strategic Nvidia partner and is vertically integrated, handling everything
+  fro...
 resource: https://www.youtube.com/watch?v=Co6uOtTp_OY
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Nibbus is a strategic Nvidia partner and is vertically integrated, handling ever
 The company aims to address key challenges in AI infrastructure—speed, performance and stability, simplicity, flexibility, and expertise—by offering a fully virtualized cloud that delivers physical GPU performance and user-friendly operations.
 Open source plays a central role in their stack, with technologies like Kubernetes, Slurm (and their own open-sourced Slurm operator), and various networking and storage solutions, as well as numerous open-source MLOps tools and language models.
 The speaker invites attendees to learn more, visit their booth, and try out their platform with provided credits.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

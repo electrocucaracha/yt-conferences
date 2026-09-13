@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Mastering Leadership Adaptability - The Key to Climbing the Career Ladder
+nav_order: 34
+parent: Leadership Skills
 type: Video Note
-title: "Mastering Leadership Adaptability - The Key to Climbing the Career Ladder"
-description: "In this video, the host discusses the growing need for adaptability among leaders due to rapid technological and organizational changes. Special guest Susan Bond, a former COO and current leadership coach, shares her insights on how leaders..."
+description:
+  In this video, the host discusses the growing need for adaptability among
+  leaders due to rapid technological and organizational changes. Special guest Susan
+  Bond, a former COO and current leadership coach, shares her insights on how leaders...
 resource: https://www.youtube.com/watch?v=RwDsoWAUiSU
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Special guest Susan Bond, a former COO and current leadership coach, shares her 
 Susan emphasizes the importance of building relationships across organizational layers, understanding different perspectives, and developing empathy to overcome rigid thinking.
 She explains that leadership is complex rather than complicated, requiring flexibility, self-awareness, and the ability to unite people with diverse incentives and backgrounds.
 Practical tips include proactively building cross-functional relationships, embracing discomfort, seeking out new experiences, and practicing deeper levels of listening to become more responsive and effective in dynamic environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Moldable Development with Glamorous Toolkit • Tudor Girba • YOW! 2023
+nav_order: 92
+parent: Developer Productivity
 type: Video Note
-title: "Moldable Development with Glamorous Toolkit • Tudor Girba • YOW! 2023"
-description: 'The speaker introduces "moldable development," a new approach to programming that emphasizes creating custom tools tailored to each specific development problem, aiming to make software systems more explainable for humans. Demonstrating thi...'
+description:
+  The speaker introduces "moldable development," a new approach to programming
+  that emphasizes creating custom tools tailored to each specific development problem,
+  aiming to make software systems more explainable for humans. Demonstrating thi...
 resource: https://www.youtube.com/watch?v=_ztGZpo9I9E
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Demonstrating this concept through the open-source platform Glamorous Toolkit, t
 The process is highly interactive and fluid, allowing for seamless integration of different languages and data sources, and supports both reading and editing tasks by enabling the creation of custom views and editors.
 The speaker argues that most time in software engineering is spent reading and understanding systems, so optimizing for explainability and decision-making—by automating the creation of contextual, executable documentation and tools—can transform how developers interact with and comprehend complex systems.
 Ultimately, the talk advocates for a shift in perspective: rather than relying on rigid, generic tools, developers should be empowered to mold their environments to fit their unique contexts, fostering deeper understanding and more effective problem-solving.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

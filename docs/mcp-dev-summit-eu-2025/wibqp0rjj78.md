@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Hidden powers of MCP Gateways: Solving OAuth and Analytics Challenges"
-description: "Philip Mlinsy, co-founder of Glass Cube, shares the story behind building HyperMCP, an open-source gateway for MCP servers that his team initially did not intend to create. The talk outlines the main challenges users face with MCP servers—d..."
+nav_order: 34
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  Philip Mlinsy, co-founder of Glass Cube, shares the story behind building
+  HyperMCP, an open-source gateway for MCP servers that his team initially did not
+  intend to create. The talk outlines the main challenges users face with MCP servers—d...
 resource: https://www.youtube.com/watch?v=wIbQp0rJj78
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ The talk outlines the main challenges users face with MCP servers—difficulty i
 HyperMCP addresses these issues by providing a gateway that simplifies setup, adds authentication and analytics features, and acts as a protocol translator, similar to how Cloudflare protects and manages websites.
 Through a live demo, Philip demonstrates how HyperMCP can be easily deployed to add authentication and analytics to MCP servers, and explains the technical approach to integrating prompts and history analytics by modifying tool responses.
 He concludes by discussing future plans for deeper IDP integration, enhanced blocking rules for organizational control, and ongoing adaptation to evolving protocol standards, inviting interested users to join the waitlist for HyperMCP.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                      |

@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Experto en Ingresos: El Mercado No Paga Esfuerzo, Paga Habilidades"
-description: "En esta extensa conversación, Mauricio Benoist, rector de la Universidad IBL y experto en liderazgo y negocios, explica que las habilidades operativas tradicionales suelen ser de bajos ingresos, mientras que las habilidades de altos ingreso..."
+nav_order: 33
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En esta extensa conversación, Mauricio Benoist, rector de la Universidad
+  IBL y experto en liderazgo y negocios, explica que las habilidades operativas tradicionales
+  suelen ser de bajos ingresos, mientras que las habilidades de altos ingreso...
 resource: https://www.youtube.com/watch?v=3cUqPgq04K0
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +24,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 En esta extensa conversación, Mauricio Benoist, rector de la Universidad IBL y experto en liderazgo y negocios, explica que las habilidades operativas tradicionales suelen ser de bajos ingresos, mientras que las habilidades de altos ingresos se reflejan en una mayor remuneración por parte del mercado.
 Benoist identifica cinco habilidades clave para aumentar los ingresos: mentalidad creadora (capacidad de diseñar y escalar modelos de negocio), ventas (incluyendo habilidades humanas y el uso de funnels digitales), gestión efectiva del tiempo (diferenciando entre actividades proactivas y reactivas), construcción de una marca personal sólida (no ligada a un producto o empresa específica, sino a la reputación y el valor que se aporta), y dominio de la tecnología (aprovechando herramientas e inteligencia artificial para optimizar procesos).
 A lo largo del diálogo, se enfatiza la importancia de delegar tareas operativas, cultivar relaciones estratégicas, integrar a la familia en los negocios y honrar la palabra tanto hacia los demás como hacia uno mismo, todo con el objetivo de construir una vida y un negocio más rentables y satisfactorios.
+
 # Main Points
 
 |   # | Main point                                                                                                                                      |

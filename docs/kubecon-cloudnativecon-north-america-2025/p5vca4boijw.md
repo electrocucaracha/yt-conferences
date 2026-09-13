@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Flip That Stack: Renovating Edge Infrastructure at the Home Depot - Dillon
+  TenBrink, The Home Depot"
+nav_order: 79
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Flip That Stack: Renovating Edge Infrastructure at the Home Depot - Dillon TenBrink, The Home Depot"
-description: "Dylan Timberink, a distinguished engineer at The Home Depot, shares insights from building the edge platform that powers the company’s retail experience across over 2,300 locations. He emphasizes the importance of understanding the right ti..."
+description:
+  Dylan Timberink, a distinguished engineer at The Home Depot, shares insights
+  from building the edge platform that powers the company’s retail experience across
+  over 2,300 locations. He emphasizes the importance of understanding the right ti...
 resource: https://www.youtube.com/watch?v=p5Vca4BoiJw
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ Dylan Timberink, a distinguished engineer at The Home Depot, shares insights fro
 He emphasizes the importance of understanding the right timing for transformation, designing specifically for edge constraints rather than simply replicating cloud solutions, and adopting eventual consistency for reliable operations at scale.
 Key lessons include reducing developer toil through composable infrastructure and templating, implementing robust data caching and messaging services for offline and resilient operations, and investing early in observability and testability to manage edge cases and system health.
 Timberink also highlights ongoing challenges with storage solutions at the edge and stresses the need to actively manage the transition from legacy to new platforms to avoid operational bottlenecks, concluding with encouragement to learn from these experiences and resources like the Edgemonsters working group.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

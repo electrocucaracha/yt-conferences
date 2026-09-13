@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Future of Kubernetes Scalability: Challenges of the GigaWatt... Maciek
+  Różacki & Artur Rodrigues"
+nav_order: 358
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Future of Kubernetes Scalability: Challenges of the GigaWatt... Maciek Różacki & Artur Rodrigues"
-description: "In this talk, Arthur Rodriguez from Anthropic and Mati Kjatski from Google discuss the evolving challenges and future directions of Kubernetes scalability, particularly in the context of large-scale AI workloads. They emphasize that traditi..."
+description:
+  In this talk, Arthur Rodriguez from Anthropic and Mati Kjatski from Google
+  discuss the evolving challenges and future directions of Kubernetes scalability,
+  particularly in the context of large-scale AI workloads. They emphasize that traditi...
 resource: https://www.youtube.com/watch?v=Y7FDWmLbLa4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They emphasize that traditional metrics like node count are less relevant than t
 The speakers highlight the increasing heterogeneity of workloads, hardware, and cloud environments, noting that AI training workloads introduce unique scheduling and scaling challenges compared to microservices.
 They share experiences developing custom solutions, such as topology-aware schedulers and CRDs, to address these needs, and stress the importance of making Kubernetes more modular and customizable while ensuring that innovations are upstreamed for community benefit.
 Looking ahead, they predict continued growth in cluster sizes, greater adoption of multicluster and self-hosted architectures, and a lowering barrier to building bespoke Kubernetes components, urging the community to invest in controller sharding, improved API server resilience, and standardized workload-aware scheduling to keep Kubernetes relevant in the rapidly advancing AI era.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

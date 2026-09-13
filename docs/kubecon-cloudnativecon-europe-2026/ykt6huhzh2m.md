@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Metal3.io’s Path to CNCF Incubation: Governance, Processes, and Comm... Kashif
+  Khan & Dmitry Tantsur"
+nav_order: 218
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Metal3.io’s Path to CNCF Incubation: Governance, Processes, and Comm... Kashif Khan & Dmitry Tantsur"
-description: "The talk details the journey of the metalcube.io project from CNCF sandbox to incubation, emphasizing the importance of formalizing governance, security processes, and community health. Initially, the project operated with implicit processe..."
+description:
+  The talk details the journey of the metalcube.io project from CNCF sandbox
+  to incubation, emphasizing the importance of formalizing governance, security processes,
+  and community health. Initially, the project operated with implicit processe...
 resource: https://www.youtube.com/watch?v=yKt6hUHzh2M
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Initially, the project operated with implicit processes and informal ownership, 
 To address this, the team centralized governance documentation in a dedicated community repository, established transparent contributor ladders, and made communication channels and project activity publicly visible.
 They also formalized engineering practices, release processes, and security policies, including the creation of a dedicated security team and clear vulnerability disclosure procedures.
 The speakers highlight that CNCF readiness requires as much focus on governance and process clarity as on code, recommending early investment in documentation, automation, and transparency to ensure project sustainability and neutrality.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                              |

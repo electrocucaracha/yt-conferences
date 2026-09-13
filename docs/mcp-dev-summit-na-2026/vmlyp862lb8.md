@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "MCP Traffic Handling at Scale: Stateless Design, Proxies, and the Roa... Erica
+  Hughberg & Boteng Yao"
+nav_order: 59
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "MCP Traffic Handling at Scale: Stateless Design, Proxies, and the Roa... Erica Hughberg & Boteng Yao"
-description: "The speakers discuss the continued relevance and challenges of running MCP (Multi-Channel Protocol) at scale in production environments, highlighting issues such as session affinity, policy enforcement, and observability gaps when integrati..."
+description:
+  The speakers discuss the continued relevance and challenges of running
+  MCP (Multi-Channel Protocol) at scale in production environments, highlighting issues
+  such as session affinity, policy enforcement, and observability gaps when integrati...
 resource: https://www.youtube.com/watch?v=vmlyP862lB8
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain how Envoy Proxy, an open-source, extensible network proxy, addresse
 The conversation emphasizes Envoy’s extensibility through WASM extensions, dynamic modules, and external processes, enabling organizations to adapt legacy systems without extensive rewrites.
 They also introduce the Envoy AI Gateway and MCP router, which facilitate scalable, agent-ready architectures and aggregation of multiple MCP servers.
 The speakers encourage community involvement, noting that collaboration across companies and expertise is essential for evolving network and AI infrastructure, and invite participants to join the ongoing development and discussion around Envoy and MCP integration.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

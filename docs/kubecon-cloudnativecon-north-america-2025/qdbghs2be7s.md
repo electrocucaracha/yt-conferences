@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Why Is My Query Slow? Real AI Use Cases With Vitess + Kubernete... Brett Warminski
+  & Gourav Khanijoe
+nav_order: 343
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Why Is My Query Slow? Real AI Use Cases With Vitess + Kubernete... Brett Warminski & Gourav Khanijoe"
-description: "In this talk, Brett Winsky and Gurov from HubSpot discuss how their data infrastructure team addressed the recurring challenge of slow database queries and operational support at scale. They describe their technical stack, which includes AW..."
+description:
+  In this talk, Brett Winsky and Gurov from HubSpot discuss how their data
+  infrastructure team addressed the recurring challenge of slow database queries and
+  operational support at scale. They describe their technical stack, which includes
+  AW...
 resource: https://www.youtube.com/watch?v=qDBgHS2bE7s
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They describe their technical stack, which includes AWS, Kubernetes, Vitess, MyS
 To reduce operational load and improve self-service for hundreds of product engineers, they integrated AI and LLMs into their workflows, enabling automated analysis and plain-English explanations of complex query performance data.
 They detail the evolution of their AI-powered tools, including prompt engineering and a two-phase LLM filtering system, which significantly improved the quality of automated suggestions and reduced on-call toil.
 Additionally, they share how agentic AI systems now assist with support requests, documentation search, and operational reviews, leading to a 25% reduction in support time and increased user satisfaction, and announce plans to open source their prompts and tools for community collaboration.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

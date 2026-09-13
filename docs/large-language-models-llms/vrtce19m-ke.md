@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Stanford Webinar - Large Language Models Get the Hype, but Compound Systems
+  Are the Future of AI
+nav_order: 17
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford Webinar - Large Language Models Get the Hype, but Compound Systems Are the Future of AI"
-description: "The speaker emphasizes that while large language models (LLMs) receive most of the attention in AI, real progress and practical deployment rely on viewing AI as compound systems—integrations of models, prompts, sampling methods, and externa..."
+description:
+  The speaker emphasizes that while large language models (LLMs) receive
+  most of the attention in AI, real progress and practical deployment rely on viewing
+  AI as compound systems—integrations of models, prompts, sampling methods, and externa...
 resource: https://www.youtube.com/watch?v=vRTcE19M-KE
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The talk traces the evolution from focusing solely on model size and capabilitie
 Key system components, such as prompting strategies and sampling methods, are shown to have significant, sometimes surprising, effects on performance, often outweighing the impact of model size alone.
 The speaker advocates for a shift in both research and regulation from evaluating and governing models in isolation to considering entire systems, arguing that small models in well-designed systems can outperform large models in simplistic setups, and that risks and benefits are determined by system-level interactions.
 The talk introduces the DSPy library as a tool for principled, modular AI system design and optimization, and concludes by urging the community to adopt a systems-thinking mindset for future AI development, deployment, and governance.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

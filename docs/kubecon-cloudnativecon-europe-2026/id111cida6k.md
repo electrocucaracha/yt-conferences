@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Confidential Platforms for Regulated Industries - William Rizzo, Mirantis
+nav_order: 77
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Confidential Platforms for Regulated Industries - William Rizzo, Mirantis"
-description: "The speaker describes an experiment initiated to maximize the utilization of expensive trading hardware, which typically operates for only six hours daily and remains idle otherwise due to regulatory constraints. The solution involved creat..."
+description:
+  The speaker describes an experiment initiated to maximize the utilization
+  of expensive trading hardware, which typically operates for only six hours daily
+  and remains idle otherwise due to regulatory constraints. The solution involved
+  creat...
 resource: https://www.youtube.com/watch?v=id111CIDa6k
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The solution involved creating ephemeral Kubernetes clusters using a hosted cont
 A mutating admission webhook was developed to transparently inject confidential container runtimes into deployments, ensuring compliance and reducing developer cognitive load.
 The system employs a spot scheduling mechanism, allowing teams to donate idle hardware for cluster expansion during off-hours, managed by the open-source FiveSpot project.
 Future plans include integrating immutable operating systems with Chyros, trusted boot with TPM, and workload attestation, while current workloads are limited to internal experiments and development rather than production use.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                   |

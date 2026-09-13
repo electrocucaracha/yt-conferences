@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Diagnosing Application Performance With EBPF, Pyroscope, and Kubernetes - Liam
+  Mackie
+nav_order: 62
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Diagnosing Application Performance With EBPF, Pyroscope, and Kubernetes - Liam Mackie"
-description: "Liam, a lead cloud engineer from Octopus Deploy, shares his experience building the Kubernetes monitor, a component that runs in customer clusters to report resource status back to Octopus Deploy. Facing challenges in setting performance ta..."
+description:
+  Liam, a lead cloud engineer from Octopus Deploy, shares his experience
+  building the Kubernetes monitor, a component that runs in customer clusters to report
+  resource status back to Octopus Deploy. Facing challenges in setting performance
+  ta...
 resource: https://www.youtube.com/watch?v=RrlF7OzCojE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Facing challenges in setting performance targets due to limited cluster visibili
 They instrumented their software with Pyroscope, eBPF (via Pixie), and OpenTelemetry to gain deep insights into performance issues, enabling them to identify and fix problems such as memory leaks and mutex contention.
 Automated testing and observability became central to their workflow, ensuring reliability across varied use cases and preventing regressions.
 Liam concludes by recommending a structured, automated approach to performance engineering—understanding real usage, instrumenting from day one, testing under realistic loads, profiling bottlenecks, setting and validating thresholds, and automating the process—to build robust, maintainable software.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

@@ -1,11 +1,22 @@
 ---
+layout: default
+title: What's New in gRPC - Kevin Nilson & John Feig, Google
+nav_order: 399
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "What's New in gRPC - Kevin Nilson & John Feig, Google"
-description: "The presenters provided an overview of recent developments in gRPC, highlighting its decade-long growth, stability, and widespread adoption across various programming languages and platforms. They discussed significant improvements in docum..."
+description:
+  The presenters provided an overview of recent developments in gRPC, highlighting
+  its decade-long growth, stability, and widespread adoption across various programming
+  languages and platforms. They discussed significant improvements in docum...
 resource: https://www.youtube.com/watch?v=P1YhVS4dhVk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They discussed significant improvements in documentation and user resources, inc
 Key technical updates include enhanced proxyless service mesh features, improved observability through OpenTelemetry, modernization efforts such as expanded language support (notably Rust), and first-class integration with serverless platforms.
 The team also emphasized gRPC’s growing role in AI and ML workflows, support for protocols like MCP and A2A, and new features like custom backend metrics and advanced load balancing policies.
 Audience questions addressed topics such as replication, load balancing, and gateway API support, with the team encouraging community feedback and participation to guide future development.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

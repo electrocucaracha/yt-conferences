@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Catch Up With Crossplane v2 - Scott Rosenberg, Contributor"
-description: "In this talk, Scott Rosenberg introduces Crossplane v2, highlighting its role as a cloud-native control plane that extends Kubernetes' capabilities to manage any resource with an API, including public cloud, on-premises, and application res..."
+nav_order: 209
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  In this talk, Scott Rosenberg introduces Crossplane v2, highlighting
+  its role as a cloud-native control plane that extends Kubernetes' capabilities to
+  manage any resource with an API, including public cloud, on-premises, and application
+  res...
 resource: https://www.youtube.com/watch?v=mr_zhO2lV2w
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains that Crossplane v1 introduced complexity through its use of claims a
 Crossplane v2 simplifies this by allowing composite resources to be either namespaced or cluster-scoped, improving flexibility and reducing complexity.
 The new version also enhances application support by enabling the composition of any resource, not just infrastructure, and addresses the issue of excessive CRDs by allowing selective installation of only needed resources.
 Additional improvements include better provider generation with upjet, Terraform plan-like diff capabilities, enhanced observability, and improved documentation, all while maintaining backward compatibility except for deprecated features.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

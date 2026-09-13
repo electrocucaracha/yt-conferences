@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Rabobank’s Path to Secure, Fast Kubernetes Delivery - Beatrice Forslund & Koshin
+  Verberne, Rabobank
+nav_order: 305
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Rabobank’s Path to Secure, Fast Kubernetes Delivery - Beatrice Forslund & Koshin Verberne, Rabobank"
-description: "In this presentation, Kosher Fern and Petris from Rabo Bank’s container platform team describe their journey in delivering secure and efficient Kubernetes clusters to internal tenants. They explain the bank’s strict regulatory requirements..."
+description:
+  In this presentation, Kosher Fern and Petris from Rabo Bank’s container
+  platform team describe their journey in delivering secure and efficient Kubernetes
+  clusters to internal tenants. They explain the bank’s strict regulatory requirements...
 resource: https://www.youtube.com/watch?v=cznwYOK3TtY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain the bank’s strict regulatory requirements, which necessitate rigo
 To streamline and standardize Kubernetes adoption, the team established a central platform (Qup) that provides tenants with dedicated clusters—prioritizing security and network isolation over cost efficiency—using tools like Terraform, Argo CD, and Kyverno for automation, compliance, and policy enforcement.
 The platform enables rapid, compliant cluster provisioning, reducing setup time from 54 days to just a few hours, while also offering tenants near-admin access within defined security boundaries.
 The team emphasizes the importance of clear responsibilities, the right tooling, and ongoing dialogue with tenants to balance innovation with regulatory compliance, sharing key lessons learned for others facing similar challenges.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                               |

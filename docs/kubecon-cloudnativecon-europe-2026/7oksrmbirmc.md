@@ -1,11 +1,24 @@
 ---
+layout: default
+title: "Cloud Native Theater | EnvoyCon: The Future of AI Traffic: What's New in
+  Envoy AI Tra... Xiaolin Lin"
+nav_order: 62
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | EnvoyCon: The Future of AI Traffic: What's New in Envoy AI Tra... Xiaolin Lin"
-description: "Shins from the AI traffic team at Boomber presented on the future of AI traffic management and the development of the On AI Gateway, a project built atop the Envoy Gateway to address AI-specific challenges such as extracting model names fro..."
+description:
+  Shins from the AI traffic team at Boomber presented on the future of
+  AI traffic management and the development of the On AI Gateway, a project built
+  atop the Envoy Gateway to address AI-specific challenges such as extracting model
+  names fro...
 resource: https://www.youtube.com/watch?v=7OkSrMBirmc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The project began in late 2024, with an initial release in early 2025, and has s
 Recent and upcoming features focus on cost optimization through quota-aware routing, context caching, and batch processing, as well as enhanced API compatibility for agentic workflows, embeddings, and multimodal tasks.
 The gateway demonstrates millisecond-level performance and scalability, and the team encourages community participation and feedback.
 During the Q&A, a question about listener sets in Envoy Gateway was raised, with the team expressing willingness to investigate further based on user needs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

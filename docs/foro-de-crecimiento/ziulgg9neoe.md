@@ -1,11 +1,23 @@
 ---
+layout: default
+title: "Descifrando el Código de la Riqueza \U0001F4B0 | Camilo Pinto – Sesión 41"
+nav_order: 14
+parent: Foro De Crecimiento
 type: Video Note
-title: "Descifrando el Código de la Riqueza 💰 | Camilo Pinto – Sesión 41"
-description: "En esta extensa conversación sobre finanzas personales, Camilo Pinto, experto en el tema, comparte su filosofía basada en tres etapas: solucionar problemas financieros (alinear creencias, adquirir hábitos positivos, eliminar deudas malas y..."
+description:
+  "En esta extensa conversación sobre finanzas personales, Camilo Pinto,
+  experto en el tema, comparte su filosofía basada en tres etapas: solucionar problemas
+  financieros (alinear creencias, adquirir hábitos positivos, eliminar deudas malas
+  y..."
 resource: https://www.youtube.com/watch?v=ziuLgG9NEoE
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ En esta extensa conversación sobre finanzas personales, Camilo Pinto, experto e
 Destaca la importancia de identificar y transformar creencias limitantes sobre el dinero, adoptar hábitos como el ahorro sistemático (regla 80/20), la educación continua y el networking, así como enseñar estos principios a los hijos.
 Camilo enfatiza la necesidad de hacer diagnósticos periódicos de la situación financiera personal, elaborar presupuestos y planes financieros claros, y buscar mentores o asesoría profesional.
 Finalmente, subraya que el cambio de hábitos y creencias no solo impacta la vida financiera individual, sino que puede transformar la realidad de toda la familia a largo plazo.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                  |

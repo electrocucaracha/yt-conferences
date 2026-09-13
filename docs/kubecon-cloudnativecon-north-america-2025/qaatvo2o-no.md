@@ -1,11 +1,22 @@
 ---
+layout: default
+title: AI-Assisted GitOps With Flux MCP Server - Stefan Prodan, ControlPlane
+nav_order: 7
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "AI-Assisted GitOps With Flux MCP Server - Stefan Prodan, ControlPlane"
-description: "In this talk, Stefan Pradan, a long-time Flux maintainer, discusses the evolution of Flux and its integration with AI tools to address challenges in GitOps workflows. He explains how Flux has shifted from synchronizing clusters with a singl..."
+description:
+  In this talk, Stefan Pradan, a long-time Flux maintainer, discusses the
+  evolution of Flux and its integration with AI tools to address challenges in GitOps
+  workflows. He explains how Flux has shifted from synchronizing clusters with a singl...
 resource: https://www.youtube.com/watch?v=QAatvo2o-No
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains how Flux has shifted from synchronizing clusters with a single repos
 Pradan addresses common challenges such as managing complex YAML configurations, the debate between monorepo and multi-repo strategies, and the difficulty of distinguishing signal from noise in distributed systems.
 He introduces the Flux MCP server, which enhances AI's ability to interact with Flux by providing up-to-date documentation and tools, enabling tasks like onboarding, troubleshooting, incident management, and state comparison across clusters.
 Security considerations, fine-grained access controls, and upcoming features like embedded documentation and improved SSO support are also discussed, with a strong emphasis on using read-only mode in production environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

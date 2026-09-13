@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "[Keynote] Building an AI Voice Agent to Automate a Robot Cafe with Google
+  Gemini Live and MCP"
+nav_order: 11
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Keynote] Building an AI Voice Agent to Automate a Robot Cafe with Google Gemini Live and MCP"
-description: "In this talk, Gerard Sans introduces himself as an international speaker and Google developer expert, sharing his background and experience in AI and technology communities. He discusses key concepts in modern AI, such as data distributions..."
+description:
+  In this talk, Gerard Sans introduces himself as an international speaker
+  and Google developer expert, sharing his background and experience in AI and technology
+  communities. He discusses key concepts in modern AI, such as data distributions...
 resource: https://www.youtube.com/watch?v=EQrdY42VwMA
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He discusses key concepts in modern AI, such as data distributions, bias, and di
 Sans explains the structure and function of AI agents, particularly focusing on voice agents and their integration with tools like Google Gemini, highlighting new features such as real-time native audio and multi-agent collaboration.
 He demonstrates practical applications, including a robot café scenario where an AI voice agent takes coffee orders in multiple languages, emphasizing the importance of understanding AI limitations and responsible use.
 The session concludes with resources for further exploration and encouragement for attendees to engage with the latest AI technologies.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                      |

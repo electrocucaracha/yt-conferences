@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Gateway API: Bridging the Gap from Ingress t... Nick Y, James S, Katarzyna
+  Ł, Rostislav B & Norwin S"
+nav_order: 131
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Gateway API: Bridging the Gap from Ingress t... Nick Y, James S, Katarzyna Ł, Rostislav B & Norwin S"
-description: "In this presentation, Mario Sabat and Maya from IBM Research discuss their work on securing agentic applications at the platform level, focusing on challenges that arise when agents, rather than users, interact with enterprise systems. They..."
+description:
+  In this presentation, Mario Sabat and Maya from IBM Research discuss
+  their work on securing agentic applications at the platform level, focusing on challenges
+  that arise when agents, rather than users, interact with enterprise systems. They...
 resource: https://www.youtube.com/watch?v=bHSsd6dojPc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that traditional API key-based authentication is insufficient for m
 To address this, they advocate for a security blueprint combining OAuth2 for delegation, Spiffy/Spire for workload identity, and token exchange for propagating context through nested agent interactions, all implemented in their open-source project Kajenti.
 They introduce Obridge, a component that transparently manages identity, inbound validation, and token exchange for agents, reducing developer burden and enhancing security by eliminating static secrets and enabling full audit trails.
 The team also highlights ongoing and future work, such as integrating agent semantic attributes into identity attestation, supporting dynamic privilege elevation, and refining authorization policies, while fielding audience questions about local versus remote agents, independent agent identities, and the use of gateways and guardrails for fine-grained control.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                           |

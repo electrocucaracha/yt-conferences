@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Upgrade Nightmare To Uptime Dream: The Cloud Provider's Playbook for... Yuchen
+  Zhou & Uttam Kumar"
+nav_order: 336
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Upgrade Nightmare To Uptime Dream: The Cloud Provider's Playbook for... Yuchen Zhou & Uttam Kumar"
-description: "In this presentation, Utam Kumar from Salesforce and a representative from Google discuss the complexities and solutions involved in upgrading Kubernetes minor versions at scale, particularly for critical platforms like Salesforce Hyperforc..."
+description:
+  In this presentation, Utam Kumar from Salesforce and a representative
+  from Google discuss the complexities and solutions involved in upgrading Kubernetes
+  minor versions at scale, particularly for critical platforms like Salesforce Hyperforc...
 resource: https://www.youtube.com/watch?v=xc4MU3HiHnY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that Hyperforce operates thousands of Kubernetes clusters across mu
 The speakers highlight the challenges of Kubernetes upgrades, including interconnected dependencies, rapid release cycles, and the risk of outages, and describe Salesforce’s approach of extensive changelog analysis, automated fleet scanning, rigorous performance and validation testing, and staggered rollouts with rollback support.
 Google’s representative details their strategy for safer upgrades in Google Kubernetes Engine (GKE), emphasizing automation, control over upgrade timing and grouping, observability, and a new two-step upgrade process using an emulator version to enable safe rollbacks.
 Both organizations stress the importance of comprehensive testing, customer collaboration, and new tooling to minimize risk and maintain high uptime during Kubernetes upgrades.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                       |

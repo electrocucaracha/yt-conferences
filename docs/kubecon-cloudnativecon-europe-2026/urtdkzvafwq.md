@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | KubeVirt Summit: Achieving 10× Faster VM Migration
+  to Kube... Ryosuke Tatsumi"
+nav_order: 69
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | KubeVirt Summit: Achieving 10× Faster VM Migration to Kube... Ryosuke Tatsumi"
-description: "Ryosuke Tatsumi, chief researcher at Hitachi America, discusses the challenges and solutions for migrating virtual machines (VMs) from legacy platforms to Kubevirt, especially as enterprises seek both platform replacement and application mo..."
+description:
+  Ryosuke Tatsumi, chief researcher at Hitachi America, discusses the challenges
+  and solutions for migrating virtual machines (VMs) from legacy platforms to Kubevirt,
+  especially as enterprises seek both platform replacement and application mo...
 resource: https://www.youtube.com/watch?v=uRTdkZVAfWQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He highlights that large-scale VM migrations are often bottlenecked by slow data
 Tatsumi introduces the Forklift open-source tool, which automates much of the migration process but is still limited by host-based data transfer inefficiencies.
 To address this, his team developed an "Xcopy volume populator" component that offloads data copying directly to the storage array using the XCOPY SCSI command, bypassing host resource constraints and achieving up to 10 times faster migration speeds.
 This pluggable architecture allows storage vendors to integrate their own logic, minimizes workflow disruption, and significantly reduces migration time, cost, and risk, thereby accelerating business transformation and application modernization.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

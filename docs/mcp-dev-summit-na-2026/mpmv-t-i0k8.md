@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Shadow MCP: Finding the MCPs Nobody Approved - Aidan Sochowski & Alexander
+  Frazer, Runlayer"
+nav_order: 82
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Shadow MCP: Finding the MCPs Nobody Approved - Aidan Sochowski & Alexander Frazer, Runlayer"
-description: 'In this talk, Alex and Aiden discuss the security challenges posed by "shadow MCPs"—unapproved Model Control Protocol servers and AI tools proliferating within organizations without oversight. They explain that these tools, often configured...'
+description:
+  In this talk, Alex and Aiden discuss the security challenges posed by
+  "shadow MCPs"—unapproved Model Control Protocol servers and AI tools proliferating
+  within organizations without oversight. They explain that these tools, often configured...
 resource: https://www.youtube.com/watch?v=mpmV_t-i0K8
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The speakers outline several attack vectors, including rugpulls, tool poisoning,
 Existing security tools like EDR and network monitoring are insufficient for detecting these threats, as they lack the necessary granularity and are easily evaded.
 The presenters advocate for device-level scanning and classification, risk scoring, and behavioral analysis to identify and manage shadow MCPs, emphasizing the need for organizational policies, managed infrastructure, and ongoing vigilance to balance security with user productivity.
 They conclude by noting that while technical solutions exist, the problem is complex and evolving, requiring both technical and organizational responses.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                      |

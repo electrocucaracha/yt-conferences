@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  What's New With Kubectl and Kustomize … and How You... Marly S, Yugo K, Eddie
+  Z, Maciej S & Arda G
+nav_order: 398
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "What's New With Kubectl and Kustomize … and How You... Marly S, Yugo K, Eddie Z, Maciej S & Arda G"
-description: "The video features a panel of Kubernetes SIG CLI maintainers discussing recent updates and ongoing work on tools like kubectl, kustomize, and the new QRC configuration system. They explain the SIG CLI’s role in managing Kubernetes CLI tooli..."
+description:
+  The video features a panel of Kubernetes SIG CLI maintainers discussing
+  recent updates and ongoing work on tools like kubectl, kustomize, and the new QRC
+  configuration system. They explain the SIG CLI’s role in managing Kubernetes CLI
+  tooli...
 resource: https://www.youtube.com/watch?v=mfcdIa0NtCo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Key updates include bug fixes and new features in kustomize, enhancements to kub
 The team highlights recent deprecations, the addition of multiple condition support in kubectl wait, and ongoing efforts to improve usability and security, such as CRI-native copy and audit headers for usage telemetry.
 They encourage feedback and contributions, discuss challenges around backward compatibility, and address audience questions on topics like server-side apply, multiple kubeconfig support, and the future of kustomize features.
 The session closes with a lighthearted discussion on the pronunciation of "kubectl" and an open invitation for further community involvement.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Data on Kubernetes Day: From VMs to Ku... Gabriele
+  Bartolini & Laurent Parodi"
+nav_order: 53
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Data on Kubernetes Day: From VMs to Ku... Gabriele Bartolini & Laurent Parodi"
-description: "The video discusses the evolving role of database administrators (DBAs) in the cloud-native era, focusing on HSBC's journey transitioning from virtual machines to a Kubernetes-based PostgreSQL platform. Contrary to predictions that the DBA..."
+description:
+  The video discusses the evolving role of database administrators (DBAs)
+  in the cloud-native era, focusing on HSBC's journey transitioning from virtual machines
+  to a Kubernetes-based PostgreSQL platform. Contrary to predictions that the DBA...
 resource: https://www.youtube.com/watch?v=m0LBKjlxrog
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Contrary to predictions that the DBA role would become obsolete, HSBC's DBAs led
 The speakers detail the technical and organizational challenges faced, such as regulatory constraints, the need for digital sovereignty, and the shift from manual, DBA-dependent operations to automated, scalable, and secure processes.
 They emphasize the importance of community-driven development, robust patching and compliance strategies, and advanced observability, while highlighting the ongoing evolution of both the technology and the DBA role.
 The session concludes with a Q&A addressing high availability, failover, and performance tuning, reinforcing that DBAs remain essential by adapting their expertise to new cloud-native paradigms and platform engineering.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                               |

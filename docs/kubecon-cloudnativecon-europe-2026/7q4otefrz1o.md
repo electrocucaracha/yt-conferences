@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Sovereign Identities for Your Cloud Native Architecture... Alexander Schwartz
+  & Sebastian Łaskawiec
+nav_order: 338
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Sovereign Identities for Your Cloud Native Architecture... Alexander Schwartz & Sebastian Łaskawiec"
-description: "In this talk at KubeCon, Alexander Schwarz and Sebastian Wascavis discuss implementing sovereign identities in cloud-native architectures using Keycloak, focusing on secure single sign-on (SSO) and resource access delegation via OpenID Conn..."
+description:
+  In this talk at KubeCon, Alexander Schwarz and Sebastian Wascavis discuss
+  implementing sovereign identities in cloud-native architectures using Keycloak,
+  focusing on secure single sign-on (SSO) and resource access delegation via OpenID
+  Conn...
 resource: https://www.youtube.com/watch?v=7q4oTEfrz1o
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain how Keycloak manages user credentials, issues short-lived tokens, a
 The presenters demonstrate traditional client authentication using client secrets, then showcase more secure and streamlined approaches using client assertions and Kubernetes service account tokens, eliminating the need for confidential secrets.
 They highlight recent and upcoming Keycloak features, such as standard token exchange, JWT authorization grants, improved observability, fine-grained admin permissions, and automated user lifecycle workflows.
 The session concludes with a Q&A covering advanced configurations, multi-cluster setups, and future roadmap items like organization roles and enhanced proxy documentation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

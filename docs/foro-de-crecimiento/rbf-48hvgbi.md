@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "REPITE estos MANTRAS todos los días y CAMBIA tu VIDA | Prem Dayal \U0001FAB7
+  #14"
+nav_order: 64
+parent: Foro De Crecimiento
 type: Video Note
-title: "REPITE estos MANTRAS todos los días y CAMBIA tu VIDA | Prem Dayal 🪷 #14"
-description: 'En esta entrevista, Prem Dayal, autor de "Me vale madres", explora la diferencia entre adiestramiento y educación, destacando que la verdadera educación consiste en sacar a la luz el potencial interior de cada persona. Dayal explica que muc...'
+description:
+  En esta entrevista, Prem Dayal, autor de "Me vale madres", explora la
+  diferencia entre adiestramiento y educación, destacando que la verdadera educación
+  consiste en sacar a la luz el potencial interior de cada persona. Dayal explica
+  que muc...
 resource: https://www.youtube.com/watch?v=RBf_48HVGbI
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Dayal explica que muchos de los problemas actuales son psicológicos y surgen de
 A través del humor y ejemplos de mantras mexicanos como "Me vale madres", "A la chingada", "A huevo" y "No es mi pedo", sugiere herramientas prácticas para el desapego, la liberación emocional y el manejo del estrés.
 Además, enfatiza la importancia de sanar el niño interior y las relaciones con los padres para recuperar la autenticidad y la libertad personal.
 Finalmente, Dayal invita a integrar estas enseñanzas en la vida cotidiana y laboral, promoviendo relaciones más humanas y creativas tanto en el ámbito personal como profesional.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                 |

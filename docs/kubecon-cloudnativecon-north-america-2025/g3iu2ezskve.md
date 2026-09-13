@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: 5 Key Lessons From 8 Years of Building Kgateway -
+  Yuval Kohavi"
+nav_order: 204
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: 5 Key Lessons From 8 Years of Building Kgateway - Yuval Kohavi"
-description: "Yuval Kohave, chief architect at Solo.io and K Gateway maintainer, shares five key lessons from eight years of developing K Gateway, an API gateway designed for diverse workloads including AI and microservices. First, he emphasizes that ope..."
+description:
+  Yuval Kohave, chief architect at Solo.io and K Gateway maintainer, shares
+  five key lessons from eight years of developing K Gateway, an API gateway designed
+  for diverse workloads including AI and microservices. First, he emphasizes that
+  ope...
 resource: https://www.youtube.com/watch?v=G3Iu2ezSkVE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Second, he advises focusing on core use cases rather than trying to support ever
 Third, Kohave highlights the importance of scalable and maintainable extensibility, favoring in-process approaches over gRPC webhooks and leveraging standard Envoy interfaces for custom use cases.
 Fourth, he notes that attempting to tightly integrate with sibling projects like service meshes introduced friction, so making K Gateway composable allowed users to adopt it without unnecessary dependencies.
 Finally, he stresses the need to define scalability goals early, rigorously test against them, and clearly communicate expectations to users, as real-world use cases often reveal unforeseen bottlenecks.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

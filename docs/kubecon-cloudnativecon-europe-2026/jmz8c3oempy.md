@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  How Many Spark Applications Can Your Etcd Really Handle? - João Soares & João
+  Azevedo, Feedzai
+nav_order: 141
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "How Many Spark Applications Can Your Etcd Really Handle? - João Soares & João Azevedo, Feedzai"
-description: "In this presentation, Jean Asveu and Jean Swage from FISA discuss their experience scaling Spark applications for real-time fraud detection in a Kubernetes environment. They describe the challenges of their previous setup, which involved ma..."
+description:
+  In this presentation, Jean Asveu and Jean Swage from FISA discuss their
+  experience scaling Spark applications for real-time fraud detection in a Kubernetes
+  environment. They describe the challenges of their previous setup, which involved
+  ma...
 resource: https://www.youtube.com/watch?v=jmz8c3oEmPY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Transitioning to Kubernetes, they implemented Spark as a service with a serverle
 However, they encountered significant scalability issues due to the accumulation and lifecycle of Kubernetes objects, which strained etcd storage and API server performance, especially with high object churn and large custom resources.
 To address this, they leveraged the Kubernetes API aggregation layer to offload high-churn Spark application objects to a custom in-memory API server, reducing etcd storage usage by 45% while increasing throughput.
 Their key lessons emphasize minimizing custom resource size, limiting status updates, and using aggregation for high-churn workloads, with long-term retention handled outside etcd.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

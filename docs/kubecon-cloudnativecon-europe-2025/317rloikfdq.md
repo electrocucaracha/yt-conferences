@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "KEDA: Unlocking Advanced Event-Driven Scaling for Kubernetes - Zbynek Roubalik
+  & Jorge Turrado"
+nav_order: 137
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "KEDA: Unlocking Advanced Event-Driven Scaling for Kubernetes - Zbynek Roubalik & Jorge Turrado"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=317rLOIKfDQ
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +23,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 Here is a summary of the video transcript in 3-5 sentences: Jorge Dorado, principal SR at CRM and Microsoft MVP, introduced himself and discussed KDA (Kubernetes Dynamic Autoscaling), a project that extends Kubernetes' autoscaling capabilities to support more metrics and use cases.
 He demonstrated how KDA can be used to scale workloads based on external metrics from sources like RabbitMQ or Prometheus, and showed examples of its features, including predictive scaling and HTTP autoscaling.
 The presentation also covered best practices for using KDA, such as using HPA scaling behavior and defining custom triggers, as well as common challenges and limitations, including delays in scraping metrics from external sources.
+
 # Main Points
 
 |   # | Main point                                                                                                                                               |

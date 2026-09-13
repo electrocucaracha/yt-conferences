@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Multi-Cluster Configuration Management With KubeStellar
+  - Andy Anderson"
+nav_order: 232
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Multi-Cluster Configuration Management With KubeStellar - Andy Anderson"
-description: "Andy Anderson, a software architect at IBM Research, introduces Coupe Stellar, a multicluster configuration management tool within the CNCF ecosystem. Coupe Stellar enables users to manage an inventory of remote clusters, stage workloads in..."
+description:
+  Andy Anderson, a software architect at IBM Research, introduces Coupe
+  Stellar, a multicluster configuration management tool within the CNCF ecosystem.
+  Coupe Stellar enables users to manage an inventory of remote clusters, stage workloads
+  in...
 resource: https://www.youtube.com/watch?v=tHMKF5sUSgI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Coupe Stellar enables users to manage an inventory of remote clusters, stage wor
 Recent developments include extensive localization, a new website with a sandbox environment, a plugin framework for custom UI extensions, automated multi-browser UI testing, and a multiplugin for the command line to streamline cluster management.
 The ADA project integrates AI-driven automation for provisioning and workload assignment, and the team emphasizes community involvement through a contributor ladder, mentorship program, and collaborations like the software-defined farm project with Cornell University.
 Anderson invites attendees to upcoming sessions and encourages participation in the Coupe Stellar community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 8: Reinforcement Learning"
-description: "The lecture begins by reviewing Markov Decision Processes (MDPs), which are defined by states, actions, transition probabilities, rewards, end conditions, and a discount factor, and visualized as graphs with state and chance nodes. The solu..."
+nav_order: 19
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture begins by reviewing Markov Decision Processes (MDPs), which
+  are defined by states, actions, transition probabilities, rewards, end conditions,
+  and a discount factor, and visualized as graphs with state and chance nodes. The
+  solu...
 resource: https://www.youtube.com/watch?v=34Hk2v2kwg4
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The solution to an MDP is a policy mapping states to actions, and algorithms lik
 The focus then shifts to reinforcement learning (RL), where the agent does not know the MDP in advance and must learn by interacting with the environment, receiving feedback, and updating its policy dynamically.
 The lecture introduces four RL algorithms: model-based value iteration (which estimates the MDP from experience and then computes the optimal policy), model-free Monte Carlo (which estimates Q-values directly from rollouts), SARSA (which updates Q-values during rollouts using bootstrapping), and Q-learning (which estimates optimal Q-values off-policy).
 The key distinction is that model-based methods explicitly estimate the environment, while model-free methods learn action values directly, and the lecture concludes by noting that future sessions will address RL in large or continuous state spaces.
+
 # Main Points
 
 |   # | Main point                                                                                                                                               |

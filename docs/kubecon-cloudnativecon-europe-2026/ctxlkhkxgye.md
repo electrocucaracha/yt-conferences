@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Live Demo Showcase"
-description: "The video features presentations on three open-source projects. First, Reza and Dimotion introduce Hami, a GPU orchestration solution that enables slicing GPUs into virtual devices to improve workload efficiency and reduce costs, with suppo..."
+nav_order: 177
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  The video features presentations on three open-source projects. First,
+  Reza and Dimotion introduce Hami, a GPU orchestration solution that enables slicing
+  GPUs into virtual devices to improve workload efficiency and reduce costs, with
+  suppo...
 resource: https://www.youtube.com/watch?v=cTXlkhKXgyE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ First, Reza and Dimotion introduce Hami, a GPU orchestration solution that enabl
 Next, Patrick and Ben from Spotify showcase Backstage, a flexible internal developer portal that streamlines service discovery and documentation, and demonstrate new integrations with AI tools and a CLI, emphasizing that AI usage increases engagement with Backstage’s UI rather than replacing it.
 Finally, Augustin presents Perses, an observability visualization tool developed by Amadeus, Red Hat, and SAP, which offers open dashboard specifications and reusable components for embedding in custom UIs, supporting a wide range of signals and Kubernetes monitoring dashboards, and enabling dashboard creation in Go.
 Each project invites further exploration and community engagement.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

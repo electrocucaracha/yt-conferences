@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Let’s Deploy etcd Operator - Arka Saha, Maintainer"
-description: "Orco Shaha, a software engineer at Broadcom and reviewer for the etcd operator project, introduces the city operator, a community-supported and native operator designed to address challenges in managing etcd clusters, such as authentication..."
+nav_order: 274
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Orco Shaha, a software engineer at Broadcom and reviewer for the etcd
+  operator project, introduces the city operator, a community-supported and native
+  operator designed to address challenges in managing etcd clusters, such as authentication...
 resource: https://www.youtube.com/watch?v=FBV-fkNwyMU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Previously, users built their own operators due to a lack of comprehensive solut
 The latest release, version 0.2, adds certificate support for production environments, though the operator is not yet production-ready, with future releases planned to include recovery, backup, and Helm chart support.
 Orco demonstrates how to deploy the operator, scale clusters, and configure secure communication using built-in or cert-manager-based certificates, highlighting both development and production use cases.
 He concludes by inviting viewers to a maintainer summit for further questions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

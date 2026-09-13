@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "In-place Updates with Cluster API: The Sweet Spot Between Immu... Fabrizio
+  Pandini & Stefan Büringer"
+nav_order: 152
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "In-place Updates with Cluster API: The Sweet Spot Between Immu... Fabrizio Pandini & Stefan Büringer"
-description: "The talk, led by Fabritz Pandini and Stefan Ginger, focuses on the introduction of in-place updates in Cluster API, a significant and technically complex change aimed at reducing disruption during cluster upgrades. Traditionally, Cluster AP..."
+description:
+  The talk, led by Fabritz Pandini and Stefan Ginger, focuses on the introduction
+  of in-place updates in Cluster API, a significant and technically complex change
+  aimed at reducing disruption during cluster upgrades. Traditionally, Cluster AP...
 resource: https://www.youtube.com/watch?v=CMf6rOPo9Z0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ However, this approach can be slow or disruptive, especially when infrastructure
 The new in-place update feature allows certain machine changes without full replacement, guided by user-defined constraints like max surge and max unavailable, and relies on an update extension component to determine if changes can be safely applied in place.
 The system prioritizes safety and predictability, falling back to immutable rollouts if in-place updates are not feasible, and is designed to be extensible and minimally disruptive.
 The speakers emphasize that while in-place updates are useful for non-disruptive changes (e.g., updating SSH keys), foundational issues like proper pod draining and infrastructure readiness should still be addressed, as immutable updates remain the safest method for major changes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                     |

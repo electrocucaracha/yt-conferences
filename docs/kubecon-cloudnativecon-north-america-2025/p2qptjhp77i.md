@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Platform Engineering in Action: Test-Driven Development App... Charles-Edouard
+  Brétéché & Sara Qasmi"
+nav_order: 199
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Platform Engineering in Action: Test-Driven Development App... Charles-Edouard Brétéché & Sara Qasmi"
-description: "In this session, the speakers discuss the often-overlooked importance of testability in platform engineering, specifically focusing on applying test-driven development (TDD) to developer platforms. They demonstrate building a Kubernetes-bas..."
+description:
+  In this session, the speakers discuss the often-overlooked importance
+  of testability in platform engineering, specifically focusing on applying test-driven
+  development (TDD) to developer platforms. They demonstrate building a Kubernetes-bas...
 resource: https://www.youtube.com/watch?v=p2QPtjHp77I
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They demonstrate building a Kubernetes-based platform to run a Drupal applicatio
 The presenters then rebuild the platform using TDD, writing tests to ensure that such contracts remain valid and that changes do not inadvertently break functionality.
 They show how these tests can be automated and integrated into CI pipelines using tools like Chainsaw, making it easier to catch errors early and maintain confidence in platform changes.
 The key takeaway is that TDD is not just for application development but is also essential for platform engineering, enabling better collaboration and reliability between platform and development teams.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

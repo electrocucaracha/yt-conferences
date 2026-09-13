@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  AI'm at the Gate! Introducing the AI Gateway Working G... Morgan Foster, Nir
+  Rozenbaum & Shachar Tal
+nav_order: 9
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "AI'm at the Gate! Introducing the AI Gateway Working G... Morgan Foster, Nir Rozenbaum & Shachar Tal"
-description: 'The talk introduces a new working group focused on developing an "AI gateway," which extends traditional gateway capabilities to better support AI inference use cases. Unlike standard gateways that route requests based on headers or paths...'
+description:
+  The talk introduces a new working group focused on developing an "AI
+  gateway," which extends traditional gateway capabilities to better support AI inference
+  use cases. Unlike standard gateways that route requests based on headers or paths...
 resource: https://www.youtube.com/watch?v=JiQJcXvvajg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Unlike standard gateways that route requests based on headers or paths, an AI ga
 The group aims to standardize AI traffic management at the gateway layer in Kubernetes by creating new declarative APIs and composable, customizable architectures, while leveraging existing standards and community input.
 Key proposals include introducing payload processors that can inspect, mutate, and make routing decisions based on the full HTTP payload, supporting ordered and scalable processing, and addressing failure modes and bidirectional processing.
 The group also discusses the need for new backend and egress gateway resources to overcome current limitations in Kubernetes Gateway API, enabling more flexible and reusable policy attachments, especially for complex AI workloads, and invites community feedback to refine these designs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                 |

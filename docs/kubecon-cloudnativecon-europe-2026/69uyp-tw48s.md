@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Visualize And Manage Your Cloud-Native Infrastructure
+  With Me... Yash Sharma"
+nav_order: 294
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Visualize And Manage Your Cloud-Native Infrastructure With Me... Yash Sharma"
-description: "In this talk, Yash, a developer advocate at D Solution and maintainer of the Mishri project, introduces Mishri as a tool designed to simplify and visualize Kubernetes and cloud native infrastructure management. He explains that Mishri provi..."
+description:
+  In this talk, Yash, a developer advocate at D Solution and maintainer
+  of the Mishri project, introduces Mishri as a tool designed to simplify and visualize
+  Kubernetes and cloud native infrastructure management. He explains that Mishri provi...
 resource: https://www.youtube.com/watch?v=69uYP-TW48s
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that Mishri provides a dashboard for managing multiple clusters, sup
 The platform enables collaboration among team members and ensures safe deployments through features like dry runs and error checking.
 Yash announces the release of Mishri v1.0, which includes enhanced security and governance features, and highlights the project's rapid growth, popularity, and opportunities for contributors, especially through the LFX mentorship program.
 He invites attendees to connect for further discussion or contribution opportunities.
+
 # Main Points
 
 |   # | Main point                                                                                                           |

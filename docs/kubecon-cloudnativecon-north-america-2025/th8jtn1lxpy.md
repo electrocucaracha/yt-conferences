@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Agent-Driven MCP for AI Workloads on Kubernetes - Ganeshkumar Ashokavardhanan
+  & Qinghui Zhuang
+nav_order: 12
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Agent-Driven MCP for AI Workloads on Kubernetes - Ganeshkumar Ashokavardhanan & Qinghui Zhuang"
-description: "In this session, Ganesh Kumar from the Azure Kubernetes Service team discusses the challenges and opportunities of using AI agents to manage AI workloads on Kubernetes, focusing on GPU infrastructure. He shares personal experiences, includi..."
+description:
+  In this session, Ganesh Kumar from the Azure Kubernetes Service team
+  discusses the challenges and opportunities of using AI agents to manage AI workloads
+  on Kubernetes, focusing on GPU infrastructure. He shares personal experiences, includi...
 resource: https://www.youtube.com/watch?v=tH8jTN1LXPY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He shares personal experiences, including difficulties in selecting appropriate 
 The talk introduces the concept of MCP (Model Control Protocol) as a standardized way for AI agents to interact with external tools and resources, and contrasts the relative maturity of AI coding agents with the complexities and risks of using agents for infrastructure management, such as non-determinism, sparse training data, and higher blast radius for errors.
 A live demo illustrates how an AI agent can autonomously deploy a model on Kubernetes by clarifying requirements, selecting resources, generating manifests, and handling errors, though current limitations prevent fully end-to-end production readiness.
 The presentation concludes by highlighting key considerations for productionizing such agents—including security, guardrails, context management, and benchmarking—and emphasizes the rapidly evolving nature of this field, encouraging further exploration and development.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                            |

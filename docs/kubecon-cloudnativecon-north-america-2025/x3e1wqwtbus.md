@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  A Journey To Zero-Downtime Upgrades With Keycloak - Martin Bartoš, Ryan Emerson,
+  IBM
+nav_order: 3
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "A Journey To Zero-Downtime Upgrades With Keycloak - Martin Bartoš, Ryan Emerson, IBM"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=x3e1wqWTbUs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: Martin Bartto and Ry
 They introduce the concept of rolling updates, which allows for continuous deployment while minimizing disruptions, but acknowledge that not all configuration changes are compatible.
 The team has developed a solution using a Java interface called the compatibility metadata provider, which generates and verifies metadata to determine if rolling updates are possible in a safe way.
 This solution is currently being refined and tested, with plans to improve horizontal scalability, Kubernetes support, and observability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

@@ -1,11 +1,23 @@
 ---
+layout: default
+title: How to Influence Without Authority at Work [Persuasion - Part 1 of 3]
+nav_order: 75
+parent: Leadership Skills
 type: Video Note
-title: "How to Influence Without Authority at Work [Persuasion - Part 1 of 3]"
-description: "In this video, Doug Howard, a licensed structural engineer and engineering manager, discusses the importance of influence in advancing an engineering career, emphasizing that technical skills alone are not enough for professional growth. He..."
+description:
+  In this video, Doug Howard, a licensed structural engineer and engineering
+  manager, discusses the importance of influence in advancing an engineering career,
+  emphasizing that technical skills alone are not enough for professional growth.
+  He...
 resource: https://www.youtube.com/watch?v=pzo8a5sZGKE
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains the difference between influence and manipulation, noting that influ
 Doug shares a personal story about his early frustrations with the sales team at his company, where his logical, self-focused appeals failed to get timely information.
 By shifting his approach to consider the sales team's perspective and what motivated them—specifically, their commission-based pay and fear of delayed paychecks—he was able to communicate more effectively and quickly get the information he needed.
 Doug concludes that understanding others' motivations and framing requests from their point of view is key to influencing without authority, and he hints at sharing more practical tips in the next video.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                   |

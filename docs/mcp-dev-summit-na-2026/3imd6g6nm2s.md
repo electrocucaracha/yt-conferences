@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Dynamic MCPs: Agentic Discovery, Configuration, and Management of MCP Workloads
+  - Jim Clark, Docker"
+nav_order: 19
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Dynamic MCPs: Agentic Discovery, Configuration, and Management of MCP Workloads - Jim Clark, Docker"
-description: "Jim Clark discusses his experiences and insights on the evolution of MCP (Machine Control Protocol) servers and agent tooling, drawing parallels to the Language Server Protocol's impact on development environments. He describes the initial..."
+description:
+  Jim Clark discusses his experiences and insights on the evolution of
+  MCP (Machine Control Protocol) servers and agent tooling, drawing parallels to the
+  Language Server Protocol's impact on development environments. He describes the
+  initial...
 resource: https://www.youtube.com/watch?v=3imd6g6nM2s
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He describes the initial challenges of integrating tools across various SDKs and
 Clark explains the development of MCP Gateway and the concept of catalogs, which curate and govern available MCP servers, and introduces "primordial tools" like MCP find, add, and config that help agents dynamically discover, configure, and use relevant tools.
 He highlights the importance of context management, deferred tools, sub-agents, and tool compression (such as code mode) to address the growing complexity as the number of MCP servers increases.
 Throughout, Clark emphasizes the need for agents to efficiently select and configure tools, the benefits of sandboxed runtimes, and the ongoing challenges and opportunities in curating and securing MCP catalogs.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

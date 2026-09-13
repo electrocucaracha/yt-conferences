@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Lightning Talk: How To Responsibly and Effectively Contribute To Open Source
+  Using... Tyler Helmuth"
+nav_order: 207
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Lightning Talk: How To Responsibly and Effectively Contribute To Open Source Using... Tyler Helmuth"
-description: "Tyler Helmouth, a software engineer at Honeycomb and maintainer of several open source projects, discusses the impact of AI tools on open source contributions. He notes that while AI has made it easier for both new and experienced contribut..."
+description:
+  Tyler Helmouth, a software engineer at Honeycomb and maintainer of several
+  open source projects, discusses the impact of AI tools on open source contributions.
+  He notes that while AI has made it easier for both new and experienced contribut...
 resource: https://www.youtube.com/watch?v=hBiJ5ZQDVds
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He notes that while AI has made it easier for both new and experienced contribut
 Helmouth emphasizes that only humans can build trust through active engagement, clear communication, and manageable, well-reviewed pull requests.
 He warns against fully automated, verbose, or oversized AI-generated contributions, advocating instead for using AI as a tool to understand repositories, write code, and perform local reviews—while ensuring that humans remain present and responsible for their contributions.
 Ultimately, he encourages contributors to use AI thoughtfully, remain engaged with the community, and build relationships to foster trust and effective collaboration.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

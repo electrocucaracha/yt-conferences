@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  'Enterprise-Ready MCP: Security Patterns and the "4-Legged" Identity Challenge
+  - Paulina Xu'
+nav_order: 21
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: 'Enterprise-Ready MCP: Security Patterns and the "4-Legged" Identity Challenge - Paulina Xu'
-description: "In this talk, Paulina, CEO of Aentic Fabric, explains the challenges of making MCP (Multi-Component Platform) enterprise-ready, focusing on the increasing complexity of security and identity as systems move beyond local development. She out..."
+description:
+  In this talk, Paulina, CEO of Aentic Fabric, explains the challenges
+  of making MCP (Multi-Component Platform) enterprise-ready, focusing on the increasing
+  complexity of security and identity as systems move beyond local development. She
+  out...
 resource: https://www.youtube.com/watch?v=pJPocx9_kT8
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ She outlines how traditional OAuth models, designed for simple, explicit delegat
 Paulina discusses four key RFCs—9728 (resource metadata), 8414 (authorization server metadata), 7591 (dynamic client registration), and 8693 (token exchange)—that together enable agents to securely discover, register, and delegate identity across complex, distributed systems.
 She emphasizes that robust security in agentic systems requires layered defenses, including least privilege, encryption, observability, availability, and strict secret management, and illustrates practical solutions such as broker layers for centralized token exchange and policy enforcement.
 The session concludes with demonstrations of these concepts in practice and a Q&A addressing token audience changes, revocation, and the need for consistent security across agent-to-agent interactions.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

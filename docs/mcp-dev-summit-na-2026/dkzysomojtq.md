@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Kubernetes-Native Agent Discovery: A Unified Registry for MCP Servers and
+  Skills - Carlos Santana"
+nav_order: 51
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Kubernetes-Native Agent Discovery: A Unified Registry for MCP Servers and Skills - Carlos Santana"
-description: "Carlos Santana, a senior specialist solutions architect at AWS, discusses using Kubernetes as a platform engineering control plane, focusing on modeling and managing agentic workloads through Custom Resource Definitions (CRDs). He introduce..."
+description:
+  Carlos Santana, a senior specialist solutions architect at AWS, discusses
+  using Kubernetes as a platform engineering control plane, focusing on modeling and
+  managing agentic workloads through Custom Resource Definitions (CRDs). He introduce...
 resource: https://www.youtube.com/watch?v=DKZYsomOjtQ
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ Carlos Santana, a senior specialist solutions architect at AWS, discusses using 
 He introduces several projects—KAgent, K8s Agent Sandbox, and Symposium—that leverage CRDs to define agents, models, skills, and secure execution environments, enabling organizations to declaratively compose and manage complex agent-based applications.
 Santana highlights the challenges of inconsistent APIs across projects and demonstrates how tools like Crow (Kubernetes Resource Orchestrator) can help unify and abstract these definitions, allowing for flexible composition and adaptation without deep Go programming.
 Through YAML-based configurations and live demos, he shows how organizations can deploy, manage, and evolve agentic platforms on Kubernetes, ensuring consistency, security, and ease of integration across diverse workloads and environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                          |

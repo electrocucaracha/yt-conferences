@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Making Topology-Aware Scheduling Practical for AI Workloads: From Discovery
+  to Simula... Weizhou Lan"
+nav_order: 216
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Making Topology-Aware Scheduling Practical for AI Workloads: From Discovery to Simula... Weizhou Lan"
-description: "In this session, Wulan, a senior tech lead at docloud, discusses making topology-aware scheduling practical for AI workloads, emphasizing the importance of network topology discovery and cost-effective validation approaches. He explains tha..."
+description:
+  In this session, Wulan, a senior tech lead at docloud, discusses making
+  topology-aware scheduling practical for AI workloads, emphasizing the importance
+  of network topology discovery and cost-effective validation approaches. He explains
+  tha...
 resource: https://www.youtube.com/watch?v=Jj8DNLA5hYc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Traditional scheduling methods using node labels and affinities are inadequate d
 Wulan reviews advanced schedulers like Q, Volcano, and K-Scheduler, which support hierarchical topology constraints and automate topology mapping, but notes their reliance on accurate node labels.
 He highlights the need for automated topology detectors, such as Nvidia Topograph or custom builders using protocols like gNMI, to maintain up-to-date topology information.
 For validation and testing, he recommends simulation tools like Cork and Nvidia Air, which allow for scalable, realistic testing environments without the need for extensive physical infrastructure.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

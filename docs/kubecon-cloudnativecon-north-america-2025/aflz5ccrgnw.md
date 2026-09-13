@@ -1,11 +1,23 @@
 ---
+layout: default
+title: SIG Autoscaling Projects Update - Jack Francis, Microsoft & Jason Deal, AWS
+nav_order: 265
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "SIG Autoscaling Projects Update - Jack Francis, Microsoft & Jason Deal, AWS"
-description: "Jack Francis from Microsoft and Jason Deal from AWS present an overview of Kubernetes autoscaling, highlighting the community-driven efforts within SIG Autoscaling and expressing gratitude to contributors. They explain the roles of cluster..."
+description:
+  Jack Francis from Microsoft and Jason Deal from AWS present an overview
+  of Kubernetes autoscaling, highlighting the community-driven efforts within SIG
+  Autoscaling and expressing gratitude to contributors. They explain the roles of
+  cluster...
 resource: https://www.youtube.com/watch?v=aflZ5ccrgnw
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They explain the roles of cluster autoscaler and Carpenter, noting that cluster 
 The talk details recent Carpenter updates, including the introduction of reserved capacity, node overlay for custom pricing and resource adjustments, and static capacity for maintaining fixed node counts.
 Updates to cluster autoscaler include enhancements to horizontal and vertical pod autoscalers, custom tolerance, in-place vertical scaling, and ongoing work to integrate Device Resource Assignment (DRA) features.
 The speakers also discuss Carpenter’s roadmap for DRA support, the growing provider ecosystem for both autoscalers, and encourage community involvement through meetings, GitHub, and Slack channels.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                       |

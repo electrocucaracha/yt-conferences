@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tutorial: Your Application, Batteries In... Brandt K, Austin A, William C,
+  Merijn K & Jessica K-D"
+nav_order: 383
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Tutorial: Your Application, Batteries In... Brandt K, Austin A, William C, Merijn K & Jessica K-D"
-description: "The video presents a tutorial session on Zarf, an open-source air gap package manager for Kubernetes, with a focus on application portability, determinism, and supply chain security. The presenters introduce themselves and outline the sessi..."
+description:
+  The video presents a tutorial session on Zarf, an open-source air gap
+  package manager for Kubernetes, with a focus on application portability, determinism,
+  and supply chain security. The presenters introduce themselves and outline the sessi...
 resource: https://www.youtube.com/watch?v=BBdrp4KvhEo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The presenters introduce themselves and outline the session, which includes hand
 They explain how Zarf packages applications and all dependencies—including Helm charts, OCI images, and Git repositories—into a single, portable tarball, enabling deployment in air-gapped or connected environments.
 The tutorial demonstrates creating a Zarf YAML configuration, finding and including necessary images, packaging, deploying to a Kubernetes cluster, and verifying package integrity through checksums and signatures.
 Throughout, the presenters address audience questions on topics such as registry customization, Helm and Kustomize support, multi-architecture images, and security features, emphasizing Zarf’s transparency, flexibility, and alignment with open-source security best practices.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

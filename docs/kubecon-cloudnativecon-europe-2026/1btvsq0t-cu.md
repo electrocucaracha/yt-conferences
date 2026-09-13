@@ -1,11 +1,22 @@
 ---
+layout: default
+title: The Road To Strimzi 1.0 - Jakub Scholz, Cloudera & Paolo Patierno, IBM
+nav_order: 365
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Road To Strimzi 1.0 - Jakub Scholz, Cloudera & Paolo Patierno, IBM"
-description: "Paulo and Jakob, core maintainers of the StreamZ project, shared their journey toward the upcoming StreamZ 1.0 release, highlighting its eight-year development and the contributions of over 300 collaborators. The 1.0 release, planned for Ap..."
+description:
+  Paulo and Jakob, core maintainers of the StreamZ project, shared their
+  journey toward the upcoming StreamZ 1.0 release, highlighting its eight-year development
+  and the contributions of over 300 collaborators. The 1.0 release, planned for Ap...
 resource: https://www.youtube.com/watch?v=1BtVSQ0t-CU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ The 1.0 release, planned for April, finalizes the transition to a new v1 API int
 They emphasized flexibility in the upgrade path, allowing users to transition at their own pace, and explained the rationale behind the lengthy timeline, mainly due to waiting for Kafka’s shift away from Zookeeper.
 Looking ahead, they outlined major upcoming features, including support for Kafka’s dynamic quorum, integration with cert-manager for certificate lifecycle management, enhanced auto-rebalancing with anomaly detection, and Gateway API support following the deprecation of the NGINX controller.
 The session concluded with an invitation to the community to participate in the upcoming StreamZ conference and to engage through various channels for support and collaboration.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

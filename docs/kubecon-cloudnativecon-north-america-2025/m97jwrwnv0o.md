@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Untangling CSI: Powering Persistent Storage for KubeVirt - Brenda McLaren
+  & Chris Keller, Red Hat"
+nav_order: 334
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Untangling CSI: Powering Persistent Storage for KubeVirt - Brenda McLaren & Chris Keller, Red Hat"
-description: "In this presentation, Brendan McLaren and Chris Keller from Red Hat discuss the role of the Container Storage Interface (CSI) in simplifying and standardizing persistent storage management within Kubernetes, especially when running virtual..."
+description:
+  In this presentation, Brendan McLaren and Chris Keller from Red Hat discuss
+  the role of the Container Storage Interface (CSI) in simplifying and standardizing
+  persistent storage management within Kubernetes, especially when running virtual...
 resource: https://www.youtube.com/watch?v=m97jWRWNv0o
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that while Kubernetes made compute agile and scalable, storage intr
 The speakers detail the architecture of CSI drivers, including controller and node plugins, and emphasize the importance of understanding the differences between drivers, conducting performance testing, and ensuring compatibility and up-to-date versions.
 They highlight key features such as dynamic provisioning, snapshots, clones, topology awareness, and high availability, and caution against common pitfalls like assuming all CSI drivers are equal or neglecting scalability and backup considerations.
 Looking ahead, they mention upcoming enhancements like change block tracking and improved replication support, advising users to stay current with CSI developments and carefully evaluate vendor capabilities for successful storage integration in Kubernetes environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "10 Years of Cilium: Connecting, Securing... Bill Mulligan, Paul Arah, Neha
+  Aggarwal, Satish Krishnan"
+nav_order: 1
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "10 Years of Cilium: Connecting, Securing... Bill Mulligan, Paul Arah, Neha Aggarwal, Satish Krishnan"
-description: "The session began with an update on the Psyllium project, marking its 10th anniversary alongside the CNCF. Speakers highlighted Psyllium’s evolution from a CNI focused on cloud-native networking to a comprehensive suite including observabil..."
+description:
+  The session began with an update on the Psyllium project, marking its
+  10th anniversary alongside the CNCF. Speakers highlighted Psyllium’s evolution from
+  a CNI focused on cloud-native networking to a comprehensive suite including observabil...
 resource: https://www.youtube.com/watch?v=mCKwX74xIs4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Speakers highlighted Psyllium’s evolution from a CNI focused on cloud-native n
 Recent advancements in version 1.18 include enhanced IPv6 support, a redesigned load balancer control plane, improved policy isolation, and significant reductions in policy latency and CPU usage.
 Microsoft shared how it has integrated Psyllium into Azure CNI to meet hyperscale AI workload demands, introducing features like endpoint slicing and dynamic network metrics filtering to improve scalability and observability.
 The session also reflected on Psyllium’s growth, its collaborative open-source community, and its ongoing adaptation to support the next era of AI-driven infrastructure, inviting further community participation and contributions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                           |

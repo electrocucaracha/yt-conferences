@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Bare Metal Provisioning With Tinkerbell - Jacob Weinstock,
+  Maintainer"
+nav_order: 252
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Bare Metal Provisioning With Tinkerbell - Jacob Weinstock, Maintainer"
-description: "Jacob Weintock, the core maintainer of the Tinkerbell project, introduces Tinkerbell as a Kubernetes-native bare metal provisioning engine designed to simplify and modernize the process of provisioning physical hardware. Unlike older techno..."
+description:
+  Jacob Weintock, the core maintainer of the Tinkerbell project, introduces
+  Tinkerbell as a Kubernetes-native bare metal provisioning engine designed to simplify
+  and modernize the process of provisioning physical hardware. Unlike older techno...
 resource: https://www.youtube.com/watch?v=DvsMNlrOxcM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Unlike older technologies like Kickstart or PXE booting, Tinkerbell uses Kuberne
 Recent features include a read-only web UI, the new Captain OS (successor to Hook OS), serial over SSH for secure console access, and discovery modes for automatic hardware detection and workflow assignment.
 Tinkerbell offers a single-binary deployment with zero external dependencies, supports various DHCP and static provisioning modes, and allows integration of custom CRDs through hardware references.
 Upcoming enhancements include expanded data source support, new specifications, and greater flexibility for Kubernetes installations via the cap t provider, with opportunities for community involvement through meetings, sessions, and demos.
+
 # Main Points
 
 |   # | Main point                                                                                                          |

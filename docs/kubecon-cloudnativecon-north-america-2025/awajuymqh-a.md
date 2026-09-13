@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  In AI We Trust? Securing the Future, One Agent... Lin S, Yuval K, Hannah F,
+  Andrew M & Ricardo A
+nav_order: 101
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "In AI We Trust? Securing the Future, One Agent... Lin S, Yuval K, Hannah F, Andrew M & Ricardo A"
-description: "The panel at CubeCon, moderated by Lensa from solo.io, focused on the adoption and security challenges of AI agents in organizations. Panelists from various backgrounds discussed how companies are increasingly using existing AI agents like..."
+description:
+  The panel at CubeCon, moderated by Lensa from solo.io, focused on the
+  adoption and security challenges of AI agents in organizations. Panelists from various
+  backgrounds discussed how companies are increasingly using existing AI agents like...
 resource: https://www.youtube.com/watch?v=AWajuymQH-A
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ They shared personal experiences with favorite AI agents, including custom-built
 The discussion emphasized significant security concerns, such as unclear data provenance, identity management, and the risks posed by non-technical users granting excessive access to agents.
 As organizations experiment with multi-agent orchestration across environments, the panelists noted the complexity of securing these dynamic systems, the need for new risk management approaches to address issues like prompt injection, and the importance of designing agents with minimal necessary privileges.
 Audience engagement brought further questions about formalizing security standards and practical strategies for limiting agent access, with consensus that careful design and ongoing education are crucial as the field evolves.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                      |

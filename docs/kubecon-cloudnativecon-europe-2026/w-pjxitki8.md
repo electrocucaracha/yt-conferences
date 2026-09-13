@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: OpenCost: Cost And Resource Management - Rajith Attapattu,
+  Maintainer"
+nav_order: 281
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: OpenCost: Cost And Resource Management - Rajith Attapattu, Maintainer"
-description: "The speaker introduces the OpenCost project, a vendor-neutral CNCF incubating initiative designed to provide unified cost allocation and asset visibility for Kubernetes clusters, including multi-cloud and on-premises environments. OpenCost..."
+description:
+  The speaker introduces the OpenCost project, a vendor-neutral CNCF incubating
+  initiative designed to provide unified cost allocation and asset visibility for
+  Kubernetes clusters, including multi-cloud and on-premises environments. OpenCost...
 resource: https://www.youtube.com/watch?v=w-_PJXitKI8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ OpenCost features an extensible plug-in architecture, flexible deployment option
 The project helps users understand and manage cluster costs by modeling overhead, allocation, and resource usage costs, enabling better workload and cluster rightsizing, and supporting internal chargeback calculations.
 The speaker also clarifies that OpenCost originated from a donation of KubeCost to CNCF and now serves as the vendor-neutral base for downstream offerings.
 A brief demo highlights OpenCost’s API-driven capabilities and emphasizes the importance of its underlying model and APIs over its user interface.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

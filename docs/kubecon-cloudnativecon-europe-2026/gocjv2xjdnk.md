@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "KubeVirt's Evolution: Governance, Features, and Community Growth - Sreeja
+  Varnam & Luboslav Pivarc"
+nav_order: 190
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "KubeVirt's Evolution: Governance, Features, and Community Growth - Sreeja Varnam & Luboslav Pivarc"
-description: "Lo Slapage and Sria present on the evolution and management of the KubeVirt project, which integrates virtual machines into the Kubernetes ecosystem. They describe KubeVirt’s growth from a small, chaotic project to a mature community, empha..."
+description:
+  Lo Slapage and Sria present on the evolution and management of the KubeVirt
+  project, which integrates virtual machines into the Kubernetes ecosystem. They describe
+  KubeVirt’s growth from a small, chaotic project to a mature community, empha...
 resource: https://www.youtube.com/watch?v=goCjV2xJDnk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They describe KubeVirt’s growth from a small, chaotic project to a mature comm
 The talk highlights the VM Pool feature, which enables scalable, declarative management of groups of similar virtual machines, offering benefits like automated scaling, controlled updates, and auto-healing, all managed through a clear API and update strategies.
 The presenters explain that the structured proposal and review process has improved collaboration, early feedback, and feature stability, making project management more manageable despite the added administrative tasks.
 They also discuss community practices, such as open meetings and distributing responsibilities among special interest groups, to ensure sustainable project growth and effective feature delivery.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

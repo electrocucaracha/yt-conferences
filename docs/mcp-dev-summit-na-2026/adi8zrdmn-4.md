@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Threat Modeling Authorization in MCP - Sarah Cecchetti, OpenID Foundation
+nav_order: 95
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Threat Modeling Authorization in MCP - Sarah Cecchetti, OpenID Foundation"
-description: 'The speaker, Sarah Jetty, discusses threat modeling and authorization challenges in Multi-Component Protocols (MCP), using "The Cat in the Hat Comes Back" as a metaphor for sub-agent delegation and the risks of unattenuated permissions. She...'
+description:
+  The speaker, Sarah Jetty, discusses threat modeling and authorization
+  challenges in Multi-Component Protocols (MCP), using "The Cat in the Hat Comes Back"
+  as a metaphor for sub-agent delegation and the risks of unattenuated permissions.
+  She...
 resource: https://www.youtube.com/watch?v=ADI8zrdmN_4
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ The speaker, Sarah Jetty, discusses threat modeling and authorization challenges
 She outlines four key attacks: silent tool injection, malicious elicitation, uncontrolled delegation, and sampling exfiltration, each illustrating vulnerabilities where MCP servers or sub-agents can gain excessive or unintended access.
 To address these, she recommends making MCP a one-way flow to prevent data exfiltration, implementing signed server metadata to prevent unauthorized tool changes, requiring fine-grained authorization details for sub-agents, and adding an escalation response for tools when permissions are insufficient.
 The talk emphasizes the need for cryptographically verifiable credentials and selective disclosure to strengthen trust and control in agent interactions, and encourages participation in the OpenID Foundation’s AI identity management group for further collaboration and improvement.
+
 # Main Points
 
 |   # | Main point                                                                                                                   |

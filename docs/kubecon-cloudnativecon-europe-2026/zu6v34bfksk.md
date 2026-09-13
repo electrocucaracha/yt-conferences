@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Crossplane - The Cloud Native Framework for Platform Engineering - Jared Watts
+  & Adam Wolfe Gordon
+nav_order: 79
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Crossplane - The Cloud Native Framework for Platform Engineering - Jared Watts & Adam Wolfe Gordon"
-description: "Jared and Adam, core maintainers of the Crossplane project, introduce Crossplane as a control plane framework that enables platform teams to build self-service infrastructure APIs for developers, reducing deployment wait times and complexit..."
+description:
+  Jared and Adam, core maintainers of the Crossplane project, introduce
+  Crossplane as a control plane framework that enables platform teams to build self-service
+  infrastructure APIs for developers, reducing deployment wait times and complexit...
 resource: https://www.youtube.com/watch?v=zu6V34BFksk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The session highlights recent milestones, including Crossplane’s graduation wi
 Adam demonstrates new developer experience enhancements, particularly control plane projects, which streamline the development, testing, and packaging of Crossplane platforms by consolidating APIs, compositions, and functions—now writable in various languages—into a single project structure.
 Jared then showcases advancements in Crossplane metrics, detailing a new, flexible approach to observability that allows users to monitor resources at granular levels without overwhelming monitoring systems, thanks to integration with the resource state metrics project.
 The session concludes with an invitation for community contributions and engagement.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

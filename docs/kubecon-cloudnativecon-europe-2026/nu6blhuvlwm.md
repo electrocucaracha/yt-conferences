@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "GPUs on Kubernetes: What Actually Happens When You Request Nvidia... Gulcan
+  Topcu & Daniele Polencic"
+nav_order: 130
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "GPUs on Kubernetes: What Actually Happens When You Request Nvidia... Gulcan Topcu & Daniele Polencic"
-description: "The speakers introduce the complexities of using GPUs, particularly within Kubernetes environments. They begin by explaining foundational Linux concepts such as system calls, control groups (cgroups), and namespaces, which underpin containe..."
+description:
+  The speakers introduce the complexities of using GPUs, particularly within
+  Kubernetes environments. They begin by explaining foundational Linux concepts such
+  as system calls, control groups (cgroups), and namespaces, which underpin containe...
 resource: https://www.youtube.com/watch?v=nu6bLhuvlWM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +30,7 @@ Unlike CPUs, GPU operations bypass the open-source Linux kernel and rely on prop
 Integrating GPUs with Kubernetes requires several additional layers—including the Nvidia driver, container toolkit, and device plugin—to expose GPU resources to containers, manage allocation, and ensure proper scheduling.
 The process involves Kubernetes components recognizing GPU resources, scheduling pods accordingly, and leveraging hooks in the container runtime to inject necessary drivers and environment variables.
 The talk emphasizes that running GPUs in Kubernetes is fundamentally different from standard workloads due to hardware constraints, opaque drivers, and the need for multiple integration layers, highlighting both the challenges and the importance of understanding these differences for effective deployment.
+
 # Main Points
 
 |   # | Main point                                                                                                              |

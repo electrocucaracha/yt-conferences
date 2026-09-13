@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Code Mode Is Best Served in the Shell - Jan Curn, Apify
+nav_order: 9
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Code Mode Is Best Served in the Shell - Jan Curn, Apify"
-description: "Yan, founder and CEO of Appify, discusses the challenges and solutions related to integrating AI agents with tool protocols, focusing on the MCP (Machine Control Protocol) and CLI (Command Line Interface) approaches. He explains that while..."
+description:
+  Yan, founder and CEO of Appify, discusses the challenges and solutions
+  related to integrating AI agents with tool protocols, focusing on the MCP (Machine
+  Control Protocol) and CLI (Command Line Interface) approaches. He explains that
+  while...
 resource: https://www.youtube.com/watch?v=Z5C9LSpQrYw
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ Yan reviews several solutions, including splitting context among sub-agents, dyn
 He highlights the advantages of CLI tools, which AI models understand well due to extensive training data, allowing for progressive tool discovery and efficient context management, though CLI tools act as black boxes and lack standard protocols for secure remote access.
 To combine the strengths of both approaches, Yan introduces MCPC, an open-source CLI client for MCP that enables agents to interact with MCP servers through familiar shell commands, supporting features like dynamic tool discovery, asynchronous tasks, and secure authentication.
 He demonstrates MCPC’s capabilities and argues for making it the official shell SDK for MCP, aiming to bridge the gap between CLI and MCP and streamline AI tool integration.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

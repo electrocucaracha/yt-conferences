@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Maximizing the Launch Reliability: Ensuring Stable Application Lift-off and
+  Orbi... Hiroshi Hayakawa"
+nav_order: 167
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Maximizing the Launch Reliability: Ensuring Stable Application Lift-off and Orbi... Hiroshi Hayakawa"
-description: "Hiroshi, a product owner at LY Corporation’s private cloud division, presents on improving application launch reliability on Kubernetes, drawing from extensive experience managing large-scale platforms. He outlines the importance of launch..."
+description:
+  Hiroshi, a product owner at LY Corporation’s private cloud division,
+  presents on improving application launch reliability on Kubernetes, drawing from
+  extensive experience managing large-scale platforms. He outlines the importance
+  of launch...
 resource: https://www.youtube.com/watch?v=vTmImF_mibY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He outlines the importance of launch reliability for production applications and
 Hiroshi emphasizes ensuring applications are fully initialized before accepting traffic, recommending the use of Kubernetes probes and initialization strategies like pre-filling connection pools and warming up applications.
 He also discusses the new Kubernetes feature, "impress port resize," which allows dynamic resource adjustment without restarting containers, noting its potential benefits and current limitations, especially with Java applications.
 The session concludes with a summary of best practices and an invitation for community feedback on further automating resource scaling after startup.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

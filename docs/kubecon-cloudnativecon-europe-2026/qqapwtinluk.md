@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Serverless GPUs in Production: How Cerebrium Built a Globally... Dave Protasowski
+  & Elijah Roussos"
+nav_order: 330
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Serverless GPUs in Production: How Cerebrium Built a Globally... Dave Protasowski & Elijah Roussos"
-description: "The talk discusses how Cerebrum leverages Knative to deliver serverless GPU capabilities for AI workloads, highlighting the unique challenges of deploying GPU-based applications compared to traditional CPU workloads. Eli from Cerebrum expla..."
+description:
+  The talk discusses how Cerebrum leverages Knative to deliver serverless
+  GPU capabilities for AI workloads, highlighting the unique challenges of deploying
+  GPU-based applications compared to traditional CPU workloads. Eli from Cerebrum
+  expla...
 resource: https://www.youtube.com/watch?v=QqApwTinlUk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Eli from Cerebrum explains that AI workloads require exclusive access to expensi
 Cerebrum addresses these issues by customizing Knative’s serving component, implementing direct state propagation and a single state manager to improve readiness and routing accuracy, and introducing features like scaling buffers and user-configurable load balancing.
 The team also discusses ongoing improvements in Knative, such as enhanced autoscaling, support for larger clusters, and efforts to reduce container image pull times using lazy loading and image streaming technologies.
 The session concludes with updates on Knative’s roadmap and encourages community engagement for further development and feedback.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                       |

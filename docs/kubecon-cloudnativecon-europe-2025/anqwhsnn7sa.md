@@ -1,11 +1,19 @@
 ---
+layout: default
+title: The State of Backstage in 2025
+nav_order: 341
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "The State of Backstage in 2025"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=anqWhSnN7sA
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +23,7 @@ The team highlighted various project areas, such as scaffolder, community plugin
 Additionally, the team shared updates on their internal instance of Backstage, including improvements to front-end discovery, CLI modules, and configuration systems.
 They also discussed plans for future work, including refining the configuration system and exploring integration with Model Context Protocol.
 The team expressed gratitude for community feedback and engagement, and encouraged attendees to continue providing input and suggestions.
+
 # Main Points
 
 |   # | Main point |

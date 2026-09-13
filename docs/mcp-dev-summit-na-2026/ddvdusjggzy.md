@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Tool Abstraction Problem: Lessons Learned Building 1000+ MCP Tools - Sam
+  Partee, Arcade.dev"
+nav_order: 94
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "The Tool Abstraction Problem: Lessons Learned Building 1000+ MCP Tools - Sam Partee, Arcade.dev"
-description: "The speaker discusses the concept of tool abstraction, drawing on extensive experience building over 10,000 tools, and emphasizes that tools designed for large language models (LLMs) require a different abstraction than traditional APIs mad..."
+description:
+  The speaker discusses the concept of tool abstraction, drawing on extensive
+  experience building over 10,000 tools, and emphasizes that tools designed for large
+  language models (LLMs) require a different abstraction than traditional APIs mad...
 resource: https://www.youtube.com/watch?v=ddvDuSJgGZY
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Rather than simply wrapping APIs, effective tools for LLMs should be organized a
 The speaker highlights that the quality of a tool’s description is the most significant factor in its successful selection and use by LLMs, far outweighing other considerations like context or naming, and recommends concise, action-oriented descriptions.
 Research and benchmarks consistently show that task- and intent-based tools, with well-crafted descriptions, yield higher accuracy and reliability, while having too many tools or overly broad agent scopes leads to confusion and diminished performance.
 The talk concludes by urging ongoing attention to description quality and thoughtful tool design, as these are the primary levers for improving agent effectiveness.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

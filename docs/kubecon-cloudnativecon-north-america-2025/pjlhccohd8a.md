@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tutorial: Build-a-Bot Workshop... Maia Iyer, Alan Cha, Mariusz Sabath, Anjali
+  Telang & Andrew Block"
+nav_order: 325
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Tutorial: Build-a-Bot Workshop... Maia Iyer, Alan Cha, Mariusz Sabath, Anjali Telang & Andrew Block"
-description: "The video presents a comprehensive walkthrough on building secure, trusted AI agents, emphasizing zero trust principles and leveraging open source technologies. The speakers introduce themselves and outline foundational concepts, defining A..."
+description:
+  The video presents a comprehensive walkthrough on building secure, trusted
+  AI agents, emphasizing zero trust principles and leveraging open source technologies.
+  The speakers introduce themselves and outline foundational concepts, defining A...
 resource: https://www.youtube.com/watch?v=pjlhCCOhd8A
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The speakers introduce themselves and outline foundational concepts, defining AI
 They discuss the importance of contextual security, highlighting pitfalls such as passing user API keys or using master keys, and advocate for OAuth with token exchange and workload identity (via Spiffy/Spire) to maintain granular access control and auditability.
 The team demonstrates the Kajenti project, a Kubernetes-native, open source blueprint integrating Keycloak (OAuth provider), Spire (workload identity), and Vault (secure credential storage) to enable secure agent-tool interactions, illustrated through a GitHub issue management use case.
 The session concludes with a discussion on scaling architectures using MCP gateways, the flexibility of integrating with service meshes, and ongoing efforts to address challenges like prompt injection and dynamic credential management, inviting community collaboration and experimentation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

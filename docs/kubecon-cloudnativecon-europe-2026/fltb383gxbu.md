@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "A Tale of Two KEPs: How the Community is Taming Kubernetes' CrashLoopBackoff
+  - Yang Li, Google"
+nav_order: 6
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "A Tale of Two KEPs: How the Community is Taming Kubernetes' CrashLoopBackoff - Yang Li, Google"
-description: 'Yang, a technical solutions engineer at Google Cloud, shares his experience with Kubernetes'' "crash loop backoff" behavior, where containers that repeatedly crash are restarted with increasing delays, up to five minutes. This mechanism, int...'
+description:
+  Yang, a technical solutions engineer at Google Cloud, shares his experience
+  with Kubernetes' "crash loop backoff" behavior, where containers that repeatedly
+  crash are restarted with increasing delays, up to five minutes. This mechanism,
+  int...
 resource: https://www.youtube.com/watch?v=FlTb383gXbU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Over the years, users resorted to workarounds like custom scripts and forks to b
 To address these issues, Kubernetes Enhancement Proposal (KEP) 4603 was introduced, allowing cluster operators to configure the maximum backoff period at the node level, with a safe minimum of one second, based on stress testing.
 This change, split into two KEPs for safer rollout, gives operators granular control over restart behavior without compromising node stability, and is now available in Kubernetes 1.35.
 Yang demonstrates the practical benefits of these changes and emphasizes the importance of balancing user needs with system reliability and the incremental nature of open source improvements.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                     |

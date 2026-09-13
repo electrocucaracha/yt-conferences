@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  AI Workload Preemption in a Multi-Cluster Scheduling System at Bloomberg -
+  Leon Zhou & Wei-Cheng Lai
+nav_order: 13
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "AI Workload Preemption in a Multi-Cluster Scheduling System at Bloomberg - Leon Zhou & Wei-Cheng Lai"
-description: "Bloomberg's AI workflow management system utilizes a multicluster Kubernetes orchestration tool, Carmada, to efficiently manage thousands of AI training jobs across multiple clusters. The system prioritizes workloads based on business urgen..."
+description:
+  Bloomberg's AI workflow management system utilizes a multicluster Kubernetes
+  orchestration tool, Carmada, to efficiently manage thousands of AI training jobs
+  across multiple clusters. The system prioritizes workloads based on business urgen...
 resource: https://www.youtube.com/watch?v=LrL5AcS2d5g
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +26,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 Bloomberg's AI workflow management system utilizes a multicluster Kubernetes orchestration tool, Carmada, to efficiently manage thousands of AI training jobs across multiple clusters.
 The system prioritizes workloads based on business urgency and employs preemptive scheduling to ensure critical tasks are executed promptly, even when resources are limited.
 To balance platform efficiency with user experience, the system caches model checkpoints locally, provides clear visibility into expected queuing times, and offers practical recommendations for optimizing job outcomes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                               |

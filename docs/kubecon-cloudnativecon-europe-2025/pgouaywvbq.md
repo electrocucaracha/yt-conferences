@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "GPU Sharing at CERN: Cutting the Cake Without Losing a Slice! - Diana Gaponcic,
+  CERN"
+nav_order: 107
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "GPU Sharing at CERN: Cutting the Cake Without Losing a Slice! - Diana Gaponcic, CERN"
-description: "I'm ready to assist you. Please provide the video transcript for me to summarize. I will generate a concise and accurate summary within the 2000 character limit."
+description:
+  I'm ready to assist you. Please provide the video transcript for me to
+  summarize. I will generate a concise and accurate summary within the 2000 character
+  limit.
 resource: https://www.youtube.com/watch?v=_pgOuaYwvBQ
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +26,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 I'm ready to assist you.
 Please provide the video transcript for me to summarize.
 I will generate a concise and accurate summary within the 2000 character limit.
+
 # Main Points
 
 |   # | Main point |

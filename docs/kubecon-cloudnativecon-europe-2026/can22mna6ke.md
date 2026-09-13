@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | EnvoyCon: Inside Spotify’s Envoy Architecture: What
+  We Le... Leonardo da Mata"
+nav_order: 59
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | EnvoyCon: Inside Spotify’s Envoy Architecture: What We Le... Leonardo da Mata"
-description: "Leonardo Damata, an engineer at Spotify, shared insights from migrating Spotify’s production architecture to use Envoy Proxy more efficiently. Historically, Spotify routed every request through a custom Envoy proxy and a Java sidecar for re..."
+description:
+  Leonardo Damata, an engineer at Spotify, shared insights from migrating
+  Spotify’s production architecture to use Envoy Proxy more efficiently. Historically,
+  Spotify routed every request through a custom Envoy proxy and a Java sidecar for
+  re...
 resource: https://www.youtube.com/watch?v=CAn22mnA6kE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Historically, Spotify routed every request through a custom Envoy proxy and a Ja
 To address this, the team migrated features from the Java sidecar into Envoy filters, aiming to align more closely with open-source practices and improve performance.
 The migration involved careful side-by-side comparisons, iterative rollouts, and multiple reversions due to unexpected issues, such as a major incident caused by filter order changes.
 Ultimately, the changes increased throughput to 4,500 requests per second per core, simplified the architecture, and fostered greater involvement with the Envoy community, though some bottlenecks remain due to legacy patterns.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                              |

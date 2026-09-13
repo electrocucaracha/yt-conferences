@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Do You Need an AI Gateway with Ignasi Barrera - Tetrate"
-description: "The session discusses the growing need for AI gateways amid the rapid evolution of AI technologies, particularly with the rise of non-deterministic systems like large language models (LLMs) and autonomous agents. The speaker explains how tr..."
+nav_order: 18
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  The session discusses the growing need for AI gateways amid the rapid
+  evolution of AI technologies, particularly with the rise of non-deterministic systems
+  like large language models (LLMs) and autonomous agents. The speaker explains how
+  tr...
 resource: https://www.youtube.com/watch?v=JBeHnvunf2M
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The speaker explains how traditional deterministic API interactions have shifted
 AI gateways, especially those with deep understanding of protocols like MCP, are presented as essential solutions for managing authentication, authorization, resiliency, observability, and policy enforcement in these environments.
 The speaker highlights the Amboy AI Gateway project, which integrates AI features and MCP support into the established Amboy proxy, allowing for secure, efficient, and customizable management of AI agent interactions.
 A demonstration shows how using such a gateway can streamline tool selection, reduce decision fatigue, and centralize security and policy controls, ultimately making AI systems more manageable and reliable in production settings.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

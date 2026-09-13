@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | EnvoyCon: Opening Remarks - Kateryna Nezdolii and Erica
+  Hughberg"
+nav_order: 60
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | EnvoyCon: Opening Remarks - Kateryna Nezdolii and Erica Hughberg"
-description: "The speakers celebrate Envoy's 10-year anniversary at Envoy Con in the Cloud Native Theater, reflecting on its evolution from a Lyft project to a vendor-neutral, community-driven solution after joining the CNCF. They discuss the rapid growt..."
+description:
+  The speakers celebrate Envoy's 10-year anniversary at Envoy Con in the
+  Cloud Native Theater, reflecting on its evolution from a Lyft project to a vendor-neutral,
+  community-driven solution after joining the CNCF. They discuss the rapid growt...
 resource: https://www.youtube.com/watch?v=WQKAqV95ogU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They discuss the rapid growth and milestones of Envoy, including its fast gradua
 The conversation highlights the development of Envoy Gateway in 2022, which made Envoy more accessible and now sees nearly 2.5 million pulls monthly.
 They also mention the recent introduction of the Envoy AI Gateway, already in production and moving toward general availability, marking Envoy's expansion into the AI era.
 The speakers emphasize the importance of community involvement and note that contributing to and extending Envoy has become much easier, encouraging newcomers to join and participate.
+
 # Main Points
 
 |   # | Main point                                                                                                             |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Istio Day: Panel: Horrors and Successes of Running
+  Istio in Production"
+nav_order: 65
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Istio Day: Panel: Horrors and Successes of Running Istio in Production"
-description: "The panel, moderated by Yophikova, brought together end users from organizations like Kaisaban Techch, Skyscanner, TomTom, and B to discuss their experiences running Istio in production. Panelists introduced themselves and described their m..."
+description:
+  The panel, moderated by Yophikova, brought together end users from organizations
+  like Kaisaban Techch, Skyscanner, TomTom, and B to discuss their experiences running
+  Istio in production. Panelists introduced themselves and described their m...
 resource: https://www.youtube.com/watch?v=-Z9zvo6leRY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ They shared deployment strategies, with most starting in sidecar mode and moving
 The discussion included detailed horror stories about complex upgrades, network policy misconfigurations, certificate issues, and DNS proxy failures, emphasizing the importance of rollback strategies and observability.
 Despite challenges, panelists agreed that Istio’s powerful L7 traffic management, extensibility, multicluster routing, and authorization policies have delivered significant value, enabling secure, scalable, and flexible service communication across large, distributed environments.
 Audience questions and additional anecdotes further illustrated both the pitfalls and successes of operating Istio at scale.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Data on Kubernetes Day: Opening Remarks - Edith Puclla,
+  Percona"
+nav_order: 55
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Data on Kubernetes Day: Opening Remarks - Edith Puclla, Percona"
-description: "Edith Pukja, technology evangelist at Perona, welcomes attendees to Data on Kubernetes Day and expresses gratitude to sponsors EDB and A9, volunteers, and global ambassadors for their support in organizing the event. She highlights communit..."
+description:
+  Edith Pukja, technology evangelist at Perona, welcomes attendees to Data
+  on Kubernetes Day and expresses gratitude to sponsors EDB and A9, volunteers, and
+  global ambassadors for their support in organizing the event. She highlights communit...
 resource: https://www.youtube.com/watch?v=JtUqcRRAml4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ She highlights community-driven resources like the Data on Kubernetes Get Starte
 AI and machine learning workloads are rapidly increasing, with 44% adoption and 70% of organizations now viewing vector databases as critical infrastructure.
 Cost optimization has become the top priority for 2025, especially for AI and ML-focused organizations, leading to strategies like GPU utilization and data transfer reduction.
 Additionally, there is a shift toward real-time and distributed systems, with edge computing and real-time data processing seen as essential, though skill gaps and storage performance bottlenecks remain challenges to be addressed through improved tooling, training, and collaboration.
+
 # Main Points
 
 |   # | Main point                                                                                                      |

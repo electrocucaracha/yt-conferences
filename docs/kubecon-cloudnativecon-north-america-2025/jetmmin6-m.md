@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Security Theater or Real Defense? Navigating... Rotem R, Constanze R, Megan
+  W, Stefana M & Oshrat N
+nav_order: 276
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Security Theater or Real Defense? Navigating... Rotem R, Constanze R, Megan W, Stefana M & Oshrat N"
-description: 'The panel discussion, moderated by Ora from Metalbear, explores the distinction between "security theater"—performative compliance measures—and genuine defense in open source, cloud-native environments. Panelists share experiences from vari...'
+description:
+  The panel discussion, moderated by Ora from Metalbear, explores the distinction
+  between "security theater"—performative compliance measures—and genuine defense
+  in open source, cloud-native environments. Panelists share experiences from vari...
 resource: https://www.youtube.com/watch?v=jETmMin6-_M
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Panelists share experiences from various sectors, highlighting how organizations
 They emphasize the importance of moving beyond static compliance to prioritize real-time detection, threat modeling, and practical defense strategies such as red teaming and anomaly detection.
 Organizational challenges, such as misaligned incentives and communication gaps between security and engineering teams, are discussed, with suggestions for fostering collaboration and integrating security more deeply into development processes.
 The panel concludes on a hopeful note, citing increased industry investment in security, the potential of AI to automate routine compliance tasks, and emerging ideas like vendor-provided runtime behavior profiles as promising steps toward more effective, measurable security.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                         |

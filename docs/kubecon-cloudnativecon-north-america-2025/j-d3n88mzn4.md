@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: The Same Great OPA, Only Faster! - Philip Conrad,
+  Maintainer"
+nav_order: 239
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: The Same Great OPA, Only Faster! - Philip Conrad, Maintainer"
-description: "Philip Conrad, a maintainer of the Open Policy Agent (OPA) project, presented updates on OPA’s performance improvements at CubeCon, using slides prepared by his colleague Sebastian. OPA is a CNCF graduated, general-purpose policy engine tha..."
+description:
+  Philip Conrad, a maintainer of the Open Policy Agent (OPA) project, presented
+  updates on OPA’s performance improvements at CubeCon, using slides prepared by his
+  colleague Sebastian. OPA is a CNCF graduated, general-purpose policy engine tha...
 resource: https://www.youtube.com/watch?v=j-d3n88MZn4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ OPA is a CNCF graduated, general-purpose policy engine that allows software auth
 Over the past year, OPA reached its 1.0 release, incorporating significant performance enhancements like reduced unnecessary work, fewer memory allocations, improved interpreter efficiency, and better use of sync.pool in Golang.
 Additional improvements include more efficient text handling, faster decision log generation, and advancements in the rule indexer and storage layer.
 Conrad encouraged users to upgrade to version 1.0, utilize tools like OPA format and the Regal linter, and participate in the active community, highlighting upcoming features and inviting engagement through Slack, the conference booth, and a forthcoming community survey.
+
 # Main Points
 
 |   # | Main point                                                                                                                                      |

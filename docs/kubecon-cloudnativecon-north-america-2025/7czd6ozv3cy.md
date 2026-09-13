@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Next Decoupling: From Monolithic Cluster, To Control-Pl... Justin Santa
+  Barbara & Ciprian Hacman"
+nav_order: 314
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "The Next Decoupling: From Monolithic Cluster, To Control-Pl... Justin Santa Barbara & Ciprian Hacman"
-description: "In this talk, Cyprian Hackman from Microsoft and Justin Santa Barbara from Google discuss evolving approaches to Kubernetes cluster lifecycle management, focusing on separating control plane and node management into distinct responsibilitie..."
+description:
+  In this talk, Cyprian Hackman from Microsoft and Justin Santa Barbara
+  from Google discuss evolving approaches to Kubernetes cluster lifecycle management,
+  focusing on separating control plane and node management into distinct responsibilitie...
 resource: https://www.youtube.com/watch?v=7czd6oZV3CY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that traditional installers manage both components together, which 
 The speakers highlight emerging projects like Carpenter and Cluster API, which use Kubernetes-native APIs (CRDs) to enable more dynamic, programmable, and application-driven node management, allowing users or applications to create and manage nodes directly within the cluster.
 They outline plans for KOPS to focus on control plane management while leveraging tools like Carpenter and Cluster API for node management, aiming to simplify workflows, improve flexibility, and enable advanced use cases such as proactive scaling and application-specific node provisioning.
 The session concludes with a Q&A addressing implementation details, security considerations, and the potential for improved debugging and upgrade processes through this new model.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                            |

@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Enabling Agentic Cloud Workflows - Santhosh Misro & Mayur Deshpande, Google
+nav_order: 20
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Enabling Agentic Cloud Workflows - Santhosh Misro & Mayur Deshpande, Google"
-description: "In this presentation, Santo and Mayor from Google Cloud Storage discuss the development of the Storage Intelligence MCP server, which aims to bridge AI agents and cloud storage to enable autonomous, goal-driven storage management. They desc..."
+description:
+  In this presentation, Santo and Mayor from Google Cloud Storage discuss
+  the development of the Storage Intelligence MCP server, which aims to bridge AI
+  agents and cloud storage to enable autonomous, goal-driven storage management. They
+  desc...
 resource: https://www.youtube.com/watch?v=9TkKmvgqHQo
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They describe how traditional storage administration is manual and script-heavy,
 The MCP server is structured with an insights toolset for analysis and an operations toolset for executing actions, ensuring snapshot consistency and reducing friction for users.
 They detail optimizations such as tool chaining reduction, smart caching of static metadata, and performance tuning, which led to significant reductions in token usage and latency.
 The team also addresses challenges in productionizing these agents, including workflow definition, cache management, and the potential for dynamic skill-based workflows in the future.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

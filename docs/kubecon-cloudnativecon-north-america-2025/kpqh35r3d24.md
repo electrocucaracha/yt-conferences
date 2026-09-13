@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  RAG and Fine Tuning With Kubeflow - Francisco Javier Arceo, Red Hat & Andrey
+  Velichkevich, Apple
+nav_order: 252
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "RAG and Fine Tuning With Kubeflow - Francisco Javier Arceo, Red Hat & Andrey Velichkevich, Apple"
-description: "Francisco, a senior principal software engineer at Red Hat, and Shia Wong, a member of the Kubeflow community, introduce a talk on retrieval-augmented generation (RAG) and fine-tuning in AI projects. They discuss why many AI projects fail..."
+description:
+  Francisco, a senior principal software engineer at Red Hat, and Shia
+  Wong, a member of the Kubeflow community, introduce a talk on retrieval-augmented
+  generation (RAG) and fine-tuning in AI projects. They discuss why many AI projects
+  fail...
 resource: https://www.youtube.com/watch?v=kpQh35r3d24
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They discuss why many AI projects fail, often due to model hallucinations, and e
 The presenters detail the history of RAG, its original focus on fine-tuning both retriever and generator, and how industry trends shifted toward inference due to the popularity and cost-effectiveness of RAG over fine-tuning.
 They demonstrate how tools like Feast (an open-source feature store) and Kubeflow Trainer can be used together to efficiently process data, fine-tune retrieval models, and serve embeddings at scale, even on CPUs.
 The session includes a practical example using Wikipedia data, outlines the workflow for fine-tuning retrievers, and highlights the benefits of integrating Feast and Kubeflow for scalable, reproducible AI systems, encouraging community involvement in ongoing development.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

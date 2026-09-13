@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Keynote: Using MCP for Skills Orchestration and Enterprise Integration - Jacob
+  Wilson"
+nav_order: 49
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Keynote: Using MCP for Skills Orchestration and Enterprise Integration - Jacob Wilson"
-description: "Jake Wilson, a partner at PwC’s analytics practice, discusses how modern AI and orchestration tools are transforming enterprise procurement processes, particularly for organizations with complex needs like manufacturing and research divisio..."
+description:
+  Jake Wilson, a partner at PwC’s analytics practice, discusses how modern
+  AI and orchestration tools are transforming enterprise procurement processes, particularly
+  for organizations with complex needs like manufacturing and research divisio...
 resource: https://www.youtube.com/watch?v=30WU_6_wplc
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He describes a solution involving a GPT app integrated with an MCP (Multi-Channe
 This architecture simplifies the user experience by allowing buyers to make requests through a straightforward interface, while the orchestrator manages backend complexities, including intent classification, supplier validation, and secure system integration.
 Wilson also highlights the importance of security and fine-grained access control, achieved through MCP gateways, and notes the broader industry trend toward standardized agent skills for orchestrating enterprise workflows.
 Overall, the approach streamlines procurement, reduces friction for end users, and demonstrates a practical application of AI-driven orchestration in enterprise transformation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

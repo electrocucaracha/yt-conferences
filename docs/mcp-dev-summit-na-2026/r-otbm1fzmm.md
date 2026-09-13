@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "My MCP Server Code Works, but the Agent Fails: The Case for MCP-specif...
+  Calum Murray & Wesley Chun"
+nav_order: 67
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "My MCP Server Code Works, but the Agent Fails: The Case for MCP-specif... Calum Murray & Wesley Chun"
-description: "In this talk, Wesley and Callum introduce MCP Checker, an open-source evaluation framework developed by Red Hat to assess the semantic interface between agents and MCP (Model Control Protocol) servers, particularly in stochastic, agentic AI..."
+description:
+  In this talk, Wesley and Callum introduce MCP Checker, an open-source
+  evaluation framework developed by Red Hat to assess the semantic interface between
+  agents and MCP (Model Control Protocol) servers, particularly in stochastic, agentic
+  AI...
 resource: https://www.youtube.com/watch?v=r_otBm1fZmM
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that while agent evals focus on agent behavior and often require co
 Through a live demo, they show how MCP Checker can identify whether agents use MCP server tools as intended, providing detailed logs and supporting complex assertions, which is crucial for catching issues that might otherwise go unnoticed, such as unsafe behaviors in Kubernetes environments.
 The tool is new and open for contributions, aiming to help developers and enterprises ensure their MCP servers are robust and safe for agent use, with ongoing work to improve statistical analysis of stochastic outcomes.
 The session concludes with an invitation for feedback and collaboration, highlighting MCP Checker’s flexibility and value in modern AI infrastructure testing.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                           |

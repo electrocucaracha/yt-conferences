@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  El método para entender cómo piensa y actúa cualquier persona | Rodrigo García
+  Platas
+nav_order: 21
+parent: Foro De Crecimiento
 type: Video Note
-title: "El método para entender cómo piensa y actúa cualquier persona | Rodrigo García Platas"
-description: "En esta entrevista, Rodrigo García Platas, psicopedagogo y experto en psicología sistémica, explica cómo es posible conocer aspectos profundos de una persona simplemente observando su cuerpo y su forma de caminar, basándose en una metodolog..."
+description:
+  En esta entrevista, Rodrigo García Platas, psicopedagogo y experto en
+  psicología sistémica, explica cómo es posible conocer aspectos profundos de una
+  persona simplemente observando su cuerpo y su forma de caminar, basándose en una
+  metodolog...
 resource: https://www.youtube.com/watch?v=e6djUoDbFro
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Cada biotipo tiene características físicas, emocionales y de comportamiento es
 Rodrigo enfatiza que el temperamento es biológico y hereditario, mientras que la personalidad se construye sobre esa base a lo largo de la vida.
 Además, detalla cómo identificar cada biotipo a través de rasgos físicos como la forma de la cara, las manos y la distribución de la grasa corporal, y ofrece recomendaciones prácticas para que cada persona entienda y aproveche mejor su biología, evitando comparaciones dañinas y fomentando el autoconocimiento y la aceptación.
 Finalmente, destaca la importancia de reconocer y respetar las diferencias entre biotipos para mejorar las relaciones personales y profesionales.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                            |

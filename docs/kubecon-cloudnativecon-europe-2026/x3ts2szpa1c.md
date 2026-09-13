@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Tutorial: Building Intelligent Apps with RAG on Kube... Cedric C, Natale V,
+  Christopher N & Legare K"
+nav_order: 379
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Tutorial: Building Intelligent Apps with RAG on Kube... Cedric C, Natale V, Christopher N & Legare K"
-description: "The workshop introduces participants to building Retrieval-Augmented Generation (RAG) systems using open source tools such as Kubeflow, Kafka, KNative, and vector databases on top of Kubernetes and OpenShift. Attendees learn how to automate..."
+description:
+  The workshop introduces participants to building Retrieval-Augmented
+  Generation (RAG) systems using open source tools such as Kubeflow, Kafka, KNative,
+  and vector databases on top of Kubernetes and OpenShift. Attendees learn how to
+  automate...
 resource: https://www.youtube.com/watch?v=x3tS2SzpA1c
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Attendees learn how to automate data pipelines that ingest unstructured data (li
 The hands-on lab guides users through setting up event-driven pipelines—triggered by file uploads to object storage (MinIO) and managed via Kafka and KNative—to automate data ingestion and model serving, with JupyterHub used for experimentation and interaction.
 The session emphasizes the importance of data preparation, storage, and retrieval in making AI applications effective, and provides support through an integrated AI assistant and live facilitators.
 All workshop materials and instructions are available online, and participants are encouraged to contribute feedback and improvements via GitHub.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

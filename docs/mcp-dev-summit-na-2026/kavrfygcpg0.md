@@ -1,11 +1,22 @@
 ---
+layout: default
+title: MCP Creator Reveals the 2026 Roadmap for AI Agents
+nav_order: 54
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "MCP Creator Reveals the 2026 Roadmap for AI Agents"
-description: "David, a technical staff member at Anthropic and co-creator of MCP, discusses the rapid growth and adoption of MCP, highlighting that it now sees over 110 million SDK downloads monthly and has become a foundational integration protocol in t..."
+description:
+  David, a technical staff member at Anthropic and co-creator of MCP, discusses
+  the rapid growth and adoption of MCP, highlighting that it now sees over 110 million
+  SDK downloads monthly and has become a foundational integration protocol in t...
 resource: https://www.youtube.com/watch?v=kAVRFYgCPg0
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He reviews MCP’s evolution since its launch in November 2024, noting its initi
 David emphasizes MCP’s significant role in enterprise environments, quietly connecting AI systems to internal company data and workflows, and outlines recent protocol improvements such as remote server support, enhanced authorization, structured outputs, and the introduction of tasks for long-running operations.
 Looking ahead, he details ongoing work to improve scalability, enterprise readiness, and client ergonomics, as well as upcoming features like triggers, native streaming, and skill serving.
 David concludes by encouraging community feedback, stressing its importance in shaping MCP’s future and addressing challenges as the protocol continues to mature and support production-ready agentic systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                             |

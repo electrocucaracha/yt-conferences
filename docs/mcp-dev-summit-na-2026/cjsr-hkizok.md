@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Deploying MCP at Scale Without Skipping Compliance - Becky Brooks, MCP Manager
+  by Usercentrics
+nav_order: 16
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Deploying MCP at Scale Without Skipping Compliance - Becky Brooks, MCP Manager by Usercentrics"
-description: "In this talk, Becky, an MCP manager at Usercentrics, discusses the challenges and best practices for scaling MCP (Model Control Protocol) while maintaining compliance, particularly in light of emerging regulations like the EU AI Act. She ou..."
+description:
+  In this talk, Becky, an MCP manager at Usercentrics, discusses the challenges
+  and best practices for scaling MCP (Model Control Protocol) while maintaining compliance,
+  particularly in light of emerging regulations like the EU AI Act. She ou...
 resource: https://www.youtube.com/watch?v=cjsr-HKiZok
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ She outlines her experience launching an MCP gateway and highlights the rapid ev
 Becky explains that while MCP itself is not explicitly mentioned in the EU AI Act, many of the systems it enables fall under its scope, especially in high-risk industries such as healthcare, finance, and law enforcement, requiring strict compliance and transparency.
 She emphasizes that best practices for MCP deployment—such as robust data governance (ensuring PII never reaches models), comprehensive audit logs, and strong cybersecurity measures—are not only regulatory requirements but essential for responsible scaling.
 Becky concludes by advocating for the use of MCP gateways to provide necessary guardrails, observability, and policy enforcement, enabling organizations to implement MCP securely and compliantly at scale.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

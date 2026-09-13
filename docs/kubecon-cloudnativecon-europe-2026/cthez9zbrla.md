@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Kubernetes Third Party Aud... Iain Smart, Amir Montazery, Rey Lejano, Tabitha
+  Sable & Pietro Tirenna
+nav_order: 196
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Kubernetes Third Party Aud... Iain Smart, Amir Montazery, Rey Lejano, Tabitha Sable & Pietro Tirenna"
-description: "The Kubernetes SIG Security team provided an update on their third-party audit efforts, highlighting the importance of external security reviews for such a large and complex open-source project. Previous audits in 2019 and 2022 uncovered a..."
+description:
+  The Kubernetes SIG Security team provided an update on their third-party
+  audit efforts, highlighting the importance of external security reviews for such
+  a large and complex open-source project. Previous audits in 2019 and 2022 uncovered
+  a...
 resource: https://www.youtube.com/watch?v=CThez9zBRlA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Previous audits in 2019 and 2022 uncovered a range of issues, from path traversa
 The most recent audit, coordinated by the Open Source Technology Improvement Fund and conducted by Shielder, focused on non-core components and used a threat modeling approach to identify actionable security findings.
 Notable discoveries included a hardcoded Windows administrator password in images built for a specific cloud provider, weaknesses in AppArmor profile enforcement with Pod Security Standards, and supply chain risks in cluster template management.
 The team emphasized that most issues stem from integration points and ecosystem complexity rather than poor coding, and they encouraged community involvement in addressing outstanding findings and improving security documentation.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

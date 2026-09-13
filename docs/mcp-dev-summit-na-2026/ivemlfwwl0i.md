@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "The Anatomy of a Meltdown: A Deep-Dive into MCP via Selective Sabotage - Joey
+  Stout, Spacelift"
+nav_order: 90
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "The Anatomy of a Meltdown: A Deep-Dive into MCP via Selective Sabotage - Joey Stout, Spacelift"
-description: "Joey Stout, a solutions architect at Spacelift, presents an interactive talk on the anatomy of a meltdown, focusing on the Model Context Protocol (MCP) and its six core components: notifications, subscriptions, resources, prompts, tools, an..."
+description:
+  "Joey Stout, a solutions architect at Spacelift, presents an interactive
+  talk on the anatomy of a meltdown, focusing on the Model Context Protocol (MCP)
+  and its six core components: notifications, subscriptions, resources, prompts, tools,
+  an..."
 resource: https://www.youtube.com/watch?v=IvemlFwwl0I
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Throughout the session, Joey demonstrates a custom web app and MCP server, allow
 He illustrates how notifications inform agents of backend changes, how resources provide read-only data, and how prompts and tools shape agent capabilities, highlighting the importance of proper implementation and logging for observability.
 Joey also discusses the variability in agent behavior depending on SDKs and the necessity for developers to fully implement MCP features, as some failures may be silent or misleading.
 The talk concludes with a Q&A, emphasizing that MCP’s effectiveness relies on thoughtful integration and that some features may not be universally supported across agents.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

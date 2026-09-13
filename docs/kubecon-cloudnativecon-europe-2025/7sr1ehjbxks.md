@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "SIG-Node: Intro and Deep Dive - Sergey Kanzhelev, Google; Francesco Romani
+  & Peter Hunt, Red Hat"
+nav_order: 293
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "SIG-Node: Intro and Deep Dive - Sergey Kanzhelev, Google; Francesco Romani & Peter Hunt, Red Hat"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=7sr1eHJBXKs
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: Sergey Kangel from G
 They cover various topics, including resource allocation, device plug-in, DRA (Device Request Allocation), and CPU manager policies.
 The team has made significant progress on these fronts, with features like in-place pod resize, structured parameters, and improved container stop signals.
 They also discuss the challenges of managing resources efficiently and securely, particularly when it comes to devices and confidential containers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

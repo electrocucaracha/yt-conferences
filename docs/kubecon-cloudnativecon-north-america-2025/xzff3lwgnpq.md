@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Learn Kubernetes Best Practices With OpenCost - Matt
+  Bolt , Maintainer"
+nav_order: 226
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Learn Kubernetes Best Practices With OpenCost - Matt Bolt , Maintainer"
-description: "Matt Bolt, a co-creator and maintainer of OpenCost, introduces the CNCF incubating project designed to provide detailed visibility into Kubernetes spending by mapping cloud provider cost data to various Kubernetes resources. He emphasizes t..."
+description:
+  Matt Bolt, a co-creator and maintainer of OpenCost, introduces the CNCF
+  incubating project designed to provide detailed visibility into Kubernetes spending
+  by mapping cloud provider cost data to various Kubernetes resources. He emphasizes
+  t...
 resource: https://www.youtube.com/watch?v=xzff3lWGnPQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He emphasizes the importance of managing Kubernetes resource costs to optimize s
 OpenCost supports major cloud providers, custom stacks, and measures costs across resources, including per-container network costs, allowing organizations to allocate expenses by namespace or team for use cases like chargebacks.
 The project is open source, easily installed via Helm or manifests, and has received contributions from major industry players.
 Recently, OpenCost integrated AI-driven analysis features, enabling users to receive automated cost insights and savings recommendations, further enhancing its utility for Kubernetes cost management.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

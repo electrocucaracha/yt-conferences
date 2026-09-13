@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Generating Use Case Specific MCP Servers with Josh Dzielak at Postman"
-description: 'Josh Jelik, a staff engineer at Postman, introduces himself and shares his enthusiasm for science fiction and AI agents, leading into a demonstration of building a "time travel agent" using Postman''s tools. He discusses three approaches to...'
+nav_order: 10
+parent: Mcp Dev Summit Na 2025
+type: Video Note
+description:
+  Josh Jelik, a staff engineer at Postman, introduces himself and shares
+  his enthusiasm for science fiction and AI agents, leading into a demonstration of
+  building a "time travel agent" using Postman's tools. He discusses three approaches
+  to...
 resource: https://www.youtube.com/watch?v=HbM5Mnoyu7w
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He discusses three approaches to creating an MCP (Multi-Component Platform) serv
 Josh highlights the advantages of the third approach, such as improved performance, security, and flexibility, and demonstrates how to use Postman's MCP server generator to select APIs from Coin Gecko, New York Times, and NASA, then generate and test a custom server.
 He walks through verifying the server's functionality and integrating it with an MCP client, showing how the agent can retrieve historical news, images, and data.
 Despite a minor issue with coin price retrieval, the demo illustrates the ease and effectiveness of assembling tailored API tools for AI agents, and Josh concludes by inviting interested engineers to join his team at Postman.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                 |

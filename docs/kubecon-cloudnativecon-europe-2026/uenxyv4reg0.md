@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How Will Customized Kubernetes Distributions Work... Michael M, Joel S, Bridget
+  K, Jesse B & Bowei D
+nav_order: 147
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "How Will Customized Kubernetes Distributions Work... Michael M, Joel S, Bridget K, Jesse B & Bowei D"
-description: "The panel discussed the concept of customized Kubernetes distributions, drawing parallels to Linux distributions and exploring how such distributions could benefit users by providing both standardization and flexibility. Panelists emphasize..."
+description:
+  The panel discussed the concept of customized Kubernetes distributions,
+  drawing parallels to Linux distributions and exploring how such distributions could
+  benefit users by providing both standardization and flexibility. Panelists emphasize...
 resource: https://www.youtube.com/watch?v=UeNxyv4REg0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Panelists emphasized the importance of maintaining conformance and standardized 
 They noted that while many users prefer managed, opinionated solutions that "just work," others require highly tailored setups for specific needs such as digital sovereignty or unique cloud environments.
 The conversation highlighted challenges around installation consistency, documentation, and the need for clear, programmatic ways to discover distribution features and capabilities.
 Ultimately, the panel agreed that a minimal, standardized foundation for Kubernetes distributions could foster both community collaboration and vendor innovation, allowing users to choose between simplicity and deep customization while maintaining core compatibility and conformance.
+
 # Main Points
 
 |   # | Main point                                                                                                   |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: OpenFGA For Agents: Safe Delegation In 5 Minutes -
+  Andres Aguiar, Maintainer"
+nav_order: 282
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: OpenFGA For Agents: Safe Delegation In 5 Minutes - Andres Aguiar, Maintainer"
-description: "Andreas, an OpenFGA maintainer, presents on behalf of Sedant, introducing OpenFGA as an authorization service for developers inspired by Google Zanzibar, which enables relationship-based access control and is designed for scalability. The p..."
+description:
+  Andreas, an OpenFGA maintainer, presents on behalf of Sedant, introducing
+  OpenFGA as an authorization service for developers inspired by Google Zanzibar,
+  which enables relationship-based access control and is designed for scalability.
+  The p...
 resource: https://www.youtube.com/watch?v=1_w_ZRJ5lWk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The project has recently been accepted into incubation and now supports the Open
 Andreas explains how OpenFGA allows fine-grained, per-task, and per-resource permissions, using authorization models to define entities and relationships, which can be applied to various domains such as project management systems.
 He demonstrates two agent use cases: an interactive mode where users approve permissions as needed, and an autonomous mode where permissions are inferred and granted automatically, both ensuring agents only perform authorized actions.
 The presentation concludes with an invitation to further discussions and a mention of upcoming integrations with other technologies.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

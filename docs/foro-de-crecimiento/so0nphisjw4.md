@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Experto en Inversiones: ¡Invertir es más importante que ganar más! | Alejandro
+  Saracho"
+nav_order: 34
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en Inversiones: ¡Invertir es más importante que ganar más! | Alejandro Saracho"
-description: "En este episodio del Foro de Crecimiento, se aborda el camino hacia la libertad financiera de la mano de Alejandro Saracho, experto en finanzas e inversiones. Se explica que, al recibir dinero, las personas pueden gastarlo o invertirlo inte..."
+description:
+  En este episodio del Foro de Crecimiento, se aborda el camino hacia la
+  libertad financiera de la mano de Alejandro Saracho, experto en finanzas e inversiones.
+  Se explica que, al recibir dinero, las personas pueden gastarlo o invertirlo inte...
 resource: https://www.youtube.com/watch?v=sO0nPhISJw4
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Se explica que, al recibir dinero, las personas pueden gastarlo o invertirlo int
 Se detallan los niveles de riqueza: dependencia financiera (vivir de ingresos activos), libertad financiera (cubrir gastos con ingresos pasivos de inversiones) y plenitud financiera (vivir como magnate gracias a múltiples fuentes de ingreso pasivo).
 Alejandro comparte una metodología de cuatro pasos: cimentar (diagnóstico y mapa de riqueza), optimizar (presupuesto y reducción de gastos), escalar (aumentar ingresos y diversificar inversiones) y acelerar (apalancamiento y modelos de ingreso adicionales), enfatizando la importancia de la mentalidad, el presupuesto y la diversificación en portafolios regulados.
 Finalmente, se destaca que la meta no es dejar de trabajar, sino hacerlo por elección y propósito, utilizando la libertad financiera como medio para impactar y contribuir más a los demás.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                     |

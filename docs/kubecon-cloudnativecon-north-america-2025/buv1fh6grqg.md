@@ -1,11 +1,22 @@
 ---
+layout: default
+title: GitOps Without Variables - Brian Grant & Alexis Richardson, ConfigHub Inc.
+nav_order: 91
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "GitOps Without Variables - Brian Grant & Alexis Richardson, ConfigHub Inc."
-description: "Brian Grant, the original architect of Kubernetes, discusses the challenges of managing configuration in modern applications. He introduces Config Hub, a platform that stores configuration as data in a database, rather than generating it pr..."
+description:
+  Brian Grant, the original architect of Kubernetes, discusses the challenges
+  of managing configuration in modern applications. He introduces Config Hub, a platform
+  that stores configuration as data in a database, rather than generating it pr...
 resource: https://www.youtube.com/watch?v=buv1fh6grqg
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ This approach allows for more flexibility and control over configuration changes
 With Config Hub, users can make changes to individual resources without affecting the entire cluster, reducing the risk of "blast radius" issues.
 The platform also provides features like automated validation and integration with existing tools like Kubernetes, Flux, and Argo.
 By separating data from programmatic logic, Config Hub enables more efficient and safer configuration management, making it easier to achieve "Ops Nirvana."
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

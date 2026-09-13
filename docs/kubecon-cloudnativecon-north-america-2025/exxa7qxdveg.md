@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Kubernetes IP Management: From Core Concepts To Strategic Solutions - Ivy
+  Zhuang & Whitney Jenkins"
+nav_order: 139
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Kubernetes IP Management: From Core Concepts To Strategic Solutions - Ivy Zhuang & Whitney Jenkins"
-description: "In this presentation, Whitney Jenkins and Ivy from Google discuss Kubernetes IP management in Google Kubernetes Engine (GKE), focusing on core concepts, challenges, and recent solutions. They explain GKE’s flat network model, where each pod..."
+description:
+  In this presentation, Whitney Jenkins and Ivy from Google discuss Kubernetes
+  IP management in Google Kubernetes Engine (GKE), focusing on core concepts, challenges,
+  and recent solutions. They explain GKE’s flat network model, where each pod...
 resource: https://www.youtube.com/watch?v=EXxa7Qxdveg
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain GKE’s flat network model, where each pod receives a unique, routa
 The speakers outline complexities in IP planning, especially with IPv4 scarcity, and describe strategies to mitigate IP exhaustion, such as leveraging additional RFC1918 ranges, non-RFC1918 ranges, and the Class E address space.
 They introduce new features like multipod CIDR, multi-subnet clusters, multi-service CIDR, and auto IPAM, which automate and simplify IP allocation and scaling.
 The session also covers improved observability tools, such as the GKE IP masquerading analyzer and subnet utilization metrics, and addresses common misconceptions and questions about IP management, load balancing, and network models in GKE.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                  |

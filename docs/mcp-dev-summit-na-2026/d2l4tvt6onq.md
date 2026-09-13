@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Mental Reset: How To Rethink Your User Flow in the Age of MCP & ChatGPT Apps
+  - Erica Beavers, Alpic"
+nav_order: 65
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Mental Reset: How To Rethink Your User Flow in the Age of MCP & ChatGPT Apps - Erica Beavers, Alpic"
-description: "In this presentation, Erica, co-founder of ALPIC, discusses effective design principles for building MCP (Model-Connected Platform) apps, drawing on her company's extensive experience in deploying such applications across various industries..."
+description:
+  In this presentation, Erica, co-founder of ALPIC, discusses effective
+  design principles for building MCP (Model-Connected Platform) apps, drawing on her
+  company's extensive experience in deploying such applications across various industries...
 resource: https://www.youtube.com/watch?v=d2l4Tvt6onQ
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ In this presentation, Erica, co-founder of ALPIC, discusses effective design pri
 She emphasizes the importance of treating MCP apps as a new interface, akin to the early days of mobile apps, and highlights five key principles: applying established UX design standards, focusing on core capabilities rather than replicating entire products, leveraging the unique strengths of language models (such as intent detection, content generation, and data extraction), preparing for composability within a broader ecosystem, and ensuring seamless integration between the UI and the model for a unified user experience.
 Erica also introduces Skybridge, ALPIC's open-source TypeScript framework designed to simplify MCP app development, and encourages experimentation and creativity in this emerging field.
 She concludes by inviting attendees to explore further resources and connect with her team for more insights.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

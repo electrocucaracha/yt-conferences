@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "[Session] MCP Project Update with Jerome Swannack, Member of Technical Staff
+  at Anthropic"
+nav_order: 8
+parent: Mcp Dev Summit Na 2025
 type: Video Note
-title: "[Session] MCP Project Update with Jerome Swannack, Member of Technical Staff at Anthropic"
-description: "Jerome Swanik, a member of the core engineering team at Anthropic, introduces himself and shares his journey from aerospace engineering to working on the MCP protocol, motivated by the transformative potential of large language models. He r..."
+description:
+  Jerome Swanik, a member of the core engineering team at Anthropic, introduces
+  himself and shares his journey from aerospace engineering to working on the MCP
+  protocol, motivated by the transformative potential of large language models. He
+  r...
 resource: https://www.youtube.com/watch?v=eMKyBHlqAm4
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He recounts the origin of MCP as a solution to automate on-call engineering task
 Over the past six months, the team has focused on enabling remote MCP, streamable HTTP transport, and expanding SDKs and developer tools, emphasizing the importance of birectional communication and minimizing server complexity.
 Looking ahead, Swanik discusses upcoming protocol features like elicitation and tool output schemas, which aim to support richer agent interactions and more efficient handling of structured data.
 He also highlights ongoing efforts to foster the developer ecosystem, improve discoverability, and transition MCP governance to a more open, community-driven model, inviting input from those with experience in protocol governance.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

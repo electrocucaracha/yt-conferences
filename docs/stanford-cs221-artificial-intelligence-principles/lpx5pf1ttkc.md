@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 19: AI Supply Chains"
-description: "The lecture explores the societal and economic impacts of AI, emphasizing the importance of looking beyond technical development to consider the broader ecosystem, including supply chains, organizations, and downstream effects. The speaker..."
+nav_order: 10
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture explores the societal and economic impacts of AI, emphasizing
+  the importance of looking beyond technical development to consider the broader ecosystem,
+  including supply chains, organizations, and downstream effects. The speaker...
 resource: https://www.youtube.com/watch?v=lPx5PF1ttkc
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ The talk delves into the complexities of AI supply chains, highlighting the conc
 Rishi also examines how choices around model distribution (open vs.
 closed) influence downstream innovation, pricing, and privacy.
 In the latter part, the lecture considers AI as a general purpose technology, comparing its potential economic impact to historical technologies like electricity, and discusses different frameworks for forecasting AI’s effect on GDP, labor, and idea generation, ultimately noting that while AI’s transformative potential is widely recognized, its full economic impact may be delayed by organizational and societal adaptation, and may not be fully captured by traditional metrics like GDP.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

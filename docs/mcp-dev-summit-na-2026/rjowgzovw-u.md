@@ -1,11 +1,22 @@
 ---
+layout: default
+title: When MCP Becomes a Product - Gautam Baghel, HashiCorp & Roy Derks, IBM
+nav_order: 105
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "When MCP Becomes a Product - Gautam Baghel, HashiCorp & Roy Derks, IBM"
-description: "In this session, the speakers from IBM discussed their experiences transitioning MCP (Model Control Plane) servers from internal demos to production-ready products. They highlighted the evolution of MCP from a niche advantage to an industry..."
+description:
+  In this session, the speakers from IBM discussed their experiences transitioning
+  MCP (Model Control Plane) servers from internal demos to production-ready products.
+  They highlighted the evolution of MCP from a niche advantage to an industry...
 resource: https://www.youtube.com/watch?v=RjOWGzovw_U
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They highlighted the evolution of MCP from a niche advantage to an industry expe
 Key topics included the importance of designing tools for specific use cases to avoid context window bloat, strategies for tool discovery and planning, and the need for consistent architecture and robust API testing as MCP servers mature.
 They also stressed the significance of telemetry, evaluation, and thoughtful release strategies, noting that productizing MCP servers requires both technical rigor and adaptability to rapid changes in AI and MCP specifications.
 The session concluded with practical advice on maintaining consistency, enabling telemetry, and preparing for general availability, while inviting further questions from the audience.
+
 # Main Points
 
 |   # | Main point                                                                                                   |

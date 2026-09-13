@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  5 Keys to Navigating Difficult Conversations at Work | Leadership Training
+  for Engineering Managers
+nav_order: 5
+parent: Leadership Skills
 type: Video Note
-title: "5 Keys to Navigating Difficult Conversations at Work | Leadership Training for Engineering Managers"
-description: "In this video, Doug Howard addresses the challenge of having difficult conversations at work, especially for those in leadership roles. He emphasizes the importance of embracing discomfort and provides five practical tips to make these conv..."
+description:
+  In this video, Doug Howard addresses the challenge of having difficult
+  conversations at work, especially for those in leadership roles. He emphasizes the
+  importance of embracing discomfort and provides five practical tips to make these
+  conv...
 resource: https://www.youtube.com/watch?v=Db9UqA9F5Mw
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ In this video, Doug Howard addresses the challenge of having difficult conversat
 He emphasizes the importance of embracing discomfort and provides five practical tips to make these conversations smoother: preparing in advance to avoid emotional reactions, choosing the right time and private place, giving the other person an "out" by validating their perspective and sharing appreciation, framing the conversation positively to focus on growth, and maintaining a collaborative tone by using inclusive language and inviting input.
 Doug highlights that these strategies help create a supportive atmosphere, reduce defensiveness, and lead to more productive outcomes.
 He encourages viewers to reflect on their own challenges with giving feedback and offers additional resources for further guidance.
+
 # Main Points
 
 |   # | Main point                                                                                                      |

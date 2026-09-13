@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "MCP Registry: Designing For Server Discovery Tadas A. (PulseMCP) Alex H.(Block),
+  and Toby P.(GitHub)"
+nav_order: 2
+parent: Mcp Dev Summit Na 2025
 type: Video Note
-title: "MCP Registry: Designing For Server Discovery Tadas A. (PulseMCP) Alex H.(Block), and Toby P.(GitHub)"
-description: "The video introduces the official MCP server registry, aiming to consolidate the fragmented ecosystem of MCP server registries by providing a centralized, community-driven solution. The presenters, members of the steering committee from var..."
+description:
+  The video introduces the official MCP server registry, aiming to consolidate
+  the fragmented ecosystem of MCP server registries by providing a centralized, community-driven
+  solution. The presenters, members of the steering committee from var...
 resource: https://www.youtube.com/watch?v=jI9NTVX68T0
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The presenters, members of the steering committee from various early MCP project
 The official registry will use a standardized server.json file containing metadata, source code references, optional remote URLs, and structured installation instructions, with a CLI tool to facilitate publishing.
 Advanced features like source code storage and sophisticated search or ranking are intentionally left out, with the expectation that downstream client apps and third-party registries will build on top of the core registry and enrich the data as needed.
 The demo showcases the publishing process and how different clients can leverage the registry and add their own metadata, emphasizing the importance of community feedback and collaboration in shaping the registry’s development.
+
 # Main Points
 
 |   # | Main point                                                                                                                                      |

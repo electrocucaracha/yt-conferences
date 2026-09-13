@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Storytelling Profesional: Así se Escriben Historias Memorables | Luis Eduardo
+  Reyes – Sesión 21"
+nav_order: 67
+parent: Foro De Crecimiento
 type: Video Note
-title: "Storytelling Profesional: Así se Escriben Historias Memorables | Luis Eduardo Reyes – Sesión 21"
-description: "En esta extensa entrevista, Luis Eduardo Reyes, reconocido productor, guionista, director y maestro con más de 40 años de trayectoria, reflexiona sobre el arte de contar historias y la importancia de la ficción para explicar la realidad. De..."
+description:
+  En esta extensa entrevista, Luis Eduardo Reyes, reconocido productor,
+  guionista, director y maestro con más de 40 años de trayectoria, reflexiona sobre
+  el arte de contar historias y la importancia de la ficción para explicar la realidad.
+  De...
 resource: https://www.youtube.com/watch?v=8PicygfjhEQ
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Destaca que la inspiración es solo una pequeña parte del proceso creativo, sie
 Reyes subraya la relevancia de la lealtad, el aprendizaje de los maestros y la necesidad de arriesgarse en la creación artística, así como la importancia de construir personajes complejos y de provocar identificación y debate en el público.
 Además, comparte su visión sobre la evolución de los géneros, la estructura dramática, el valor de las referencias culturales y la adaptación a los nuevos formatos y medios de comunicación.
 Finalmente, resalta que el verdadero crecimiento creativo surge del trabajo constante, la autocrítica, la experimentación y la capacidad de transformar los sueños en acciones concretas.
+
 # Main Points
 
 |   # | Main point                                                                                                       |

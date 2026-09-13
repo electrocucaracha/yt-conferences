@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 12 - Efficient Training,
+  Shikhar Murty"
+nav_order: 10
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 12 - Efficient Training, Shikhar Murty"
-description: "In this lecture, the instructor shifts focus from natural language processing to practical aspects of training large machine learning models on GPUs, covering topics essential for final projects. The lecture begins with an explanation of fl..."
+description:
+  In this lecture, the instructor shifts focus from natural language processing
+  to practical aspects of training large machine learning models on GPUs, covering
+  topics essential for final projects. The lecture begins with an explanation of fl...
 resource: https://www.youtube.com/watch?v=UVX7SYGCKkA
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The discussion then moves to multi-GPU training, detailing strategies like Distr
 The instructor also addresses the limitations of these methods, especially when models are too large to fit even with advanced sharding, and introduces parameter-efficient fine-tuning techniques such as LoRA (Low-Rank Adaptation), which allow updating only a small subset of parameters to save resources while maintaining performance.
 Throughout, the lecture emphasizes practical guidelines—such as always using mixed precision, leveraging ZeRO stages, and applying LoRA to specific weight matrices—and discusses the broader importance of efficiency in machine learning, including environmental and accessibility concerns.
 The session concludes with a review of communication strategies in FSDP (Fully Sharded Data Parallel) and practical advice for implementing these techniques in student projects.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                     |

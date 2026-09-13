@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Enterprise Challenges with MCP Adoption - Christian Posta, Solo.io
+nav_order: 102
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Enterprise Challenges with MCP Adoption - Christian Posta, Solo.io"
-description: "Christian Posta, Global Field CTO at Solo.io, discusses the adoption of the Model Context Protocol (MCP) in enterprises, highlighting challenges faced when moving from pilot projects to production, particularly around security, tenancy, obs..."
+description:
+  Christian Posta, Global Field CTO at Solo.io, discusses the adoption
+  of the Model Context Protocol (MCP) in enterprises, highlighting challenges faced
+  when moving from pilot projects to production, particularly around security, tenancy,
+  obs...
 resource: https://www.youtube.com/watch?v=ipKgoKSkBnc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He notes that while MCP enables AI models to interact with external data and ser
 Posta demonstrates how Solo.io’s open source agent registry and agent gateway can help enterprises securely onboard and manage remote MCP servers, integrate with internal identity providers for authentication, and apply fine-grained access policies.
 He critiques the MCP authentication spec for its reliance on public internet OAuth flows and dynamic client registration, which are not suitable for most enterprise environments, and instead advocates for leveraging existing enterprise identity systems.
 Finally, he addresses the complexities of securely connecting to external SaaS MCP servers, outlining current limitations and interim solutions involving token vaults and policy-managed gateways, and invites further discussion and feedback from the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                      |

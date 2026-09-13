@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  How to Convince Your Boss to Let You Work From Home in 5 Steps | Tips from
+  an Engineering Manager
+nav_order: 21
+parent: Leadership Skills
 type: Video Note
-title: "How to Convince Your Boss to Let You Work From Home in 5 Steps | Tips from an Engineering Manager"
-description: "In this video, Doug Howard, a licensed structural engineer and engineering manager, explains how to effectively convince your boss to let you work from home by mastering the art of influence. He uses a story about a farmer, his son, and a s..."
+description:
+  In this video, Doug Howard, a licensed structural engineer and engineering
+  manager, explains how to effectively convince your boss to let you work from home
+  by mastering the art of influence. He uses a story about a farmer, his son, and
+  a s...
 resource: https://www.youtube.com/watch?v=_SvUr_44e0A
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ In this video, Doug Howard, a licensed structural engineer and engineering manag
 He uses a story about a farmer, his son, and a stubborn cow to illustrate three key rules: don’t assume others see things your way, speak in terms of the other person’s interests, and connect what you want with what they want.
 Doug then outlines a five-step strategy: first, demonstrate increased productivity while working from home; second, present the benefits to the business rather than personal perks; third, propose a trial period for remote work; fourth, ensure your productivity is clearly higher on remote days; and finally, use the results to request additional remote days, addressing any concerns your boss raises.
 He emphasizes the importance of preparation, quantifiable results, and persistence, and encourages viewers to take immediate action while offering further resources on persuasion and influence.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

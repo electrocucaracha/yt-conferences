@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Offline, Not Off-Limits: Edge Fleet Management With Argo CD - Alexander Matyushentsev,
+  Akuity"
+nav_order: 184
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Offline, Not Off-Limits: Edge Fleet Management With Argo CD - Alexander Matyushentsev, Akuity"
-description: "In this talk, Alexander Matense, co-creator of Argo CD, discusses strategies for managing Kubernetes clusters at the edge using Argo CD, particularly in environments with limited connectivity and resources. He describes challenges faced by..."
+description:
+  In this talk, Alexander Matense, co-creator of Argo CD, discusses strategies
+  for managing Kubernetes clusters at the edge using Argo CD, particularly in environments
+  with limited connectivity and resources. He describes challenges faced by...
 resource: https://www.youtube.com/watch?v=rUy7c6OpjMk
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He describes challenges faced by customers running many small, resource-constrai
 To address these, the team adopted Argo CD Core, a lightweight distribution that omits unnecessary components, and leveraged ApplicationSets with an opinionated Git directory structure to declaratively manage applications, group-specific overrides, and cluster-specific configurations.
 Visibility into deployments was achieved using Argo CD notifications integrated with Git commit statuses, while local Git servers with git-sync ensured clusters could access updates even when intermittently disconnected.
 The Q&A session covered topics like compliance, group promotion strategies, upgrade paths, scalability, caching, and air-gapped deployments, with Matense emphasizing that while Argo CD was not originally designed for edge management, it has proven to be a suitable and adaptable solution for these scenarios.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

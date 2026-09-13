@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: A Curator’s Guide to the CNCF Landsca... Katherine
+  Druckman and Lori Lorusso"
+nav_order: 247
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: A Curator’s Guide to the CNCF Landsca... Katherine Druckman and Lori Lorusso"
-description: "In this presentation, Lori and her co-host, dressed as famous artists, guide attendees through the Cloud Native Computing Foundation (CNCF) landscape, comparing its complexity to a Van Gogh painting. They introduce tools like ask.cncf.io an..."
+description:
+  In this presentation, Lori and her co-host, dressed as famous artists,
+  guide attendees through the Cloud Native Computing Foundation (CNCF) landscape,
+  comparing its complexity to a Van Gogh painting. They introduce tools like ask.cncf.io
+  an...
 resource: https://www.youtube.com/watch?v=NP2gGXIRcRw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They introduce tools like ask.cncf.io and CLO Monitor to help users navigate and
 The speakers emphasize the importance of due diligence when selecting projects, highlighting features such as project health, contributor diversity, and security audits, all accessible through the CNCF landscape's interactive filters and downloadable reports.
 They encourage attendees, especially newcomers at KubeCon, to engage with the community, contribute to projects, and take advantage of networking opportunities, stressing that open source thrives on collaboration and shared learning.
 The session concludes with an invitation to connect with the presenters for further guidance.
+
 # Main Points
 
 |   # | Main point                                                                                                                               |

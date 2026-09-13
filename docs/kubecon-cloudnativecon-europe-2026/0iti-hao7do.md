@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Blocking Vulnerable Workloads Out (And Catching What
+  Got I... Alessio Greggi"
+nav_order: 254
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Blocking Vulnerable Workloads Out (And Catching What Got I... Alessio Greggi"
-description: "In this presentation, Alessio introduces a new integration for Cube Warden, a universal policy engine that allows users to write custom policies in various programming languages and compile them into OCI artifacts using Wasm. The integratio..."
+description:
+  In this presentation, Alessio introduces a new integration for Cube Warden,
+  a universal policy engine that allows users to write custom policies in various
+  programming languages and compile them into OCI artifacts using Wasm. The integratio...
 resource: https://www.youtube.com/watch?v=0ItI-HaO7do
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The integration combines Cube Warden with a new SBOM scanner component, which le
 The main feature demonstrated is the "image CV policy," which enforces a maximum number of vulnerabilities allowed in an image before it can be applied to a Kubernetes cluster.
 This policy is context-aware, requiring vulnerability reports from the SBOM scanner, and can be configured to specify severity thresholds and behaviors for missing reports.
 The workflow ensures that only images meeting the defined security criteria are deployed, enhancing cluster security.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                               |

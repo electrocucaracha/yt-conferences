@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Your mood defines how you lead | Session 32 · Elena Espinal
+nav_order: 75
+parent: Foro De Crecimiento
 type: Video Note
-title: "Your mood defines how you lead | Session 32 · Elena Espinal"
-description: "En esta entrevista, Elena Espinal, pionera en coaching y experta en liderazgo, comparte su visión sobre los elementos esenciales del liderazgo actual, destacando la importancia de un propósito significativo, la conexión profunda basada en l..."
+description:
+  En esta entrevista, Elena Espinal, pionera en coaching y experta en liderazgo,
+  comparte su visión sobre los elementos esenciales del liderazgo actual, destacando
+  la importancia de un propósito significativo, la conexión profunda basada en l...
 resource: https://www.youtube.com/watch?v=Wc3LdIQKiyc
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Explica la diferencia entre emociones, que son reacciones breves, y estados de �
 Elena enfatiza que aprender implica adentrarse en lo desconocido y desaprender lo que ya no sirve, mientras que la educación tradicional puede limitar la curiosidad y la apertura al cambio.
 Además, resalta la relevancia de formular preguntas y escuchar activamente para comprender verdaderamente a los demás, y sostiene que el liderazgo efectivo consiste en crear nuevas realidades, inspirar grandeza en otros y mantener un contexto de posibilidad.
 Finalmente, invita a asumir la responsabilidad de las propias interpretaciones y decisiones para construir el futuro deseado, valorando la libertad de elegir y el poder transformador del amor y la confianza en las relaciones.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

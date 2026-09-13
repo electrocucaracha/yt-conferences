@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "Choose Your Own Adventure: The Dignified Pursuit of a Developer Platf... Whitney
+  Lee & Viktor Farcic"
+nav_order: 43
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Choose Your Own Adventure: The Dignified Pursuit of a Developer Platf... Whitney Lee & Viktor Farcic"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=hnmtjCkO8FE
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: The hosts, Whitney a
 They demonstrate building a database, application, and pipeline using Crossplane, Argo Workflows, and Tecton, showcasing the complexity of managing resources as the platform scales.
 To simplify this process, they discuss the benefits of adding a graphical user interface (GUI) to their platform, highlighting two options: Backstage and Port.
 The hosts conclude by thanking attendees for joining them on their journey to building an internal developer platform.
+
 # Main Points
 
 |   # | Main point                                                                                                            |

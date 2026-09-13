@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Mind the Gap: Bridging Cloud Native Innovation with Real-World Use"
-description: "HSBC's Kubernetes journey began in 2018, with hundreds of clusters supporting workloads across various markets. The company has scaled up quickly, encountering problems that required sharding workloads across individual markets to manage th..."
+nav_order: 152
+parent: Kubecon Cloudnativecon Europe 2025
+type: Video Note
+description:
+  HSBC's Kubernetes journey began in 2018, with hundreds of clusters supporting
+  workloads across various markets. The company has scaled up quickly, encountering
+  problems that required sharding workloads across individual markets to manage th...
 resource: https://www.youtube.com/watch?v=JqG1wey7-Ao
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ HSBC's Kubernetes journey began in 2018, with hundreds of clusters supporting wo
 The company has scaled up quickly, encountering problems that required sharding workloads across individual markets to manage their "blast radius" along business lines.
 To mitigate issues during upgrades, HSBC runs its clusters in a blue-green configuration, rehydrating the new cluster from backups when confident it's stable.
 The company is now focusing on optimizing its core service and developing ways to hold teams accountable for their spending, with a goal of becoming the standard for internal developer platforms (IDPs).
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

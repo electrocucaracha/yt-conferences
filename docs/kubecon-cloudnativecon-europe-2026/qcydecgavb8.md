@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native at the Far(m) Edge: Running Kubernetes and AI... Mauro Morales
+  & Jordan Karapanagiotis"
+nav_order: 75
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native at the Far(m) Edge: Running Kubernetes and AI... Mauro Morales & Jordan Karapanagiotis"
-description: "The presentation discusses the application of cloud-native technologies, specifically Kubernetes and AI, at the farm edge to improve precision agriculture and reduce crop waste. The speakers describe how Ara Imaging’s Tree Scout device uses..."
+description:
+  The presentation discusses the application of cloud-native technologies,
+  specifically Kubernetes and AI, at the farm edge to improve precision agriculture
+  and reduce crop waste. The speakers describe how Ara Imaging’s Tree Scout device
+  uses...
 resource: https://www.youtube.com/watch?v=qCyDeCGavB8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The speakers describe how Ara Imaging’s Tree Scout device uses real-time compu
 They highlight the challenges of running edge systems, such as limited bandwidth, maintenance, and security, and explain how adopting the Kyros immutable Linux distribution and K3s Kubernetes has streamlined operations, enabled over-the-air updates, and improved fleet management without requiring field engineers.
 The collaboration between Ara Imaging and the open-source Kyros project has led to mutual benefits, including feedback-driven improvements and easier deployment for new users.
 Overall, the integration of these technologies has resulted in more sustainable farming practices, operational efficiencies, and a growing adoption of the Tree Scout system.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

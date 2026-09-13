@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "From Logs to Decisions: Autonomous AI Agents for Real-Time Kubernetes Threat
+  R... Willem Berroubache"
+nav_order: 122
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Logs to Decisions: Autonomous AI Agents for Real-Time Kubernetes Threat R... Willem Berroubache"
-description: "In this session, William Burbash, a security architect at Orange in Paris, discusses the challenges and solutions related to securing Kubernetes environments using AI and agentic approaches. He highlights the gap between perceived and actua..."
+description:
+  In this session, William Burbash, a security architect at Orange in Paris,
+  discusses the challenges and solutions related to securing Kubernetes environments
+  using AI and agentic approaches. He highlights the gap between perceived and actua...
 resource: https://www.youtube.com/watch?v=XiNsfhUxO2Y
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He highlights the gap between perceived and actual security, emphasizing that au
 Burbash describes a multi-agent system that collects and correlates data from various sources, uses machine learning to detect abnormal behaviors, and coordinates responses, while keeping humans involved in approving remediation actions.
 Through a demonstration of a vulnerable web application, he illustrates how these agents can detect and respond to attacks such as command injection and crypto mining, applying network policies and blocking vulnerable images.
 He concludes by stressing the importance of combining agentic AI for scalable, context-aware defense with human judgment to ensure robust and ethical security operations.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

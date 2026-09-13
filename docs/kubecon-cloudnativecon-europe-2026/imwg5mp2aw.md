@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Namespace Multi-Tenancy, But All The Problems Related
+  To It - Hristo Hristov"
+nav_order: 279
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Namespace Multi-Tenancy, But All The Problems Related To It - Hristo Hristov"
-description: "Christopher, a maintainer of the CNCF sandbox project Capsule, discusses the challenges of scaling Kubernetes environments, particularly around namespace multi-tenancy. As organizations grow, managing hundreds of microservices and namespace..."
+description:
+  Christopher, a maintainer of the CNCF sandbox project Capsule, discusses
+  the challenges of scaling Kubernetes environments, particularly around namespace
+  multi-tenancy. As organizations grow, managing hundreds of microservices and namespace...
 resource: https://www.youtube.com/watch?v=-imwG5MP2aw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ As organizations grow, managing hundreds of microservices and namespaces becomes
 Capsule addresses these issues by introducing the concept of a "tenant," which groups multiple namespaces and provides isolated resource pools and configurable policies, enabling effective multi-tenancy without the overhead of managing multiple clusters.
 The project leverages Kubernetes primitives, integrates with key CNCF tools like Argo CD, Rancher, and Velero, and supports GitOps workflows.
 Capsule is open for collaboration, offers enterprise support through partners, and invites interested users to connect via their pavilion, Slack, website, or GitHub.
+
 # Main Points
 
 |   # | Main point                                                                                                            |

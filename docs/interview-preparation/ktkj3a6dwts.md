@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "How to show up in any room with a low heart rate: Silicon Valley’s missing
+  etiquette playbook"
+nav_order: 16
+parent: Interview Preparation
 type: Video Note
-title: "How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook"
-description: "Sam Lesson emphasizes the importance of showing up with a low heart rate, being approachable, and having an abundance mindset. Sam shares tips on introductions, small talk, conversations, and meeting etiquette, including not ordering the mo..."
+description:
+  Sam Lesson emphasizes the importance of showing up with a low heart rate,
+  being approachable, and having an abundance mindset. Sam shares tips on introductions,
+  small talk, conversations, and meeting etiquette, including not ordering the mo...
 resource: https://www.youtube.com/watch?v=KtKJ3A6DWTs
-tags: ["interview-preparation", video, learning]
+tags:
+  - interview-preparation
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Sam shares tips on introductions, small talk, conversations, and meeting etiquet
 He also stresses the need to respect others' time and boundaries, proofread emails, and avoid overusing emojis.
 Additionally, Sam discusses his experience with AI-powered matchmaking and how it can be both useful and flawed.
 The conversation is lighthearted and humorous, making etiquette accessible and enjoyable for listeners.
+
 # Main Points
 
 |   # | Main point                                                                                             |

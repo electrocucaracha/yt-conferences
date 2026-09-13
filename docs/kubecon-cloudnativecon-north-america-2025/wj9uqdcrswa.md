@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Kubernetes and etcd: Common Pitfalls and How To Avoid Them - Arka Saha & Nabarun
+  Pal, Broadcom"
+nav_order: 143
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Kubernetes and etcd: Common Pitfalls and How To Avoid Them - Arka Saha & Nabarun Pal, Broadcom"
-description: "The session focused on common pitfalls and best practices for managing etcd within Kubernetes, particularly at large scale. The speakers emphasized the critical role of etcd as Kubernetes’ core data store and discussed issues such as databa..."
+description:
+  The session focused on common pitfalls and best practices for managing
+  etcd within Kubernetes, particularly at large scale. The speakers emphasized the
+  critical role of etcd as Kubernetes’ core data store and discussed issues such as
+  databa...
 resource: https://www.youtube.com/watch?v=wj9UQDcRSWA
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The speakers emphasized the critical role of etcd as Kubernetes’ core data sto
 They highlighted the importance of monitoring key metrics—like leader changes, slow applies, slow read indexes, and heartbeat failures—using Prometheus to detect performance problems.
 The discussion also covered strategies like separating high-churn resources (e.g., events) into dedicated etcd clusters to maintain overall performance, and the necessity of adhering to recommended disk IOPS and network throughput for stability.
 Attendees were encouraged to consult the official etcd operational guide and use diagnostic tools for proactive cluster health management, while questions from the audience addressed real-world scenarios, performance tuning, and the rationale behind architectural decisions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

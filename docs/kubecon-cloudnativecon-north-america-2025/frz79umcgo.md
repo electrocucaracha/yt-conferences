@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Efficient Kubernetes Autoscaling: News, Challenges, and Best Practi... Zbynek
+  Roubalik & Jan Wozniak"
+nav_order: 67
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Efficient Kubernetes Autoscaling: News, Challenges, and Best Practi... Zbynek Roubalik & Jan Wozniak"
-description: 'In this session, Jan and Binak, both maintainers of KEDA (pronounced "kay-da"), introduce the project and discuss its features, best practices, and challenges in Kubernetes autoscaling. KEDA extends Kubernetes'' native Horizontal Pod Autosca...'
+description:
+  In this session, Jan and Binak, both maintainers of KEDA (pronounced
+  "kay-da"), introduce the project and discuss its features, best practices, and challenges
+  in Kubernetes autoscaling. KEDA extends Kubernetes' native Horizontal Pod Autosca...
 resource: https://www.youtube.com/watch?v=-frz79uMCgo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The presenters explain KEDA's architecture, including its use of custom resource
 They emphasize best practices like carefully configuring scaling behavior, understanding polling intervals, and being cautious with Prometheus or DataDog scalers to avoid overloading metric servers.
 The session also covers advanced autoscaling scenarios, such as coordinated scaling across dependent services and scaling groups, and addresses audience questions about integrating KEDA with custom resources, combining HPA and VPA, and handling Java workloads.
 The presenters conclude by inviting attendees to provide feedback and visit their booth for further discussion and activities.
+
 # Main Points
 
 |   # | Main point                                                                                                         |

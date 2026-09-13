@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Moving From Individual Contributor to Managing Remote Team of Engineers | Interview
+  Vince Marvin
+nav_order: 36
+parent: Leadership Skills
 type: Video Note
-title: "Moving From Individual Contributor to Managing Remote Team of Engineers | Interview Vince Marvin"
-description: "In this video, Vince Marvin discusses his recent promotion to his first engineering leadership role at Lake Superior Consulting, where he manages a fully remote team of four. Vince shares his unique journey from individual contributor to pr..."
+description:
+  In this video, Vince Marvin discusses his recent promotion to his first
+  engineering leadership role at Lake Superior Consulting, where he manages a fully
+  remote team of four. Vince shares his unique journey from individual contributor
+  to pr...
 resource: https://www.youtube.com/watch?v=_7DyjRH1DZ0
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Vince shares his unique journey from individual contributor to project lead, hig
 He emphasizes the importance of soft skills, such as building relationships, clear communication, and seeking feedback, which he learned from a supportive manager who served as a role model.
 Vince also addresses the challenges of managing a remote team, including maintaining connection, ensuring team members know what to work on, and fostering a sense of belonging, and he shares practical strategies like regular one-on-one meetings and structured onboarding.
 He advises aspiring leaders to seek out opportunities to lead projects, communicate their interest to managers, and be willing to step outside their comfort zones to grow into leadership roles.
+
 # Main Points
 
 |   # | Main point                                                                                                                            |

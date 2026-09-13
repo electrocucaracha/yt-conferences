@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  How Women in STEM Can Navigate the Gender Gap to Advance Your Career TEDx Speaker
+  Prashha Dutra
+nav_order: 17
+parent: Leadership Skills
 type: Video Note
-title: "How Women in STEM Can Navigate the Gender Gap to Advance Your Career TEDx Speaker Prashha Dutra"
-description: 'In this video, confidence coach and TEDx speaker Prasha Dutra discusses the challenges women face in STEM fields, particularly the persistent gender gap and the "leaky pipeline" where many women leave the industry within the first five year...'
+description:
+  In this video, confidence coach and TEDx speaker Prasha Dutra discusses
+  the challenges women face in STEM fields, particularly the persistent gender gap
+  and the "leaky pipeline" where many women leave the industry within the first five
+  year...
 resource: https://www.youtube.com/watch?v=GulSaYG3gdQ
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ She explains that while there is increasing interest among girls and women to en
 Prasha emphasizes the importance of building supportive communities, developing strong communication and confidence skills, and finding relatable role models.
 She also highlights the need for both men and women to foster inclusive environments, address unconscious biases, and support each other through mentorship and advocacy.
 Her main advice to women struggling in STEM is to seek help, invest in personal and professional growth, and remember that they are more than just statistics, with the potential to succeed and drive meaningful change in the industry.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                               |

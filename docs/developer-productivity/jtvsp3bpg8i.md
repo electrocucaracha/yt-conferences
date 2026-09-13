@@ -1,11 +1,19 @@
 ---
+layout: default
+title: Putting the XP in Scrum • Roy Osherove • GOTO 2021
+nav_order: 103
+parent: Developer Productivity
 type: Video Note
-title: "Putting the XP in Scrum • Roy Osherove • GOTO 2021"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=JtvSp3BPG8I
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +21,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 Here is a summary of the video transcript in 3-5 sentences: The speaker, Royal Rove, discusses the challenges of implementing Agile practices in software development teams.
 He argues that many organizations adopt Agile processes without fully understanding the underlying engineering practices, such as Test-Driven Development (TDD) and Continuous Integration (CI), which are essential for true continuous delivery.
 The speaker emphasizes the importance of leadership skills, communication, and courage in overcoming the "Survival Mode" mentality that often prevents teams from adopting new practices, and suggests value stream mapping as a tool to identify bottlenecks and optimize processes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

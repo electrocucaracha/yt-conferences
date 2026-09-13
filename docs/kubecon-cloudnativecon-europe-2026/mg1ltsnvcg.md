@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  What's Coming Next in Containerd 2.3? - Mike Brown, IBM & Krisztian Litkey,
+  Intel
+nav_order: 397
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "What's Coming Next in Containerd 2.3? - Mike Brown, IBM & Krisztian Litkey, Intel"
-description: "The video features core maintainers and contributors of containerd discussing its development, extensibility, and integration with other projects like Kubernetes, Docker, and Rancher. They highlight containerd’s unopinionated design, its wi..."
+description:
+  The video features core maintainers and contributors of containerd discussing
+  its development, extensibility, and integration with other projects like Kubernetes,
+  Docker, and Rancher. They highlight containerd’s unopinionated design, its wi...
 resource: https://www.youtube.com/watch?v=_mg1LtSNVCg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight containerd’s unopinionated design, its widespread adoption in c
 A significant focus is on the Node Resource Interface (NRI), an extension mechanism for CRI-compatible runtimes like containerd and CRI-O, which allows administrators to plug in custom logic for managing pod and container lifecycle events without recompiling the runtime.
 NRI plugins can adjust container attributes, manage resources, and are validated through pluggable validators to ensure security and compliance.
 The maintainers also discuss the move to a Kubernetes-like release cadence, the introduction of long-term support (LTS) releases, ongoing work toward NRI’s API stability, enhanced observability, and security features, as well as the differences between NRI plugins and Kubernetes mutating webhooks in terms of flexibility and control.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                               |

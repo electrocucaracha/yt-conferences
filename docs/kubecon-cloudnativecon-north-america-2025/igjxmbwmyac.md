@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "GAMMA in Action: How Careem Migrated To Istio Without Downtime - Suren Raju
+  & Sergey Marunich"
+nav_order: 88
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "GAMMA in Action: How Careem Migrated To Istio Without Downtime - Suren Raju & Sergey Marunich"
-description: "The presentation details Kareem’s migration of its critical digital platform, which supports millions of users and partners across the Middle East, from a fragmented traffic management system using multiple service meshes to a unified archi..."
+description:
+  The presentation details Kareem’s migration of its critical digital platform,
+  which supports millions of users and partners across the Middle East, from a fragmented
+  traffic management system using multiple service meshes to a unified archi...
 resource: https://www.youtube.com/watch?v=igJXmbwMYAc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The team faced challenges due to operational friction from maintaining different
 The migration process was carefully designed to be fast, safe, and transparent, utilizing canary deployments, automated rollbacks, and extensive observability to ensure reliability for users who depend on the platform for essential services.
 Key learnings included the importance of planning, testing, and understanding differences in data plane behavior, as well as the evolving nature of the Gateway API ecosystem and the need for ongoing reliability improvements post-migration.
 The migration was completed in six weeks across five clusters and 700 services without downtime or major rewrites, but the team continues to address new challenges and refine their processes for future upgrades.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

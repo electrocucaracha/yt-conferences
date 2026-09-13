@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Kubecon Cloudnativecon Europe 2025"
+has_children: true
+nav_order: 7
+---
+
 # Kubecon Cloudnativecon Europe 2025
 
 ## Concepts

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "AIE CODE 2025: AI Leadership ft Anthropic, OpenAI, McKinsey, Bloomberg, Google
+  Deepmind, and Tenex"
+nav_order: 1
+parent: Aie Code 2025 Ai Leadership
 type: Video Note
-title: "AIE CODE 2025: AI Leadership ft Anthropic, OpenAI, McKinsey, Bloomberg, Google Deepmind, and Tenex"
-description: "The transcript details a full-day AI engineering summit featuring presentations, case studies, and panel discussions on the rapid evolution and impact of AI coding agents in software development. Speakers from leading companies like Anthrop..."
+description:
+  The transcript details a full-day AI engineering summit featuring presentations,
+  case studies, and panel discussions on the rapid evolution and impact of AI coding
+  agents in software development. Speakers from leading companies like Anthrop...
 resource: https://www.youtube.com/watch?v=cMSprbJ95jg
-tags: ["aie-code-2025-ai-leadership", video, learning]
+tags:
+  - aie-code-2025-ai-leadership
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Speakers from leading companies like Anthropic, Replit, Zapier, OpenAI, Google, 
 Key themes included the shift from traditional coding to agentic and “vibe” coding, the importance of context management, verification, and parallelism, and the need for new operating models and measurement frameworks to realize AI’s productivity gains.
 Case studies highlighted both successes and challenges in enterprise adoption, emphasizing the necessity of upskilling, change management, and robust evaluation of AI’s ROI.
 The event also explored the future of developer experience, compensation models, and the broader organizational changes required to become truly AI-native, concluding with encouragement for ongoing experimentation and collaboration as the field continues to rapidly advance.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                |

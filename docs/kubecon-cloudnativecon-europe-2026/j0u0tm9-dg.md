@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "The Next Chapter of Developer Experience: TAG De... Julien S, Graziano C,
+  Mona B, Kevin D & Daniel O"
+nav_order: 364
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Next Chapter of Developer Experience: TAG De... Julien S, Graziano C, Mona B, Kevin D & Daniel O"
-description: "The TAG Developer Experience team discussed their ongoing efforts to define and improve developer experience within the CNCF ecosystem, focusing on three main pillars: developer tooling (inner and outer loops), application runtime, and plat..."
+description:
+  "The TAG Developer Experience team discussed their ongoing efforts to
+  define and improve developer experience within the CNCF ecosystem, focusing on three
+  main pillars: developer tooling (inner and outer loops), application runtime, and
+  plat..."
 resource: https://www.youtube.com/watch?v=_j0u0tm9_dg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They outlined several current initiatives, including gathering feedback on secur
 The panel emphasized the importance of community input and welcomed contributions to these initiatives, highlighting that participation can be flexible and rewarding.
 During the Q&A, they addressed challenges such as managing large AI-generated pull requests and the evolving role of code review, noting the need for new practices and standards to balance productivity with quality and maintainability.
 The session concluded with invitations to join ongoing discussions, fill out surveys, and connect via meetings and Slack channels.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                         |

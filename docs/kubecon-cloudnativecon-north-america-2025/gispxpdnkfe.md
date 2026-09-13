@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  To InGate and Beyond Ingress-nginx! - James Strong, Isovalent @ Cisco & Marco
+  Ebert, Giant Swarm
+nav_order: 319
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "To InGate and Beyond Ingress-nginx! - James Strong, Isovalent @ Cisco & Marco Ebert, Giant Swarm"
-description: "The talk provides an update on the Ingress EngineX project, highlighting its long history, extensive feature set, and significant community contributions over the past decade, including around 8,000 closed pull requests and over 1,000 contr..."
+description:
+  The talk provides an update on the Ingress EngineX project, highlighting
+  its long history, extensive feature set, and significant community contributions
+  over the past decade, including around 8,000 closed pull requests and over 1,000
+  contr...
 resource: https://www.youtube.com/watch?v=GISpxPdNKfE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ However, due to a lack of maintainers and limited resources—currently only two
 The team announced that Ingress EngineX will be archived by March 2026, after which it will become read-only with no further updates, though existing images and Helm charts will remain available.
 The related Ingate project, intended to help users migrate to Gateway API, will also be retired due to insufficient development and interest.
 The speakers expressed gratitude to the community and recommended that users begin migrating to Gateway API, noting that the decline of Ingress EngineX is a natural part of the open source lifecycle and encouraging contributions to projects supporting this transition.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

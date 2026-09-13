@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Tutorial: AI on Kubernetes Without the Chaos: Building Reproducible ML Environmen...
+  Nourhan Mohamed"
+nav_order: 377
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Tutorial: AI on Kubernetes Without the Chaos: Building Reproducible ML Environmen... Nourhan Mohamed"
-description: "Norhan Muhammad introduces a talk focused on achieving reproducible and reliable AI workflows on Kubernetes, aiming to reduce chaos in machine learning operations. She explains the importance of reproducibility in ML, using an analogy of tw..."
+description:
+  Norhan Muhammad introduces a talk focused on achieving reproducible and
+  reliable AI workflows on Kubernetes, aiming to reduce chaos in machine learning
+  operations. She explains the importance of reproducibility in ML, using an analogy
+  of tw...
 resource: https://www.youtube.com/watch?v=JA1rrdMLmew
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ She explains the importance of reproducibility in ML, using an analogy of two ch
 Norhan outlines common problems in traditional ML workflows, such as manual tracking, lack of versioning, and environment drift, and presents a framework for reproducibility that includes versioning inputs, pipelines, and artifacts, as well as tracking lineage and automating validation.
 She demonstrates a practical MLOps pipeline using open-source tools like Kubeflow, Argo Workflows, MLflow, MinIO, and GitOps, guiding participants through a hands-on lab that automates model training, validation, containerization, and deployment while ensuring traceability and rollback capabilities.
 The session concludes with key takeaways—pinning dependencies, tracking lineage, using GitOps, validating before deployment, and maintaining immutable artifacts—and a Q&A addressing hardware reproducibility, centralized tool hosting, and GPU scheduling in Kubernetes environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                               |

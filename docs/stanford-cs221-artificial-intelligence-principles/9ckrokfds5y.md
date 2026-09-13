@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 11: Games II"
-description: "The lecture begins by reviewing two-player zero-sum games and the minmax principle, emphasizing how game trees alternate between maximizing and minimizing nodes. It then connects these concepts to reinforcement learning, specifically discus..."
+nav_order: 2
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture begins by reviewing two-player zero-sum games and the minmax
+  principle, emphasizing how game trees alternate between maximizing and minimizing
+  nodes. It then connects these concepts to reinforcement learning, specifically discus...
 resource: https://www.youtube.com/watch?v=9CKRoKFdS5Y
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ The lecture explains the motivation for using reinforcement learning in games—
 The instructor details how TD learning can be adapted for games, including self-play and function approximation, and illustrates these ideas with historical examples such as Samuel’s checkers, Tesauro’s TD-Gammon, and AlphaGo Zero.
 The lecture then shifts to simultaneous games, introducing payoff matrices, mixed strategies, and the minimax theorem, which guarantees optimal strategies for both players in zero-sum settings.
 Finally, it covers non-zero-sum games and Nash equilibria, highlighting their existence and stability, and concludes by encouraging further study in game theory.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

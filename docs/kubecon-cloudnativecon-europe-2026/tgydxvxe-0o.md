@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Cloud Native University: Cloud Native vs. Platform
+  Native vs... Ruckus Voxi"
+nav_order: 45
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Cloud Native University: Cloud Native vs. Platform Native vs... Ruckus Voxi"
-description: 'The speaker discusses the evolving understanding of "cloud native," tracing its origins from DevOps (2007–2009), the 12-factor app methodology (2011), Docker (2013), Kubernetes (2014), and the formation of the CNCF (2015). These development...'
+description:
+  The speaker discusses the evolving understanding of "cloud native," tracing
+  its origins from DevOps (2007–2009), the 12-factor app methodology (2011), Docker
+  (2013), Kubernetes (2014), and the formation of the CNCF (2015). These development...
 resource: https://www.youtube.com/watch?v=tGyDxvxe_0o
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The speaker discusses the evolving understanding of "cloud native," tracing its 
 These developments form the "DNA" of cloud native, characterized by DevOps practices, 12-factor principles, containers, and orchestration, with open source, portability, and vendor agnosticism as key traits.
 The speaker notes that while cloud native has become a buzzword applied to almost anything cloud-related, its true value lies in solving problems of monolithic, environment-dependent applications by enabling modular, portable, and scalable architectures.
 However, simply running applications on managed cloud services does not make them cloud native if they are tightly coupled to proprietary platforms, which the speaker terms "platform native." True cloud native applications, according to the speaker, are built to be cloud agnostic, requiring no knowledge of the underlying platform, and fully embrace the paradigm of abstraction, portability, and open-source principles.
+
 # Main Points
 
 |   # | Main point                                                                                                   |

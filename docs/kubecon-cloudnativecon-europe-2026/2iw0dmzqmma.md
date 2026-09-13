@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tutorial: Full-Stack Observability on a Budget: A Guide to Strategic Sampling
+  and Da... Pavol Loffay"
+nav_order: 381
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Tutorial: Full-Stack Observability on a Budget: A Guide to Strategic Sampling and Da... Pavol Loffay"
-description: "The tutorial builds on previous sessions about Kubernetes observability, focusing this time on achieving full-stack observability on a budget. The presenter guides participants through setting up a Kubernetes cluster, deploying observabilit..."
+description:
+  The tutorial builds on previous sessions about Kubernetes observability,
+  focusing this time on achieving full-stack observability on a budget. The presenter
+  guides participants through setting up a Kubernetes cluster, deploying observabilit...
 resource: https://www.youtube.com/watch?v=2iW0DMZqMMA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The presenter guides participants through setting up a Kubernetes cluster, deplo
 Key topics include understanding and configuring head-based and tail-based sampling strategies to manage telemetry data volume and cost, profiling telemetry to identify and filter unnecessary or "malicious" data such as excessive spans, debug logs, and health check traces, and using processors like the count connector and filter processor for optimization.
 The session also covers best practices for sampling configuration, memory considerations for tail-based sampling, log deduplication, and emphasizes the importance of addressing issues at the source code or configuration level when possible.
 The tutorial concludes with a mention of ongoing work to automate cost optimization in observability workflows using agentic skills.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

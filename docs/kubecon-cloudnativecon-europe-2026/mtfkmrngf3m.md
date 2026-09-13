@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Leveling up with Radius: Custom Resources and Headlamp Integration for R...
+  Nuno Guedes & Will Tsai"
+nav_order: 202
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Leveling up with Radius: Custom Resources and Headlamp Integration for R... Nuno Guedes & Will Tsai"
-description: "Will, a principal product manager at Microsoft Azure’s open source incubations team, introduces Radius as an application platform designed to enable developers to define portable applications deployable across multiple cloud providers, abst..."
+description:
+  Will, a principal product manager at Microsoft Azure’s open source incubations
+  team, introduces Radius as an application platform designed to enable developers
+  to define portable applications deployable across multiple cloud providers, abst...
 resource: https://www.youtube.com/watch?v=MTFkMRngf3M
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ This separation of concerns allows developers to focus on application logic whil
 Will demonstrates deploying a sample application across local, Azure, and AWS environments using the same application definition, highlighting Radius’s ability to provision appropriate resources without code changes.
 Nuno from Millennium BCP shares how the bank leverages Radius to meet compliance and legacy requirements by creating custom resource types and implementations, achieving clear separation of responsibilities and lifecycle management.
 The team also integrates Radius with familiar tools like Headlamp for day-two operations and emphasizes that while Radius orchestrates deployments and maintains state, it relies on integrations with other tools for features like drift detection and reconciliation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                          |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Keynote: From Orbit to the Grid: Automating a Green... Faseela K, Chris Holmes
+  & Michael Reichenbach"
+nav_order: 174
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: From Orbit to the Grid: Automating a Green... Faseela K, Chris Holmes & Michael Reichenbach"
-description: "The discussion centers on the critical role of cloud native technologies in advancing sustainability across three layers: through the cloud, in the cloud, and of the cloud. Chris Holmes from Planet Labs illustrates how Kubernetes enables re..."
+description:
+  "The discussion centers on the critical role of cloud native technologies
+  in advancing sustainability across three layers: through the cloud, in the cloud,
+  and of the cloud. Chris Holmes from Planet Labs illustrates how Kubernetes enables
+  re..."
 resource: https://www.youtube.com/watch?v=P1phxZHJGrA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Chris Holmes from Planet Labs illustrates how Kubernetes enables real-time proce
 The conversation then shifts to measuring and improving the sustainability of cloud operations, emphasizing the importance of visibility, observability, and actionable insights to optimize resource use and reduce emissions, with CNCF initiatives providing practical guidelines.
 Michael Raihan Bach from 1,5 demonstrates how cloud native tools orchestrate decentralized energy systems, turning homes into virtual power plants that store and distribute renewable energy efficiently, reducing CO2 emissions.
 The session concludes by urging the community to make sustainability an operational default in cloud native systems and to consider the environmental impact of AI workloads.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

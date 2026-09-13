@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "From Cypher to Conversation: MCP at WestJet - Anton Lysov, WestJet"
-description: "The speaker describes how WestJet manages its complex flight scheduling, highlighting the challenges unique to the airline industry, such as cabotage rules, minimum connection times, and seasonal route availability. Traditionally, schedules..."
+nav_order: 28
+parent: Mcp Dev Summit Na 2026
+type: Video Note
+description:
+  The speaker describes how WestJet manages its complex flight scheduling,
+  highlighting the challenges unique to the airline industry, such as cabotage rules,
+  minimum connection times, and seasonal route availability. Traditionally, schedules...
 resource: https://www.youtube.com/watch?v=l8m0YpNf4XI
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Traditionally, schedules were managed with cumbersome spreadsheets and updated o
 This data is stored in a Neo4j graph database, which is powerful but requires knowledge of the Cypher query language, limiting access for non-technical staff.
 To democratize access, WestJet implemented an MCP-based tool that allows users to ask questions in plain English and receive data-driven answers, enabling teams like scheduling and network planning to optimize connections without technical barriers.
 The solution is currently used internally, with considerations for security and data validation ongoing, and leverages state-of-the-art language models to translate natural language queries into Cypher.
+
 # Main Points
 
 |   # | Main point                                                                                                                                               |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Beyond the Cloud: Managing Baremetal the Kubernetes Way Using Metal... Ádám
+  Rozmán & Nicolas Belouin"
+nav_order: 27
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Beyond the Cloud: Managing Baremetal the Kubernetes Way Using Metal... Ádám Rozmán & Nicolas Belouin"
-description: "In this presentation, Adam Rosman from Ericsson and Nicolola Bulwa from Souza introduce the MetaCube project, a Kubernetes-based bare metal lifecycle and cluster management tool designed to address various challenges in managing physical ma..."
+description:
+  In this presentation, Adam Rosman from Ericsson and Nicolola Bulwa from
+  Souza introduce the MetaCube project, a Kubernetes-based bare metal lifecycle and
+  cluster management tool designed to address various challenges in managing physical
+  ma...
 resource: https://www.youtube.com/watch?v=pThPIOZ7Nb0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ MetaCube offers a modular, extensible architecture that integrates with Cluster 
 The speakers detail how MetaCube is used within Project Silva, a Linux Foundation Europe telco initiative that leverages open-source components and a declarative, GitOps approach to manage edge and central sites, deploying clusters and infrastructure via Helm charts and Flux.
 They explain the process of registering and provisioning bare metal hosts, managing firmware settings and updates, and supporting advanced operations like rolling upgrades, node replacement, and self-management.
 The session concludes with a Q&A covering switch management integration, support for various operating systems and bootstrap providers, and flexible update strategies for nodes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

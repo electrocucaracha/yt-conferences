@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Experto en IA: Qué es la Inteligencia Artificial? Explicado Fácil y Rápido
+  | Dr Fernando de la Peña"
+nav_order: 32
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en IA: Qué es la Inteligencia Artificial? Explicado Fácil y Rápido | Dr Fernando de la Peña"
-description: "Fernando de la Peña, ingeniero mexicano y empresario, relata su trayectoria desde su infancia en la Ciudad de México, su pasión por el espacio y la tecnología, hasta convertirse en proveedor de servicios e innovación para la NASA, el Depart..."
+description:
+  Fernando de la Peña, ingeniero mexicano y empresario, relata su trayectoria
+  desde su infancia en la Ciudad de México, su pasión por el espacio y la tecnología,
+  hasta convertirse en proveedor de servicios e innovación para la NASA, el Depart...
 resource: https://www.youtube.com/watch?v=m5-C59vR-B0
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Destaca la importancia de la innovación, la gestión del estrés y la formació
 Explica de manera sencilla el funcionamiento de la inteligencia artificial y las redes neuronales, así como su impacto en la automatización, la creación de nuevas oportunidades laborales y la transformación de la vida cotidiana y empresarial.
 De la Peña también comparte sus avances en tecnología de hologramas, que ya se utilizan en la medicina espacial y que busca democratizar para el público general, permitiendo nuevas formas de comunicación y preservación de memorias.
 Finalmente, subraya la importancia de dejar un legado tecnológico que beneficie a la humanidad, promoviendo el equilibrio entre el éxito profesional y la vida personal.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "José Bobadilla: El poder del LIDERAZGO | sesión de crecimiento #9"
-description: "En esta extensa conversación, José Bobadilla reflexiona sobre la importancia de soñar, el liderazgo y la educación en la vida personal y profesional. Sostiene que una vida sin sueños carece de sentido y que el verdadero propósito de una emp..."
+nav_order: 51
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En esta extensa conversación, José Bobadilla reflexiona sobre la importancia
+  de soñar, el liderazgo y la educación en la vida personal y profesional. Sostiene
+  que una vida sin sueños carece de sentido y que el verdadero propósito de una emp...
 resource: https://www.youtube.com/watch?v=Gbv5c8Wa5Yk
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Sostiene que una vida sin sueños carece de sentido y que el verdadero propósit
 Bobadilla enfatiza que el liderazgo es un acto de conciencia y servicio, que se construye tanto por naturaleza como por formación, y que los líderes auténticos inspiran y despiertan a otros a través de su ejemplo y pasión.
 Critica el sistema educativo tradicional por enfocarse en lo accesorio y no en lo esencial, y resalta la necesidad de aprender constantemente, pensar en grande y educar en valores y autonomía.
 Finalmente, subraya que la felicidad y la trascendencia provienen de servir, aprender y perseguir causas significativas, más allá de la búsqueda de aprobación o riqueza material.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

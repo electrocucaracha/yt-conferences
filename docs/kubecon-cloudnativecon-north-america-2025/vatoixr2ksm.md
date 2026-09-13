@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Managing Netflix’s Compute Infrastructure With Kubernetes and Dynamic... Charles
+  Zheng & Nick Parker
+nav_order: 162
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Managing Netflix’s Compute Infrastructure With Kubernetes and Dynamic... Charles Zheng & Nick Parker"
-description: "In this presentation, Charles and Nick from Netflix's compute platform team explain how they manage Netflix’s large-scale infrastructure using Kubernetes, with a focus on their custom Titus API, which abstracts Kubernetes complexities for d..."
+description:
+  In this presentation, Charles and Nick from Netflix's compute platform
+  team explain how they manage Netflix’s large-scale infrastructure using Kubernetes,
+  with a focus on their custom Titus API, which abstracts Kubernetes complexities
+  for d...
 resource: https://www.youtube.com/watch?v=vaTOiXR2KSM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Their architecture spans multiple cloud regions, organizing clusters into servic
 They built a lightweight, custom federation layer to route jobs and manage capacity across clusters, prioritizing simplicity, reliability, and high throughput over complex optimizations.
 Capacity management is handled through a tiered system—reserved, elastic, and trough—with custom autoscaling, disruption budgets, and node defragmentation processes to balance cost, launch latency, and disruption tolerance.
 Throughout, they emphasize that following Kubernetes best practices and keeping the system straightforward has enabled them to efficiently support Netflix’s massive workloads without overengineering, and they share lessons learned about right-sizing, bin packing, and evolving their approach as needs change.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                         |

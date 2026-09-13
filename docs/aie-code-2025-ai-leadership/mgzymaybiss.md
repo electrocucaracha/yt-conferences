@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Dispatch from the Future: building an AI-native Company – Dan Shipper, Every,
+  AI & I"
+nav_order: 2
+parent: Aie Code 2025 Ai Leadership
 type: Video Note
-title: "Dispatch from the Future: building an AI-native Company – Dan Shipper, Every, AI & I"
-description: "The speaker, as the final presenter of the day, discusses the evolving process of building AI-native companies, emphasizing that there is no established playbook yet and that organizations are collaboratively inventing it in real time. Draw..."
+description:
+  The speaker, as the final presenter of the day, discusses the evolving
+  process of building AI-native companies, emphasizing that there is no established
+  playbook yet and that organizations are collaboratively inventing it in real time.
+  Draw...
 resource: https://www.youtube.com/watch?v=MGzymaYBiss
-tags: ["aie-code-2025-ai-leadership", video, learning]
+tags:
+  - aie-code-2025-ai-leadership
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Drawing from experiences at their company, Every, which operates four software p
 They introduce the concept of "compounding engineering," where each new feature makes subsequent development easier, facilitated by detailed planning, delegation to AI, assessment, and codification of knowledge into reusable prompts.
 This approach leads to easier code sharing, immediate productivity for new hires, flexible tech stacks, and even allows managers to contribute code with fragmented attention.
 The talk concludes by underscoring the significant productivity gains and collaborative benefits of 100% AI integration, inviting the audience to learn more about Every’s AI-focused products and services.
+
 # Main Points
 
 |   # | Main point                                                                                                                          |

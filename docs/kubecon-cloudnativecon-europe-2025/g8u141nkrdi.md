@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Advancements in AI/ML Inference Workloads on Kubernetes From... Yuan Tang &
+  Eduardo Arango Gutierrez
+nav_order: 14
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Advancements in AI/ML Inference Workloads on Kubernetes From... Yuan Tang & Eduardo Arango Gutierrez"
-description: "The working group serving aims to enhance Kubernetes controllers and low-level components to make it easier for users to run Serbian workloads on Kubernetes. The group focuses on three main goals: enhancing Kubernetes controllers, investiga..."
+description:
+  "The working group serving aims to enhance Kubernetes controllers and
+  low-level components to make it easier for users to run Serbian workloads on Kubernetes.
+  The group focuses on three main goals: enhancing Kubernetes controllers, investiga..."
 resource: https://www.youtube.com/watch?v=G8U141NkrDI
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The working group serving aims to enhance Kubernetes controllers and low-level c
 The group focuses on three main goals: enhancing Kubernetes controllers, investigating orchestration and scalability, and exposing ways for pods to share resources like GPUs or communicate across multiple hosts.
 The group is led by four co-chairs from Google Cloud, Red Hat, Nvidia, and Bit Dance, with over 330 members on Slack.
 They have created a benchmark tool called inference perf to understand what impacts the performance of large language models, and are working on standards for caching and image volume sources to optimize performance.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

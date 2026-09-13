@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Experto en Trabajo en Equipo: Cómo decidir mejor y liderar equipos ganadores
+  | Arturo Brizio"
+nav_order: 39
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en Trabajo en Equipo: Cómo decidir mejor y liderar equipos ganadores | Arturo Brizio"
-description: "En esta entrevista, Arturo Brizio, reconocido exárbitro mexicano de fútbol, comparte su trayectoria profesional y las lecciones que ha aprendido sobre la toma de decisiones, el trabajo en equipo y el liderazgo. Brizio relata cómo, a pesar d..."
+description:
+  En esta entrevista, Arturo Brizio, reconocido exárbitro mexicano de fútbol,
+  comparte su trayectoria profesional y las lecciones que ha aprendido sobre la toma
+  de decisiones, el trabajo en equipo y el liderazgo. Brizio relata cómo, a pesar
+  d...
 resource: https://www.youtube.com/watch?v=EsEny87-8y4
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Brizio relata cómo, a pesar de ser considerado el mejor árbitro del mundo en e
 Destaca que una buena decisión requiere información, serenidad y claridad en la meta, y que los errores, aunque dolorosos, son oportunidades de aprendizaje.
 Sobre el trabajo en equipo, Brizio enfatiza la planeación, la definición de tareas, la suma de habilidades y la comunicación efectiva, ilustrando estos conceptos con ejemplos de su carrera y del deporte paralímpico.
 Finalmente, subraya que el liderazgo genuino se basa en el ejemplo y la capacidad de inspirar a otros, y que la vida, como una Copa del Mundo, exige preparación, resiliencia y la búsqueda constante de superación personal y colectiva.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                              |

@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Fluent Bit V5 - Eduardo Silva, Maintainer"
-description: "Eduardo Silva introduces himself and the Fluent Bit project, explaining that it is a telemetry pipeline designed to collect, process, and route observability data such as logs, metrics, and traces from various sources to different analysis..."
+nav_order: 262
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Eduardo Silva introduces himself and the Fluent Bit project, explaining
+  that it is a telemetry pipeline designed to collect, process, and route observability
+  data such as logs, metrics, and traces from various sources to different analysis...
 resource: https://www.youtube.com/watch?v=BwpXIkXOLOU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Fluent Bit operates through a plugin-based architecture, supporting inputs, proc
 The project emphasizes high performance, low resource usage, and vendor neutrality, and has been active for ten years.
 Eduardo announces the release of Fluent Bit V5, highlighting new features such as updated OpenTelemetry protocol support, a new processor for converting cumulative metrics to delta, improved trace sampling, enhanced HTTP server scalability, and a generic OAuth2 implementation for security.
 Performance benchmarks show Fluent Bit V5 outperforms previous versions and other solutions in CPU and memory efficiency, and Eduardo invites attendees to visit the Fluent Bit kiosk and participate in the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

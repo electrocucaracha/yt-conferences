@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Lightning Talk: Summarizing the Noise: LLM Observability With Open Data Hub,
+  VLLM... Twinkll Sisodia"
+nav_order: 152
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Lightning Talk: Summarizing the Noise: LLM Observability With Open Data Hub, VLLM... Twinkll Sisodia"
-description: "Twinkle Sodia, a senior software engineer at Red Hat, presents an open-source solution her team developed to address the challenges of monitoring AI workloads, which often involve navigating complex metric dashboards and require expertise i..."
+description:
+  Twinkle Sodia, a senior software engineer at Red Hat, presents an open-source
+  solution her team developed to address the challenges of monitoring AI workloads,
+  which often involve navigating complex metric dashboards and require expertise i...
 resource: https://www.youtube.com/watch?v=QFH8nfWt8Es
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Their system collects observability data from sources like Prometheus, Tempo, an
 The platform correlates metrics, logs, and traces, enabling users—including those without operational expertise—to receive statistical analyses, trend reports, and recommended actions through a user-friendly Streamlit UI.
 Additionally, it features a natural language interface that translates user queries into promql, allowing direct interaction with data sources for real-time troubleshooting and business context.
 The solution aims to simplify AI infrastructure monitoring, making insights accessible to both engineers and business users, and is available for collaboration on GitHub.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                              |

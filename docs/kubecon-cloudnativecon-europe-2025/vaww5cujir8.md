@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Unlocking How To Efficiently, Flexibly, Manage and Schedule Seven AI Chi...
+  Xiao Zhang & Mengxuan Li
+nav_order: 358
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Unlocking How To Efficiently, Flexibly, Manage and Schedule Seven AI Chi... Xiao Zhang & Mengxuan Li"
-description: "The video discusses the challenges of managing heterogeneous AI chips in Kubernetes, particularly with regards to GPU utilization and scheduling. The presenters introduce two solutions: DIA (Dynamic Resource Allocation) and Hami, an AI comp..."
+description:
+  "The video discusses the challenges of managing heterogeneous AI chips
+  in Kubernetes, particularly with regards to GPU utilization and scheduling. The
+  presenters introduce two solutions: DIA (Dynamic Resource Allocation) and Hami,
+  an AI comp..."
 resource: https://www.youtube.com/watch?v=VAWw5CujiR8
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The presenters introduce two solutions: DIA (Dynamic Resource Allocation) and Ha
 DIA is an API for requesting and sharing resources between pods, but it has limitations due to compatibility issues with device vendors.
 In contrast, Hami provides advanced scheduling features, including topology-aware allocation, beam pack and spread policies, and in-container resource control.
 Hami supports multiple AI chips, including Nvidia, Accent, and Metex, and is designed to be lightweight and plugable.
+
 # Main Points
 
 |   # | Main point |

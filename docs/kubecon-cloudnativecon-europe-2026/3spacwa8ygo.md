@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Keynote: Powering the European Space Agency’s Space Missions with Open Source
+  So... Aaron Whitehouse"
+nav_order: 180
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: Powering the European Space Agency’s Space Missions with Open Source So... Aaron Whitehouse"
-description: "The European Space Agency (ESA) has a long history of advancing space exploration and Earth observation, with ambitions to double its satellite missions by 2030. This expansion presents significant IT challenges, as ESA’s legacy mission con..."
+description:
+  The European Space Agency (ESA) has a long history of advancing space
+  exploration and Earth observation, with ambitions to double its satellite missions
+  by 2030. This expansion presents significant IT challenges, as ESA’s legacy mission
+  con...
 resource: https://www.youtube.com/watch?v=3spacWa8YGo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ This expansion presents significant IT challenges, as ESA’s legacy mission con
 To address these needs, ESA selected Canonical to design and deliver an open source solution based on Kubernetes for resilient workload deployment and Charmed Ceph for scalable, cost-effective storage.
 Canonical’s platform also integrates data and AI tools such as PostgreSQL, Kafka, Kubeflow, and Spark, enabling ESA to efficiently manage and analyze mission data.
 By partnering with Canonical, ESA gains a unified service provider for its cloud infrastructure and open source applications, supporting its future missions and operational agility.
+
 # Main Points
 
 |   # | Main point                                                                                                                                               |

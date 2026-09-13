@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  OpenFeature Update From the Ma... Lukas Reining, André Silva, Thomas Poignant
+  & Alexandra Oberaigner
+nav_order: 231
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "OpenFeature Update From the Ma... Lukas Reining, André Silva, Thomas Poignant & Alexandra Oberaigner"
-description: "The OpenFeature maintainers provided an update on the project's progress, beginning with introductions and an overview for newcomers. OpenFeature is an incubating CNCF project that offers a vendor-agnostic, open specification for feature fl..."
+description:
+  The OpenFeature maintainers provided an update on the project's progress,
+  beginning with introductions and an overview for newcomers. OpenFeature is an incubating
+  CNCF project that offers a vendor-agnostic, open specification for feature fl...
 resource: https://www.youtube.com/watch?v=9ebYq4cbjIY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The team highlighted recent advancements, including the move of most SDKs to ver
 Key technical updates included the OpenFeature Remote Evaluation Protocol (OFREP) to further reduce vendor lock-in, the MCP tool for enhanced agent communication and automation, and new GitHub Actions and CLI tools to streamline flag management and consistency.
 The maintainers also discussed community-driven design decisions, such as supporting isolated API instances for advanced use cases, and ongoing efforts to separate API from implementation packages.
 They encouraged participation, highlighted educational resources, and addressed audience questions on performance optimization and future MCP capabilities, emphasizing the project's growth and openness to new contributors.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                             |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Discover Cortex: High Scalability Metrics in 2026 - Friedrich Gonzalez & Charlie
+  Le, Apple"
+nav_order: 93
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Discover Cortex: High Scalability Metrics in 2026 - Friedrich Gonzalez & Charlie Le, Apple"
-description: "Charlie and Frederick, software engineers at Apple and maintainers of Cortex, presented an overview of Cortex, an open-source, CNCF project designed for scalable, multi-tenant metric storage and querying, compatible with Prometheus and Open..."
+description:
+  Charlie and Frederick, software engineers at Apple and maintainers of
+  Cortex, presented an overview of Cortex, an open-source, CNCF project designed for
+  scalable, multi-tenant metric storage and querying, compatible with Prometheus and
+  Open...
 resource: https://www.youtube.com/watch?v=PCeS4YLKTwg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They highlighted new features in the 1.20 release, including experimental suppor
 Frederick discussed further improvements in the 1.21 release candidate, such as enhanced caching, the removal and reintroduction of store gateways for better performance, and the graduation process for Cortex, including a public security review.
 They also addressed community contributions, clarified the collaborative relationship between Cortex and Thanos, and explained that while both projects share some features, Cortex emphasizes multi-tenancy and SaaS-like API access, whereas Thanos focuses on sidecar architecture.
 The session concluded with a Q&A addressing differences and shared features between Cortex and Thanos.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

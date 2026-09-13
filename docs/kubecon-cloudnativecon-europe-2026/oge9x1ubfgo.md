@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Accidental Platform Team: Kubernetes Operators at Swisscom - Fabian Schulz
+  & Jelena Malic"
+nav_order: 354
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Accidental Platform Team: Kubernetes Operators at Swisscom - Fabian Schulz & Jelena Malic"
-description: "In this talk, the Swisscom team describes their journey from building Kubernetes operators to becoming an accidental platform team tasked with modernizing the automation of their 5G mobile data core. Initially, deploying new network functio..."
+description:
+  In this talk, the Swisscom team describes their journey from building
+  Kubernetes operators to becoming an accidental platform team tasked with modernizing
+  the automation of their 5G mobile data core. Initially, deploying new network functio...
 resource: https://www.youtube.com/watch?v=OgE9X1uBfGo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Initially, deploying new network functions was a complex, manual process requiri
 By introducing Kubernetes operators to automate tasks such as IP management and router configuration, they shifted the complexity into software, enabling network engineers to define high-level intents in YAML, which the platform then translates into actionable configurations.
 The team adopted a gradual rollout, focusing on early adopters, providing user-friendly interfaces, investing in observability and traceability, and fostering a supportive community to address user concerns and ease the transition.
 As a result, they reduced deployment times from days or weeks to hours, improved reliability, and empowered engineers to focus on higher-value tasks, while acknowledging ongoing challenges such as balancing automation with necessary manual steps and exploring future integration of AI.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

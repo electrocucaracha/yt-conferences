@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Missing Half of Performance Profiling: Understanding Memory in Cloud Native
+  Syste... Dom Delnano"
+nav_order: 363
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Missing Half of Performance Profiling: Understanding Memory in Cloud Native Syste... Dom Delnano"
-description: "The speaker introduces the topic of memory profiling in cloud-native systems, highlighting its importance alongside traditional CPU profiling for understanding and debugging performance issues. They review the evolution of profiling tools..."
+description:
+  The speaker introduces the topic of memory profiling in cloud-native
+  systems, highlighting its importance alongside traditional CPU profiling for understanding
+  and debugging performance issues. They review the evolution of profiling tools...
 resource: https://www.youtube.com/watch?v=rTkrS46meSM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They review the evolution of profiling tools, from early CPU profilers requiring
 The talk covers various memory profiling techniques—allocation sampling, in-use profiling, full heap dumps, and object introspection—detailing their trade-offs in overhead and use cases, and discusses tools like Parka, Pyroscope, and Pixie that implement these methods.
 The speaker notes that while CPU profiling is mature and standardized, memory profiling remains fragmented, with sampling-based approaches like those using the PROF format offering a good balance of insight and low overhead for production use.
 Finally, they emphasize that as AI and cloud architectures evolve to include more complex memory hierarchies and device memory, understanding and profiling memory usage will become increasingly critical.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

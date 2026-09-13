@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Securing MCP at Scale: From Principles To Production - Peter Smulovics, Morgan
+  Stanley"
+nav_order: 80
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Securing MCP at Scale: From Principles To Production - Peter Smulovics, Morgan Stanley"
-description: "The speaker discusses key security challenges in using AI and MCP (Multi-Component Protocol) tools, particularly in sensitive environments like banking. Major concerns include data leakage, prompt injection, tool poisoning, misconfiguration..."
+description:
+  The speaker discusses key security challenges in using AI and MCP (Multi-Component
+  Protocol) tools, particularly in sensitive environments like banking. Major concerns
+  include data leakage, prompt injection, tool poisoning, misconfiguration...
 resource: https://www.youtube.com/watch?v=E515s-EwF9M
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Major concerns include data leakage, prompt injection, tool poisoning, misconfig
 The speaker emphasizes the importance of applying established security principles such as least privilege, strong authentication, short-lived tokens, input validation, output filtering, and robust observability, while also advocating for treating prompts as untrusted user input.
 They highlight the need for governance, ownership tracking, and continuous security practices, noting that current tooling is still evolving, especially for regulated industries.
 The future of secure MCP involves zero trust models, policy-as-code, AI firewalls, and capability attestation, with the ultimate goal of shifting from API security to agent security and ensuring that trust is minimized as AI capabilities expand.
+
 # Main Points
 
 |   # | Main point                                                                                                            |

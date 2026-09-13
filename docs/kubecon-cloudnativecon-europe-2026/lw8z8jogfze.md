@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Safe By Design: AI-Powered Auto-Healing For SREs -
+  Arik Alon, Maintainer"
+nav_order: 288
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Safe By Design: AI-Powered Auto-Healing For SREs - Arik Alon, Maintainer"
-description: "Ari, CEO of Robusta and maintainer of Holmes GPT, introduces Holmes GPT as an open-source AI SRE agent that connects to various observability data sources like Prometheus, Loki, Datadog, and New Relic to assist with incident investigation a..."
+description:
+  Ari, CEO of Robusta and maintainer of Holmes GPT, introduces Holmes GPT
+  as an open-source AI SRE agent that connects to various observability data sources
+  like Prometheus, Loki, Datadog, and New Relic to assist with incident investigation
+  a...
 resource: https://www.youtube.com/watch?v=LW8Z8jOGfZE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ When an incident occurs, engineers can ask Holmes GPT questions about issues suc
 Ari shares a real example where Holmes detected a significant drop in application metrics after a PR merge, identified the root cause as a cache misconfiguration, and automatically opened a PR with a fix.
 Holmes operates by following user-defined health checks, querying relevant data sources, and executing remediation steps, which can include opening PRs or triggering automated actions.
 The tool is used by multiple companies, has been submitted to the CNCF, and can be integrated with various remediation handlers for flexible incident response.
+
 # Main Points
 
 |   # | Main point                                                                                                  |

@@ -1,11 +1,22 @@
 ---
+layout: default
+title: How Much Platform Is Enough Platform? - John Keates, Wehkamp Retail Group
+nav_order: 142
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "How Much Platform Is Enough Platform? - John Keates, Wehkamp Retail Group"
-description: "John, a platform engineer at the VA retail group, shares the company's journey in building and evolving their internal software platform to support efficient development and operations. He explains that the group, similar to a smaller Targe..."
+description:
+  John, a platform engineer at the VA retail group, shares the company's
+  journey in building and evolving their internal software platform to support efficient
+  development and operations. He explains that the group, similar to a smaller Targe...
 resource: https://www.youtube.com/watch?v=aLx3QlKE6Dc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains that the group, similar to a smaller Target in the Netherlands, need
 Attempts to implement comprehensive solutions like Backstage proved too complex for their team size, leading them to adopt simpler, self-service tools based on templating and automation, which now handle the majority of their needs.
 While these solutions lack some advanced features and require ongoing maintenance, they have significantly improved developer experience and release cadence, allowing engineers to focus on building and improving products.
 John concludes that while the ideal platform remains aspirational, incremental improvements and right-sized solutions have delivered substantial benefits, and new challenges will always emerge as the organization grows.
+
 # Main Points
 
 |   # | Main point                                                                                                                            |

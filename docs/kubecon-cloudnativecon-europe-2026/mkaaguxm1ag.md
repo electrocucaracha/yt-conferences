@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Privacy as Infrastructure: Declarative Data Protection fo... Joaquin Rodriguez
+  & Krishnendu Dasgupta"
+nav_order: 246
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Privacy as Infrastructure: Declarative Data Protection fo... Joaquin Rodriguez & Krishnendu Dasgupta"
-description: "In this presentation, Hain Rodriguez and Krishna Dazgupta Kish discuss the challenges of protecting sensitive data when using AI and large language models (LLMs) in Kubernetes environments, particularly the risks of unintentionally exposing..."
+description:
+  In this presentation, Hain Rodriguez and Krishna Dazgupta Kish discuss
+  the challenges of protecting sensitive data when using AI and large language models
+  (LLMs) in Kubernetes environments, particularly the risks of unintentionally exposing...
 resource: https://www.youtube.com/watch?v=mkAaguXm1ag
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They introduce a Kubernetes-first privacy architecture that leverages containeri
 The system uses open-source tools like Presidio for PII detection, supports detailed audit trails, and enables granular scaling and security through separate pods and tiers.
 The presenters also demonstrate an eight-stage pipeline for secure code generation and execution, including privacy checks, static analysis, and sandboxing, and showcase an observability dashboard for monitoring privacy and security events.
 The solution is designed for scalability and ease of deployment, with support for various AI models and hardware, and will be released as open source for broader adoption.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                           |

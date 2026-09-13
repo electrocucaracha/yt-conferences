@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Five Minutes by CloudNativePG River - Gabriele Quaresima,
+  Contributor"
+nav_order: 261
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Five Minutes by CloudNativePG River - Gabriele Quaresima, Contributor"
-description: "Gabriel Quarisima, a staff engineer and CloudNativePG contributor, introduces CloudNativePG, an open-source operator designed to manage PostgreSQL workloads on any supported Kubernetes cluster. He explains that CloudNativePG, a CNCF sandbox..."
+description:
+  Gabriel Quarisima, a staff engineer and CloudNativePG contributor, introduces
+  CloudNativePG, an open-source operator designed to manage PostgreSQL workloads on
+  any supported Kubernetes cluster. He explains that CloudNativePG, a CNCF sandbox...
 resource: https://www.youtube.com/watch?v=Cwz7WAOtr6w
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that CloudNativePG, a CNCF sandbox project, defines a new Kubernetes
 The operator offers features such as direct Kubernetes API integration, high availability, scalable replica management, declarative configuration, backup and recovery via volume snapshots or object stores, and a kubectl plugin for cluster management.
 Recent enhancements include declarative databases, logical replication, support for custom backup systems, major PostgreSQL upgrades, and declarative loading of extensions.
 Gabriel invites the community to join CloudNativePG on various platforms and attend related talks and events.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                          |

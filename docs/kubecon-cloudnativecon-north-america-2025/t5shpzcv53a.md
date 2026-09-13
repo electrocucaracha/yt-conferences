@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tuning GenAI Workloads on Kubernetes: What Actually Works (and Wha... Ishaan
+  Sehgal & Brian Lockwood"
+nav_order: 321
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Tuning GenAI Workloads on Kubernetes: What Actually Works (and Wha... Ishaan Sehgal & Brian Lockwood"
-description: "In this presentation, Ean and Brian discuss optimizing generative AI (GenAI) workloads on Kubernetes, focusing on the challenges and solutions for deploying large language models (LLMs) as their sizes and resource demands grow. They introdu..."
+description:
+  In this presentation, Ean and Brian discuss optimizing generative AI
+  (GenAI) workloads on Kubernetes, focusing on the challenges and solutions for deploying
+  large language models (LLMs) as their sizes and resource demands grow. They introdu...
 resource: https://www.youtube.com/watch?v=t5shPzCV53A
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They introduce Kaido, a lightweight Kubernetes controller designed to streamline
 Through their collaborative experiments—using Kaido for deployment and Skyhook for OS tuning—they found that while tuning certain Linux parameters did not yield performance improvements for their GPU-bound workloads, the process was made accessible and efficient by these tools.
 They emphasize the importance of profiling workloads before tuning, note the limitations of their experiments (such as single-node, single-GPU setups), and highlight additional Skyhook use cases like security and cluster customization.
 The session concludes with a discussion on future developments for Skyhook and the growing need for such orchestration tools as AI agents become more prevalent and complex.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                          |

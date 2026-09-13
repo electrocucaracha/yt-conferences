@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lima Project Updates: Expanding the Focus To Hardening AI - Akihiro Suda,
+  NTT & Anshuman Sahoo"
+nav_order: 211
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Lima Project Updates: Expanding the Focus To Hardening AI - Akihiro Suda, NTT & Anshuman Sahoo"
-description: "The video features maintainers of the Lima project discussing recent updates and the project's evolution. Originally designed to optimize Linux virtual machines for running containers on macOS, Lima now supports multiple host and guest oper..."
+description:
+  The video features maintainers of the Lima project discussing recent
+  updates and the project's evolution. Originally designed to optimize Linux virtual
+  machines for running containers on macOS, Lima now supports multiple host and guest
+  oper...
 resource: https://www.youtube.com/watch?v=Cb5gGTFS5M0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Originally designed to optimize Linux virtual machines for running containers on
 Recent releases have expanded Lima’s capabilities to include sandboxing AI agents, GPU acceleration, and enhanced security features such as sync mode, which allows users to review and approve changes before syncing files between guest and host, protecting against malicious AI actions.
 The project has introduced a plugin infrastructure for extensibility, supports various container engines, and is widely adopted in the developer community, with integrations into third-party tools and use cases in CI environments.
 Looking ahead, the team aims to further improve user experience, add more VM drivers, and extend support for AI workloads across more platforms.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                      |

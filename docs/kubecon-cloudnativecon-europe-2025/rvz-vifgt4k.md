@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Strengthening Auth in Kubernetes: Image Pulling, DRA Admin Acces... Rita Zhang
+  & Stanislav Láznička"
+nav_order: 321
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Strengthening Auth in Kubernetes: Image Pulling, DRA Admin Acces... Rita Zhang & Stanislav Láznička"
-description: "Microsoft engineer Rita discusses updates in SIG O for a and authorization, including graduated features such as service account token improvements, cluster trust bundles, fine-grained cublet API authorization, and external signing for serv..."
+description:
+  Microsoft engineer Rita discusses updates in SIG O for a and authorization,
+  including graduated features such as service account token improvements, cluster
+  trust bundles, fine-grained cublet API authorization, and external signing for serv...
 resource: https://www.youtube.com/watch?v=rVz-vIFGT4k
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ Microsoft engineer Rita discusses updates in SIG O for a and authorization, incl
 These features aim to improve security, reduce reliance on long-lived secrets, and enhance resource allocation.
 The SIG O team has worked on various projects, including the development of a new certificate feature that allows easy minting of client certificates for service accounts.
 The team also plans to introduce additional features in future releases, including hardened of cubat 7 ser validation and PSA restrictions for probes host fields.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

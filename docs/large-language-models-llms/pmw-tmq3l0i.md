@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 5 - LLM tuning
+nav_order: 5
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 5 - LLM tuning"
-description: "In this lecture, the instructor reviews the process of tuning large language models (LLMs), focusing on the stages beyond pre-training and supervised fine-tuning (SFT). After pre-training teaches the model general language and code patterns..."
+description:
+  In this lecture, the instructor reviews the process of tuning large language
+  models (LLMs), focusing on the stages beyond pre-training and supervised fine-tuning
+  (SFT). After pre-training teaches the model general language and code patterns...
 resource: https://www.youtube.com/watch?v=PmW_TMQ3l0I
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ To address this, a third stage called preference tuning is introduced, where mod
 The lecture explains how reinforcement learning from human feedback (RLHF) uses a reward model trained on these preferences to further align the LLM, employing algorithms like Proximal Policy Optimization (PPO) to balance reward maximization with staying close to the base model and avoid issues like reward hacking.
 The instructor also discusses practical alternatives such as "best of n" selection and Direct Preference Optimization (DPO), which directly optimizes model weights using preference pairs without a separate reward model, offering a simpler but sometimes less optimal approach.
 Throughout, the lecture highlights the trade-offs, challenges, and practical considerations in aligning LLMs with nuanced human values and preferences.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

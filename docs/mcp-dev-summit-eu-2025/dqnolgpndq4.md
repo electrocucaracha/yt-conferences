@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] MCP Registry: The Path To (De-)Centralizing Discovery"
-description: "The video discusses the MCP registry, emphasizing its role in enabling decentralized discovery rather than centralizing all MCP server information. Tatis and Toby, two of the four maintainers, explain that the registry is a community-led, o..."
+nav_order: 10
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  The video discusses the MCP registry, emphasizing its role in enabling
+  decentralized discovery rather than centralizing all MCP server information. Tatis
+  and Toby, two of the four maintainers, explain that the registry is a community-led,
+  o...
 resource: https://www.youtube.com/watch?v=dQnolGPNdQ4
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Tatis and Toby, two of the four maintainers, explain that the registry is a comm
 The core innovation is the standardized server.json file, which provides a consistent way to define server identity, capabilities, location, and configuration, simplifying publication and integration for both server maintainers and MCP client developers.
 The architecture supports subregistries, allowing different organizations or products to curate and augment the upstream data for their specific needs, fostering a flexible ecosystem.
 A live demo illustrates how publishing a server via CI/CD or command-line tools propagates updates through the registry and into subregistries, streamlining server discovery and configuration across the MCP landscape.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

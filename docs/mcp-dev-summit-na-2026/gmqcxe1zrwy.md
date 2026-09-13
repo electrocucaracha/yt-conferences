@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Clients? Servers? Agents? The Beautiful Asymmetry of the MCP Spec - Rohit Ganguly,
+  Descope
+nav_order: 8
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Clients? Servers? Agents? The Beautiful Asymmetry of the MCP Spec - Rohit Ganguly, Descope"
-description: "Rohit’s talk explores the asymmetry and evolving possibilities of the MCP (Model Control Protocol) specification, focusing on the dynamic relationships between clients, servers, and agents. Drawing from his experience at Dcope and Microsoft..."
+description:
+  Rohit’s talk explores the asymmetry and evolving possibilities of the
+  MCP (Model Control Protocol) specification, focusing on the dynamic relationships
+  between clients, servers, and agents. Drawing from his experience at Dcope and Microsoft...
 resource: https://www.youtube.com/watch?v=GMQCXe1zrWY
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Drawing from his experience at Dcope and Microsoft, he outlines how MCP structur
 Rohit discusses the agent-to-agent paradigm, where agents act as both clients and servers, enabling more complex, autonomous, and cross-boundary workflows, though this introduces challenges around authorization, context management, and dynamic discovery.
 He highlights ongoing developments such as enterprise-managed authorization, server cards for runtime discovery, nested task execution, and event-driven updates, all aimed at addressing MCP’s current limitations as agents become more autonomous and interconnected.
 Ultimately, Rohit encourages experimentation with MCP’s flexible architecture, noting that as agents expose more server-like functionality, new opportunities and pricing models emerge, and the protocol continues to adapt to these innovative use cases.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

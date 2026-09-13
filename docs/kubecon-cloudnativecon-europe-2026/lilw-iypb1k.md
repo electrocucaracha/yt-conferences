@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Emissary-ingress: Version 4 and What Comes Next - Flynn, Buoyant"
-description: "Flynn from Buoyant led a session discussing the release of Emissary 4.0.1, emphasizing the importance of upgrading from version 3.10 due to known bugs and security flaws in the older Envoy version, as no further Emissary 3 releases will occ..."
+nav_order: 99
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Flynn from Buoyant led a session discussing the release of Emissary 4.0.1,
+  emphasizing the importance of upgrading from version 3.10 due to known bugs and
+  security flaws in the older Envoy version, as no further Emissary 3 releases will
+  occ...
 resource: https://www.youtube.com/watch?v=LIlW-iYpB1k
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He highlighted that Emissary 4 makes it much easier to update dependencies and t
 Flynn encouraged community involvement to sustain the project, noting that only a small team currently maintains it, and outlined future improvements for Emissary 5, such as migrating to Go and updating API groups.
 He addressed concerns about the conversion webhook and storage version migration, mentioning plans to simplify these processes.
 The session concluded with a discussion on the project's transition from company to community stewardship, improvements in the release process, and a reaffirmation of the project's commitment to timely security updates.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

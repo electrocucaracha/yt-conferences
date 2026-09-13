@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: What's New In Kubernetes Storage - Xing Yang"
-description: "In this project lightning talk for SIG Storage, Shing Yang from VMware by Broadcom highlights recent developments and features. The team addressed the issue of recovering from resize failures, which previously left users unable to correct m..."
+nav_order: 242
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  In this project lightning talk for SIG Storage, Shing Yang from VMware
+  by Broadcom highlights recent developments and features. The team addressed the
+  issue of recovering from resize failures, which previously left users unable to
+  correct m...
 resource: https://www.youtube.com/watch?v=JhMwxRfi7Ho
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The team addressed the issue of recovering from resize failures, which previousl
 Another new feature, volume attributes class, enables users to modify certain volume parameters, such as IOPS or throughput, after provisioning—something not possible with immutable storage class parameters; this feature is also now generally available.
 Additionally, the team is working on consolidating multiple CSI sidecar containers into a single mono-repo to simplify releases and improve resource utilization, with the initial alpha targeted for Kubernetes 1.36.
 The talk concludes with an invitation for community involvement and information about related sessions at KubeCon.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

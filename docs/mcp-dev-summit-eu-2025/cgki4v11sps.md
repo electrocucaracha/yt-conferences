@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Improving Agentic Search with MCP Sessions with Matt Dailey - Ref"
-description: "Matt from Ref introduces Ref, a startup offering an MTP server designed as a documentation search tool for coding agents, which indexes both public and private docs to provide agents with only the relevant snippets needed, optimizing token..."
+nav_order: 8
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  Matt from Ref introduces Ref, a startup offering an MTP server designed
+  as a documentation search tool for coding agents, which indexes both public and
+  private docs to provide agents with only the relevant snippets needed, optimizing
+  token...
 resource: https://www.youtube.com/watch?v=cGki4V11sPs
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains that, unlike traditional search systems evaluated by precision and r
 Matt describes how Ref leverages MCP sessions to maintain state across searches, enabling features like prefetching, avoiding duplicate links, and chunking large documents to prevent context overload.
 He shares that these improvements result in significant token savings—up to 95% compared to other servers—while also discussing challenges with client fragmentation and session management due to differences in how clients handle session IDs.
 Matt concludes by encouraging attendees to connect with him, help promote Ref on developer tool pages, and engage in conversation, emphasizing the importance of understanding agent behavior to build effective MCP servers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

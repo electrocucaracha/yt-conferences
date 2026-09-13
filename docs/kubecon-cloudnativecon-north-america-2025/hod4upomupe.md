@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Unleash the Power of Inplace Pod Resource Resizing for Startup and Cost...
+  Zhang Zhen & Yuxing Yuan
+nav_order: 332
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Unleash the Power of Inplace Pod Resource Resizing for Startup and Cost... Zhang Zhen & Yuxing Yuan"
-description: "J from Alibaba Cloud, maintainer of the OpenKruise project, introduces in-place pod resizing, a feature enabling non-disruptive vertical autoscaling in Kubernetes, now in beta and available in recent releases. He discusses several use cases..."
+description:
+  J from Alibaba Cloud, maintainer of the OpenKruise project, introduces
+  in-place pod resizing, a feature enabling non-disruptive vertical autoscaling in
+  Kubernetes, now in beta and available in recent releases. He discusses several use
+  cases...
 resource: https://www.youtube.com/watch?v=Hod4UPoMUPE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He discusses several use cases, including emergency scaling during high-traffic 
 The talk also covers advanced vertical pod autoscaling (AVPA), which tracks short-term resource changes and applies scaling at the individual pod level, addressing issues with unbalanced workloads and hotspots.
 J explains integration with workload controllers in OpenKruise, JVM tuning guidelines for effective resizing, and challenges like invisible resizing and hot migration.
 He concludes with future plans for integrating AVPA with event-driven autoscaling and HPA, and answers audience questions on technical implementation, JVM checkpointing, metric support, and practical migration strategies.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                  |

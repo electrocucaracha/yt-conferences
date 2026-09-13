@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Evicted! All the Ways Kubernetes Kills Your Pods (and How To Avoid Them) -
+  Ahmet Alp Balkan
+nav_order: 70
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Evicted! All the Ways Kubernetes Kills Your Pods (and How To Avoid Them) - Ahmet Alp Balkan"
-description: "In this CubeCon presentation, Amad Al Palkin, who leads Kubernetes infrastructure at LinkedIn, discusses the internal mechanisms of Kubernetes that can evict pods and potentially threaten application availability. Drawing from LinkedIn’s la..."
+description:
+  In this CubeCon presentation, Amad Al Palkin, who leads Kubernetes infrastructure
+  at LinkedIn, discusses the internal mechanisms of Kubernetes that can evict pods
+  and potentially threaten application availability. Drawing from LinkedIn’s la...
 resource: https://www.youtube.com/watch?v=jVwXcuNEDYE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Drawing from LinkedIn’s large-scale, bare-metal Kubernetes deployment, he expl
 He emphasizes that Kubernetes’ default eviction controls, like Pod Disruption Budgets (PDBs), are limited, especially for stateful workloads, and that many eviction paths do not honor PDBs or allow for graceful termination.
 Through a series of demos, he illustrates how different eviction scenarios play out and highlights the importance of understanding and tuning eviction settings, collecting audit logs, and possibly implementing custom eviction policies to maintain reliability.
 The talk concludes with practical advice on disaster recovery drills, adjusting toleration and eviction thresholds, and the need for deeper operational awareness when running Kubernetes at scale.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

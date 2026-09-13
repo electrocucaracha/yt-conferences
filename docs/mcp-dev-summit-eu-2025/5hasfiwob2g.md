@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] What are Profiles? A Proposed Foundational Feature of MCP Servers"
-description: "The speaker introduces their background in standards development and explains the challenges of enforcing specific policies within the broadly applicable MCP (Model Context Protocol) framework, especially given its use across diverse enterp..."
+nav_order: 6
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  The speaker introduces their background in standards development and
+  explains the challenges of enforcing specific policies within the broadly applicable
+  MCP (Model Context Protocol) framework, especially given its use across diverse
+  enterp...
 resource: https://www.youtube.com/watch?v=5HasfiWOB2g
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They propose the use of "profiles" as a solution, allowing organizations to mand
 Profiles are defined by unique URLs and can specify requirements such as authentication methods or token durations, and are discoverable via a well-known document on the server.
 The negotiation of profiles between clients and servers occurs during the initialization phase, enabling both parties to agree on which profiles to use or to terminate the connection if agreement isn't reached.
 This approach supports both standard and custom profiles, allows SaaS providers to serve multiple tenants with different requirements, and can be used to differentiate service tiers in consumer applications, thus promoting flexible policy enforcement and broader MCP adoption.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                               |

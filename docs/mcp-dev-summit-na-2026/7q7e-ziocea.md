@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "When MCP Isn’t Enough: Product Decisions Behind Scalable Agent Systems - Cansu
+  Berkem, Datadog"
+nav_order: 106
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "When MCP Isn’t Enough: Product Decisions Behind Scalable Agent Systems - Cansu Berkem, Datadog"
-description: "In this session, John Su, Product Director at Datadog, discusses the journey of turning AI agent prototypes into production-ready products, focusing on the development and deployment of Datadog’s Bits AI agent for on-call engineers. He emph..."
+description:
+  In this session, John Su, Product Director at Datadog, discusses the
+  journey of turning AI agent prototypes into production-ready products, focusing
+  on the development and deployment of Datadog’s Bits AI agent for on-call engineers.
+  He emph...
 resource: https://www.youtube.com/watch?v=7q7e_zioCEA
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He emphasizes that while building agents is now technically easier, the real cha
 The team opted for a supervised autonomy model, allowing agents to investigate incidents but requiring human approval for actions, especially in high-risk or ambiguous scenarios.
 They found that adaptive, hypothesis-driven reasoning outperformed fixed workflows, and transparency—such as surfacing uncertainty and providing clear feedback mechanisms—was crucial for user trust and product improvement.
 Continuous feedback loops, careful experimentation with new models, and combining traditional ML with LLMs for different tasks were key strategies that enabled Bits to effectively assist thousands of engineers in real-world production environments.
+
 # Main Points
 
 |   # | Main point                                                                                                              |

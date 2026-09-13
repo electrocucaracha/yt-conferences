@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Kubernetes Data Protection WG Intro & Deep Dive - Dave Smith-Uchida, Veeam
+nav_order: 192
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Kubernetes Data Protection WG Intro & Deep Dive - Dave Smith-Uchida, Veeam"
-description: "The Kubernetes Data Protection Working Group session, led by Dave Smith and Shingyang, provided an in-depth overview of ongoing efforts to improve backup and restore capabilities for stateful workloads in Kubernetes. The group was formed to..."
+description:
+  The Kubernetes Data Protection Working Group session, led by Dave Smith
+  and Shingyang, provided an in-depth overview of ongoing efforts to improve backup
+  and restore capabilities for stateful workloads in Kubernetes. The group was formed
+  to...
 resource: https://www.youtube.com/watch?v=grE_GMC3PlI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The group was formed to address limitations in day-two operations, such as data 
 Key topics included the backup and restore workflows, the role of the Cozy project in standardizing object storage integration, and new features like consistent group snapshots and change block tracking, both targeting the Kubernetes 1.36 release.
 The session also discussed challenges in backing up applications managed by operators, emphasizing the need to understand resource dependencies, standardize quiescing and data protection operations, and handle complex scenarios involving multiple operators.
 The group is developing a white paper on best practices and invites community participation to further advance Kubernetes data protection solutions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  etcd V3.6.0 and etc... Benjamin Wang, Ivan Valdes Castillo, Siyuan Zhang, Arka
+  Saha & Ciprian Hacman
+nav_order: 378
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "etcd V3.6.0 and etc... Benjamin Wang, Ivan Valdes Castillo, Siyuan Zhang, Arka Saha & Ciprian Hacman"
-description: "The latest release of LCD 3.6.0 and LCD operator 0.1.0 introduce several key features, including migration to W3 store, grid L3.6.0 Zero, and feature gates. The new release aims to improve performance, security, and usability. Grid L3.6.0 Z..."
+description:
+  The latest release of LCD 3.6.0 and LCD operator 0.1.0 introduce several
+  key features, including migration to W3 store, grid L3.6.0 Zero, and feature gates.
+  The new release aims to improve performance, security, and usability. Grid L3.6.0
+  Z...
 resource: https://www.youtube.com/watch?v=_xoDbpm-Qks
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The new release aims to improve performance, security, and usability.
 Grid L3.6.0 Zero allows for downgrades from 3.6 to 3.5, while feature gates enable users to enable or disable features through a Kubernetes-style process.
 Additionally, the release introduces two new health check endpoints (live Z and ready Z) and improved performance metrics, including reduced memory usage.
 The LCD operator is also being developed with a focus on standardization and community adoption.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Skills Vs. MCP Vs. Code Mode: Cutting Through the Hype (and the Rage) - Nikolay
+  Rodionov, Alpic"
+nav_order: 83
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Skills Vs. MCP Vs. Code Mode: Cutting Through the Hype (and the Rage) - Nikolay Rodionov, Alpic"
-description: "Nikolai Roda from Alpic discusses recent debates around MCP (Model Capability Protocol), skills, code mode, and CLI, clarifying their roles and how they interact. He explains that code mode, introduced by Cloudflare, optimizes how MCP tools..."
+description:
+  Nikolai Roda from Alpic discusses recent debates around MCP (Model Capability
+  Protocol), skills, code mode, and CLI, clarifying their roles and how they interact.
+  He explains that code mode, introduced by Cloudflare, optimizes how MCP tools...
 resource: https://www.youtube.com/watch?v=DoedEqfI6Hg
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that code mode, introduced by Cloudflare, optimizes how MCP tools ar
 Skills, introduced by Anthropic, are reusable prompts stored in markdown files that guide models through tasks and can reference scripts or assets, excelling in progressive disclosure and multi-step workflows, but they do not provide tools themselves and are best suited for coding agents with terminal access.
 CLI tools are efficient and composable but lack accessibility and standardization for non-technical users.
 Roda concludes that MCP is not dead; rather, MCP, skills, and CLI each serve different purposes and are often complementary, with ongoing efforts to integrate skills more closely with MCP for enhanced usability and automation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                |

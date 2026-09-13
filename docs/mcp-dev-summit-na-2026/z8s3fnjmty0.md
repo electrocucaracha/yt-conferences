@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Interceptors for MCP: A Production-Tested Standard for Agentic Middl... Kurt
+  Degiorgio & Cannis Chan"
+nav_order: 39
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Interceptors for MCP: A Production-Tested Standard for Agentic Middl... Kurt Degiorgio & Cannis Chan"
-description: 'In this presentation, Kurt and Canis from Bloomberg introduce "interceptors," a proposed extension to the Model Context Protocol (MCP) designed to address the need for standardized context governance in agentic AI systems, particularly in h...'
+description:
+  In this presentation, Kurt and Canis from Bloomberg introduce "interceptors,"
+  a proposed extension to the Model Context Protocol (MCP) designed to address the
+  need for standardized context governance in agentic AI systems, particularly in
+  h...
 resource: https://www.youtube.com/watch?v=z8s3fNjMtY0
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that while MCP has enabled standardized connections between agents 
 Interceptors elevate middleware to a protocol-level primitive, allowing for standardized validation (validators) and transformation (mutators) of context both on the client and server sides.
 Practical examples include using validators to ensure AI-generated responses are properly cited and mutators to inject real-time market context into user queries, thereby enhancing trust, transparency, and relevance in Bloomberg’s conversational AI interface, ASPI.
 The presenters emphasize that interceptors provide a plug-and-play framework for enforcing governance and shaping context throughout the agentic lifecycle, and invite the community to contribute to the ongoing development and standardization of this approach.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

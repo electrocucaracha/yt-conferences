@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Beyond Guardrails: Resource Lifecycle Automation With
+  Kyverno - Ammar Yasser"
+nav_order: 253
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Beyond Guardrails: Resource Lifecycle Automation With Kyverno - Ammar Yasser"
-description: 'Luke Mowski, a maintainer for Keveno, presents on behalf of a colleague at CubeCon, explaining how Keveno has evolved beyond its original use for blocking bad configurations. Using the example of "namespace as a service," he describes how K...'
+description:
+  Luke Mowski, a maintainer for Keveno, presents on behalf of a colleague
+  at CubeCon, explaining how Keveno has evolved beyond its original use for blocking
+  bad configurations. Using the example of "namespace as a service," he describes
+  how K...
 resource: https://www.youtube.com/watch?v=F9AwR41FzGo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Using the example of "namespace as a service," he describes how Keveno now suppo
 Recent updates have introduced new policy types: mutating policies to modify resources before they are stored, generating policies to automatically create related resources, and deleting policies to automate cleanup, such as implementing TTL-based deletions.
 These YAML-based policies can be integrated into GitHub pipelines and repositories, providing auditable, code-free automation compared to custom controllers.
 Luke emphasizes that Keveno is now a comprehensive platform automation tool, not just a guardrail solution, and invites attendees to a deeper session at Kanukon.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                              |

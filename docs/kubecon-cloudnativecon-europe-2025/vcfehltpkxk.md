@@ -1,11 +1,19 @@
 ---
+layout: default
+title: Trino and Data Governance on Kubernetes - Sung Yun & Aki Sukegawa, Bloomberg
+nav_order: 346
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Trino and Data Governance on Kubernetes - Sung Yun & Aki Sukegawa, Bloomberg"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=vCfehltPKxk
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +22,7 @@ Here is a summary of the video transcript in 3-5 sentences: Bloomberg deployed T
 The company built a managed Trino as a service platform that applies authorization checks at runtime using Open Policy Agent (OPA) and Kubernetes Custom Resources (CRDs).
 This allows data owners to share data access configurations without exposing credentials, while also enabling service owners to control compute access for users.
 The platform is designed to support multi-tenancy, scalability, and security, with plans to introduce a Trino gateway to enable intelligent workload balancing and stability during maintenance operations or data center outages.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                |

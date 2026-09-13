@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: PipeCDv1 Is Here! Leverage The Power Of Plugin Architecture
+  - Khanh Tran"
+nav_order: 286
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: PipeCDv1 Is Here! Leverage The Power Of Plugin Architecture - Khanh Tran"
-description: "Kang, a software engineer at Season and maintainer of the PICD project, provides an update on PICD, a GitOps-style progressive delivery platform supporting multiple application platforms such as Kubernetes, Terraform, ECS, Lambda, and GCP C..."
+description:
+  Kang, a software engineer at Season and maintainer of the PICD project,
+  provides an update on PICD, a GitOps-style progressive delivery platform supporting
+  multiple application platforms such as Kubernetes, Terraform, ECS, Lambda, and GCP
+  C...
 resource: https://www.youtube.com/watch?v=hO3xdy2fiK4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The architecture consists of a control plane managing deployment data and a pipe
 With the recent v1 release, platform-specific code has been separated into plug-ins, improving modularity and ease of configuration, and the app configuration abstraction has been rebuilt for better usability.
 Migration tools and documentation are available for users upgrading from earlier versions, and several plug-ins, including Kubernetes multicluster support, are in development or already released.
 Kang encourages community involvement through meetings, documentation, and the community plug-in repository.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

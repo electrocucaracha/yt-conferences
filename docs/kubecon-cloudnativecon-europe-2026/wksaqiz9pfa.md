@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Platform Engineering 2.0: Just-Enough Kubernetes and AI-Native DevOps - Shweta
+  Vohra, Booking.com"
+nav_order: 243
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Platform Engineering 2.0: Just-Enough Kubernetes and AI-Native DevOps - Shweta Vohra, Booking.com"
-description: 'In this talk, Shuah, lead architect at Booking.com, explores the true meaning of platform engineering, emphasizing that the term "platform" is often misunderstood and misapplied across organizations. Drawing from personal experience, Shuah...'
+description:
+  In this talk, Shuah, lead architect at Booking.com, explores the true
+  meaning of platform engineering, emphasizing that the term "platform" is often misunderstood
+  and misapplied across organizations. Drawing from personal experience, Shuah...
 resource: https://www.youtube.com/watch?v=WksAqIZ9PFA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Using examples like Netflix and Linux, Shuah illustrates how successful platform
 The talk introduces the "V arise" model, outlining five essential platform qualities: adaptability, repeatability, integrability, self-sufficiency, and ecosystem enablement.
 Shuah contrasts platform engineering 1.0, which focused on scaling infrastructure and often led to increased complexity, with platform engineering 2.0, which centers on scaling capabilities, reducing cognitive load, and exposing only necessary infrastructure details to developers.
 The session concludes with practical advice, a discussion of lean infrastructure using K3S clusters, and a reminder that not every organization needs a platform—only those with foundational needs that can simplify and empower their ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                        |

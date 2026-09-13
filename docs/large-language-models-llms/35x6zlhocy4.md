@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 10 - Post-training
+  by Archit Sharma"
+nav_order: 12
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 10 - Post-training by Archit Sharma"
-description: "In this lecture, Archa Sharma, a Stanford PhD student, provides an overview of the post-training processes that transform large pre-trained language models into advanced systems like ChatGPT. She explains how the field has rapidly evolved..."
+description:
+  In this lecture, Archa Sharma, a Stanford PhD student, provides an overview
+  of the post-training processes that transform large pre-trained language models
+  into advanced systems like ChatGPT. She explains how the field has rapidly evolved...
 resource: https://www.youtube.com/watch?v=35X6zlhoCy4
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ She explains how the field has rapidly evolved, with models now trained on trill
 The lecture covers the journey from basic next-token prediction to more sophisticated capabilities through techniques such as zero-shot and few-shot prompting, instruction fine-tuning, and optimizing for human preferences using reinforcement learning from human feedback (RLHF) and direct preference optimization (DPO).
 Sharma highlights how scaling up models and data leads to emergent abilities like reasoning, code generation, and creative tasks, but also discusses the challenges of aligning models with user intent, the limitations of supervised fine-tuning, and the complexities of reward modeling.
 She concludes by emphasizing the importance of careful data curation and optimization strategies in building models that are both powerful and responsive to human preferences, noting the ongoing progress and challenges in the field.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

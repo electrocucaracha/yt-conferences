@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Knative Project Update - Dave Protasowski, Independent
+nav_order: 135
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Knative Project Update - Dave Protasowski, Independent"
-description: "Dave, a full-time Knative maintainer and serving lead, provides an update on the Knative project, highlighting its role in simplifying Kubernetes for app developers through three main components: functions, serving, and eventing. He demonst..."
+description:
+  "Dave, a full-time Knative maintainer and serving lead, provides an update
+  on the Knative project, highlighting its role in simplifying Kubernetes for app
+  developers through three main components: functions, serving, and eventing. He demonst..."
 resource: https://www.youtube.com/watch?v=lV16ujEiLIs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He demonstrates how Knative Functions enables easy creation, local testing, and 
 The eventing component is showcased through a demo where decoupled services process and respond to events, illustrating flexible integrations and routing.
 Dave also introduces an experimental integration with the Model Context Protocol (MCP), showing how Knative services can dynamically register as tools for AI workflows.
 The presentation concludes with project updates, including Knative’s recent graduation, new features like Gateway API support, OpenTelemetry migration, enhanced security, and community engagement opportunities.
+
 # Main Points
 
 |   # | Main point                                                                                            |

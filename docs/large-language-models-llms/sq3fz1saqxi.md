@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 1: Overview
+  and Tokenization"
+nav_order: 16
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 1: Overview and Tokenization"
-description: 'The CS 336 course, "Language Models from Scratch," is designed to provide students with a comprehensive, hands-on understanding of the entire language modeling pipeline, from data processing and tokenization to model architecture, training...'
+description:
+  The CS 336 course, "Language Models from Scratch," is designed to provide
+  students with a comprehensive, hands-on understanding of the entire language modeling
+  pipeline, from data processing and tokenization to model architecture, training...
 resource: https://www.youtube.com/watch?v=SQ3fZ1sAqXI
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The instructors emphasize the importance of building models from the ground up t
 The course is structured into five main units—basics, systems, scaling laws, data, and alignment—each with challenging assignments that require students to implement core components without scaffolding, benchmark efficiency, and make design decisions reflective of real-world constraints.
 Students will learn about the evolution of language models, the significance of efficiency in both hardware and algorithms, and the practical challenges of working with large-scale data and compute resources.
 While the course is demanding and not focused on the latest techniques or training frontier-scale models, it aims to equip students with the foundational skills and mindset needed to innovate and build robust machine learning systems, with all materials and lectures made available online for broader access.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                       |

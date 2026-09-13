@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Smart Routing at Scale: How Spotify’s XDS Control Plane Cut 75%... Yannick
+  Epstein & Anya Hristova"
+nav_order: 334
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Smart Routing at Scale: How Spotify’s XDS Control Plane Cut 75%... Yannick Epstein & Anya Hristova"
-description: "In this CubeCon presentation, Ana Christoa and Yanikai from Spotify describe how they reduced cross-zone egress costs by 75% using an XDS-based control plane for service discovery and routing. They explain the challenges of optimizing traff..."
+description:
+  In this CubeCon presentation, Ana Christoa and Yanikai from Spotify describe
+  how they reduced cross-zone egress costs by 75% using an XDS-based control plane
+  for service discovery and routing. They explain the challenges of optimizing traff...
 resource: https://www.youtube.com/watch?v=oFdW1yAoaHc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Initially, Spotify used DNS-based service discovery and a custom load balancer (
 By adopting XDS, they implemented a two-level routing system that uses real-time load reports to dynamically assign traffic weights to zones, maximizing same-zone traffic without overloading any zone.
 They further improved reliability by developing a dynamic capacity model that accounts for real server capacity and slow-starting instances, addressing issues encountered in production.
 The result was a significant reduction in cross-zone traffic and costs, with the new system proving robust even during scaling events and failures.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

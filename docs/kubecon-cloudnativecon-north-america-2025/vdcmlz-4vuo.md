@@ -1,17 +1,32 @@
 ---
+layout: default
+title:
+  "Istio Project Updates: AI Inference, Ambient Multicluster & Default Deny -
+  Keith Mattix, Microsoft"
+nav_order: 111
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Istio Project Updates: AI Inference, Ambient Multicluster & Default Deny - Keith Mattix, Microsoft"
-description: "Keith, a principal engineer at Microsoft and member of the SEO technical oversight committee, presents updates on the SEO project, focusing on integrating AI workloads with Kubernetes using the new Gateway API Inference Extension. This exte..."
+description:
+  Keith, a principal engineer at Microsoft and member of the SEO technical
+  oversight committee, presents updates on the SEO project, focusing on integrating
+  AI workloads with Kubernetes using the new Gateway API Inference Extension. This
+  exte...
 resource: https://www.youtube.com/watch?v=vdCMLZ-4vUo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
 
 Keith, a principal engineer at Microsoft and member of the SEO technical oversight committee, presents updates on the SEO project, focusing on integrating AI workloads with Kubernetes using the new Gateway API Inference Extension.
 This exte...
+
 # Main Points
 
 |   # | Main point                                        |

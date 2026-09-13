@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Automating and Scaling of Threat Modelling for Cloud Native Archit... Hanna
+  Papirna & Emma Yuan Fang
+nav_order: 23
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Automating and Scaling of Threat Modelling for Cloud Native Archit... Hanna Papirna & Emma Yuan Fang"
-description: "Emma and Hannah from EPAM Systems discuss the complexities of threat modeling in cloud-native environments, highlighting the challenges posed by numerous attack surfaces, dynamic trust boundaries, and distributed microservices. They critiqu..."
+description:
+  Emma and Hannah from EPAM Systems discuss the complexities of threat
+  modeling in cloud-native environments, highlighting the challenges posed by numerous
+  attack surfaces, dynamic trust boundaries, and distributed microservices. They critiqu...
 resource: https://www.youtube.com/watch?v=GGdc0vihJOI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They critique traditional frameworks like STRIDE for their limitations in modern
 The speakers demonstrate how to map threat actors to attack vectors, use the DREAD framework for risk evaluation, and emphasize the importance of automating threat modeling through "threat modeling as code" integrated into CI/CD pipelines.
 They also showcase an AI-assisted tool, STRIDE GPT, illustrating how block-focused prompting yields more actionable threat models than generic approaches, while noting that some human judgment remains essential.
 The session concludes by encouraging further discussion on advancing cloud-native threat modeling practices.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

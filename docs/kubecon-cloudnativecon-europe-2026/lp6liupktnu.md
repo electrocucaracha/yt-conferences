@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Lightning Talk: The $100K GPU Mystery: Why Your AI Training Dies at 99% -
+  Michael Ifeanyi, Google"
+nav_order: 209
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Lightning Talk: The $100K GPU Mystery: Why Your AI Training Dies at 99% - Michael Ifeanyi, Google"
-description: "In this presentation, Mike Elifi, a technical solutions engineer at Google, explains why AI training jobs can crash at 99% completion despite GPU monitoring tools like Nvidia SMI showing available memory. The root cause is memory fragmentat..."
+description:
+  In this presentation, Mike Elifi, a technical solutions engineer at Google,
+  explains why AI training jobs can crash at 99% completion despite GPU monitoring
+  tools like Nvidia SMI showing available memory. The root cause is memory fragmentat...
 resource: https://www.youtube.com/watch?v=lp6LiupKtnU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The root cause is memory fragmentation: while Nvidia SMI reports total free memo
 Using a parking lot analogy, Mike illustrates that fragmented memory blocks, though collectively sufficient in size, cannot be used for a single large allocation, leading to out-of-memory errors.
 He recommends monitoring fragmentation using the torch.cuda memory stats API, reducing memory pressure through smaller batch sizes, gradient checkpointing, or mixed precision, and deploying observability tools or draining nodes with proper checkpointing to manage fragmentation.
 The key takeaways are to recognize Nvidia SMI’s limitations, understand how fragmentation accumulates during training, and consistently monitor for fragmentation to prevent job failures.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

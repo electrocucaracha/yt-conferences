@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Container2Wasm: Running Containers On Wasm Environments
+  - Kohei Tokunaga"
+nav_order: 257
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Container2Wasm: Running Containers On Wasm Environments - Kohei Tokunaga"
-description: "Koh Tokunaga from NT Inc. presented recent updates on the Container to Wasum (C2W) project, a CNCF sandbox tool that enables running Linux-based containers in WASM environments, including WASM runtimes and browsers, using WASM-compiled CPU..."
+description:
+  Koh Tokunaga from NT Inc. presented recent updates on the Container to
+  Wasum (C2W) project, a CNCF sandbox tool that enables running Linux-based containers
+  in WASM environments, including WASM runtimes and browsers, using WASM-compiled
+  CPU...
 resource: https://www.youtube.com/watch?v=z5NlfWd9p60
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ A significant improvement is the integration of a QEMU-based JIT compilation bac
 The project is also exploring use cases such as running LLM agents fully inside browsers, demonstrated with an experimental VS Code extension that allows LLMs to create, modify, and test code within Linux containers in-browser, without host execution.
 This extension supports features like workspace file access, shell command execution, and distributed inference via WebRTC.
 Attendees interested in further details about C2W’s QEMU integration and browser-based LLM agents are invited to visit their booth.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                              |

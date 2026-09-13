@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Defusing the Kubernetes API Performance Minefield - Madhav Jivrajani & Marek
+  Siarkowicz
+nav_order: 71
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Defusing the Kubernetes API Performance Minefield - Madhav Jivrajani & Marek Siarkowicz"
-description: "Marik Sharkovich, SIG lead of ATC and contributor to API machinery, discusses the challenges of Kubernetes API performance. He highlights the issue of CRDs and operators causing memory spikes due to their lack of scalability testing, leadin..."
+description:
+  Marik Sharkovich, SIG lead of ATC and contributor to API machinery, discusses
+  the challenges of Kubernetes API performance. He highlights the issue of CRDs and
+  operators causing memory spikes due to their lack of scalability testing, leadin...
 resource: https://www.youtube.com/watch?v=SdLLOcNZN5E
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ Marik Sharkovich, SIG lead of ATC and contributor to API machinery, discusses th
 He highlights the issue of CRDs and operators causing memory spikes due to their lack of scalability testing, leading to problems like the one he experienced on GKE where a small cluster's memory spiked 20 times.
 To address this, Marik proposes using caching, resource versioning, and list from snapshot features, which are now available in Kubernetes 1.31 and 1.33, respectively.
 These features aim to improve performance by reducing allocations and making it easier for users to manage resources without having to write their own API servers.
+
 # Main Points
 
 |   # | Main point                                                                                                                               |

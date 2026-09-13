@@ -1,11 +1,22 @@
 ---
+layout: default
+title: AI-Powered Software Development From the Trenches • Henrik Kniberg • GOTO 2024
+nav_order: 7
+parent: Developer Productivity
 type: Video Note
-title: "AI-Powered Software Development From the Trenches • Henrik Kniberg • GOTO 2024"
-description: "The speaker discusses the hype surrounding AI, comparing it to the internet bubble of the 90s. They argue that while AI has the potential to revolutionize industries, it's also overhyped and can lead to unemployment if people don't adapt. T..."
+description:
+  The speaker discusses the hype surrounding AI, comparing it to the internet
+  bubble of the 90s. They argue that while AI has the potential to revolutionize industries,
+  it's also overhyped and can lead to unemployment if people don't adapt. T...
 resource: https://www.youtube.com/watch?v=NYixq2MIRPU
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They argue that while AI has the potential to revolutionize industries, it's als
 The speaker shares their experience with using AI tools like Curser and ChatGPT to build a game, highlighting how these tools can save time and improve productivity.
 However, they also caution that relying too heavily on AI can lead to technical debt and that developers need to learn new skills, such as prompt engineering, to work effectively with AI.
 The speaker concludes that while AI is not a replacement for human developers, it's a tool that can augment their abilities and help them become more productive.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

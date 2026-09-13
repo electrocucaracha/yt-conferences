@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "API-Driven Infrastructure as Code: Kubernetes APIs as the Con... Florian Hopfensperger
+  & Yury Tsarev"
+nav_order: 12
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "API-Driven Infrastructure as Code: Kubernetes APIs as the Con... Florian Hopfensperger & Yury Tsarev"
-description: "In this talk, Florian Hoffinsburgger and Yuri from Abound discuss building API-driven infrastructure using Kubernetes APIs as a contract bridge between internal teams. They describe their platform, which enables multiple product teams to of..."
+description:
+  In this talk, Florian Hoffinsburgger and Yuri from Abound discuss building
+  API-driven infrastructure using Kubernetes APIs as a contract bridge between internal
+  teams. They describe their platform, which enables multiple product teams to of...
 resource: https://www.youtube.com/watch?v=X2URIOhA6_g
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They describe their platform, which enables multiple product teams to offer auto
 The presenters emphasize the importance of well-defined API contracts to address challenges such as unclear ownership, tightly coupled super compositions, breaking changes, and documentation drift.
 They demonstrate how strong API contracts facilitate loose coupling between teams, enable automated testing and validation, and support scalable, reliable infrastructure provisioning.
 The session concludes with lessons learned, including the value of clear contract boundaries, careful versioning, documentation as code, and robust testing practices, as well as a Q&A addressing topics like resource sharing, versioning strategies, migration to Crossplane v2, and disaster recovery.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

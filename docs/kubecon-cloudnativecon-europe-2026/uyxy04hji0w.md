@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Solving Industrial Challenges With KubeEdge: A Post-Graduation... Yue Bao,
+  Hongbing Zhang & Yin Ding"
+nav_order: 337
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Solving Industrial Challenges With KubeEdge: A Post-Graduation... Yue Bao, Hongbing Zhang & Yin Ding"
-description: "The video presents an overview of the Kubedge project, which addresses industry challenges in cloud-edge coordination using Kubernetes. The speakers, Inding and Honging, describe Kubedge’s decade-long journey from its inception in 2018, thr..."
+description:
+  The video presents an overview of the Kubedge project, which addresses
+  industry challenges in cloud-edge coordination using Kubernetes. The speakers, Inding
+  and Honging, describe Kubedge’s decade-long journey from its inception in 2018,
+  thr...
 resource: https://www.youtube.com/watch?v=uYxY04HJI0w
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Kubedge enables deployment of Kubernetes control planes in the cloud while manag
 The project supports mainstream AI frameworks and advanced features such as federated learning and joint inference, allowing sensitive data to remain at the edge and leveraging both edge and cloud resources for AI tasks.
 Several real-world case studies are highlighted, including satellite data processing, large-scale expressway toll systems, new energy vehicles, smart retail, and collaborative robotics, demonstrating Kubedge’s versatility across industries.
 The speakers also emphasize the importance of open governance, industry-academic partnerships, community engagement, and mentorship in building a thriving open-source ecosystem for Kubedge.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

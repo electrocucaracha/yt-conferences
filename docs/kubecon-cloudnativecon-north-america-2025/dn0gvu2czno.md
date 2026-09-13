@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Where’s My Pod? End-to-End Tracing for Kubernetes With OpenTelemetry - Artem
+  Tkachuk & JP Phillips
+nav_order: 341
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Where’s My Pod? End-to-End Tracing for Kubernetes With OpenTelemetry - Artem Tkachuk & JP Phillips"
-description: "In this talk at CubeCon, JP and Artem from Netflix’s compute runtime team discuss their migration from a fully custom container data plane to a standard Kubernetes kubelet-based architecture, focusing on how enhanced observability and traci..."
+description:
+  In this talk at CubeCon, JP and Artem from Netflix’s compute runtime
+  team discuss their migration from a fully custom container data plane to a standard
+  Kubernetes kubelet-based architecture, focusing on how enhanced observability and
+  traci...
 resource: https://www.youtube.com/watch?v=Dn0gvU2Czno
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ In this talk at CubeCon, JP and Artem from Netflix’s compute runtime team disc
 They explain that as Netflix moved all containers to the new runtime, understanding and debugging issues quickly became essential for maintaining user confidence and ensuring a smooth migration.
 By instrumenting components such as containerd, CNI, and NRI, and implementing end-to-end and synthetic tracing, the team was able to identify and resolve complex issues—including performance bottlenecks and a subtle bug related to container image media types—while also empowering customers to self-diagnose problems.
 The speakers emphasize the value of detailed instrumentation, proactive trace analysis, and open-source collaboration, encouraging others to adopt similar observability practices to improve reliability and user experience in large-scale container environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                        |

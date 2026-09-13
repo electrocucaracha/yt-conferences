@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Policy Engines for Kubernetes: Picking One Without Losing Your Mind - Nabarun
+  Pal, Broadcom"
+nav_order: 245
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Policy Engines for Kubernetes: Picking One Without Losing Your Mind - Nabarun Pal, Broadcom"
-description: "In this talk, Nabarun discusses the complexities of policy enforcement in Kubernetes, emphasizing that while it may seem simple, real-world scenarios—such as compliance, cost control, and operational reliability—make it challenging, especia..."
+description:
+  In this talk, Nabarun discusses the complexities of policy enforcement
+  in Kubernetes, emphasizing that while it may seem simple, real-world scenarios—such
+  as compliance, cost control, and operational reliability—make it challenging, especia...
 resource: https://www.youtube.com/watch?v=y5rrfSZBm1A
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He reviews several policy enforcement solutions in the cloud native ecosystem: K
 He also briefly mentions Kubewarden, which leverages WebAssembly for language flexibility and distribution but is more specialized and less mature.
 Nabarun provides practical advice on selecting a policy engine based on needs such as mutation, image verification, and cross-platform support, and recommends starting with audit mode, planning for exceptions, and treating policy engines as critical infrastructure.
 He concludes that there is no universal best choice; teams should start simple, grow as needed, and always consider operational realities and future migration paths.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                   |

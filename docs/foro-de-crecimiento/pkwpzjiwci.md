@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "How to Grow Your Network Marketing | Lourdes Enriquez Growth Session #4"
-description: "En esta extensa entrevista, Lourdes Enríquez comparte su experiencia de 35 años en redes de mercadeo, relatando cómo este modelo de negocio transformó su vida al brindarle esperanza y una nueva perspectiva. Explica que el éxito en este camp..."
+nav_order: 48
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En esta extensa entrevista, Lourdes Enríquez comparte su experiencia
+  de 35 años en redes de mercadeo, relatando cómo este modelo de negocio transformó
+  su vida al brindarle esperanza y una nueva perspectiva. Explica que el éxito en
+  este camp...
 resource: https://www.youtube.com/watch?v=-pkWpzjIWcI
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ En esta extensa entrevista, Lourdes Enríquez comparte su experiencia de 35 año
 Explica que el éxito en este campo depende de tres pilares intangibles: soñar en grande para encontrar motivación, establecer metas claras que den dirección y comprometerse con la educación continua para romper con creencias limitantes.
 Lourdes enfatiza la importancia de la mentalidad, el trabajo en equipo y la actitud positiva, así como la necesidad de rodearse de personas con buena energía y de mantener un diálogo interno constructivo.
 Además, destaca que el crecimiento personal y profesional es un proceso constante, donde la persistencia emocional, la disciplina y el equilibrio entre la vida personal y laboral son fundamentales para alcanzar resultados duraderos y satisfactorios.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                         |

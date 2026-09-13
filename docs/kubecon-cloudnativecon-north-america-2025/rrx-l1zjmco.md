@@ -1,17 +1,31 @@
 ---
+layout: default
+title:
+  "OpenTelemetry: Unpacking 2025, Charti... Alolita Sharma, Morgan McLean, Josh
+  Suereth & Austin Parker"
+nav_order: 191
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "OpenTelemetry: Unpacking 2025, Charti... Alolita Sharma, Morgan McLean, Josh Suereth & Austin Parker"
-description: "In this session, leaders and contributors from the OpenTelemetry project provided an update on the project's growth, recent developments, and future roadmap. OpenTelemetry has seen significant expansion, with over 400 companies contributing..."
+description:
+  In this session, leaders and contributors from the OpenTelemetry project
+  provided an update on the project's growth, recent developments, and future roadmap.
+  OpenTelemetry has seen significant expansion, with over 400 companies contributing...
 resource: https://www.youtube.com/watch?v=RRX_L1ZjMco
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
 
 In this session, leaders and contributors from the OpenTelemetry project provided an update on the project's growth, recent developments, and future roadmap.
 OpenTelemetry has seen significant expansion, with over 400 companies contributing...
+
 # Main Points
 
 |   # | Main point                                        |

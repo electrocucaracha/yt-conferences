@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Scaling Platform Engineering: Lessons From Europe’s Larges... Cat M, Stéphane
+  C, Anna K & Gayathri T"
+nav_order: 325
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Scaling Platform Engineering: Lessons From Europe’s Larges... Cat M, Stéphane C, Anna K & Gayathri T"
-description: "The panel discussion focused on the challenges and strategies involved in scaling platform engineering within large organizations. Panelists shared their backgrounds and experiences, highlighting that scaling is often driven by increased us..."
+description:
+  The panel discussion focused on the challenges and strategies involved
+  in scaling platform engineering within large organizations. Panelists shared their
+  backgrounds and experiences, highlighting that scaling is often driven by increased
+  us...
 resource: https://www.youtube.com/watch?v=8JyvkE-8__8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ They emphasized that both technical and sociotechnical challenges arise, with co
 Lessons learned included the importance of avoiding monolithic automation frameworks, investing in multiple tailored "golden paths" for different user needs, and measuring platform success through KPIs and user feedback.
 The discussion also addressed the impact of AI on platform engineering, suggesting that AI can automate routine tasks and increase platform demands, making guardrails and explainability crucial.
 In closing, panelists advised focusing on user needs, recognizing and addressing bottlenecks, and maintaining flexibility and clear communication as platforms scale.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                         |

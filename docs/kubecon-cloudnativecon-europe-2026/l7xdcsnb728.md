@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Automate Once, Run Anywhere: The Docker Moment for Security Workflows - Nancy
+  Chauhan & Aseem Shrey"
+nav_order: 22
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Automate Once, Run Anywhere: The Docker Moment for Security Workflows - Nancy Chauhan & Aseem Shrey"
-description: 'The presenters introduce "Ships Studio," an open-source project designed to bring the robust practices of software engineering—such as observability, traceability, and modular workflows—to the field of security engineering, which often reli...'
+description:
+  The presenters introduce "Ships Studio," an open-source project designed
+  to bring the robust practices of software engineering—such as observability, traceability,
+  and modular workflows—to the field of security engineering, which often reli...
 resource: https://www.youtube.com/watch?v=l7XdCSNb728
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the common challenges faced by security teams at organizations of
 Ships Studio addresses these issues by providing a visual, drag-and-drop interface for building containerized security workflows, leveraging technologies like Temporal for reliable execution, ClickHouse for analytics, and Kafka for event streaming.
 The platform enables users to compose, version, and audit security workflows, integrate with existing tools like Prowler and Trivy, and share standardized workflows across teams, reducing vendor dependency and manual effort.
 The demo showcases how Ships Studio simplifies building and managing security automations, supports integration with CI/CD pipelines, and includes features for managing and routing security findings, ultimately aiming to make security automation more scalable, reliable, and accessible.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

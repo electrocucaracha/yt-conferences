@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Cloud Native University: How Kube... Michael Forrester
+  and Mumshad Mannambeth"
+nav_order: 46
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Cloud Native University: How Kube... Michael Forrester and Mumshad Mannambeth"
-description: "The presentation discusses how Kubernetes governs itself, focusing on its release cycle, governance structure, and ways to stay current and contribute. Kubernetes releases occur three times a year, and while knowledge may become slightly ou..."
+description:
+  The presentation discusses how Kubernetes governs itself, focusing on
+  its release cycle, governance structure, and ways to stay current and contribute.
+  Kubernetes releases occur three times a year, and while knowledge may become slightly
+  ou...
 resource: https://www.youtube.com/watch?v=_PzPt0dyPRU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Kubernetes releases occur three times a year, and while knowledge may become sli
 Governance is primarily managed by Special Interest Groups (SIGs), which handle most decision-making and code, while CNCF acts as an overarching organization and Technical Advisory Groups (TAGs) address broader ecosystem concerns.
 Feature proposals go through the Kubernetes Enhancement Proposal (KEP) process, typically requiring engagement with a relevant SIG, while bugs are reported via GitHub or, for security issues, by emailing the security team.
 To stay updated, the speakers recommend subscribing to resources like "Last Week in Kubernetes Development" and "Wisdom of the Cloud," and encourage joining the Kubernetes Slack and participating in SIGs or contributor programs, emphasizing that all skill levels are welcome and contributions of all kinds are valued.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |
@@ -27,7 +42,7 @@ To stay updated, the speakers recommend subscribing to resources like "Last Week
 |   6 | New features are proposed via the Kubernetes Enhancement Proposal (KEP) process; always coordinate with a relevant SIG.                       |
 |   7 | KEPs document feature proposals, their history, and implementation details; useful for understanding the "why" behind features.               |
 |   8 | Bug reports are filed via GitHub in the Kubernetes/kubernetes repository; eight required fields must be completed.                            |
-|   9 | Security vulnerabilities should be reported privately to security@kubernetes.io, including all relevant information.                          |
+|   9 | Security vulnerabilities should be reported privately to `security@kubernetes.io`, including all relevant information.                        |
 |  10 | For staying current, previous sources like Kube Weekly and Kubernetes Podcast have ended; recommended sources are:                            |
 |  11 | Last Week in Kubernetes Development (lwkd.info)                                                                                               |
 |  12 | Wisdom of the Cloud newsletter (via CNCF)                                                                                                     |

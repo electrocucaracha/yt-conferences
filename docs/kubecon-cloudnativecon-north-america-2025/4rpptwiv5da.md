@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Introducing k8gb: Kubernetes Native Global Load Balancing
+  Mad... Yury Tsarev"
+nav_order: 219
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Introducing k8gb: Kubernetes Native Global Load Balancing Mad... Yury Tsarev"
-description: "Yuri, the founder and maintainer of KGB (Kubernetes Global Balancer), introduces the project as a solution for seamless, reliable, and declarative global traffic management across distributed Kubernetes clusters. KGB enables workload resili..."
+description:
+  Yuri, the founder and maintainer of KGB (Kubernetes Global Balancer),
+  introduces the project as a solution for seamless, reliable, and declarative global
+  traffic management across distributed Kubernetes clusters. KGB enables workload
+  resili...
 resource: https://www.youtube.com/watch?v=4rpPTWIV5DA
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ KGB enables workload resilience by supporting multiple global load balancing str
 The system integrates components like embedded CoreDNS, ExternalDNS, and a KGB controller, and is managed through a simple custom resource, supporting various workload types and environments, including on-premises, cloud, and hybrid setups.
 KGB offers automated DNS zone delegation, supports major cloud providers, and has recently expanded to handle both L7 and L4 workloads.
 The project is currently in the CNCF sandbox, has growing community adoption, and invites users to participate, contribute, and join upcoming events and demos.
+
 # Main Points
 
 |   # | Main point                                                                                                         |

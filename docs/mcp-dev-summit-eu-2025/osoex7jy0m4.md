@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Streams, Sessions, Stats Transport and Client Behaviour in Practice"
-description: "Sean Smith from Hugging Face introduces his work on the MCP server and discusses various options for deploying streamable HTTP transport, focusing on session management, client behavior, and server configuration. He demonstrates how simple..."
+nav_order: 25
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  Sean Smith from Hugging Face introduces his work on the MCP server and
+  discusses various options for deploying streamable HTTP transport, focusing on session
+  management, client behavior, and server configuration. He demonstrates how simple...
 resource: https://www.youtube.com/watch?v=OSoEX7jY0m4
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He demonstrates how simple request-response setups can be enhanced with features
 Smith shares statistics from the Hugging Face server, noting a significant drop in traffic due to changes in client behavior and emphasizing the chatty nature of the MCP protocol, with many overhead calls compared to valuable tool calls.
 He advises caution when deploying advanced features like server-initiated requests in public environments due to challenges with connection management and timeout handling.
 Finally, Smith encourages participation in the MCP transports working group, mentioning ongoing efforts to make the protocol stateless by default for improved reliability and scalability.
+
 # Main Points
 
 |   # | Main point                                                                                                         |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "From GitOps to AIOps: Evolving RBI's Kubernetes Platform with Cross... Gabor
+  Horvath & Ewald Überall"
+nav_order: 118
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From GitOps to AIOps: Evolving RBI's Kubernetes Platform with Cross... Gabor Horvath & Ewald Überall"
-description: "In this session, Gabbor War and Evadar from Raiffeisen Bank International describe their team's transition from GitOps to AIOps using Crossplane and Sharded Cargo within their Mercury platform, which supports cloud-native applications acros..."
+description:
+  In this session, Gabbor War and Evadar from Raiffeisen Bank International
+  describe their team's transition from GitOps to AIOps using Crossplane and Sharded
+  Cargo within their Mercury platform, which supports cloud-native applications acros...
 resource: https://www.youtube.com/watch?v=cqDVeqLvh00
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They detail the platform's architecture, including its three service offerings�
 The team highlights their migration from Crossplane v1 to v2 to improve tenant visibility and resource management, outlining a three-step, largely autonomous migration process for customers, but noting the manual, error-prone nature of PR-based migrations.
 To address this, they developed an AI-assisted review system that analyzes pull requests and Argo CD application states, providing risk assessments and remediation guidance without automating the migration itself.
 The presenters emphasize the importance of treating infrastructure and application promotions differently due to their distinct risks, and advocate for AI as a supportive tool to enhance reliability and scalability in complex, multi-tenant cloud environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                   |

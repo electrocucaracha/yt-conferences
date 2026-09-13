@@ -1,11 +1,23 @@
 ---
+layout: default
+title: La Guía de Liderazgo que Cambiará Tu Forma de Ver el Mundo (por Pablo Chalakani)
+nav_order: 53
+parent: Foro De Crecimiento
 type: Video Note
-title: "La Guía de Liderazgo que Cambiará Tu Forma de Ver el Mundo (por Pablo Chalakani)"
-description: "El video explora la naturaleza del liderazgo, argumentando que un líder tanto nace con ciertas cualidades como se desarrolla a través de la práctica y el trabajo consciente. Se identifican tres pilares fundamentales para el liderazgo de alt..."
+description:
+  El video explora la naturaleza del liderazgo, argumentando que un líder
+  tanto nace con ciertas cualidades como se desarrolla a través de la práctica y el
+  trabajo consciente. Se identifican tres pilares fundamentales para el liderazgo
+  de alt...
 resource: https://www.youtube.com/watch?v=LVwQgTRu8Wo
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Se identifican tres pilares fundamentales para el liderazgo de alto impacto: el 
 Se enfatiza que el liderazgo es un proceso interno que requiere paciencia, ya que los resultados visibles pueden tardar en llegar, y que pequeños avances en estos pilares pueden generar cambios exponenciales.
 Además, se desmitifican creencias erróneas sobre el liderazgo, como pensar que es solo para unos pocos o que implica buscar seguidores, y se destaca la importancia de tener un propósito claro, trabajar en la autoconfianza mediante la visualización y entender que los problemas son oportunidades de crecimiento.
 Finalmente, se invita a ver el liderazgo como una habilidad que transforma no solo empresas, sino la vida personal, y cuyo verdadero sentido es servir y dejar un legado positivo en los demás.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

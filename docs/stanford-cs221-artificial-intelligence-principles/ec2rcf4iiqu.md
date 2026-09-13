@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 12: Bayesian Networks I"
-description: "The lecture begins by reviewing key concepts in artificial intelligence, including perception, reasoning, action, and learning, and distinguishes between model-free and model-based approaches to decision-making. It then introduces Bayesian..."
+nav_order: 3
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture begins by reviewing key concepts in artificial intelligence,
+  including perception, reasoning, action, and learning, and distinguishes between
+  model-free and model-based approaches to decision-making. It then introduces Bayesian...
 resource: https://www.youtube.com/watch?v=ec2rCf4iIqU
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ The instructor explains fundamental operations such as marginalization and condi
 The concept of "explaining away" is highlighted, showing how observing evidence can alter the dependencies between causes.
 The lecture also introduces probabilistic programming as an alternative way to define Bayesian networks, and discusses rejection sampling as a method for approximate probabilistic inference, noting its simplicity but inefficiency for rare events.
 The session concludes by emphasizing the interpretability, flexibility, and practical advantages of Bayesian networks for handling missing data, incorporating prior knowledge, and enabling causal reasoning, while previewing more efficient inference algorithms for future lectures.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                               |

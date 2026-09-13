@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Sponsored Keynote: From Complexity to Clarity: Engineering an Invisible Kubernetes
+  - Jesse Butler"
+nav_order: 341
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Sponsored Keynote: From Complexity to Clarity: Engineering an Invisible Kubernetes - Jesse Butler"
-description: "The speaker discusses the foundational role of Kubernetes in managing complex distributed systems, highlighting its extensibility and the ecosystem of open solutions that address operational challenges. In enterprise environments, Kubernete..."
+description:
+  The speaker discusses the foundational role of Kubernetes in managing
+  complex distributed systems, highlighting its extensibility and the ecosystem of
+  open solutions that address operational challenges. In enterprise environments,
+  Kubernete...
 resource: https://www.youtube.com/watch?v=-DhYRFNipcI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ In enterprise environments, Kubernetes serves as a platform for building platfor
 The speaker introduces three community projects—Carpenter, Kru, and a new conditional authorization initiative—that aim to further simplify and scale Kubernetes operations.
 Carpenter automates node provisioning based on real-time workload demand, Kru streamlines resource management by abstracting the operator pattern and fostering cross-cloud collaboration, and the conditional authorization project unifies permission and admission policies for more adaptive access control.
 These efforts demonstrate the power of community collaboration in advancing Kubernetes as a scalable, manageable platform for enterprise needs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                 |

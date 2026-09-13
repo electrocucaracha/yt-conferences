@@ -1,4 +1,7 @@
 ---
+layout: default
+title: Home
+nav_order: 1
 okf_version: "0.2"
 ---
 

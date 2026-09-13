@@ -1,11 +1,19 @@
 ---
-type: Video Note
+layout: default
 title: "Longhorn: Intro, Deep Dive and Q&A - Shuo Wu, SUSE"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+nav_order: 157
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=NhllqYL0eBg
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +23,7 @@ The project has recently released version 2 (V2) of its data engine, which offer
 V2 also introduces features such as incremental backup, disaster recovery, and support for NVMe over fabric protocol, making it a more powerful storage solution for Kubernetes clusters.
 Longhorn's architecture is designed with reliability, usability, and maintainability in mind, and the project continues to evolve with new features and improvements.
 The team plans to release additional features in upcoming versions, including support for file systems and improved snapshot management.
+
 # Main Points
 
 |   # | Main point                                                                                                                 |

@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Effortless User Onboarding with MCP with Pedro Rodrigues - SingleStore"
-description: "Pedro, a software engineer at Single Store (formerly MemSQL), discusses how the company uses its MCP server to improve user onboarding for both new and existing users. He explains that traditional onboarding methods—such as documentation, w..."
+nav_order: 24
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  Pedro, a software engineer at Single Store (formerly MemSQL), discusses
+  how the company uses its MCP server to improve user onboarding for both new and
+  existing users. He explains that traditional onboarding methods—such as documentation,
+  w...
 resource: https://www.youtube.com/watch?v=OjglGeBvDBs
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ Additionally, proprietary products like Single Store face challenges with large 
 To address these issues, Single Store developed the MCP server, which provides resources like markdown guides and prompt templates to help users and LLMs interact more effectively with the platform.
 Pedro demonstrates how integrating these resources streamlines setting up applications with tools like Drizzle and Single Store, and shares lessons learned, including the importance of defining concrete user flows, adapting documentation for LLMs, and hosting the MCP server remotely for better analytics and control.
 Future plans include making documentation more LLM-friendly, expanding resource coverage, and enhancing direct database access and management through the MCP server.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                               |

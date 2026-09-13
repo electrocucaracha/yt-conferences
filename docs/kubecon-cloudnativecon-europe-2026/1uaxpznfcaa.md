@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Explore TAG Workloads Foundation: Advancing Cloud Native Ex... Stephen R,
+  Yuan T, Marlow W & Kante Y"
+nav_order: 109
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Explore TAG Workloads Foundation: Advancing Cloud Native Ex... Stephen R, Yuan T, Marlow W & Kante Y"
-description: "The video features a panel of leaders from various organizations discussing the CNCF Tag Workloads Foundation, its mission, structure, and activities. They explain that a TAG (Technical Advisory Group) is an official CNCF body that supports..."
+description:
+  The video features a panel of leaders from various organizations discussing
+  the CNCF Tag Workloads Foundation, its mission, structure, and activities. They
+  explain that a TAG (Technical Advisory Group) is an official CNCF body that supports...
 resource: https://www.youtube.com/watch?v=1uaXpZnfcAA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that a TAG (Technical Advisory Group) is an official CNCF body that
 The panel highlights the recent restructuring of TAGs, the current focus areas of the Workloads Foundation, and its ongoing initiatives such as white papers, benchmarking, and the batch system subproject.
 They emphasize the importance of community involvement, the process for project evaluation and advancement, and the collaborative efforts between projects, especially in areas like CI/CD, scheduling, and container registries.
 The session concludes with a Q&A addressing project inclusion, collaboration, and the value of maintaining diversity and interoperability within the CNCF ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                               |

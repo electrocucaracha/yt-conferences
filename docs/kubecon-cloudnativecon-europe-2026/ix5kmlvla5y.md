@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Still Burning GPUs On Debugging? Scale AI In One Line
+  - Anna Kramar"
+nav_order: 291
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Still Burning GPUs On Debugging? Scale AI In One Line - Anna Kramar"
-description: "Ana Kmer, a certified engineer at Red Hat and maintainer of the KFL SDK, discusses the challenges data scientists face when scaling AI workloads from local environments to Kubernetes, such as dealing with infrastructure complexities and cos..."
+description:
+  Ana Kmer, a certified engineer at Red Hat and maintainer of the KFL SDK,
+  discusses the challenges data scientists face when scaling AI workloads from local
+  environments to Kubernetes, such as dealing with infrastructure complexities and
+  cos...
 resource: https://www.youtube.com/watch?v=Ix5kmLvlA5Y
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ To address these issues, she introduces the KFL SDK, a set of unified Python API
 The SDK supports various backends, including local subprocesses, containerized environments, and Kubernetes, and offers features like trainer and optimizer clients for training and hyperparameter optimization, a model registry for versioning, and a Spark client for distributed data processing.
 Upcoming features include workflow orchestration, feature store integration, observability, experiment tracking, and an MCP server for AI agent operations.
 Ana also highlights the SDK's recent milestone of 140,000 downloads and invites the community to engage through their website, blog, Slack channel, and regular meetings.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                  |

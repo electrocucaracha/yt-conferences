@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Masculinidad, Feminidad y el Caos de los Roles Modernos | Rodrigo García Platas
+nav_order: 58
+parent: Foro De Crecimiento
 type: Video Note
-title: "Masculinidad, Feminidad y el Caos de los Roles Modernos | Rodrigo García Platas"
-description: "En esta extensa conversación con Rodrigo García Platas, psicopedagogo y experto en psicología sistémica, se exploran las diferencias y complementariedades entre la energía masculina y femenina, destacando que ambas están presentes en hombre..."
+description:
+  En esta extensa conversación con Rodrigo García Platas, psicopedagogo
+  y experto en psicología sistémica, se exploran las diferencias y complementariedades
+  entre la energía masculina y femenina, destacando que ambas están presentes en hombre...
 resource: https://www.youtube.com/watch?v=YT3TteIZqaE
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Se explica que la masculinidad sana implica volverse extraordinario en algo, des
 Rodrigo señala que la crisis actual de la masculinidad y la feminidad surge de la confusión de roles, la falta de referentes y la presión social por igualar identidades, lo que ha llevado a mujeres a masculinizarse y a hombres a perder su centro.
 Se enfatiza la importancia de conocer la propia biología y trabajar en el autoconocimiento para evitar construir personalidades basadas en traumas o expectativas externas.
 Finalmente, se abordan las necesidades fundamentales en las relaciones: las mujeres requieren atención y tiempo de calidad, mientras que los hombres necesitan libertad y reconocimiento, y se destaca que la polaridad entre energías es clave para mantener la pasión y el equilibrio en las relaciones.
+
 # Main Points
 
 |   # | Main point                                                                                                           |

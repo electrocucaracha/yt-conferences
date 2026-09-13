@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "MCPwned: Hacking MCP Servers With One Skeleton Key Vulnerability - Jonathan
+  Leitschuh, Independent"
+nav_order: 64
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "MCPwned: Hacking MCP Servers With One Skeleton Key Vulnerability - Jonathan Leitschuh, Independent"
-description: "Jonathan Lechu, a software engineer and security researcher, presents his findings on vulnerabilities in locally running servers, particularly focusing on Model Context Protocol (MCP) servers. He explains how browsers' same origin policy an..."
+description:
+  Jonathan Lechu, a software engineer and security researcher, presents
+  his findings on vulnerabilities in locally running servers, particularly focusing
+  on Model Context Protocol (MCP) servers. He explains how browsers' same origin policy
+  an...
 resource: https://www.youtube.com/watch?v=baardVGG3v0
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains how browsers' same origin policy and longstanding behaviors allow ma
 Lechu demonstrates that many MCP servers, including those from major vendors like Google, Docker, and AWS, were vulnerable to these attacks due to improper validation of the origin header, despite clear warnings in the MCP specification.
 He shares examples where these vulnerabilities allowed remote code execution or unauthorized access to sensitive data, and notes that while some vendors have patched their SDKs or issued bounties, many servers remain at risk because protections are not enabled by default.
 Lechu concludes by urging developers to properly configure their servers and not rely on browsers for protection, as these attack vectors remain largely unmitigated in most environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                               |

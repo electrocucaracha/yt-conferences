@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Straight Into the Deep End! Learning Kubernetes and Cloud Native From... Éamon
+  Ryan & Ayah Elshaikh
+nav_order: 292
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Straight Into the Deep End! Learning Kubernetes and Cloud Native From... Éamon Ryan & Ayah Elshaikh"
-description: "In this talk, Aean Ryan and Ya Alshik from Grafana Labs share their experiences learning Kubernetes and cloud-native technologies from scratch, highlighting the challenges and complexities faced by newcomers, especially given Kubernetes' ma..."
+description:
+  In this talk, Aean Ryan and Ya Alshik from Grafana Labs share their experiences
+  learning Kubernetes and cloud-native technologies from scratch, highlighting the
+  challenges and complexities faced by newcomers, especially given Kubernetes' ma...
 resource: https://www.youtube.com/watch?v=Ctm0jjPZV1M
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They discuss the steep learning curve, noting that while basic concepts like pod
 Ya emphasizes the difficulty of finding resources that don't assume prior knowledge, and describes how hands-on tools like K9s, real development environments, and interactive tutorials (such as those from CodeCloud) were more effective for learning than verbose documentation or lengthy videos.
 The speakers also point out that while the abundance of documentation and community support can be overwhelming, it ultimately benefits learners by providing answers to nearly any problem.
 They conclude by recommending a practical, hands-on approach to certification preparation, leveraging CodeCloud courses and official practice exams, and encourage learners to fill in knowledge gaps as needed.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                     |

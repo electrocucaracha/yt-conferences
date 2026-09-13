@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Help! My LLM Is a Resource Hog: How We Tamed Inference With Kubernetes...
+  Aditya Soni & Hrittik Roy"
+nav_order: 96
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Help! My LLM Is a Resource Hog: How We Tamed Inference With Kubernetes... Aditya Soni & Hrittik Roy"
-description: "The speaker, Sunni, discusses the challenges of inference in Large Language Models (LLMs) and how to optimize them. They explain that LLMs require massive parallel computation, which is difficult to achieve with CPUs but can be done with GP..."
+description:
+  The speaker, Sunni, discusses the challenges of inference in Large Language
+  Models (LLMs) and how to optimize them. They explain that LLMs require massive parallel
+  computation, which is difficult to achieve with CPUs but can be done with GP...
 resource: https://www.youtube.com/watch?v=z9yK5W6whQI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that LLMs require massive parallel computation, which is difficult 
 However, increasing GPU utilization is not always effective due to various issues such as KV caching, GPU underutilization, and optimization problems.
 To address these challenges, Sunni proposes three solutions: optimizing KV caching, improving GPU utilization through batching and sharing, and observing and profiling the system to identify areas for improvement.
 They also discuss the importance of distributed inference across different geol locations and providers, highlighting the need for solutions such as MOE routing and cross-node communication to enable efficient sharing of GPUs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

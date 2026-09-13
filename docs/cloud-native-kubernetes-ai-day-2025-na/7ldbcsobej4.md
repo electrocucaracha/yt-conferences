@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Sponsored Keynote: Kubernetes Challenges at Lambda - Andrew Godwin, Lambda
+  Labs"
+nav_order: 15
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Sponsored Keynote: Kubernetes Challenges at Lambda - Andrew Godwin, Lambda Labs"
-description: "The speaker, Lambda’s lead software architect, provides an overview of the company’s approach to running GPU clouds and managing Kubernetes workloads. Lambda is an emerging hyperscaler that owns its hardware and infrastructure, running both..."
+description:
+  The speaker, Lambda’s lead software architect, provides an overview of
+  the company’s approach to running GPU clouds and managing Kubernetes workloads.
+  Lambda is an emerging hyperscaler that owns its hardware and infrastructure, running
+  both...
 resource: https://www.youtube.com/watch?v=7ldbcSoBEJ4
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Lambda is an emerging hyperscaler that owns its hardware and infrastructure, run
 Unique challenges arise from the high failure rates of GPUs and the physical constraints of server placement, making machine failures a routine issue that requires in-place remediation and limits the use of spare machines.
 The team has implemented solutions such as continuous validation, automated remediation via Kubernetes operators, and a custom bare metal cluster API provider, while also exploring predictive failure analysis to proactively manage hardware issues.
 The speaker concludes by highlighting the ongoing complexity of GPU workloads compared to CPU workloads and invites interested individuals to learn more about opportunities at Lambda.
+
 # Main Points
 
 |   # | Main point                                                                                                                 |

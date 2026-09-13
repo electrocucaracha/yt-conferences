@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "CRI-O: Faster Pulls, Better Metrics, and a Future Beyond Images - Sohan Kunkerkar
+  & Ayato Tokubi"
+nav_order: 37
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "CRI-O: Faster Pulls, Better Metrics, and a Future Beyond Images - Sohan Kunkerkar & Ayato Tokubi"
-description: "In this CubeCon session, San Kerkar and Ayatu Tokobi from Red Hat provide an overview and updates on CRI-O, a Kubernetes container runtime. They discuss recent features such as server-side streaming RPCs to address message size limits in hi..."
+description:
+  In this CubeCon session, San Kerkar and Ayatu Tokobi from Red Hat provide
+  an overview and updates on CRI-O, a Kubernetes container runtime. They discuss recent
+  features such as server-side streaming RPCs to address message size limits in hi...
 resource: https://www.youtube.com/watch?v=en2oz2BWHW8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The team introduces the "additional artifact stores" feature, allowing CRI-O to 
 Security enhancements include configurable TLS settings and the provision of OpenVEX vulnerability reports.
 They also detail improvements in memory Quality of Service (QoS), addressing kernel and scheduler gaps to better protect guaranteed and burstable pods.
 Finally, the session covers peer-to-peer image distribution using Spiegel, which reduces bandwidth usage for large container images by enabling decentralized sharing across nodes, and discusses future directions such as P2P-aware scheduling to further optimize image distribution in Kubernetes clusters.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                     |

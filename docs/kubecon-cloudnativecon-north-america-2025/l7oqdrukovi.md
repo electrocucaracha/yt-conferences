@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  The Journey of Deploying Backstage in a Large Organization - Mathieu Girard
+  & Teddy Poingt, Beneva
+nav_order: 311
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "The Journey of Deploying Backstage in a Large Organization - Mathieu Girard & Teddy Poingt, Beneva"
-description: "The presenters describe their experience deploying Backstage, an open-source developer portal framework, at Beneva, a large Canadian insurance company formed from a merger. Facing challenges from duplicated tools, inconsistent practices, an..."
+description:
+  The presenters describe their experience deploying Backstage, an open-source
+  developer portal framework, at Beneva, a large Canadian insurance company formed
+  from a merger. Facing challenges from duplicated tools, inconsistent practices,
+  an...
 resource: https://www.youtube.com/watch?v=l7OQdrUkoVI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +31,7 @@ The implementation involved assembling a small DevOps team, naming the portal "D
 They focused on two main goals: improving access to information/tools and accelerating best practice adoption, leveraging Backstage’s catalog and scaffolder features.
 Adoption was encouraged through communication, demos, and monitoring usage, while ongoing improvements included adding plugins, integrations, and automation.
 Key takeaways highlight the importance of aligning with leadership priorities, addressing developer pain points, treating the portal as a product, and engaging both the developer community and open-source contributors.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

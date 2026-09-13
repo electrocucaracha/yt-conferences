@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | EnvoyCon: External Processing, Internal Leverage: MCP
+  Tool Calls... Jens Kat"
+nav_order: 57
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | EnvoyCon: External Processing, Internal Leverage: MCP Tool Calls... Jens Kat"
-description: "In this talk, Jen Scott, a senior software engineer at ING, explains how ING leverages Envoy’s external processing feature to support agentic AI use cases within its mature service mesh, which connects over 2,000 services across various tec..."
+description:
+  In this talk, Jen Scott, a senior software engineer at ING, explains
+  how ING leverages Envoy’s external processing feature to support agentic AI use
+  cases within its mature service mesh, which connects over 2,000 services across
+  various tec...
 resource: https://www.youtube.com/watch?v=4XciSKk-Rek
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ To enable AI agents to securely and reliably access ING-specific data, the team 
 Rather than requiring each team to implement MCP servers, ING integrates MCP support into Envoy via external processors, which transform and route requests between AI agents and HTTP services, utilizing existing OpenAPI specifications.
 This approach centralizes business logic, enhances observability, and avoids burdening individual teams, while also allowing for flexible configuration and governance through an API marketplace.
 The solution is running in production at ING, and the team plans to open source their OpenAPI MCP external processor to benefit the wider community.
+
 # Main Points
 
 |   # | Main point                                                                                                            |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "18 Bluetooth Controllers Walk into a Bar: Observability & R... Simon Schrottner
+  & Manuel Timelthaler"
+nav_order: 4
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "18 Bluetooth Controllers Walk into a Bar: Observability & R... Simon Schrottner & Manuel Timelthaler"
-description: "In this CubeCon talk, the presenters describe their experience enhancing observability and runtime configuration for a real-time, acceleration-based party game using CNCF tools. The game, played with PlayStation Move controllers and running..."
+description:
+  In this CubeCon talk, the presenters describe their experience enhancing
+  observability and runtime configuration for a real-time, acceleration-based party
+  game using CNCF tools. The game, played with PlayStation Move controllers and running...
 resource: https://www.youtube.com/watch?v=Y9agHID8Ml4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The game, played with PlayStation Move controllers and running on a Raspberry Pi
 By refactoring the codebase into a microservices architecture with gRPC and integrating tools like OpenTelemetry, Prometheus, and feature flagging via Flexd, they achieved detailed insights such as player lifespans, connection quality, and real-time metrics.
 They discuss challenges with data collection intervals, metric density, and system resource constraints, ultimately finding that pushing metrics and careful label management enabled near real-time observability even on limited hardware.
 The speakers encourage the community to apply cloud-native observability tools to real-time and IoT systems, share their findings, and contribute improvements, highlighting the potential for broader applications beyond traditional cloud environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

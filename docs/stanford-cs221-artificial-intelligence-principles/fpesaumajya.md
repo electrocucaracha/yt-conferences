@@ -1,16 +1,28 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 5: Search I"
-description: "The lecture begins by reviewing the basics of machine learning, emphasizing the distinction between regression and classification, and situates predictors within the broader context of intelligence, which also includes reasoning and plannin..."
+nav_order: 16
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture begins by reviewing the basics of machine learning, emphasizing
+  the distinction between regression and classification, and situates predictors within
+  the broader context of intelligence, which also includes reasoning and plannin...
 resource: https://www.youtube.com/watch?v=fPESauMaJYA
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
 
 The lecture begins by reviewing the basics of machine learning, emphasizing the distinction between regression and classification, and situates predictors within the broader context of intelligence, which also includes reasoning and plannin...
+
 # Main Points
 
 |   # | Main point                                        |

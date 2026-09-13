@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Keynote: Making Kubernetes for AI Optimized and Reproducible - Nathan Taber
+  & Mark Chmarny"
+nav_order: 178
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: Making Kubernetes for AI Optimized and Reproducible - Nathan Taber & Mark Chmarny"
-description: "Nathan Taber and Mark Smalley from Nvidia discuss their efforts to simplify running Kubernetes for AI workloads by introducing the AI Cluster Runtime Environment (ACRE) project. They explain the complexity of configuring AI clusters, which..."
+description:
+  Nathan Taber and Mark Smalley from Nvidia discuss their efforts to simplify
+  running Kubernetes for AI workloads by introducing the AI Cluster Runtime Environment
+  (ACRE) project. They explain the complexity of configuring AI clusters, which...
 resource: https://www.youtube.com/watch?v=RsF1-Jt-2G8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain the complexity of configuring AI clusters, which involves managing 
 These recipes are optimized, validated, and reproducible sets of configurations tailored for specific use cases, including constraints and validation tools to ensure cluster readiness and conformance.
 ACRE provides both a CLI and a self-hosted REST API, allowing users to generate, deploy, and validate these recipes and bundles in their own environments, with support for tools like Argo CD and Helm.
 Nvidia has seeded ACRE with recipes for H100 and GB200 accelerators on EKS and GKE, and the project is open for community contributions, with recent input from Microsoft Azure and Oracle, aiming to expand its capabilities and recipes further.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

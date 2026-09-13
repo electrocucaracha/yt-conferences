@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  ¿Por qué algunas personas impactan cuando hablan y otras no? Elisa Mass – Sesión
+  33
+nav_order: 77
+parent: Foro De Crecimiento
 type: Video Note
-title: "¿Por qué algunas personas impactan cuando hablan y otras no? Elisa Mass – Sesión 33"
-description: "En este video, la especialista en voz Elisa Más explica que todos tienen el potencial de desarrollar una gran voz mediante entrenamiento y conciencia corporal. Destaca la importancia de la postura y la relajación, ya que tensiones innecesar..."
+description:
+  En este video, la especialista en voz Elisa Más explica que todos tienen
+  el potencial de desarrollar una gran voz mediante entrenamiento y conciencia corporal.
+  Destaca la importancia de la postura y la relajación, ya que tensiones innecesar...
 resource: https://www.youtube.com/watch?v=_Pw0g9MPkb0
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ En este video, la especialista en voz Elisa Más explica que todos tienen el pot
 Destaca la importancia de la postura y la relajación, ya que tensiones innecesarias afectan la proyección y calidad vocal.
 Se abordan factores clave como la respiración adecuada, el apoyo diafragmático, la articulación y dicción, así como el uso de matices y entonación para transmitir emociones y mensajes de manera efectiva.
 Además, se ofrecen ejercicios prácticos para mejorar la voz y se responde a preguntas frecuentes sobre cómo lograr una voz más grave, el impacto de la alimentación y la necesidad de aceptar y trabajar la voz propia para alcanzar su máximo potencial.
+
 # Main Points
 
 |   # | Main point                                                                                                                               |

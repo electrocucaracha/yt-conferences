@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: Avoiding CPU Throttling: How Go 1.25's Container-Aware Runtime
+  Fix... Adarsh K Kumar"
+nav_order: 204
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Lightning Talk: Avoiding CPU Throttling: How Go 1.25's Container-Aware Runtime Fix... Adarsh K Kumar"
-description: "Adash, a principal engineer at Rapido, discusses a throttling issue in Go-based applications running in containers, particularly when the GOMAXPROCS setting is not properly configured. He explains how containers use Linux constructs like na..."
+description:
+  Adash, a principal engineer at Rapido, discusses a throttling issue in
+  Go-based applications running in containers, particularly when the GOMAXPROCS setting
+  is not properly configured. He explains how containers use Linux constructs like
+  na...
 resource: https://www.youtube.com/watch?v=BrjeW5ARaZY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains how containers use Linux constructs like namespaces and cgroups to i
 This mismatch could cause applications to be throttled due to exceeding CPU limits enforced by cgroups, resulting in increased response times.
 Go 1.25 addresses this by setting GOMAXPROCS according to the container's CPU bandwidth, but users should be cautious with fractional CPU limits, as rounding up can still cause throttling.
 For those unable to upgrade to Go 1.25, Adash recommends using Uber's automaxprocs library to achieve similar behavior.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

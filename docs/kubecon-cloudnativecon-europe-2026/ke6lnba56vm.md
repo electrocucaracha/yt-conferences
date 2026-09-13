@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Evolving KServe: The Unified Model Inference Platform
+  For Both... Yuan Tang"
+nav_order: 259
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Evolving KServe: The Unified Model Inference Platform For Both... Yuan Tang"
-description: "Yantan, a senior principal software engineer at Red Hat and project lead for Kserve, introduces Kserve as a standardized, distributed, and scalable model inference platform on Kubernetes, supporting both predictive and generative AI workloa..."
+description:
+  Yantan, a senior principal software engineer at Red Hat and project lead
+  for Kserve, introduces Kserve as a standardized, distributed, and scalable model
+  inference platform on Kubernetes, supporting both predictive and generative AI workloa...
 resource: https://www.youtube.com/watch?v=kE6lNBA56vM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ Yantan, a senior principal software engineer at Red Hat and project lead for Kse
 Kserve integrates with various serving runtimes and cloud-native technologies, offering features like autoscaling, request batching, security, distributed tracing, logging, and traffic management.
 The project, now an incubating CNCF project with over 300 contributors, has expanded from its predictive AI roots to include advanced generative AI capabilities, such as metrics-based autoscaling and support for additional runtimes and caching to improve efficiency and throughput.
 Yantan encourages community participation through bi-weekly meetings, dedicated Slack channels, and invites attendees to visit the project booth and maintainer sessions during the week.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                          |

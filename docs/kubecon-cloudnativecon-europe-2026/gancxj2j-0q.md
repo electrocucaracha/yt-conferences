@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Why Security of Kubernetes Comes Down to Linux Security - Marina Moore, Edera
+nav_order: 406
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Why Security of Kubernetes Comes Down to Linux Security - Marina Moore, Edera"
-description: "Marina, head of research at ADA and co-chair of CNCF’s security group, presents on Kubernetes security, emphasizing that it fundamentally relies on Linux security due to containers sharing a single kernel. She traces the evolution of contai..."
+description:
+  Marina, head of research at ADA and co-chair of CNCF’s security group,
+  presents on Kubernetes security, emphasizing that it fundamentally relies on Linux
+  security due to containers sharing a single kernel. She traces the evolution of
+  contai...
 resource: https://www.youtube.com/watch?v=gaNCXj2j-0Q
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ She traces the evolution of container technology from early concepts like chroot
 However, she stresses that these mechanisms were designed for resource management, not as strict security boundaries, which is why container escapes—where processes break out of their isolated environments—remain a real risk, as demonstrated by several recent vulnerabilities.
 Through a live demo, Marina illustrates how containers can access information about the host system, reinforcing the point that the underlying kernel is always present and influential.
 She concludes by discussing emerging technologies aimed at stronger isolation, such as microVMs and WebAssembly, and highlights the importance of understanding Linux internals for both security and performance, especially as new use cases like AI agent sandboxing demand robust containment strategies.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

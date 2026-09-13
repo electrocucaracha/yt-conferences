@@ -1,11 +1,22 @@
 ---
+layout: default
+title: La Arquitectura de la Riqueza Personal | Jonathan Quiroz
+nav_order: 52
+parent: Foro De Crecimiento
 type: Video Note
-title: "La Arquitectura de la Riqueza Personal | Jonathan Quiroz"
-description: "En esta entrevista, Jonathan Quiroz, empresario e inversionista, comparte su visión sobre la importancia de la mentalidad y la preparación en el camino hacia la riqueza personal y el éxito financiero. Destaca que el cambio de mentalidad es..."
+description:
+  En esta entrevista, Jonathan Quiroz, empresario e inversionista, comparte
+  su visión sobre la importancia de la mentalidad y la preparación en el camino hacia
+  la riqueza personal y el éxito financiero. Destaca que el cambio de mentalidad es...
 resource: https://www.youtube.com/watch?v=zzFtmpsf0eI
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Destaca que el cambio de mentalidad es fundamental para romper ciclos de escasez
 Jonathan enfatiza la importancia de la autoevaluación, el aprendizaje constante, la disciplina y la administración del tiempo y los recursos, así como la necesidad de crear sistemas y delegar para lograr equilibrio entre el trabajo y la vida personal.
 Aconseja emprender con inteligencia, aprender de los fracasos, rodearse de mentores y expertos, y cultivar el hábito de la lectura para reprogramar la mente y expandir las posibilidades.
 Finalmente, invita a soñar en grande, a no conformarse con la pobreza y a buscar dejar un legado más allá de una herencia material, recordando que el éxito es resultado de la perseverancia, la visión y la acción enfocada.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

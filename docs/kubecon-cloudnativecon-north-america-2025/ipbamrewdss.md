@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Container Runtime Customization at Netflix: A Case Study With NRI and OCI
+  Hooks - Erikson Tung"
+nav_order: 45
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Container Runtime Customization at Netflix: A Case Study With NRI and OCI Hooks - Erikson Tung"
-description: "In this talk, Erikson from Netflix's compute runtime team discusses the company's migration of its Titus container platform from a custom, monolithic runtime to a modern, industry-standard Kubernetes-based stack using stock kubelets and con..."
+description:
+  In this talk, Erikson from Netflix's compute runtime team discusses the
+  company's migration of its Titus container platform from a custom, monolithic runtime
+  to a modern, industry-standard Kubernetes-based stack using stock kubelets and con...
 resource: https://www.youtube.com/watch?v=IPbamReWdss
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He outlines the challenges of preserving years of bespoke runtime logic and uniq
 The team adopted a "lift and shift" strategy, relocating existing functionality to runtime extension points like Node Resource Interface (NRI) plugins and OCI hooks, which allowed for dynamic container customizations at runtime and reliable cleanup operations.
 This approach enabled Netflix to transparently modernize its infrastructure, improve observability, and reduce operational complexity, while also contributing upstream improvements.
 Erikson shares key learnings about balancing pragmatism with platform purity, the importance of observability, and the value of incremental migration, concluding with a Q&A addressing technical details and open sourcing.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                           |

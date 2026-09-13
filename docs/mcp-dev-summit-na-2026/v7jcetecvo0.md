@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "MCP Live: Streaming Context To AI Agents - Harshit Kohli, Amazon Web Services"
-description: "In this presentation, Harshit Kohli from Amazon Web Services discusses extending the traditional MCP (Message Control Protocol) request-response model to a real-time, streaming architecture for AI agents. By integrating event sources like l..."
+nav_order: 56
+parent: Mcp Dev Summit Na 2026
+type: Video Note
+description:
+  In this presentation, Harshit Kohli from Amazon Web Services discusses
+  extending the traditional MCP (Message Control Protocol) request-response model
+  to a real-time, streaming architecture for AI agents. By integrating event sources
+  like l...
 resource: https://www.youtube.com/watch?v=V7JceTECVO0
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ By integrating event sources like log simulators with a message bus (such as Kaf
 The architecture includes features like bounded queues to manage back pressure, granular authorization using Sedar policies, and a hybrid protocol that supports both real-time streaming and interactive queries.
 The demo illustrates how this setup allows for rapid detection and handling of anomalies, which is especially valuable in mission-critical domains like finance and healthcare.
 The solution is designed to be flexible, decoupling the streaming platform from the AI agents, and can be enhanced with advanced AI models for smarter analysis and automated responses.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

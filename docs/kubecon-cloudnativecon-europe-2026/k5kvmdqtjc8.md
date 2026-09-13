@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Building Cloud Native Culture in a Bank: With Open Source as a... Marcy Paramonova
+  & Stéphane Cusin"
+nav_order: 33
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Building Cloud Native Culture in a Bank: With Open Source as a... Marcy Paramonova & Stéphane Cusin"
-description: "In this presentation, Marcen and Stefan, DevOps engineers at a Swiss private bank, describe their 15-year journey modernizing the bank’s infrastructure by adopting open source technologies and fostering a collaborative engineering culture..."
+description:
+  In this presentation, Marcen and Stefan, DevOps engineers at a Swiss
+  private bank, describe their 15-year journey modernizing the bank’s infrastructure
+  by adopting open source technologies and fostering a collaborative engineering culture...
 resource: https://www.youtube.com/watch?v=K5KVMdQTJc8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They detail how their team built a scalable Kubernetes platform, supporting 1,90
 The transformation was guided by a decision framework focused on open standards, active ecosystems, and strong documentation, with trust in open source built gradually through real-world operations.
 Cultural initiatives such as “genius bar” support sessions, internal tech talks, and community-driven events played a crucial role in breaking down silos, encouraging knowledge sharing, and promoting ownership among engineers.
 Ultimately, they emphasize that technical change alone is insufficient; deliberate cultural design, community engagement, and shared standards were essential to achieving both platform scalability and organizational agility.
+
 # Main Points
 
 |   # | Main point                                                                                                                 |

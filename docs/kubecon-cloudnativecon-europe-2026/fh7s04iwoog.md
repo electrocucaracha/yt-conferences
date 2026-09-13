@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: A Curator’s Guide to the CNCF Landscape - Katherine
+  Druckman"
+nav_order: 248
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: A Curator’s Guide to the CNCF Landscape - Katherine Druckman"
-description: "In this talk, Kathern Duckman welcomes newcomers to the CNCF (Cloud Native Computing Foundation) landscape, likening its complexity to a Van Gogh painting and offering guidance on how to navigate it, especially for first-time attendees at e..."
+description:
+  In this talk, Kathern Duckman welcomes newcomers to the CNCF (Cloud Native
+  Computing Foundation) landscape, likening its complexity to a Van Gogh painting
+  and offering guidance on how to navigate it, especially for first-time attendees
+  at e...
 resource: https://www.youtube.com/watch?v=Fh7s04iwOog
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ She explains the CNCF’s mission to make cloud-native computing ubiquitous, hig
 Duckman details the maturity levels of CNCF projects—sandbox, incubating, and graduated—and emphasizes the importance of evaluating projects not just by popularity but by factors such as maturity, health (using tools like CLOMonitor), release cadence, maintainer diversity, and security audits.
 She encourages attendees to use the CNCF landscape’s filtering tools, contribute to projects (especially where there are gaps or red marks), and engage with the community, stressing that ongoing participation and evaluation are key as the ecosystem rapidly evolves.
 Finally, she invites participants to connect with her and the broader community to further explore and contribute to the CNCF landscape.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Shipping Secure, Reusable, and Composable Infrastructure as Code... Feynman
+  Zhou & Katherine Pitz
+nav_order: 279
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Shipping Secure, Reusable, and Composable Infrastructure as Code... Feynman Zhou & Katherine Pitz"
-description: "In this presentation, Feman from Microsoft Azure and Katie Pittz from GE Healthcare discuss how GE Healthcare addressed challenges in deploying cloud-native patient care applications by centralizing and automating their infrastructure provi..."
+description:
+  In this presentation, Feman from Microsoft Azure and Katie Pittz from
+  GE Healthcare discuss how GE Healthcare addressed challenges in deploying cloud-native
+  patient care applications by centralizing and automating their infrastructure provi...
 resource: https://www.youtube.com/watch?v=u4zinRUhtw8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Previously, each application team managed deployments independently, resulting i
 To solve this, GE Healthcare’s platform team developed a digital provisioning tool based on infrastructure as code (IaC) and OCI (Open Container Initiative) artifacts, leveraging the ORAS project to package, publish, and deliver reusable, composable software packages with custom configurations.
 This approach streamlined deployments, reduced manual steps, and enabled faster, more reliable delivery of applications to hospitals.
 The presentation also highlights how ORAS and OCI artifacts support secure, flexible artifact management and versioning, and outlines future plans to further optimize package structure and align with updated OCI specifications.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                               |

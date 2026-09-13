@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "[Session] Scaling MCP Observability: How Natoma Monitors Thousands of MCP
+  Servers"
+nav_order: 4
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Session] Scaling MCP Observability: How Natoma Monitors Thousands of MCP Servers"
-description: "Capil, a software engineer at Numa Labs, discusses the observability challenges and solutions within their MCP platform, which serves as a hosted agent access fabric for enterprise adoption. He outlines key challenges such as lack of visibi..."
+description:
+  Capil, a software engineer at Numa Labs, discusses the observability
+  challenges and solutions within their MCP platform, which serves as a hosted agent
+  access fabric for enterprise adoption. He outlines key challenges such as lack of
+  visibi...
 resource: https://www.youtube.com/watch?v=09OrzbZC3AU
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He outlines key challenges such as lack of visibility into client-server interac
 To address these, Numa Labs has implemented detailed activity and audit logs at the user and tool level, developed both manual and automated server vetting processes—including static code analysis tools to detect vulnerabilities like tool poisoning and prompt injection—and established policies for managing connections and enforcing security.
 Capil also shares examples of how these measures have improved debugging, server safety, and customer transparency, and notes ongoing efforts to enhance observability through open telemetry and more granular analytics.
 The talk concludes with a demonstration of their activity dashboard and server scanning tool, highlighting their commitment to robust, scalable observability and security practices.
+
 # Main Points
 
 |   # | Main point                                                                                                                  |

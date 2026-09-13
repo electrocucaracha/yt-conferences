@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Into the Shopfloor: Moving Manufacturing Execution Syste... Manuel Peuster
+  & Andrei Traian Cucuruzac"
+nav_order: 132
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Into the Shopfloor: Moving Manufacturing Execution Syste... Manuel Peuster & Andrei Traian Cucuruzac"
-description: "Bosch Connected Industry, a software provider within Bosch, has successfully migrated its Manufacturing Execution System (MES) to Kubernetes, enabling faster and more efficient deployment of its industrial control systems. The company initi..."
+description:
+  Bosch Connected Industry, a software provider within Bosch, has successfully
+  migrated its Manufacturing Execution System (MES) to Kubernetes, enabling faster
+  and more efficient deployment of its industrial control systems. The company initi...
 resource: https://www.youtube.com/watch?v=GgxRHpQIEfg
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The company initially took a "lift and shift" approach, containerizing existing 
 This transition allowed Bosch to reduce deployment times from hours or days to minutes, making it possible to deploy complex manufacturing systems quickly and reliably.
 The company also leveraged custom operators to manage legacy components and ensure reliable connections between on-prem and cloud environments.
 By adopting Kubernetes, Bosch has improved its ability to scale and maintain its industrial control systems in a rapidly changing environment.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

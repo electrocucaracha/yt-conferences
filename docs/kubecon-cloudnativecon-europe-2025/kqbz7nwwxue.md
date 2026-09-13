@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  What's New With Kubectl and Kustomiz... Eddie Zaneski, Maciej Szulik, Marly
+  Salazar & Yugo Kobayashi
+nav_order: 368
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "What's New With Kubectl and Kustomiz... Eddie Zaneski, Maciej Szulik, Marly Salazar & Yugo Kobayashi"
-description: "The CLI SIG leads a discussion on cube control and customize, focusing on community involvement and feature enhancements. Yugo Kobayashi explains the current status and future plans for customize, including support for plug-in, release auto..."
+description:
+  The CLI SIG leads a discussion on cube control and customize, focusing
+  on community involvement and feature enhancements. Yugo Kobayashi explains the current
+  status and future plans for customize, including support for plug-in, release auto...
 resource: https://www.youtube.com/watch?v=KQBz7nwWxUE
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The CLI SIG leads a discussion on cube control and customize, focusing on commun
 Yugo Kobayashi explains the current status and future plans for customize, including support for plug-in, release automation, and improved sub-plugin functionality.
 The team also discusses the introduction of a dash flag to enable delete confirmation in cube control, which aims to improve user safety.
 Additionally, they touch on topics such as better integration with Helm, CRD support, and pruning resources, seeking community feedback and contributions to enhance these features.
+
 # Main Points
 
 |   # | Main point                                                                                                              |

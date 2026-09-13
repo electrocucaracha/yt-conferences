@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Crossplane - The Cloud Native Framework for Platform Engineering - Jared Watts
+  & Nic Cope, Upbound
+nav_order: 48
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Crossplane - The Cloud Native Framework for Platform Engineering - Jared Watts & Nic Cope, Upbound"
-description: "In this twice-annual update, Nick and Jared, maintainers of Crossplane, introduce the project as a framework for building control planes and custom Kubernetes APIs without writing controllers, enabling platform teams to provide developer se..."
+description:
+  In this twice-annual update, Nick and Jared, maintainers of Crossplane,
+  introduce the project as a framework for building control planes and custom Kubernetes
+  APIs without writing controllers, enabling platform teams to provide developer se...
 resource: https://www.youtube.com/watch?v=XKUi8xxkyjM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight Crossplane’s recent graduation as a CNCF project, its widesprea
 Nick demonstrates how to define and compose custom resources using various languages, emphasizing Crossplane’s flexibility and ease of use.
 Jared then introduces new features in v2, including "operations" for day-2 management tasks and "circuit breakers" to prevent reconciliation loops that can overload clusters.
 The session concludes with a discussion of future plans, such as improving the package manager, enhancing developer tooling, supporting migration from v1 to v2, and maturing new features, followed by a Q&A addressing technical details about managed resources, activation policies, metrics, and the adoption of alpha features.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                     |

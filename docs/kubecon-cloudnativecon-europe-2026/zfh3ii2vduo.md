@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Hack Me If You Can: Learning Kubernetes Security Through a Role-P... Aoi Takahashi
+  & Keita Mochizuki"
+nav_order: 135
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Hack Me If You Can: Learning Kubernetes Security Through a Role-P... Aoi Takahashi & Keita Mochizuki"
-description: "In this roleplay-based presentation, Ai Takahashasi and Ka Mosuki introduce Kubernetes security concepts by simulating an attack and defense scenario. Ai, acting as an engineer, uses AI tools to rapidly build and deploy an e-commerce applic..."
+description:
+  In this roleplay-based presentation, Ai Takahashasi and Ka Mosuki introduce
+  Kubernetes security concepts by simulating an attack and defense scenario. Ai, acting
+  as an engineer, uses AI tools to rapidly build and deploy an e-commerce applic...
 resource: https://www.youtube.com/watch?v=zFH3II2vdUo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Ai, acting as an engineer, uses AI tools to rapidly build and deploy an e-commer
 A hacker character exploits a critical vulnerability in the application, gaining root access and escalating privileges due to insecure container configurations, such as running as a privileged container with host PID enabled.
 The hero, Moi, then explains how to mitigate such risks by scanning for vulnerabilities, minimizing container image size, using secure manifest settings, and employing tools like admission controllers and policy-based controls.
 The presenters emphasize the importance of not blindly trusting AI-generated code, regularly scanning for vulnerabilities, and leveraging both traditional and AI-powered security tools to maintain a secure Kubernetes environment.
+
 # Main Points
 
 |   # | Main point                                                                                                                              |

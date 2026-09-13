@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Smarter Together: Orchestrating Multi-Agent AI Systems... Ana Maria Lopez
+  Moreno & Sharon Camacho"
+nav_order: 283
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Smarter Together: Orchestrating Multi-Agent AI Systems... Ana Maria Lopez Moreno & Sharon Camacho"
-description: "In this presentation, Sharon Camacho and Anna Lopez discuss the challenges and solutions involved in integrating multiple AI agents developed by different teams across various cloud platforms, such as Azure and GCP. They highlight the diffi..."
+description:
+  In this presentation, Sharon Camacho and Anna Lopez discuss the challenges
+  and solutions involved in integrating multiple AI agents developed by different
+  teams across various cloud platforms, such as Azure and GCP. They highlight the
+  diffi...
 resource: https://www.youtube.com/watch?v=JnybchLqKXc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They highlight the difficulties of connecting isolated, monolithic AI systems an
 Their approach involves using agent cards to specify each agent’s skills, allowing an orchestrator to route user requests to the appropriate agents, and leveraging containers for scalability and flexibility.
 They demonstrate their solution with a multi-agent system deployed on Azure Kubernetes Services, featuring agents with different functionalities and a simple user interface for interaction.
 The presenters also emphasize the importance of managing the lifecycle and versioning of agents and prompts, drawing parallels to machine learning model management, and outline future steps to improve deployment pipelines, environment management, and generative AI operations.
+
 # Main Points
 
 |   # | Main point                                                                                                                              |

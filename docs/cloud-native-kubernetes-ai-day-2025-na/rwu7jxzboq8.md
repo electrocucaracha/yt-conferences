@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "This Lying Has To Stop: Keeping AI Honest with OpenTelemetry - Whitney Lee,
+  Datadog"
+nav_order: 17
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "This Lying Has To Stop: Keeping AI Honest with OpenTelemetry - Whitney Lee, Datadog"
-description: "The speaker introduces Commit Story, an automated engineering journal app built with Cloud Code that uses AI to document code changes, commit messages, and developer-AI conversations triggered by Git commits. The app is heavily instrumented..."
+description:
+  The speaker introduces Commit Story, an automated engineering journal
+  app built with Cloud Code that uses AI to document code changes, commit messages,
+  and developer-AI conversations triggered by Git commits. The app is heavily instrumented...
 resource: https://www.youtube.com/watch?v=rwu7JXzbOQ8
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The app is heavily instrumented with OpenTelemetry, allowing detailed observabil
 Through a live demo and a dramatized debugging session, the speaker illustrates how development-time telemetry aids in diagnosing issues, validating assumptions, and informing both AI assistants and developers, while also highlighting challenges such as managing data costs and the complexity of instrumentation.
 OpenTelemetry is explained as a specification, protocol, and set of tools for standardizing and collecting telemetry data, with the speaker noting its unconventional use in this development context.
 The talk concludes by emphasizing the benefits of telemetry for debugging and system understanding, acknowledging some drawbacks, and suggesting that AI-driven tooling could help automate instrumentation in the future.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                              |

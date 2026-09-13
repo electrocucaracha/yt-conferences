@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Open Source To Enterprise Scale and Back: A Journey... Michael Kuhnt
+  & Gabriel Adrian Samfira"
+nav_order: 124
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Open Source To Enterprise Scale and Back: A Journey... Michael Kuhnt & Gabriel Adrian Samfira"
-description: "In this talk, Michael from Mercedes-Benz Tech Innovation and Gabriel from Cloud Base Solutions share their experience building a large-scale managed CI/CD runner platform for internal teams at Mercedes-Benz, leveraging the open source proje..."
+description:
+  In this talk, Michael from Mercedes-Benz Tech Innovation and Gabriel
+  from Cloud Base Solutions share their experience building a large-scale managed
+  CI/CD runner platform for internal teams at Mercedes-Benz, leveraging the open source
+  proje...
 resource: https://www.youtube.com/watch?v=eqX6w8bFyxE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Initially, teams at Mercedes-Benz faced challenges with fragmented and insecure 
 After documenting their vision and gathering feedback, they adopted and contributed to Garm, which offered a flexible, pluggable architecture for managing runners across various clouds and infrastructures.
 Key lessons included the importance of clearly articulating and sharing the project vision, actively engaging users and minimizing adoption friction, learning transparently from failures through postmortems, and giving back to the open source community.
 The session concluded with a live demo of Garm’s Kubernetes operator, showcasing its integration capabilities and scalability, and emphasized that small teams can achieve significant impact by building on and contributing to open source solutions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Kubernetes-Native ≠ Cloud Native: Avoiding Architecture Theater - Prerit Munjal,
+  Groupon"
+nav_order: 197
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Kubernetes-Native ≠ Cloud Native: Avoiding Architecture Theater - Prerit Munjal, Groupon"
-description: 'The speaker, a senior technical product manager at Groupon, discusses the distinction between "Kubernetes native" and "cloud native," emphasizing that these terms mean different things to different people and organizations. He argues that w...'
+description:
+  The speaker, a senior technical product manager at Groupon, discusses
+  the distinction between "Kubernetes native" and "cloud native," emphasizing that
+  these terms mean different things to different people and organizations. He argues
+  that w...
 resource: https://www.youtube.com/watch?v=T1inWaulUyQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He argues that while Kubernetes and cloud-native approaches are often conflated,
 Through personal experience and benchmarks, he demonstrates that Kubernetes-native applications require significantly more code and configuration than non-cloud-native approaches, often without delivering proportional benefits in scalability, resiliency, or developer experience.
 The speaker suggests that many problems addressed by the cloud-native ecosystem are not relevant for most companies, and that adding layers of abstraction and tooling can create more issues than they solve.
 Ultimately, he advocates for a pragmatic approach: focus on actual business needs, avoid unnecessary complexity, and empower developers to manage infrastructure directly when possible, rather than blindly adopting the latest trends or tools.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

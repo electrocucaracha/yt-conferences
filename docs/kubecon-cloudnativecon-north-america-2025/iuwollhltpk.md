@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Public Technical Oversight Committee (TOC) Meeting - Moderated by Bob Killen,
+  CNCF
+nav_order: 248
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Public Technical Oversight Committee (TOC) Meeting - Moderated by Bob Killen, CNCF"
-description: "The Technical Oversight Committee (TOC) of the Cloud Native Computing Foundation (CNCF) oversees technical aspects of CNCF projects, providing guidance, reviews, and mentoring to ensure project sustainability. With over 220 projects, the TO..."
+description:
+  The Technical Oversight Committee (TOC) of the Cloud Native Computing
+  Foundation (CNCF) oversees technical aspects of CNCF projects, providing guidance,
+  reviews, and mentoring to ensure project sustainability. With over 220 projects,
+  the TO...
 resource: https://www.youtube.com/watch?v=IuWOlLhLTPk
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The Technical Oversight Committee (TOC) of the Cloud Native Computing Foundation
 With over 220 projects, the TOC aims to promote innovation, standardization, and community engagement.
 To achieve this, they are exploring automation, AI, and feedback mechanisms to reduce "toil" in evaluating projects.
 The TOC also emphasizes the importance of predictability, coaching, and guidance for project maintainers, while encouraging open communication and feedback from the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

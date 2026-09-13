@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "[Keynote] Engineering the Future-Making MCP Enterprise Ready for Finance -
+  Shawn Edwards, Bloomberg"
+nav_order: 26
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Keynote] Engineering the Future-Making MCP Enterprise Ready for Finance - Shawn Edwards, Bloomberg"
-description: "The speaker introduces Laughlinberg as a global provider of business and financial information, emphasizing their commitment to delivering trusted news, insights, and data to enhance transparency and efficiency in markets. They highlight th..."
+description:
+  The speaker introduces Laughlinberg as a global provider of business
+  and financial information, emphasizing their commitment to delivering trusted news,
+  insights, and data to enhance transparency and efficiency in markets. They highlight
+  th...
 resource: https://www.youtube.com/watch?v=p9XcmPMUaM4
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They highlight the company's extensive experience with AI and machine learning, 
 Recently, Laughlinberg has focused on developing agentic AI systems, enabling the creation of innovative products and transforming their approach to product development.
 The speaker discusses the importance of the MCP protocol in grounding generative AI applications with timely, industry-specific context, particularly in finance, and describes MCP's role in improving system interoperability, developer productivity, and safe enterprise use.
 They note growing excitement and interest in MCP among financial sector executives and express enthusiasm for the collaborative efforts within the MCP community to advance this emerging technology.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "TikTok's IPv6 Journey To Cilium: Pitfalls and Lessons Learned - Giri Kuncoro
+  & Joseph Pallamidessi"
+nav_order: 318
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "TikTok's IPv6 Journey To Cilium: Pitfalls and Lessons Learned - Giri Kuncoro & Joseph Pallamidessi"
-description: "In this session, TikTok’s security engineering team detailed their two-year journey migrating Kubernetes clusters to IPv6-only networking using Cilium. Their infrastructure spans over 130 globally distributed virtual data centers, requiring..."
+description:
+  In this session, TikTok’s security engineering team detailed their two-year
+  journey migrating Kubernetes clusters to IPv6-only networking using Cilium. Their
+  infrastructure spans over 130 globally distributed virtual data centers, requiring...
 resource: https://www.youtube.com/watch?v=y0qlhiKtDGo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Their infrastructure spans over 130 globally distributed virtual data centers, r
 Initially, Cilium lacked IPv6-only support, leading the team to use Calico as a workaround while collaborating with the open source community and Cilium maintainers to address issues such as lack of IPv6 encapsulation, DNS proxy bugs, and service handling failures.
 Through iterative testing and community engagement, key features like IPv6 underlay encapsulation and improved debugging tools were added in Cilium 1.18, enabling successful production rollout in several clusters.
 The team emphasized the value of open source collaboration, the importance of encapsulation mode for ease of deployment, and the necessity of IPv6 due to IPv4 exhaustion and TikTok’s rapid growth, while also sharing practical debugging techniques and lessons learned for others pursuing similar migrations.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

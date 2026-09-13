@@ -1,11 +1,22 @@
 ---
+layout: default
+title: What's New in gRPC - Kevin Nilson, Google & Israel Shapiro, Broadcom
+nav_order: 339
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "What's New in gRPC - Kevin Nilson, Google & Israel Shapiro, Broadcom"
-description: "The video features a panel of gRPC maintainers and contributors discussing recent developments and features in the gRPC project. They highlight gRPC’s widespread adoption across industries, its language-agnostic design, and its suitability..."
+description:
+  The video features a panel of gRPC maintainers and contributors discussing
+  recent developments and features in the gRPC project. They highlight gRPC’s widespread
+  adoption across industries, its language-agnostic design, and its suitability...
 resource: https://www.youtube.com/watch?v=pd_eE6N3iK8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They highlight gRPC’s widespread adoption across industries, its language-agno
 Recent improvements include enhanced documentation, new user guides, and expanded video resources, as well as technical advancements such as service mesh features without sidecar proxies, improved observability with OpenTelemetry, and modernization efforts including first-class Rust support.
 The team also introduces new features like HTTP CONNECT integration with XDS, support for multiple SPIFFE trust domains, custom backend metrics for load balancing, and experimental protocols for AI model enrichment.
 The session concludes with a Q&A addressing best practices for proto file sharing and schema management, emphasizing the benefits of using protocol buffers directly in applications to reduce complexity and errors.
+
 # Main Points
 
 |   # | Main point                                                                                                                  |

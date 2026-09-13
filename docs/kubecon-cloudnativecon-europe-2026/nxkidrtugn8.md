@@ -1,11 +1,23 @@
 ---
+layout: default
+title: How To (Not) Fork Headlamp - Joaquim Rocha, Amutable
+nav_order: 145
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "How To (Not) Fork Headlamp - Joaquim Rocha, Amutable"
-description: "Raim, a maintainer of Headlamp at Immutable, presents an overview of Headlamp—a graphical user interface for Kubernetes focused on operators—and discusses its extensibility through a plugin system. He explains that while plugins allow for s..."
+description:
+  Raim, a maintainer of Headlamp at Immutable, presents an overview of
+  Headlamp—a graphical user interface for Kubernetes focused on operators—and discusses
+  its extensibility through a plugin system. He explains that while plugins allow
+  for s...
 resource: https://www.youtube.com/watch?v=nxkidRtUGn8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains that while plugins allow for significant customization, not all core
 Raim outlines several approaches to forking, including direct cloning, using git subtrees, and git submodules, each with their own pros and cons regarding repository structure, history management, and maintenance burden.
 He emphasizes best practices for maintaining forks, such as keeping changes atomic, rebasing frequently, and contributing useful changes back to the upstream project to minimize maintenance overhead.
 Ultimately, Raim encourages users to choose the forking strategy that best fits their needs and to leverage both plugins and forks for maximum flexibility when customizing Headlamp.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

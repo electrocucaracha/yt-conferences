@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  '"Will it Kubernetes?" A Tinkerer’s Journey From Curiosity To Career - Niklas
+  Frick'
+nav_order: 1
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: '"Will it Kubernetes?" A Tinkerer’s Journey From Curiosity To Career - Niklas Frick'
-description: "Nicholas recounts his journey into the world of Docker, containers, and Kubernetes, which began with curiosity during a summer evening in 2023 and quickly escalated into an all-night deep dive. With a background in IT systems engineering an..."
+description:
+  Nicholas recounts his journey into the world of Docker, containers, and
+  Kubernetes, which began with curiosity during a summer evening in 2023 and quickly
+  escalated into an all-night deep dive. With a background in IT systems engineering
+  an...
 resource: https://www.youtube.com/watch?v=_BNw50ccW-0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ With a background in IT systems engineering and digital business management from
 Through hands-on experimentation, he learned about key Kubernetes concepts, storage solutions, deployment tools, and the importance of community support.
 Nicholas highlights the differences between running Kubernetes in a home lab versus a production environment, emphasizing the added complexities of scalability, security, reliability, and teamwork in professional settings.
 Ultimately, his home lab experience provided practical skills and troubleshooting instincts that helped him transition to a platform engineering role, and he encourages others to start experimenting, learn by breaking things, and engage with the community to grow their expertise.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                         |

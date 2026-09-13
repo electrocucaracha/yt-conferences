@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  Simplifying Apache Kafka on Kubernetes With Strimzi - Paolo Patierno & Gantigmaa
+  Selenge, Red Hat
+nav_order: 304
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Simplifying Apache Kafka on Kubernetes With Strimzi - Paolo Patierno & Gantigmaa Selenge, Red Hat"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=sLFmnCyZ89M
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: Paulo Paderno, a sof
 The main features of StreamZy include Craft Tier Storage, which simplifies metadata management and improves scalability, and Auto Rebalancing on Cluster Scaling, which automates rebalancing and scaling of Kafka clusters.
 Additionally, StreamZy is moving towards v1 APIs and will support Gateway API for exposing Kafka clusters outside of Kubernetes.
 The project also aims to improve certificate management and is exploring the concept of Stretch Clusters across multiple Kubernetes clusters.
+
 # Main Points
 
 |   # | Main point                                                                                                                    |

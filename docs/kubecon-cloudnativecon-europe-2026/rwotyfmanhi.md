@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tutorial: KV-Cache Wins You Can Feel: Building AI-Aware... Tyler S, Kay Y,
+  Vita B, Nili G & Maroon A"
+nav_order: 382
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Tutorial: KV-Cache Wins You Can Feel: Building AI-Aware... Tyler S, Kay Y, Vita B, Nili G & Maroon A"
-description: "The presentation provides a deep dive into LMD, focusing on KV cache management and intelligent inference scheduling for large language model (LLM) deployments. The speakers introduce LMD’s architecture, highlighting how it optimizes hardwa..."
+description:
+  The presentation provides a deep dive into LMD, focusing on KV cache
+  management and intelligent inference scheduling for large language model (LLM) deployments.
+  The speakers introduce LMD’s architecture, highlighting how it optimizes hardwa...
 resource: https://www.youtube.com/watch?v=RWOtYFMAnHI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The speakers introduce LMD’s architecture, highlighting how it optimizes hardw
 They explain the importance of separating prefill and decode phases in LLM inference, leveraging Kubernetes for scalable deployments, and demonstrate how naive load balancing can lead to cache inefficiencies and reduced throughput.
 The hands-on tutorial guides participants through simulating LMD deployments, benchmarking standard Kubernetes routing versus LMD’s intelligent scheduler, and showcases real-world use cases such as token factories.
 The session concludes with discussion on future directions, including agentic inference support, and encourages community contributions to further enhance LMD’s capabilities.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

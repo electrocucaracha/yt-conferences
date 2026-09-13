@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Disaster Resilient Trino on Kubernetes: Multi-Cluster Setup With Karma...
+  Sung Yun & Antoine Marthey"
+nav_order: 92
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Disaster Resilient Trino on Kubernetes: Multi-Cluster Setup With Karma... Sung Yun & Antoine Marthey"
-description: "In this presentation, S and Antoine from Bloomberg detail the evolution of their managed Trino and Iceberg data platform from a single-cluster, governance-focused architecture to a highly available, multi-cluster deployment designed for res..."
+description:
+  In this presentation, S and Antoine from Bloomberg detail the evolution
+  of their managed Trino and Iceberg data platform from a single-cluster, governance-focused
+  architecture to a highly available, multi-cluster deployment designed for res...
 resource: https://www.youtube.com/watch?v=vGjiXGdax98
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ To address this, they introduced a federated Trino API server backed by a stretc
 Using Karmada, an open-source multi-cluster Kubernetes management system, they orchestrate Trino deployments and aggregate cluster statuses, while the Trino Gateway provides a single, highly available query endpoint that intelligently routes requests and handles backend health and failover.
 The new architecture abstracts away zone details, automates recovery, and simplifies user workflows, with ongoing plans to expand to more data centers, implement autoscaling, enhance query logging, and enforce resource groups.
 The Q&A addressed deployment strategies, disaster recovery validation, integration with managed services, and technical details of their stretched etcd and multi-cluster setup.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

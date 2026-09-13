@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  How to Build Your Cloud Native Balance Sheet - Danielle Cook, Akamai & Simon
+  Forster, Stackegy
+nav_order: 148
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "How to Build Your Cloud Native Balance Sheet - Danielle Cook, Akamai & Simon Forster, Stackegy"
-description: 'In this session, Simon Forester and Danielle Cook discuss the concept of a "cloud native balance sheet," arguing that traditional organizational balance sheets overlook significant intangible assets and liabilities related to people, proces...'
+description:
+  In this session, Simon Forester and Danielle Cook discuss the concept
+  of a "cloud native balance sheet," arguing that traditional organizational balance
+  sheets overlook significant intangible assets and liabilities related to people,
+  proces...
 resource: https://www.youtube.com/watch?v=5ZwS4PYe-Cg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They highlight that while infrastructure costs are visible and measurable, facto
 The presenters propose using a balance sheet metaphor to make these hidden factors visible, enabling organizations to assess both technological and human/process assets and liabilities side by side.
 By regularly reviewing and quantifying these elements, organizations can shift the conversation from mere cost-cutting to strategic investment, ultimately improving performance, reducing hidden costs, and increasing overall value.
 They encourage attendees to start simple balance sheet reviews involving finance, engineering, and product teams, and provide resources to help organizations adopt this approach.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

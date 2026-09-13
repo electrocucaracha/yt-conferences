@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Amplifying End User Voices: Platform Architects on the... Rajas K, Zach S,
+  Kevin K, Elias T & Dawn C"
+nav_order: 19
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Amplifying End User Voices: Platform Architects on the... Rajas K, Zach S, Kevin K, Elias T & Dawn C"
-description: "The panel discussion brought together platform architects and engineers from companies like Broadcom, Google, Nvidia, and Amazon to share user feedback and challenges in the Kubernetes and cloud native ecosystem. Key issues raised included..."
+description:
+  The panel discussion brought together platform architects and engineers
+  from companies like Broadcom, Google, Nvidia, and Amazon to share user feedback
+  and challenges in the Kubernetes and cloud native ecosystem. Key issues raised included...
 resource: https://www.youtube.com/watch?v=7uBB4qgh2R0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Key issues raised included the need for better node abstraction, especially as A
 Panelists emphasized the importance of extensibility in Kubernetes, drawing clear boundaries between what belongs in core Kubernetes and what should remain in the broader ecosystem, with mechanisms in core and policies in the ecosystem.
 They discussed the challenges of configuration complexity, incident response, and the gap between the ideal and current states of enterprise platform teams, highlighting the need for upstream-first contributions and reusable community tools.
 Looking ahead, the panelists predicted increased focus on confidential computing, agentic primitives, and simplifying platform management, while also identifying technical debt areas such as the Kubelet and API machinery as priorities for future improvement.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

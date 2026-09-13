@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Flipping the Curve: A Platform Engineer's Guide to Unlocking the Silent 80%
+  - Michael Reichenbach"
+nav_order: 111
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Flipping the Curve: A Platform Engineer's Guide to Unlocking the Silent 80% - Michael Reichenbach"
-description: 'The speaker discusses the importance of platform engineering teams focusing on the needs of the "silent 80%"—the average software engineers—rather than just catering to experts or themselves, who tend to be the loudest but represent a minor...'
+description:
+  The speaker discusses the importance of platform engineering teams focusing
+  on the needs of the "silent 80%"—the average software engineers—rather than just
+  catering to experts or themselves, who tend to be the loudest but represent a minor...
 resource: https://www.youtube.com/watch?v=xRpGhFihQpk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Drawing from personal experience, the speaker explains that building tools for e
 To address this, they recommend conducting exploratory and targeted user interviews with typical users to uncover real pain points and validate hypotheses, followed by well-constructed surveys to measure the prevalence of these issues.
 The process should involve establishing clear, specific success metrics before building solutions, iterating quickly based on user feedback, and treating platforms as evolving products rather than one-off projects.
 The speaker also addresses questions about balancing expert and general user needs, measuring value, managing low adoption, and adapting user research methods as platforms mature, emphasizing the need for continuous engagement, incremental improvement, and clear communication with both users and leadership.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

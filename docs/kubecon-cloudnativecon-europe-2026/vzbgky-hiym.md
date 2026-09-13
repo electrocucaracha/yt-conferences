@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cert-manager – Project Update: Beyond 2026 - Tim Ramlot & Maël Valais, Palo
+  Alto Networks"
+nav_order: 38
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cert-manager – Project Update: Beyond 2026 - Tim Ramlot & Maël Valais, Palo Alto Networks"
-description: "The presentation provides an overview of the cert-manager project, its recent developments, and future plans. Cert-manager is a CNCF-graduated open-source project focused on managing X.509 certificates within Kubernetes, offering controller..."
+description:
+  The presentation provides an overview of the cert-manager project, its
+  recent developments, and future plans. Cert-manager is a CNCF-graduated open-source
+  project focused on managing X.509 certificates within Kubernetes, offering controller...
 resource: https://www.youtube.com/watch?v=vzBGkY_HIyM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Cert-manager is a CNCF-graduated open-source project focused on managing X.509 c
 Recent milestones include project graduation, improved governance, and the addition of new maintainers to enhance diversity and long-term viability.
 Key updates cover new features such as support for listener sets, improvements to Helm charts, Azure private DNS zones, and enhanced security practices, including automated pipelines, centralized dependency management, and regular security audits.
 The team is also addressing migration challenges from Ingress to Gateway API, improving developer self-service, and planning future enhancements like moving internal issuers out of the core project, optimizing the ACME issuer, and introducing features such as renewal windows and server-side apply.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

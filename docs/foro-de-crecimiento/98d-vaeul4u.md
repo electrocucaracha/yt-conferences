@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Experto en negocios: No es falta de esfuerzo… es el juego que estás jugando
+  | Carlos Castellanos"
+nav_order: 43
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en negocios: No es falta de esfuerzo… es el juego que estás jugando | Carlos Castellanos"
-description: "En esta entrevista, Carlos Eduardo Castellanos, experto en negocios y liderazgo, comparte su visión sobre el emprendimiento y la generación de riqueza. Explica que los ricos se enfocan en crear activos y destaca la importancia de buscar neg..."
+description:
+  En esta entrevista, Carlos Eduardo Castellanos, experto en negocios y
+  liderazgo, comparte su visión sobre el emprendimiento y la generación de riqueza.
+  Explica que los ricos se enfocan en crear activos y destaca la importancia de buscar
+  neg...
 resource: https://www.youtube.com/watch?v=98D-vaEuL4U
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Explica que los ricos se enfocan en crear activos y destaca la importancia de bu
 Castellanos identifica tres innegociables en su vida: tener control de su tiempo, no sacrificar su tranquilidad y buscar ingresos sin límite.
 Subraya la necesidad de ingresos adicionales para superar las limitaciones económicas y sociales, y resalta la importancia de la autoeducación, el método, la meta y el mentor en el camino emprendedor.
 A través de analogías como el bonsái y la montaña, enfatiza la disciplina, el trabajo en equipo y la transformación personal como claves para el éxito, concluyendo que el verdadero liderazgo e influencia surgen de la confiabilidad y el servicio a los demás.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

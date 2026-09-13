@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "Museum of Weird Bugs: Our Favorites From 8 Years of Service Mesh Debugging
+  - Alex Leong, Buoyant"
+nav_order: 200
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Museum of Weird Bugs: Our Favorites From 8 Years of Service Mesh Debugging - Alex Leong, Buoyant"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Kcjh0-hXwWw
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: Alex Leong, a mainta
 The first bug was related to CRDs, where a memory leak caused the policy controller to become overloaded and eventually be killed by Kubernetes.
 The second bug involved routing issues due to stale addresses, which could cause the system to deadlock if one client didn't send window updates.
 The third bug was a memory leak that required looking at deallocations in addition to allocations, and being careful what is put in map keys.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

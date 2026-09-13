@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Locking Down Ray Serve: How to Secure Ur ML Models? - Kateryna Hrytsaienko,
+  Valtech"
+nav_order: 213
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Locking Down Ray Serve: How to Secure Ur ML Models? - Kateryna Hrytsaienko, Valtech"
-description: "Katina begins by sharing her personal experience with learning to secure Ray models and emphasizes the importance of robust security practices in MLOps environments. She introduces Ray as an open-source tool for distributed computing, highl..."
+description:
+  Katina begins by sharing her personal experience with learning to secure
+  Ray models and emphasizes the importance of robust security practices in MLOps environments.
+  She introduces Ray as an open-source tool for distributed computing, highl...
 resource: https://www.youtube.com/watch?v=FLTKUAcuFyc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ She introduces Ray as an open-source tool for distributed computing, highlightin
 The talk covers best practices for securing Ray clusters, including using namespaces, virtual clusters, and policy engines like Kyverno to enforce boundaries and resource limits.
 Katina also discusses strategies for managing inbound and outbound traffic, such as leveraging private APIs, identity-aware proxies, and mutual TLS—preferably via service meshes like Istio or managed cloud solutions—while noting the limitations of Ray’s own token authentication.
 She concludes by recommending continuous monitoring tools like Prowler to detect misconfigurations and encourages attendees to access her runbook and resources for further guidance.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                    |

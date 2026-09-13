@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Code Mode Without the Code - Bob Dickinson, TeamSpark
+nav_order: 10
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Code Mode Without the Code - Bob Dickinson, TeamSpark"
-description: 'In this talk, Bob Dickinson introduces MCP Graph, a no-code, open-source solution for orchestrating workflows using MCP servers without generating or executing source code. He explains the limitations of "code mode" approaches, where LLMs g...'
+description:
+  In this talk, Bob Dickinson introduces MCP Graph, a no-code, open-source
+  solution for orchestrating workflows using MCP servers without generating or executing
+  source code. He explains the limitations of "code mode" approaches, where LLMs g...
 resource: https://www.youtube.com/watch?v=tTCnNsaPX5Q
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains the limitations of "code mode" approaches, where LLMs generate code 
 MCP Graph addresses these by using a declarative YAML-based DSL to define workflows as directed graphs, leveraging established tools like JSONata for data transformation and JSON Logic for conditional routing, making the system both transparent and inspectable.
 Dickinson also describes the development of MCP Graph Toolkit, which equips agents with the same tools and context as human developers, enabling them to build, test, and deploy workflows more effectively.
 The solution is complemented by a visualization tool (MCP Graph UX) and is designed to be composable, observable, and suitable for both individual and enterprise use, with future enhancements possible based on community feedback.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                              |

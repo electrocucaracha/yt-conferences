@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "Resilient Multi-Cloud Strategies: Harnessing Kubernetes, Cluster API, and...
+  T. Rahman & J. Mosquera"
+nav_order: 283
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Resilient Multi-Cloud Strategies: Harnessing Kubernetes, Cluster API, and... T. Rahman & J. Mosquera"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=4DjydLH21nM
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: New Relic, a company
 This architecture consists of self-contained units called "cells" that can be scaled independently and have limited blast radius in case of incidents.
 The cells are managed using a combination of cluster API, carpenter, and custom tools, which enable features such as automated node creation, scheduling classes, and cell routing based on customer ID and data type.
 This architecture allows for greater scalability, flexibility, and reliability, while also reducing the complexity of managing multiple cloud providers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

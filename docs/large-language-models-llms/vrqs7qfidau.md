@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Stanford CS25: V5 I On the Biology of a Large Language Model, Josh Batson
+  of Anthropic"
+nav_order: 15
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CS25: V5 I On the Biology of a Large Language Model, Josh Batson of Anthropic"
-description: 'Joshua Batson from Anthropic presents an overview of his team''s work on mechanistic interpretability of large language models, focusing on understanding their internal "biology." He explains that, rather than simply pattern-matching or usin...'
+description:
+  Joshua Batson from Anthropic presents an overview of his team's work
+  on mechanistic interpretability of large language models, focusing on understanding
+  their internal "biology." He explains that, rather than simply pattern-matching
+  or usin...
 resource: https://www.youtube.com/watch?v=vRQs7qfIDaU
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ Joshua Batson from Anthropic presents an overview of his team's work on mechanis
 Batson describes their approach of using sparse dictionary learning to identify interpretable features—linear combinations of neurons—that correspond to meaningful concepts, such as the Golden Gate Bridge or medical diagnoses, and demonstrates how interventions on these features can causally influence model outputs.
 He provides examples showing that models generalize concepts across languages, perform arithmetic through parallel motifs, and exhibit planning behaviors, such as generating rhymes.
 The talk also addresses challenges like hallucinations and the limitations of current interpretability methods, emphasizing the need for deeper understanding as models become more capable and their behaviors more subtle.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

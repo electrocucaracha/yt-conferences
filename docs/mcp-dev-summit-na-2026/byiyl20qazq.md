@@ -1,11 +1,23 @@
 ---
+layout: default
+title: UI in the Age of AI - Adam Cowley, Neo4j
+nav_order: 102
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "UI in the Age of AI - Adam Cowley, Neo4j"
-description: "In this talk, Adam Cowie discusses the evolving role of user interfaces (UIs) in the age of AI, drawing from his experience leading Graph Academy, Neo4j’s online training platform. He observes that AI is now widely used by non-technical peo..."
+description:
+  In this talk, Adam Cowie discusses the evolving role of user interfaces
+  (UIs) in the age of AI, drawing from his experience leading Graph Academy, Neo4j’s
+  online training platform. He observes that AI is now widely used by non-technical
+  peo...
 resource: https://www.youtube.com/watch?v=byIYL20QazQ
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He observes that AI is now widely used by non-technical people to improve daily 
 Cowie describes the transition from a basic RAG-based chatbot, which often failed to solve users’ real problems, to a more advanced agentic assistant capable of performing actions and adapting to users’ needs.
 He emphasizes three essential elements for modern UIs: transparency (so users understand what the AI is doing), adaptability (so the UI responds to users’ context and needs), and serendipity (so the system can anticipate and address unspoken questions).
 Cowie also addresses the balance between guiding users through structured learning and allowing them the freedom to explore, concluding that the UI’s role is to support users’ goals rather than constrain them to predefined paths.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                        |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Experta en voz: cómo hablar para que realmente te escuchen | Elisa Mass -
+  Sesión 23"
+nav_order: 29
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experta en voz: cómo hablar para que realmente te escuchen | Elisa Mass - Sesión 23"
-description: "En esta entrevista, la especialista en voz Elisa Más explica cómo la voz es un reflejo de la personalidad, la historia y el contexto social de cada individuo, y cómo puede ser modificada y mejorada mediante entrenamiento consciente, similar..."
+description:
+  En esta entrevista, la especialista en voz Elisa Más explica cómo la
+  voz es un reflejo de la personalidad, la historia y el contexto social de cada individuo,
+  y cómo puede ser modificada y mejorada mediante entrenamiento consciente, similar...
 resource: https://www.youtube.com/watch?v=Rm9Dgv1_Dlg
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ En esta entrevista, la especialista en voz Elisa Más explica cómo la voz es un
 Se abordan los factores que influyen en la formación de la voz, desde la biología y la alimentación en la infancia hasta los hábitos sociales y emocionales, así como los vicios y tensiones que pueden limitar su expresividad.
 Elisa destaca la importancia de la percepción y la conciencia sobre la propia voz, y ofrece ejercicios prácticos para trabajar la relajación, respiración, dicción, articulación y resonancia, enfatizando que la voz es dinámica y requiere entrenamiento constante.
 Además, se discuten las cualidades del sonido —intensidad, duración, timbre y tono— y su impacto en la comunicación efectiva, subrayando que la voz tiene el poder de construir o destruir, y es una herramienta fundamental para conectar, liderar y transmitir emociones.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                        |

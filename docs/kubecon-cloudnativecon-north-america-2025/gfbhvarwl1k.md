@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tutorial: Intelligent Failure: Using AI To Push Your Cluster To the Br...
+  James Ilse & Michael Levan"
+nav_order: 327
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Tutorial: Intelligent Failure: Using AI To Push Your Cluster To the Br... James Ilse & Michael Levan"
-description: "In this tutorial, James Isles and Michael Leavon from Solo discuss practical approaches to deploying and managing AI agents in production environments, with a focus on Kubernetes clusters. They introduce key concepts such as large language..."
+description:
+  In this tutorial, James Isles and Michael Leavon from Solo discuss practical
+  approaches to deploying and managing AI agents in production environments, with
+  a focus on Kubernetes clusters. They introduce key concepts such as large language...
 resource: https://www.youtube.com/watch?v=gFBhVarWL1k
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They introduce key concepts such as large language models (LLMs), agents, and th
 The presenters emphasize the importance of security, observability, and layered defenses—drawing parallels to historical fortification strategies—to protect AI workloads from common vulnerabilities like prompt injection and unauthorized access.
 They demonstrate open-source tools such as Kagent and Agent Gateway, which facilitate scalable, declarative agent deployment and provide mechanisms for monitoring, rate limiting, and prompt guarding.
 Throughout, they stress the need for careful permission management, community-driven tool sharing, and ongoing vigilance as the AI landscape rapidly evolves, highlighting both the opportunities and risks of integrating AI into production systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Building Scalable MCP Servers with Node with Matteo Colina - Platformatic.dev"
-description: "The speaker introduces themselves as a Node.js developer and board member of the Open and GraphQL Foundations, then focuses on the Model Context Protocol (MCP), which enables AI models to interact with the digital world. They explain the ag..."
+nav_order: 12
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  The speaker introduces themselves as a Node.js developer and board member
+  of the Open and GraphQL Foundations, then focuses on the Model Context Protocol
+  (MCP), which enables AI models to interact with the digital world. They explain
+  the ag...
 resource: https://www.youtube.com/watch?v=ERESuo6n5ZQ
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They explain the agentic loop in MCP, emphasizing its slow, iterative process an
 The talk highlights the challenges of building scalable, reliable, and stateful MCP servers, particularly over unreliable network connections, and discusses the limitations of current SDKs and the importance of message delivery guarantees.
 To address these issues, the speaker describes their Node.js-based library, @platformatic/mcp, which uses Redis to manage state, support resumability, and handle authentication, while also detailing the complexities of implementing dynamic client registration with OAuth 2.1.
 The presentation concludes with a demonstration of the system and an invitation to try the tools, noting the company's expertise in enterprise Node.js solutions.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

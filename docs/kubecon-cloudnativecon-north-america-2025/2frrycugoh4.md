@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Don't Panic! A Beginner's Guide To K8s Debugging - Ivan Porta & Phil Henderson,
+  Buoyant
+nav_order: 63
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Don't Panic! A Beginner's Guide To K8s Debugging - Ivan Porta & Phil Henderson, Buoyant"
-description: "Phil Henderson and Ivan Pora present a beginner-friendly guide to troubleshooting Kubernetes, focusing on the complexities of managing microservices across single and multi-cluster environments. They explain how service meshes like Linkerd..."
+description:
+  Phil Henderson and Ivan Pora present a beginner-friendly guide to troubleshooting
+  Kubernetes, focusing on the complexities of managing microservices across single
+  and multi-cluster environments. They explain how service meshes like Linkerd...
 resource: https://www.youtube.com/watch?v=2fRRYcugOh4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain how service meshes like Linkerd simplify service-to-service communi
 The talk covers Linkerd’s architecture, including its control and data planes, and demonstrates how metrics, logs, and traces can be collected and visualized using tools like Grafana, Prometheus, and Loki.
 The presenters discuss common troubleshooting scenarios, such as DNS issues, control plane overload, and configuration errors, emphasizing the importance of good monitoring dashboards and collaboration between platform and application teams.
 Despite some live demo challenges, they encourage audience interaction and highlight the need for effective processes and visibility to quickly identify and resolve issues in Kubernetes environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                       |

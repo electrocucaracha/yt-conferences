@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Good, the Bad, and the Ugly: Hacking 3 Cloud Native AI Service... Hillai
+  Ben-Sasson & Nir Ohfeld"
+nav_order: 309
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "The Good, the Bad, and the Ugly: Hacking 3 Cloud Native AI Service... Hillai Ben-Sasson & Nir Ohfeld"
-description: "In this talk, researchers from Whiz detailed their discovery of a critical container escape vulnerability in the Nvidia Container Toolkit, a component widely used across cloud-native AI services. By exploiting this vulnerability, they demon..."
+description:
+  In this talk, researchers from Whiz detailed their discovery of a critical
+  container escape vulnerability in the Nvidia Container Toolkit, a component widely
+  used across cloud-native AI services. By exploiting this vulnerability, they demon...
 resource: https://www.youtube.com/watch?v=ZTiWXqYg97U
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ In this talk, researchers from Whiz detailed their discovery of a critical conta
 By exploiting this vulnerability, they demonstrated how attackers could gain full host access from within a container, potentially compromising entire cloud environments.
 The team tested the exploit on three platforms—Azure Container Instances, Replicate, and Digital Ocean's Paperspace—revealing varying levels of risk and defense: Azure's virtual API server effectively contained the attack, Replicate's monitoring detected and flagged the intrusion, while Digital Ocean's environment allowed for full service takeover and exposure of customer secrets.
 The researchers emphasized the importance of layered security measures beyond containerization, responsible disclosure, and ongoing vigilance, announcing an open-source competition to encourage further research into foundational cloud infrastructure vulnerabilities.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                          |

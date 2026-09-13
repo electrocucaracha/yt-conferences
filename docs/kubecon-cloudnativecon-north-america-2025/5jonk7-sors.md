@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Beyond the Cloud(s): Falco’s Ascent in Performance and... Leonardo Grasso
+  & Leonardo Di Giovanna"
+nav_order: 25
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Beyond the Cloud(s): Falco’s Ascent in Performance and... Leonardo Grasso & Leonardo Di Giovanna"
-description: "In this presentation, Lonardo Graaso and Leonardo de Joanna, both maintainers of the Falco project, introduce themselves and provide an overview of Falco, an open-source, cloud-native security tool for runtime threat detection. They discuss..."
+description:
+  In this presentation, Lonardo Graaso and Leonardo de Joanna, both maintainers
+  of the Falco project, introduce themselves and provide an overview of Falco, an
+  open-source, cloud-native security tool for runtime threat detection. They discuss...
 resource: https://www.youtube.com/watch?v=5JoNk7_Sors
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They discuss Falco’s core functionality, which involves capturing events from 
 The latest release, Falco 0.42, introduces major features such as the capture recording feature, which allows users to record triggered events for troubleshooting and forensics, and can be analyzed using the new Stratoshark tool.
 Another significant update is the drop entry initiative, which consolidates event reporting to exit events only, resulting in up to 20% lower system call latency and 30% lower CPU usage, while maintaining backward compatibility and simplifying the codebase.
 The presenters also outline ongoing and future areas for performance and maintainability improvements, including event loop optimization, potential deprecation of legacy components, and encourage community feedback and participation through various channels.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

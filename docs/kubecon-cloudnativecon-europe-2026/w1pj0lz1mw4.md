@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Fluent Bit V5: Pushing the Limits of Observability at Scale - Eduardo Silva"
-description: "Eduardo presents the latest advancements in the Fluent Bit project, emphasizing its evolution as a high-performance, vendor-neutral telemetry pipeline for collecting, processing, and routing observability data. He explains the core architec..."
+nav_order: 112
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Eduardo presents the latest advancements in the Fluent Bit project, emphasizing
+  its evolution as a high-performance, vendor-neutral telemetry pipeline for collecting,
+  processing, and routing observability data. He explains the core architec...
 resource: https://www.youtube.com/watch?v=w1pj0Lz1mW4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ Eduardo presents the latest advancements in the Fluent Bit project, emphasizing 
 He explains the core architecture—inputs, processors, routing, and outputs—and highlights new features in version 5, such as enhanced OpenTelemetry integration, multi-threaded input plugins, improved buffering and storage, conditional processing and routing, and the ability to route internal logs through the pipeline.
 The project maintains backward compatibility with filters and focuses on performance optimizations, security enhancements like OAuth2 and JWT validation, and broad platform support.
 Eduardo addresses community questions on integration, performance benchmarking, configuration flexibility, and project maintenance, encouraging users to choose solutions that best fit their environments while reaffirming Fluent Bit’s commitment to extensibility, efficiency, and community-driven development.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                    |

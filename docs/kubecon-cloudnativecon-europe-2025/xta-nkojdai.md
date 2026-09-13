@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Open Policy Agent (OPA) Intro & Deep Dive - Charlie Egan & Anders Eknert, Styra
+nav_order: 209
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Open Policy Agent (OPA) Intro & Deep Dive - Charlie Egan & Anders Eknert, Styra"
-description: "The speaker discusses Open Policy Agent (OPA) and its role in implementing policy as code. They explain that OPA allows users to decouple policy logic from their applications, standardize it, and focus on building business value without imp..."
+description:
+  The speaker discusses Open Policy Agent (OPA) and its role in implementing
+  policy as code. They explain that OPA allows users to decouple policy logic from
+  their applications, standardize it, and focus on building business value without
+  imp...
 resource: https://www.youtube.com/watch?v=XtA-NKoJDaI
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They explain that OPA allows users to decouple policy logic from their applicati
 The speaker highlights the benefits of using policy as code, including version control, collaboration, and static analysis.
 They also discuss performance improvements made to OPA, including reducing memory allocations and optimizing built-in functions, resulting in a 723% faster evaluation time.
 The presentation concludes with an overview of upcoming roadmap features, including streaming tests, string interpolation, and improved language server support for Rego.
+
 # Main Points
 
 |   # | Main point                                                                                                     |

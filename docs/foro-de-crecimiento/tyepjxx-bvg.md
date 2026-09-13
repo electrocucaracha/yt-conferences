@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Experto en comunicación: el error que te impide conectar con los demás – Santos
+  Lever sesión #26"
+nav_order: 40
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en comunicación: el error que te impide conectar con los demás – Santos Lever sesión #26"
-description: "En esta entrevista, Santos Lever, experto en comunicación, destaca la importancia fundamental de desarrollar habilidades comunicacionales tanto a nivel personal como profesional. Explica que la comunicación efectiva comienza con el diálogo..."
+description:
+  En esta entrevista, Santos Lever, experto en comunicación, destaca la
+  importancia fundamental de desarrollar habilidades comunicacionales tanto a nivel
+  personal como profesional. Explica que la comunicación efectiva comienza con el
+  diálogo...
 resource: https://www.youtube.com/watch?v=tyePJxx_BVg
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Explica que la comunicación efectiva comienza con el diálogo interno, ya que l
 Santos enfatiza la necesidad de cuestionar creencias limitantes y cultivar rutinas que fortalezcan la autoestima y el autoconocimiento.
 Además, aborda la relevancia de comprender las diferentes personalidades y lenguajes del amor para mejorar la interacción en parejas, organizaciones y equipos, subrayando que tratar bien a los demás y adaptar la comunicación según el contexto es clave para construir relaciones sólidas.
 Finalmente, comparte estrategias para hablar en público y en redes sociales, animando a perder el miedo, lanzarse a comunicar y aprovechar las plataformas digitales como herramientas para dejar un legado e impactar positivamente a otros.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

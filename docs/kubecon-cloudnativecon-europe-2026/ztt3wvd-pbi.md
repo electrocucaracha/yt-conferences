@@ -1,11 +1,23 @@
 ---
+layout: default
+title: "In Falco's Nest: The Evolution of Cloud Native Runtime Security - Iacopo
+  Rozzo & Aldo Lacuku"
+nav_order: 151
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "In Falco's Nest: The Evolution of Cloud Native Runtime Security - Iacopo Rozzo & Aldo Lacuku"
-description: "Jako Parazzo and Aldo Lutaku present recent developments and future plans for Falco, a runtime security tool for container-native ecosystems, during the Falcon maintainer track at CubeCon. They highlight Falco’s evolution from its open sour..."
+description:
+  Jako Parazzo and Aldo Lutaku present recent developments and future plans
+  for Falco, a runtime security tool for container-native ecosystems, during the Falcon
+  maintainer track at CubeCon. They highlight Falco’s evolution from its open sour...
 resource: https://www.youtube.com/watch?v=Ztt3Wvd-pbI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ Recent releases introduced features like capture recording for forensic analysis
 The Falco Operator, now production-ready, brings Kubernetes-native management, supporting declarative configuration, artifact management, and integration with ecosystem components, while new features enhance usability and flexibility, such as structured YAML support and config map integration.
 Looking ahead, the team is working on BPF iterators for more efficient system information retrieval, experimental multi-threading for better scalability, improved developer tooling like a language server, and AI guardrails integration.
 They also announce community initiatives, including funding programs to encourage contributions and technical writing, inviting participation in the ongoing development of Falco.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                  |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | KubeVirt Summit: KubeVirt on GB200: Vi... Fan Zhang,
+  Kevin Klues & Alay Patel"
+nav_order: 72
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | KubeVirt Summit: KubeVirt on GB200: Vi... Fan Zhang, Kevin Klues & Alay Patel"
-description: "In this presentation, Fan Fan Jang, Kevin Clues, and Ali Patel from Nvidia discuss their work on enabling cloud-native virtualization for the GB200 GPU platform, focusing on making a single VM behave like a complete compute tray with accura..."
+description:
+  In this presentation, Fan Fan Jang, Kevin Clues, and Ali Patel from Nvidia
+  discuss their work on enabling cloud-native virtualization for the GB200 GPU platform,
+  focusing on making a single VM behave like a complete compute tray with accura...
 resource: https://www.youtube.com/watch?v=jtnRFgu4tdI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They detail the technical challenges of virtualizing the GB200’s coherent arch
 The team explains how they adapted Kubernetes and KubeVirt to support these requirements, including custom patches, container runtime considerations, and handling complex NUMA configurations.
 They introduce Nvidia’s solution for multi-node GPU communication using NVLink and Kubernetes abstractions like compute domains, which simplify user experience by automating the setup of multi-node GPU ensembles.
 Finally, they address the unique challenges of orchestrating IMX daemons within VMs, proposing current manual solutions and outlining ongoing efforts to further streamline and automate this process for users.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                    |

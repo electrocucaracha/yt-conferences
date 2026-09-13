@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Return of the Mesh: Gateway API's Epic Quest for Unity - Henrik Rexed, Dynatrace"
-description: "The speaker, Henrik Cruxed, introduces a comparative analysis of service meshes in the cloud-native ecosystem, focusing on the Gateway API and its impact on service mesh functionality. He reviews several service meshes—Kuma, Linkerd, Istio..."
+nav_order: 260
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  The speaker, Henrik Cruxed, introduces a comparative analysis of service
+  meshes in the cloud-native ecosystem, focusing on the Gateway API and its impact
+  on service mesh functionality. He reviews several service meshes—Kuma, Linkerd,
+  Istio...
 resource: https://www.youtube.com/watch?v=tgs6Wq5UlBs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He reviews several service meshes—Kuma, Linkerd, Istio, and Ambient (with and 
 While the Gateway API brings promise by separating platform and routing concerns and supporting both north-south and east-west traffic, it currently lacks full support for advanced service mesh policies, requiring users to rely on mesh-specific CRDs or extensions.
 Benchmark results show Ambient mesh offers the lowest latency but lacks some features unless combined with KGateway, while Kuma is noted for its simplicity but higher resource usage.
 The speaker concludes that combining Ambient with KGateway provides a strong balance of simplicity, features, and performance, though he encourages users to choose based on their needs and to provide feedback for further improvement.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

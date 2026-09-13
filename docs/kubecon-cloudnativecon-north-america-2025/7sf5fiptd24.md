@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Performance Tuning Java Apps for Kubernetes: From Startup Time To Conta...
+  Ryan Jarvinen & Daniel Oh"
+nav_order: 198
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Performance Tuning Java Apps for Kubernetes: From Startup Time To Conta... Ryan Jarvinen & Daniel Oh"
-description: "In this presentation, Daniel from Red Hat IBM and Ryan Jarvin discuss performance tuning for Java applications on Kubernetes, addressing common challenges such as slow startup times, high memory usage, and scaling issues compared to lighter..."
+description:
+  In this presentation, Daniel from Red Hat IBM and Ryan Jarvin discuss
+  performance tuning for Java applications on Kubernetes, addressing common challenges
+  such as slow startup times, high memory usage, and scaling issues compared to lighter...
 resource: https://www.youtube.com/watch?v=7sF5fiPtd24
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They introduce several open-source tools and frameworks—including JIB, GraalVM
 Through a live demo, they show how Quarkus integrates these technologies to enable fast, efficient Java applications that can scale rapidly on Kubernetes, highlighting features like native compilation and streamlined container image creation.
 The speakers emphasize the importance of choosing the right Java framework and tuning JVM and Kubernetes configurations, such as garbage collection and startup probes, to achieve optimal performance.
 They conclude that Java remains a viable and competitive choice for cloud-native workloads when leveraging modern tools and best practices.
+
 # Main Points
 
 |   # | Main point                                                                                                                                      |

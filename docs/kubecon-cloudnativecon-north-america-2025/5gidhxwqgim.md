@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Partitionable Devices: Putting the “Dynamic” Back in... Morten Jæger Torkildsen
+  & Jan-Philip Gehrcke"
+nav_order: 195
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Partitionable Devices: Putting the “Dynamic” Back in... Morten Jæger Torkildsen & Jan-Philip Gehrcke"
-description: "In this session, Morton Torlson from Google and Yan Phillip from Nvidia discuss the challenges and advancements in dynamic resource allocation for GPUs within Kubernetes, focusing on partitionable devices and the Device Resource Assignment..."
+description:
+  In this session, Morton Torlson from Google and Yan Phillip from Nvidia
+  discuss the challenges and advancements in dynamic resource allocation for GPUs
+  within Kubernetes, focusing on partitionable devices and the Device Resource Assignment...
 resource: https://www.youtube.com/watch?v=5GIDHxwQGiM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +30,7 @@ The new partitionable devices extension in DRA introduces concepts like counter 
 A demo illustrates that dynamic partitioning with MIG devices completes workloads faster and uses resources more efficiently than static allocation.
 The speakers also note that partitionable devices can be applied to other hardware types, such as TPUs and CPUs, and discuss ongoing work to improve scheduling and configuration.
 Audience questions address the efficiency of MIG setup and the potential for similar approaches with CPUs, highlighting the need for specialized drivers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

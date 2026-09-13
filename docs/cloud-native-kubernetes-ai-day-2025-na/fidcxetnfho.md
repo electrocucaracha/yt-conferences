@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Hidden Foundation: How Effective Data Management Determines AI System
+  Success - Keith McClellan"
+nav_order: 16
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "The Hidden Foundation: How Effective Data Management Determines AI System Success - Keith McClellan"
-description: "Ke Mlan, Field CTO for Splunk, discusses the challenges and best practices in preparing organizational data for successful AI adoption. He notes that most AI projects fail to deliver ROI, often due to issues in data integration and preparat..."
+description:
+  Ke Mlan, Field CTO for Splunk, discusses the challenges and best practices
+  in preparing organizational data for successful AI adoption. He notes that most
+  AI projects fail to deliver ROI, often due to issues in data integration and preparat...
 resource: https://www.youtube.com/watch?v=FIdCXeTnFho
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He notes that most AI projects fail to deliver ROI, often due to issues in data 
 Mlan emphasizes the importance of high-quality, well-governed, and accessible data, advocating for strategies such as centralized metadata management, automation of routine processes, and the use of open standards.
 He outlines a phased approach to AI implementation: assessing data and aligning stakeholders, building infrastructure and pipelines, and piloting with human oversight before measuring outcomes and iterating.
 Throughout, he stresses that AI projects should focus on delivering value, reducing human toil, and fostering cultural readiness, rather than relying solely on technology.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

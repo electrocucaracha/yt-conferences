@@ -1,11 +1,22 @@
 ---
+layout: default
+title: 8 Questions You MUST ASK in EVERY Interview - Tips from an Engineering Manager!
+nav_order: 8
+parent: Leadership Skills
 type: Video Note
-title: "8 Questions You MUST ASK in EVERY Interview - Tips from an Engineering Manager!"
-description: "In this video, Doug Howard, an engineering manager with extensive interview experience, emphasizes the critical importance of asking the right questions during job interviews, as this is often the candidate's only chance to gain valuable in..."
+description:
+  In this video, Doug Howard, an engineering manager with extensive interview
+  experience, emphasizes the critical importance of asking the right questions during
+  job interviews, as this is often the candidate's only chance to gain valuable in...
 resource: https://www.youtube.com/watch?v=MV4Cy9V2guc
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He outlines eight essential questions to ask, grouped into four categories: conn
 Howard provides specific examples for each type, such as asking about the interviewer's experience at the company, what they enjoy most about working there, the traits of successful and unsuccessful hires, the company's biggest challenges, and how performance is measured.
 He stresses that these questions not only help candidates determine if the company is a good fit for them but also demonstrate initiative, self-awareness, and a team-oriented mindset to the interviewer.
 Finally, he encourages viewers to share additional powerful interview questions in the comments to help others in their job search.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

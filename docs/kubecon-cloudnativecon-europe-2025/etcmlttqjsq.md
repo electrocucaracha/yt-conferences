@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Trust No One: Secure Storage With Confidential Containers - Aurélien Bombo,
+  Microsoft"
+nav_order: 347
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Trust No One: Secure Storage With Confidential Containers - Aurélien Bombo, Microsoft"
-description: "Aurelian Bombo from Microsoft discusses confidential computing, a future of computing where data is protected not only at rest and in transit but also in use. He focuses on storage, specifically enabling secure storage for containers. Confi..."
+description:
+  Aurelian Bombo from Microsoft discusses confidential computing, a future
+  of computing where data is protected not only at rest and in transit but also in
+  use. He focuses on storage, specifically enabling secure storage for containers.
+  Confi...
 resource: https://www.youtube.com/watch?v=etCmLttqJsQ
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +31,7 @@ The project uses Kata containers, which virtualize containers inside VMs, and a 
 Encryption keys are stored in a key broker service, and the confidential data hub ensures the trustworthiness of the container spec through remote attestation.
 Persistent storage is also discussed, with plans to integrate a new API between the kata agent and the container to enable user-controlled key management.
 The presentation concludes that confidential computing is crucial for protecting sensitive data from malicious cloud providers.
+
 # Main Points
 
 |   # | Main point                                                                                                        |

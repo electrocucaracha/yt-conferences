@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  TUF-en up Your Software Supply Chain - Marina Moore, Edera & Kairo De Araujo,
+  Independent
+nav_order: 324
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "TUF-en up Your Software Supply Chain - Marina Moore, Edera & Kairo De Araujo, Independent"
-description: "Kaido and Marina discuss the software supply chain metadata distribution problem, focusing on secure software distribution using the Tough Update Framework (TU). They explain how TU uses a principle of compromise resilience to protect again..."
+description:
+  Kaido and Marina discuss the software supply chain metadata distribution
+  problem, focusing on secure software distribution using the Tough Update Framework
+  (TU). They explain how TU uses a principle of compromise resilience to protect again...
 resource: https://www.youtube.com/watch?v=lIYXVIPsk_U
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain how TU uses a principle of compromise resilience to protect against
 The framework involves detach signatures, multi-signature trust, and version numbers to ensure secure distribution and verification of software packages.
 TU is designed to be flexible and can be integrated with existing tooling, including Kubernetes and GitHub Actions.
 The authors address questions about compatibility with SLSA (Software Landscapes Architecture) and discuss plans for an admission controller in Kubernetes to enforce TU's security policies.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

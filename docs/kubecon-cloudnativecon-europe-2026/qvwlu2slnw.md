@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "SPIFFE Meets OAuth: Federated Identity for Cloud Native Workloads - Yoshiyuki
+  Tabata, Hitachi, Ltd."
+nav_order: 323
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "SPIFFE Meets OAuth: Federated Identity for Cloud Native Workloads - Yoshiyuki Tabata, Hitachi, Ltd."
-description: "In this session, Yoshik Tabata discusses how Spiffy and OAuth can be combined to enable federated identity and secure user authorization across multiple trust domains in cloud-native environments. He explains that modern platforms often spa..."
+description:
+  In this session, Yoshik Tabata discusses how Spiffy and OAuth can be
+  combined to enable federated identity and secure user authorization across multiple
+  trust domains in cloud-native environments. He explains that modern platforms often
+  spa...
 resource: https://www.youtube.com/watch?v=_qVWLU2sLnw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ While Spiffy effectively handles workload identity federation, propagating user 
 Tabata introduces a standards-based approach using OAuth identity and authorization chaining, which combines token exchange and JWT-based authorization grants, allowing each trust domain to independently reissue authorization while securely authenticating workloads with Spiffy credentials.
 He demonstrates this approach using Keycloak as the authorization server and Spire as the Spiffy signing authority in a multi-cluster Kubernetes setup, showing how user authorization is safely propagated and reissued across domains without relying on static secrets.
 The session concludes with a Q&A, clarifying that the approach is currently experimental and focused on propagating authorization data and workload identity, rather than centralized policy management.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

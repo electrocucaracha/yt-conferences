@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Entrenador de Perros: La guía completa para entrenar a tu perro | Darwin Angulo"
-description: "En esta extensa entrevista, Darwin Angulo, instructor canino con más de 35 años de experiencia, comparte consejos fundamentales para elegir, educar y convivir armónicamente con un perro. Explica que el olfateo es esencial para el bienestar..."
+nav_order: 24
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En esta extensa entrevista, Darwin Angulo, instructor canino con más
+  de 35 años de experiencia, comparte consejos fundamentales para elegir, educar y
+  convivir armónicamente con un perro. Explica que el olfateo es esencial para el
+  bienestar...
 resource: https://www.youtube.com/watch?v=GRVTHNC0J28
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Explica que el olfateo es esencial para el bienestar canino, ya que 20 minutos o
 Darwin detalla la necesidad de establecer límites y modales dentro del hogar, como no permitir que el perro suba a muebles o salga corriendo al abrir la puerta, y recomienda el uso del refuerzo positivo y el clicker para enseñar comportamientos deseados.
 Además, destaca que el adiestramiento efectivo requiere tanto la participación activa del dueño como la comprensión de la comunicación canina, y que cualquier perro puede aprender a cualquier edad si se emplean métodos adecuados.
 Finalmente, comparte técnicas para aprovechar el olfato del perro en juegos útiles, como encontrar objetos perdidos, y subraya que una buena relación con la mascota depende, en gran medida, de la educación y compromiso del humano.
+
 # Main Points
 
 |   # | Main point                                                                                         |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  SIG-Multicluster Intro and Deep Dive - Stephen Kitt, Jeremy Olmsted-Thompson
+  & Laura Lorenz
+nav_order: 321
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "SIG-Multicluster Intro and Deep Dive - Stephen Kitt, Jeremy Olmsted-Thompson & Laura Lorenz"
-description: "The SIG Multicluster session, led by Jeremy Olstead Thompson and Stephen Kit, provided an overview of the group's mission to address the challenges of managing and deploying applications across multiple Kubernetes clusters. The presenters d..."
+description:
+  The SIG Multicluster session, led by Jeremy Olstead Thompson and Stephen
+  Kit, provided an overview of the group's mission to address the challenges of managing
+  and deploying applications across multiple Kubernetes clusters. The presenters d...
 resource: https://www.youtube.com/watch?v=fjRT6tdsXLU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The presenters discussed the diversity of multicluster use cases—such as multi
 Key projects highlighted included the cluster profile API, work API, placement decision API, MCS API, and the multicluster runtime library, all designed to facilitate resource management, workload placement, and service discovery across clusters.
 The group also shared insights from recent user research, identifying major pain points like documentation gaps, observability, operational complexity, and the lack of purpose-built tooling, especially for engineers managing hybrid or multi-cloud environments.
 Attendees were encouraged to participate in the SIG by joining meetings, providing feedback, and contributing to ongoing projects to help shape future multicluster solutions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                      |

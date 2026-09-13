@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Achieving Resilient Multi-Cluster AI Inference on Kubernetes With Kar... Wei-Cheng
+  Lai & Han-Ju Chen
+nav_order: 14
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Achieving Resilient Multi-Cluster AI Inference on Kubernetes With Kar... Wei-Cheng Lai & Han-Ju Chen"
-description: "Hanuch Chen and Wan Lai present a practical approach for running AI inference serving reliably at scale on Kubernetes, addressing challenges such as bursty traffic, strict latency targets, GPU scarcity, and regional failure risks. They prop..."
+description:
+  Hanuch Chen and Wan Lai present a practical approach for running AI inference
+  serving reliably at scale on Kubernetes, addressing challenges such as bursty traffic,
+  strict latency targets, GPU scarcity, and regional failure risks. They prop...
 resource: https://www.youtube.com/watch?v=SEBoBbyUdz0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They propose a two-layer architecture: a fleet orchestration layer across cluste
 The solution enables efficient GPU utilization through fractional allocation and model multiplexing, independent scaling of pipeline components, and seamless development-to-production transitions with framework and cloud agnosticism.
 Ray provides a unified compute framework for distributed AI workloads, while KubeRay manages Ray applications on Kubernetes, supporting in-place updates, zero-downtime upgrades, high availability, and multi-layer autoscaling.
 The ecosystem integrates with existing Kubernetes tools for scheduling and observability, and introduces a history server for post-mortem debugging of ephemeral clusters.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                |

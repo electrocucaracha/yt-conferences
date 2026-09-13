@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Day 2 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam
+nav_order: 86
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Day 2 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam"
-description: "On the second day of KubeCon and CloudNativeCon in Amsterdam, participants emphasized the importance of engaging with the community and having valuable conversations with those who work directly with the technology. The event stands out bec..."
+description:
+  On the second day of KubeCon and CloudNativeCon in Amsterdam, participants
+  emphasized the importance of engaging with the community and having valuable conversations
+  with those who work directly with the technology. The event stands out bec...
 resource: https://www.youtube.com/watch?v=oXG3je4nYLk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ On the second day of KubeCon and CloudNativeCon in Amsterdam, participants empha
 The event stands out because attendees are motivated by a genuine desire to learn and contribute, rather than obligation.
 This sense of shared purpose fosters a unique environment where people feel they are collectively building the future.
 Attendees are encouraged to get involved, interact with project maintainers, and enjoy the experience.
+
 # Main Points
 
 |   # | Main point                                                                        |

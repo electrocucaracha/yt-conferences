@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Shell Awakens: Cloud Native Workflows for Particle Ph... Raulian-Ionut
+  Chiorescu & Hannes Hansen"
+nav_order: 367
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Shell Awakens: Cloud Native Workflows for Particle Ph... Raulian-Ionut Chiorescu & Hannes Hansen"
-description: "In this talk, Hannes and Raul, computing engineers at CERN, present their cloud-native platform designed to support the diverse computational needs of particle physicists working with data from the Large Hadron Collider. The platform, built..."
+description:
+  In this talk, Hannes and Raul, computing engineers at CERN, present their
+  cloud-native platform designed to support the diverse computational needs of particle
+  physicists working with data from the Large Hadron Collider. The platform, built...
 resource: https://www.youtube.com/watch?v=2MU1de2B_C0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The platform, built on Kubernetes, provides flexible access to heterogeneous har
 Users can interact with the system through SSH, Jupyter notebooks, or VS Code, and leverage tools like Kubeflow, Ray, and MLflow to cover the full MLOps lifecycle, including distributed training, experiment tracking, and model serving.
 The team emphasizes user feedback, automation via Kyverno policies, and observability with Prometheus and Grafana, while addressing challenges such as resource scheduling, low-latency networking, and integration with public cloud and HPC resources.
 The platform currently serves hundreds of users across multiple CERN experiments, prioritizing user autonomy, reproducibility, and continuous improvement based on community needs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

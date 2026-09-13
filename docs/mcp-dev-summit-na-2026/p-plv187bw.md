@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Welcome Remarks from the AAIF Governing Board Chair - David Nalley"
-description: "In less than four months since its launch, the Agentic AI Foundation (AIF) has grown rapidly to 170 members, more than double what CNCF achieved in its first six months. The foundation has seen significant engagement, with 97 new members jo..."
+nav_order: 50
+parent: Mcp Dev Summit Na 2026
+type: Video Note
+description:
+  In less than four months since its launch, the Agentic AI Foundation
+  (AIF) has grown rapidly to 170 members, more than double what CNCF achieved in its
+  first six months. The foundation has seen significant engagement, with 97 new members
+  jo...
 resource: https://www.youtube.com/watch?v=-P-pLV187Bw
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The foundation has seen significant engagement, with 97 new members joining in F
 While much of the foundation’s recent work has focused on establishing governance structures—such as the governing board, technical steering committee, and working groups—projects have also been advancing technically.
 Seven working groups have already attracted 500 participants, tackling substantial industry challenges like identity and trust, which alone involves 150 members from 66 organizations.
 The technical steering committee has introduced a formal project life cycle, enabling new projects to be proposed and integrated into AIF, and the speaker encourages broader participation, emphasizing that open source thrives on community involvement and that the foundation’s journey is just beginning.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

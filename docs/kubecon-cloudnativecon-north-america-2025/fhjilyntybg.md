@@ -1,11 +1,22 @@
 ---
+layout: default
+title: End-to-End Security With gRPC in Kubernetes - Shiva & Abhishek Agrawal, Google
+nav_order: 69
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "End-to-End Security With gRPC in Kubernetes - Shiva & Abhishek Agrawal, Google"
-description: "In this CubeCon Atlanta session, Abhishek and Shiva from Google’s GPC team discuss the security journey for microservices using gRPC in Kubernetes environments. They begin by explaining the importance of TLS for authentication, encryption..."
+description:
+  In this CubeCon Atlanta session, Abhishek and Shiva from Google’s GPC
+  team discuss the security journey for microservices using gRPC in Kubernetes environments.
+  They begin by explaining the importance of TLS for authentication, encryption...
 resource: https://www.youtube.com/watch?v=fhjiLyntYBg
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ The presenters then address the need for user-level authentication using JWTs an
 They introduce service meshes like Istio, which offload security and authorization logic from application code to infrastructure via sidecar proxies, simplifying management but adding network latency.
 To address performance concerns, they present proxyless gRPC, which integrates directly with the service mesh control plane using XDS APIs, eliminating the sidecar and reducing latency while shifting some security responsibilities back to the application.
 The talk concludes with best practices for securing gRPC in Kubernetes, emphasizing layered security, automation, and centralized policy management.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

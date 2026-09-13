@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Karmada in Action: Scaling AI Workloads Across Multi-Clus... Hongcai Ren,
+  Tessa Pham & Wei-Cheng Lai"
+nav_order: 115
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Karmada in Action: Scaling AI Workloads Across Multi-Clus... Hongcai Ren, Tessa Pham & Wei-Cheng Lai"
-description: "In this talk, Tessa Fam and Way Changai from Bloomberg discuss the challenges and solutions for scaling AI workloads across multiple Kubernetes clusters using Carmada. They explain that running AI workloads on multiple clusters is essential..."
+description:
+  In this talk, Tessa Fam and Way Changai from Bloomberg discuss the challenges
+  and solutions for scaling AI workloads across multiple Kubernetes clusters using
+  Carmada. They explain that running AI workloads on multiple clusters is essential...
 resource: https://www.youtube.com/watch?v=M1-yTjC2hTI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that running AI workloads on multiple clusters is essential for hig
 Carmada addresses these issues by providing a centralized control plane for unified deployment, intelligent workload placement, cross-cluster autoscaling, and failover capabilities, all integrated with Kubernetes.
 The speakers detail Carmada’s architecture, policy-driven orchestration, resource interpretation for custom resources, federated resource quotas, global scheduling with Volcano, federated HPA for autoscaling, and fine-grained cluster failover policies.
 They also answer audience questions about deployment best practices, interpreter resources, and ongoing improvements for cluster isolation and failover, emphasizing Carmada’s flexibility and active community support.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                      |

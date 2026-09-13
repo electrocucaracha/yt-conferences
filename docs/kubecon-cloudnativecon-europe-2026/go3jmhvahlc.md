@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "To Swap or Not To Swap: Memory Management Design Patterns for AI Workloads
+  in Kuber... Nic Vermande"
+nav_order: 373
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "To Swap or Not To Swap: Memory Management Design Patterns for AI Workloads in Kuber... Nic Vermande"
-description: "In this talk, Nick from Scaleups discusses the complexities and trade-offs of enabling swap on Kubernetes nodes for running large language model (LLM) workloads. He explains that while enabling swap can prevent out-of-memory (OM) kills and..."
+description:
+  In this talk, Nick from Scaleups discusses the complexities and trade-offs
+  of enabling swap on Kubernetes nodes for running large language model (LLM) workloads.
+  He explains that while enabling swap can prevent out-of-memory (OM) kills and...
 resource: https://www.youtube.com/watch?v=Go3JMhvAhlc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that while enabling swap can prevent out-of-memory (OM) kills and ke
 Nick details the evolution of Kubernetes swap support, emphasizing the importance of using limited swap with NVMe storage and configuring quality of service (QoS) classes appropriately: guaranteed pods should have swap disabled, while burstable pods can benefit from proportional swap allocations.
 He highlights that swap should be seen as a last line of defense after application-level memory management, and that careful monitoring and right-sizing of both memory requests and swap entitlements are crucial to avoid performance collapse.
 Ultimately, the decision to use swap depends on workload latency sensitivity and cost considerations, and Nick provides a decision framework to guide when and how to enable swap for AI workloads in Kubernetes environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

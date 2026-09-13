@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Highlights from MPC Dev Summit EU 2025 - London - 2 Oct 2025
+nav_order: 1
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "Highlights from MPC Dev Summit EU 2025 - London - 2 Oct 2025"
-description: "The speaker, a developer, expresses appreciation for the note-taking and documentation features in MCP, highlighting how they assist in tracking progress and maintaining context during code development. They observe that the MCP ecosystem i..."
+description:
+  The speaker, a developer, expresses appreciation for the note-taking
+  and documentation features in MCP, highlighting how they assist in tracking progress
+  and maintaining context during code development. They observe that the MCP ecosystem
+  i...
 resource: https://www.youtube.com/watch?v=RoJXSFWKFTw
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ The speaker, a developer, expresses appreciation for the note-taking and documen
 They observe that the MCP ecosystem is rapidly expanding due to high energy and diverse experimentation within the community, with frequent specification updates and ongoing collaboration.
 Looking ahead, the developer anticipates that the primary focus will shift toward stability as the protocol matures over the next 6 to 12 months, especially on the client side.
 They note that downstream applications, such as ChatGPT and various open-source clients, are quickly achieving full compatibility with the MCP specification, and the speaker is enthusiastic about these developments.
+
 # Main Points
 
 |   # | Main point                                                                                          |

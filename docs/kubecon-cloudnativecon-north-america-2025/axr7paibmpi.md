@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How Comcast Leverages Radius in Their Internal Developer Platform - Nick Beenham
+  & Jonathan Smith
+nav_order: 99
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "How Comcast Leverages Radius in Their Internal Developer Platform - Nick Beenham & Jonathan Smith"
-description: "Nick Beam, a distinguished engineer at Comcast, and Jonathan Smith from Microsoft’s Azure Open Source Incubations team discuss the integration and benefits of Radius, a cloud-native application platform contributed to the CNCF. Radius enabl..."
+description:
+  Nick Beam, a distinguished engineer at Comcast, and Jonathan Smith from
+  Microsoft’s Azure Open Source Incubations team discuss the integration and benefits
+  of Radius, a cloud-native application platform contributed to the CNCF. Radius enabl...
 resource: https://www.youtube.com/watch?v=axR7paIbmPI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Radius enables developers to define applications and infrastructure in a unified
 Comcast adopted Radius to address the complexity and sprawl of Kubernetes and related tooling, collaborating closely with the Radius team to introduce custom resource types that fit their specific needs.
 This partnership led to streamlined workflows, reduced cognitive load, and the ability to reuse existing tools like Terraform without significant migration costs.
 The speakers highlight the value of open-source community engagement, the ease of contributing to Radius, and encourage others to participate, noting the platform’s extensibility, integration with popular DevOps tools, and the availability of a resource type repository for sharing and reusing components.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

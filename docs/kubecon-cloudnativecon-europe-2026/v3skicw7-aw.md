@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Cloud Native University: Introduction to GitOps - Chris
+  Plank, NatWest"
+nav_order: 47
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Cloud Native University: Introduction to GitOps - Chris Plank, NatWest"
-description: "Chris Plank, a CNCF platform engineering community leader and UK bank employee, presents a lighthearted overview of the evolution from physical data transfer methods, such as floppy disks and CDs, to modern cloud-based practices like GitOps..."
+description:
+  Chris Plank, a CNCF platform engineering community leader and UK bank
+  employee, presents a lighthearted overview of the evolution from physical data transfer
+  methods, such as floppy disks and CDs, to modern cloud-based practices like GitOps...
 resource: https://www.youtube.com/watch?v=v3SkICW7_aw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He traces the journey through increasing network connectivity, the rise of DevOp
 Plank explains that Kubernetes controllers and custom resource definitions (CRDs) introduced a declarative, controller-driven model, allowing for continuous reconciliation of desired states in clusters.
 He emphasizes the significance of GitOps as a pull-based model, with popular tools like Flux and Argo automating deployment and management processes.
 Plank concludes by recommending free Linux Foundation training resources and FluxCon talks for those interested in learning more about GitOps.
+
 # Main Points
 
 |   # | Main point                                                                                                         |

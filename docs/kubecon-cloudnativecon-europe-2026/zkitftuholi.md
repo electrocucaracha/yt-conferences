@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Welcome + Opening Remarks - Jonathan Bryce & Chris Aniszczyk"
-description: "The opening keynote at KubeCon Amsterdam 2026 celebrated the event’s record-breaking attendance of over 13,500 participants from more than 100 countries, highlighting the continued growth and diversity of the cloud native community. Key ann..."
+nav_order: 186
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  The opening keynote at KubeCon Amsterdam 2026 celebrated the event’s
+  record-breaking attendance of over 13,500 participants from more than 100 countries,
+  highlighting the continued growth and diversity of the cloud native community. Key
+  ann...
 resource: https://www.youtube.com/watch?v=zKItfTuhOlI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Key announcements included the graduation and incubation of several CNCF project
 The speakers emphasized the rapid evolution of AI workloads, particularly the shift toward inference as the dominant compute task, and introduced LLMD, a new CNCF sandbox project focused on distributed inference optimization.
 Real-world examples, such as Uber’s Michelangelo platform, showcased the scale and impact of cloud native and AI technologies in production.
 The keynote concluded by encouraging community participation, open source collaboration, and highlighted upcoming KubeCon events, reinforcing the theme of keeping cloud native innovation moving forward in the AI era.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Not Forking Around: Leveraging NRI To Extend Kubernetes at Scale - Johan Jensen
+  & Wesley Bermbach"
+nav_order: 181
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Not Forking Around: Leveraging NRI To Extend Kubernetes at Scale - Johan Jensen & Wesley Bermbach"
-description: "Johan and Wesley, software engineers at Uber, discuss their work on migrating Uber’s stateful container platform to Kubernetes, highlighting the challenges of unifying multiple proprietary and Kubernetes-based platforms. Uber’s stateful wor..."
+description:
+  Johan and Wesley, software engineers at Uber, discuss their work on migrating
+  Uber’s stateful container platform to Kubernetes, highlighting the challenges of
+  unifying multiple proprietary and Kubernetes-based platforms. Uber’s stateful wor...
 resource: https://www.youtube.com/watch?v=V0afXi4mOiU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Uber’s stateful workloads rely on features like locally attached disks, fine-g
 To bridge this gap without forking Kubernetes, Uber leveraged the Node Resource Interface (NRI), which allows for powerful, declarative modifications to containers at creation and runtime via plugins and custom resources.
 They demonstrated how NRI enabled dynamic resource allocation and environment variable injection, even integrating AI-driven decisions, but noted the risks and complexity of using such low-level tooling.
 Ultimately, Uber is moving away from NRI, aiming to upstream necessary features and reduce technical debt, and advises others to carefully weigh the trade-offs before adopting similar approaches.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                 |

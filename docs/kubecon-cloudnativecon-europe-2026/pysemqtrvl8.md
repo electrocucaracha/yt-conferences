@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Accelerating Thanos at Scale: Faster and Cheaper Queries With Parquet - Giedrius
+  Statkevičius"
+nav_order: 13
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Accelerating Thanos at Scale: Faster and Cheaper Queries With Parquet - Giedrius Statkevičius"
-description: "The speaker discusses efforts to accelerate Thanos at scale by adopting the Parquet file format, which offers faster queries and significant storage savings compared to the current TSDB format. Thanos, which manages vast amounts of metrics..."
+description:
+  The speaker discusses efforts to accelerate Thanos at scale by adopting
+  the Parquet file format, which offers faster queries and significant storage savings
+  compared to the current TSDB format. Thanos, which manages vast amounts of metrics...
 resource: https://www.youtube.com/watch?v=PySEmqtrvL8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Parquet, being a column-oriented format with efficient data page structures and 
 The migration process to Parquet is gradual and tenant-based, with mechanisms to ensure consistency and minimize disruption.
 While the compactor is still required for now, future plans include native Parquet file production and further architectural improvements.
 The speaker encourages community contributions and assures that ongoing enhancements to the Parquet ecosystem will be adopted transparently, making it a promising direction for Thanos users.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

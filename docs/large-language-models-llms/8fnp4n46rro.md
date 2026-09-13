@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 8 - LLM Evaluation
+nav_order: 8
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 8 - LLM Evaluation"
-description: "In this lecture on LLM evaluation, the instructor emphasizes the importance of measuring large language model (LLM) performance to guide improvements. The session begins by recapping previous topics such as retrieval-augmented generation (R..."
+description:
+  In this lecture on LLM evaluation, the instructor emphasizes the importance
+  of measuring large language model (LLM) performance to guide improvements. The session
+  begins by recapping previous topics such as retrieval-augmented generation (R...
 resource: https://www.youtube.com/watch?v=8fNP4N46RRo
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -18,6 +29,7 @@ The lecture then presents "LLM as a judge," where another LLM evaluates outputs,
 Best practices include using clear guidelines, binary scales, rationale-first prompting, and calibration with human ratings.
 The lecture also covers evaluation dimensions (e.g., usefulness, factuality, safety), methods for factuality assessment, and common failure modes in agentic workflows.
 Finally, it surveys benchmark types—knowledge, reasoning, coding, safety, and agentic benchmarks—highlighting their roles, limitations, and the importance of aligning evaluation with real-world needs and avoiding overfitting to benchmarks.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                   |

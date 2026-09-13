@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Least-Privilege for AI: Authorizing Agents and MCP Tools with A... Luc Chmielowski
+  & Nina Polshakova"
+nav_order: 199
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Least-Privilege for AI: Authorizing Agents and MCP Tools with A... Luc Chmielowski & Nina Polshakova"
-description: "In this talk, Nina Pushkova and Luke Miroski discuss the challenges of securing AI agents, particularly those using the MCP protocol, and present a solution that combines Agent Gateway and Kyverno for centralized authorization. They explain..."
+description:
+  In this talk, Nina Pushkova and Luke Miroski discuss the challenges of
+  securing AI agents, particularly those using the MCP protocol, and present a solution
+  that combines Agent Gateway and Kyverno for centralized authorization. They explain...
 resource: https://www.youtube.com/watch?v=tEAkoZpdhSc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that traditional authorization for MCP is often implemented inconsi
 Through a live demo, they show how Agent Gateway fronts MCP tools, requiring users to authenticate via OAuth and enforcing fine-grained access controls with Kyverno policies, thereby preventing unauthorized actions such as applying dangerous manifests to production clusters.
 The demo illustrates how Kyverno policies can parse MCP requests, validate user permissions, and leverage Kubernetes’ native authorization mechanisms to ensure only permitted actions are executed.
 The presenters emphasize the importance of reusing existing cloud-native tools and processes, like Kyverno and policy-as-code, to secure AI workloads rather than reinventing security solutions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                 |

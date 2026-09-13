@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Buildpacks: Pragmatic Solutions To Quick and Secure Image Builds - Juan Bustamante
+  & Aidan Delaney"
+nav_order: 37
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Buildpacks: Pragmatic Solutions To Quick and Secure Image Builds - Juan Bustamante & Aidan Delaney"
-description: "The Cloud Native Build Pack project allows users to transform application source code into production-ready OCI images deployable on any OCI runtime environment, such as Kubernetes or Podman. The project provides a reference implementation..."
+description:
+  The Cloud Native Build Pack project allows users to transform application
+  source code into production-ready OCI images deployable on any OCI runtime environment,
+  such as Kubernetes or Podman. The project provides a reference implementation...
 resource: https://www.youtube.com/watch?v=Eb9AweCazi8
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The Cloud Native Build Pack project allows users to transform application source
 The project provides a reference implementation of the specification and maintains implementations from downstream providers like Paxi and Kaxi.
 It enables quick and secure image builds without requiring Docker files, making it ideal for organizations with complex application environments.
 The build packs also offer features like rebase, dependency mirrors, and secure registries, providing control over base images, tool versions, and language families.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                         |

@@ -1,11 +1,23 @@
 ---
+layout: default
+title: On-Call the Easy Way With Agents - Ryan Tay & Kartikeya Pharasi, Intuit
+nav_order: 10
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "On-Call the Easy Way With Agents - Ryan Tay & Kartikeya Pharasi, Intuit"
-description: "In this talk, Karthik and Ryan from Intuit’s service mesh team discuss their efforts to reduce the workload of on-call engineers by leveraging AI agents. They describe the scale at which Intuit operates—over 350 Kubernetes clusters and 16 b..."
+description:
+  In this talk, Karthik and Ryan from Intuit’s service mesh team discuss
+  their efforts to reduce the workload of on-call engineers by leveraging AI agents.
+  They describe the scale at which Intuit operates—over 350 Kubernetes clusters and
+  16 b...
 resource: https://www.youtube.com/watch?v=oDli4CBkky8
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They describe the scale at which Intuit operates—over 350 Kubernetes clusters 
 Their solution involves an AI agent that can independently analyze logs and metrics, utilize internal documentation, and select appropriate tools to assist engineers in diagnosing and resolving incidents.
 The agent integrates with various input methods, uses retrieval-augmented generation to provide context-specific assistance, and automates steps from existing runbooks, significantly reducing manual effort and mean time to resolution.
 Currently in early deployment, the agent operates in a dry-run mode, with plans to expand its capabilities and usage, while ongoing evaluation focuses on accuracy and efficiency, with future considerations for automation and cost optimization.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                    |

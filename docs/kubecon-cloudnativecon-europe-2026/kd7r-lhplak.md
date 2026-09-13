@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Evolving Policy Management with Agentic AI: Kyverno MCP and Kagent for...
+  Shuting Zhao & Dahu Kuang"
+nav_order: 108
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Evolving Policy Management with Agentic AI: Kyverno MCP and Kagent for... Shuting Zhao & Dahu Kuang"
-description: "The session introduces an evolved solution for managing Kubernetes clusters, moving beyond simple connectivity to intelligent orchestration using tools like Kyverno, Civero, and Open Cloud. The speakers highlight the daily challenges faced..."
+description:
+  The session introduces an evolved solution for managing Kubernetes clusters,
+  moving beyond simple connectivity to intelligent orchestration using tools like
+  Kyverno, Civero, and Open Cloud. The speakers highlight the daily challenges faced...
 resource: https://www.youtube.com/watch?v=kd7R-LhPLak
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The speakers highlight the daily challenges faced by platform engineers, such as
 Their approach leverages Kyverno as a policy engine, Open Cloud as an AI-driven orchestration layer that translates natural language into Kubernetes actions, and a shared "skill pool" to centralize expertise.
 Through a live demo, they show how Open Cloud integrates with chat applications like Slack to automate policy deployment, compliance checks, and reporting across multiple clusters, reducing manual effort and errors.
 The presenters emphasize the importance of strong security practices when using AI agents, such as isolation, identity management, and human oversight, and conclude with updates on Kyverno’s roadmap and an invitation to contribute to the open-source community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                               |

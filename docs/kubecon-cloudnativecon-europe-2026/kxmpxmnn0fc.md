@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Agentic Networking: Securing AI Agents on Kubernetes - Haiyan Meng, Google
+  & Evaline Ju, IBM"
+nav_order: 18
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Agentic Networking: Securing AI Agents on Kubernetes - Haiyan Meng, Google & Evaline Ju, IBM"
-description: "In this session, Hayen from Google and Evelyn Ju from IBM introduce the Kubernetes Agentic Networking subproject, which aims to provide standardized APIs for secure, governed communication among AI agents, tools, and language models within..."
+description:
+  In this session, Hayen from Google and Evelyn Ju from IBM introduce the
+  Kubernetes Agentic Networking subproject, which aims to provide standardized APIs
+  for secure, governed communication among AI agents, tools, and language models within...
 resource: https://www.youtube.com/watch?v=KXmPxmNN0fc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The project focuses on creating persistent APIs that remain relevant as AI proto
 They demonstrate new experimental CRDs—XBackend and XAccessPolicy—that enable fine-grained control over which agents can access specific tools, including allow lists and external authorization integration.
 The reference implementation uses Envoy as the data plane and an agentic net controller for configuration, with a live demo illustrating how access policies can restrict or permit agent-tool interactions.
 The session also discusses ongoing work on observability and tracing using OpenTelemetry, proposals for standardized telemetry and guardrails to prevent data breaches, and outlines future plans such as deny lists, expanded authorization scenarios, and collaboration with the AI Gateway Working Group, inviting community participation and feedback.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

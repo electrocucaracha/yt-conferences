@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Harmonizing Your Platform Domain With Kubernetes and Custom Resource Definitions
+  - Sebastien Blanc
+nav_order: 95
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Harmonizing Your Platform Domain With Kubernetes and Custom Resource Definitions - Sebastien Blanc"
-description: "In this talk, Sebie, a developer advocate at Port, discusses the role of platform engineering in reducing developers’ cognitive load by shifting complexity to platform teams and enabling self-service capabilities. He emphasizes the importan..."
+description:
+  In this talk, Sebie, a developer advocate at Port, discusses the role
+  of platform engineering in reducing developers’ cognitive load by shifting complexity
+  to platform teams and enabling self-service capabilities. He emphasizes the importan...
 resource: https://www.youtube.com/watch?v=T_sMX_hxS8k
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He emphasizes the importance of treating the platform as a product with a well-d
 Sebie demonstrates how CRDs can be used to model and manage platform-specific resources, such as prompts for developers, and shows a live example of creating and deploying a prompt CRD integrated with GitHub Actions, Argo CD, and a developer portal.
 He also addresses the challenge of managing multiple operators and CRDs, suggesting abstraction layers or tools like Syntasso’s Kratix to simplify developer experience.
 The session concludes with an invitation to further discuss platform engineering and see more product demos at the Port booth.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                           |

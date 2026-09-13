@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Kubestronaut To Production Hero: Turning Study Paths Into Real-W... David
+  Pech & Pedro Célestin"
+nav_order: 84
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "From Kubestronaut To Production Hero: Turning Study Paths Into Real-W... David Pech & Pedro Célestin"
-description: 'Pedro Celestan and David, both members of the first batch of "golden cubstronauts," share their distinct journeys through CNCF certifications and how these learning paths have impacted their real-world work in production environments. David...'
+description:
+  Pedro Celestan and David, both members of the first batch of "golden
+  cubstronauts," share their distinct journeys through CNCF certifications and how
+  these learning paths have impacted their real-world work in production environments.
+  David...
 resource: https://www.youtube.com/watch?v=WPMCfv43xLo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ David, with a background in software development and infrastructure, describes h
 Pedro recounts his experience leading digital transformation in large organizations, such as the Bank of Brazil and CLDF, where he leveraged Kubernetes and CNCF certifications to modernize infrastructure, develop DevOps processes, and upskill teams, all while navigating the complexities of government procurement and risk management.
 Both speakers stress that there is no universal solution or shortcut; certifications are most valuable when directly connected to real challenges and roles, and success requires patience, experimentation, and a clear, context-driven learning path.
 They conclude that while CNCF certifications provide structure and credibility, especially for roles involving Kubernetes, their true benefit lies in practical application and continuous, project-aligned learning rather than simply collecting badges.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                  |

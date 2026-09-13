@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Why Engineers Struggle With Soft Skills | How to Improve Your Communication!
+nav_order: 43
+parent: Leadership Skills
 type: Video Note
-title: "Why Engineers Struggle With Soft Skills | How to Improve Your Communication!"
-description: "Doug Howard, a licensed structural engineer and engineering manager, discusses how engineers typically have a logical approach to thinking and decision-making, which can create barriers to effective communication and relationship-building w..."
+description:
+  Doug Howard, a licensed structural engineer and engineering manager,
+  discusses how engineers typically have a logical approach to thinking and decision-making,
+  which can create barriers to effective communication and relationship-building w...
 resource: https://www.youtube.com/watch?v=4ZEWk8vPAuk
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains the differences between logical and emotional decision-makers, illus
 Howard emphasizes that neither logic nor emotion is superior; both are valid and necessary for balanced decision-making.
 He encourages engineers to become aware of these differences and intentionally develop their emotional intelligence to improve their people skills and career opportunities.
 The episode concludes with an invitation to subscribe for deeper insights on integrating logic and emotion in professional growth.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

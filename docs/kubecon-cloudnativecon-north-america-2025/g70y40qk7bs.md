@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Sync or Swim: Building Platforms You Can See - Heather Lee & Mike Cutsail,
+  Apple"
+nav_order: 298
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Sync or Swim: Building Platforms You Can See - Heather Lee & Mike Cutsail, Apple"
-description: "In this talk, Mike and Heather from Apple discuss the challenges and solutions for building observable developer platforms using Kubernetes, Crossplane, Argo CD, and OpenTelemetry. They demonstrate how platform engineers and end users can b..."
+description:
+  In this talk, Mike and Heather from Apple discuss the challenges and
+  solutions for building observable developer platforms using Kubernetes, Crossplane,
+  Argo CD, and OpenTelemetry. They demonstrate how platform engineers and end users
+  can b...
 resource: https://www.youtube.com/watch?v=g70y40Qk7bs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They demonstrate how platform engineers and end users can benefit from enhanced 
 Through live demos, they show how claims made via the Kubernetes API are tracked, how Argo CD and Grafana dashboards provide real-time insights into resource states, and how observability tools can immediately surface the impact of platform changes, such as configuration bugs.
 The speakers emphasize best practices like consistent labeling, treating observability as code, and correlating metrics and traces to create unified, actionable dashboards.
 They conclude that robust observability is essential for platform trust and effective troubleshooting, sharing practical techniques for integrating these tools and patterns into any platform engineering workflow.
+
 # Main Points
 
 |   # | Main point                                                                                            |

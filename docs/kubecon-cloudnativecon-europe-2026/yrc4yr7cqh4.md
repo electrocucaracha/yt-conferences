@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Do You Trust Your PodDisruptionBudgets? You Shouldn’t! - Kārlis Akots Gribulis,
+  Saxo Bank
+nav_order: 94
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Do You Trust Your PodDisruptionBudgets? You Shouldn’t! - Kārlis Akots Gribulis, Saxo Bank"
-description: "Carlo Sakos Gribbles, a container platform engineer at Saxo Bank, discusses the intricacies and limitations of Kubernetes Pod Disruption Budgets (PDBs). He explains that while PDBs are designed to maintain application stability during volun..."
+description:
+  Carlo Sakos Gribbles, a container platform engineer at Saxo Bank, discusses
+  the intricacies and limitations of Kubernetes Pod Disruption Budgets (PDBs). He
+  explains that while PDBs are designed to maintain application stability during volun...
 resource: https://www.youtube.com/watch?v=yRc4yr7CQh4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that while PDBs are designed to maintain application stability durin
 Through demonstrations, he shows how pod priorities can override PDBs, and how certain kubectl drain flags can ignore them entirely.
 Carlo emphasizes that PDBs are most effective during node drains but should not be solely relied upon; instead, they should be used alongside resource requests, pod replication, topology constraints, update strategies, and priority classes to ensure high availability.
 He concludes by advising caution and awareness of PDB limitations, likening them to "Swiss cheese" with many holes, and encourages further learning on workload prioritization in Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                   |

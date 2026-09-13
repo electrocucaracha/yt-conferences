@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "[Keynote] Revolutionizing Travel with AI How We Built the Turkish Airlines
+  MCP"
+nav_order: 21
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Keynote] Revolutionizing Travel with AI How We Built the Turkish Airlines MCP"
-description: "The speaker, delivering their first major international speech, introduces Turkish Airlines’ pioneering development of an MCP (Multi-Channel Platform) server, highlighting the airline’s status as a global leader and its commitment to techno..."
+description:
+  The speaker, delivering their first major international speech, introduces
+  Turkish Airlines’ pioneering development of an MCP (Multi-Channel Platform) server,
+  highlighting the airline’s status as a global leader and its commitment to techno...
 resource: https://www.youtube.com/watch?v=KWvkPFnHwlM
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The MCP enables users to interact with Turkish Airlines services via chat interf
 The team faced challenges related to security, governance, and adapting new authentication protocols, which they addressed by leveraging existing APIs, Cloudflare for security, and rate limiting.
 Future plans include expanding MCP functionalities to allow more interactive features like seat selection and disruption management, as well as enhancing the UI and integrating with internal tools.
 The speaker also mentions their open-source contributions, such as the Takeoff UI library, and efforts to deploy secure, on-premise LLMs for enterprise use, emphasizing the importance of empowering users with innovative tools.
+
 # Main Points
 
 |   # | Main point                                                                                                             |

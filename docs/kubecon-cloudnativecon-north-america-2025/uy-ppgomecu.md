@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Kubewarden: The Universal Policy Engine For Kubernetes"
-description: "Robert introduces Kuborton, a universal policy engine for Kubernetes, explaining that policies in this context are configurations managing other configurations or runtime behaviors within a Kubernetes cluster. Kuborton aims to be universal..."
+nav_order: 225
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  Robert introduces Kuborton, a universal policy engine for Kubernetes,
+  explaining that policies in this context are configurations managing other configurations
+  or runtime behaviors within a Kubernetes cluster. Kuborton aims to be universal...
 resource: https://www.youtube.com/watch?v=Uy-PpGOMEcU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Kuborton aims to be universal by supporting pre-existing policies from various s
 The project considers different user personas—consumers, developers, operators, and integrators—and adopts a GitOps approach to policy management.
 Kuborton extends policy enforcement beyond Kubernetes clusters to virtual machines and edge use cases, addressing the need for policies everywhere.
 Robert invites interested individuals to get involved with the project, mentioning an upcoming alpha release of a new SBOM scanner and offering further discussion at the project pavilion.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

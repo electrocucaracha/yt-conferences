@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Fusing FinOps, Forecasting, and Kubernetes at Scale - Ankur Singh & Satyam
+  Bhardwaj
+nav_order: 129
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Fusing FinOps, Forecasting, and Kubernetes at Scale - Ankur Singh & Satyam Bhardwaj"
-description: 'In this presentation, Ankur Singh from Red Hat and Satyam from Mirantis introduce a Kubernetes-native, open-source solution called Auger to address pain points in PHOPS (presumably "FinOps" or cost optimization) within Kubernetes environmen...'
+description:
+  In this presentation, Ankur Singh from Red Hat and Satyam from Mirantis
+  introduce a Kubernetes-native, open-source solution called Auger to address pain
+  points in PHOPS (presumably "FinOps" or cost optimization) within Kubernetes environmen...
 resource: https://www.youtube.com/watch?v=65TRuI5hvn4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that current PHOPS cycles are slow, taking 6–8 weeks, and existin
 Auger integrates existing open-source tools for metrics collection (like Prometheus and OpenCost), time series forecasting models (such as Toto and ARMA), and optimization engines, providing a modular and extensible platform.
 The system standardizes data formats, supports multiple forecasting models, includes mechanisms for accuracy and drift detection, and incorporates a human-in-the-loop approval process for recommendations.
 A live demo showcases Auger’s architecture, custom resources, and its ability to generate actionable, cost-saving recommendations for Kubernetes clusters, with future plans for enhanced drift detection and multi-cluster support.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

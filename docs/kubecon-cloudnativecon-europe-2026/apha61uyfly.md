@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Sponsored Keynote: Scaling Platform Ops with AI Agents: Troubleshootin...
+  Jorge Palma & Natan Yellin"
+nav_order: 344
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Sponsored Keynote: Scaling Platform Ops with AI Agents: Troubleshootin... Jorge Palma & Natan Yellin"
-description: "The video discusses the growing integration of AI into daily workflows, highlighting the challenges of using multiple tools and the benefits of more fluid, integrated solutions. George explains how Acast customers commonly use tools like He..."
+description:
+  The video discusses the growing integration of AI into daily workflows,
+  highlighting the challenges of using multiple tools and the benefits of more fluid,
+  integrated solutions. George explains how Acast customers commonly use tools like
+  He...
 resource: https://www.youtube.com/watch?v=Apha61UYfLY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ George explains how Acast customers commonly use tools like Headlamp, Home GPT, 
 A real-world example is given where an on-call engineer uses Headlamp and Home GPT to quickly diagnose and resolve a typo in a service name, leveraging tools like Inspector Gadget and automating the fix through a pull request and Flux sync.
 The process, which previously required manual intervention, is now streamlined and can be completed in about two minutes, including generating a root cause analysis.
 The discussion concludes with the introduction of Home GPT's new operator mode, which proactively monitors environments, detects issues as they occur, and promises even greater automation and integration in the future, including potential self-mutating agents and expanded connectivity.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

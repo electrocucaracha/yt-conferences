@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: ModelPack: An Open Standard for Packaging, Distributing,
+  and... Tao Peng"
+nav_order: 231
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: ModelPack: An Open Standard for Packaging, Distributing, and... Tao Peng"
-description: "Top from Mr introduces Model Bank, a new open-source project aimed at providing a vendor-neutral specification for packaging, distributing, and running AI models in cloud-native environments. The project allows users to package their AI mod..."
+description:
+  Top from Mr introduces Model Bank, a new open-source project aimed at
+  providing a vendor-neutral specification for packaging, distributing, and running
+  AI models in cloud-native environments. The project allows users to package their
+  AI mod...
 resource: https://www.youtube.com/watch?v=kb9L9E5matI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The project allows users to package their AI models, including code and weights,
 Model Bank offers tools for building, pushing, and pulling these model artifacts, with integration support for Kubernetes, Harbor, CRI-O, and Django Flight for efficient distribution within clusters.
 The project is still a work in progress, with upcoming presentations showcasing its integration with Harbor and Django Flight.
 Interested users can find more information, documentation, and ways to get involved on the project's website, GitHub, and Slack.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                             |

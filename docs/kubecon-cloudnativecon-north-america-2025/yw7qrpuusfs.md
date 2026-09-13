@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "SIG API Machinery and AI: What Comes Next? - Joe Betz, Google & David Eads,
+  Red Hat"
+nav_order: 264
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "SIG API Machinery and AI: What Comes Next? - Joe Betz, Google & David Eads, Red Hat"
-description: "The presentation discusses using AI to interact with Kubernetes, focusing on interacting directly with the cluster API rather than building AI systems on top of Kubernetes. The speakers identify common use cases for AI in Kubernetes, includ..."
+description:
+  The presentation discusses using AI to interact with Kubernetes, focusing
+  on interacting directly with the cluster API rather than building AI systems on
+  top of Kubernetes. The speakers identify common use cases for AI in Kubernetes,
+  includ...
 resource: https://www.youtube.com/watch?v=yW7QRpUUSFs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The presentation discusses using AI to interact with Kubernetes, focusing on int
 The speakers identify common use cases for AI in Kubernetes, including triage and diagnostics, cost optimization, proactive planning, reactive analysis, and ensuring data security.
 They propose ideas to improve the interaction between AI and Kubernetes, such as formalizing implicit relationships in the Kubernetes API, developing relationship-aware querying mechanisms, and implementing attenuation to limit AI access to sensitive data.
 The speakers also explore the challenges of creating a filtered list of resources that an AI can see, highlighting the need for a solution that balances granularity with scalability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

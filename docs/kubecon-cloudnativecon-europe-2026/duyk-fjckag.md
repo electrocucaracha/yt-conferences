@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Why Is It So Hard to Run a 5G Core on Kubernetes—And What Needs... Joel Studler
+  & Ashan Senevirathne
+nav_order: 404
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Why Is It So Hard to Run a 5G Core on Kubernetes—And What Needs... Joel Studler & Ashan Senevirathne"
-description: "The presentation discusses the challenges and progress of running 5G mobile core networks on Kubernetes, as experienced by operators Telstra and Swisscom. While 5G cores are now containerized and deployed on Kubernetes with some GitOps and..."
+description:
+  The presentation discusses the challenges and progress of running 5G
+  mobile core networks on Kubernetes, as experienced by operators Telstra and Swisscom.
+  While 5G cores are now containerized and deployed on Kubernetes with some GitOps
+  and...
 resource: https://www.youtube.com/watch?v=duYk-FjcKAg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ This results in bypassing Kubernetes’ strengths like declarative configuration
 Industry voices from Ericsson, Orange, and Vodafone highlight the need to move away from “lift and shift” approaches and legacy protocols like netconf, advocating for true cloud-native design, automation, and abstraction to realize the benefits of Kubernetes.
 The speakers emphasize that while Kubernetes is not failing telco, the real transformation will come from adopting service-oriented, declarative, and resilient architectures—lessons that must be embraced for 6G, which should be cloud-native by design rather than retrofit.
 The session concludes by encouraging collaboration across operators, vendors, and standards bodies, and highlights ongoing industry initiatives aimed at closing the gap between telco and cloud-native operations.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

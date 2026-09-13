@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Beyond the Dashboard: Modern Observability... Danielle C, Whitney L, Stevie
+  C, Khallai T & Payal B"
+nav_order: 26
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Beyond the Dashboard: Modern Observability... Danielle C, Whitney L, Stevie C, Khallai T & Payal B"
-description: "The session explores modern observability in platform engineering, emphasizing the shift from isolated logs, metrics, and traces to a unified, correlated approach enabled by open telemetry standards. Panelists discuss the challenges of mana..."
+description:
+  The session explores modern observability in platform engineering, emphasizing
+  the shift from isolated logs, metrics, and traces to a unified, correlated approach
+  enabled by open telemetry standards. Panelists discuss the challenges of mana...
 resource: https://www.youtube.com/watch?v=46qRFcv_FDY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Strategies such as defining golden signals, leveraging AI for dynamic thresholdi
 The conversation also covers the need for consistent instrumentation, developer engagement through value-driven dashboards, and the adoption of semantic conventions to standardize telemetry.
 The panel examines the promise of AI in automating diagnostics and remediation, while cautioning against over-reliance, loss of human oversight, and the necessity for robust guardrails and accountability.
 Looking ahead, the group expresses excitement about open telemetry’s growing adoption, the move toward machine-first observability, and the integration of observability into real-time development workflows, while underscoring the ongoing need for human judgment and standardized practices.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

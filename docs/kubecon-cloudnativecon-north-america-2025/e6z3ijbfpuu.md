@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: How We Used Data Structures When Contributing To the Kubernetes
+  Proje... Arsh Sharma"
+nav_order: 150
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Lightning Talk: How We Used Data Structures When Contributing To the Kubernetes Proje... Arsh Sharma"
-description: "Arsh from Metalbear shares his journey into the Kubernetes ecosystem, focusing on his initial dislike for data structures and algorithms (DSA) learned in university, which he found unhelpful for practical application development. His perspe..."
+description:
+  Arsh from Metalbear shares his journey into the Kubernetes ecosystem,
+  focusing on his initial dislike for data structures and algorithms (DSA) learned
+  in university, which he found unhelpful for practical application development. His
+  perspe...
 resource: https://www.youtube.com/watch?v=e6z3ijBfPUU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ His perspective changed when he joined the Linux Foundation's mentorship program
 By building a tool that visualizes and tracks direct and transitive dependencies in Kubernetes projects, Arsh found real-world value in the knowledge he once dismissed, especially when maintainers could see the impact of pull requests on dependencies.
 This experience transformed his relationship with DSA from frustration to respect, culminating in the satisfaction of seeing his tool used by others and visualizing the complex dependency graph of Kubernetes.
 He concludes by inviting the audience to connect with him and try out the tool.
+
 # Main Points
 
 |   # | Main point                                                                                                            |

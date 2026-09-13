@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Negociador de la policía: los secretos del lenguaje corporal para leer a cualquiera
+  | Juan García"
+nav_order: 61
+parent: Foro De Crecimiento
 type: Video Note
-title: "Negociador de la policía: los secretos del lenguaje corporal para leer a cualquiera | Juan García"
-description: "En esta extensa entrevista, Juan Manuel García, experto en ciencias del comportamiento y exnegociador policial, comparte cómo el análisis del lenguaje corporal y no verbal permite comprender mejor a las personas en contextos de negociación..."
+description:
+  En esta extensa entrevista, Juan Manuel García, experto en ciencias del
+  comportamiento y exnegociador policial, comparte cómo el análisis del lenguaje corporal
+  y no verbal permite comprender mejor a las personas en contextos de negociación...
 resource: https://www.youtube.com/watch?v=_B1JVAVSt6s
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Explica la importancia de observar la línea base de comportamiento, las microex
 García diferencia entre influencia e influencia manipuladora, subrayando que la primera busca guiar sin engañar, mientras que la manipulación implica mentira y beneficio propio a costa del otro.
 Recomienda preparar la interacción conociendo previamente a la persona, generar confianza a través de la pertenencia a un mismo grupo y utilizar la escucha activa, pausas y preguntas abiertas para obtener información valiosa.
 Además, enfatiza que la postura corporal puede influir en el estado mental y que la congruencia entre gestos y emociones es clave para interpretar correctamente el lenguaje no verbal, aconsejando no juzgar precipitadamente, sino buscar comprender el contexto y las motivaciones detrás de cada reacción.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

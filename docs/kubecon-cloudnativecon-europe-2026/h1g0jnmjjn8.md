@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Freedom Through Boundaries: Building Configurations That Age Well - Bogdan
+  Stancu, Adobe"
+nav_order: 113
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Freedom Through Boundaries: Building Configurations That Age Well - Bogdan Stancu, Adobe"
-description: 'Bogdan, from Adobe''s observability team, discusses the importance of building configuration management systems that "age well" by establishing clear boundaries and best practices. Using the analogy of training his dog to illustrate how boun...'
+description:
+  Bogdan, from Adobe's observability team, discusses the importance of
+  building configuration management systems that "age well" by establishing clear
+  boundaries and best practices. Using the analogy of training his dog to illustrate
+  how boun...
 resource: https://www.youtube.com/watch?v=H1g0jnmjJN8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Using the analogy of training his dog to illustrate how boundaries enable greate
 He highlights common pitfalls such as silent failures, mutually exclusive options, lack of documentation, and over-accommodation of advanced users, which can lead to unmanageable and confusing configurations.
 Bogdan recommends maintaining an up-to-date specification, enforcing validation, designing for user outcomes rather than internal convenience, and treating backward compatibility as a limited resource.
 In the Q&A, he emphasizes the need to justify the cost of good practices through governance, balance flexibility with sensible defaults, and communicate clear boundaries and support levels to users, focusing on the needs of the majority while allowing advanced users some unsupported flexibility.
+
 # Main Points
 
 |   # | Main point                                                                                                          |

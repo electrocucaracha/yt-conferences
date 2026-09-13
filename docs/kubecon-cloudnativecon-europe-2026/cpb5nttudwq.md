@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Day-2 Reality Check: Taming Wasteful Telemetry - Juraci Paixão Kröhling &
+  Elena Kovalenko"
+nav_order: 88
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Day-2 Reality Check: Taming Wasteful Telemetry - Juraci Paixão Kröhling & Elena Kovalenko"
-description: "In the final session of CubeCon, Edina and Jasi discussed the pervasive issue of wasteful telemetry in software systems, drawing from their experiences at Delivery Hero and other organizations. They explained how convenience-driven practice..."
+description:
+  In the final session of CubeCon, Edina and Jasi discussed the pervasive
+  issue of wasteful telemetry in software systems, drawing from their experiences
+  at Delivery Hero and other organizations. They explained how convenience-driven
+  practice...
 resource: https://www.youtube.com/watch?v=cpB5NTtUdwQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explained how convenience-driven practices like auto-instrumentation and la
 The speakers illustrated common problems, including telemetry hoarding, inconsistent naming conventions, and the mixing of personal data with application telemetry, and provided concrete examples of useless or problematic telemetry.
 To address these challenges, they recommended solutions such as masking sensitive data at the collector level, using tools like Weaver to enforce telemetry schemas, aggregating redundant logs, and implementing application-level controls and automated code reviews to improve data quality at the source.
 They concluded by emphasizing the importance of responsible telemetry practices and the need for organizations to treat observability backends with care, as they are ultimately just someone else’s database.
+
 # Main Points
 
 |   # | Main point                                                                                                  |

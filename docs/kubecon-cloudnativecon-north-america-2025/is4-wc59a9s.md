@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Talk To Your Dashboards: Using MCP and LLMs To Simplify Observab... Prashant
+  Gupta & Raj Bhensadadia"
+nav_order: 299
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Talk To Your Dashboards: Using MCP and LLMs To Simplify Observab... Prashant Gupta & Raj Bhensadadia"
-description: "In this session, Prashant and Raj, machine learning engineers at Apple, discuss how Model Context Protocol (MCP) and large language models (LLMs) can simplify and enhance observability in complex systems. They highlight the challenges of fr..."
+description:
+  In this session, Prashant and Raj, machine learning engineers at Apple,
+  discuss how Model Context Protocol (MCP) and large language models (LLMs) can simplify
+  and enhance observability in complex systems. They highlight the challenges of fr...
 resource: https://www.youtube.com/watch?v=iS4-WC59a9s
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the challenges of fragmented observability stacks, where multiple
 By introducing MCP, an open standard that enables seamless, context-aware communication between LLM agents and observability tools like Grafana and Perses, they demonstrate how natural language can be used to create, modify, and troubleshoot dashboards across platforms.
 The session includes a live demo showing how agents, powered by MCP, automate dashboard management, root cause analysis, and cross-platform interoperability, all while emphasizing the importance of guardrails such as role-based access control and audit trails for safe automation.
 The presenters conclude that MCP and LLMs make observability more accessible, collaborative, and efficient, freeing engineers to focus on decision-making rather than manual configuration.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

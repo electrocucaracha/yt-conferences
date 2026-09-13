@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Making Kubescape Storage Scale From Small and Mid-Size
+  To... Ben Hirschberg"
+nav_order: 229
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Making Kubescape Storage Scale From Small and Mid-Size To... Ben Hirschberg"
-description: "Ben, CTO and co-founder of Armo and a maintainer of the CNCF project Cubescape, discusses the challenges faced in scaling Cubescape, a Kubernetes security platform that scans for vulnerabilities and configuration issues, generates network p..."
+description:
+  Ben, CTO and co-founder of Armo and a maintainer of the CNCF project
+  Cubescape, discusses the challenges faced in scaling Cubescape, a Kubernetes security
+  platform that scans for vulnerabilities and configuration issues, generates network
+  p...
 resource: https://www.youtube.com/watch?v=0SxXulvdMMs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ As Cubescape produces large amounts of data, the team debated how best to expose
 They encountered significant difficulties with Kubernetes API features such as listing and watching large objects, patching complex nested objects, and handling unintended API usage by other tools, which led to performance issues and even cluster crashes at scale.
 To address these, they limited list operations to metadata, restricted or deprecated the watch feature, avoided resource versioning, and restructured object patching by aggregating smaller subobjects, thereby improving scalability and stability.
 Ben concludes by inviting attendees interested in Kubernetes security to connect with the Cubescape team at the event.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                    |

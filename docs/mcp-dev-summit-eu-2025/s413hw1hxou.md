@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] MCP & Contextual Smart Tooling with Jason Kneen - BouncingFish"
-description: "Jason, an experienced developer in the MCP (Model Context Protocol) ecosystem, shares his journey building tools and frameworks like Fluent MCP and MCPZ, and collaborating with companies such as Blackbox and Emergent. He discusses the chall..."
+nav_order: 28
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  Jason, an experienced developer in the MCP (Model Context Protocol) ecosystem,
+  shares his journey building tools and frameworks like Fluent MCP and MCPZ, and collaborating
+  with companies such as Blackbox and Emergent. He discusses the chall...
 resource: https://www.youtube.com/watch?v=s413Hw1HXoU
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He discusses the challenges of managing the vast number of available MCP tools, 
 To address this, Jason developed MCPZ CLI, allowing users to create modular, grouped toolboxes and virtual MCP servers for more efficient, task-specific tool selection.
 He introduces the concept of "serlets," dynamic MCP servers that generate and serve only the necessary tools and context based on the current task and environment, optimizing resource usage and reducing noise.
 Jason also describes advanced orchestration techniques, such as proxy servers and agent collaboration, enabling multiple models and agents to work together efficiently, share memory, and dynamically adapt tooling, ultimately streamlining AI-driven development workflows.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

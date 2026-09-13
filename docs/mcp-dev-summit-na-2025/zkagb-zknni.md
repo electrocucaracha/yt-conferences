@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "[Session] Building a MCP Server for Agentic Commerce with Brenden Lane and
+  Nitin Sharma from PayPal"
+nav_order: 22
+parent: Mcp Dev Summit Na 2025
 type: Video Note
-title: "[Session] Building a MCP Server for Agentic Commerce with Brenden Lane and Nitin Sharma from PayPal"
-description: "In this presentation, Brendan and Nitten from PayPal introduce the MCP server developed for Agentic Commerce, explaining how it enables agents to handle the entire online shopping process—from product discovery and price comparison to check..."
+description:
+  In this presentation, Brendan and Nitten from PayPal introduce the MCP
+  server developed for Agentic Commerce, explaining how it enables agents to handle
+  the entire online shopping process—from product discovery and price comparison to
+  check...
 resource: https://www.youtube.com/watch?v=ZKagb-ZkNnI
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They demonstrate how an agent, such as Claude, can search for products, retrieve
 The talk then delves into the design principles behind MCP tools, emphasizing modularity, single-purpose functions, explicit context handling, robust security measures, and comprehensive lifecycle management, including auditing, deprecation, and backward compatibility.
 They highlight the importance of secure data handling, agent and tool discoverability, and integration with protocols like A2A for cross-agent coordination.
 The session concludes with a discussion of emerging directions such as unified tool registries, event-driven controls, privacy-preserving invocations, and simulation protocols, inviting attendees to explore PayPal’s MCP toolkits and engage further with the team.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                   |

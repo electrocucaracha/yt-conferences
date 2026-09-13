@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "From NLB Sprawl To Mesh Efficiency: How Skyscanner Handles 60M Reque... John
+  Clark & Steven Thwaites"
+nav_order: 123
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From NLB Sprawl To Mesh Efficiency: How Skyscanner Handles 60M Reque... John Clark & Steven Thwaites"
-description: "In this presentation, John from Skyscanner and Steven from Solo describe Skyscanner’s journey to improve the efficiency of their service mesh architecture. Initially, Skyscanner operated with multiple AWS clusters connected via Istio, using..."
+description:
+  In this presentation, John from Skyscanner and Steven from Solo describe
+  Skyscanner’s journey to improve the efficiency of their service mesh architecture.
+  Initially, Skyscanner operated with multiple AWS clusters connected via Istio, using...
 resource: https://www.youtube.com/watch?v=2ZvvGdHfknM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Initially, Skyscanner operated with multiple AWS clusters connected via Istio, u
 To address this, they transitioned to a multicluster setup using egress gateways, reducing NLB costs by 10% of their cloud bill, and later began migrating to Istio’s ambient mesh, which eliminates sidecars in favor of node-level Z tunnels and shared waypoint proxies, further simplifying management and reducing resource usage.
 The migration required adapting telemetry collection and multicluster routing, but was achieved without requiring changes from developers or service owners.
 Throughout, Skyscanner emphasized gradual rollouts, custom solutions where necessary, and the use of tools like Argo CD for orchestrating upgrades, finding that the trade-offs in complexity were outweighed by the operational and cost benefits.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

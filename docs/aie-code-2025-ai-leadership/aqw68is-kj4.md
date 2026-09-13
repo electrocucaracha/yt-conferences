@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Katelyn Lesse – Evolving Claude APIs for Agents, Anthropic
+nav_order: 3
+parent: Aie Code 2025 Ai Leadership
 type: Video Note
-title: "Katelyn Lesse – Evolving Claude APIs for Agents, Anthropic"
-description: "Caitlyn, leader of the Claude developer platform team at Anthropic, discusses how the platform is evolving to help developers build advanced agentic systems using Claude, with a focus on the agentic coding product, Claude Code. She outlines..."
+description:
+  Caitlyn, leader of the Claude developer platform team at Anthropic, discusses
+  how the platform is evolving to help developers build advanced agentic systems using
+  Claude, with a focus on the agentic coding product, Claude Code. She outlines...
 resource: https://www.youtube.com/watch?v=aqW68Is_Kj4
-tags: ["aie-code-2025-ai-leadership", video, learning]
+tags:
+  - aie-code-2025-ai-leadership
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ Caitlyn, leader of the Claude developer platform team at Anthropic, discusses ho
 She outlines three main areas of improvement: harnessing Claude’s capabilities through customizable API features like adjustable reasoning time and tool use; managing Claude’s context window with innovations such as the MCP protocol, memory tools for storing and retrieving relevant information, and context editing to optimize performance; and enabling Claude to autonomously write and execute code in secure, sandboxed environments via the code execution tool and agent skills.
 These advancements aim to maximize Claude’s performance, allow for more autonomous agent behavior, and provide developers with robust infrastructure and tools.
 Caitlyn concludes by emphasizing Anthropic’s commitment to continually enhancing the platform and invites interested developers to join their growing team.
+
 # Main Points
 
 |   # | Main point                                                                                            |

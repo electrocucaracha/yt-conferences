@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Building the Next Generation of Multi-Cluster with Gateway API - Mike Morris
+  & Alan Grosskurth
+nav_order: 35
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Building the Next Generation of Multi-Cluster with Gateway API - Mike Morris & Alan Grosskurth"
-description: "In this talk, Mike from Microsoft and Alan from Google discuss the evolution and challenges of Kubernetes service APIs, particularly in the context of multi-cluster networking and modern workloads such as AI. They highlight the limitations..."
+description:
+  In this talk, Mike from Microsoft and Alan from Google discuss the evolution
+  and challenges of Kubernetes service APIs, particularly in the context of multi-cluster
+  networking and modern workloads such as AI. They highlight the limitations...
 resource: https://www.youtube.com/watch?v=oRbdcHgHPbo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the limitations of the existing Service and MCS APIs, including t
 The presenters introduce new concepts under development, such as separating service front end and back end components, the cluster IP gateway, endpoint selectors, and composite back ends, which aim to provide more modular, scalable, and future-proof solutions for multi-cluster environments.
 They describe experimental implementations that leverage Gateway API and XDS protocols to enable more efficient cross-cluster communication without overloading the Kubernetes API, and emphasize the importance of integrating these innovations with existing Kubernetes patterns rather than creating isolated solutions.
 The session concludes with a call for collaboration in working groups to refine and standardize these approaches, ensuring they address both current and emerging needs in the Kubernetes ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                          |

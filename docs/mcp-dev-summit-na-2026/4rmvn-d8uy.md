@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Keynote: One-To-Many: Enabling MCP, Agents, and Intelligent Systems... Ola
+  Hungerford & Sandeep Bhat"
+nav_order: 47
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Keynote: One-To-Many: Enabling MCP, Agents, and Intelligent Systems... Ola Hungerford & Sandeep Bhat"
-description: "Ola Hungerford and Sandeep from Nordstrom’s AI Enablement team discuss their approach to integrating AI technologies, emphasizing the importance of building on strong organizational and architectural foundations rather than starting from sc..."
+description:
+  Ola Hungerford and Sandeep from Nordstrom’s AI Enablement team discuss
+  their approach to integrating AI technologies, emphasizing the importance of building
+  on strong organizational and architectural foundations rather than starting from
+  sc...
 resource: https://www.youtube.com/watch?v=4RMvn__d8uY
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ Ola Hungerford and Sandeep from Nordstrom’s AI Enablement team discuss their a
 They advocate for starting simple, leveraging existing tools and infrastructure, and focusing on essential engineering fundamentals such as documentation, standards, and community involvement.
 Their internal processes include a registry for tracking AI agents and skills, a lightweight SDK to streamline compliance and connectivity, and systems to capture and update knowledge from support interactions.
 The team also highlights the value of open experimentation, feedback loops through office hours, and a patient, disciplined approach to deploying and maintaining new services, ensuring sustainability and continuous improvement as AI capabilities evolve within the organization.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

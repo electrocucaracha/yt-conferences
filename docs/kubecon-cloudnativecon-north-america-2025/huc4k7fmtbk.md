@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "In-Place Pod Resize in Kubernetes: Dynamic Resource Management Without...
+  Tim Allclair & Mofi Rahman"
+nav_order: 102
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "In-Place Pod Resize in Kubernetes: Dynamic Resource Management Without... Tim Allclair & Mofi Rahman"
-description: 'The talk discusses "In-Place Pod Resize" and its benefits for Kubernetes users. In-place pod resize allows for dynamic scaling of pods without restarting them, making it ideal for applications that require continuous availability. The featu...'
+description:
+  The talk discusses "In-Place Pod Resize" and its benefits for Kubernetes
+  users. In-place pod resize allows for dynamic scaling of pods without restarting
+  them, making it ideal for applications that require continuous availability. The
+  featu...
 resource: https://www.youtube.com/watch?v=HuC4k7fmTBk
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The talk discusses "In-Place Pod Resize" and its benefits for Kubernetes users.
 In-place pod resize allows for dynamic scaling of pods without restarting them, making it ideal for applications that require continuous availability.
 The feature is currently in beta and has several limitations, including atomicity, limited resource types, and support only for main containers and sidecars.
 The talk also touches on the upcoming features of VPA (Vertical Pod Autoscaler), including CPU startup boost, pod-level resources, and dynamic resolocation.
+
 # Main Points
 
 |   # | Main point                                                                                                                               |

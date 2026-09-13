@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Translating Ebpf Into Business Value: Lessons From
+  The Cili... Bill Mulligan"
+nav_order: 292
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Translating Ebpf Into Business Value: Lessons From The Cili... Bill Mulligan"
-description: "The speaker reflects on their long experience with CubeCon and the evolution of cloud native technologies, emphasizing the importance of connecting software development—such as eBPF and the Psyllium project—to tangible business outcomes. Th..."
+description:
+  The speaker reflects on their long experience with CubeCon and the evolution
+  of cloud native technologies, emphasizing the importance of connecting software
+  development—such as eBPF and the Psyllium project—to tangible business outcomes.
+  Th...
 resource: https://www.youtube.com/watch?v=J4jHq2ExjJo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The speaker reflects on their long experience with CubeCon and the evolution of 
 They highlight a framework that starts with understanding user needs, which translate into specific use cases, address industry challenges, and ultimately drive desired business results.
 Using Bloomberg as an example, the speaker explains how Psyllium’s host-based network policies enabled Bloomberg to enhance security and compliance in their Kubernetes clusters, supporting critical financial industry requirements and unlocking new business opportunities.
 The speaker stresses that the true goal of open source projects is not just widespread adoption, but solving real business challenges that impact the bottom line, and points to Psyllium’s website as a resource for case studies illustrating this user-to-outcome journey.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

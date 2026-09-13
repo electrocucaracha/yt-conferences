@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "How to Integrate Your Brain (Guided Practices) | Sandra Suter: Growth Session
+  #2"
+nav_order: 49
+parent: Foro De Crecimiento
 type: Video Note
-title: "How to Integrate Your Brain (Guided Practices) | Sandra Suter: Growth Session #2"
-description: "En esta charla, se explica cómo el cerebro humano está compuesto por diferentes partes, desde la más primitiva (reptiliana) hasta la más evolucionada (córtex prefrontal), y cómo el bienestar depende de la integración de todas ellas. Se dest..."
+description:
+  En esta charla, se explica cómo el cerebro humano está compuesto por
+  diferentes partes, desde la más primitiva (reptiliana) hasta la más evolucionada
+  (córtex prefrontal), y cómo el bienestar depende de la integración de todas ellas.
+  Se dest...
 resource: https://www.youtube.com/watch?v=AG0iXpX1bs4
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Se destaca el papel de la amígdala, tradicionalmente vista como negativa por su
 A través de ejercicios prácticos de auto-toque y conciencia corporal, se enseña cómo pausar, observar y reconectar con uno mismo para reducir el estrés, gestionar hábitos y desarrollar amabilidad, lo que ayuda a desactivar la amígdala y fortalecer el córtex prefrontal.
 Se enfatiza la importancia de enfrentar el dolor y el miedo con amabilidad y presencia, integrando todas las partes del cerebro para lograr mayor bienestar, resiliencia y autoconocimiento.
 La práctica constante de estas técnicas permite crear nuevos hábitos saludables y una relación más compasiva con uno mismo.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

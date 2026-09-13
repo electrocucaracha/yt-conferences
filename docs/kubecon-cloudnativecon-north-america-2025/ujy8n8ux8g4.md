@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "AI Inference Without Boundaries: Dynamic Routing With Multi-Cluster In...
+  Rob Scott & Daneyon Hansen"
+nav_order: 5
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "AI Inference Without Boundaries: Dynamic Routing With Multi-Cluster In... Rob Scott & Daneyon Hansen"
-description: "In this KubeCon talk, Rob Scott from Google and Damian Hansen from Solo IO discuss the need for multicluster inference gateways in Kubernetes environments, particularly for handling the unique demands of GenAI traffic, which differs signifi..."
+description:
+  In this KubeCon talk, Rob Scott from Google and Damian Hansen from Solo
+  IO discuss the need for multicluster inference gateways in Kubernetes environments,
+  particularly for handling the unique demands of GenAI traffic, which differs signifi...
 resource: https://www.youtube.com/watch?v=UJy8n8uX8G4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that inference gateways, built on the Gateway API inference extensi
 The speakers detail how multicluster inference gateways extend these concepts across multiple clusters to better manage scarce and expensive GPU resources, using a combination of Gateway API and new inference pool APIs, and describe two routing modes: direct and gateway routing.
 They emphasize the flexibility and extensibility of the architecture, allowing for custom EP implementations and metrics-based routing decisions, and address questions about latency, failover, and the differences between EPs and traditional load balancers.
 The session concludes with an invitation for community feedback and participation, noting ongoing work to generalize multicluster backend support and the importance of collaboration in evolving these solutions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

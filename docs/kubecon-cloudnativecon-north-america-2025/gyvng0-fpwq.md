@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Authenticating and Authorizing Every Connection at Uber - Yangmin Zhu & Matt
+  Mathew, Uber
+nav_order: 19
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Authenticating and Authorizing Every Connection at Uber - Yangmin Zhu & Matt Mathew, Uber"
-description: "In this presentation, Uber’s engineering security team discusses their journey to authenticate and authorize every service-to-service connection across their vast, heterogeneous microservices architecture. Initially, they implemented a libr..."
+description:
+  In this presentation, Uber’s engineering security team discusses their
+  journey to authenticate and authorize every service-to-service connection across
+  their vast, heterogeneous microservices architecture. Initially, they implemented
+  a libr...
 resource: https://www.youtube.com/watch?v=GYVNg0_FpwQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Initially, they implemented a library-based solution requiring service owners to
 To address these challenges, they transitioned to a service mesh solution using Envoy as an on-host proxy, which transparently handles authentication, authorization, and encryption without requiring code changes from service owners.
 The team developed supporting systems for observability, automated policy generation, and safe, gradual rollout, enabling them to authorize over 2 million connections per second.
 Key lessons learned include the importance of leadership support, optimizing developer experience, handling technical edge cases, and the need for centralized, frictionless security solutions in large-scale, legacy environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

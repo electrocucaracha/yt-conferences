@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: How To Add A New Language Feature To OPA - Charlie
+  Egan, Maintainer"
+nav_order: 269
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: How To Add A New Language Feature To OPA - Charlie Egan, Maintainer"
-description: "Charlie from the OPER project introduces their general-purpose policy engine, which allows users to define and enforce policies—such as deployment permissions or repository access—using their policy language, Rego. He explains how policies..."
+description:
+  Charlie from the OPER project introduces their general-purpose policy
+  engine, which allows users to define and enforce policies—such as deployment permissions
+  or repository access—using their policy language, Rego. He explains how policies...
 resource: https://www.youtube.com/watch?v=gPpHTVxHEKQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains how policies are loaded into the Open Policy Agent (OPA), evaluated 
 A recent improvement in OPA 1.12 is the addition of string interpolation in Rego, making it easier and more intuitive to construct dynamic messages within policies.
 Charlie details the technical steps involved in implementing this feature, including updates to the parser, abstract syntax tree, compiler, and the introduction of a new built-in function for template strings.
 He also emphasizes the broader effort required to update the entire OPA ecosystem—such as integrations, editors, documentation, and linting tools—to support and promote this new best practice.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

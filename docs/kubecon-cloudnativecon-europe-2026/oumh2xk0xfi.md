@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: K3s Lightning Update - Manuel Buil, Maintainer"
-description: "Manuel, a K3s maintainer, provides an update on recent and upcoming developments for K3s, a lightweight, fully conformant Kubernetes distribution optimized for resource-constrained environments like IoT edge hardware. He highlights recent p..."
+nav_order: 271
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Manuel, a K3s maintainer, provides an update on recent and upcoming developments
+  for K3s, a lightweight, fully conformant Kubernetes distribution optimized for resource-constrained
+  environments like IoT edge hardware. He highlights recent p...
 resource: https://www.youtube.com/watch?v=ouMh2xk0XFI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ Manuel, a K3s maintainer, provides an update on recent and upcoming developments
 He highlights recent progress, including the move to Go 1.25, the addition of a NYX snapshot, enhanced KIN metrics, improved secrets encryption flexibility, expanded S3 snapshot retention, and the upgrade to containerd 1.22.2 for better GPU support.
 The team has also focused on being a better CNCF citizen by adopting inclusive naming and completing a security self-assessment.
 Looking ahead, priorities include simplifying Gateway API consumption, improving Windows support, enhancing NFTables experience, and ensuring DRA readiness for GPU workloads, with calls for community contributions and adopters to share their use cases and support the project’s move toward CNCF incubation.
+
 # Main Points
 
 |   # | Main point                                                                                                   |

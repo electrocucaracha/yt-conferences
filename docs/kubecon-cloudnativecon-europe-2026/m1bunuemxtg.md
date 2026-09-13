@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Virtualizing Large Scale GPU Cluster for Sovereign AI: Petasus AI Cloud Journey
+  with Kube... Jian Li"
+nav_order: 387
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Virtualizing Large Scale GPU Cluster for Sovereign AI: Petasus AI Cloud Journey with Kube... Jian Li"
-description: "In this talk, Jen, a principal engineer at SK Telecom, presents their in-house solution, Pedestria Cloud, for virtualizing large-scale GPU clusters to support AI workloads in South Korea. The HANE cluster, built with over 1,000 Blackwell GP..."
+description:
+  In this talk, Jen, a principal engineer at SK Telecom, presents their
+  in-house solution, Pedestria Cloud, for virtualizing large-scale GPU clusters to
+  support AI workloads in South Korea. The HANE cluster, built with over 1,000 Blackwell
+  GP...
 resource: https://www.youtube.com/watch?v=m1buNUEmXTg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The HANE cluster, built with over 1,000 Blackwell GPUs and partners like Penguin
 Key technical optimizations include MVLink and RDMA virtualization, PCI topology alignment, and automated partition management to ensure high performance and hard multi-tenancy isolation, with benchmarks showing less than 1% performance degradation compared to bare metal.
 The system also features automated observability and monitoring using CNCF projects, providing near bare-metal performance and robust management for AI infrastructure.
 Overall, SK Telecom’s solution demonstrates that large-scale GPU virtualization can be achieved efficiently, securely, and with minimal performance loss, supporting Korea’s sovereign AI infrastructure goals.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                 |

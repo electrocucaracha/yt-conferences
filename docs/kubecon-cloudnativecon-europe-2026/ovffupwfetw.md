@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Enriching Telemetry Signals Through Lookups in the OTel Collector - João Duarte,
+  Elastic
+nav_order: 101
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Enriching Telemetry Signals Through Lookups in the OTel Collector - João Duarte, Elastic"
-description: "In this talk, Jan from Elastic discusses enriching telemetry signals using the OpenTelemetry Collector, focusing on enhancing the quality and value of signals by adding context. He outlines six types of enrichment, ranging from simple data..."
+description:
+  In this talk, Jan from Elastic discusses enriching telemetry signals
+  using the OpenTelemetry Collector, focusing on enhancing the quality and value of
+  signals by adding context. He outlines six types of enrichment, ranging from simple
+  data...
 resource: https://www.youtube.com/watch?v=OVffupWFEtw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He outlines six types of enrichment, ranging from simple data transformations to
 Jan introduces a new lookup processor proposal, designed to support various enrichment sources such as YAML files and DNS, with the ability for users to extend it for their own needs.
 He demonstrates how the processor works through a live demo, showing step-by-step enrichment of a raw signal, and details the current implementation status and future plans, including support for more sources and signal types.
 The session concludes with a Q&A addressing extensibility and handling latency or availability issues with external sources, emphasizing the importance of community feedback and contribution to the project.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                          |

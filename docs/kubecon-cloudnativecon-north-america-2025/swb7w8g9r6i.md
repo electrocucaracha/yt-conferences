@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Istio: Set Sailing With Istio Without Sidecars - Lin
+  Sun"
+nav_order: 221
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Istio: Set Sailing With Istio Without Sidecars - Lin Sun"
-description: "The speaker introduces Istio Ambient, a service mesh architecture that operates without sidecars, and demonstrates its setup and functionality within a Kubernetes cluster. By applying specific labels to a namespace, all pods are enrolled in..."
+description:
+  The speaker introduces Istio Ambient, a service mesh architecture that
+  operates without sidecars, and demonstrates its setup and functionality within a
+  Kubernetes cluster. By applying specific labels to a namespace, all pods are enrolled
+  in...
 resource: https://www.youtube.com/watch?v=SwB7W8g9r6I
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The speaker introduces Istio Ambient, a service mesh architecture that operates 
 By applying specific labels to a namespace, all pods are enrolled into Ambient mode without needing to restart application pods, enabling features like mutual TLS, layer 7 metrics, observability, and traffic control.
 The demo showcases traffic shifting between two versions of a "rag" service, where HTTP route policies are used to direct traffic and enforce policies without sidecars.
 The speaker highlights the simplicity and efficiency of Ambient mode, emphasizing its lighter architecture and ease of deployment, and concludes by summarizing the benefits observed in the demonstration.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

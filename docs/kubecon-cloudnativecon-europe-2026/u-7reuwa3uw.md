@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Cloud Native University: Kubernetes and the Answer
+  is… 42! - Jan Stomphorst"
+nav_order: 48
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Cloud Native University: Kubernetes and the Answer is… 42! - Jan Stomphorst"
-description: "In this presentation, Yan Stoneport, a solutions architect at a Dutch cloud-native company, shares a comprehensive checklist of considerations for running applications on Kubernetes. He emphasizes the importance of determining whether an ap..."
+description:
+  In this presentation, Yan Stoneport, a solutions architect at a Dutch
+  cloud-native company, shares a comprehensive checklist of considerations for running
+  applications on Kubernetes. He emphasizes the importance of determining whether
+  an ap...
 resource: https://www.youtube.com/watch?v=U_7Reuwa3Uw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He emphasizes the importance of determining whether an application is stateful o
 Stoneport also highlights best practices such as configuring proper resource requests and limits, using init containers when necessary, managing secrets and configuration, setting up health probes, and defining network policies.
 He discusses operational aspects like revision history, rolling updates, logging, metrics, scaling, and the use of certificates for DNS.
 The talk concludes by stressing that production readiness requires attention to many details and encourages attendees to adopt a mindset focused on thorough preparation, offering to share his full checklist upon request.
+
 # Main Points
 
 |   # | Main point                                                                                  |

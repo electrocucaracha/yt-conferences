@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Istio Day: The Good, The Ugly, and The Bad... Alfonso
+  Ming and Jorge Turrado"
+nav_order: 67
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Istio Day: The Good, The Ugly, and The Bad... Alfonso Ming and Jorge Turrado"
-description: "Alonso and Jorge introduce their experiences transitioning from the traditional sidecar service mesh model to the ambient mesh approach in their Kubernetes clusters. They explain that while the sidecar model, which places a proxy alongside..."
+description:
+  Alonso and Jorge introduce their experiences transitioning from the traditional
+  sidecar service mesh model to the ambient mesh approach in their Kubernetes clusters.
+  They explain that while the sidecar model, which places a proxy alongside...
 resource: https://www.youtube.com/watch?v=ToKv7JntLvY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that while the sidecar model, which places a proxy alongside every 
 By adopting ambient mesh, where a single proxy (ztunnel) runs per node and waypoints handle Layer 7 traffic, they achieved significant cost reductions (30–60% in proxy resource allocation), simplified version management, and made resource usage more predictable.
 However, they note that ambient mesh introduces new complexities, such as more fragmented metrics, increased policy management difficulty, and challenges with observability and certain network scenarios.
 Despite these challenges, the team found the operational and cost benefits worthwhile, especially as the infrastructure became simpler for developers, though they caution that some pain points remain, particularly around policy enforcement and integration with existing tools.
+
 # Main Points
 
 |   # | Main point                                                                                           |

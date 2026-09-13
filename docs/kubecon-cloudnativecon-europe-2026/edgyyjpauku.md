@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Advancing Kubernetes AI Conformance: Current State and Road... Yuan Tang,
+  Mario Fahlandt & Janet Kuo"
+nav_order: 17
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Advancing Kubernetes AI Conformance: Current State and Road... Yuan Tang, Mario Fahlandt & Janet Kuo"
-description: "The Kubernetes AI Conformance program, led by representatives from Google, Red Hat, and Curomedic, aims to establish standardized requirements and APIs for running AI and ML workloads on Kubernetes platforms. Recognizing that traditional Ku..."
+description:
+  The Kubernetes AI Conformance program, led by representatives from Google,
+  Red Hat, and Curomedic, aims to establish standardized requirements and APIs for
+  running AI and ML workloads on Kubernetes platforms. Recognizing that traditional
+  Ku...
 resource: https://www.youtube.com/watch?v=EdgyyJpauKU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Recognizing that traditional Kubernetes conformance does not fully address the u
 The program, now a permanent subproject under SIG Architecture, maintains its requirements and automated tests in a public GitHub repository and has introduced a structured process for managing and evolving these standards.
 Since its launch at KubeCon North America, the initiative has seen broad community involvement, with regular meetings and open calls for input, especially from end users, to ensure the standards address diverse real-world scenarios.
 The overarching goal is to enable interoperability and portability of AI workloads across different Kubernetes vendors and environments, fostering industry-wide collaboration and preventing vendor lock-in.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Design Patterns for Consistent Centralized Authorization - José Padilla & Alice
+  Gibbons
+nav_order: 59
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Design Patterns for Consistent Centralized Authorization - José Padilla & Alice Gibbons"
-description: "In this session, Alice Gibbons from Diagrid and Jose Padija from Ozero discuss design patterns for centralized authorization in distributed systems, focusing on the challenges of maintaining consistency across multiple systems—known as the..."
+description:
+  In this session, Alice Gibbons from Diagrid and Jose Padija from Ozero
+  discuss design patterns for centralized authorization in distributed systems, focusing
+  on the challenges of maintaining consistency across multiple systems—known as the...
 resource: https://www.youtube.com/watch?v=v-Qt6op7BLU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ In this session, Alice Gibbons from Diagrid and Jose Padija from Ozero discuss d
 To address these issues, they present several mitigation strategies, including sequential dual writes, transactional outbox, event sourcing, and durable execution engines.
 The Dapr Workflow API is highlighted as a solution for achieving durable execution, enabling workflows to persist state and recover from failures automatically, thus ensuring atomicity and consistency across systems.
 A live demo illustrates how Dapr workflows, combined with OpenFGA, can manage organization membership updates reliably, handle errors, and implement customizable retry and rollback policies, providing resilience and flexibility for developers working with distributed authorization patterns.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

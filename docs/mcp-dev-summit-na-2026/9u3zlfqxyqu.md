@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Schema To Insight: Architecting Production-Grade Database MCP Tools - Kurtis
+  Van Gent & Wenxin Du"
+nav_order: 79
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Schema To Insight: Architecting Production-Grade Database MCP Tools - Kurtis Van Gent & Wenxin Du"
-description: "In this presentation, Curtis Vanent and Winenzu, maintainers of MCP core at Google, discuss best practices for architecting production-grade MCP tools for databases, focusing on security and scalability. They outline three common tool patte..."
+description:
+  In this presentation, Curtis Vanent and Winenzu, maintainers of MCP core
+  at Google, discuss best practices for architecting production-grade MCP tools for
+  databases, focusing on security and scalability. They outline three common tool
+  patte...
 resource: https://www.youtube.com/watch?v=9u3ZLfqXYQU
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They outline three common tool patterns: control plane tools for administrative 
 The speakers highlight the security risks posed by giving agents broad database access, particularly the "lethal trifecta" of access to private data, exposure to untrusted content, and the ability to communicate externally, which can lead to data breaches.
 To mitigate these risks, they describe how the MCP toolbox abstracts sensitive connection details, enforces pre-written SQL statements with strict parameter controls, and uses authenticated parameters derived from user tokens to prevent agents from accessing or leaking sensitive information.
 A demo of a travel agent application illustrates these security measures in practice, showing how authenticated parameters ensure that agents can only act on behalf of the correct user, thereby safeguarding personal data and reducing the attack surface.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

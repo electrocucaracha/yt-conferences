@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "On-Prem Load Balancing Reimagined: Serving 20 Million QPS With Gateway API
+  and Envoy... Isaac Wilson"
+nav_order: 186
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "On-Prem Load Balancing Reimagined: Serving 20 Million QPS With Gateway API and Envoy... Isaac Wilson"
-description: "Isaac Wilson, an engineer at The Trade Desk, discussed the company’s migration from an on-premises HAProxy-based load balancing architecture to Kubernetes Gateway API with Envoy Gateway. He outlined the limitations of their previous setup..."
+description:
+  Isaac Wilson, an engineer at The Trade Desk, discussed the company’s
+  migration from an on-premises HAProxy-based load balancing architecture to Kubernetes
+  Gateway API with Envoy Gateway. He outlined the limitations of their previous setup...
 resource: https://www.youtube.com/watch?v=kHChbblwVwk
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He outlined the limitations of their previous setup, including slow rollouts, co
 The migration to Envoy Gateway, chosen for its advanced feature set and flexibility, enabled improved traffic distribution through zone-aware routing, simplified onboarding of new services, and significant compute cost savings—over $4 million—by reclaiming underutilized resources.
 Wilson emphasized the importance of anticipating failures, benchmarking at production scale, gradual rollouts, and involving multiple teams in such migrations.
 He also shared technical lessons learned, such as handling protocol defaults and tuning for high-traffic environments, and described how the new architecture unified their approach across data centers and cloud providers, making it easier for application teams to manage their own traffic routing.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                         |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Experto en marca personal: Hacer esto te dará más dinero! | Humberto Gutiérrez
+  #46"
+nav_order: 41
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en marca personal: Hacer esto te dará más dinero! | Humberto Gutiérrez #46"
-description: "En este episodio se aborda la importancia de la marca personal como el activo número uno para cualquier profesional o emprendedor, enfatizando que todos ya poseen una marca, pero la clave está en hacerla visible y alinearla a un modelo de n..."
+description:
+  En este episodio se aborda la importancia de la marca personal como el
+  activo número uno para cualquier profesional o emprendedor, enfatizando que todos
+  ya poseen una marca, pero la clave está en hacerla visible y alinearla a un modelo
+  de n...
 resource: https://www.youtube.com/watch?v=eSJTplPhYgc
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Humberto Gutiérrez, consultor de imagen y experto en marca personal, comparte s
 Se presentan cuatro pasos fundamentales: descubrir tus pasiones, talentos y lo que el mercado demanda; construir una estrategia enfocada y auténtica; comunicar de manera constante y estratégica, priorizando el contenido que genera negocio sobre el que solo busca seguidores; y finalmente, vender empaquetando tu conocimiento en productos o servicios que rompan barreras geográficas, económicas y temporales.
 Además, se recomienda construir una personalidad digital genuina, evitar personajes ficticios y elegir entre arquetipos como asesor, irreverente, entretenido o famoso, descartando el rol de simple informador.
 El episodio concluye motivando a la acción inmediata, resaltando que nadie se arrepiente de haber empezado a construir su marca personal, solo de no haberlo hecho antes.
+
 # Main Points
 
 |   # | Main point                                                                                                          |

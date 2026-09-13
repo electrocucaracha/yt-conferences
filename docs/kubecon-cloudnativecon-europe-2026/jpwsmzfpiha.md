@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Linkerd: Reliable Production in an AI/MCP World - William Morgan, Buoyant"
-description: "William Morgan, director of the Linkerd project, opens his talk by introducing Linkerd as a service mesh designed to provide secure, reliable, and observable networking for Kubernetes environments, emphasizing simplicity, minimal configurat..."
+nav_order: 212
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  William Morgan, director of the Linkerd project, opens his talk by introducing
+  Linkerd as a service mesh designed to provide secure, reliable, and observable networking
+  for Kubernetes environments, emphasizing simplicity, minimal configurat...
 resource: https://www.youtube.com/watch?v=jPWsMZFpihA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He highlights Linkerd’s unique architecture, notably its use of lightweight Ru
 Morgan reviews recent updates, including post-quantum-ready TLS libraries, protocol declarations to improve reliability under load, GitOps-compatible multicluster linking, and decoupling from the Gateway API.
 Addressing the impact of AI and MCP (Model Control Protocol) workloads, he notes that while core platform requirements remain unchanged, Linkerd is actively prototyping features to support new AI-driven use cases, such as MCP protocol parsing and enhanced gateway capabilities.
 He concludes by inviting feedback from users facing AI challenges, promoting educational resources, and answering audience questions about technical implementation and future directions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

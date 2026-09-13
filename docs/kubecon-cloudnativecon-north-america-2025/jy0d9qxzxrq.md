@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Debugging Your Cluster When It’s on Fire - Nikola Grcevski, Grafana Labs &
+  Tyler Yahn, Splunk
+nav_order: 55
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Debugging Your Cluster When It’s on Fire - Nikola Grcevski, Grafana Labs & Tyler Yahn, Splunk"
-description: "In this presentation, Tyler Yan from Splunk and Mario Matias from Grafana Labs introduce OBI, an open source project that brings eBPF-based automatic instrumentation to OpenTelemetry for observability in production systems. They discuss the..."
+description:
+  In this presentation, Tyler Yan from Splunk and Mario Matias from Grafana
+  Labs introduce OBI, an open source project that brings eBPF-based automatic instrumentation
+  to OpenTelemetry for observability in production systems. They discuss the...
 resource: https://www.youtube.com/watch?v=Jy0d9QXZXrQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They discuss the challenges of debugging complex, unfamiliar clusters during inc
 OBI leverages eBPF technology to provide immediate, cluster-wide visibility without code modifications or service restarts, enabling rapid root cause analysis across multiple languages and services.
 Through a live demo, they show how deploying OBI in under 30 seconds surfaces distributed traces and service topologies, allowing engineers to quickly identify and resolve issues—such as distinguishing between misleading database errors and actual rate-limiting problems—thereby reducing mean time to resolution from days to minutes.
 The session concludes with practical details on OBI’s compatibility, supported protocols, and integration with open source observability stacks, as well as a Q&A addressing deployment scenarios and interoperability with other OpenTelemetry tools.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                    |

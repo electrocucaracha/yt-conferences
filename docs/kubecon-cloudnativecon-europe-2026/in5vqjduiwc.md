@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Smoothed and Anchored Rate Calculation in PromQL - Björn Rabenstein, Grafana
+  Labs
+nav_order: 335
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Smoothed and Anchored Rate Calculation in PromQL - Björn Rabenstein, Grafana Labs"
-description: "Bern from Kofana Labs discusses recent advancements in Prometheus rate calculation, introducing two new experimental methods: anchored and smooth rate calculations. He explains the limitations of the classic rate function, such as incomplet..."
+description:
+  "Bern from Kofana Labs discusses recent advancements in Prometheus rate
+  calculation, introducing two new experimental methods: anchored and smooth rate
+  calculations. He explains the limitations of the classic rate function, such as
+  incomplet..."
 resource: https://www.youtube.com/watch?v=iN5vQjDuiWc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ The anchored rate method provides integer results by directly comparing the last
 The smooth rate method uses linear interpolation between samples before and after the range, offering better statistical properties, resilience to missing data, and perfect graph coverage, but requires data from the future and may underestimate current rates.
 Both methods are available as experimental features in Prometheus 3.7, with users encouraged to try them via feature flags.
 Bern emphasizes that these changes were carefully considered to avoid user confusion and that feedback will determine the future of the classic rate function.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                   |

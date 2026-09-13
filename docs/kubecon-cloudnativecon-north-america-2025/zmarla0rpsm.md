@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "CafeGPT: Serving LLMs Like Coffee With Kubernetes - Madhav Jivrajani & Kartik
+  Ramesh, UIUC"
+nav_order: 38
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "CafeGPT: Serving LLMs Like Coffee With Kubernetes - Madhav Jivrajani & Kartik Ramesh, UIUC"
-description: 'In this talk, Madav and Karthik introduce "Cafe GPT," using a coffee shop analogy to explain the process of serving large language model (LLM) inference workloads, particularly in Kubernetes environments. They describe how customer requests...'
+description:
+  In this talk, Madav and Karthik introduce "Cafe GPT," using a coffee
+  shop analogy to explain the process of serving large language model (LLM) inference
+  workloads, particularly in Kubernetes environments. They describe how customer requests...
 resource: https://www.youtube.com/watch?v=zMArlA0rPsM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They describe how customer requests are routed and fulfilled, likening the route
 The speakers discuss the importance of KV caching for efficiency, the challenges of batching and dynamic workloads, and strategies for resource allocation and autoscaling, such as dynamic resource allocation (DRA) and scaling based on queue length, batch size, or KV cache utilization.
 They emphasize the need for intelligent load balancing, leveraging Kubernetes features and ecosystem projects like the API Inference Gateway, LLMD, and AI Bricks to optimize performance and resource use.
 Ultimately, they reassure the audience that serving LLMs can be approachable and manageable, much like running a well-organized café.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

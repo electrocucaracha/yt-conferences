@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "The Future of Debugging Is No Debugging: Observability Is Dead - Jeremy Adams,
+  Neo4j"
+nav_order: 307
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "The Future of Debugging Is No Debugging: Observability Is Dead - Jeremy Adams, Neo4j"
-description: "In this session, Jeremy Adams welcomes a largely first-time KubeCon audience and introduces key Kubernetes and AI terminology, explaining abbreviations like K8s (Kubernetes), I18N (internationalization), L10N (localization), and others. He..."
+description:
+  In this session, Jeremy Adams welcomes a largely first-time KubeCon audience
+  and introduces key Kubernetes and AI terminology, explaining abbreviations like
+  K8s (Kubernetes), I18N (internationalization), L10N (localization), and others.
+  He...
 resource: https://www.youtube.com/watch?v=nBka0VrCWpE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He discusses the evolving landscape of debugging and observability, highlighting
 Adams emphasizes the need to adapt observability practices for AI applications, suggesting that while logs remain useful, tracing agent behavior and conducting systematic evals are crucial for diagnosing and improving AI-driven systems.
 He also introduces the concept of "durable" versus "disposable" code, arguing that while AI can help rapidly generate or iterate on less critical code, foundational systems still require careful, reliable engineering.
 The talk concludes by encouraging attendees to embrace new tools and strategies for observability in AI contexts, balancing innovation with the need for robust, maintainable infrastructure.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                       |

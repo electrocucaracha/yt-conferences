@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Communication expert: The problem isn't your idea, it's how you communicate
+  it | Paco Benítez"
+nav_order: 9
+parent: Foro De Crecimiento
 type: Video Note
-title: "Communication expert: The problem isn't your idea, it's how you communicate it | Paco Benítez"
-description: "En este episodio, los anfitriones y el invitado Paco Benítez, reconocido coach de conferencistas, abordan la importancia de la comunicación efectiva para el éxito profesional y personal, destacando que no basta con ser bueno en lo que haces..."
+description:
+  En este episodio, los anfitriones y el invitado Paco Benítez, reconocido
+  coach de conferencistas, abordan la importancia de la comunicación efectiva para
+  el éxito profesional y personal, destacando que no basta con ser bueno en lo que
+  haces...
 resource: https://www.youtube.com/watch?v=XKU7_brW-m8
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Presentan el método CEO, cuyas siglas significan Control, Emoción y Orden, com
 Explican que el control implica sincronizar cuerpo y voz para proyectar seguridad, la emoción consiste en conectar con el público a través de historias y sentimientos congruentes, y el orden se refiere a estructurar el mensaje para facilitar su comprensión.
 A través de ejemplos y anécdotas, enfatizan que la percepción que los demás tienen de nosotros depende de cómo comunicamos, y que dominar estas tres áreas permite destacar y generar mayor impacto.
 Finalmente, animan a los oyentes a tomar acción y desarrollar sus habilidades de comunicación, ya que en igualdad de condiciones, quien mejor comunica es quien obtiene mejores resultados.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How to Quickly Build Relationships With Anyone | The Secret to Winning Friends,
+  Influencing People
+nav_order: 30
+parent: Leadership Skills
 type: Video Note
-title: "How to Quickly Build Relationships With Anyone | The Secret to Winning Friends, Influencing People"
-description: "In this video, Doug Howard, a structural engineer and manager, emphasizes the importance of building relationships and networking for career and personal success, noting that technical skills alone are not enough to advance professionally..."
+description:
+  In this video, Doug Howard, a structural engineer and manager, emphasizes
+  the importance of building relationships and networking for career and personal
+  success, noting that technical skills alone are not enough to advance professionally...
 resource: https://www.youtube.com/watch?v=Othm_4lTQh8
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He introduces a five-step framework called "questioning to the core," designed t
 The framework consists of five layers: breaking ground questions (easy, safe topics), best and worst questions (preferences and favorites), friendly debate questions (fun, open-ended topics), OP (origin, personality, people) questions (background and values), and core questions (hopes, dreams, and fears).
 Doug stresses the importance of being authentic, genuinely curious, and listening actively, rather than simply running through a checklist of questions.
 He concludes by reminding viewers not to force conversations and to let relationships develop naturally, offering additional resources for those interested in improving their networking and introduction skills.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

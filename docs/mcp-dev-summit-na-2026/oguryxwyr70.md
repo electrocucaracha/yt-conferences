@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Stateless: The Future of MCP Transports - Shaun Smith, Hugging Face & Kurtis
+  Van Gent, Google"
+nav_order: 89
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Stateless: The Future of MCP Transports - Shaun Smith, Hugging Face & Kurtis Van Gent, Google"
-description: "In this session, Sean from Hugging Face and Curtis from Google Cloud, both MCP maintainers, discuss ongoing and future improvements to MCP transports, focusing on making the protocol stateless for better scalability, reliability, and simpli..."
+description:
+  In this session, Sean from Hugging Face and Curtis from Google Cloud,
+  both MCP maintainers, discuss ongoing and future improvements to MCP transports,
+  focusing on making the protocol stateless for better scalability, reliability, and
+  simpli...
 resource: https://www.youtube.com/watch?v=OguRYXwyR70
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They highlight current challenges such as excessive protocol "chattiness," diffi
 Key proposals include removing session initialization to ensure each request is independent (as outlined in SCP 1442), restructuring multi-round trip requests to avoid state dependencies across servers (SCP 2322), and standardizing HTTP headers for more efficient routing (SCP 2243).
 The speakers also address future optimizations like leveraging HTTP features and enabling pluggable transports for broader interoperability.
 Throughout, they emphasize the importance of minimizing disruption for existing users and ensuring consistent feature support across all transport types, aiming for a more robust and scalable MCP ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

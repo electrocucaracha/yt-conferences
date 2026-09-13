@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: From Tokens To Partitions: Rethinking Data Distribution
+  In... Daniel Blando"
+nav_order: 217
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: From Tokens To Partitions: Rethinking Data Distribution In... Daniel Blando"
-description: "Daniel, a maintainer of Cortex, discusses the challenges faced in scaling Prometheus through Cortex, which aims to provide high availability, multi-tenancy, and long-term storage by splitting Prometheus into microservices. He focuses on the..."
+description:
+  Daniel, a maintainer of Cortex, discusses the challenges faced in scaling
+  Prometheus through Cortex, which aims to provide high availability, multi-tenancy,
+  and long-term storage by splitting Prometheus into microservices. He focuses on
+  the...
 resource: https://www.youtube.com/watch?v=hlDqFMdXPQ8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He focuses on the remote write path, explaining how data is distributed via a ri
 The current token-based approach leads to high downtime risk when two ingesters fail, especially at large scale, as the likelihood of a request failing approaches 100%.
 To address this, Cortex is moving to a partition-based system where partitions, not ingesters, hold tokens, ensuring data for each partition is consistently sent to the same set of ingesters, significantly reducing downtime risk to around 10% with 15 partitions.
 Daniel concludes by announcing the release of Cortex version 1, highlighting new features like support for Prometheus 3.0 and remote write v2, and invites further engagement with the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                 |

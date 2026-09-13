@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Unveiling Automation: How Mercantil Transformed Data Streaming With Strimzi,
+  Argo... Marcelo Costa"
+nav_order: 335
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Unveiling Automation: How Mercantil Transformed Data Streaming With Strimzi, Argo... Marcelo Costa"
-description: "Marcelo Costa, Head of Data at Mechanu Bank in Brazil, discusses how his team addressed the challenges of scaling real-time data access as the bank grew. Previously, data requests were slow and error-prone, taking up to seven days and relyi..."
+description:
+  Marcelo Costa, Head of Data at Mechanu Bank in Brazil, discusses how
+  his team addressed the challenges of scaling real-time data access as the bank grew.
+  Previously, data requests were slow and error-prone, taking up to seven days and
+  relyi...
 resource: https://www.youtube.com/watch?v=tWpspU_9ClE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Previously, data requests were slow and error-prone, taking up to seven days and
 To solve this, they implemented an "integration hub" built around Kafka, Kubernetes, and automated DevOps pipelines, enabling efficient, standardized, and auditable data movement across legacy and modern systems.
 By automating connector creation through GitOps and declarative configuration, they reduced lead times from days to just four hours, minimized incidents, and eliminated licensing costs from previous solutions.
 This transformation not only improved speed and reliability but also fostered collaboration between engineering, operations, and business teams, demonstrating that with the right architecture and automation, Kafka can be a powerful and manageable ally for enterprise data needs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                            |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Coach de conferencistas: 5 secretos para hablar en público con impacto | Francisco
+  Yáñez #49"
+nav_order: 7
+parent: Foro De Crecimiento
 type: Video Note
-title: "Coach de conferencistas: 5 secretos para hablar en público con impacto | Francisco Yáñez #49"
-description: "En esta entrevista, Francisco Yáñez, reconocido conferencista y coach de conferencistas, comparte su experiencia y consejos para quienes desean incursionar en el mundo de las conferencias. Explica que el verdadero negocio está en resolver p..."
+description:
+  En esta entrevista, Francisco Yáñez, reconocido conferencista y coach
+  de conferencistas, comparte su experiencia y consejos para quienes desean incursionar
+  en el mundo de las conferencias. Explica que el verdadero negocio está en resolver
+  p...
 resource: https://www.youtube.com/watch?v=uDbmO-4vsCk
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Explica que el verdadero negocio está en resolver problemas específicos de la 
 Francisco destaca la importancia de modelar a los grandes conferencistas, trabajar la mentalidad, ser auténtico, conocer a la audiencia, dominar el storytelling y lanzar el corazón en cada presentación.
 Además, enfatiza el valor de construir una marca personal, utilizar herramientas adecuadas y estructurar correctamente una conferencia con un buen inicio, mensaje central y cierre poderoso.
 Finalmente, motiva a los aspirantes a no rendirse ante las dificultades, recordando que la perseverancia y la resiliencia son claves para alcanzar el éxito en esta profesión.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Making Application Rollouts Observable, Actionable and Boring - Vasudev Bongale,
+  LinkedIn
+nav_order: 159
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Making Application Rollouts Observable, Actionable and Boring - Vasudev Bongale, LinkedIn"
-description: "Vasuv, a software engineer at LinkedIn, discusses how his team improved the reliability and developer experience of application rollouts on LinkedIn’s massive Kubernetes-based compute infrastructure. He explains the challenges faced by both..."
+description:
+  Vasuv, a software engineer at LinkedIn, discusses how his team improved
+  the reliability and developer experience of application rollouts on LinkedIn’s massive
+  Kubernetes-based compute infrastructure. He explains the challenges faced by both...
 resource: https://www.youtube.com/watch?v=8QS3hmsDjNE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains the challenges faced by both application developers and platform eng
 To address this, the team built a system that makes rollouts observable by assigning each change a unique identity, owner, and timestamp, and actionable by introducing a structured taxonomy for failure reasons and providing clear, human-readable explanations and next steps for failures.
 They also developed integrated tools and dashboards that streamline troubleshooting and surface relevant metrics and alerts, reducing operational overhead and enabling self-service debugging.
 As a result, rollouts have become predictable and routine, freeing engineers to focus on innovation, and the platform now quickly identifies and addresses issues, driving continuous improvement.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

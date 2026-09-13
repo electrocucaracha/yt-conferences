@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Securing MCP in an Agentic World with Arjun Sambamoorthy from Cisco"
-description: "Arjun, head of R&D for Cisco's AI security product, discusses the security challenges associated with MCP (Model-Connected Plugins) and their intersection with AI. He outlines the primary attack surfaces in MCP, including the supply chain..."
+nav_order: 19
+parent: Mcp Dev Summit Na 2025
+type: Video Note
+description:
+  Arjun, head of R&D for Cisco's AI security product, discusses the security
+  challenges associated with MCP (Model-Connected Plugins) and their intersection
+  with AI. He outlines the primary attack surfaces in MCP, including the supply chain...
 resource: https://www.youtube.com/watch?v=W9y_a2ZOatI
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He outlines the primary attack surfaces in MCP, including the supply chain, clie
 Arjun details several types of supply chain attacks such as tool poisoning, malicious MCP servers, and compromised setup tools, providing demonstrations of how attackers can exploit tool descriptions and parameters to exfiltrate sensitive data or hijack legitimate tools.
 He also explains advanced attack techniques like tool hijacking, shadowing, rugpull attacks, and indirect prompt injection, highlighting the risks of both malicious and accidental data leaks.
 To mitigate these threats, Arjun recommends establishing a trusted MCP registry, validating servers, analyzing tool descriptions, monitoring runtime changes, and implementing sandboxes and gateways to enforce security policies and isolate MCP servers.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

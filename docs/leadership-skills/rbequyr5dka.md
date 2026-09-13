@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  12 Reasons Why Constructive Feedback is Critical Skill for Engineering Managers
+  + Technical Leaders
+nav_order: 3
+parent: Leadership Skills
 type: Video Note
-title: "12 Reasons Why Constructive Feedback is Critical Skill for Engineering Managers + Technical Leaders"
-description: "In this video, Doug Howard emphasizes the importance of providing constructive feedback to team members, particularly for engineering leaders. He outlines twelve significant consequences of avoiding negative feedback, including missed learn..."
+description:
+  In this video, Doug Howard emphasizes the importance of providing constructive
+  feedback to team members, particularly for engineering leaders. He outlines twelve
+  significant consequences of avoiding negative feedback, including missed learn...
 resource: https://www.youtube.com/watch?v=rbEQuyR5dKA
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He outlines twelve significant consequences of avoiding negative feedback, inclu
 Doug explains that withholding feedback leads to disengagement, inefficiency, and a decline in both team morale and performance.
 He encourages managers to embrace the discomfort of giving feedback, as it is essential for professional growth, team cohesion, and organizational success.
 Doug concludes by offering resources to help leaders become more effective at delivering constructive feedback.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

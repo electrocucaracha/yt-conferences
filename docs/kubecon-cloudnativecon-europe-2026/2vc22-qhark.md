@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Keynote: Agents as First-Class Users in Production - Mathias Biilmann, Co-Founder
+  and CEO, Netlify"
+nav_order: 163
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: Agents as First-Class Users in Production - Mathias Biilmann, Co-Founder and CEO, Netlify"
-description: "Matt Bilman, CEO and co-founder of Netifi, introduces the company as a front-end web deployment cloud platform supporting over 12 million developers and facilitating the creation of around 3 million sites monthly. Since its inception over a..."
+description:
+  Matt Bilman, CEO and co-founder of Netifi, introduces the company as
+  a front-end web deployment cloud platform supporting over 12 million developers
+  and facilitating the creation of around 3 million sites monthly. Since its inception
+  over a...
 resource: https://www.youtube.com/watch?v=2VC22_qHark
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Since its inception over a decade ago, Netifi has focused on providing the faste
 Bilman highlights a significant shift in the industry from prioritizing developer experience to focusing on agent experience (AX), as AI agents increasingly become users of infrastructure and developer tools.
 He explains that this evolution is expanding the user base from traditional developers to billions of potential users, such as those proficient with spreadsheets, and challenges teams to rethink how they design products and documentation for agent interaction.
 Netifi is actively developing solutions tailored for agents and invites collaboration with others interested in building for this new paradigm.
+
 # Main Points
 
 |   # | Main point                                                                                                                                       |

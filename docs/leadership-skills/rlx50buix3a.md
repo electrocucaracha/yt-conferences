@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Are You Feeling Stuck in Your Career? Escape Your Comfort Zone Part 1 of 2
+nav_order: 9
+parent: Leadership Skills
 type: Video Note
-title: "Are You Feeling Stuck in Your Career? Escape Your Comfort Zone Part 1 of 2"
-description: "In this video, Doug Howard, a licensed structural engineer and career coach, discusses how staying in your comfort zone can hold you back both personally and professionally. He explains that humans are naturally inclined to seek comfort and..."
+description:
+  In this video, Doug Howard, a licensed structural engineer and career
+  coach, discusses how staying in your comfort zone can hold you back both personally
+  and professionally. He explains that humans are naturally inclined to seek comfort
+  and...
 resource: https://www.youtube.com/watch?v=RlX50BuiX3A
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains that humans are naturally inclined to seek comfort and avoid discomf
 Howard describes three zones: the zombie zone, marked by mindless routine and lack of motivation; the comfort zone, characterized by predictability and order but also by a lack of growth; and the growth zone, where discomfort and complexity drive learning and personal development.
 He emphasizes that remaining in the comfort zone can be dangerous because it prevents new experiences and limits potential, and he outlines three ways to escape it: being forced out by external events, being pushed by others, or proactively challenging oneself.
 Howard concludes by promising practical strategies for stepping outside the comfort zone in the next episode.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                |

@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)
+nav_order: 14
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)"
-description: "The lecture provides an overview of how large language models (LLMs) like ChatGPT, Claude, and Gemini are built and trained. It begins by outlining the key components involved: architecture, training loss and algorithms, data, evaluation, a..."
+description:
+  "The lecture provides an overview of how large language models (LLMs)
+  like ChatGPT, Claude, and Gemini are built and trained. It begins by outlining the
+  key components involved: architecture, training loss and algorithms, data, evaluation,
+  a..."
 resource: https://www.youtube.com/watch?v=9vM4p9NN0Ts
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -18,6 +30,7 @@ The lecture details the complexities of data collection and filtering, scaling l
 Post-training, including supervised fine-tuning and reinforcement learning from human feedback (RLHF), is covered as essential for aligning models to user instructions and ethical guidelines.
 The speaker also touches on system-level optimizations, such as low-precision computation and operator fusion, to efficiently utilize hardware.
 Throughout, the importance of practical considerations—especially data quality, evaluation methods, and system efficiency—is highlighted as central to building effective LLMs.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

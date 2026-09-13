@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Longhorn: Intro, Deep Dive and Q&A - David Ko & Divya Mohan, SUSE"
-description: "David Co, engineering director at Susa, and Da, the new community manager for Longhorn, provided an update on the Longhorn project during a QCON session. They discussed Longhorn’s architecture as a cloud-native distributed block storage sol..."
+nav_order: 214
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  David Co, engineering director at Susa, and Da, the new community manager
+  for Longhorn, provided an update on the Longhorn project during a QCON session.
+  They discussed Longhorn’s architecture as a cloud-native distributed block storage
+  sol...
 resource: https://www.youtube.com/watch?v=sVQyZe7rggM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ The session covered recent and upcoming releases, including the introduction of 
 The team emphasized their commitment to regular release cycles, extensive testing, and feature parity between V1 and V2, with V2 moving towards general availability in version 1.12.
 Da also outlined efforts to grow the community, increase non-Susa contributions, and move Longhorn towards CNCF graduation by building a more inclusive governance structure and encouraging user engagement through community meetings, social media, and the adopters file.
 The presenters invited further participation and feedback to ensure Longhorn’s continued growth and relevance.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                         |

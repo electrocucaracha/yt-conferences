@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Bridging Kernel Space and AI: Building an MCP Server for Linux Scheduler Observabil...
+  Daniel Hodges"
+nav_order: 2
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Bridging Kernel Space and AI: Building an MCP Server for Linux Scheduler Observabil... Daniel Hodges"
-description: "The talk discusses building powerful analysis tools using BPF (Berkeley Packet Filter) and MCP (Machine Control Protocol), focusing on simplifying the steep learning curve of BPF tooling and enabling conversational, hypothesis-driven invest..."
+description:
+  The talk discusses building powerful analysis tools using BPF (Berkeley
+  Packet Filter) and MCP (Machine Control Protocol), focusing on simplifying the steep
+  learning curve of BPF tooling and enabling conversational, hypothesis-driven invest...
 resource: https://www.youtube.com/watch?v=_eMGiEQbSjM
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The speaker outlines a step-by-step process for creating a simple MCP tool that 
 The presentation then delves into SCXTOP, an advanced MCP tool for analyzing BPF schedulers, which features a modular architecture with multiple ring buffers, event processing layers, and various user interfaces for real-time and trace-based analysis.
 Key challenges addressed include handling high-frequency events, tracking tasks reliably, dynamic tracing, and managing permissions, with solutions such as per-CPU counters, task storage maps, and ring buffer sharding.
 The speaker concludes by emphasizing best practices for MCP tool development, such as clear BPF lifecycle management, discoverability, topology awareness, and appropriate data storage strategies, and suggests that these approaches can be generalized for broader applications in security, observability, and debugging.
+
 # Main Points
 
 |   # | Main point                                                                                                  |

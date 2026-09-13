@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Dancing With the Pods: Live Migration of a Database Fleet While Serving...
+  Jayme Bird & Manish Gill"
+nav_order: 58
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Dancing With the Pods: Live Migration of a Database Fleet While Serving... Jayme Bird & Manish Gill"
-description: 'The speaker discusses the migration of their company''s database from a traditional stateful set approach to a new "make before break" architecture using ClickHouse. This involves adding capacity in terms of extra replicas and then taking aw...'
+description:
+  The speaker discusses the migration of their company's database from
+  a traditional stateful set approach to a new "make before break" architecture using
+  ClickHouse. This involves adding capacity in terms of extra replicas and then taking
+  aw...
 resource: https://www.youtube.com/watch?v=ufY_JFPpzRI
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ This involves adding capacity in terms of extra replicas and then taking away th
 The migration was complex due to the need to maintain zero downtime, handle DNS issues, and preserve system tables that contain query history.
 To address these challenges, the team implemented a custom migration controller using Temporal, which handled tasks such as syncing catalog metadata, creating new replicas, and managing zone balance.
 The migration was successful, with thousands of customers migrated without downtime, and has improved the company's ability to scale and handle high traffic.
+
 # Main Points
 
 |   # | Main point                                                                                                  |

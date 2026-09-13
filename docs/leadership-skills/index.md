@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Leadership Skills"
+has_children: true
+nav_order: 11
+---
+
 # Leadership Skills
 
 ## Concepts

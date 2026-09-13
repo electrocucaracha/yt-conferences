@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "Containerd: Project Update and Deep Dive - M. Pavlenko, A. Suda, L. Brehm,
+  S. Karp, J. Zhou"
+nav_order: 52
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Containerd: Project Update and Deep Dive - M. Pavlenko, A. Suda, L. Brehm, S. Karp, J. Zhou"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=5ZWbS01wCMk
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: The Containerd team 
 They also announced plans for future releases, including version 2.1, which will include support for FS enhanced reloading file system and image volumes.
 Additionally, the team discussed their efforts to improve extensibility, including the introduction of NRI (Node Resource Interface) and snapshoters, which enable users to customize container configuration and storage.
 The team also talked about their involvement in other projects, such as Kubernetes and Hyperlite, and how they are working together to advance the state-of-the-art in cloud-native computing.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

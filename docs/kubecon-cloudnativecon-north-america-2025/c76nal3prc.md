@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Routing Stateful AI Workloads in Kubernetes - Maroon Ayoub, IBM & Michey Mehta,
+  Red Hat
+nav_order: 262
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Routing Stateful AI Workloads in Kubernetes - Maroon Ayoub, IBM & Michey Mehta, Red Hat"
-description: "In this talk, Aruna Yub from IBM Research and Mishi Ma from Red Hat discuss the challenges of routing stateful AI workloads in Kubernetes, focusing on the importance of the KV cache for efficient AI inference. They explain that standard Kub..."
+description:
+  In this talk, Aruna Yub from IBM Research and Mishi Ma from Red Hat discuss
+  the challenges of routing stateful AI workloads in Kubernetes, focusing on the importance
+  of the KV cache for efficient AI inference. They explain that standard Kub...
 resource: https://www.youtube.com/watch?v=-C76naL3PRc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that standard Kubernetes load balancing is unaware of the stateful 
 The speakers introduce LMD, a Kubernetes-native solution that provides real-time, global visibility into KV cache states across instances, enabling prefix cache-aware scheduling and significantly improving performance metrics such as time to first token and throughput.
 Benchmark data demonstrates that precise cache-aware scheduling outperforms random and load-aware strategies by maximizing cache reuse and minimizing queuing.
 The session concludes with a discussion of cache management strategies, offloading options, and future work on autoscaling and more granular cache control, emphasizing that making Kubernetes AI-aware is essential for cost-effective and performant AI inference.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

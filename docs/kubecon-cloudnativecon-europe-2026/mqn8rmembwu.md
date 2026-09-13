@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Awards Ceremony"
-description: "George, a project maintainer emeritus, opened the event by emphasizing the importance of the open source community, which now includes over 300,000 contributors from 190 countries across 200 projects. He encouraged attendees to engage with..."
+nav_order: 164
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  George, a project maintainer emeritus, opened the event by emphasizing
+  the importance of the open source community, which now includes over 300,000 contributors
+  from 190 countries across 200 projects. He encouraged attendees to engage with...
 resource: https://www.youtube.com/watch?v=mqN8rmeMBwU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He encouraged attendees to engage with project maintainers and highlighted the s
 The ceremony honored organizations and individuals for their outstanding work, including Michelin as last year's top end user and SNCF as this year's winner, with SNCF representatives reflecting on their journey and growth within the cloud native ecosystem.
 Individual awards were also presented, such as the outstanding mentor award to Hadai Takei for his dedication to the Wasm Edge project and support of new contributors, and recognition was given to members advancing the CNCF's technical advisory groups.
 The event concluded with applause for all honorees and a celebration of the community's achievements.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                    |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  'Keynote: Context is More Than Tools - Why the "C" in MCP is More Relevant
+  Than Ever - Ryan Cooke'
+nav_order: 41
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: 'Keynote: Context is More Than Tools - Why the "C" in MCP is More Relevant Than Ever - Ryan Cooke'
-description: 'Ryan, an engineering lead at Work OS, discusses how his team leverages MCP concepts and protocol primitives to enhance the effectiveness of internal agents. Rather than focusing solely on authentication, he explains their development of a "...'
+description:
+  Ryan, an engineering lead at Work OS, discusses how his team leverages
+  MCP concepts and protocol primitives to enhance the effectiveness of internal agents.
+  Rather than focusing solely on authentication, he explains their development of
+  a "...
 resource: https://www.youtube.com/watch?v=685yFOg3aEo
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Rather than focusing solely on authentication, he explains their development of 
 This engine comprises three layers: identity (determining who the agent represents and scoping authorization), per-integration context (both static and dynamic instructions tailored to tools and user roles), and a semantic layer (consistent definitions and language across agents).
 These mechanisms ensure agents have precise, relevant context, enabling secure, auditable, and efficient tool usage while preventing context overload or insufficiency.
 Ryan illustrates these concepts with examples from their internal applications, which generate temporary, interactive mini-apps for support and sales teams, and hints at an upcoming public launch based on this technology.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Detect, Decide, Defend: Building Cloud Native Security That Fights Back -
+  Matthias Bertschy, ARMO"
+nav_order: 91
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Detect, Decide, Defend: Building Cloud Native Security That Fights Back - Matthias Bertschy, ARMO"
-description: "In this talk, Matias, a Kubernetes security expert and CNCF project maintainer, addresses the challenges of detecting and responding to security incidents in Kubernetes environments, where multiple security tools generate isolated alerts th..."
+description:
+  In this talk, Matias, a Kubernetes security expert and CNCF project maintainer,
+  addresses the challenges of detecting and responding to security incidents in Kubernetes
+  environments, where multiple security tools generate isolated alerts th...
 resource: https://www.youtube.com/watch?v=5DxaxeWNkYY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He proposes a framework called CADR (Cloud Native Application Detect and Respons
 By correlating deviations from this baseline across layers, teams can achieve high-confidence detection of real attacks and safely automate remediation operations (remops), such as isolating compromised pods, rotating credentials, and updating profiles.
 Matias highlights the importance of open, composable, and declarative approaches to detection and response, encourages industry collaboration to develop better correlation tools, and distinguishes application profiles from more generic software bills of behaviors (SBOPs).
 The session concludes with a call to action for the community to work together on open-source solutions for automated, context-aware incident remediation in cloud native systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: K3s Project Update - Orlin Vasilev, Community Manager"
-description: "Orland, the K3S community manager and CNCF ambassador, introduces K3S, a lightweight Kubernetes distribution designed for constrained environments like IoT edge and CI clusters. He demonstrates how quickly K3S can be deployed using K3D, hig..."
+nav_order: 222
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  Orland, the K3S community manager and CNCF ambassador, introduces K3S,
+  a lightweight Kubernetes distribution designed for constrained environments like
+  IoT edge and CI clusters. He demonstrates how quickly K3S can be deployed using
+  K3D, hig...
 resource: https://www.youtube.com/watch?v=C3gdhC3L1k8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He demonstrates how quickly K3S can be deployed using K3D, highlighting its ease
 Orland shares recent updates, including the release of version 1.34, upcoming 1.35, and the addition of a CVE scanning website for enhanced security transparency.
 He announces the submission of an issue to move K3S from CNCF sandbox to incubation stage and encourages users to show support and submit adopter pull requests to strengthen the project’s application.
 Orland also invites the community to join meetings, follow updates on LinkedIn, and visit the K3S booth at the project pavilion for further engagement and contribution opportunities.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

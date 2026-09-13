@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Argo CD Source Hydrator: Rendered Manifests Made Easy!
+  - Michael Crenshaw"
+nav_order: 250
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Argo CD Source Hydrator: Rendered Manifests Made Easy! - Michael Crenshaw"
-description: "Michael Crenshaw, a senior staff software engineer at Intuit and lead maintainer for Argo CD, introduces the Argo CD source hydrator feature, which streamlines the rendered manifest pattern for GitOps users. Previously, users either relied..."
+description:
+  Michael Crenshaw, a senior staff software engineer at Intuit and lead
+  maintainer for Argo CD, introduces the Argo CD source hydrator feature, which streamlines
+  the rendered manifest pattern for GitOps users. Previously, users either relied...
 resource: https://www.youtube.com/watch?v=Lkik-mrYfP4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Previously, users either relied on Argo CD to render manifests directly from Git
 The new source hydrator feature allows Argo CD to render manifests and automatically push them to Git as manifest.yaml files, providing users with an audit trail and improved visibility into changes.
 Enabling this feature is straightforward, requiring only minor adjustments to the application manifest, and it introduces new UI elements to track the hydration and synchronization process.
 Additionally, the hydrate two capability allows pushing hydrated manifests to a separate branch for further automation or security checks, and Intuit uses this in conjunction with their open-sourced GitOps Promoter tool to automate environment promotion.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

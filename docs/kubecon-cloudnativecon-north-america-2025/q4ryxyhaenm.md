@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Butterfly Effect: What Kubernetes SIG Security Has in F... I. Coldwater, S.
+  Raghunathan, C. Valencia"
+nav_order: 36
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Butterfly Effect: What Kubernetes SIG Security Has in F... I. Coldwater, S. Raghunathan, C. Valencia"
-description: "The SIG Security Maintainer Track talk introduces the Kubernetes SIG Security group, established in 2020 to provide a dedicated, inclusive space for security within the Kubernetes project. The group oversees several subprojects, including p..."
+description:
+  The SIG Security Maintainer Track talk introduces the Kubernetes SIG
+  Security group, established in 2020 to provide a dedicated, inclusive space for
+  security within the Kubernetes project. The group oversees several subprojects,
+  including p...
 resource: https://www.youtube.com/watch?v=q4ryxYhAenM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The group oversees several subprojects, including periodic third-party security 
 The SIG Security Tooling subproject maintains tools such as the official CVE feed, collaborates on vulnerability scanning, and works to improve infrastructure security, while also hosting educational sessions.
 Another key initiative is the self-assessments subproject, which helps Kubernetes components conduct threat modeling and security reviews, encouraging participation from contributors of all backgrounds.
 Throughout, the group emphasizes a welcoming, collaborative environment where both newcomers and experienced professionals can contribute and grow, highlighting the ripple effect of individual contributions within the open source community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

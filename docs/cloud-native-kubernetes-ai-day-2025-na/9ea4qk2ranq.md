@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Beyond Chat: Bringing Agents To Kubernetes - Nimisha Mehta, Confluent & Nina
+  Polshakova, Solo.io"
+nav_order: 1
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Beyond Chat: Bringing Agents To Kubernetes - Nimisha Mehta, Confluent & Nina Polshakova, Solo.io"
-description: "In this presentation, Nimisha and Nina introduce Kagent, a Kubernetes-native framework for building, running, and managing AI agents, emphasizing its declarative, cloud-native design and integration with Kubernetes features like security, s..."
+description:
+  In this presentation, Nimisha and Nina introduce Kagent, a Kubernetes-native
+  framework for building, running, and managing AI agents, emphasizing its declarative,
+  cloud-native design and integration with Kubernetes features like security, s...
 resource: https://www.youtube.com/watch?v=9EA4Qk2RaNQ
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They demonstrate how Kagent can automate infrastructure operations by deploying 
 The speakers explain Kagent's architecture, including its use of custom resources for agents, model configurations, and tools, and highlight its flexibility to support both built-in and externally developed agents.
 They discuss best practices for defining agents, the benefits of observability, and how Kagent enables complex, multi-agent workflows while remaining customizable and easy to integrate with other CNCF projects.
 The talk concludes with an overview of the project's history, community involvement, and its complementary relationship with other projects like Kgateway, inviting attendees to explore further and participate in the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

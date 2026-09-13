@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Navigating the AI/ML Networking Maze in Kubernetes: Lessons From the Trenches
+  - Antonio Ojea, Google"
+nav_order: 174
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Navigating the AI/ML Networking Maze in Kubernetes: Lessons From the Trenches - Antonio Ojea, Google"
-description: "In this talk, Antonio from Google’s SIG Network shares his experiences navigating complex networking challenges in Kubernetes, particularly as they relate to large-scale AI/ML workloads. He recounts how issues such as DNS delays and headles..."
+description:
+  In this talk, Antonio from Google’s SIG Network shares his experiences
+  navigating complex networking challenges in Kubernetes, particularly as they relate
+  to large-scale AI/ML workloads. He recounts how issues such as DNS delays and headles...
 resource: https://www.youtube.com/watch?v=liHY_dy-W0w
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He recounts how issues such as DNS delays and headless service scalability impac
 Antonio explains the limitations of traditional device and network plugin models, especially when coordinating specialized hardware like GPUs and network interfaces, and introduces the Device Resource Assignment (DRA) API as a solution that enables more precise and efficient resource pairing.
 He describes how the DRA and related projects, such as the open-source Det at Google, improve both performance consistency and user experience by making workloads more portable and easier to configure.
 The talk concludes with a discussion of ongoing efforts to further optimize inter-node communication and expose hardware topology information, aiming to deliver seamless, efficient infrastructure for evolving AI/ML workloads in Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                      |

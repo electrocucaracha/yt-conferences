@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "[Session] Pragmatic Scaling of Enterprise GenAI with MCP with Sambhav Kothari
+  at Bloomberg"
+nav_order: 18
+parent: Mcp Dev Summit Na 2025
 type: Video Note
-title: "[Session] Pragmatic Scaling of Enterprise GenAI with MCP with Sambhav Kothari at Bloomberg"
-description: "Sambukqari, head of AI productivity at Bloomberg, discusses the company's journey in scaling enterprise generative AI (GenAI) development. He outlines Bloomberg's vast operational scale and longstanding AI expertise, noting that the main ch..."
+description:
+  Sambukqari, head of AI productivity at Bloomberg, discusses the company's
+  journey in scaling enterprise generative AI (GenAI) development. He outlines Bloomberg's
+  vast operational scale and longstanding AI expertise, noting that the main ch...
 resource: https://www.youtube.com/watch?v=usc2XRStxbw
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He outlines Bloomberg's vast operational scale and longstanding AI expertise, no
 By adopting standardized protocols and aligning with the open MCP standard, Bloomberg enabled interoperability, loose coupling, and rapid integration of tools and agents, allowing over 9,000 engineers to contribute effectively.
 This transformation reduced productionization time from weeks to minutes and fostered a dynamic ecosystem where tools and agents reinforce each other.
 While this shift brought new challenges in tool management and governance, Bloomberg is committed to open-source collaboration to address these issues and continue advancing GenAI at scale.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

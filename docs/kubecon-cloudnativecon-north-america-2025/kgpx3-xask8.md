@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Designing for Observability: From Noise To Insight - Andrea Chomiak, Dash0"
-description: "In her first CubeCon talk, Andrea Homc emphasizes the importance of usability and design in observability tools, arguing that even the most advanced technical systems are ineffective if users cannot easily interpret their data. Drawing from..."
+nav_order: 61
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  In her first CubeCon talk, Andrea Homc emphasizes the importance of usability
+  and design in observability tools, arguing that even the most advanced technical
+  systems are ineffective if users cannot easily interpret their data. Drawing from...
 resource: https://www.youtube.com/watch?v=KGPX3-xasK8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ Through relatable scenarios—like being paged at 2 a.m.
 and facing confusing dashboards—she illustrates how poor data presentation can hinder incident response, and how thoughtful design can transform noisy data into actionable insights.
 Homc also highlights the growing role of AI in providing dynamic, real-time guidance, and encourages collaboration between designers and engineers to create tools that are both powerful and user-friendly.
 Ultimately, she stresses that good design is essential for making complex systems usable, especially under pressure.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

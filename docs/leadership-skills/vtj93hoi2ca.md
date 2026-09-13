@@ -1,11 +1,22 @@
 ---
+layout: default
+title: 7 Steps to Recover from Burnout
+nav_order: 7
+parent: Leadership Skills
 type: Video Note
-title: "7 Steps to Recover from Burnout"
-description: "In this video, Doug Howard, a licensed structural engineer and engineering manager, discusses the reality and dangers of burnout, emphasizing its impact on personal and professional life. He explains that burnout is characterized by physica..."
+description:
+  In this video, Doug Howard, a licensed structural engineer and engineering
+  manager, discusses the reality and dangers of burnout, emphasizing its impact on
+  personal and professional life. He explains that burnout is characterized by physica...
 resource: https://www.youtube.com/watch?v=vTJ93HOI2cA
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ In this video, Doug Howard, a licensed structural engineer and engineering manag
 He explains that burnout is characterized by physical, emotional, or mental exhaustion, leading to decreased motivation, performance, and negative attitudes, and highlights common symptoms such as fatigue, apathy, and dissatisfaction.
 Doug introduces a seven-step burnout recovery plan: tightening up your routine to reduce decision fatigue, canceling non-essential activities, scheduling alone time or social engagements based on your personality, watching comforting childhood movies or shows, daily journaling to process emotions, exercising at least four times a week, and investing in a new hobby or interest.
 He stresses the importance of taking action promptly to break the burnout cycle and encourages viewers to share their own recovery strategies in the comments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

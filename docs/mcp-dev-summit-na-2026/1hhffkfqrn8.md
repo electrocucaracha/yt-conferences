@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Keynote: Navigating Primitives for Agent Collaboration - Nick Aldridge, Co-founder
+  & CEO, Mousecat"
+nav_order: 46
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Keynote: Navigating Primitives for Agent Collaboration - Nick Aldridge, Co-founder & CEO, Mousecat"
-description: "Nick Aldridge, a former AWS principal engineer and current startup founder, reflects on the evolution of agent interactions since the first MCP summit. He describes how early language models enabled basic chat and Q&A, leading to more compl..."
+description:
+  Nick Aldridge, a former AWS principal engineer and current startup founder,
+  reflects on the evolution of agent interactions since the first MCP summit. He describes
+  how early language models enabled basic chat and Q&A, leading to more compl...
 resource: https://www.youtube.com/watch?v=1HhfFkFQrn8
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Aldridge compares approaches like CLI-based tool use, which is context-efficient
 He introduces "skills" as a way to provide agents with dynamic, progressively disclosed instructions, noting their compatibility with MCP but current lack of shareability.
 Aldridge suggests that MCP could be improved by adopting progressive disclosure, composability, and skill integration, and encourages community contributions to the protocol.
 He concludes by recommending MCP for enterprises due to its security, while advising developers to use whatever approach is most convenient.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

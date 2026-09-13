@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Digital Nudge • Fabio Pereira & Linda Rising • GOTO 2021
+nav_order: 31
+parent: Developer Productivity
 type: Video Note
-title: "Digital Nudge • Fabio Pereira & Linda Rising • GOTO 2021"
-description: 'In this conversation, Linda Rising and Fabio Pereira discuss the influence of technology and behavioral economics on human decision-making, particularly through the concept of "digital nudging." Linda reflects on her experiences growing up...'
+description:
+  In this conversation, Linda Rising and Fabio Pereira discuss the influence
+  of technology and behavioral economics on human decision-making, particularly through
+  the concept of "digital nudging." Linda reflects on her experiences growing up...
 resource: https://www.youtube.com/watch?v=P4BDJbYSIAs
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ In this conversation, Linda Rising and Fabio Pereira discuss the influence of te
 Fabio explains how behavioral economics, inspired by works like "Thinking, Fast and Slow" and "Nudge," reveals that humans are predictably irrational and susceptible to over 180 cognitive biases, which digital platforms can exploit or use for good.
 They highlight the dangers of filter bubbles, confirmation bias, and the illusion of personal rationality, noting that awareness alone does not make one immune to these effects.
 Despite concerns, both express hope that increased awareness, ethical movements, and diverse perspectives can help harness digital nudges for positive outcomes, such as health interventions, while stressing the importance of protecting attention and practicing humility and listening in a digitally driven world.
+
 # Main Points
 
 |   # | Main point                                                                                                                                 |

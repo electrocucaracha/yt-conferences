@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Therapist Reveals the Secret to Starting a Business as a Couple (Without Destroying
+  the Relations...
+nav_order: 70
+parent: Foro De Crecimiento
 type: Video Note
-title: "Therapist Reveals the Secret to Starting a Business as a Couple (Without Destroying the Relations..."
-description: "En esta extensa entrevista, Chava Gutiérrez, experto en terapia de pareja, comparte consejos clave para construir y mantener relaciones de pareja sanas, especialmente cuando se combinan con proyectos empresariales. Destaca la importancia de..."
+description:
+  En esta extensa entrevista, Chava Gutiérrez, experto en terapia de pareja,
+  comparte consejos clave para construir y mantener relaciones de pareja sanas, especialmente
+  cuando se combinan con proyectos empresariales. Destaca la importancia de...
 resource: https://www.youtube.com/watch?v=v6Jv7Ar6jbg
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Destaca la importancia de priorizar la paz y la conexión sobre el deseo de tene
 Gutiérrez identifica cuatro patrones que suelen preceder a una separación (crítica, actitud defensiva, desprecio y evasión) y ofrece soluciones como la comunicación asertiva, la validación positiva y la responsabilidad emocional.
 Recomienda hábitos como celebrar los reencuentros, realizar revisiones periódicas de la relación, planificar tiempo de calidad y mantener la admiración mutua.
 Finalmente, subraya que el éxito en pareja y en los negocios depende de tener objetivos compartidos, disfrutar el proceso juntos y enfocarse en lo que se tiene, no en lo que falta, recordando que el tiempo y la conexión son los verdaderos tesoros de la vida.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

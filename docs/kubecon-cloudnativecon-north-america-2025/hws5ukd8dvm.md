@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "No Joke: Two Security Maintainers Walk Into a Cluster - Jackie Maertens &
+  Nilekh Chaudhari"
+nav_order: 177
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "No Joke: Two Security Maintainers Walk Into a Cluster - Jackie Maertens & Nilekh Chaudhari"
-description: "In this talk, Jackie Martins and Nilik, both senior software engineers at Microsoft and security maintainers, guide the audience through essential Kubernetes cluster security practices. They emphasize the principle of least privilege, start..."
+description:
+  In this talk, Jackie Martins and Nilik, both senior software engineers
+  at Microsoft and security maintainers, guide the audience through essential Kubernetes
+  cluster security practices. They emphasize the principle of least privilege, start...
 resource: https://www.youtube.com/watch?v=HwS5UKD8dVM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The speakers demonstrate the importance of encrypting secrets at rest—preferab
 They also cover the necessity of network policies to restrict pod communication, recommending a default deny-all approach and careful management of ingress and egress rules.
 Pod security standards are discussed, with advice to enforce restrictive profiles and avoid running pods as root, and the importance of using vulnerability scanning tools and up-to-date images is underscored to prevent exploitation of known flaws.
 Throughout, they provide demos, share common misconfigurations, and encourage integrating security checks throughout the development lifecycle, referencing additional resources and their GitHub for further guidance.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                            |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Invisible Guardrails: Enabling Developer Velocity W... James Elías Sigurðarson
+  & Vignir Hafsteinsson"
+nav_order: 157
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Invisible Guardrails: Enabling Developer Velocity W... James Elías Sigurðarson & Vignir Hafsteinsson"
-description: "In this talk, James and Vign from Asana describe their journey in building a secure, scalable infrastructure platform with security as a first-class feature. Initially, Asana’s centralized security model created bottlenecks and friction, as..."
+description:
+  In this talk, James and Vign from Asana describe their journey in building
+  a secure, scalable infrastructure platform with security as a first-class feature.
+  Initially, Asana’s centralized security model created bottlenecks and friction,
+  as...
 resource: https://www.youtube.com/watch?v=mxjiSCnrb3c
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Initially, Asana’s centralized security model created bottlenecks and friction
 To address this, they transitioned to a multi-tenant Kubernetes architecture called "cells," enabling more granular, application-level permissions and network policies managed alongside application code using tools like Crossplane and Cilium.
 Automation and observability were emphasized to streamline permission management, enforce least privilege, and provide auditability, while guardrails such as permission boundaries and policy validation were implemented to prevent misconfigurations and restrict dangerous actions.
 The team learned the importance of clear responsibility boundaries, early investment in tooling and education, and shifting both security controls and conversations left to empower developers without sacrificing security or velocity.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

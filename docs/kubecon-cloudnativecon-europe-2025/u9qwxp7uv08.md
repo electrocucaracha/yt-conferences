@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "Kubernetes Backup Legitimized: CSI Changed Block Tracking Has Arrived- M.
+  Lavi, C. Braganza, X. Yang"
+nav_order: 164
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Kubernetes Backup Legitimized: CSI Changed Block Tracking Has Arrived- M. Lavi, C. Braganza, X. Yang"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=U9qwxp7Uv08
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +23,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 Here is a summary of the video transcript in 3-5 sentences: Mark Lobby from VMware by Broadcom introduces the change block tracking (CBT) feature for Kubernetes, which allows for more efficient backup and recovery processes by identifying changes between two volume snapshots.
 CBT is a critical unblocker for Kubernetes adoption, as it addresses the lack of change block tracking in traditional storage systems.
 The feature has been implemented in the CSI specification and is now ready to ship with Kubernetes 13.3 alpha APIs, along with a new snapshot metadata service and two new CSI RPCs: Get Metadata Allocated and Get Metadata Delta.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                      |

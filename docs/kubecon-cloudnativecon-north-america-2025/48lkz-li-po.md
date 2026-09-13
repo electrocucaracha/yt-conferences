@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: Threat Modeling Kubernetes: Fast, Practical, and LLM-Driven
+  - Maxime Coquerel"
+nav_order: 153
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Lightning Talk: Threat Modeling Kubernetes: Fast, Practical, and LLM-Driven - Maxime Coquerel"
-description: "In this talk, Maxim Cochril, a principal cloud security architect at the Royal Bank of Canada, discusses the challenges and solutions in threat modeling for cloud security teams. He explains that traditional threat modeling is essential for..."
+description:
+  In this talk, Maxim Cochril, a principal cloud security architect at
+  the Royal Bank of Canada, discusses the challenges and solutions in threat modeling
+  for cloud security teams. He explains that traditional threat modeling is essential
+  for...
 resource: https://www.youtube.com/watch?v=48LKZ-lI_po
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that traditional threat modeling is essential for identifying risks 
 To address these issues, he proposes leveraging a small language model (SLM) with retrieval-augmented generation (RAG) to automate and streamline the process.
 By building a knowledge base from previous threat models and benchmarks, and using tools like FIFO and Open Web UI, teams can generate consistent, prioritized threat models more efficiently, reducing the process from weeks to days and enabling easier updates and traceability.
 Cochril emphasizes that this solution serves as an assistant to cloud security architects, not a replacement, and invites further discussion and exploration of the approach.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

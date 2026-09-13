@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Keynote: The Cloud Native Feedback Loop... Karena Angell, Katie Gamanji, Chad
+  Beaudin & Ahmed Bebars"
+nav_order: 184
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: The Cloud Native Feedback Loop... Karena Angell, Katie Gamanji, Chad Beaudin & Ahmed Bebars"
-description: "The video transcript presents a keynote discussion emphasizing that cloud native is not just a technology but a collaborative movement driven by a feedback loop between end users, technical committees, and project maintainers. Using the exa..."
+description:
+  The video transcript presents a keynote discussion emphasizing that cloud
+  native is not just a technology but a collaborative movement driven by a feedback
+  loop between end users, technical committees, and project maintainers. Using the
+  exa...
 resource: https://www.youtube.com/watch?v=hShZ2PWUmns
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Using the example of Cycle AI, a company building self-driving bikes, the narrat
 Chad consults with the CNCF Technical Oversight Committee (TOC) to understand project maturity levels—sandbox, incubated, and graduated—and learns about the due diligence process, governance, and the importance of end user feedback.
 The Technical Advisory Board (TAB) acts as a connector, collecting real-world feedback and reference architectures to inform project decisions.
 Chad collaborates with the project maintainer to address feature gaps, contributes code, and shares his company’s reference architecture, illustrating how end users can both benefit from and contribute to the cloud native ecosystem, ultimately closing the feedback loop and fostering sustainable project evolution.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

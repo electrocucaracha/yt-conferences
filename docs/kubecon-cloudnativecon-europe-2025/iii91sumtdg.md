@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Observability Pipeline Query Languages: Present and the Future - Jacek Migdal,
+  Quesma"
+nav_order: 208
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Observability Pipeline Query Languages: Present and the Future - Jacek Migdal, Quesma"
-description: "Yat Mindal discusses the evolution of observability pipeline query languages, starting with Unix pipes and moving to SQL-like syntax in distributed systems. He highlights the success of promql, a popular language used in Prometheus, and not..."
+description:
+  Yat Mindal discusses the evolution of observability pipeline query languages,
+  starting with Unix pipes and moving to SQL-like syntax in distributed systems. He
+  highlights the success of promql, a popular language used in Prometheus, and not...
 resource: https://www.youtube.com/watch?v=iiI91sUMtdg
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He highlights the success of promql, a popular language used in Prometheus, and 
 However, he also points out that promql's success has led to a fragmented market, with many companies developing their own query languages.
 Mindal proposes a unified standard for observability query languages, building on the strengths of SQL while addressing its limitations, such as ordering and filtering.
 He envisions a language that can be used across various data sources, including metrics, traces, and data lakes, and is open to community experimentation and feedback.
+
 # Main Points
 
 |   # | Main point |

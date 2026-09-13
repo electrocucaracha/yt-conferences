@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Thousands of Virtual Kubelets: 1-to-1 Mapping a Supercomputer To Kubernetes
+  With... Dennis Marttinen"
+nav_order: 344
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Thousands of Virtual Kubelets: 1-to-1 Mapping a Supercomputer To Kubernetes With... Dennis Marttinen"
-description: "Deness, a security and cloud computing master student, discussed bridging the gap between high-performance computing (HPC) and cloud ecosystems through Kubernetes. He highlighted the differences in assumptions between HPC and cloud computin..."
+description:
+  Deness, a security and cloud computing master student, discussed bridging
+  the gap between high-performance computing (HPC) and cloud ecosystems through Kubernetes.
+  He highlighted the differences in assumptions between HPC and cloud computin...
 resource: https://www.youtube.com/watch?v=QbR908kgk1Y
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ With the increasing demand for AI workloads, the lines between HPC and cloud req
 Deness presented his master's thesis project, "Kubernetes," which aims to connect a Kubernetes environment with an HPC environment using virtual cublets.
 This allows for seamless integration of HPC and cloud ecosystems, enabling better security, automation, broader ecosystem support, improved utilization, reduced downtime, and lower costs.
 The goal is to unite the communities from both HPC and cloud ecosystems, making projects more accessible to everyone.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

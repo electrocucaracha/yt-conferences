@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "MCP Vs CLIs: Why Agents Need Purpose-Built Interfaces - Sam Morrow, GitHub"
-description: "Sam, a developer involved with GitHub's MCP server and the MCP specification, reflects on the ongoing debates surrounding MCP's relevance, noting that despite claims of its decline, MCP usage is at an all-time high. He highlights the comple..."
+nav_order: 60
+parent: Mcp Dev Summit Na 2026
+type: Video Note
+description:
+  Sam, a developer involved with GitHub's MCP server and the MCP specification,
+  reflects on the ongoing debates surrounding MCP's relevance, noting that despite
+  claims of its decline, MCP usage is at an all-time high. He highlights the comple...
 resource: https://www.youtube.com/watch?v=ideYDMJKujE
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He highlights the complexity of comparing MCP, CLIs, skills, and plugins, emphas
 Sam discusses the challenges of security, particularly with CLIs and skills, and argues that MCP offers distinct advantages, such as clear user-agent separation and robust access controls, though no solution is perfect.
 He cautions against oversimplified hot takes and stresses that the debate is far from settled, with ongoing innovation and experimentation needed to address context management and security for agents.
 Ultimately, Sam concludes that MCP is not obsolete, and that the real question is not MCP versus CLI, but how to best adapt these evolving tools to diverse environments and needs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

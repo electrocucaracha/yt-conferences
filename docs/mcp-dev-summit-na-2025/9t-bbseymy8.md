@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Scaling MCP with Antje Barth from AWS"
-description: "Auntie, a principal developer advocate at AWS, discusses practical approaches to scaling MCP (Model Coordination Protocol) from local prototyping to cloud-scale deployments, focusing on MCP servers. She highlights the growing list of availa..."
+nav_order: 6
+parent: Mcp Dev Summit Na 2025
+type: Video Note
+description:
+  Auntie, a principal developer advocate at AWS, discusses practical approaches
+  to scaling MCP (Model Coordination Protocol) from local prototyping to cloud-scale
+  deployments, focusing on MCP servers. She highlights the growing list of availa...
 resource: https://www.youtube.com/watch?v=9T_BBseYmY8
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ She highlights the growing list of available MCP servers on GitHub and demonstra
 Auntie explains deployment options on AWS, comparing serverless solutions like AWS Fargate for persistent connections and AWS Lambda for flexible, scalable compute without persistent connections.
 She presents a demo of deploying an MCP server as a Lambda function, using a D&D dice-rolling tool as an example, and introduces the open-source Strands SDK for building agents that interact with MCP servers.
 The talk concludes with resources for further exploration, including code repositories, a blog post on inter-agent communication, and an invitation to provide feedback for AWS credits.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

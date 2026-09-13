@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Especialista en Adolescencia: Cómo formar hijos preparados para la vida real
+  | Ana María Arizti"
+nav_order: 25
+parent: Foro De Crecimiento
 type: Video Note
-title: "Especialista en Adolescencia: Cómo formar hijos preparados para la vida real | Ana María Arizti"
-description: "En este video, Ana María Aristi, terapeuta gestal y especialista en la relación entre padres e hijos, ofrece una guía para criar adolescentes sanos y emocionalmente fuertes. Se enfatiza la importancia de la presencia y atención de los padre..."
+description:
+  En este video, Ana María Aristi, terapeuta gestal y especialista en la
+  relación entre padres e hijos, ofrece una guía para criar adolescentes sanos y emocionalmente
+  fuertes. Se enfatiza la importancia de la presencia y atención de los padre...
 resource: https://www.youtube.com/watch?v=oscNWClio7w
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Se enfatiza la importancia de la presencia y atención de los padres, así como 
 Ana María destaca la relevancia de definir roles claros dentro de la familia, la comunicación efectiva y el establecimiento de límites firmes pero flexibles, sugiriendo identificar cuatro no negociables, cinco aspectos negociables y diez actividades para fortalecer la relación.
 También se abordan los retos actuales como la influencia de las redes sociales, la ausencia o confusión de roles parentales y el impacto de la dinámica familiar en la elección de pareja futura.
 Finalmente, se subraya la importancia de que los padres trabajen en equipo, eviten juicios constantes y mantengan una relación de pareja sólida, incluso en casos de divorcio, para ofrecer un entorno estable y afectivo a sus hijos adolescentes.
+
 # Main Points
 
 |   # | Main point                                                                                                            |

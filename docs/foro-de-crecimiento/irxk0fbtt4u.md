@@ -1,11 +1,23 @@
 ---
+layout: default
+title: 10 keys to designing your life and creating abundance | Sergio Fernández
+nav_order: 2
+parent: Foro De Crecimiento
 type: Video Note
-title: "10 keys to designing your life and creating abundance | Sergio Fernández"
-description: "En esta entrevista, Sergio Fernández, experto en desarrollo personal y financiero, comparte los principios fundamentales para diseñar una vida plena y exitosa. Explica que el conocimiento necesario para resolver los problemas de la vida ya..."
+description:
+  En esta entrevista, Sergio Fernández, experto en desarrollo personal
+  y financiero, comparte los principios fundamentales para diseñar una vida plena
+  y exitosa. Explica que el conocimiento necesario para resolver los problemas de
+  la vida ya...
 resource: https://www.youtube.com/watch?v=IRXK0FbtT4U
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Explica que el conocimiento necesario para resolver los problemas de la vida ya 
 Destaca la importancia de conocerse a uno mismo, creer en las propias capacidades, cuidar la salud, construir buenas relaciones y encontrar un propósito alineado con los talentos personales.
 Fernández subraya que la libertad financiera es una consecuencia de hacer bien el resto de áreas y que el verdadero crecimiento profesional y económico solo es posible tras un desarrollo personal profundo.
 Finalmente, resalta el poder de la trascendencia, entendida como poner los propios dones al servicio de los demás, lo que da sentido y plenitud a la vida.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                       |

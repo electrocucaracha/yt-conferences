@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Command-line, The Underestimated Tool • Bert Jan Schrijver • GOTO 2021
+nav_order: 23
+parent: Developer Productivity
 type: Video Note
-title: "Command-line, The Underestimated Tool • Bert Jan Schrijver • GOTO 2021"
-description: "Bertrand Schreifer, CTO at Open Value and an experienced Java developer and architect, discusses the enduring relevance and power of command line tools in modern software development. He explains that command line utilities remain essential..."
+description:
+  Bertrand Schreifer, CTO at Open Value and an experienced Java developer
+  and architect, discusses the enduring relevance and power of command line tools
+  in modern software development. He explains that command line utilities remain essential...
 resource: https://www.youtube.com/watch?v=bWDuXAQJX8Y
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains that command line utilities remain essential for tasks requiring spe
 Schreifer highlights the simplicity and composability of command line tools, their cross-platform availability, and the importance of standard utilities like grep, cut, and sed for processing data.
 He also notes the value of using standard tools to ensure scripts are portable across different systems, and mentions that modern solutions like Windows Subsystem for Linux have made command line environments more accessible on Windows.
 Finally, Schreifer advocates for teaching command line skills at universities, emphasizing their role in productivity, troubleshooting, and deeper understanding of system behavior.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

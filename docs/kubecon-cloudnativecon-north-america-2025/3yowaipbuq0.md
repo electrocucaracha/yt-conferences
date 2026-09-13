@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Quantum-Resistant Kubernetes: Realities, Risks & (Versioning) Pitfalls - Fabian
+  Kammel, ControlPlane"
+nav_order: 250
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Quantum-Resistant Kubernetes: Realities, Risks & (Versioning) Pitfalls - Fabian Kammel, ControlPlane"
-description: "Fabian, a principal security consultant at Control Plane, introduces the topic of quantum-resistant Kubernetes, focusing on the risks and pitfalls associated with transitioning to post-quantum cryptography. He explains the basics of quantum..."
+description:
+  Fabian, a principal security consultant at Control Plane, introduces
+  the topic of quantum-resistant Kubernetes, focusing on the risks and pitfalls associated
+  with transitioning to post-quantum cryptography. He explains the basics of quantum...
 resource: https://www.youtube.com/watch?v=3yOwAIpbuQ0
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains the basics of quantum computing and its implications for current cry
 Fabian outlines the ongoing standardization efforts led by NIST, which have produced new quantum-resistant algorithms, notably ML-KEM for key exchange and several signature schemes, though the latter still face challenges with key and signature sizes and performance.
 He discusses the practical impacts of adopting these algorithms, such as version mismatches in Kubernetes and increased data transmission during TLS handshakes, and notes that while key exchange mechanisms are ready for deployment, post-quantum signatures require further research and optimization.
 Fabian concludes by emphasizing the importance of staying informed, synchronizing software versions during migration, and preparing organizations for a transition by 2030–2035, as well as sharing resources for continued learning on post-quantum cryptography.
+
 # Main Points
 
 |   # | Main point                                                                                                                                               |

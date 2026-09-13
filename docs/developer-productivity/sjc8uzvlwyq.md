@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Doubling Engineering Productivity at eBay Through DevOps • Randy Shoup • YOW!
+  2022
+nav_order: 34
+parent: Developer Productivity
 type: Video Note
-title: "Doubling Engineering Productivity at eBay Through DevOps • Randy Shoup • YOW! 2022"
-description: "Randy Shapp, former eBay engineer, shares his experience of doubling engineering productivity at the company by implementing continuous delivery and DevOps capabilities. The team focused on specific pilot domains, removed bottlenecks, and i..."
+description:
+  Randy Shapp, former eBay engineer, shares his experience of doubling
+  engineering productivity at the company by implementing continuous delivery and
+  DevOps capabilities. The team focused on specific pilot domains, removed bottlenecks,
+  and i...
 resource: https://www.youtube.com/watch?v=sjc8UZvlWYQ
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The team focused on specific pilot domains, removed bottlenecks, and improved co
 They introduced a velocity playbook, which provided a standardized path for teams to improve their performance.
 The initiative also included essential engineering efforts to ensure regular deployments of all applications, regardless of maintenance status.
 Despite ongoing challenges, the program has shown promising results, with improvements in deployment frequency, lead time, and change failure rate.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

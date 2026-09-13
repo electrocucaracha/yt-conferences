@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Securing the AI/ML Lifecycle With MLSecOps: Open Source Best... Bahaulddin
+  Shammary & Andrey Shorov"
+nav_order: 329
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Securing the AI/ML Lifecycle With MLSecOps: Open Source Best... Bahaulddin Shammary & Andrey Shorov"
-description: "In this presentation, Baja, a lead AI engineer at Openext, and Andre Shoven, a senior security specialist, discuss the growing importance of securing AI and machine learning (ML) systems in production as organizations increasingly adopt ML..."
+description:
+  In this presentation, Baja, a lead AI engineer at Openext, and Andre
+  Shoven, a senior security specialist, discuss the growing importance of securing
+  AI and machine learning (ML) systems in production as organizations increasingly
+  adopt ML...
 resource: https://www.youtube.com/watch?v=5ZmWuwnv2l4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They highlight that ML systems introduce unique risks—such as data poisoning, 
 The speakers introduce a reference architecture that maps nine primary lifecycle stages, emphasizing the need for clear security control points and shared responsibility among various personas, including data scientists, engineers, and security practitioners.
 They advocate for using frameworks like the OWASP ML Top 10 to identify and prioritize threats, and recommend integrating open-source tools (e.g., Sigstore, SLSA, Scorecard, GUAC) to address integrity, provenance, and traceability, while noting that many tools require adaptation for ML-specific artifacts.
 Key recommendations include automating security processes, embedding security roles from the outset, versioning all assets, and investing in team training and awareness, as ML SecOps is a supplementary layer that must be integrated throughout the ML lifecycle to effectively mitigate evolving risks.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                             |

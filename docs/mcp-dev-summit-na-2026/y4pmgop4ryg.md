@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Distributing MCP Servers With OCI To Power Agent Skills - Bobby House, Docker
+nav_order: 17
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Distributing MCP Servers With OCI To Power Agent Skills - Bobby House, Docker"
-description: "In this talk, Bobby House from Docker discusses recurring themes from recent MCP (Modular Component Platform) talks, particularly the integration of agent skills with MCP servers and the use of gateway products. He explains the challenges o..."
+description:
+  In this talk, Bobby House from Docker discusses recurring themes from
+  recent MCP (Modular Component Platform) talks, particularly the integration of agent
+  skills with MCP servers and the use of gateway products. He explains the challenges
+  o...
 resource: https://www.youtube.com/watch?v=Y4pmgoP4ryg
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains the challenges of managing dependencies between agent skills and MCP
 House demonstrates a pattern where agent skills declare their MCP server dependencies as OCI artifacts, which are then resolved, configured, and loaded dynamically, improving reproducibility and decoupling skill development from server implementation.
 He highlights the benefits of this approach, such as leveraging the broader MCP ecosystem, progressive disclosure of dependencies, and improved user experience through gateways, while also noting current limitations like lifecycle management and update propagation.
 The session concludes with a discussion on potential improvements and the importance of predictable, version-pinned dependencies for enterprise use cases.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

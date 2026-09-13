@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "La mentalidad que me hizo millonario, venció mis miedos… y transformó mi cuerpo
+  - #25 Rafael Coppola"
+nav_order: 54
+parent: Foro De Crecimiento
 type: Video Note
-title: "La mentalidad que me hizo millonario, venció mis miedos… y transformó mi cuerpo - #25 Rafael Coppola"
-description: "En esta entrevista, Rafael Cópola, piloto, empresario y conferencista, comparte su trayectoria desde repartidor de pizzas hasta convertirse en piloto y luego en empresario exitoso, destacando la importancia de transformar las adversidades y..."
+description:
+  En esta entrevista, Rafael Cópola, piloto, empresario y conferencista,
+  comparte su trayectoria desde repartidor de pizzas hasta convertirse en piloto y
+  luego en empresario exitoso, destacando la importancia de transformar las adversidades
+  y...
 resource: https://www.youtube.com/watch?v=FxItzze2q_M
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ En esta entrevista, Rafael Cópola, piloto, empresario y conferencista, comparte
 Utiliza la analogía de la carrera de relevos para explicar cómo las decisiones que tomamos en cada etapa de la vida afectan nuestro futuro, y enfatiza la necesidad de tener metas claras, cambiar la mentalidad y apoyarse en la fe y la conexión con Dios.
 Rafael relata cómo superar miedos, quiebras financieras y creencias limitantes le permitió reinventarse, encontrar su propósito y priorizar la felicidad, la salud y la familia por encima del éxito material.
 Además, resalta el valor de la marca personal, el aprendizaje continuo y el ayuno intermitente como herramientas de transformación, concluyendo que la verdadera riqueza radica en el equilibrio espiritual y en vivir con gratitud y plenitud.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

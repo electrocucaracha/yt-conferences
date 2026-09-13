@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: Mind the Topology: Smarter Scheduling for AI Workloads on
+  Kubernetes - Roman Baron"
+nav_order: 7
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Lightning Talk: Mind the Topology: Smarter Scheduling for AI Workloads on Kubernetes - Roman Baron"
-description: "Roman Baron, a senior software engineer at Nvidia and maintainer of Sky Kaiuler, introduces the Kai scheduler, a Kubernetes-native scheduling framework optimized for AI workloads. He discusses the challenges of topology-aware scheduling, em..."
+description:
+  Roman Baron, a senior software engineer at Nvidia and maintainer of Sky
+  Kaiuler, introduces the Kai scheduler, a Kubernetes-native scheduling framework
+  optimized for AI workloads. He discusses the challenges of topology-aware scheduling,
+  em...
 resource: https://www.youtube.com/watch?v=o5i7pTWZjfo
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He discusses the challenges of topology-aware scheduling, emphasizing that moder
 Traditional Kubernetes scheduling, including pod affinity, often falls short because it does not account for the entire workload's communication patterns or the underlying cluster topology.
 Kai addresses these issues by analyzing workload composition and communication requirements, enabling optimal pod placement within racks and zones to maximize performance.
 Roman concludes by inviting interested contributors to join the Kai community and clarifies that while Kai is a scheduler, it works alongside other components like Dynamo, managing workloads through the Grove workload manager.
+
 # Main Points
 
 |   # | Main point                                                                                                                                       |

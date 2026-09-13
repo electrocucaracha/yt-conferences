@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Beyond Image Pull-Time: Ensuring Runtime Integrit... Toddy Mladenov, Flora
+  Taagen & Dallas Delaney"
+nav_order: 25
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Beyond Image Pull-Time: Ensuring Runtime Integrit... Toddy Mladenov, Flora Taagen & Dallas Delaney"
-description: "The presentation introduces enhancements to the Notary Project, a CNCF initiative focused on supply chain security for container images. Traditionally, Notary signs and verifies container images at the manifest level during the pull phase..."
+description:
+  The presentation introduces enhancements to the Notary Project, a CNCF
+  initiative focused on supply chain security for container images. Traditionally,
+  Notary signs and verifies container images at the manifest level during the pull
+  phase...
 resource: https://www.youtube.com/watch?v=2WhADdlb_pA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ To address this, the team proposes per-layer image signing combined with Linuxâ€
 The solution involves generating a DM-Verity root hash and signing it for each image layer, storing these signatures as OCI artifacts alongside the image, and configuring the container runtime (e.g., containerd with the EOFS snapshotter) to verify these signatures and enforce DM-Verity protections.
 Demonstrations show that this approach prevents tampered layers from being executed, even if an attacker modifies cached files after pull, thus significantly reducing the attack surface and providing kernel-level, non-bypassable protection for container images.
 The solution is being integrated into upcoming containerd releases and can be used in both rootful and rootless environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                 |

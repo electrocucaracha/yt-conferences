@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Instrumenting Kueue Scheduling for ML Training - Amy Chen, CoreWeave & Gabriel
+  Saba, Google
+nav_order: 154
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Instrumenting Kueue Scheduling for ML Training - Amy Chen, CoreWeave & Gabriel Saba, Google"
-description: "In this talk, Amy and Gabriel introduce Q, a batch job scheduler designed for managing machine learning training workloads in large, multi-tenant GPU clusters. They explain that Q addresses the complex challenge of maximizing resource utili..."
+description:
+  In this talk, Amy and Gabriel introduce Q, a batch job scheduler designed
+  for managing machine learning training workloads in large, multi-tenant GPU clusters.
+  They explain that Q addresses the complex challenge of maximizing resource utili...
 resource: https://www.youtube.com/watch?v=rcrl8-CudVw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that Q addresses the complex challenge of maximizing resource utili
 The speakers outline a systematic approach to troubleshooting such issues, including checking for guarantee violations, ruling out fragmentation, monitoring admission and preemption rates, and examining logs and system health.
 Through real-world bug examples, they demonstrate how issues like slow preemption, zombie pods, and incorrect resource share calculations can impede scheduling, and discuss recent improvements to Q that address these problems.
 Finally, they recommend key metrics and dashboard features for monitoring Q’s performance and ensuring efficient, transparent scheduling in machine learning clusters.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                              |

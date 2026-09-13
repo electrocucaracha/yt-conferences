@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Foro De Crecimiento"
+has_children: true
+nav_order: 5
+---
+
 # Foro De Crecimiento
 
 ## Concepts

@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Effective Delegation Strategies for Engineering Managers - 5 Step Framework
+nav_order: 12
+parent: Leadership Skills
 type: Video Note
-title: "Effective Delegation Strategies for Engineering Managers - 5 Step Framework"
-description: "In this video, Doug Howard addresses the common struggle engineering managers and technical leaders face with delegation, emphasizing that the main barrier is often a mindset issue rather than a lack of process. He outlines four key mindset..."
+description:
+  In this video, Doug Howard addresses the common struggle engineering
+  managers and technical leaders face with delegation, emphasizing that the main barrier
+  is often a mindset issue rather than a lack of process. He outlines four key mindset...
 resource: https://www.youtube.com/watch?v=Tg1mXrhmd_k
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ In this video, Doug Howard addresses the common struggle engineering managers an
 He outlines four key mindset shifts necessary for effective delegation: viewing delegation as an investment rather than a cost, transitioning from a doer to a leader mentality, adopting a strategic rather than a busy approach, and focusing on outcomes instead of perfectionism.
 Doug then presents a straightforward five-step delegation framework: schedule dedicated time for delegation, select the right person for the task, clearly define goals and success criteria, equip the delegatee with necessary resources and support, and finally, trust them to complete the task without micromanaging.
 He stresses the importance of communication, setting clear expectations, and being willing to let go, noting that mistakes are part of the learning process and can lead to growth for both the leader and the team.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

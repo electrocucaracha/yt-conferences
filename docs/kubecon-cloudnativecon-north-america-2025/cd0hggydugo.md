@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: Know Before You Go! Speedrun Intro To Gateway API - Christine
+  Kim"
+nav_order: 151
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Lightning Talk: Know Before You Go! Speedrun Intro To Gateway API - Christine Kim"
-description: "Christine from Isovalent introduces the Gateway API as the successor to Kubernetes Ingress, highlighting its role-oriented, portable design that allows users to avoid vendor lock-in and switch implementations easily. She explains that Gatew..."
+description:
+  Christine from Isovalent introduces the Gateway API as the successor
+  to Kubernetes Ingress, highlighting its role-oriented, portable design that allows
+  users to avoid vendor lock-in and switch implementations easily. She explains that
+  Gatew...
 resource: https://www.youtube.com/watch?v=Cd0hGGydUGo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ Christine from Isovalent introduces the Gateway API as the successor to Kubernet
 She explains that Gateway API supports advanced routing features such as URL and header-based routing, traffic splitting, and both north-south and east-west traffic management, with extensibility through reference grants and policy attachments.
 To get started, users need to select a gateway controller, install the Gateway CRDs, deploy a gateway, and apply an HTTP route, with the latest standard release being version 1.4.
 Christine also recommends resources like the official guides, the ingress-to-gateway translation tool, and gateway-cuddle for visualizing resources, and encourages community involvement and feedback through GitHub discussions and SIG network participation.
+
 # Main Points
 
 |   # | Main point                                                                                                    |

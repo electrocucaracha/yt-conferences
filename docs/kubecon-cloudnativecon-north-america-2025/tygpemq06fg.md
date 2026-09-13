@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Modern PostgreSQL Authorization With Keycloak: Cloud Native... Yoshiyuki Tabata
+  & Gabriele Bartolini"
+nav_order: 172
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Modern PostgreSQL Authorization With Keycloak: Cloud Native... Yoshiyuki Tabata & Gabriele Bartolini"
-description: "The presentation introduces a new collaboration between two CNCF projects—Keycloak, an open-source identity and access management solution, and CloudNativePG, a Kubernetes operator for PostgreSQL—to improve authentication and authorization..."
+description:
+  The presentation introduces a new collaboration between two CNCF projects—Keycloak,
+  an open-source identity and access management solution, and CloudNativePG, a Kubernetes
+  operator for PostgreSQL—to improve authentication and authorization...
 resource: https://www.youtube.com/watch?v=TYgPemq06fg
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ With the release of PostgreSQL 18, native OAuth support allows the database to d
 The speakers demonstrate how this integration works using a custom PostgreSQL OAuth validator for Keycloak, showing how roles and permissions can be managed declaratively in Kubernetes and enforced centrally via Keycloak policies.
 The demo illustrates the OAuth 2.0 device authorization flow, where users obtain access tokens from Keycloak to connect to PostgreSQL, and access is granted or denied based on Keycloak’s authorization policies.
 This approach externalizes identity and authorization, simplifies governance, and enhances security and scalability for database access in cloud-native architectures.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                  |

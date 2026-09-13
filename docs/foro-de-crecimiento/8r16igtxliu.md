@@ -1,16 +1,25 @@
 ---
+layout: default
+title: Title not found
+nav_order: 71
+parent: Foro De Crecimiento
 type: Video Note
-title: "Title not found"
-description: "Notes for Title not found."
+description: Notes for Title not found.
 resource: https://www.youtube.com/watch?v=8R16IGtXlIU
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
 
 Notes for Title not found.
+
 # Main Points
 
 |   # | Main point                                        |

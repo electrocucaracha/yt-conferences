@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  7 Reasons Engineering Managers and Tech Leaders Get Stuck in Their Career Without
+  Advancing
+nav_order: 6
+parent: Leadership Skills
 type: Video Note
-title: "7 Reasons Engineering Managers and Tech Leaders Get Stuck in Their Career Without Advancing"
-description: "In this video, Doug Howard, a former director of engineering, discusses why many engineering managers and technical leaders remain stuck in middle management and struggle to advance to director or executive roles. He outlines seven key reas..."
+description:
+  In this video, Doug Howard, a former director of engineering, discusses
+  why many engineering managers and technical leaders remain stuck in middle management
+  and struggle to advance to director or executive roles. He outlines seven key reas...
 resource: https://www.youtube.com/watch?v=TOez7q_Zcvw
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ In this video, Doug Howard, a former director of engineering, discusses why many
 He outlines seven key reasons: lack of necessary leadership skills, being overwhelmed by endless work and time constraints, burnout from overwork, insufficient support from bosses, lack of respect or authority with their teams, absence of mentorship, and inadequate support from cross-functional teams.
 Doug emphasizes that technical expertise alone is not enough; advancing requires developing soft skills such as empathy, communication, and the ability to influence both upward and across teams.
 He shares personal experiences and practical tips for overcoming these challenges, highlighting the importance of building relationships, setting boundaries, and seeking mentorship to break out of the cycle and progress in one’s career.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

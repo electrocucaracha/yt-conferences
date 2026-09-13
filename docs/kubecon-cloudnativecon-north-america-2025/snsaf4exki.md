@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "From Monolith To Microservices: A Visual Journey for Beginners - P.H. Oliveira
+  & H. Santana"
+nav_order: 85
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "From Monolith To Microservices: A Visual Journey for Beginners - P.H. Oliveira & H. Santana"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=-sNSaf4exkI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: The presentation dis
 The speakers, Pedro and Anhik, explain that monoliths can be suitable for small startups or MVP services, but as companies grow, they may need to separate into multiple microservices to improve scalability, security, and maintainability.
 They discuss the importance of defining boundaries, communication between technical and business teams, and using design principles such as domain-driven design and 12-factor app to guide the transition.
 The speakers also address common challenges, including communication, observability, deployment, and resilience, and provide guidance on how to approach these challenges in a microservices architecture.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                      |

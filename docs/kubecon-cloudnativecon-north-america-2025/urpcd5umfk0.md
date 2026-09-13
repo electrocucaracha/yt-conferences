@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Konveyor: Mining Developer Wisdom to Modernize Legacy
+  Apps... Jonah Sussman"
+nav_order: 223
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Konveyor: Mining Developer Wisdom to Modernize Legacy Apps... Jonah Sussman"
-description: "Jonah Susman introduces Conveyor, a tool designed to accelerate large-scale application migrations by addressing the challenges of legacy code, such as technical debt, security risks, maintenance costs, and skill gaps. He explains that trad..."
+description:
+  Jonah Susman introduces Conveyor, a tool designed to accelerate large-scale
+  application migrations by addressing the challenges of legacy code, such as technical
+  debt, security risks, maintenance costs, and skill gaps. He explains that trad...
 resource: https://www.youtube.com/watch?v=urPCD5uMFk0
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that traditional migrations are repetitive and inefficient, especial
 Conveyor streamlines the migration process by using static analysis rules written in plain English, which can be applied across multiple applications to flag issues and generate actionable reports through an operator UI.
 The platform also features Conveyor AI (Kai), an AI-powered layer that helps plan and propose fixes, learns from developer feedback, and stores results to improve future migrations.
 Overall, Conveyor aims to automate and expedite modernization efforts, and interested users can find more information on GitHub or connect via Kubernetes Slack.
+
 # Main Points
 
 |   # | Main point                                                                                                         |

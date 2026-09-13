@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Opening/Intro - Robert Sirchia"
-description: "Robert welcomes attendees to the CNCF Project Lightning Talks at KubeCon 26 in Amsterdam, explaining his role as MC to manage the stage and schedule. He outlines the format: the first talk, focused on the project landscape, will last 15 min..."
+nav_order: 283
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  "Robert welcomes attendees to the CNCF Project Lightning Talks at KubeCon
+  26 in Amsterdam, explaining his role as MC to manage the stage and schedule. He
+  outlines the format: the first talk, focused on the project landscape, will last
+  15 min..."
 resource: https://www.youtube.com/watch?v=fr7uGHZrHIs
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He outlines the format: the first talk, focused on the project landscape, will l
 The event aims to give visibility to lesser-known projects and encourages attendees to support and get involved with those that interest them.
 Robert invites questions and offers logistical guidance for speakers, including opportunities to test audio and video, while noting some limitations with video presentations.
 The emphasis is on maintaining the schedule and fostering community engagement with CNCF projects.
+
 # Main Points
 
 |   # | Main point                                                                      |

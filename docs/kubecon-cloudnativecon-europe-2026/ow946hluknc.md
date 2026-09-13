@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From “It Works!” to “It’s Secure!”: Hardening Your First Kub... Paul Zerdilas-Herrera
+  & Leon Schulze"
+nav_order: 127
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From “It Works!” to “It’s Secure!”: Hardening Your First Kub... Paul Zerdilas-Herrera & Leon Schulze"
-description: "In this presentation at CubeCon, Paul from Nutanix and Leon from Palo Alto Networks share a cautionary tale about Kubernetes security through the story of Dave, a junior developer who unknowingly exposes his application and cluster to the i..."
+description:
+  In this presentation at CubeCon, Paul from Nutanix and Leon from Palo
+  Alto Networks share a cautionary tale about Kubernetes security through the story
+  of Dave, a junior developer who unknowingly exposes his application and cluster
+  to the i...
 resource: https://www.youtube.com/watch?v=oW946hLuKNc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain how attackers commonly scan for open ports and vulnerable services,
 The speakers emphasize that security is a layered process, not a binary state, and recommend practical steps like limiting attack surfaces, enforcing role-based access control, running containers as non-root, and using open-source tools to automate security checks.
 They stress that default settings are often insecure due to the complexity and learning curve of Kubernetes, and urge developers to proactively secure their environments from the outset.
 The session concludes with the reminder that learning from mistakes—both one’s own and others’—is crucial in the rapidly evolving cloud-native ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

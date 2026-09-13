@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Keynote: The Future of Cloud Native Is… Agentic - Lin Sun, Head of Open Source,
+  Solo.io"
+nav_order: 185
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: The Future of Cloud Native Is… Agentic - Lin Sun, Head of Open Source, Solo.io"
-description: "The speaker recounts their experiences attending Cube Con, highlighting the rapid growth and increasing complexity of the cloud native ecosystem. They discuss the challenges users face in navigating numerous tools and technologies, and expr..."
+description:
+  The speaker recounts their experiences attending Cube Con, highlighting
+  the rapid growth and increasing complexity of the cloud native ecosystem. They discuss
+  the challenges users face in navigating numerous tools and technologies, and expr...
 resource: https://www.youtube.com/watch?v=ttGYcUFCok0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They discuss the challenges users face in navigating numerous tools and technolo
 Demonstrating the potential of agentic AI, the speaker presents a live demo involving Argo CD, MCP servers, and AI agents to automate application deployment and configuration within Kubernetes, despite encountering network issues.
 The presentation also includes an attempt to fly a drone and capture audience engagement using AI, showcasing both successes and technical hiccups.
 Concluding, the speaker emphasizes the importance of building and sharing more AI agents and skills openly to drive the future of cloud native technology.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                              |

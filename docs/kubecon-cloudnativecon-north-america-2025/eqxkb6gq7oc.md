@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Tutorial: Build Your Internal Developer Platform With the Experts: A Hands-On...
+  Multiple Speakers"
+nav_order: 324
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Tutorial: Build Your Internal Developer Platform With the Experts: A Hands-On... Multiple Speakers"
-description: 'The workshop introduces participants to building an internal developer platform using the "backstack," which includes Backstage, Argo CD, Crossplane, and Kyverno. The session begins with an overview of each project: Backstage is presented a...'
+description:
+  'The workshop introduces participants to building an internal developer
+  platform using the "backstack," which includes Backstage, Argo CD, Crossplane, and
+  Kyverno. The session begins with an overview of each project: Backstage is presented
+  a...'
 resource: https://www.youtube.com/watch?v=eqxKB6Gq7oc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +31,7 @@ Crossplane extends Kubernetes to manage infrastructure and applications declarat
 Kyverno is introduced as a Kubernetes-native policy engine that enforces policies as code, automating governance, security, and operational standards.
 The hands-on portion guides attendees through setting up their environment, configuring authentication, and using Backstage to create and manage applications, demonstrating how these tools integrate to provide a self-service, feedback-driven developer experience.
 The workshop concludes by emphasizing the power of combining these open-source projects to streamline platform engineering, improve developer autonomy, and ensure compliance, while encouraging participants to engage with the respective communities for further learning and contribution.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                      |

@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Let's dream big for MCP Auth with Tobin South - WorkOS"
-description: "The speaker, drawing on their background in AI security and experience at WorkOS, discusses the challenges and opportunities in designing robust authorization (OAuth) and identity management systems for AI-driven MCP (Machine Control Platfo..."
+nav_order: 19
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  The speaker, drawing on their background in AI security and experience
+  at WorkOS, discusses the challenges and opportunities in designing robust authorization
+  (OAuth) and identity management systems for AI-driven MCP (Machine Control Platfo...
 resource: https://www.youtube.com/watch?v=jPee-GE5oLM
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They emphasize the need to plan for increasing levels of AI autonomy, from simpl
 The talk explores both practical solutions—like step-up authentication, client-initiated backchannel auth, and enterprise integrations (SSO, SAML, SCIM)—and more speculative ideas, such as natural language policy enforcement and programmatic delegation of permissions.
 Throughout, the speaker stresses the importance of building flexible, secure systems that can adapt to evolving AI use cases, ensuring that as AI agents become more autonomous, access controls remain effective and manageable.
 The ultimate goal is to enable safe automation while maintaining robust security and clear identity management, as detailed further in a newly released white paper.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

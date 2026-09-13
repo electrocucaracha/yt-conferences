@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "No Pain No Drain: Lessons From Node Drains at Scale - Ryan Hallisey & Natalie
+  Bandel, NVIDIA"
+nav_order: 223
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "No Pain No Drain: Lessons From Node Drains at Scale - Ryan Hallisey & Natalie Bandel, NVIDIA"
-description: "In this talk, Ryan Haly and Natalie Vanell from Nvidia describe their journey transitioning from manual to fully automated node drain and maintenance processes in their GPU cloud infrastructure, which supports latency-sensitive game streami..."
+description:
+  In this talk, Ryan Haly and Natalie Vanell from Nvidia describe their
+  journey transitioning from manual to fully automated node drain and maintenance
+  processes in their GPU cloud infrastructure, which supports latency-sensitive game
+  streami...
 resource: https://www.youtube.com/watch?v=E7HIwOHbeN8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Initially relying on manual "kubectl drain" commands, they encountered challenge
 To address these, they developed a system with two microservices: a drain coordinator that intelligently schedules and ranks nodes for maintenance, and a life cycle orchestrator that manages state transitions, enforces SLAs, and handles notifications, all coordinated via a custom resource definition (CRD).
 Their solution includes features like adaptive drain throttling, node-type awareness, self-healing recovery, and comprehensive metrics, aiming to minimize disruption and maximize GPU availability.
 They emphasize the importance of treating maintenance as a first-class lifecycle concern, advocate for community collaboration on Kubernetes-native solutions, and invite others to contribute use cases and ideas to the Kubernetes node lifecycle working group.
+
 # Main Points
 
 |   # | Main point                                                                                                                    |

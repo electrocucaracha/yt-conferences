@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Beyond the Operators: The Full Strimzi Ecosystem for Kafka on... Paolo Patierno
+  & Michael Morris"
+nav_order: 27
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Beyond the Operators: The Full Strimzi Ecosystem for Kafka on... Paolo Patierno & Michael Morris"
-description: "The session introduces StreamZ, a CNCF incubating project for running Apache Kafka on Kubernetes, and highlights its broader ecosystem beyond the core operators (cluster, topic, and user operators). The presenters, Paulo from IBM and Michae..."
+description:
+  The session introduces StreamZ, a CNCF incubating project for running
+  Apache Kafka on Kubernetes, and highlights its broader ecosystem beyond the core
+  operators (cluster, topic, and user operators). The presenters, Paulo from IBM and
+  Michae...
 resource: https://www.youtube.com/watch?v=mYt9C0YQxDY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The presenters, Paulo from IBM and Michael from Ericsson, explain how various St
 These include the Access Operator for simplifying client configuration, HTTP and MQTT bridges for alternative connectivity, the Oauth library and quotas plugin for secure, token-based authentication and dynamic client throttling, and tools like the drain cleaner and Kubernetes config provider for safe maintenance and dynamic configuration.
 Additionally, the session covers observability with the metrics reporter for Prometheus integration and the test container framework for streamlined testing.
 The presenters emphasize community contributions and encourage engagement with the StreamZ ecosystem, which offers a comprehensive set of tools to enhance Kafka operations on Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

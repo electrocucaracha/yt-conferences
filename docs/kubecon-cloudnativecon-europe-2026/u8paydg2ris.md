@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Closing Remarks"
-description: "The speaker expresses excitement about the event, thanking the keynote speakers and attendees for their participation and energy in Amsterdam. Attendees are reminded that breakout sessions, including hands-on tutorials, begin at 11:15 a.m..."
+nav_order: 168
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  The speaker expresses excitement about the event, thanking the keynote
+  speakers and attendees for their participation and energy in Amsterdam. Attendees
+  are reminded that breakout sessions, including hands-on tutorials, begin at 11:15
+  a.m...
 resource: https://www.youtube.com/watch?v=u8pAYDg2ris
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Attendees are reminded that breakout sessions, including hands-on tutorials, beg
 The speaker emphasizes the importance of providing feedback to help improve future conferences and extends gratitude to those who submitted talks, as well as the program committee and track chairs for their hard work.
 Appreciation is also given to the Dancon scholarship fund sponsors for making the event more accessible.
 Finally, everyone is invited to join the Cube Craw and Cloud Native Fest in the evening, and the event is officially opened with encouragement to enjoy the sessions and networking opportunities.
+
 # Main Points
 
 |   # | Main point                                                                          |

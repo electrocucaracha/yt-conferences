@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Asynchronous Tool Calling with Nick Aldridge - Amazon Web Services"
-description: "The speaker discusses challenges with the current synchronous tool-calling paradigm in MCP, likening it to micromanagement and highlighting its limitations for long-running workflows, such as molecular analysis, code migration, and enterpri..."
+nav_order: 5
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  The speaker discusses challenges with the current synchronous tool-calling
+  paradigm in MCP, likening it to micromanagement and highlighting its limitations
+  for long-running workflows, such as molecular analysis, code migration, and enterpri...
 resource: https://www.youtube.com/watch?v=2Q6o1B-lCew
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Various companies have implemented ad hoc asynchronous workarounds, but these in
 To address this, Amazon and the MCP community are developing SEP 1391, which proposes native asynchronous tool-calling semantics, allowing tools to be declared as async and providing task tokens for status and result retrieval via new RPC methods.
 This approach aims to standardize async workflows, reduce implementation overhead, and improve reliability and scalability, while remaining compatible with existing monitoring and state management systems.
 The speaker invites feedback on SEP 1391 and notes ongoing work to resolve nuances around elicitations, progress notifications, and streaming in asynchronous contexts.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: A Hitchhiker's Guide to... Katherine Druckman, Gerald
+  Venzl & Lori Lorusso"
+nav_order: 205
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: A Hitchhiker's Guide to... Katherine Druckman, Gerald Venzl & Lori Lorusso"
-description: "In this session, Katherine Duckman and Lori Laruso, playfully adopting Rick and Morty personas, guide newcomers through the Cloud Native Computing Foundation (CNCF) ecosystem, emphasizing its vast and rapidly evolving landscape of open sour..."
+description:
+  In this session, Katherine Duckman and Lori Laruso, playfully adopting
+  Rick and Morty personas, guide newcomers through the Cloud Native Computing Foundation
+  (CNCF) ecosystem, emphasizing its vast and rapidly evolving landscape of open sour...
 resource: https://www.youtube.com/watch?v=g0swHQ3gqVA
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain the CNCF project maturity levels—sandbox, incubating, and graduat
 The speakers stress the value of evaluating project health using tools like clone monitor, considering factors such as security checks and recent activity, and encourage attendees to contribute to projects, especially those in need of support.
 They use examples like Helm and External Secrets Operator to illustrate how community involvement sustains and improves projects, and they urge participants to engage with the CNCF community, explore opportunities, and help keep projects healthy and thriving.
 The session concludes with practical advice to approach project selection methodically, contribute in various ways, and make the most of CNCF resources and events.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                    |

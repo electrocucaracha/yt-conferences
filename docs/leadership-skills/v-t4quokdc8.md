@@ -1,11 +1,22 @@
 ---
+layout: default
+title: How to Figure Out Your Career Path | Career Advice from Engineering Manager
+nav_order: 25
+parent: Leadership Skills
 type: Video Note
-title: "How to Figure Out Your Career Path | Career Advice from Engineering Manager"
-description: "In this video, Doug Howard, an engineering manager, mentor, and coach, discusses the challenges engineers face when trying to determine their ideal career path. He identifies three main reasons for this struggle: the difficulty of figuring..."
+description:
+  "In this video, Doug Howard, an engineering manager, mentor, and coach,
+  discusses the challenges engineers face when trying to determine their ideal career
+  path. He identifies three main reasons for this struggle: the difficulty of figuring..."
 resource: https://www.youtube.com/watch?v=v-t4quokDc8
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He identifies three main reasons for this struggle: the difficulty of figuring t
 Doug shares his own career journey, highlighting how taking initiative, seeking new experiences, and mentoring others helped him discover his passion for leadership and professional development.
 He outlines a three-step process for viewers: first, clarify your "why" by deeply questioning your motivations; second, take inventory of your work experiences to identify what you enjoy and dislike; and third, proactively seek new experiences and mentorship to broaden your perspective and uncover your true interests.
 Doug emphasizes the importance of self-reflection, embracing discomfort, and building relationships with mentors to successfully navigate and shape your engineering career.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                        |

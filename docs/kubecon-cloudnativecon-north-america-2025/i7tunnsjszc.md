@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Building Resilient Cloud Native Infrastructur... Rafael B, Mario F, Saiyam
+  P, Carolina V & Nabarun P
+nav_order: 31
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Building Resilient Cloud Native Infrastructur... Rafael B, Mario F, Saiyam P, Carolina V & Nabarun P"
-description: "The final session at CubeCon North America 2025 focused on the work of the CNCF Technical Advisory Group (TAG) for Operational Resilience, introducing its members and outlining their mission to support cloud native infrastructure in its sec..."
+description:
+  The final session at CubeCon North America 2025 focused on the work of
+  the CNCF Technical Advisory Group (TAG) for Operational Resilience, introducing
+  its members and outlining their mission to support cloud native infrastructure in
+  its sec...
 resource: https://www.youtube.com/watch?v=I7TuNNsJSZc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The TAG, composed of chairs and tech leads, assists the CNCF Technical Oversight
 Current initiatives include developing guidelines for sustainable project releases, measuring and improving the carbon footprint of CNCF projects through the Green Reviews subproject, and preparing a white paper on disaster recovery using cloud native technologies.
 The group emphasized the importance of community involvement, inviting contributions through meetings, interviews, and collaborative projects, and highlighted ongoing efforts such as the annual Cloud Native Sustainability Month.
 The session concluded with a call to action for broader participation, noting the group’s commitment to inclusivity and recognition for all forms of contribution.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                       |

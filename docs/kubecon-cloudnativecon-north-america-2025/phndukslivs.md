@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: When Falco Spots Trouble, The Shark Swims In - Gerald
+  Combs"
+nav_order: 244
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: When Falco Spots Trouble, The Shark Swims In - Gerald Combs"
-description: "Gerald Combmes, creator of Wireshark and a Falco maintainer, discusses how Falco and Stratoshark can be used together for threat detection and investigation. Falco is a real-time threat detection engine that monitors system calls and can no..."
+description:
+  Gerald Combmes, creator of Wireshark and a Falco maintainer, discusses
+  how Falco and Stratoshark can be used together for threat detection and investigation.
+  Falco is a real-time threat detection engine that monitors system calls and can
+  no...
 resource: https://www.youtube.com/watch?v=phndUkSlIvs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Falco is a real-time threat detection engine that monitors system calls and can 
 In a demonstration, Gerald shows how an alert from Falco about a suspicious shell in a container can be investigated by loading the capture file into Stratoshark, filtering for relevant process IDs, and reconstructing user input and subprocess activity.
 This process reveals a malicious command that downloads and executes a script attempting to exfiltrate an SSH key.
 Gerald concludes by encouraging further exploration of both tools and expressing gratitude to the open source community.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Istio Day: Running State of the Art Inference... Jackie
+  Maertens and Nili Guy"
+nav_order: 66
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Istio Day: Running State of the Art Inference... Jackie Maertens and Nili Guy"
-description: "In this presentation, Nili from IBM and Jackie from Microsoft discuss the challenges and solutions for running state-of-the-art AI inference workloads using Istio and LMD. They explain that AI inference now constitutes a significant portion..."
+description:
+  In this presentation, Nili from IBM and Jackie from Microsoft discuss
+  the challenges and solutions for running state-of-the-art AI inference workloads
+  using Istio and LMD. They explain that AI inference now constitutes a significant
+  portion...
 resource: https://www.youtube.com/watch?v=dr03NZmau5g
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that AI inference now constitutes a significant portion of AI workl
 To address these challenges, LMD—a Kubernetes-native distributed inference platform—integrates with Istio and extends the Kubernetes inference gateway with custom resources like inference pools and inference objectives, enabling programmable routing and optimized request scheduling based on workload characteristics and service level objectives (SLOs).
 The system uses a pluggable architecture of filters and scorers, particularly leveraging KV cache management to improve efficiency by routing requests to model servers with precomputed data.
 Additionally, they describe innovations such as disaggregating prefill and decode stages across different pods and supporting advanced models and multiple target ports, highlighting recent updates and inviting community contributions to the open-source projects.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

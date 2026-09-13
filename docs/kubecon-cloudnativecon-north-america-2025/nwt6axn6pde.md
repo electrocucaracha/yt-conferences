@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Building a Closed-Source AI DevTool for Open Source and Enterprise - Devin
+  Stein, Dosu
+nav_order: 33
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Building a Closed-Source AI DevTool for Open Source and Enterprise - Devin Stein, Dosu"
-description: "Devin Stein, founder and CEO of DOSU, discusses the rationale and success behind building closed source AI developer tools specifically for open source maintainers and enterprises. Inspired by the lack of products addressing maintainers’ ne..."
+description:
+  Devin Stein, founder and CEO of DOSU, discusses the rationale and success
+  behind building closed source AI developer tools specifically for open source maintainers
+  and enterprises. Inspired by the lack of products addressing maintainers’ ne...
 resource: https://www.youtube.com/watch?v=NWt6aXn6pDE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Inspired by the lack of products addressing maintainers’ needs for issue triag
 Stein explains that while open source maintainers are a small, opinionated, and often underserved market, focusing on their shared challenges with enterprises—such as time spent answering questions and maintaining documentation—has proven effective.
 Trust-building, close collaboration with maintainers, and delivering tangible results have been key, with DOSU enabling projects to scale rapidly and helping revive abandoned ones by efficiently managing knowledge backlogs.
 Stein concludes that open source maintainers are receptive to closed source solutions if they address real problems and foster trust, and that this strategy not only benefits startups but also strengthens the open source ecosystem by reducing maintainer burnout and creating a product adoption flywheel.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                      |

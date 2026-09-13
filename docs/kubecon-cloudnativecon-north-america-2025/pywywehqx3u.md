@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: CloudNativePG: Running Postgres The Kubernetes Way
+  - Gabriele Bartolini"
+nav_order: 211
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: CloudNativePG: Running Postgres The Kubernetes Way - Gabriele Bartolini"
-description: "Gabriel, a maintainer of CloudNativePG and a PostgreSQL contributor, introduces CloudNativePG at KubeCon, emphasizing its role as a Kubernetes operator designed specifically for managing PostgreSQL databases. Unlike generic stateful sets, C..."
+description:
+  Gabriel, a maintainer of CloudNativePG and a PostgreSQL contributor,
+  introduces CloudNativePG at KubeCon, emphasizing its role as a Kubernetes operator
+  designed specifically for managing PostgreSQL databases. Unlike generic stateful
+  sets, C...
 resource: https://www.youtube.com/watch?v=pYwYwehQX3U
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Unlike generic stateful sets, CloudNativePG uses a custom controller to provide 
 Gabriel highlights the project's recent entry into the CNCF sandbox and urges production users to add themselves to the adopters list to help the project progress toward incubation status.
 He also outlines upcoming features such as failover quorums and extension container images, and invites the community to contribute across its 15+ projects, reinforcing CloudNativePG’s vendor-neutral and openly governed nature.
 Finally, he encourages attendees to join the community and support the project’s growth and CNCF incubation efforts.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Where’s All My Memory Gone? Mapping K8s Memory Metrics To Physical Resources
+  - Mahé Tardy
+nav_order: 371
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Where’s All My Memory Gone? Mapping K8s Memory Metrics To Physical Resources - Mahé Tardy"
-description: "The speaker discusses mapping Kubernetes memory usage to physical resources. They explain that container memory working set bytes is a metric used behind the scenes, which is actually computed by CAdvisor inside Kublet. The main culprit beh..."
+description:
+  The speaker discusses mapping Kubernetes memory usage to physical resources.
+  They explain that container memory working set bytes is a metric used behind the
+  scenes, which is actually computed by CAdvisor inside Kublet. The main culprit beh...
 resource: https://www.youtube.com/watch?v=zLHdgl2qxbg
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that container memory working set bytes is a metric used behind the
 The main culprit behind this metric is CAdvisor itself, specifically its computation of "current" and "inactive file" statistics from cgroups v2.
 These statistics are then subtracted to produce the actual memory usage.
 The speaker also touches on the concept of virtual memory, how Linux overcommits memory, and how CAdvisor uses these concepts to compute the container memory working set bytes metric.
+
 # Main Points
 
 |   # | Main point                                                                                               |

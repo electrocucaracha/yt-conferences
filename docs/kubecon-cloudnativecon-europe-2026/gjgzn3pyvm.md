@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: kcp: Scaling The Kubernetes Control Plane For The
+  Multi-Clust... Jan Willies"
+nav_order: 300
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: kcp: Scaling The Kubernetes Control Plane For The Multi-Clust... Jan Willies"
-description: "Jan Viegas from Accenture introduces the KCP project, addressing challenges in Kubernetes related to provisioning isolated environments. Traditional options like namespaces are quick but limited, while full clusters are heavy and slow to pr..."
+description:
+  Jan Viegas from Accenture introduces the KCP project, addressing challenges
+  in Kubernetes related to provisioning isolated environments. Traditional options
+  like namespaces are quick but limited, while full clusters are heavy and slow to
+  pr...
 resource: https://www.youtube.com/watch?v=-GJgzn3pyvM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Traditional options like namespaces are quick but limited, while full clusters a
 KCP offers a lightweight, open-source, horizontally scalable control plane for Kubernetes-like APIs, providing isolated workspaces that deliver a full Kubernetes API experience without the overhead of nodes, pods, or deployments.
 Each workspace is provisioned in seconds, grants cluster admin privileges, and supports familiar Kubernetes tools.
 KCP is notable for its advanced handling of Custom Resource Definitions (CRDs), allowing different versions and controllers to coexist, thus simplifying upgrades and API management.
+
 # Main Points
 
 |   # | Main point                                                                                                                    |

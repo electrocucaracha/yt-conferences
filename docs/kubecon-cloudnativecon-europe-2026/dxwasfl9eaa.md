@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Route, Serve, Adapt, Repeat: Adaptive Routing for AI Inference Workl... Nir
+  Rozenbaum & Kellen Swain"
+nav_order: 312
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Route, Serve, Adapt, Repeat: Adaptive Routing for AI Inference Workl... Nir Rozenbaum & Kellen Swain"
-description: "In this talk, Kellen, a software engineer at Google, introduces adaptive routing for AI inference within the inference gateway, focusing on improving how requests are routed to model servers. The current system leverages L7 proxies like Env..."
+description:
+  In this talk, Kellen, a software engineer at Google, introduces adaptive
+  routing for AI inference within the inference gateway, focusing on improving how
+  requests are routed to model servers. The current system leverages L7 proxies like
+  Env...
 resource: https://www.youtube.com/watch?v=DxWAsFl9EAA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The current system leverages L7 proxies like Envoy to inspect request bodies and
 However, manual tuning of these scores can lead to issues like the thundering herd problem, where certain servers become overloaded.
 To address this, the team developed adaptive routing, which dynamically adjusts the weighting between affinity-based and distribution-based scores using asynchronous detectors and an adaptive configurator, ensuring better load balancing without user intervention.
 Initial benchmarks show that adaptive routing mitigates hot node issues and maintains baseline performance, and the team is exploring further enhancements, including predictive latency and flow control, while inviting community contributions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

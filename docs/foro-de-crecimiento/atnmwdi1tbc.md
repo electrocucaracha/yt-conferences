@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Especialista en longevidad: hábitos para vivir más y mejor | Alejandra silva
+  #15 \U0001F9EC"
+nav_order: 26
+parent: Foro De Crecimiento
 type: Video Note
-title: "Especialista en longevidad: hábitos para vivir más y mejor | Alejandra silva #15 🧬"
-description: "En esta entrevista, la experta en longevidad y nutrición Alejandra Silva explica que, aunque la esperanza de vida mundial ha aumentado a 74 años, la calidad de vida no necesariamente ha mejorado, ya que vivimos más años con enfermedades y p..."
+description:
+  En esta entrevista, la experta en longevidad y nutrición Alejandra Silva
+  explica que, aunque la esperanza de vida mundial ha aumentado a 74 años, la calidad
+  de vida no necesariamente ha mejorado, ya que vivimos más años con enfermedades
+  y p...
 resource: https://www.youtube.com/watch?v=atNmWDi1TBc
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ En esta entrevista, la experta en longevidad y nutrición Alejandra Silva explic
 Destaca que la longevidad no solo implica vivir más tiempo, sino vivir esos años con salud y bienestar, y que la genética influye solo en un 10-20%, mientras que los hábitos y decisiones personales son determinantes.
 Silva enfatiza la importancia de una alimentación basada en alimentos naturales y densos en nutrientes, la actividad física constante (especialmente ejercicios de fuerza), el manejo del estrés, el sueño reparador y las relaciones personales para una vida longeva y de calidad.
 Además, señala que no es necesario tener abundancia financiera para cuidar la salud, ya que muchos hábitos saludables son accesibles, y concluye que invertir en salud es fundamental para disfrutar plenamente de la vida y evitar que la enfermedad consuma los recursos y la felicidad en la vejez.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                  |

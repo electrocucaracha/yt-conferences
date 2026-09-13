@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Mastering Presentation Skills for Engineers and Tech Professionals Tips from
+  Communication Expert
+nav_order: 35
+parent: Leadership Skills
 type: Video Note
-title: "Mastering Presentation Skills for Engineers and Tech Professionals Tips from Communication Expert"
-description: "In this interview, presentation coach Christopher Chin discusses the challenges tech professionals face when creating compelling presentations, particularly the tendency to overload slides with data and information. He emphasizes that the t..."
+description:
+  In this interview, presentation coach Christopher Chin discusses the
+  challenges tech professionals face when creating compelling presentations, particularly
+  the tendency to overload slides with data and information. He emphasizes that the
+  t...
 resource: https://www.youtube.com/watch?v=SP9ClS1gqRU
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He emphasizes that the true purpose of a presentation is not just to inform but 
 Chin provides practical advice, such as focusing on one message per slide, using visuals over text, and ensuring accessibility by avoiding problematic color combinations like red and green.
 He recommends the "five-second test"—if the main point of a slide isn't clear within five seconds, it should be redesigned—and suggests separating presentation slides from detailed reports to maintain audience engagement.
 Chin also shares resources for improving presentation skills, including his online course, YouTube channel "The Hidden Speaker," and encourages seeking feedback and practicing in supportive environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |
@@ -35,7 +50,7 @@ Chin also shares resources for improving presentation skills, including his onli
 |  14 | Adjust chart types (e.g., stacked bars, percentages) to best illustrate your main point.                                                                     |
 |  15 | Separate slide decks for presentations (simple, visual) and documentation (detailed, in appendix).                                                           |
 |  16 | Christopher offers resources: online course, one-on-one coaching, team workshops, and a YouTube channel ("The Hidden Speaker") with practical tips.          |
-|  17 | Connect with Christopher via LinkedIn, his website (thehiddenspeaker.com), or email (info@thehiddenspeaker.com).                                             |
+|  17 | Connect with Christopher via LinkedIn, his website (thehiddenspeaker.com), or email (`info@thehiddenspeaker.com`).                                           |
 
 # Video
 

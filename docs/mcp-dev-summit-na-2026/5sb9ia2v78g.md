@@ -1,11 +1,23 @@
 ---
+layout: default
+title: How Duolingo Built an AI Slackbot With 180+ MCP Tools
+nav_order: 34
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "How Duolingo Built an AI Slackbot With 180+ MCP Tools"
-description: "Aaron, a software engineer at Duolingo, describes the development of an AI-powered Slack app that integrates with MCP servers to streamline internal workflows. Initially, setting up MCP servers was complex and inconsistent, prompting effort..."
+description:
+  Aaron, a software engineer at Duolingo, describes the development of
+  an AI-powered Slack app that integrates with MCP servers to streamline internal
+  workflows. Initially, setting up MCP servers was complex and inconsistent, prompting
+  effort...
 resource: https://www.youtube.com/watch?v=5sb9iA2v78g
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Initially, setting up MCP servers was complex and inconsistent, prompting effort
 Despite these improvements, adoption remained low until the team built a Slack app that connects to over 15 MCP servers and AWS BigQuery, automating responses in help desk and incident channels, supporting human-in-the-loop verification for write operations, and allowing channel-specific customization.
 The app emphasizes security and privacy by enforcing role-based access, requiring human approval for external write actions, sandboxing operations, and not logging private messages.
 Since its launch in September 2025, the Slack bot’s adoption has grown to over 250 weekly active users, with response quality steadily improving, and Duolingo has open-sourced the core application code for others to use.
+
 # Main Points
 
 |   # | Main point                                                                                                   |

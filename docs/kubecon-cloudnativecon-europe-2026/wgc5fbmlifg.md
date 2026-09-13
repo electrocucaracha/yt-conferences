@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: KRafting the Cloud: Building a Free, Open, and Accessible
+  Cloud - Alex Bissessur"
+nav_order: 208
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Lightning Talk: KRafting the Cloud: Building a Free, Open, and Accessible Cloud - Alex Bissessur"
-description: "Alex discusses the challenges of cloud infrastructure in Mauritius, where major providers like AWS and Azure have limited presence, leading to reliance on local cloud service providers that often lack modern features and automation. To addr..."
+description:
+  Alex discusses the challenges of cloud infrastructure in Mauritius, where
+  major providers like AWS and Azure have limited presence, leading to reliance on
+  local cloud service providers that often lack modern features and automation. To
+  addr...
 resource: https://www.youtube.com/watch?v=wgc5fBmlIFg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ To address this, Alex describes building a cloud platform called Craft, which le
 The system is composed of several microservices, including authentication, cluster management, and a frontend, and utilizes Rust for interacting with Kubernetes resources, offering convenience and security through namespace isolation, network policies, and pod security.
 Craft has enabled social benefits in Mauritius by providing free, open-source hosting for community projects and educational workshops, making cloud-native technologies more accessible.
 The project is available on GitHub and aims to empower others to deploy similar solutions in their own communities.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

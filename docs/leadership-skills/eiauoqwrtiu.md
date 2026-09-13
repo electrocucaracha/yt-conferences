@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How to Deal with Difficult Employee as a New Manager | Advice for Engineering
+  Leaders
+nav_order: 24
+parent: Leadership Skills
 type: Video Note
-title: "How to Deal with Difficult Employee as a New Manager | Advice for Engineering Leaders"
-description: "In this video, Doug Howard discusses the challenges new managers face when dealing with difficult senior direct reports, especially those with more experience and expertise. He shares a personal story about managing a senior engineer who fr..."
+description:
+  In this video, Doug Howard discusses the challenges new managers face
+  when dealing with difficult senior direct reports, especially those with more experience
+  and expertise. He shares a personal story about managing a senior engineer who fr...
 resource: https://www.youtube.com/watch?v=eiaUOqWRtiU
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He shares a personal story about managing a senior engineer who frequently pushe
 Instead of asserting authority, Doug chose to empathize with the senior employee’s perspective and initiated a collaborative meeting to understand his reasoning, which resulted in mutual respect and improved communication.
 Doug emphasizes the importance of using empathy, curiosity, and open-ended questions to build rapport and influence, rather than relying solely on authority or logic.
 He advises managers to approach disagreements by seeking to understand the other person’s viewpoint and proposing changes as temporary trials, fostering a cooperative environment for problem-solving.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

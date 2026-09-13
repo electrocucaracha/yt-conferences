@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "1000 Services, 1 Year, 0 Downtime: Airbnb’s Zonal Cluster Migration - Sunny
+  Beatteay, Airbnb"
+nav_order: 3
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "1000 Services, 1 Year, 0 Downtime: Airbnb’s Zonal Cluster Migration - Sunny Beatteay, Airbnb"
-description: "Sunny B presents a case study on Airbnb’s largest zonal cluster migration, detailing the transition of over 1,000 services from a regional to a zonal Kubernetes architecture within a year and achieving zero downtime. Initially, Airbnb used..."
+description:
+  Sunny B presents a case study on Airbnb’s largest zonal cluster migration,
+  detailing the transition of over 1,000 services from a regional to a zonal Kubernetes
+  architecture within a year and achieving zero downtime. Initially, Airbnb used...
 resource: https://www.youtube.com/watch?v=N3NTyUeSlaA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Initially, Airbnb used regional clusters for their simplicity and high availabil
 The migration required significant technical and organizational changes, including refactoring deployment tooling, introducing new abstractions called "cells" and "cell sets," and automating much of the migration process to minimize disruption for app developers.
 The team conducted migrations in phases, prioritized communication and support, and addressed unique requirements for critical services, ultimately migrating 95% of compute to cells and successfully performing live zonal traffic shifts.
 The project also laid the groundwork for future multi-regional deployments and ongoing improvements in developer tooling and automation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                               |

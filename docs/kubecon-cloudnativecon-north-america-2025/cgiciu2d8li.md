@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "SIG-Node: Intro and Deep Dive - Peter Hunt, Red Hat; Sergey Kanzhelev, Google;
+  Mrunal Patel, Red Hat"
+nav_order: 270
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "SIG-Node: Intro and Deep Dive - Peter Hunt, Red Hat; Sergey Kanzhelev, Google; Mrunal Patel, Red Hat"
-description: "The session, led by Peter from Red Hat and Sergey from Google, provided an introduction and deep dive into SIG Node, a key Kubernetes Special Interest Group responsible for node-level infrastructure and compute management. The presenters de..."
+description:
+  The session, led by Peter from Red Hat and Sergey from Google, provided
+  an introduction and deep dive into SIG Node, a key Kubernetes Special Interest Group
+  responsible for node-level infrastructure and compute management. The presenters
+  de...
 resource: https://www.youtube.com/watch?v=CgICiu2d8LI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The presenters detailed the role of the kubelet, which manages pod lifecycle, re
 They highlighted the significant productivity of SIG Node, including numerous merged enhancements (KEPs) and the introduction of the "KEP Wrangler" program to streamline proposal processes.
 Sergey focused on the evolution of pod and container restart policies, explaining how new features now allow for granular control over individual container restarts—addressing long-standing user requests and supporting complex workloads like AI/ML training and gaming servers.
 The session also covered recent deprecations, ongoing working groups (such as node lifecycle and checkpoint/restore), and encouraged community involvement, emphasizing that feedback and participation are vital to SIG Node’s continued progress.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

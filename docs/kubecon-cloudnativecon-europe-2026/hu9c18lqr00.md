@@ -1,11 +1,23 @@
 ---
+layout: default
+title: DNS Tracing & Metrics Via eBPF in OpenTelemetry - Endre Sara & Nikola Grcevski
+nav_order: 82
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "DNS Tracing & Metrics Via eBPF in OpenTelemetry - Endre Sara & Nikola Grcevski"
-description: "Nikola Grachevski and Andras Szabo present on DNS observability using the OpenTelemetry BPF (OB) Instrumentation project, which leverages eBPF technology for low-overhead, kernel-level monitoring of DNS activity in Linux environments. They..."
+description:
+  Nikola Grachevski and Andras Szabo present on DNS observability using
+  the OpenTelemetry BPF (OB) Instrumentation project, which leverages eBPF technology
+  for low-overhead, kernel-level monitoring of DNS activity in Linux environments.
+  They...
 resource: https://www.youtube.com/watch?v=hu9c18lqR00
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They highlight the common challenge of diagnosing DNS-related performance issues
 OB captures DNS metrics and traces without requiring code changes or service restarts, enriching telemetry with Kubernetes and cloud metadata, and integrates seamlessly with existing OpenTelemetry setups.
 The tool enables users to identify inefficient DNS usage, such as unnecessary lookups or misconfigured search domains, and provides accurate end-to-end timing by monitoring events at the kernel level.
 The presenters emphasize OB’s security benefits, ease of deployment, and its ability to operate alongside or independently of existing instrumentation, making DNS observability accessible and actionable for large-scale production environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

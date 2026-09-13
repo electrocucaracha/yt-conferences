@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Welcome to AIE LEAD - Alex Lieberman, Tenex
+nav_order: 6
+parent: Aie Code 2025 Ai Leadership
 type: Video Note
-title: "Welcome to AIE LEAD - Alex Lieberman, Tenex"
-description: "Alex Lieberman, co-founder of Morning Brew and now MC for the AI Engineer Code Summit 2025, opens the event by welcoming attendees from various locations, including New York, San Francisco, Austin, Ecuador, and as far as New Zealand. He exp..."
+description:
+  Alex Lieberman, co-founder of Morning Brew and now MC for the AI Engineer
+  Code Summit 2025, opens the event by welcoming attendees from various locations,
+  including New York, San Francisco, Austin, Ecuador, and as far as New Zealand. He
+  exp...
 resource: https://www.youtube.com/watch?v=RQ5Jt8zDBp8
-tags: ["aie-code-2025-ai-leadership", video, learning]
+tags:
+  - aie-code-2025-ai-leadership
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ Alex Lieberman, co-founder of Morning Brew and now MC for the AI Engineer Code S
 He explains his transition from the newsletter industry to co-founding 10x.co, an AI transformation firm, motivated by a desire to work at the forefront of AI alongside talented engineers.
 Lieberman highlights that the summit will reflect on the past year's significant developments in AI and provide practical insights into the industry's future, featuring speakers from AI labs, startups, academia, consulting, and major corporations.
 He also acknowledges and thanks the event's sponsors, including Google DeepMind, Anthropic, and other gold and silver sponsors, before energizing the audience for the day ahead.
+
 # Main Points
 
 |   # | Main point                                                                                                                 |

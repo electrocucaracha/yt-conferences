@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tutorial: A Cross-Industry Benchmarking Tutorial for Distributed LLM Inference...
+  Multiple Speakers"
+nav_order: 323
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Tutorial: A Cross-Industry Benchmarking Tutorial for Distributed LLM Inference... Multiple Speakers"
-description: "The video presents a comprehensive tutorial on cross-industry benchmarking for distributed large language model (LLM) inference on Kubernetes, featuring experts from Red Hat, NVIDIA, IBM, Google, and academia. The speakers introduce various..."
+description:
+  The video presents a comprehensive tutorial on cross-industry benchmarking
+  for distributed large language model (LLM) inference on Kubernetes, featuring experts
+  from Red Hat, NVIDIA, IBM, Google, and academia. The speakers introduce various...
 resource: https://www.youtube.com/watch?v=RVQwP-apF-A
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ They explain key performance metrics like time to first token and inter-token la
 The session delves into advanced topics like distributed inference, prefill/decode disaggregation, and KV cache management, demonstrating how shared caching and intelligent routing can significantly improve performance.
 The presenters showcase live demos of benchmarking workflows, configuration explorers, and real-world traffic replay, emphasizing the need for standardized metrics and collaborative open-source development to address the growing complexity of LLM inference optimization.
 The discussion concludes with a call for community involvement and convergence toward unified benchmarking methodologies and tools.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

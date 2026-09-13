@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Pull Request Wars: The Flux Awakens - Ephemeral Kubernetes Environ... Matteo
+  Bianchi & Stefan Prodan"
+nav_order: 303
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Pull Request Wars: The Flux Awakens - Ephemeral Kubernetes Environ... Matteo Bianchi & Stefan Prodan"
-description: "In this presentation, Mat Bankei and Stefan Prodan introduce a workflow for creating declarative, pull request-driven, GitOps-native preview environments using Flux, designed to balance developer self-service with platform team governance..."
+description:
+  In this presentation, Mat Bankei and Stefan Prodan introduce a workflow
+  for creating declarative, pull request-driven, GitOps-native preview environments
+  using Flux, designed to balance developer self-service with platform team governance...
 resource: https://www.youtube.com/watch?v=uGhHeYZ4zGg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They describe a setup involving three repositories: a platform repo managed by p
 The demo showcases how Flux Operator automates the deployment and cleanup of these ephemeral environments, integrates with GitHub Actions for CI, and provides feedback directly in pull requests.
 The presenters also demonstrate debugging failed deployments using GitHub Copilot and Flux MCP, emphasizing the importance of access controls and observability.
 They conclude by sharing resources and best practices for adopting this workflow, highlighting its flexibility, automation, and support for multiple providers beyond GitHub.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                     |

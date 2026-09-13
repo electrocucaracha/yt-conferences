@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Missing Metrics: Measuring Memory Interference in Cloud Native Systems
+  - Jonathan Perry"
+nav_order: 338
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "The Missing Metrics: Measuring Memory Interference in Cloud Native Systems - Jonathan Perry"
-description: 'The speaker discusses "memory noisy neighbor," a phenomenon where one application takes more than its fair share of resources on a server, degrading performance for other applications. This issue is particularly problematic in cloud-native...'
+description:
+  The speaker discusses "memory noisy neighbor," a phenomenon where one
+  application takes more than its fair share of resources on a server, degrading performance
+  for other applications. This issue is particularly problematic in cloud-native...
 resource: https://www.youtube.com/watch?v=nXdGXdxmWNQ
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ This issue is particularly problematic in cloud-native applications that run on 
 The speaker presents research and case studies showing the impact of memory noisy neighbors on performance, including a 53% increase in revenue per user and a 35% reduction in bounce rates from an optimized application running 400 milliseconds faster than its non-optimized counterpart.
 To mitigate this issue, the speaker proposes using resource allocation capabilities to run more transactions on the same-sized servers, reducing tail latency by factors of five to fourteen.
 The speaker also discusses building an open-source collector to measure and mitigate noisy neighbors, with a goal of achieving 1% overhead in line with traffic while significantly improving performance.
+
 # Main Points
 
 |   # | Main point                                                                                                                   |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Demonstration of Automatic Kubernetes Network Policies Generation - Boaz Michaely
+  & Adi Sosnovich
+nav_order: 57
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Demonstration of Automatic Kubernetes Network Policies Generation - Boaz Michaely & Adi Sosnovich"
-description: "In this presentation, Boaz from Red Hat and Adi from IBM Research discuss the complexities of Kubernetes network policies, highlighting their importance for security but also the challenges users face due to lack of built-in tooling and the..."
+description:
+  In this presentation, Boaz from Red Hat and Adi from IBM Research discuss
+  the complexities of Kubernetes network policies, highlighting their importance for
+  security but also the challenges users face due to lack of built-in tooling and
+  the...
 resource: https://www.youtube.com/watch?v=MD9f9Y-kems
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Through live demonstrations, they show how the tool generates effective network 
 The team also compares NPARD's analytical approach to large language models (LLMs) for policy generation and analysis, finding that LLMs often produce syntactic errors, incomplete segmentation, or overly permissive policies, and can misinterpret connectivity, especially in complex scenarios.
 They conclude that while LLMs have potential, analytical tools like NPARD are currently more reliable, and recommend integrating such tools into development pipelines to improve security posture, with AI serving as a complementary aid rather than a replacement.
 Audience questions address tool limitations, such as lack of support for CNI-specific extensions, performance analysis, and gateway APIs, and the presenters emphasize the need for teams to understand their own connectivity requirements and to use exposure analysis to tighten policies.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                      |

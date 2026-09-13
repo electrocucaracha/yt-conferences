@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "De Cero a 32 Clínicas: El Éxito Empresarial de Jackie Nuñez | sesión de crecimiento
+  #7"
+nav_order: 13
+parent: Foro De Crecimiento
 type: Video Note
-title: "De Cero a 32 Clínicas: El Éxito Empresarial de Jackie Nuñez | sesión de crecimiento #7"
-description: "En esta entrevista, Jacki Núñez comparte su inspiradora historia de emprendimiento junto a su esposo Rafael, desde sus humildes inicios emigrando a Estados Unidos sin recursos, hasta la creación de una red de más de 32 clínicas. Relata los..."
+description:
+  En esta entrevista, Jacki Núñez comparte su inspiradora historia de emprendimiento
+  junto a su esposo Rafael, desde sus humildes inicios emigrando a Estados Unidos
+  sin recursos, hasta la creación de una red de más de 32 clínicas. Relata los...
 resource: https://www.youtube.com/watch?v=vDO37nxW5OQ
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Relata los desafíos enfrentados, como años sin ingresos, la importancia de la 
 Jacki enfatiza el valor de la disciplina, la planificación, el equilibrio entre la vida laboral y familiar, y la necesidad de rodearse de personas positivas y mentores.
 Además, destaca la importancia de la humildad, el servicio a la comunidad y el legado de impacto social, como la donación de casas y el apoyo a fundaciones.
 Finalmente, aconseja a los emprendedores tener metas claras, perseverar ante las dificultades y mantener una mentalidad positiva y de crecimiento constante.
+
 # Main Points
 
 |   # | Main point                                                                                                                          |

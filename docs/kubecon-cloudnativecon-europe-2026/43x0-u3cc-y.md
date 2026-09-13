@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Platform Mesh: Breaking API Lock-In for True Multi-Cloud Service... Mirza
+  Kopic & Mangirdas Judeikis"
+nav_order: 244
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Platform Mesh: Breaking API Lock-In for True Multi-Cloud Service... Mirza Kopic & Mangirdas Judeikis"
-description: "Ma Kopich from SAP and MJ from Clyiso introduce Platform Mesh, a toolkit designed to address the complexities of building and managing platforms across heterogeneous environments with multiple providers and administrative domains. They high..."
+description:
+  Ma Kopich from SAP and MJ from Clyiso introduce Platform Mesh, a toolkit
+  designed to address the complexities of building and managing platforms across heterogeneous
+  environments with multiple providers and administrative domains. They high...
 resource: https://www.youtube.com/watch?v=43X0_U3cc-Y
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the challenges of vendor and API lock-in, fragmentation, and the 
 Platform Mesh leverages existing CNCF projects like KCP, Qbind, and multicluster runtime to create a unified approach using the Kubernetes resource model, enabling orchestration and lifecycle management of services across clusters and providers.
 A key feature discussed is the Resource Broker, which abstracts and automates the migration and management of resources between providers without exposing complexity to users, demonstrated through a live example of certificate management.
 The presenters emphasize the importance of abstraction layers and reusable APIs to simplify integration for both platform users and service providers, inviting further discussion and collaboration at their project booths.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

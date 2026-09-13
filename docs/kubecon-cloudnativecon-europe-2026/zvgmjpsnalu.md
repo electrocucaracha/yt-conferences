@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Harbor Project - The Maintainers Session - Yan Wang, Broadcom & Vadim Bauer,
+  8gears
+nav_order: 137
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Harbor Project - The Maintainers Session - Yan Wang, Broadcom & Vadim Bauer, 8gears"
-description: "Vadim Bower and Yan, maintainers of Harbor, provided updates on the Harbor container registry project, highlighting recent developments and new features. They introduced the Harbor CLI, a command-line tool designed for CI/CD workflows and a..."
+description:
+  Vadim Bower and Yan, maintainers of Harbor, provided updates on the Harbor
+  container registry project, highlighting recent developments and new features. They
+  introduced the Harbor CLI, a command-line tool designed for CI/CD workflows and
+  a...
 resource: https://www.youtube.com/watch?v=zVgMJPSNaLU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ The team also discussed progress on Harbor Satellite, aiming to offer a stateles
 Yan detailed enhancements to Harbor’s proxy cache, including new parameters to manage upstream rate limits, improved artifact retention options, and performance improvements in garbage collection by optimizing tag management.
 Additionally, Harbor is collaborating with Alibaba to support AI module artifacts, enabling users to manage large AI modules with OCI compatibility and standardizing workflows for AI workloads.
 The session concluded with survey results showing Harbor’s growing adoption and appreciation within the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                 |

@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Closing Remarks"
-description: "The speaker thanks attendees for participating in the keynotes and expresses appreciation for the positive feedback received on social media about the previous day's keynote. Attendees are encouraged to continue sharing their thoughts and t..."
+nav_order: 169
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  The speaker thanks attendees for participating in the keynotes and expresses
+  appreciation for the positive feedback received on social media about the previous
+  day's keynote. Attendees are encouraged to continue sharing their thoughts and t...
 resource: https://www.youtube.com/watch?v=Zs4VGKjcIvY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +28,7 @@ The schedule also includes lightning talks at 4:45 p.m.
 in the auditorium, followed by the CNCF red carpet event and the exclusive premiere of a backstage documentary at 6:15 p.m.
 in the forum.
 The speaker concludes by thanking everyone again and inviting them to return the next day for the final set of keynotes, which will feature live demos.
+
 # Main Points
 
 |   # | Main point                                                                                           |

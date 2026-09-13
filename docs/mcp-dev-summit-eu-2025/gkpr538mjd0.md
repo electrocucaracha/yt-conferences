@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Roundtable] Why Financial Services Companies are Investing in MCP"
-description: "In this roundtable discussion, representatives from Evergreen Wealth, Bloomberg, and Saxo Bank share their experiences adopting MCP (Machine Communication Protocol) in the financial services sector, a field known for strict regulation and h..."
+nav_order: 15
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  In this roundtable discussion, representatives from Evergreen Wealth,
+  Bloomberg, and Saxo Bank share their experiences adopting MCP (Machine Communication
+  Protocol) in the financial services sector, a field known for strict regulation
+  and h...
 resource: https://www.youtube.com/watch?v=gkPr538mJd0
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Each organization describes how MCP is being used internally to connect AI syste
 The panelists discuss the challenges of integrating MCP within existing security and compliance frameworks, emphasizing the importance of authentication, authorization, and data entitlements, especially when dealing with sensitive financial information.
 They highlight recent and upcoming enhancements to the MCP specification, such as structured outputs, statelessness, and improved observability, which are crucial for scaling and maintaining compliance.
 The session concludes with advice for organizations considering MCP adoption, the announcement of a new financial services interest group for MCP, and encouragement to leverage available SDKs and invest in robust tooling and evaluation processes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Declarative Edge Kubernetes: Immutable Clusters with Talos + Zarf - Brandt
+  Keller & Merijn Keppel"
+nav_order: 89
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Declarative Edge Kubernetes: Immutable Clusters with Talos + Zarf - Brandt Keller & Merijn Keppel"
-description: "In this session, Brent Keller and Marell discuss deploying and managing Kubernetes clusters in air-gapped and edge environments using Talos Linux and Zarf. They demonstrate a live setup with pre-provisioned Talos Linux nodes, highlighting T..."
+description:
+  In this session, Brent Keller and Marell discuss deploying and managing
+  Kubernetes clusters in air-gapped and edge environments using Talos Linux and Zarf.
+  They demonstrate a live setup with pre-provisioned Talos Linux nodes, highlighting
+  T...
 resource: https://www.youtube.com/watch?v=6Ss9wMZhMJc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They demonstrate a live setup with pre-provisioned Talos Linux nodes, highlighti
 The presenters show how Zarf enables portable, declarative application packaging and deployment by initializing an internal registry and mutating image references, making it easier to manage applications and updates in disconnected environments.
 They further illustrate updating the Talos operating system itself from within Kubernetes using a custom controller and Zarf package, emphasizing the importance of sustainable, reliable, and reproducible workflows.
 The session concludes by reinforcing the benefits of declarative and immutable infrastructure for both application and system updates, and invites attendees to explore further or ask questions.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

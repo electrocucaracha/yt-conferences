@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Lessons Learned Orchestrating Multi-Tenant GPUs on OpenShift AI with NVIDIA
+  KAI (G/H2... Luca Berton
+nav_order: 200
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Lessons Learned Orchestrating Multi-Tenant GPUs on OpenShift AI with NVIDIA KAI (G/H2... Luca Berton"
-description: "In this presentation, Luca Berton outlines a practical approach to building a multi-tenant, GPU-powered AI platform on bare metal OpenShift, drawing on real-world experience with an avionics customer in France. He emphasizes that while runn..."
+description:
+  In this presentation, Luca Berton outlines a practical approach to building
+  a multi-tenant, GPU-powered AI platform on bare metal OpenShift, drawing on real-world
+  experience with an avionics customer in France. He emphasizes that while runn...
 resource: https://www.youtube.com/watch?v=nABVTFBmV2M
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He emphasizes that while running GPUs is straightforward, the real challenge lie
 The solution leverages Dell AI servers, Nvidia GPUs, and OpenShift AI, with GitOps (using Argo CD and Kustomize) as the operational backbone to ensure auditability, repeatability, and compliance in a highly regulated, air-gapped environment.
 Key lessons include the importance of hardware-aware configuration, robust network isolation, driver compatibility, and per-tenant monitoring for chargeback and observability.
 The platform supports different user personas—LLM Ops engineers, administrators, and developers—by providing secure, efficient, and transparent access to GPU resources, with GitOps and standardized templates reducing operational complexity and ensuring reliable, scalable AI infrastructure.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                              |

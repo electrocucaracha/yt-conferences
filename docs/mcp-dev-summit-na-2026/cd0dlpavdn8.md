@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Durable, Asynchronous, and Tricky: Implementing MCP Tasks in Practice - Cornelia
+  Davis, Temporal"
+nav_order: 18
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Durable, Asynchronous, and Tricky: Implementing MCP Tasks in Practice - Cornelia Davis, Temporal"
-description: "The speaker introduces MCP tasks and the new asynchronous protocol, noting that few in the audience have implemented them. Drawing on extensive experience in developer platforms and workflow systems, the speaker uses a concrete invoice proc..."
+description:
+  The speaker introduces MCP tasks and the new asynchronous protocol, noting
+  that few in the audience have implemented them. Drawing on extensive experience
+  in developer platforms and workflow systems, the speaker uses a concrete invoice
+  proc...
 resource: https://www.youtube.com/watch?v=CD0DlPaVdN8
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Initially, the workflow was made durable using existing tools, but the process w
 With the introduction of the MCP task protocol, tools can now be invoked asynchronously, returning a handle for status polling, result retrieval, or cancellation, and—crucially—tasks must be durable, surviving client or server failures.
 The speaker demonstrates this durability through live demos, showing how tasks persist and resume after interruptions, and explains the protocol’s architecture, message types, and state management.
 The talk concludes with enthusiasm for the new async protocol, while acknowledging the complexity of implementing async over stateful transports and expressing hope for future stateless protocol developments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                               |

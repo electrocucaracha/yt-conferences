@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Classroom To Container: Teaching Distributed Systems With CNCF & Cloud
+  Na... Matthias Haeussler"
+nav_order: 116
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Classroom To Container: Teaching Distributed Systems With CNCF & Cloud Na... Matthias Haeussler"
-description: "The speaker, a guest lecturer and cloud native consultant, shares his experience teaching distributed systems at universities in Stuttgart, focusing on integrating cloud native technologies into his curriculum. He emphasizes a hands-on appr..."
+description:
+  The speaker, a guest lecturer and cloud native consultant, shares his
+  experience teaching distributed systems at universities in Stuttgart, focusing on
+  integrating cloud native technologies into his curriculum. He emphasizes a hands-on
+  appr...
 resource: https://www.youtube.com/watch?v=7Dt5QAK9bkE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He emphasizes a hands-on approach, encouraging students to implement theoretical
 Over the years, his teaching has evolved from early web engineering with Java and Linux to leveraging modern cloud-native stacks, promoting polyglot infrastructures, and fostering creativity in student projects.
 He highlights the importance of real-world experience in academia, the benefits of using containerization and orchestration for teaching distributed systems, and showcases student projects that demonstrate understanding of concepts like scaling, load balancing, security, and observability.
 The talk concludes with encouragement for industry professionals to engage in university teaching, noting the mutual benefits for students and practitioners, and references open educational resources developed from his teaching experience.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                           |

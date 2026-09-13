@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Strengthening CNCF Projects: Impact of Security... Eddie K, Bradley A, Justin
+  C, Shuting Z & Orlin V"
+nav_order: 349
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Strengthening CNCF Projects: Impact of Security... Eddie K, Bradley A, Justin C, Shuting Z & Orlin V"
-description: "In this panel discussion, Eddie Knight introduces a session focused on security self-assessments within CNCF projects, emphasizing that the panelists’ experiences and insights are central. The panelists, representing various open source pro..."
+description:
+  In this panel discussion, Eddie Knight introduces a session focused on
+  security self-assessments within CNCF projects, emphasizing that the panelists’
+  experiences and insights are central. The panelists, representing various open source
+  pro...
 resource: https://www.youtube.com/watch?v=UXmPKG1fJt4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The panelists, representing various open source projects, describe how the self-
 They explain that self-assessments are structured documents detailing a project’s security posture, practices, and potential vulnerabilities, which not only aid external users in understanding risks but also help teams internally recognize and address weaknesses.
 The discussion highlights that the process is iterative and valuable for both compliance and genuine security improvement, often leading to joint assessments with expert input.
 Panelists advise maintainers to approach self-assessments honestly, learn from others’ assessments, and view security as an ongoing, collaborative effort, while also noting the importance of integrating security awareness into organizational culture through practical steps and clear communication.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                               |

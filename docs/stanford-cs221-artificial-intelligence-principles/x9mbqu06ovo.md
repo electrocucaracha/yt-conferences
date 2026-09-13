@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 16: Logic II"
-description: "In this lecture, the instructor introduces first order logic as a more expressive and powerful system than propositional logic, capable of representing complex statements about the world using objects, predicates, functions, variables, and..."
+nav_order: 7
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  In this lecture, the instructor introduces first order logic as a more
+  expressive and powerful system than propositional logic, capable of representing
+  complex statements about the world using objects, predicates, functions, variables,
+  and...
 resource: https://www.youtube.com/watch?v=x9Mbqu06OVo
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The lecture explains the syntax and semantics of first order logic, emphasizing 
 Logical inference in first order logic is discussed, including the use of modus ponens, substitution, and unification to derive new facts, and the limitations of propositionalization when unique names and domain closure do not hold.
 The instructor also demonstrates how to translate natural language statements into first order logic expressions, highlighting common pitfalls with quantifiers and the increased expressivity provided by variables and quantifiers.
 The lecture concludes by noting that while first order logic is powerful, it cannot express certain statements (such as proportions), which require higher order logics, and previews upcoming topics on AI and language models.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

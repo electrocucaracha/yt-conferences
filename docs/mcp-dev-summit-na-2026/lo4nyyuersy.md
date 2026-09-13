@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Declarative MCP Servers for Secure, Specialized AI Agents - Josh Reini & Reetika
+  Roy, Snowflake
+nav_order: 14
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Declarative MCP Servers for Secure, Specialized AI Agents - Josh Reini & Reetika Roy, Snowflake"
-description: "In this presentation, Josh and Ritika from Snowflake discuss the advantages of building specialized agents and MCP servers over using monolithic agents with broad tool access. They demonstrate how monolithic agents, which have access to man..."
+description:
+  In this presentation, Josh and Ritika from Snowflake discuss the advantages
+  of building specialized agents and MCP servers over using monolithic agents with
+  broad tool access. They demonstrate how monolithic agents, which have access to
+  man...
 resource: https://www.youtube.com/watch?v=Lo4nyYuERsY
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They demonstrate how monolithic agents, which have access to many tools across d
 By contrast, Snowflake’s approach involves making agents first-class entities with their own identities and layered security policies, enabling granular control over which tools and data each agent and user role can access.
 This specialization reduces hallucinations, improves performance, simplifies debugging, and enhances security by limiting the blast radius of potential issues.
 The system enforces access controls at multiple layers—agent, server, tool, and data—allowing for precise, auditable, and scalable management of agentic workloads, with coding agents further streamlining the process for security teams.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

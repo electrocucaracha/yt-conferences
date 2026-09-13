@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  To Upstream or Not? Why Becoming the Maintainer of Your Dependencies Matters
+  - Christos Markou
+nav_order: 374
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "To Upstream or Not? Why Becoming the Maintainer of Your Dependencies Matters - Christos Markou"
-description: "Christo Marco, a software engineer at Elastic and maintainer in the OpenTelemetry project, discusses the importance of becoming maintainers of open source dependencies, especially for companies that rely heavily on such projects. He highlig..."
+description:
+  Christo Marco, a software engineer at Elastic and maintainer in the OpenTelemetry
+  project, discusses the importance of becoming maintainers of open source dependencies,
+  especially for companies that rely heavily on such projects. He highlig...
 resource: https://www.youtube.com/watch?v=O77op1kKvaM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He highlights how open source technologies underpin much of the digital world, y
 Using the analogy of an open source garden, Marco explains the roles of maintainers, vendors, and community users, emphasizing the need for proper governance, transparency, and collaboration.
 He shares a real-world example involving the OpenTelemetry Collector and Kubernetes events, illustrating how active upstream involvement allowed his team to resolve technical debt and improve both the upstream project and their downstream distribution, ultimately benefiting users, maintainers, and vendors alike.
 Marco concludes by encouraging organizations to invest in open source maintenance, start small, build trust within the community, and contribute meaningfully, as this collective effort ensures the sustainability and success of open source projects.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

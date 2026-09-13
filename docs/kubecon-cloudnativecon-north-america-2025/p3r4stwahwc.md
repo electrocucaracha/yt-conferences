@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Real-World Strategies for Cutting Kubernetes Costs: Why One Size Doesn’t Fit
+  All - Dolis Sharma"
+nav_order: 254
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Real-World Strategies for Cutting Kubernetes Costs: Why One Size Doesn’t Fit All - Dolis Sharma"
-description: "The speaker discusses real-world strategies for reducing Kubernetes cloud costs, emphasizing that no single solution fits all environments due to differences in application needs and infrastructure. Key reasons for high costs include overpr..."
+description:
+  The speaker discusses real-world strategies for reducing Kubernetes cloud
+  costs, emphasizing that no single solution fits all environments due to differences
+  in application needs and infrastructure. Key reasons for high costs include overpr...
 resource: https://www.youtube.com/watch?v=p3r4StwaHWc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Key reasons for high costs include overprovisioning workloads, insufficient scal
 Solutions presented involve implementing policy-driven tools like Kyverno for automating best practices, using scaling tools such as Carpenter and Vertical Pod Autoscaler (VPA) to right-size resources, and employing cleanup policies or tools like Cloud Custodian to remove unused resources.
 The speaker highlights the importance of automating resource requests and limits, labeling for cost tracking, and starting with small, incremental policy changes to measure impact before expanding.
 The session concludes with a Q&A addressing policy enforcement and automation, and the suggestion to share practical policy examples via a public GitHub repository.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

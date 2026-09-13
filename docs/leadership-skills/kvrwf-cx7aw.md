@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How to Avoid the 4 Biggest Mistakes Every New Engineering Manager + Tech Leader
+  Makes!
+nav_order: 20
+parent: Leadership Skills
 type: Video Note
-title: "How to Avoid the 4 Biggest Mistakes Every New Engineering Manager + Tech Leader Makes!"
-description: "In this video, Doug Howard addresses the four most common mistakes new engineering managers and tech leaders make and provides practical strategies to avoid them. First, he emphasizes the importance of shifting from an individual productivi..."
+description:
+  In this video, Doug Howard addresses the four most common mistakes new
+  engineering managers and tech leaders make and provides practical strategies to
+  avoid them. First, he emphasizes the importance of shifting from an individual productivi...
 resource: https://www.youtube.com/watch?v=kVRWF-cX7Aw
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Second, he advises managers to take control of their schedules by setting bounda
 Third, he highlights the necessity of regular one-on-one meetings with team members to build trust, align objectives, and support individual growth, stressing the importance of preparation, active listening, and follow-up.
 Lastly, Doug underscores the need to acknowledge and address the knowledge gap that comes with transitioning to management by seeking mentorship, investing in learning resources, and embracing continuous feedback and improvement.
 Collectively, these points stress the significance of mindset shifts, effective time management, communication, and ongoing learning for successful leadership in engineering and tech.
+
 # Main Points
 
 |   # | Main point                                                                                          |

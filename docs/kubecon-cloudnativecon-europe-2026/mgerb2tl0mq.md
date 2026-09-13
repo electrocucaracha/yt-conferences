@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Evolving Baremetal-as-a-Service: Secure Multi-Cluster Network... Yushiro Furukawa
+  & Mitsuhiro Tanino"
+nav_order: 106
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Evolving Baremetal-as-a-Service: Secure Multi-Cluster Network... Yushiro Furukawa & Mitsuhiro Tanino"
-description: "The presentation introduces Flava, a next-generation private cloud platform developed by Edy Corporation, designed to provide unified, scalable, and reliable infrastructure across multiple regions and availability zones. Built on OpenStack..."
+description:
+  The presentation introduces Flava, a next-generation private cloud platform
+  developed by Edy Corporation, designed to provide unified, scalable, and reliable
+  infrastructure across multiple regions and availability zones. Built on OpenStack...
 resource: https://www.youtube.com/watch?v=MgerB2Tl0MQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The platform’s architecture is based on three pillars: a unified API for both 
 Key technical improvements include replacing a resource-intensive Ansible-based deployment with Kubernetes custom controllers, reducing deployment time from hours to minutes and significantly lowering operational overhead.
 The team also addressed challenges in hardware management, OS installation, and network integration, and discussed their decision to reuse existing in-house tools rather than adopting solutions like Ironic, as well as their current limitations regarding autoscaling for bare metal nodes.
 Audience questions focused on deployment strategies, infrastructure-as-code tools, autoscaling, network management, and the transition process, which resulted in substantial efficiency gains and resource savings.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

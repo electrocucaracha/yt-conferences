@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  MUST/SHOULD/MAY - A Tour of TAG Security and Compliance Project... Evan Anderson
+  & Brandt Keller
+nav_order: 158
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "MUST/SHOULD/MAY - A Tour of TAG Security and Compliance Project... Evan Anderson & Brandt Keller"
-description: "Evan Anderson and Brian Keller, leaders within CNCF’s TAG Security, discuss the group’s role in supporting projects, end users, and the broader CNCF ecosystem by providing expertise, guidance, and structured processes around security. They..."
+description:
+  Evan Anderson and Brian Keller, leaders within CNCF’s TAG Security, discuss
+  the group’s role in supporting projects, end users, and the broader CNCF ecosystem
+  by providing expertise, guidance, and structured processes around security. They...
 resource: https://www.youtube.com/watch?v=L1A1uLJXeis
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that Technical Advisory Groups (TAGs) focus on specific domains, an
 TAG Security’s main activities include facilitating security self-assessments and joint assessments for CNCF projects, maintaining a living catalog of software supply chain compromises, and producing white papers and security controls catalogs to guide best practices.
 They emphasize the importance of community involvement, both for sharing expertise and for onboarding new contributors, and highlight common challenges such as limited security expertise among project maintainers and the need for clearer communication of security postures.
 The session concludes with advice on how to get involved, the value of collaborative initiatives, and the ongoing need to support maintainers and end users in navigating cloud native security.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Designing Platforms With Judgment: Agentic Flows With MCP - Shivay Lamba &
+  Ekansh Gupta"
+nav_order: 60
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Designing Platforms With Judgment: Agentic Flows With MCP - Shivay Lamba & Ekansh Gupta"
-description: "In this session, Ianch and Shai discuss the evolution of platform engineering from traditional, reactive approaches—where human intervention is heavily required for tasks like deployment, observability, and incident management—towards more..."
+description:
+  In this session, Ianch and Shai discuss the evolution of platform engineering
+  from traditional, reactive approaches—where human intervention is heavily required
+  for tasks like deployment, observability, and incident management—towards more...
 resource: https://www.youtube.com/watch?v=nrNmqxbRzok
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that while large language models (LLMs) can provide suggestions, th
 The presenters demonstrate how MCP servers, equipped with various tools, can automate tasks such as debugging, scaling infrastructure, and even creating pull requests to fix issues, thereby reducing manual intervention.
 They showcase practical examples using open-source tools like Kagent and Docker MCP toolkit, highlighting how these systems can proactively identify and resolve problems in cloud-native environments.
 Despite these advancements, they caution that MCP is still maturing, with security and reliability concerns necessitating continued human oversight and rigorous testing before full production adoption.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                              |

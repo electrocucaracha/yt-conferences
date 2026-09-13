@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Please Make Jarvis So I Don't Have To with Kent C. Dodds from EpicAI.pro"
-description: "Katy Dods introduces herself as a teacher focused on building MCP servers and shares her vision for the future of AI assistants, inspired by the fictional Jarvis from Iron Man. She emphasizes the importance of a seamless, proactive, and mul..."
+nav_order: 17
+parent: Mcp Dev Summit Na 2025
+type: Video Note
+description:
+  Katy Dods introduces herself as a teacher focused on building MCP servers
+  and shares her vision for the future of AI assistants, inspired by the fictional
+  Jarvis from Iron Man. She emphasizes the importance of a seamless, proactive, and
+  mul...
 resource: https://www.youtube.com/watch?v=sie1xizIA4M
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ She emphasizes the importance of a seamless, proactive, and multimodal AI experi
 Katy identifies major challenges, particularly around trust, privacy, and usability, noting that non-technical users should not have to manage complex settings or integrations.
 She highlights the need for automatic tool selection, speaker distinction, proactive notifications, and quality MCP servers, as well as the integration of user interfaces beyond text.
 Through practical examples, she illustrates how MCP could enable powerful, context-aware automation for everyday tasks, and encourages the audience to contribute to building this future, expressing confidence that the necessary technology already exists.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                    |

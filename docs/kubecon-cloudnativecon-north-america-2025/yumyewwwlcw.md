@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Taming the AI Hydra: Real-World Lessons in Governin... Brian Fox, Sarah Evans
+  & Christopher Robinson"
+nav_order: 302
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Taming the AI Hydra: Real-World Lessons in Governin... Brian Fox, Sarah Evans & Christopher Robinson"
-description: "The panel discusses the complex challenges of AI governance, likening the rapid proliferation and evolving risks of AI models to the mythical hydra, where solving one problem often leads to new ones. Panelists from the Open Source Security..."
+description:
+  The panel discusses the complex challenges of AI governance, likening
+  the rapid proliferation and evolving risks of AI models to the mythical hydra, where
+  solving one problem often leads to new ones. Panelists from the Open Source Security...
 resource: https://www.youtube.com/watch?v=YuMYeWwWLCw
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Panelists from the Open Source Security Foundation, Dell Technologies, and Sonat
 They emphasize that the widespread use of AI models, especially by non-experts, increases the risk of vulnerabilities, supply chain attacks, and data exfiltration, with AI tools sometimes recommending outdated or non-existent dependencies, which attackers exploit.
 Effective governance now requires collaboration among diverse teams—including security, compliance, data science, and engineering—and building on established DevSecOps practices while adapting to new AI-specific risks.
 The panel concludes that organizations must remain flexible, proactive, and collaborative in their governance approaches, leveraging existing knowledge but also preparing for stricter regulations and the unpredictable evolution of AI technologies.
+
 # Main Points
 
 |   # | Main point                                                                                                                              |

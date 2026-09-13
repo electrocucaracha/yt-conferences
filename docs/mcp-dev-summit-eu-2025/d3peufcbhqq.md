@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "[Session] One Test a Day Keeps the Issues Away with Oleksandr Kotov - Grafana
+  Labs"
+nav_order: 9
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Session] One Test a Day Keeps the Issues Away with Oleksandr Kotov - Grafana Labs"
-description: "Alexander introduces the importance of testing MCP servers, emphasizing that testing provides confidence, mitigates risks, and improves user satisfaction by ensuring software reliability and security. He explains the distinction between fun..."
+description:
+  Alexander introduces the importance of testing MCP servers, emphasizing
+  that testing provides confidence, mitigates risks, and improves user satisfaction
+  by ensuring software reliability and security. He explains the distinction between
+  fun...
 resource: https://www.youtube.com/watch?v=D3pEufcBHQQ
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains the distinction between functional and non-functional testing, focus
 Alexander demonstrates how to use the open-source tool K6 for performance testing, including writing basic and extended tests, utilizing custom extensions for MCP protocols, and visualizing results with Grafana dashboards.
 He discusses setting thresholds for automated CI testing, simulating various load patterns such as constant, ramping, spike, and soak tests to identify bottlenecks and potential failures.
 Finally, he highlights the ability to use K6 for both performance and functional testing, encourages integrating these tests into CI pipelines, and stresses the importance of acting on test results to derive real value.
+
 # Main Points
 
 |   # | Main point                                                                                                                  |

@@ -1,11 +1,22 @@
 ---
+layout: default
+title: What LLMs Do, and Don't, Know About Securing Kubernetes - Rory McCune, Datadog
+nav_order: 395
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "What LLMs Do, and Don't, Know About Securing Kubernetes - Rory McCune, Datadog"
-description: "The speaker presents an in-depth exploration of how large language models (LLMs) and agentic AI perform in Kubernetes security tasks, detailing a series of experiments using five current models across four test categories: manifest creation..."
+description:
+  "The speaker presents an in-depth exploration of how large language models
+  (LLMs) and agentic AI perform in Kubernetes security tasks, detailing a series of
+  experiments using five current models across four test categories: manifest creation..."
 resource: https://www.youtube.com/watch?v=jgx4J1z7POM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Results showed significant variation in model performance depending on the task,
 Key findings include the importance of precise prompts for security hardening, the prevalence and danger of hallucinations, and the models’ tendency to use outdated knowledge or attempt unintended shortcuts when stuck.
 The speaker emphasizes the necessity of validating LLM outputs, isolating their execution environments to prevent unintended actions, and carefully vetting any external “skills” used to patch knowledge gaps.
 Overall, while LLMs can be useful for mainstream Kubernetes security tasks with proper safeguards, their unpredictable failures and evolving capabilities require ongoing caution and rigorous validation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                            |

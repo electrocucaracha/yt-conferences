@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "MCP Meets Java: Engineering the MCP Java SDK - Dariusz Jędrzejczyk, Broadcom"
-description: "Darius from Broadcom’s Spring OSS team discusses the development of the official Java SDK for MCP, highlighting Java’s longstanding enterprise adoption, strong integration capabilities, and performance advantages due to the JVM. The SDK was..."
+nav_order: 57
+parent: Mcp Dev Summit Na 2026
+type: Video Note
+description:
+  Darius from Broadcom’s Spring OSS team discusses the development of the
+  official Java SDK for MCP, highlighting Java’s longstanding enterprise adoption,
+  strong integration capabilities, and performance advantages due to the JVM. The
+  SDK was...
 resource: https://www.youtube.com/watch?v=SeXqcwkLOrk
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The SDK was designed to enable quick experimentation and production readiness, o
 The team navigated evolving MCP transport protocols by introducing dedicated implementations for different transport types, ensuring clarity and reducing errors.
 They also addressed challenges around concurrency, streaming, and authorization by building on Java’s multi-threading features, using reactive streams, and providing hooks for integration with established enterprise frameworks without re-implementing security solutions.
 The SDK remains open to extension, supports pluggable JSON parsing, and aims to evolve alongside Java’s advancements, with future plans for a unified, loom-friendly API and ongoing work to achieve tier one conformance with the latest MCP specifications.
+
 # Main Points
 
 |   # | Main point                                                                                                                    |

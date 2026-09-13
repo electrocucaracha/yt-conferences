@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 2: Learning I"
-description: "The lecture covers the concepts of tensors, the einsum function, computation graphs, gradients, backpropagation, and linear regression in machine learning. It begins by explaining tensors as fundamental data structures in modern machine lea..."
+nav_order: 13
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture covers the concepts of tensors, the einsum function, computation
+  graphs, gradients, backpropagation, and linear regression in machine learning. It
+  begins by explaining tensors as fundamental data structures in modern machine lea...
 resource: https://www.youtube.com/watch?v=ypZJaTqrNdk
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ It begins by explaining tensors as fundamental data structures in modern machine
 The speaker then demonstrates how computation graphs can represent complex functions as compositions of simple operations, enabling efficient calculation of gradients using the backpropagation algorithm, which leverages the chain rule.
 The lecture transitions to linear regression, outlining the process of defining a hypothesis class (set of possible predictors), a loss function to measure prediction error, and the use of optimization algorithms like gradient descent to find parameters that minimize the loss.
 Throughout, the importance of gradients for guiding parameter updates and the general workflow of supervised learning—defining predictors, evaluating them with loss functions, and optimizing parameters—is emphasized as foundational to machine learning.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                       |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Beyond the Edge: Cloud Native Application Management Under Ex... Tobias Nöthlich
+  & Maximilian Nitsch"
+nav_order: 28
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Beyond the Edge: Cloud Native Application Management Under Ex... Tobias Nöthlich & Maximilian Nitsch"
-description: "In this presentation, Tubius and Maximan, R&D engineers from a Dston-based company, discuss their efforts to enable cloud-native application management in space and other extreme network environments. They outline the unique challenges of d..."
+description:
+  In this presentation, Tubius and Maximan, R&D engineers from a Dston-based
+  company, discuss their efforts to enable cloud-native application management in
+  space and other extreme network environments. They outline the unique challenges
+  of d...
 resource: https://www.youtube.com/watch?v=9YjpYZVz6_4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ To address these, they leverage Delay and Disruption Tolerant Networking (DTN) a
 Their solution involves extending Kubernetes and Helm with a custom plugin, "helm dtn," and using their DTN protocol implementation, "microdtn," to package and transfer all necessary application dependencies as a single archive to remote clusters, overcoming connectivity issues.
 Additionally, they developed a custom resource definition, "Dgate," to manage ingress and egress of application data over DTN links, enabling reliable communication between space and Earth-based clusters.
 The presentation concludes with key takeaways about the importance of DTN for space networking, current limitations, and future work, including autonomous deployment, improved security, and practical testing with satellites.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

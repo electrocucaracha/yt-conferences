@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Opening Remarks - Jim Zemlin"
-description: "The third MCP DevSummit opened in New York with excitement over the event’s significant growth since its small beginnings last year. The speakers highlighted the community’s passion for interoperability and openness in AI, noting the format..."
+nav_order: 48
+parent: Mcp Dev Summit Na 2026
+type: Video Note
+description:
+  The third MCP DevSummit opened in New York with excitement over the event’s
+  significant growth since its small beginnings last year. The speakers highlighted
+  the community’s passion for interoperability and openness in AI, noting the format...
 resource: https://www.youtube.com/watch?v=iTtMKaTsBFU
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ The speakers highlighted the community’s passion for interoperability and open
 The Linux Foundation has now taken responsibility for nurturing the MCP ecosystem, aiming to replicate its success with other foundational technologies.
 The event featured a record number of attendees, thanks to strong sponsorship and a dedicated program committee, and announced an expanded global event series in cities such as Bangalore, Tokyo, and Nairobi, as well as new marquee events in Europe and North America.
 Additionally, it was announced that Masin Gilbert, with a background in neural networks and business leadership, will succeed Jim Zlin as executive director of the AAF.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                   |

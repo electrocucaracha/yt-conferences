@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Building Protected MCP Servers with MCP - Den Delimarsky from Microsoft"
-description: "The speaker, a Microsoft engineer, introduces a new draft authorization specification for the Model Context Protocol (MCP), developed collaboratively with the MCP community and partners like Okta and AWS. This specification separates the re..."
+nav_order: 13
+parent: Mcp Dev Summit Na 2025
+type: Video Note
+description:
+  The speaker, a Microsoft engineer, introduces a new draft authorization
+  specification for the Model Context Protocol (MCP), developed collaboratively with
+  the MCP community and partners like Okta and AWS. This specification separates the
+  re...
 resource: https://www.youtube.com/watch?v=jwDHkWZ6V3U
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ This specification separates the resource server from the authorization server, 
 The new C# MCP SDK makes it simple for developers to add secure authorization to their MCP servers with minimal configuration, supporting various identity providers and focusing on ease of use and extensibility.
 The demo shows how both server and client code can be quickly set up to handle authorization flows, token validation, and integration with tools like Visual Studio Code, emphasizing developer ergonomics and plug-and-play functionality.
 The speaker concludes by highlighting that the SDK is designed to be accessible even for those without deep security expertise and invites further questions about the project.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                      |

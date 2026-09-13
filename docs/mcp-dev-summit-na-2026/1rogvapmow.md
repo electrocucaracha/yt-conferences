@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Keynote: MCP @ Amazon Scale - James Hood, Principal Software Engineer, Amazon
+  Web Services"
+nav_order: 44
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Keynote: MCP @ Amazon Scale - James Hood, Principal Software Engineer, Amazon Web Services"
-description: "James Hood, a senior principal engineer at Amazon, shares his journey from AI skepticism to advocacy after experiencing significant advancements in AI technologies, particularly with reasoning models, agentic chat, and MCP in early 2025. He..."
+description:
+  James Hood, a senior principal engineer at Amazon, shares his journey
+  from AI skepticism to advocacy after experiencing significant advancements in AI
+  technologies, particularly with reasoning models, agentic chat, and MCP in early
+  2025. He...
 resource: https://www.youtube.com/watch?v=-1roGvApmOw
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He describes how his personal breakthrough led him to foster an internal communi
 Hood explains that Amazon faces unique challenges at scale, including decentralized teams, specialized internal tools, and stringent security requirements, but emphasizes that MCP remains central to Amazon’s AI strategy despite claims of its obsolescence.
 The company has expanded its internal MCP registry to support new agentic primitives like skills and agent configurations, enabling teams to share and manage AI capabilities more effectively while addressing security concerns.
 Ultimately, Hood asserts that MCP is far from dead, and that combining various AI primitives through agent configurations, along with thoughtful management of context windows, is key to Amazon’s ongoing AI transformation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Building a Kubernetes Platform That Scales From SaaS To Self-Managed - Florian
+  Forster, GitLab
+nav_order: 34
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Building a Kubernetes Platform That Scales From SaaS To Self-Managed - Florian Forster, GitLab"
-description: "Florian, an SRE and tech lead at GitLab, discusses how GitLab is evolving its platform to scale from single-node self-managed installations to its large-scale SaaS offering. He explains that GitLab’s monolithic Ruby on Rails architecture, w..."
+description:
+  Florian, an SRE and tech lead at GitLab, discusses how GitLab is evolving
+  its platform to scale from single-node self-managed installations to its large-scale
+  SaaS offering. He explains that GitLab’s monolithic Ruby on Rails architecture,
+  w...
 resource: https://www.youtube.com/watch?v=vjF8HjM76wA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that GitLab’s monolithic Ruby on Rails architecture, while effecti
 Initially, runway leveraged Google Cloud Run for rapid deployment, but this approach did not meet the needs of self-managed customers due to vendor lock-in and regulatory requirements.
 To address this, GitLab is transitioning to Kubernetes and Helm charts as open standards, enabling consistent deployment across SaaS and self-managed environments while maintaining a streamlined developer experience.
 The team is also working to balance modularity with simplicity, ensuring backward compatibility and supporting existing installation methods like Omnibus, while providing tools and frameworks to ease infrastructure provisioning and application integration for both internal teams and customers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                  |

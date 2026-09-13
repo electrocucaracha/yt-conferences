@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Lessons Applied Building a Next-generation AI Proxy - John Howard, Solo.io
+nav_order: 147
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Lessons Applied Building a Next-generation AI Proxy - John Howard, Solo.io"
-description: "John Howard from Solo.io discusses the evolution of network proxies, highlighting the shift from early solutions like Apache and NGINX to Envoy, which addressed the needs of microservices. With the rise of AI workloads, new requirements suc..."
+description:
+  John Howard from Solo.io discusses the evolution of network proxies,
+  highlighting the shift from early solutions like Apache and NGINX to Envoy, which
+  addressed the needs of microservices. With the rise of AI workloads, new requirements
+  suc...
 resource: https://www.youtube.com/watch?v=qa5vSE86z-s
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ With the rise of AI workloads, new requirements such as LLM observability, token
 However, the introduction of the Model Context Protocol (MCP) revealed limitations in Envoy’s extensibility, leading to the creation of Agent Gateway—a new proxy built from the ground up in Rust, optimized for Kubernetes and AI-native use cases.
 Agent Gateway natively supports leading AI protocols (MCP, LLM, A2A), traditional gateway features, and emphasizes simplicity, performance, and user-centric design by minimizing complexity and aligning internal models with user-facing APIs.
 Performance benchmarks show significant improvements over Envoy-based solutions, especially in handling dynamic workloads and AI-specific traffic, and the project is open source under the Linux Foundation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                            |

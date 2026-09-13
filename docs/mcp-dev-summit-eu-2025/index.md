@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Mcp Dev Summit Eu 2025"
+has_children: true
+nav_order: 12
+---
+
 # Mcp Dev Summit Eu 2025
 
 ## Concepts

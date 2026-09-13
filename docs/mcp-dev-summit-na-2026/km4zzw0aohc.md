@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Building ChatGPT Apps: Principles for a New Kind of Interface - Elliot Garreffa,
+  Ghost Team"
+nav_order: 3
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Building ChatGPT Apps: Principles for a New Kind of Interface - Elliot Garreffa, Ghost Team"
-description: "In this talk, Elliot Graff, co-founder of Ghost Team, discusses key principles for designing ChatGPT and MCP (multi-client platform) apps, emphasizing the shift from the traditional, fragmented web to an intent-based web where users prompt..."
+description:
+  In this talk, Elliot Graff, co-founder of Ghost Team, discusses key principles
+  for designing ChatGPT and MCP (multi-client platform) apps, emphasizing the shift
+  from the traditional, fragmented web to an intent-based web where users prompt...
 resource: https://www.youtube.com/watch?v=Km4ZZW0Aohc
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Drawing on extensive data from tracking major app stores, he highlights the impo
 Graff stresses the need to build apps that leverage the model’s context and memory, support multi-turn conversations, and use negative constraints to prevent errors or hallucinations.
 He also notes the significant differences between testing in staging environments and live usage, recommending realistic, large-scale, in-client testing.
 Finally, he advises keeping apps simple and focused on refined intents, as those with fewer, well-designed tools tend to perform better in terms of user engagement and invocation rates.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

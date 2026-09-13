@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Experto en Liderazgo: cómo convertirte en un LÍDER que INSPIRA | Luis Fallas"
-description: "Luis Fallas, fundador y presidente del Centro de Superación Personal, comparte su historia de superación personal y profesional, marcada por una infancia con creencias limitantes y una etapa de depresión tras la separación de su primer matr..."
+nav_order: 36
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  Luis Fallas, fundador y presidente del Centro de Superación Personal,
+  comparte su historia de superación personal y profesional, marcada por una infancia
+  con creencias limitantes y una etapa de depresión tras la separación de su primer
+  matr...
 resource: https://www.youtube.com/watch?v=JGA0nv3BYn0
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Inspirado por un cassette motivacional, cambió su mentalidad y se dedicó al de
 Fallas enfatiza la importancia de tener un sueño, encontrar un propósito de vida y aplicar lo aprendido, destacando que el liderazgo verdadero consiste en inspirar a otros y servir con el ejemplo.
 Además, resalta la necesidad de sanar heridas emocionales, cerrar ciclos, ser agradecido, reconocer errores y mantenerse en aprendizaje continuo, advirtiendo que el mayor enemigo del liderazgo es el ego.
 Finalmente, motiva a los oyentes a creer en sí mismos, rodearse de personas que los impulsen y nunca rendirse ante las dificultades, recordando que el éxito es un proceso y que lo esencial es lo que llevamos por dentro.
+
 # Main Points
 
 |   # | Main point                                                                                                            |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  The Best Way to Introduce Yourself In Any Setting | Follow This Simple 3 Step
+  Formula!
+nav_order: 38
+parent: Leadership Skills
 type: Video Note
-title: "The Best Way to Introduce Yourself In Any Setting | Follow This Simple 3 Step Formula!"
-description: "In this video, Doug Howard, a mentor and career coach for engineers, emphasizes the critical importance of first impressions and effective self-introductions. He explains that people form opinions within the first three seconds of meeting s..."
+description:
+  In this video, Doug Howard, a mentor and career coach for engineers,
+  emphasizes the critical importance of first impressions and effective self-introductions.
+  He explains that people form opinions within the first three seconds of meeting
+  s...
 resource: https://www.youtube.com/watch?v=1asPX0qBGAw
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that people form opinions within the first three seconds of meeting 
 Doug outlines three key reasons why strong introductions matter: they set the momentum for the interaction, allow both parties to assess each other, and project confidence through both verbal and non-verbal cues.
 He introduces a simple three-step formula for crafting impactful introductions—present, past, future—encouraging viewers to start with their current role or focus, share relevant background or experiences, and express genuine enthusiasm for upcoming opportunities.
 Doug concludes by inviting viewers to reflect on their own challenges with introductions and to engage in the discussion.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                              |

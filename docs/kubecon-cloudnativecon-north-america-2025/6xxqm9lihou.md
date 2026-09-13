@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Building Scalable End-to-end Latency Metrics From Distributed Trace - Kusha
+  Maharshi, Bloomberg
+nav_order: 32
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Building Scalable End-to-end Latency Metrics From Distributed Trace - Kusha Maharshi, Bloomberg"
-description: "Kosha Mahersi, a senior software engineer at Bloomberg, presents how her team built a scalable system for generating end-to-end latency metrics using distributed tracing. She explains that Bloomberg’s telemetry infrastructure team supports..."
+description:
+  Kosha Mahersi, a senior software engineer at Bloomberg, presents how
+  her team built a scalable system for generating end-to-end latency metrics using
+  distributed tracing. She explains that Bloomberg’s telemetry infrastructure team
+  supports...
 resource: https://www.youtube.com/watch?v=6xxqm9LIhoU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Traditional methods for tracking end-to-end latency were insufficient, so the te
 To generate latency metrics at scale, they developed two main approaches: one aggregates trace bundles by rule to ensure all relevant spans are processed together, while the other uses a partial DFS handoff between processing instances to address load imbalance.
 Mahersi discusses the trade-offs of each method, such as memory load and handling fan-in patterns, and notes that while their system does not currently address clock skew, it provides flexible rule-based latency tracking essential for monitoring, alerting, and improving reliability in distributed systems.
 The talk concludes with a Q&A covering technical details like state management, time drift, Kafka partitioning, and rule configuration.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                         |

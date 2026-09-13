@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "[Session] OAuth Everywhere: What I Learned Building MCP Clients, Servers,
+  & the Gateway Between Them"
+nav_order: 31
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Session] OAuth Everywhere: What I Learned Building MCP Clients, Servers, & the Gateway Between Them"
-description: "Donnie Adams, a software architect at OTO AI, discusses the team's experience building an MCP gateway with a unique architecture that allows a single URL to be shared across users, each authenticating with their own Outlook account. He outl..."
+description:
+  Donnie Adams, a software architect at OTO AI, discusses the team's experience
+  building an MCP gateway with a unique architecture that allows a single URL to be
+  shared across users, each authenticating with their own Outlook account. He outl...
 resource: https://www.youtube.com/watch?v=UjMYWi-tkP0
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He outlines technical and user challenges encountered, particularly with OAUTH i
 Adams highlights improvements coming to the MCP specification, including explicit scope requirements in the www-authenticate header and better flows for handling insufficient scopes, which will enhance user experience by reducing the need for manual credential resets.
 He also touches on ongoing issues with authorization server metadata, dynamic client registration, and MCP request IDs, noting the rapid evolution of the MCP spec and the importance of adapting to these changes.
 The talk concludes with an invitation to explore OTO AI's open-source projects, Obot and Nanobot, which embody these architectural and protocol learnings.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

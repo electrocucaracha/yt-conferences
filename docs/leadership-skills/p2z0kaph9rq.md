@@ -1,11 +1,22 @@
 ---
+layout: default
+title: 3 Powerful Techniques That Will Improve Your Patience and Focus
+nav_order: 4
+parent: Leadership Skills
 type: Video Note
-title: "3 Powerful Techniques That Will Improve Your Patience and Focus"
-description: "In this video, Doug Howard, a licensed structural engineer and engineering manager, emphasizes the significant negative impact that losing your temper at work can have on your career, even if it happens only once. He explains the difference..."
+description:
+  In this video, Doug Howard, a licensed structural engineer and engineering
+  manager, emphasizes the significant negative impact that losing your temper at work
+  can have on your career, even if it happens only once. He explains the difference...
 resource: https://www.youtube.com/watch?v=P2z0Kaph9RQ
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains the difference between self-control and patience, noting that patien
 Howard describes the physiological effects of impatience, such as the shutdown of the prefrontal cortex and activation of the amygdala, which can lead to uncharacteristic and damaging behavior.
 He stresses that patience is a crucial soft skill for engineers, as impatience can harm professional reputations and hinder career advancement.
 To develop patience, he recommends keeping an impatience journal to identify triggers, creating tactical plans to handle common triggers, and strengthening memory through training, offering practical examples and resources to help engineers improve this essential skill.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                    |

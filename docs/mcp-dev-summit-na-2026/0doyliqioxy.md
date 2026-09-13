@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Operating MCP in the Enterprise: From Protocol To Production - Amar Deep Singh
+  & Neelabh Tripathi"
+nav_order: 70
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Operating MCP in the Enterprise: From Protocol To Production - Amar Deep Singh & Neelabh Tripathi"
-description: "Amardep Singh and Nilab, experienced IT and engineering architects, discuss the challenges and considerations of moving AI protocols, particularly large language models (LLMs) and agentic frameworks, from experimentation to production in en..."
+description:
+  Amardep Singh and Nilab, experienced IT and engineering architects, discuss
+  the challenges and considerations of moving AI protocols, particularly large language
+  models (LLMs) and agentic frameworks, from experimentation to production in en...
 resource: https://www.youtube.com/watch?v=0dOYliqioxY
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that while LLMs can generate insights from trained data, integratin
 Unlike traditional, deterministic application flows, agentic systems operate dynamically based on user intent, making decisions and recommendations through tool integrations, which introduces complexities in observability, security, compliance, and integration with legacy systems.
 The speakers emphasize the need for robust platform architecture with pillars such as security, governance, observability, model abstraction, and runtime orchestration to ensure operational efficiency, scalability, and compliance.
 They conclude that, due to the probabilistic and evolving nature of AI agents, maintaining human oversight, strong governance, and comprehensive observability is essential for safe and effective enterprise deployment.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Panel: AI Infra Best Practices: Enterprise Do’s and Don’ts - Madhuri Yechuri
+  & Andrew Leung"
+nav_order: 11
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Panel: AI Infra Best Practices: Enterprise Do’s and Don’ts - Madhuri Yechuri & Andrew Leung"
-description: "The discussion centers on Uber’s extensive experience building and operating AI infrastructure, particularly on Kubernetes, for both predictive models and emerging LLM-based use cases. Andrew Le Young from Uber explains that Uber’s AI power..."
+description:
+  The discussion centers on Uber’s extensive experience building and operating
+  AI infrastructure, particularly on Kubernetes, for both predictive models and emerging
+  LLM-based use cases. Andrew Le Young from Uber explains that Uber’s AI power...
 resource: https://www.youtube.com/watch?v=KETngElEQ_k
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -18,6 +31,7 @@ serving).
 The company has migrated from on-prem data centers to a multicloud strategy, which introduces challenges in data and compute locality, disaster recovery, and GPU resource fungibility across providers and hardware types.
 Uber’s lessons include the importance of disaggregating CPU and GPU tasks to improve utilization, building platform-agnostic metrics for observability, and preparing for a diverse accelerator ecosystem.
 Key advice for enterprises is to carefully consider the placement of data lakes relative to compute, avoid hardware and cluster silos, and design infrastructure for flexibility and efficient resource sharing as AI workloads and hardware diversity grow.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                      |

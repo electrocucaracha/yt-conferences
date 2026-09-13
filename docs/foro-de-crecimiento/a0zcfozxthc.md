@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Dolor crónico, masa muscular y los secretos de la longevidad | Alan Abruch
+nav_order: 15
+parent: Foro De Crecimiento
 type: Video Note
-title: "Dolor crónico, masa muscular y los secretos de la longevidad | Alan Abruch"
-description: "En este episodio, se aborda la importancia fundamental del ejercicio y la fuerza muscular como una necesidad biológica para la salud y la longevidad, especialmente en la prevención y manejo del dolor crónico, que afecta a un alto porcentaje..."
+description:
+  En este episodio, se aborda la importancia fundamental del ejercicio
+  y la fuerza muscular como una necesidad biológica para la salud y la longevidad,
+  especialmente en la prevención y manejo del dolor crónico, que afecta a un alto
+  porcentaje...
 resource: https://www.youtube.com/watch?v=A0zCfoZxthc
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ El especialista Alan Abru explica que el dolor crónico es multifactorial y no d
 Se destaca que el ejercicio de fuerza, realizado al menos tres veces por semana durante 20 minutos, no solo mejora la postura y la masa muscular, sino que también tiene efectos positivos en la salud metabólica, cardiovascular, cognitiva y ósea, gracias a la liberación de mioquinas.
 Además, se enfatiza la importancia de la variabilidad de estímulos físicos, la flexibilidad, la interacción social y el establecimiento de anclas emocionales o motivaciones personales para mantener hábitos saludables a largo plazo.
 Finalmente, se ofrecen ejercicios prácticos de pausas activas para romper el sedentarismo y se invita a los oyentes a encontrar su propio "por qué" para cuidar su salud integral.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

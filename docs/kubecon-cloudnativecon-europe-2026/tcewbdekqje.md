@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Breaking the Monolith: Decomposing and Governing Giant LLM Jobs Across Clusters
+  - Kevin Wang, Huawei"
+nav_order: 31
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Breaking the Monolith: Decomposing and Governing Giant LLM Jobs Across Clusters - Kevin Wang, Huawei"
-description: "Kevin Juan discusses his experience as a maintainer and member of the technical oversight committee, focusing on challenges and solutions in multicluster AI workload management. He explains that while multicluster setups offer unified manag..."
+description:
+  Kevin Juan discusses his experience as a maintainer and member of the
+  technical oversight committee, focusing on challenges and solutions in multicluster
+  AI workload management. He explains that while multicluster setups offer unified
+  manag...
 resource: https://www.youtube.com/watch?v=tCeWbdekqJE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that while multicluster setups offer unified management and resource
 Traditional monolithic job scheduling leads to resource inefficiency, prompting the development of projects like Volcano and Kamada to improve scheduling and resource sharing across clusters.
 The new Volcano Global subproject and the Hyper Job API aim to enable more flexible, federated job splitting and scheduling, particularly for large AI training workloads, by supporting advanced parallelism strategies and dynamic resource allocation.
 Kevin highlights ongoing improvements, such as smarter job splitting policies and better support for data and pipeline parallelism, and encourages the community to explore the released tools and contribute to future enhancements.
+
 # Main Points
 
 |   # | Main point                                                                                                                              |

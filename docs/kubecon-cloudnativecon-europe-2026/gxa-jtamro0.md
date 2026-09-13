@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Non-Functional Requirements: Building Scalable, Resilient and
+  Secure... Jakub Krzywda"
+nav_order: 40
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Non-Functional Requirements: Building Scalable, Resilient and Secure... Jakub Krzywda"
-description: "In this talk, Yakub Shiva, a cloud native architect at Elasticis, discusses the importance of considering non-functional requirements—such as scalability, resilience, and security—when designing application architectures, beyond just the ba..."
+description:
+  In this talk, Yakub Shiva, a cloud native architect at Elasticis, discusses
+  the importance of considering non-functional requirements—such as scalability, resilience,
+  and security—when designing application architectures, beyond just the ba...
 resource: https://www.youtube.com/watch?v=GXa_jTamRo0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that while functional requirements define what a system should do, n
 Shiva outlines key qualities for cloud native systems, including loose coupling, observability, automation (CI/CD), and security by design, emphasizing the shared responsibilities between application platforms and developers.
 He provides practical insights into how platforms should offer robust infrastructure—like replicated databases, logging stacks, and automated deployment pipelines—while developers must implement best practices in areas such as logging, security, and resource management.
 The talk concludes by stressing that leveraging cloud native platforms can greatly aid in meeting non-functional requirements, but developers must actively collaborate with these platforms and continually assess how to best utilize their capabilities during the design process.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

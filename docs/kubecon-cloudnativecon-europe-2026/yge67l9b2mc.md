@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Rook: Intro and Deep Dive With Ceph Storage - Artem Torubarov, Deepika Upadhyay
+  & Niels de Vos"
+nav_order: 311
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Rook: Intro and Deep Dive With Ceph Storage - Artem Torubarov, Deepika Upadhyay & Niels de Vos"
-description: "The presenters introduce Rook, an open-source operator that simplifies deploying and managing Ceph (SE) storage within Kubernetes clusters, automating installation, configuration, and updates using Kubernetes-native patterns. They explain R..."
+description:
+  The presenters introduce Rook, an open-source operator that simplifies
+  deploying and managing Ceph (SE) storage within Kubernetes clusters, automating
+  installation, configuration, and updates using Kubernetes-native patterns. They
+  explain R...
 resource: https://www.youtube.com/watch?v=ygE67l9b2Mc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain Rook’s architecture, highlighting its flexibility to run on cloud
 Key features include customizable replication for data resiliency, efficient handling of small persistent volumes, seamless scaling, and recent enhancements such as improved CSI driver support, NVMe-oF gateway integration, and erasure coding for better storage efficiency.
 A case study details SAP’s migration to Rook and Ceph, managing 120 petabytes across 15 regions with robust maintenance and upgrade processes, demonstrating Rook’s reliability and scalability in production.
 The talk also covers technical aspects of the Ceph CSI driver, including support for multiple storage backends, encryption, volume snapshots, disaster recovery, and the benefits and trade-offs of erasure coding, with ongoing improvements aimed at further simplifying and optimizing storage management in Kubernetes environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                          |

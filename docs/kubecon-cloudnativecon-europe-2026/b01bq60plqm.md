@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Audit-Ready Kubernetes: How Chase UK Leveraged Policy as Code for Co... Jim
+  Bugwadia & Nischay Goyal"
+nav_order: 21
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Audit-Ready Kubernetes: How Chase UK Leveraged Policy as Code for Co... Jim Bugwadia & Nischay Goyal"
-description: "The video discusses how platform engineers can automate the process of making Kubernetes clusters audit-ready, particularly in highly regulated environments like banking. The speakers, Jim Beuia from Nirmata and Nisha from JP Morgan Chase U..."
+description:
+  The video discusses how platform engineers can automate the process of
+  making Kubernetes clusters audit-ready, particularly in highly regulated environments
+  like banking. The speakers, Jim Beuia from Nirmata and Nisha from JP Morgan Chase
+  U...
 resource: https://www.youtube.com/watch?v=B01BQ60PLqM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The speakers, Jim Beuia from Nirmata and Nisha from JP Morgan Chase UK, outline 
 They describe their transition from manual, inconsistent compliance processes to adopting Kyverno, a Kubernetes-native policy engine that simplifies policy creation, integrates reporting and exception management, and supports automation across the resource lifecycle.
 By implementing Kyverno, Chase UK achieved significant improvements in compliance, automation, and reporting, enabling developers and security teams to collaborate more effectively and reducing engineering effort.
 The speakers also share key learnings, such as the importance of testing policies in CI, starting enforcement early, and clearly distinguishing between policy exceptions and skipped resources.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                       |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Experto en negocios: las 5 etapas para construir una empresa! | Daniel Marcos
+  #47"
+nav_order: 44
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en negocios: las 5 etapas para construir una empresa! | Daniel Marcos #47"
-description: "En esta entrevista, Daniel Marcos, emprendedor y experto en escalamiento de negocios, explica que existen tres tipos de emprendedores: el escalador de montaña, que busca resolver grandes problemas y crear empresas de alto impacto; el pelead..."
+description:
+  "En esta entrevista, Daniel Marcos, emprendedor y experto en escalamiento
+  de negocios, explica que existen tres tipos de emprendedores: el escalador de montaña,
+  que busca resolver grandes problemas y crear empresas de alto impacto; el pelead..."
 resource: https://www.youtube.com/watch?v=j2LcEkxyINA
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ En esta entrevista, Daniel Marcos, emprendedor y experto en escalamiento de nego
 Marcos enfatiza la importancia de diseñar la empresa según la mentalidad del fundador y el tamaño real del mercado, advirtiendo que es más fácil crear una empresa de mil millones de dólares si se resuelve un problema de ese tamaño.
 Describe las cinco etapas del crecimiento empresarial, desde validar el producto hasta escalar y consolidar la empresa, y señala que muchos emprendedores fracasan por enamorarse de la solución y no del problema.
 Finalmente, recomienda tener un plan de vida personal, además del plan de negocios, para evitar que la empresa controle la vida del emprendedor y lograr un equilibrio entre éxito profesional y bienestar personal.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |

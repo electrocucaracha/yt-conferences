@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Simplifying Advanced AI Model Serving on Kubernetes Using Helm... Ajay Vohra
+  & Tianlu Caron Zhang
+nav_order: 280
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Simplifying Advanced AI Model Serving on Kubernetes Using Helm... Ajay Vohra & Tianlu Caron Zhang"
-description: "In this session, Karen John from Apple and AJ Vora from AWS discuss the complexities of serving advanced AI models on Kubernetes and present a solution using Helm charts. They outline the typical AI model serving stack, highlighting challen..."
+description:
+  In this session, Karen John from Apple and AJ Vora from AWS discuss the
+  complexities of serving advanced AI models on Kubernetes and present a solution
+  using Helm charts. They outline the typical AI model serving stack, highlighting
+  challen...
 resource: https://www.youtube.com/watch?v=PVB2hW8PuAM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They outline the typical AI model serving stack, highlighting challenges such as
 The speakers explain that embedding configurations in container images hampers rapid development, while externalizing them reduces reproducibility, and propose using declarative packaging with Helm charts to templatize and version configurations efficiently.
 They demonstrate how Helm charts, combined with Kubernetes APIs like deployments, leader-worker sets, and Ray service APIs, can flexibly support both single-node and multi-node inference scenarios, enabling rapid experimentation and reproducibility.
 The session concludes with a demo showing how AI can help generate Helm values for new models, and a Q&A addressing choices around Helm versus custom operators, scaling mechanisms, and the open-ended nature of their templating approach.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                       |

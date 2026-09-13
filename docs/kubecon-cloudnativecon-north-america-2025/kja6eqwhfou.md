@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Manifesting Millions: No Luck Required, Just Tenacity - Emily Long, Edera"
-description: "The speaker, a first-time founder with a background in tech and financial services, shares candid insights and practical advice about the challenging process of startup fundraising. Emphasizing that fundraising is psychologically demanding..."
+nav_order: 164
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  The speaker, a first-time founder with a background in tech and financial
+  services, shares candid insights and practical advice about the challenging process
+  of startup fundraising. Emphasizing that fundraising is psychologically demanding...
 resource: https://www.youtube.com/watch?v=KjA6eQwhFoU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Emphasizing that fundraising is psychologically demanding and often misrepresent
 She highlights the necessity of having a clear, concise pitch deck, the value of storytelling over technical details, and strategies for handling skepticism, rejection, and unconscious bias—especially for women and nontraditional founders.
 The speaker advises founders to be organized, seek supportive investors, avoid overvaluing their companies, and always consult a lawyer before accepting terms.
 Ultimately, she stresses the importance of conviction, resilience, and self-belief, encouraging aspiring founders to persevere despite the inherent difficulties of the fundraising journey.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                           |

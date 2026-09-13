@@ -1,11 +1,24 @@
 ---
+layout: default
+title: "If the LLM Can't Find You, You Don't Exist: Discoverability for MCP-Apps
+  and Chat... Vincent McLeese"
+nav_order: 37
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "If the LLM Can't Find You, You Don't Exist: Discoverability for MCP-Apps and Chat... Vincent McLeese"
-description: 'In this talk, Vitam, CTO and co-founder of Ghost Team, discusses the challenges and strategies around the discoverability of ChatGPT and MCP apps. He explains that after launching an app, developers face a "black box" where it''s unclear how...'
+description:
+  In this talk, Vitam, CTO and co-founder of Ghost Team, discusses the
+  challenges and strategies around the discoverability of ChatGPT and MCP apps. He
+  explains that after launching an app, developers face a "black box" where it's unclear
+  how...
 resource: https://www.youtube.com/watch?v=mTlfhStD3VE
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that after launching an app, developers face a "black box" where it'
 Through analysis of 148 live apps and over 15,000 simulations, his team identified three foundational strategies for improving discoverability: live LLM monitoring to track invocation rates and model behavior, conversational testing using realistic, messy prompts to reflect actual user interactions, and continuous optimization of tool descriptions and metadata.
 Vitam emphasizes that clear, well-crafted tool descriptions and ongoing iteration are crucial, as even small changes can significantly impact success rates, and the landscape is rapidly evolving, much like early SEO practices.
 He concludes by encouraging developers to adopt a cycle of monitoring and improvement to stay competitive as organic discoverability becomes more prevalent in MCP app ecosystems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

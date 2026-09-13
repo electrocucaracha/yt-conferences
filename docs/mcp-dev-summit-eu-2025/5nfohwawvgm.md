@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] From Embeddings to Edges: A Graph Based Approach to Tool Selection"
-description: "The speaker discusses challenges in tool call selection within MCP (Multi-Connector Platform) systems, emphasizing that current solutions often require users to explicitly specify tool names, which is impractical as the number of tools grow..."
+nav_order: 7
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  The speaker discusses challenges in tool call selection within MCP (Multi-Connector
+  Platform) systems, emphasizing that current solutions often require users to explicitly
+  specify tool names, which is impractical as the number of tools grow...
 resource: https://www.youtube.com/watch?v=5nFOhwAwVGM
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They highlight research showing that large tool sets significantly reduce select
 Existing approaches—such as tool sets, search-based methods, and agentic retrieval—have drawbacks like poor user experience, added latency, and increased costs.
 To address these, the speaker proposes a graph-based approach, where tools and their relationships are represented as nodes and edges, allowing for more efficient selection strategies based on criteria like cost, speed, or centrality.
 By bootstrapping a knowledge graph of tools using LLMs and leveraging algorithms to find optimal paths, this method improves tool call accuracy and user experience, as demonstrated with a ClickUp integration example, and opens up new possibilities for dynamic and scalable tool management.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

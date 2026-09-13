@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 13: Bayesian Networks and Gibbs Sampling"
-description: "The lecture continues the discussion on Bayesian networks, focusing on representing uncertainty and performing probabilistic inference. After reviewing the structure of Bayesian networks—defining variables, constructing a dependency graph..."
+nav_order: 4
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture continues the discussion on Bayesian networks, focusing on
+  representing uncertainty and performing probabilistic inference. After reviewing
+  the structure of Bayesian networks—defining variables, constructing a dependency
+  graph...
 resource: https://www.youtube.com/watch?v=Dk7Kqqehzjk
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +29,7 @@ Rejection sampling is simple but inefficient when evidence is rare, while Gibbs 
 The concept of the Markov blanket is introduced to optimize Gibbs sampling by focusing only on relevant variables.
 The lecture concludes with an introduction to conditional independence in Bayesian networks, showing how the network’s graph structure can reveal when variables are independent or conditionally independent, and outlines a graphical procedure for determining these relationships.
 Next, the course will address learning the parameters of Bayesian networks.
+
 # Main Points
 
 |   # | Main point                                                                                                                                               |

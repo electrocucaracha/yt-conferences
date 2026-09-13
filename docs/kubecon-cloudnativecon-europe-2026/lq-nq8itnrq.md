@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Beyond Stateless: Distributed Transactions with Autoscaling and Consistency
+  on K... Jumpei Nishitani"
+nav_order: 26
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Beyond Stateless: Distributed Transactions with Autoscaling and Consistency on K... Jumpei Nishitani"
-description: "In this CubeCom session, Jere Nishani, a software engineer at Hitachi, challenges the long-held belief that strong consistency and scalability are mutually exclusive in distributed systems. He explains the fragility of traditional online tr..."
+description:
+  In this CubeCom session, Jere Nishani, a software engineer at Hitachi,
+  challenges the long-held belief that strong consistency and scalability are mutually
+  exclusive in distributed systems. He explains the fragility of traditional online
+  tr...
 resource: https://www.youtube.com/watch?v=Lq-nQ8iTnrQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains the fragility of traditional online transaction processing (OLTP) sy
 Nishani introduces a new approach based on contract law principles, mapping them to technical properties like consistency, atomicity, and durability, and presents the Paxos Commit Transaction Orchestrator (PCT), a cloud-native transaction monitor designed for Kubernetes.
 This architecture separates transaction management from business logic, uses distributed consensus for robust and scalable coordination, and leverages reactive processing to maintain low response times regardless of the number of microservices.
 Through this design, Nishani demonstrates that it is possible to achieve both strong consistency and seamless autoscaling, offering a practical solution for modern, resilient distributed systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                 |

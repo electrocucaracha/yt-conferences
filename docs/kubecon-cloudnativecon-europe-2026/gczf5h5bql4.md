@@ -1,11 +1,23 @@
 ---
+layout: default
+title: SIG-Windows Updates - Claudiu Belu, Cloudbase Solutions & JR Valdes, Red Hat
+nav_order: 322
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "SIG-Windows Updates - Claudiu Belu, Cloudbase Solutions & JR Valdes, Red Hat"
-description: "In this SIG Windows maintainer track session, Claudia and Jar present updates on Kubernetes support for Windows, highlighting recent enhancements such as improved kube-proxy fixes, expanded platform logic for image selection, and full test..."
+description:
+  In this SIG Windows maintainer track session, Claudia and Jar present
+  updates on Kubernetes support for Windows, highlighting recent enhancements such
+  as improved kube-proxy fixes, expanded platform logic for image selection, and full
+  test...
 resource: https://www.youtube.com/watch?v=GCzF5h5BQl4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They discuss multiple methods for adding Windows nodes to Kubernetes clusters, i
 The session features a demo on deploying Hyper-V isolated containers, which offer enhanced security by running each workload in a microVM, and a demonstration of using K0S and KZCTL to easily set up a mixed Linux and Windows Kubernetes cluster.
 The presenters acknowledge community contributions, announce leadership changes within SIG Windows, and encourage participation in meetings and discussions.
 The Q&A addresses deployment support across various cloud providers and emphasizes the simplicity of adding Windows nodes with proper SSH access.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                      |

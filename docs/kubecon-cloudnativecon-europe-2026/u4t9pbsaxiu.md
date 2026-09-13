@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Vitess: More Data, No Problems - Matt Lord & Rohit Nayak, PlanetScale"
-description: "In this presentation, Matt and Rohit from PlanetScale discuss Vitess, an open-source database clustering system designed to help organizations scale their MySQL data layer efficiently as their data grows. Vitess enables users to move from a..."
+nav_order: 389
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  In this presentation, Matt and Rohit from PlanetScale discuss Vitess,
+  an open-source database clustering system designed to help organizations scale their
+  MySQL data layer efficiently as their data grows. Vitess enables users to move from
+  a...
 resource: https://www.youtube.com/watch?v=u4T9PbsaxIU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Vitess enables users to move from a single MySQL server to a sharded, distribute
 The system is widely used by major companies such as Slack, GitHub, Square, and Uber, and is designed to be managed by small teams through extensive automation, resilience, and self-healing features.
 Key concepts include keyspaces, shards, Vschema, and Vindexes, which facilitate data partitioning and routing, as well as tools for online migrations, materialized views, and change data capture.
 Vitess emphasizes principles of distributed computing such as isolation, redundancy, automated recovery, and zero-downtime upgrades, leveraging MySQL’s reliability and focusing on deliberate design choices to achieve both performance and resilience at scale.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

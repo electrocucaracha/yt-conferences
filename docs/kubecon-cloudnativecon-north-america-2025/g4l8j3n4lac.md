@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  “Do You Even Merge?” - Welcome To Maintainers Life... Nitish Kumar, Verónica
+  López & Lee Calcote
+nav_order: 349
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "“Do You Even Merge?” - Welcome To Maintainers Life... Nitish Kumar, Verónica López & Lee Calcote"
-description: "In this CubeCon talk, maintainers Natesh, Veronica, and Lee discuss the realities and challenges of open source project maintenance, emphasizing that the visible tasks—such as merging pull requests and reviewing code—are only a small part o..."
+description:
+  In this CubeCon talk, maintainers Natesh, Veronica, and Lee discuss the
+  realities and challenges of open source project maintenance, emphasizing that the
+  visible tasks—such as merging pull requests and reviewing code—are only a small
+  part o...
 resource: https://www.youtube.com/watch?v=g4L8J3N4lac
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They highlight the importance of setting boundaries, saying no or delaying featu
 The speakers stress that code reviews, security patches, and release coordination require significant unseen effort, and that contributors should read documentation, provide context, and approach maintainers with respect and openness.
 For users, they recommend providing detailed information when reporting issues or requesting features, and understanding that maintainers must balance many demands.
 Ultimately, the talk encourages empathy and collaboration, reminding the community that healthy boundaries and clear processes help sustain open source projects.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                  |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "From 60 Minutes To 60 Seconds: Production MCP Workflows for Healthcare Billing
+  - Andrew Espira"
+nav_order: 25
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "From 60 Minutes To 60 Seconds: Production MCP Workflows for Healthcare Billing - Andrew Espira"
-description: "Andre Spira, co-founder of Custod, discusses the challenges in healthcare billing, emphasizing that the main issue is not data availability but the lack of an orchestration layer to streamline information for billers and providers. He expla..."
+description:
+  Andre Spira, co-founder of Custod, discusses the challenges in healthcare
+  billing, emphasizing that the main issue is not data availability but the lack of
+  an orchestration layer to streamline information for billers and providers. He expla...
 resource: https://www.youtube.com/watch?v=1lOWizbNBSg
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that medical billers face inefficiencies due to scattered data and c
 Custod’s RCM platform addresses these problems by building a knowledge layer and using APIs and agents to aggregate and deliver relevant billing information in a single prompt, reducing manual effort and errors.
 The system includes security layers and agent orchestration to ensure data privacy and accurate tool selection, with mechanisms for human review and feedback loops to improve model performance.
 Spira also highlights ongoing efforts to enhance security, integrate payer rules, and open source their protocols to benefit the broader community.
+
 # Main Points
 
 |   # | Main point                                                                                                        |

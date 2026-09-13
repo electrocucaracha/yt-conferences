@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Shaping LTS Together: What We’ve Learned the... Nikhita R, Nikhila K, Micah
+  H, Jeremy R & Aniket P"
+nav_order: 277
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Shaping LTS Together: What We’ve Learned the... Nikhita R, Nikhila K, Micah H, Jeremy R & Aniket P"
-description: "The panel discussion focused on the challenges and lessons learned in implementing Long-Term Support (LTS) for Kubernetes, especially as the Kubernetes LTS working group is winding down. Panelists from major companies such as Broadcom, AWS..."
+description:
+  The panel discussion focused on the challenges and lessons learned in
+  implementing Long-Term Support (LTS) for Kubernetes, especially as the Kubernetes
+  LTS working group is winding down. Panelists from major companies such as Broadcom,
+  AWS...
 resource: https://www.youtube.com/watch?v=z5152J_nFmw
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Panelists from major companies such as Broadcom, AWS, Canonical, and Microsoft h
 They discussed the complexities of determining support timelines, the importance of aligning support across all releases for consistency, and the difficulties of backporting security fixes and maintaining compatibility with a rapidly evolving ecosystem.
 The conversation also addressed misconceptions about the ease of LTS, the significant resource requirements, and the reasons behind the working group’s closure, noting that while the need for LTS remains, much of the responsibility has shifted to vendors’ commercial offerings.
 The panel concluded that although the working group is ending, the demand for LTS persists, and future community efforts may arise if needs change.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                 |

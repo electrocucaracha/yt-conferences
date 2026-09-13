@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Kubernetes SIG-Windows Updates - Mark Rossetti, Microsoft & Jose Valdes, Red
+  Hat
+nav_order: 142
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Kubernetes SIG-Windows Updates - Mark Rossetti, Microsoft & Jose Valdes, Red Hat"
-description: "The Kubernetes SIG Windows project maintainer talk, led by Mark Rosetti from Microsoft and J.R. from Red Hat, provided an overview of the evolution and current state of Windows node support in Kubernetes. The presenters discussed recent enh..."
+description:
+  The Kubernetes SIG Windows project maintainer talk, led by Mark Rosetti
+  from Microsoft and J.R. from Red Hat, provided an overview of the evolution and
+  current state of Windows node support in Kubernetes. The presenters discussed recent
+  enh...
 resource: https://www.youtube.com/watch?v=08q8UsJV_3Y
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ from Red Hat, provided an overview of the evolution and current state of Windows
 The presenters discussed recent enhancements, including improvements to kube-proxy, updated documentation for Windows networking, and the progression of graceful node shutdown from alpha to beta, which now allows Windows nodes to handle shutdown signals more reliably.
 They highlighted the addition of stable CI coverage for Windows Server 2025, the introduction of container image portability across Windows Server versions, and the implementation of the node log query feature for consistent log retrieval across Windows and Linux nodes.
 The team emphasized the need for more community contributions, particularly to achieve feature parity with Linux, and encouraged feedback and participation to help prioritize future work and address ongoing challenges such as stability and adapting new features for Windows workloads.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

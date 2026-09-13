@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Lourdes Enríquez: Build a Successful Character | Growth Session #1"
-description: "En esta conversación se abordan temas fundamentales para el desarrollo personal y profesional, destacando la importancia de alimentar la parte intangible de la vida, como los sueños, la visión y el amor propio, más allá de los logros materi..."
+nav_order: 56
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En esta conversación se abordan temas fundamentales para el desarrollo
+  personal y profesional, destacando la importancia de alimentar la parte intangible
+  de la vida, como los sueños, la visión y el amor propio, más allá de los logros
+  materi...
 resource: https://www.youtube.com/watch?v=f_vOP8mU69s
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Se enfatiza que el miedo y los patrones aprendidos pueden limitar el crecimiento
 El concepto de "banco emocional" se presenta como el activo interno que permite enfrentar retos y persistir, siendo más relevante que el dinero en el banco.
 Además, se resalta la necesidad de equilibrar acción y descanso, evitar el ego, mantener una mejora continua y construir relaciones personales sanas.
 Finalmente, se recomienda estudiar y trabajar antes de emprender para adquirir estructura y disciplina, y se comparten las cinco fuerzas para emprender: cuidar la energía, superar el miedo, aprender finanzas, amarse a uno mismo y comprender las leyes del universo, concluyendo que el amor y la conexión con los sueños son esenciales para una vida plena y significativa.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                    |

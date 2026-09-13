@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Building MARVIN: What Teaching a Non-Technical Marketer To Use MCP Taught
+  Me About... Sterling Chin"
+nav_order: 4
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Building MARVIN: What Teaching a Non-Technical Marketer To Use MCP Taught Me About... Sterling Chin"
-description: "Sterling, a founding developer relations and applied AI engineer at Ingest and former Postman employee, shares his journey of building Marvin, a personal AI assistant designed to streamline workflows by maintaining long-term context using m..."
+description:
+  Sterling, a founding developer relations and applied AI engineer at Ingest
+  and former Postman employee, shares his journey of building Marvin, a personal AI
+  assistant designed to streamline workflows by maintaining long-term context using
+  m...
 resource: https://www.youtube.com/watch?v=g1zZXm_6Bx8
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Initially created to solve his own productivity challenges, Marvin evolved from 
 Through onboarding experiences, particularly with a marketer named Liv, Sterling learned the importance of simplifying technical concepts, focusing on clear language, and teaching users to "think like builders" rather than just providing tools.
 He emphasizes treating AI agents like new hires—investing time to build context and enable independent operation—and highlights that curiosity-driven adoption, rather than top-down mandates, led to Marvin’s organic spread across teams.
 Sterling concludes by advocating for user-friendly design, better APIs, and empowering users, noting that Marvin’s success has resulted in broader adoption, new features, and a positive impact on work-life balance.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

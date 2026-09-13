@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Context Middleware for MCP: From Enterprise Needs To Protocol Extension -
+  Peder Holdgaard Pedersen"
+nav_order: 12
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Context Middleware for MCP: From Enterprise Needs To Protocol Extension - Peder Holdgaard Pedersen"
-description: "Peter, an MCP maintainer and developer at Saxo Bank, discusses the evolution of context middleware in AI systems, reflecting on the earlier popularity of retrieval-augmented generation (RAG) and its limitations, particularly in ensuring acc..."
+description:
+  Peter, an MCP maintainer and developer at Saxo Bank, discusses the evolution
+  of context middleware in AI systems, reflecting on the earlier popularity of retrieval-augmented
+  generation (RAG) and its limitations, particularly in ensuring acc...
 resource: https://www.youtube.com/watch?v=-X5lx3IOu7M
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He shares his experience proposing an "augmentations" capability for MCP to bett
 Peter highlights the importance of standardized middleware—such as validation, mutation, and observability interceptors—to provide guardrails, manage sensitive data, and enable flexible, composable pipelines for enterprise and agentic use cases.
 He describes a new proposal for protocol-level middleware that allows for easy integration and configuration of these interceptors, aiming to address the current fragmented ecosystem and improve security, compliance, and developer experience.
 Peter encourages community engagement with the proposal, emphasizing that standardizing middleware will benefit platform teams, AI engineers, and enterprises by making advanced context management more accessible and robust.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

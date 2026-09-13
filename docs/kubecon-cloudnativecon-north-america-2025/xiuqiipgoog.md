@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Optimizing Multi-Agent LLM Workloads With AMD GPUs and Kueue - Yuchen Fama,
+  Jodie Su & Zhiming Shen
+nav_order: 193
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Optimizing Multi-Agent LLM Workloads With AMD GPUs and Kueue - Yuchen Fama, Jodie Su & Zhiming Shen"
-description: "The presentation, led by representatives from Cognality, AMD, and AXeller, focused on optimizing large language model (LLM) serving stacks through cross-layer collaboration, particularly addressing the challenge of maximizing GPU utilizatio..."
+description:
+  The presentation, led by representatives from Cognality, AMD, and AXeller,
+  focused on optimizing large language model (LLM) serving stacks through cross-layer
+  collaboration, particularly addressing the challenge of maximizing GPU utilizatio...
 resource: https://www.youtube.com/watch?v=XiuqiIpGoOg
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The speakers described how static GPU allocation leads to resource waste and pro
 They demonstrated how fine-grained GPU fractionalization—dividing GPU memory at the gigabyte level and virtualizing GPUs—enables multiple agents and background tasks to efficiently share high-end AMD GPUs, such as the MI325, without sacrificing latency or performance.
 A live demo illustrated how agentic workflows, using prompt chaining across three agents, could be run alongside background jobs by dynamically allocating fractional GPU resources, thereby improving overall cluster efficiency.
 The session concluded with a Q&A clarifying that the approach generalizes to any Kubernetes-managed resource and that GPU partitioning can be as fine as 1 GB of memory or 1% compute power, with strict enforcement of resource limits by the fractional GPU solution.
+
 # Main Points
 
 |   # | Main point                                                                                                                                 |

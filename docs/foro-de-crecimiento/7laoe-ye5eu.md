@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "How to Make the Impossible Possible: Fernando Anzures and the Formula for
+  Connecting with the Gre..."
+nav_order: 50
+parent: Foro De Crecimiento
 type: Video Note
-title: "How to Make the Impossible Possible: Fernando Anzures and the Formula for Connecting with the Gre..."
-description: "En esta entrevista, Fernando Anzures, emprendedor y fundador de Exma, comparte su trayectoria en la industria de eventos y su filosofía de crecimiento personal y profesional. Relata los desafíos que ha enfrentado, como la cancelación de eve..."
+description:
+  En esta entrevista, Fernando Anzures, emprendedor y fundador de Exma,
+  comparte su trayectoria en la industria de eventos y su filosofía de crecimiento
+  personal y profesional. Relata los desafíos que ha enfrentado, como la cancelación
+  de eve...
 resource: https://www.youtube.com/watch?v=7lAOE_YE5eU
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Relata los desafíos que ha enfrentado, como la cancelación de eventos por terr
 Anzures explica el modelo de Exma, enfocado en una educación disruptiva basada en experiencias, acción y marketing, y destaca la importancia de construir una red de contactos sólida, tener una mentalidad abierta y resiliente, y ofrecer valor único para acceder a nuevos círculos.
 Además, subraya que el crecimiento y la educación continua son esenciales en un mundo cambiante, y que los eventos deben ser experiencias transformadoras que combinen entretenimiento, aprendizaje y empoderamiento.
 Finalmente, invita a mantener una actitud de aprendizaje constante y a buscar siempre crecer tanto a nivel personal como profesional.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Wasm't That Easy: Securing MCP With Wasm Sandboxes - Jiaxiao Zhou, Microsoft
+  & Taylor Thomas, Akuity"
+nav_order: 18
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Wasm't That Easy: Securing MCP With Wasm Sandboxes - Jiaxiao Zhou, Microsoft & Taylor Thomas, Akuity"
-description: "In this talk, Joe from Microsoft Azure and Taylor from Acuy discuss the security risks associated with running MCP (Machine Control Protocol) servers and tools, particularly when users copy and run arbitrary binaries or scripts from untrust..."
+description:
+  In this talk, Joe from Microsoft Azure and Taylor from Acuy discuss the
+  security risks associated with running MCP (Machine Control Protocol) servers and
+  tools, particularly when users copy and run arbitrary binaries or scripts from untrust...
 resource: https://www.youtube.com/watch?v=fSSjxqx7cCg
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Through live demonstrations, they show how both direct execution and containeriz
 They introduce WebAssembly (WASM) and its component model as a more secure alternative, highlighting its strong typing, introspectability, and deny-by-default sandboxing, which allows for granular permission controls and easier static analysis of components.
 Their open source project, Waset, leverages these WASM features to securely run MCP tools, blocking unauthorized network access and exfiltration attempts by default.
 The presenters encourage the community to try out Waset, contribute to the WASM ecosystem, and join discussions on improving security practices for MCP and related tooling.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                      |

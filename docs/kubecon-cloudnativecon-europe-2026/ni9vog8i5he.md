@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Evolving KServe: The Unified Model Inference Platform for Both Predic... Filippe
+  Spolti & JooHoo Lee"
+nav_order: 107
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Evolving KServe: The Unified Model Inference Platform for Both Predic... Filippe Spolti & JooHoo Lee"
-description: "Phillip and Julie, senior engineers at Red Hat, introduce KServe, an open-source project for serving AI and machine learning models on Kubernetes. They explain that KServe abstracts the complexity of deploying and managing models, supportin..."
+description:
+  Phillip and Julie, senior engineers at Red Hat, introduce KServe, an
+  open-source project for serving AI and machine learning models on Kubernetes. They
+  explain that KServe abstracts the complexity of deploying and managing models, supportin...
 resource: https://www.youtube.com/watch?v=nI9VOG8I5HE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that KServe abstracts the complexity of deploying and managing mode
 The team highlights recent developments, such as support for large language models (LLMs) through LLMD, efficient caching mechanisms, and advanced routing using the Kubernetes Gateway API and gateway inference extension.
 They demonstrate how KServe simplifies complex deployments, including multi-GPU setups and optimized inference workflows, and emphasize its growing adoption, active community, and openness to new contributors.
 The session concludes with an invitation to join the project and a group selfie with the audience.
+
 # Main Points
 
 |   # | Main point                                                                                                             |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: Getting (and Staying) up To Speed on DRA With the DRA Example
+  Driver - Jon Huhn"
+nav_order: 148
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Lightning Talk: Getting (and Staying) up To Speed on DRA With the DRA Example Driver - Jon Huhn"
-description: "John Hune, a software engineer at Microsoft, introduces dynamic resource allocation (DRA) in Kubernetes, which enables workloads with specialized hardware requirements, such as AI and ML, to better express and fulfill their needs. DRA is im..."
+description:
+  John Hune, a software engineer at Microsoft, introduces dynamic resource
+  allocation (DRA) in Kubernetes, which enables workloads with specialized hardware
+  requirements, such as AI and ML, to better express and fulfill their needs. DRA
+  is im...
 resource: https://www.youtube.com/watch?v=GVuutzZ5rHY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ DRA is implemented through new Kubernetes APIs that manage resource slices (avai
 DRA drivers, typically developed by device vendors, advertise and configure devices for workloads, but for those without access to specialized hardware, the DRA example driver offers a simple way to experiment with DRA on any Kubernetes cluster, including local setups.
 The example driver provides mock devices and sample configurations, making it a valuable tool for learning, testing integrations, and supporting projects like SIG scalability and Slinky.
 John encourages feedback and contributions to the example driver to help demonstrate new DRA features and invites users to connect via Slack or GitHub for support.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                           |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "From Laptop to Cluster: Running AI Workloads Seamlessly from Podman... Ashley
+  Cui & Urvashi Mohnani"
+nav_order: 121
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Laptop to Cluster: Running AI Workloads Seamlessly from Podman... Ashley Cui & Urvashi Mohnani"
-description: "In this talk, Roishi Manani and Ashley from Red Hat discuss how to seamlessly run AI workloads from a laptop to a Kubernetes cluster using container technologies. They outline the recent evolution of AI, from the rise of chatbots like ChatG..."
+description:
+  In this talk, Roishi Manani and Ashley from Red Hat discuss how to seamlessly
+  run AI workloads from a laptop to a Kubernetes cluster using container technologies.
+  They outline the recent evolution of AI, from the rise of chatbots like ChatG...
 resource: https://www.youtube.com/watch?v=6DkdGa2G7W0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They outline the recent evolution of AI, from the rise of chatbots like ChatGPT 
 To address the challenges of securely and easily deploying custom-tuned AI models, they introduce tools such as Ramal Lama, which packages AI models as OCI artifacts for easy sharing and deployment, and Podman, a rootless container engine that emphasizes security and can run both locally and in production.
 Through a live demo, they show how to use Ramal Lama and Podman to containerize an LLM and an agentic AI, run them together in a pod, and then migrate the workload to Kubernetes by converting the model into a suitable image and generating the necessary YAML configuration.
 They also demonstrate how Quadlet can be used to manage these containers as systemd services for edge or single-node environments, highlighting the flexibility and reusability of container-based workflows for AI applications.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

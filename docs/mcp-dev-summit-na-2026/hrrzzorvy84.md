@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Putting the Single Back in Single Sign-On: Cross-App Access for MCP - Paul
+  Carleton & Max Gerber"
+nav_order: 75
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Putting the Single Back in Single Sign-On: Cross-App Access for MCP - Paul Carleton & Max Gerber"
-description: "In this presentation, Paul Carlton and Max Gerber discuss the challenges of OAuth consent screens in enterprise environments, highlighting how they create unnecessary friction for both end users and IT administrators. They explain that, unl..."
+description:
+  In this presentation, Paul Carlton and Max Gerber discuss the challenges
+  of OAuth consent screens in enterprise environments, highlighting how they create
+  unnecessary friction for both end users and IT administrators. They explain that,
+  unl...
 resource: https://www.youtube.com/watch?v=HRrzzORvy84
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that, unlike consumer scenarios where users control their data, ent
 The speakers introduce the IETF draft "identity assertion JWT authorization grant" (ID JAG), also known as cross app access (XAA), which allows IT admins to preconfigure access policies and remove the need for user consent screens by shifting consent decisions to the admin level.
 Through live demonstrations, they show how XAA enables seamless, consent-free access to multiple applications, centralizes policy control, and improves auditability and attribution.
 The talk concludes by emphasizing that XAA reduces friction, enhances security and manageability, and opens the door to more granular and session-specific access controls in enterprise systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                      |

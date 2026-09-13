@@ -1,11 +1,23 @@
 ---
+layout: default
+title: The Power of a Dream - Consuelo Hernandez | Session 30
+nav_order: 68
+parent: Foro De Crecimiento
 type: Video Note
-title: "The Power of a Dream - Consuelo Hernandez | Session 30"
-description: "En esta entrevista, Consuelo Hernández, empresaria, conferencista y experta en desarrollo humano, reflexiona sobre la importancia de tener un sueño o anhelo profundo en la vida. Explica que los sueños, grandes o pequeños, son esenciales par..."
+description:
+  En esta entrevista, Consuelo Hernández, empresaria, conferencista y experta
+  en desarrollo humano, reflexiona sobre la importancia de tener un sueño o anhelo
+  profundo en la vida. Explica que los sueños, grandes o pequeños, son esenciales
+  par...
 resource: https://www.youtube.com/watch?v=jn7ZokHfxcE
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Explica que los sueños, grandes o pequeños, son esenciales para elevar la conc
 Consuelo sostiene que los sueños no solo benefician al soñador, sino que, entre más incluyan a otros seres, más luz y valor aportan al mundo.
 Destaca que los sueños buscan materializarse a través de nosotros y que la mayor tragedia es no luchar por ellos, pues cuando un soñador cumple su sueño, este permanece y contribuye al progreso de la humanidad.
 Finalmente, Consuelo comparte su propio sueño de inspirar a las personas a sentir amor por el mundo y resalta la grandeza del alma humana, invitando a todos a descubrir y realizar sus propios sueños.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

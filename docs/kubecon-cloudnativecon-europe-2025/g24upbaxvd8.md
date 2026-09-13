@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  Enhancing Software Composition Analysis Resilience Against Contai... Agathe
+  Blaise & Jacopo Bufalino
+nav_order: 86
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Enhancing Software Composition Analysis Resilience Against Contai... Agathe Blaise & Jacopo Bufalino"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=G24upbAXVd8
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +25,7 @@ Researchers analyzed various tools for container vulnerability analysis and foun
 The researchers also conducted an analysis of real-world containers and found that over 10% of them contain obuscation techniques, including OS package information, dependency offuscation, URL autheis, alias and link offiscation, and pack ofcation.
 To mitigate these issues, the researchers developed an open-source tool called ORCA, which can reconstruct a container image's content from its layers and metadata.
 The goal is to find a balance between transparency and image size reduction.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

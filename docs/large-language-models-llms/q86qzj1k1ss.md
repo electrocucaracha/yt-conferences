@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 9 - Recap & Current
+  Trends
+nav_order: 9
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 9 - Recap & Current Trends"
-description: "In the final lecture of CM295, the instructors provided a comprehensive recap of the course, tracing the evolution of language models from early tokenization and word embeddings through RNNs to the transformer architecture, highlighting key..."
+description:
+  In the final lecture of CM295, the instructors provided a comprehensive
+  recap of the course, tracing the evolution of language models from early tokenization
+  and word embeddings through RNNs to the transformer architecture, highlighting key...
 resource: https://www.youtube.com/watch?v=Q86qzJ1K1Ss
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They discussed the scaling of large language models (LLMs), efficient training t
 The lecture also covered advanced topics including reasoning chains, retrieval-augmented generation (RAG), tool use, and evaluation methods leveraging LLMs as judges, while addressing biases and benchmarks.
 In the second part, they explored trending topics like the adaptation of transformers to non-text domains (e.g., vision transformers), the emergence of diffusion-based LLMs for faster and more flexible text generation, and the cross-pollination of techniques between vision and language models.
 The session concluded with reflections on ongoing research challenges—such as data quality, architectural choices, hardware optimization, and future directions in cost-effective, smaller models and democratized agentic workflows—while encouraging students to stay engaged with the rapidly evolving field.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

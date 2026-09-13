@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Multi-Cluster Configuration Management With KubeStellar
+  - Andy Anderson"
+nav_order: 277
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Multi-Cluster Configuration Management With KubeStellar - Andy Anderson"
-description: "The speaker introduces Coupe Stellar Console in Amsterdam, highlighting its evolution from Cube Stellar Legacy, which focused on deployment and orchestration, to a fully integrated, AI-powered Kubernetes management and orchestration solutio..."
+description:
+  The speaker introduces Coupe Stellar Console in Amsterdam, highlighting
+  its evolution from Cube Stellar Legacy, which focused on deployment and orchestration,
+  to a fully integrated, AI-powered Kubernetes management and orchestration solutio...
 resource: https://www.youtube.com/watch?v=OjxgoDvl82w
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The console is designed for multi-cluster management, deduplicates clusters, and
 It leverages GitHub agentic workflows and AI tools like Claude, Gemini, and Copilot to automate common Kubernetes tasks using natural language, allowing users to save and share their workflows.
 Supporting over 185 CNCF projects, the console enables users to perform complex, aggregate operations—such as compliance audits or deploying multiple tools—without manual command-line work.
 The platform is community-driven, features a marketplace and knowledge base, and offers a demo mode for quick installation, aiming to streamline Kubernetes operations for modern teams.
+
 # Main Points
 
 |   # | Main point                                                                                                          |

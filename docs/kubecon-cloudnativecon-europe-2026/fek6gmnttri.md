@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: The CRA and What it Means for Open Source Communities - Greg Kroah-Hartman"
-description: "The speaker discusses the impact of the EU’s Cyber Resilience Act (CRA) on software developers and maintainers, emphasizing that while the legislation will affect everyone involved with software, its requirements for individual developers a..."
+nav_order: 183
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  The speaker discusses the impact of the EU’s Cyber Resilience Act (CRA)
+  on software developers and maintainers, emphasizing that while the legislation will
+  affect everyone involved with software, its requirements for individual developers
+  a...
 resource: https://www.youtube.com/watch?v=FEk6gmnttRI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The CRA is likened to a list of ingredients for food, requiring devices to discl
 The law distinguishes between developers (individuals), stewards (foundations like Linux Foundation or Apache), and companies, clarifying that only foundations and companies have specific obligations, such as providing a security contact and reporting security issues.
 Developers and consultants are largely unaffected unless their open source projects are incorporated into products, at which point the responsibility shifts to manufacturers and stewards.
 The speaker reassures the audience that best practices, such as using security.txt, issuing CVEs, and generating software bills of materials, already align with CRA requirements, and there is ample time before full implementation, with standards still being developed and resources available for further guidance.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

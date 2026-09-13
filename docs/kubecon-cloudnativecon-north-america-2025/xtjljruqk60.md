@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Scaling Generative AI: Building Production-Ready LLM Applications - Daniel
+  Oh & Kevin Dubois, IBM"
+nav_order: 272
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Scaling Generative AI: Building Production-Ready LLM Applications - Daniel Oh & Kevin Dubois, IBM"
-description: "In this session, Daniel O and Kevin, both experienced Java developers and contributors to CNCF, discuss building production-ready AI applications with a focus on open-source tools and improving developer experience. They emphasize the impor..."
+description:
+  In this session, Daniel O and Kevin, both experienced Java developers
+  and contributors to CNCF, discuss building production-ready AI applications with
+  a focus on open-source tools and improving developer experience. They emphasize
+  the impor...
 resource: https://www.youtube.com/watch?v=XtJLJRUQk60
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They emphasize the importance of integrating AI models, such as LLMs, into tradi
 The presenters highlight key considerations for production, including prompt engineering, guardrails, observability, and orchestration of multiple agents and tools, particularly in Kubernetes environments.
 They showcase a live demo of creating an AI-infused Java application, leveraging Quarkus’s development features and MCP integration, and explain how these tools streamline development and deployment.
 Finally, they introduce Open Data Hub as an opinionated platform for scaling AI solutions in production, encouraging developers to experiment locally and then transition to robust, cloud-native infrastructures.
+
 # Main Points
 
 |   # | Main point                                                                                                                   |

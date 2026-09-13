@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Fit-to-Serve: How a New DRA Capability for Dynamic Device... Sunyanan Choochotkaew
+  & Tatsuhiro Chiba"
+nav_order: 4
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Fit-to-Serve: How a New DRA Capability for Dynamic Device... Sunyanan Choochotkaew & Tatsuhiro Chiba"
-description: "The presentation discusses optimizing distributed AI model inference serving, focusing on resource allocation and scheduling challenges in Kubernetes environments. The speakers highlight the complexity of balancing workloads due to varying..."
+description:
+  The presentation discusses optimizing distributed AI model inference
+  serving, focusing on resource allocation and scheduling challenges in Kubernetes
+  environments. The speakers highlight the complexity of balancing workloads due to
+  varying...
 resource: https://www.youtube.com/watch?v=j6zkGxrxm6o
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The speakers highlight the complexity of balancing workloads due to varying mode
 They introduce the Device Resource Allocation (DRA) framework and its new consumable capacity feature, which allows more flexible and granular allocation of device resources—such as partitioning GPUs for multiple workloads and sharing resources more efficiently.
 Through a demonstration, they show how DRA enables dynamic allocation and scheduling of GPU resources based on actual workload needs, preventing both underutilization and resource contention.
 The talk concludes by encouraging feedback and further exploration of these features to improve large-scale AI inference serving.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                              |

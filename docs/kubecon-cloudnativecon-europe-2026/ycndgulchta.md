@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cutting Metrics Traffic, Cutting Costs: The AZ-Aware Observ... Iris Dyrmishi
+  & Rodrigo Fior Kuntzer"
+nav_order: 81
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cutting Metrics Traffic, Cutting Costs: The AZ-Aware Observ... Iris Dyrmishi & Rodrigo Fior Kuntzer"
-description: "Rodrigo and Iris, engineers at Miro, discuss their experience optimizing observability costs, particularly focusing on the high expenses associated with intra-region data transfer in multi-availability zone (multi-AZ) Kubernetes environment..."
+description:
+  Rodrigo and Iris, engineers at Miro, discuss their experience optimizing
+  observability costs, particularly focusing on the high expenses associated with
+  intra-region data transfer in multi-availability zone (multi-AZ) Kubernetes environment...
 resource: https://www.youtube.com/watch?v=ycnDgULCHTA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that observability components, such as metrics collectors, can gene
 To address this, Miro implemented a phased approach: first, they modified their metrics collection so that agents only scrape targets within the same AZ, using Kubernetes topology metadata and relabeling techniques, which resulted in substantial cost savings without impacting reliability or user experience.
 They emphasize the importance of maintaining centralized alerting and querying, highlight the increased architectural complexity, and note that while their optimizations yielded six-figure savings, some cross-AZ traffic remains unavoidable, especially for certain external services and during query operations.
 The team provides a blueprint and resources for others to evaluate and implement similar strategies based on their own needs and environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                             |

@@ -1,11 +1,22 @@
 ---
+layout: default
+title: How to Respond When a Top Performing Direct Report Resigns
+nav_order: 31
+parent: Leadership Skills
 type: Video Note
-title: "How to Respond When a Top Performing Direct Report Resigns"
-description: "In this video, Doug Howard, a licensed engineer and leadership coach, outlines the five best ways for managers to handle employee resignations. He emphasizes treating the resigning employee with respect and professionalism, maintaining tran..."
+description:
+  In this video, Doug Howard, a licensed engineer and leadership coach,
+  outlines the five best ways for managers to handle employee resignations. He emphasizes
+  treating the resigning employee with respect and professionalism, maintaining tran...
 resource: https://www.youtube.com/watch?v=4394Vr-wNaw
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ In this video, Doug Howard, a licensed engineer and leadership coach, outlines t
 He emphasizes treating the resigning employee with respect and professionalism, maintaining transparent communication with the team to prevent rumors and uncertainty, and using the transition as an opportunity to elevate other employees.
 Doug also highlights the importance of conducting exit interviews to uncover blind spots and using the feedback to advocate for necessary changes within the company.
 Finally, he suggests that managers can sometimes attempt to convince valuable employees to stay, referencing a personal example where open dialogue led to a reversal of a resignation.
+
 # Main Points
 
 |   # | Main point                                                                                          |

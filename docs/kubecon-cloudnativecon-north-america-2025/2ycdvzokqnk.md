@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "LLMs on Kubernetes: Squeeze 5x GPU Efficiency With Cache, Route, Repea...
+  Yuhan Liu & Suraj Deshmukh"
+nav_order: 146
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "LLMs on Kubernetes: Squeeze 5x GPU Efficiency With Cache, Route, Repea... Yuhan Liu & Suraj Deshmukh"
-description: "In this talk, Suraj from Microsoft and Yuan from the University of Chicago discuss optimizing large language model (LLM) inference on Kubernetes, focusing on improving GPU efficiency through KV cache management. They explain that inference..."
+description:
+  In this talk, Suraj from Microsoft and Yuan from the University of Chicago
+  discuss optimizing large language model (LLM) inference on Kubernetes, focusing
+  on improving GPU efficiency through KV cache management. They explain that inference...
 resource: https://www.youtube.com/watch?v=2YCDvZokqnk
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that inference involves generating text token by token, which consu
 The speakers introduce LM Cache, an open-source caching layer that offloads KV cache data from GPU memory to CPU or remote storage, reducing redundant computation and significantly improving throughput and time to first token (TTFT).
 Benchmark results show that LM Cache can increase throughput by up to 5x across various models and inference engines, such as VLM and SGLAN.
 The talk also covers advanced techniques like KV cache-aware routing and prefill-decode disaggregation, which further enhance efficiency in distributed and scalable LLM deployments on Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

@@ -1,11 +1,22 @@
 ---
+layout: default
+title: The Seven Deadly Sins With MCP - Ricardo Ferreira, Redis
+nav_order: 93
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "The Seven Deadly Sins With MCP - Ricardo Ferreira, Redis"
-description: "Ricardo Ferrer, leading the developer relations team at Radius, introduces a presentation focused on common pitfalls in MCP (Multi-Cloud Protocol) implementations, emphasizing that most issues arise not from the protocol itself but from rec..."
+description:
+  Ricardo Ferrer, leading the developer relations team at Radius, introduces
+  a presentation focused on common pitfalls in MCP (Multi-Cloud Protocol) implementations,
+  emphasizing that most issues arise not from the protocol itself but from rec...
 resource: https://www.youtube.com/watch?v=qgH5mOsQw64
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Drawing from a taxonomy paper analyzing thousands of GitHub issues, Ferrer notes
 He categorizes these issues into "deadly sins"—lust, greed, sloth, wrath, gluttony, pride, and envy—grouped by their impact on security, operations, and long-term technical debt.
 Through code examples and audience interaction, Ferrer illustrates how these patterns, though often trivial and familiar, can lead to significant production failures if left unchecked, and he encourages intentional, explicit engineering practices to mitigate them.
 He concludes by inviting attendees to explore his related blog series and connect for further discussion.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

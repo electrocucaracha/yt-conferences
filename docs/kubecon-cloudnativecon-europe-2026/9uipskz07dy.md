@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "When DNS Blinks: Scaling and Hardening CoreDNS in Critical Cloud Infra...
+  Yong Tang & John Belamaric"
+nav_order: 400
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "When DNS Blinks: Scaling and Hardening CoreDNS in Critical Cloud Infra... Yong Tang & John Belamaric"
-description: "In this session, Yan Tang and John Palmer from Google discuss the evolution and current state of CoreDNS, a flexible, plugin-based DNS server that has been widely adopted as the default DNS server in Kubernetes since 2017. They provide an o..."
+description:
+  In this session, Yan Tang and John Palmer from Google discuss the evolution
+  and current state of CoreDNS, a flexible, plugin-based DNS server that has been
+  widely adopted as the default DNS server in Kubernetes since 2017. They provide
+  an o...
 resource: https://www.youtube.com/watch?v=9UIPskZ07dY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They provide an overview of CoreDNS’s architecture, highlighting its extensibi
 The speakers detail recent updates, including new plugins, security improvements, and the introduction of multisocket support, which significantly enhances vertical scalability and performance.
 They address lessons learned from recent DNS outages, emphasizing configuration options like prefetch, serve-stale, and node-local DNS cache to improve resilience and reduce failure domains.
 The session concludes with a discussion on managing multi-tenant environments, recommending strategies such as node-local DNS and dedicated CoreDNS instances per tenant to mitigate the impact of misbehaving users, and encourages community contributions to the open-source project.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                  |

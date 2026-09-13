@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "SIG Apps Updates: Building the Next Generation of Kubernetes Workloads...
+  Maciej Szulik & Janet Kuo"
+nav_order: 316
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "SIG Apps Updates: Building the Next Generation of Kubernetes Workloads... Maciej Szulik & Janet Kuo"
-description: 'In this SAPS talk, Janet and Mache, co-leads of SIG Apps, discuss recent developments and ongoing work in Kubernetes workload management. They highlight new beta features such as the "maximum available" rollout for StatefulSets, which was t...'
+description:
+  In this SAPS talk, Janet and Mache, co-leads of SIG Apps, discuss recent
+  developments and ongoing work in Kubernetes workload management. They highlight
+  new beta features such as the "maximum available" rollout for StatefulSets, which
+  was t...
 resource: https://www.youtube.com/watch?v=uj2WVzDndt4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ The team emphasizes the importance of user feedback in identifying and resolving
 They also describe collaborations with the batch working group to support large-scale and AI/ML workloads, including improvements to job mutability, backoff limits per index, and external job management.
 Additionally, the talk introduces subprojects like Agent Sandbox, which provides isolated, stateful environments for agent runtimes and developer sandboxes, and the MCP Lifecycle Operator for managing MCP servers.
 The session concludes with an invitation for community contributions, especially in testing, and clarifies the roles of related working groups in handling specialized workloads.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

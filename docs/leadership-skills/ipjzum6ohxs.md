@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Improve Your Listening Skills by the End of This Video | Leadership Training
+  for Engineering Manager
+nav_order: 33
+parent: Leadership Skills
 type: Video Note
-title: "Improve Your Listening Skills by the End of This Video | Leadership Training for Engineering Manager"
-description: "The video emphasizes the importance of listening skills for effective leadership, noting that most people were never formally taught how to listen. It identifies three main barriers to good listening: the thought-speech differential (where..."
+description:
+  "The video emphasizes the importance of listening skills for effective
+  leadership, noting that most people were never formally taught how to listen. It
+  identifies three main barriers to good listening: the thought-speech differential
+  (where..."
 resource: https://www.youtube.com/watch?v=iPJZUm6oHXs
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The video emphasizes the importance of listening skills for effective leadership
 It identifies three main barriers to good listening: the thought-speech differential (where the brain processes information faster than people speak, leading to distraction), the anxiety trap (losing focus and feeling panicked when asked for input), and general mental distraction from daily life.
 To overcome these barriers, the speaker introduces three techniques: clearing your mental cache by writing three pages of stream-of-consciousness thoughts to free up mental space, declaring your intentions before a conversation to clarify your purpose for listening, and practicing vocalized listening by mentally repeating what the speaker says to fully engage your attention.
 The video concludes with a practical exercise to demonstrate improved listening and suggests further resources for ensuring others listen and understand you.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                 |

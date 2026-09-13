@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Making Platform Engineering Accessible: From Newcomer To Power... Luke Philips
+  & Julia Furst Morgado"
+nav_order: 160
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Making Platform Engineering Accessible: From Newcomer To Power... Luke Philips & Julia Furst Morgado"
-description: "Julia and Luke, both platform engineers from different backgrounds, discuss their experiences and insights on platform engineering, emphasizing its evolution from a niche concept to a vital product discipline. They highlight the challenges..."
+description:
+  Julia and Luke, both platform engineers from different backgrounds, discuss
+  their experiences and insights on platform engineering, emphasizing its evolution
+  from a niche concept to a vital product discipline. They highlight the challenges...
 resource: https://www.youtube.com/watch?v=1GdXF5fFjpY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the challenges of building internal platforms that genuinely help
 The speakers stress that successful platforms require ongoing feedback loops, cultural alignment, and a focus on human factors, not just technical solutions.
 At enterprise scale, they advocate for clear architectural decisions, automated measurement, and cultivating communities of champions and critics to drive adoption and improvement.
 Ultimately, they conclude that platforms should be treated as products—iteratively refined with user feedback and collaboration between platform and product teams—to maximize developer productivity and organizational success.
+
 # Main Points
 
 |   # | Main point                                                                                                                                 |

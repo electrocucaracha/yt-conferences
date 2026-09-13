@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Day 3 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam
+nav_order: 87
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Day 3 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam"
-description: "The video reflects on an exciting week at KubeCon and CloudNativeCon in Amsterdam, emphasizing the event's transformative impact. Attendees highlight the unique opportunity to connect with fellow engineers and interact directly with the cre..."
+description:
+  The video reflects on an exciting week at KubeCon and CloudNativeCon
+  in Amsterdam, emphasizing the event's transformative impact. Attendees highlight
+  the unique opportunity to connect with fellow engineers and interact directly with
+  the cre...
 resource: https://www.youtube.com/watch?v=HcgdLVxlui4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ The video reflects on an exciting week at KubeCon and CloudNativeCon in Amsterda
 Attendees highlight the unique opportunity to connect with fellow engineers and interact directly with the creators and maintainers of key tools and technologies.
 The conference is portrayed as a valuable platform for discovering new ideas within the open source community and engaging with experts about current advancements.
 As the event concludes, viewers are thanked for their participation and encouraged to continue supporting the CloudNative movement.
+
 # Main Points
 
 |   # | Main point                                                                             |

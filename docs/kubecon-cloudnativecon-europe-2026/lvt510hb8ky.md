@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  One Controller to Rule Them All - Taming Multiple Orchestrator... Srikar Paruchuru
+  & Egor Grishechko
+nav_order: 227
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "One Controller to Rule Them All - Taming Multiple Orchestrator... Srikar Paruchuru & Egor Grishechko"
-description: "Sri and Eager from Uber’s compute team in Amsterdam discussed their experience managing stateless compute at scale, focusing on reconciling multiple orchestrators for workload scaling. They described Uber’s compute platform, where the “up”..."
+description:
+  Sri and Eager from Uber’s compute team in Amsterdam discussed their experience
+  managing stateless compute at scale, focusing on reconciling multiple orchestrators
+  for workload scaling. They described Uber’s compute platform, where the “up”...
 resource: https://www.youtube.com/watch?v=lVt510hb8kY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They described Uber’s compute platform, where the “up” federation layer ma
 To address conflicts between orchestrators, they developed a new custom resource definition (CRD) called “service scale,” which tracks scaling intentions from different controllers and enables reliable failover and failback without external dependencies.
 They also highlighted the complexities of ensuring consistency and avoiding stale reads in Kubernetes’ eventually consistent model, implementing a “read your own write” guardrail and observability tools to detect and heal inconsistencies.
 The team emphasized the importance of extensive integration testing to ensure a smooth rollout and shared lessons learned about the unexpected difficulties and debugging challenges encountered when building seemingly simple solutions at Uber’s scale.
+
 # Main Points
 
 |   # | Main point                                                                                                                                 |

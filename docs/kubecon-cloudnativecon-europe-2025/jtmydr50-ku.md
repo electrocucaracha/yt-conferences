@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "Stateful Superpowers: Explore High Performa... Alex Chircop, Chris Milsted
+  & Alex Reid, Lori Lorusso"
+nav_order: 318
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Stateful Superpowers: Explore High Performa... Alex Chircop, Chris Milsted & Alex Reid, Lori Lorusso"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=JtMYdR50-KU
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: The speakers, Alex K
 They demonstrate two demos: one using TIKV, a highly scalable low-latency distributed key-value store, and another using Postgres with Kubernetes operators to automate operations and provide isolated tenant environments.
 The speakers also discuss real-world use cases, including Nokia's deployment of MySQL and Postgres on Kubernetes, and Civo's provision of cloud-native database services.
 They emphasize the importance of open-source solutions and collaboration among communities to drive innovation in cloud-native storage.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                   |

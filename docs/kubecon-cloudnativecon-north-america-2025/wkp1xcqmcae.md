@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Introducing Helm 4 - Matt Farina & Robert Sirchia, SUSE
+nav_order: 108
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Introducing Helm 4 - Matt Farina & Robert Sirchia, SUSE"
-description: "The presenters introduced Helm 4, assuring the audience that existing charts remain compatible and highlighting the project's commitment to backward compatibility. They recognized several maintainers and reflected on Helm's ten-year history..."
+description:
+  The presenters introduced Helm 4, assuring the audience that existing
+  charts remain compatible and highlighting the project's commitment to backward compatibility.
+  They recognized several maintainers and reflected on Helm's ten-year history...
 resource: https://www.youtube.com/watch?v=wkP1xCQMCaE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They recognized several maintainers and reflected on Helm's ten-year history, no
 Helm 4 introduces several key improvements, including modernized logging with SLOG, reproducible chart builds, embeddable commands, colorized CLI output, and a new plugin engine supporting WebAssembly for cross-platform compatibility.
 The groundwork has been laid for future chart API versions, and the team emphasized ongoing support for Helm 3 until mid-2026, with no feature backports.
 They encouraged community involvement through contributions, feedback, and participation in meetings, and concluded by answering technical questions about plugin support and inviting further discussion at their booth.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

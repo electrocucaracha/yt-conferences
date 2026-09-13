@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Virtual Power Plants (VPP): How They Work and What They Are - LeRenzo Malcom
+  & Mario Flores, Enpal"
+nav_order: 386
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Virtual Power Plants (VPP): How They Work and What They Are - LeRenzo Malcom & Mario Flores, Enpal"
-description: "In this KubeCon presentation, Lorenzo and Mario from Enpal explain the concept of a virtual power plant (VPP) and its role in modernizing the energy grid. They begin by describing how traditional power grids operate, emphasizing the need fo..."
+description:
+  In this KubeCon presentation, Lorenzo and Mario from Enpal explain the
+  concept of a virtual power plant (VPP) and its role in modernizing the energy grid.
+  They begin by describing how traditional power grids operate, emphasizing the need
+  fo...
 resource: https://www.youtube.com/watch?v=95cFjYJS4ek
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ The speakers highlight the limitations of the current grid, especially as renewa
 To address these challenges, they propose integrating distributed batteries—located in homes with solar panels and electric vehicles—into a VPP, which can store excess energy and release it when needed, thereby stabilizing the grid and enabling rapid response to frequency fluctuations.
 The technical architecture involves IoT devices, cloud-based control systems, and real-time data aggregation, allowing for efficient energy trading and grid management.
 The presenters also discuss regulatory, technical, and market considerations, answer audience questions about scalability, integration, and security, and emphasize the complementary role of both large-scale and distributed storage in achieving a resilient, renewable-powered grid.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

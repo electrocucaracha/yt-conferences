@@ -1,11 +1,24 @@
 ---
+layout: default
+title: "Lightning Talk: My Job Says 'Running' but Nothing's Running: Kubernetes
+  Status Reality... Ron Kahn"
+nav_order: 8
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Lightning Talk: My Job Says 'Running' but Nothing's Running: Kubernetes Status Reality... Ron Kahn"
-description: "Ron, a senior software developer at Nvidia, discusses a common issue faced by AI researchers when running training jobs on Kubernetes: jobs appear to be running smoothly, but underlying network or connectivity errors can cause GPUs to sit i..."
+description:
+  "Ron, a senior software developer at Nvidia, discusses a common issue
+  faced by AI researchers when running training jobs on Kubernetes: jobs appear to
+  be running smoothly, but underlying network or connectivity errors can cause GPUs
+  to sit i..."
 resource: https://www.youtube.com/watch?v=AHjZvT3vpAc
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ Ron, a senior software developer at Nvidia, discusses a common issue faced by AI
 He explains that Kubernetes checks pod readiness individually, which works for microservices but not for complex AI applications where pods must communicate effectively as a group.
 Problems like DNS failures or network policy blocks can halt progress without Kubernetes detecting the issue, leading researchers to mistakenly believe their jobs are progressing.
 Ron recommends performing thorough pre-flight checks for connectivity and GPU communication before and during training, continuously monitoring real progress indicators such as checkpoint creation and GPU utilization, and validating both infrastructure and application health throughout the job’s lifecycle to bridge the gap between perceived and actual job status.
+
 # Main Points
 
 |   # | Main point                                                                                                                    |

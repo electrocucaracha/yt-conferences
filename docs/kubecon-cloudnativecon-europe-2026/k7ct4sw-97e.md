@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Choose Your Own Adventure: AI Meets Internal Developer Platform - Whitney
+  Lee & Viktor Farcic"
+nav_order: 39
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Choose Your Own Adventure: AI Meets Internal Developer Platform - Whitney Lee & Viktor Farcic"
-description: "The video discusses the evolution from traditional developer tooling to AI-powered agents, particularly in the context of platform engineering and Kubernetes. The presenters explain how agents work by combining user intent, system context..."
+description:
+  The video discusses the evolution from traditional developer tooling
+  to AI-powered agents, particularly in the context of platform engineering and Kubernetes.
+  The presenters explain how agents work by combining user intent, system context...
 resource: https://www.youtube.com/watch?v=k7ct4sW-97E
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ They demonstrate building an agent using the Langraph framework, equipping it wi
 Security and guardrails are emphasized, with permissions and access controls enforced both at the agent and cluster levels.
 Observability is addressed through tracing with OpenTelemetry, and the importance of cost management is noted.
 The session concludes with a Q&A covering topics like implementing guardrails, choosing between vector databases and context, and evaluating tool call quality.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

@@ -1,11 +1,22 @@
 ---
+layout: default
+title: The State of Backstage in 2026 - Ben Lambert & Patrik Oldsberg, Spotify
+nav_order: 368
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The State of Backstage in 2026 - Ben Lambert & Patrik Oldsberg, Spotify"
-description: "In this talk at CubeCon EU, Ben and Patrick, maintainers of Backstage at Spotify, provided an update on the project's progress since the last conference. They highlighted significant growth, with over 4,000 adopters, 255 open source plugins..."
+description:
+  In this talk at CubeCon EU, Ben and Patrick, maintainers of Backstage
+  at Spotify, provided an update on the project's progress since the last conference.
+  They highlighted significant growth, with over 4,000 adopters, 255 open source plugins...
 resource: https://www.youtube.com/watch?v=tFsp5bpKwdk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ The team showcased advancements in the front-end system, including better plugin
 Updates to the CLI and authentication processes were detailed, including support for the CIMD spec, modularization of the CLI, and new catalog actions, making automation and integration with AI tools more seamless.
 The presenters emphasized Backstage’s evolving role as a central hub for developer experience, especially as AI adoption increases, and introduced ongoing work to make the software catalog model more extensible and machine-readable, supporting better integration with plugins and AI agents.
 They concluded with a roadmap focused on catalog model extensions, AI context integration, improvements to the release process, continued evolution of the Backstage UI, and the deprecation of the old front-end system.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

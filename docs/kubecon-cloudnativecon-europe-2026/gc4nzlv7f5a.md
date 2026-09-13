@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Buildpacks: Towards 1.0, AI and Other Things - Aidan Delaney, Bloomberg"
-description: "In this talk, Aiden, a maintainer of the Buildpacks project, introduces the audience to cloud native buildpacks, highlighting their role in transforming application source code into OCI images through a simple and repeatable process. He dem..."
+nav_order: 36
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  In this talk, Aiden, a maintainer of the Buildpacks project, introduces
+  the audience to cloud native buildpacks, highlighting their role in transforming
+  application source code into OCI images through a simple and repeatable process.
+  He dem...
 resource: https://www.youtube.com/watch?v=Gc4NZlv7F5A
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He demonstrates how buildpacks can be used to build both standard and machine le
 Aiden explains the benefits for both application developers, who can focus on code while infrastructure teams manage build logic and compliance through custom builders, and platform operators, who gain centralized control over base images, supported runtimes, and security updates.
 He discusses recent and upcoming features, such as image extensions, multi-architecture support, and the move toward a stable 1.0 API, which promises long-term reliability and easier integration.
 The talk concludes with an invitation to contribute to the open-source project and a Q&A covering topics like rapid base image rebasing for security and image signing practices.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

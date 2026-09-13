@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "1000 Clusters, 1 Brain: Salesforce’s Approach To Self-Healin... Vikram Venkataraman
+  & Srikanth Rajan"
+nav_order: 2
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "1000 Clusters, 1 Brain: Salesforce’s Approach To Self-Healin... Vikram Venkataraman & Srikanth Rajan"
-description: "The session, led by Vikramatraan from AWS and Shri Kant from Salesforce, focused on the challenges of managing Kubernetes clusters at scale and how AI ops can address these issues. Vikramatraan described the overwhelming complexity faced by..."
+description:
+  The session, led by Vikramatraan from AWS and Shri Kant from Salesforce,
+  focused on the challenges of managing Kubernetes clusters at scale and how AI ops
+  can address these issues. Vikramatraan described the overwhelming complexity faced
+  by...
 resource: https://www.youtube.com/watch?v=Y29VmBH-HA8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Vikramatraan described the overwhelming complexity faced by on-call engineers, s
 He outlined the architecture of AI ops frameworks, highlighting the role of specialized agents that analyze metrics, logs, and events, and can even perform remediation actions with human oversight.
 Shri Kant shared Salesforce’s journey in automating operations for their Hyperforce Kubernetes platform, detailing the evolution from siloed tools to a multi-agent AI-powered remediation loop that integrates with existing systems and enforces strict guardrails for safety.
 Early results show significant reductions in human toil and troubleshooting time, though challenges remain in connecting complex failure scenarios and improving AI’s contextual understanding, with future efforts aimed at building knowledge graphs and enhancing feedback loops to further scale and automate operations.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                           |

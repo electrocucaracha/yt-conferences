@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How to Apply Up for a Position One Level Higher in Engineering and Tech Nader
+  Mowlaee Part 1 of 2
+nav_order: 19
+parent: Leadership Skills
 type: Video Note
-title: "How to Apply Up for a Position One Level Higher in Engineering and Tech Nader Mowlaee Part 1 of 2"
-description: "In this video, the host welcomes engineering career coach Nader Malai to discuss strategies for engineers seeking to advance their careers, particularly when moving from individual contributor roles to management or from manager to director..."
+description:
+  In this video, the host welcomes engineering career coach Nader Malai
+  to discuss strategies for engineers seeking to advance their careers, particularly
+  when moving from individual contributor roles to management or from manager to director...
 resource: https://www.youtube.com/watch?v=E59RxG41Af0
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Nader shares his background, highlighting how his engineering education and expe
 He emphasizes the importance of understanding both the employer’s mindset and one’s own skills, focusing on the overlap between what the candidate can offer and what the company needs.
 The conversation also addresses the challenges of today’s convoluted hiring processes, the necessity of clear career goals, and the value of self-awareness and mindset in job searching.
 Nader concludes by stressing the need for engineers to be strategic, adaptable, and open to feedback, and previews that part two will cover resume building, interview techniques, and LinkedIn optimization.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                    |

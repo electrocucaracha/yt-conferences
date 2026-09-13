@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Intelligent Routing for Optimized Inference - Antonio Berben, Solo.io & Felipe
+  Vicens, Telefonica
+nav_order: 155
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Intelligent Routing for Optimized Inference - Antonio Berben, Solo.io & Felipe Vicens, Telefonica"
-description: "In this presentation, Philipe Visense from Telefonica and Antonio from Solo IO discuss the inefficiency of using a single AI model for all types of queries, highlighting the potential for resource waste and increased costs. They propose an..."
+description:
+  In this presentation, Philipe Visense from Telefonica and Antonio from
+  Solo IO discuss the inefficiency of using a single AI model for all types of queries,
+  highlighting the potential for resource waste and increased costs. They propose
+  an...
 resource: https://www.youtube.com/watch?v=yeGhei0-bDA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They propose an open-source, agentic architecture that intelligently routes requ
 The solution leverages a specialized agent gateway, intelligent routing, and Kubernetes-based orchestration, integrating various open-source projects and custom agents to dynamically evaluate and select models.
 Through a demo, they illustrate how their system registers models, evaluates them for performance and cost (including electricity), and routes requests accordingly, achieving flexible, context-aware optimization.
 The presenters also address challenges such as observability, geolocation, and zero trust security, and share lessons learned about the power of agentic workflows, the importance of context, and the need for robust observability in distributed AI systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                    |

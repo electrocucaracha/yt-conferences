@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Unleashing Event Driven Capabilities With KEDA - Jorge Turrado & Zbynek Roubalik
+nav_order: 385
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Unleashing Event Driven Capabilities With KEDA - Jorge Turrado & Zbynek Roubalik"
-description: "In this session, Horge Dorado and Beign, both maintainers of the KEDA project, introduce KEDA (Kubernetes Event-driven Autoscaling), which aims to simplify autoscaling in Kubernetes by supporting a wide range of event sources and custom met..."
+description:
+  In this session, Horge Dorado and Beign, both maintainers of the KEDA
+  project, introduce KEDA (Kubernetes Event-driven Autoscaling), which aims to simplify
+  autoscaling in Kubernetes by supporting a wide range of event sources and custom
+  met...
 resource: https://www.youtube.com/watch?v=VCNxcBjVOIk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They explain KEDA’s architecture, including its operator, metric server adapte
 The presenters highlight best practices for configuring scaling behavior, such as managing polling intervals, caching metrics, and using scaling modifiers to combine multiple triggers or apply custom formulas.
 They also discuss recent features like dynamic fallback behaviors, expanded scaler support, and new architecture compatibility, as well as future plans for GPU support and scale job suspension.
 The session concludes with a demonstration of HTTP-based scaling and a comparison to KNative, emphasizing KEDA’s flexibility and focus on event-driven, secure, and customizable autoscaling solutions for Kubernetes workloads.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

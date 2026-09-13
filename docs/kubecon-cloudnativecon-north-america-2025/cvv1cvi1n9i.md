@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "The Myth of Portability: Why Your Cloud Native App Is Married To Your Provider
+  - Corey Quinn"
+nav_order: 313
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "The Myth of Portability: Why Your Cloud Native App Is Married To Your Provider - Corey Quinn"
-description: "In this talk, Corey Quinn critiques the common practice of over-engineering for cloud portability, likening it to preppers obsessively preparing bugout bags for disasters that never match reality. He argues that many organizations invest he..."
+description:
+  In this talk, Corey Quinn critiques the common practice of over-engineering
+  for cloud portability, likening it to preppers obsessively preparing bugout bags
+  for disasters that never match reality. He argues that many organizations invest
+  he...
 resource: https://www.youtube.com/watch?v=cvv1cVi1n9I
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He argues that many organizations invest heavily in cloud-agnostic architectures
 Quinn contends that true lock-in is not to a specific cloud provider’s APIs, but to the expertise and operational knowledge teams develop over time, making switching providers far more costly and disruptive than anticipated.
 He warns that pursuing multicloud redundancy often doubles operational burdens and failure points without real benefit, and that the real disaster is burning out engineers with unnecessary complexity.
 Ultimately, Quinn advises choosing a primary cloud, leveraging managed services, and optimizing for team well-being and operational simplicity rather than chasing the myth of effortless portability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

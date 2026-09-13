@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Goose as a Proving Ground for New MCP Features, and How To Use Them - Alex
+  Hancock, Block
+nav_order: 32
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Goose as a Proving Ground for New MCP Features, and How To Use Them - Alex Hancock, Block"
-description: "The speaker discusses bridging the gap between those with ideas for improving MCP or agents and those able to test and implement these ideas at scale. They introduce Goose, an open-source agent project originating at Block and now governed..."
+description:
+  The speaker discusses bridging the gap between those with ideas for improving
+  MCP or agents and those able to test and implement these ideas at scale. They introduce
+  Goose, an open-source agent project originating at Block and now governed...
 resource: https://www.youtube.com/watch?v=0nNUor6GVbk
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They introduce Goose, an open-source agent project originating at Block and now 
 Goose emphasizes performance, stability, interoperability with open standards like MCP and ACP, and a willingness to rapidly experiment and evolve.
 The talk highlights features such as "code mode" for efficient token usage, integration with the Agent Client Protocol to enable diverse client interactions, and support for MCP apps, including experimental features like AI-powered app front-ends.
 The speaker invites the community to contribute experimental ideas and implementations to Goose, positioning it as a platform for real-world testing and collaborative innovation in the agent ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                        |

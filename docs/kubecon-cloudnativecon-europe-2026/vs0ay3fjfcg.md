@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Dynamic Mocking for Event-Driven APIs: A Cloud Native Approa... Harshvardhan
+  Parmar & Anushka Saxena"
+nav_order: 98
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Dynamic Mocking for Event-Driven APIs: A Cloud Native Approa... Harshvardhan Parmar & Anushka Saxena"
-description: "The speaker introduces the challenge of testing event-driven APIs, noting that unlike REST APIs, event-driven systems are more complex and difficult to mock due to their real-time, unpredictable nature. Static mocks fail to replicate real-w..."
+description:
+  The speaker introduces the challenge of testing event-driven APIs, noting
+  that unlike REST APIs, event-driven systems are more complex and difficult to mock
+  due to their real-time, unpredictable nature. Static mocks fail to replicate real-w...
 resource: https://www.youtube.com/watch?v=vS0AY3FJfcg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Static mocks fail to replicate real-world behavior, leading to the need for dyna
 The presentation demonstrates how the cloud-native tool Micros can be used within Kubernetes environments to create dynamic mocks for event-driven APIs using async API specifications.
 Through a live demo, the speaker shows how Micros imports async API files, generates both static and dynamic mocks using mock templates, and enables realistic integration testing by simulating producer-consumer interactions.
 The session concludes by inviting feedback and contributions to the Micros community, emphasizing the tool’s ease of use and its alignment with cloud-native development practices.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

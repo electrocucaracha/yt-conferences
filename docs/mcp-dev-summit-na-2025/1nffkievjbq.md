@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Typed Composition with MCP - Solomon Hykes from Dagger"
-description: "The speaker, co-founder of Dagger.io, introduces their build engine designed to generalize and orchestrate software delivery workflows using a container-based, DAG-oriented system. They describe how Dagger enables users to compose repeatabl..."
+nav_order: 4
+parent: Mcp Dev Summit Na 2025
+type: Video Note
+description:
+  The speaker, co-founder of Dagger.io, introduces their build engine designed
+  to generalize and orchestrate software delivery workflows using a container-based,
+  DAG-oriented system. They describe how Dagger enables users to compose repeatabl...
 resource: https://www.youtube.com/watch?v=1NFfkIEVJbQ
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They describe how Dagger enables users to compose repeatable, portable workflows
 The talk demonstrates Dagger’s interactive shell, showing how both users and LLMs can dynamically build and manipulate containers, and discusses the challenges of exposing Dagger’s object-oriented API to LLMs via tool calling, particularly over the MCP protocol, which expects a flat namespace rather than object composition.
 The speaker explains their solution of adding an indirection layer to map object methods for LLMs and MCP clients, and invites collaboration on improving object composition and evaluation strategies in this context.
 The presentation concludes by emphasizing Dagger’s extensibility and the ongoing work to make complex object composition seamless for LLM orchestration over MCP.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Aligning Enterprise AI Security With MITRE ATLAS Using Op... Doron Caspin &
+  Valentina Rodriguez Sosa
+nav_order: 13
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Aligning Enterprise AI Security With MITRE ATLAS Using Op... Doron Caspin & Valentina Rodriguez Sosa"
-description: "In this session, Valentina Rodriguez and Dan Kaspin discuss the distinction between AI safety and AI security, emphasizing that their focus is on protecting AI models from malicious attacks rather than unintended harms. They outline common..."
+description:
+  In this session, Valentina Rodriguez and Dan Kaspin discuss the distinction
+  between AI safety and AI security, emphasizing that their focus is on protecting
+  AI models from malicious attacks rather than unintended harms. They outline common...
 resource: https://www.youtube.com/watch?v=Va45Tx0RifI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They outline common AI security threats such as data poisoning, input manipulati
 The presenters demonstrate how open source tools, including Sigstore for model signing and verification, and StackRox for runtime security and policy enforcement, can be integrated into the AI model development lifecycle on Kubernetes platforms using tools like Kubeflow and Argo CD.
 Through a live demo, they show how these tools help ensure model integrity, enforce organizational security policies, and monitor for vulnerabilities and suspicious behaviors.
 The session concludes with recommendations to map AI development processes to security controls, implement zero trust and microsegmentation, and leverage community resources for ongoing improvement in AI security practices.
+
 # Main Points
 
 |   # | Main point                                                                                                                            |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: OVN-Kubernetes: Scalable, Production-Grade Networking...
+  Surya Seetharaman"
+nav_order: 233
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: OVN-Kubernetes: Scalable, Production-Grade Networking... Surya Seetharaman"
-description: "Surya, an engineer at Red Hat and maintainer of the OVN Kubernetes project, introduces OVN Kubernetes as a scalable, production-grade networking plugin for Kubernetes clusters, currently adopted by companies like Nvidia and Red Hat. He clar..."
+description:
+  Surya, an engineer at Red Hat and maintainer of the OVN Kubernetes project,
+  introduces OVN Kubernetes as a scalable, production-grade networking plugin for
+  Kubernetes clusters, currently adopted by companies like Nvidia and Red Hat. He
+  clar...
 resource: https://www.youtube.com/watch?v=5SP7RS_DnIE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He clarifies that OVN Kubernetes is distinct from similarly named projects and i
 The project, founded in 2016 and recently added to the CNCF as a sandbox project, translates Kubernetes events into OVN logical constructs, enabling features such as port-to-port networking, network policies, egress and bandwidth controls, hardware offload, and user-defined networks for multi-tenancy and BGP route advertisement.
 OVN Kubernetes also collaborates with the KubeVirt community to support VM networking use cases, including persistent static IPs and consistent egress IPs.
 Looking ahead, the project aims to add support for EVPN to extend network isolation to provider fabrics, further bridging traditional and Kubernetes networking, and invites contributors and adopters to join via their website, Slack channel, or at their CubeCon kiosk.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                   |

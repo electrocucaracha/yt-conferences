@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  How to Deal With a Toxic Boss Without Quitting | Do These 3 Things | Advice
+  from Engineering Manager
+nav_order: 23
+parent: Leadership Skills
 type: Video Note
-title: "How to Deal With a Toxic Boss Without Quitting | Do These 3 Things | Advice from Engineering Manager"
-description: "In this video, Doug Howard discusses the detrimental effects of working under a toxic boss, emphasizing how it can erode confidence, mental health, and career growth. He explains that simply avoiding the problem or hoping the boss will chan..."
+description:
+  In this video, Doug Howard discusses the detrimental effects of working
+  under a toxic boss, emphasizing how it can erode confidence, mental health, and
+  career growth. He explains that simply avoiding the problem or hoping the boss will
+  chan...
 resource: https://www.youtube.com/watch?v=_sr2wpO4b64
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ In this video, Doug Howard discusses the detrimental effects of working under a 
 He explains that simply avoiding the problem or hoping the boss will change is ineffective, and instead offers three strategies to manage the situation: use the bad boss as motivation to seek better opportunities or as an anti-role model for leadership, avoid taking their behavior personally by empathizing with their possible struggles, and "kill them with kindness" to maintain control over your own emotions and reputation.
 Doug shares personal experiences to illustrate how toxic managers can unintentionally influence your habits and mindset, and stresses the importance of setting boundaries and actively addressing the issue rather than passively enduring it.
 He concludes by encouraging viewers to watch his other content for specific techniques on establishing boundaries with difficult people.
+
 # Main Points
 
 |   # | Main point                                                                                                                    |

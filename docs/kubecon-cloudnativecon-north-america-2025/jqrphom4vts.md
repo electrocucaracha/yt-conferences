@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Reimagining Insurance Infrastructure: CopperPoint's Cloud Native Blueprint
+  - Sid Dixit & Sham Rao"
+nav_order: 257
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Reimagining Insurance Infrastructure: CopperPoint's Cloud Native Blueprint - Sid Dixit & Sham Rao"
-description: "In this presentation, Sid Dixit and Shamar Rao from Copper Point Insurance discuss their company’s transition to a cloud native architecture, emphasizing the unique challenges of operating in the regulated insurance industry. They detail Co..."
+description:
+  In this presentation, Sid Dixit and Shamar Rao from Copper Point Insurance
+  discuss their company’s transition to a cloud native architecture, emphasizing the
+  unique challenges of operating in the regulated insurance industry. They detail
+  Co...
 resource: https://www.youtube.com/watch?v=jQRpHOm4Vts
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They detail Copper Point’s growth from a single-state insurer to a multi-state
 The team highlights the development of a modular integration layer called Wild Donkey, extensive use of reusable APIs and data pipelines, and a hybrid architecture that balances cloud flexibility with core system reliability.
 They share lessons learned from past missteps with vendor lock-in and overly granular microservices, advocating for a pragmatic, “molecular” approach to architecture, heavy automation, and in-house expertise development.
 The speakers recommend starting simple, empowering teams, avoiding vendor lock-in, leveraging AI and automation, and abstracting cloud dependencies to ensure scalability, cost-effectiveness, and maintainability as the company continues to grow.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                     |

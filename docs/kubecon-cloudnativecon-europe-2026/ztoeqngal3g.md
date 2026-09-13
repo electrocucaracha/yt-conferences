@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "AI-Powered Cloud Native Modernization: From Real Challe... Savitha R, Daniel
+  O, Kenneth K & Duncan D"
+nav_order: 10
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "AI-Powered Cloud Native Modernization: From Real Challe... Savitha R, Daniel O, Kenneth K & Duncan D"
-description: "The panel discussion focused on the challenges and strategies of AI-powered cloud-native application modernization, featuring experts from IBM, Microsoft, Red Hat, and Solo. Panelists emphasized the high cost of maintaining legacy applicati..."
+description:
+  The panel discussion focused on the challenges and strategies of AI-powered
+  cloud-native application modernization, featuring experts from IBM, Microsoft, Red
+  Hat, and Solo. Panelists emphasized the high cost of maintaining legacy applicati...
 resource: https://www.youtube.com/watch?v=ztOeqNGaL3g
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ They discussed the pitfalls of superficial modernization approaches like "lift a
 The conversation highlighted the limitations of current AI tools, which can generate large volumes of code but shift bottlenecks to code review and may struggle with undocumented or custom enterprise codebases.
 Panelists advocated for structured modernization workflows, reusable migration rule sets, and human oversight, stressing the importance of mentoring junior engineers and evolving educational practices to ensure future expertise in code review and system understanding.
 Ultimately, while AI can automate repetitive tasks and assessments, successful modernization requires careful planning, context awareness, and a balance between automation and human judgment.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

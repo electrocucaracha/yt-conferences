@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Stop Flying Blind: Real-Time, Enforceable Cluster-Wide Quotas with Ky... Mariam
+  Fahmy & Adam Crowder"
+nav_order: 348
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Stop Flying Blind: Real-Time, Enforceable Cluster-Wide Quotas with Ky... Mariam Fahmy & Adam Crowder"
-description: "In this presentation, Adam Crowder from AWS and Mariam Fahmy from Cloudflare discuss implementing dynamic, cluster-wide resource quotas in multi-tenant Kubernetes clusters using Crow and Kyverno. They explain that while Kubernetes natively..."
+description:
+  In this presentation, Adam Crowder from AWS and Mariam Fahmy from Cloudflare
+  discuss implementing dynamic, cluster-wide resource quotas in multi-tenant Kubernetes
+  clusters using Crow and Kyverno. They explain that while Kubernetes natively...
 resource: https://www.youtube.com/watch?v=JtVMQmsI-4s
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Crow, a recently open-sourced project, enables the creation of cluster-scoped cu
 The workflow involves defining a cluster resource quota per team using Crow, which automatically manages quota watchers and Kyverno validating policies to ensure both visibility and enforcement.
 Through a live demo, they show how this approach allows platform admins to centrally manage quotas, provides real-time usage dashboards, and prevents teams from exceeding their allocated resources, all without writing custom operators.
 The session concludes with a Q&A addressing label trust, Crow’s maturity, and alternative approaches using Kubernetes’ built-in admission controllers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

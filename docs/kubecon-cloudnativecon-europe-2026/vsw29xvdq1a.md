@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Schema Inference and Automation: A New Era for Telemetry Mana... Nicolas Takashi
+  & Arthur Silva Sens"
+nav_order: 328
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Schema Inference and Automation: A New Era for Telemetry Mana... Nicolas Takashi & Arthur Silva Sens"
-description: 'In this talk, Arthur Silva Sense and Nico Takash introduce OpenTelemetry Weaver, a tool designed to automate schema inference and enable "Observability by Design" without requiring large, specialized teams. They explain that Observability b...'
+description:
+  In this talk, Arthur Silva Sense and Nico Takash introduce OpenTelemetry
+  Weaver, a tool designed to automate schema inference and enable "Observability by
+  Design" without requiring large, specialized teams. They explain that Observability
+  b...
 resource: https://www.youtube.com/watch?v=vSW29xvdq1A
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that Observability by Design treats telemetry as an API, allowing o
 Through a live demo, they show how Weaver can infer telemetry schemas from live data, validate compatibility between code and schema, and generate client SDKs and documentation, thus reducing manual errors and ensuring consistency.
 The presenters emphasize the importance of schema-driven observability for maintaining reliable systems, discuss plans for standardization and template improvements, and address audience questions about managing metric standards and gradual rollouts.
 They conclude by highlighting ongoing efforts to integrate schema awareness into Prometheus and encourage adoption of automated, schema-based observability practices.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

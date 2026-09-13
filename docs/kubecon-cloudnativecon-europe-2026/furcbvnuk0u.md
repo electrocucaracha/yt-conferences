@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "BoF | Beyond Nginx Ingress: Higress as the K8s Gateway for the AI Era"
-description: "Hushing from Alibaba Cloud introduces Higress, a new Kubernetes gateway project that has recently joined the CNCF sandbox, designed to address the retirement of NGINX Ingress and its associated challenges such as traffic jitter, load balanc..."
+nav_order: 29
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Hushing from Alibaba Cloud introduces Higress, a new Kubernetes gateway
+  project that has recently joined the CNCF sandbox, designed to address the retirement
+  of NGINX Ingress and its associated challenges such as traffic jitter, load balanc...
 resource: https://www.youtube.com/watch?v=FURcBVNuK0U
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Higress, built on Envoy, offers a two-in-one solution as both a traffic and micr
 It supports seamless migration from NGINX Ingress by maintaining compatibility with existing annotations and the Gateway API, enabling users to transition without code changes.
 Higress is production-proven, with case studies showing significant improvements in reload times and resource efficiency, and is adopted by major companies beyond Alibaba.
 The project is evolving to meet the needs of AI-native workloads, offering features such as model fallback, token-aware rate limiting, semantic caching, and observability, making it a robust, extensible, and future-ready gateway solution for both traditional and AI-driven cloud environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                  |

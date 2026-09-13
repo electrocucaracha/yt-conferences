@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Visualizing GitOps: A Tour of Flux UIs in the Open Source Ecosystem - Stefan
+  Prodan, ControlPlane"
+nav_order: 388
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Visualizing GitOps: A Tour of Flux UIs in the Open Source Ecosystem - Stefan Prodan, ControlPlane"
-description: "The speaker provides an overview of recent developments in the Flux ecosystem, highlighting key features introduced in Flux 2.8, such as native Helm v4 support, Kubernetes server-side apply integration, improved health checks for custom res..."
+description:
+  The speaker provides an overview of recent developments in the Flux ecosystem,
+  highlighting key features introduced in Flux 2.8, such as native Helm v4 support,
+  Kubernetes server-side apply integration, improved health checks for custom res...
 resource: https://www.youtube.com/watch?v=pSfmhblzE-Y
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain the rationale behind Flux’s lack of an official UI, emphasizing t
 Several third-party UIs are discussed, including Freelance, Headlamp, Capacitor, and terminal-based options like K9s and Flux9s, each offering different approaches to managing and visualizing Flux resources.
 The speaker also demonstrates a lightweight, mobile-first UI built into Flux Operator, which prioritizes security through single sign-on and RBAC alignment, offers fast, scalable cluster views, and supports custom dashboards for all Flux CRDs.
 Future plans include enhancing the developer experience and adding dedicated support for Flagger, while maintaining a focus on security and scalability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

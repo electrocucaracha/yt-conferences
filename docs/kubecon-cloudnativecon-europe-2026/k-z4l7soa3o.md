@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: How To Run Kubernetes Pods On My Slurm-Based HPC Center
+  - Diego Ciangottini"
+nav_order: 270
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: How To Run Kubernetes Pods On My Slurm-Based HPC Center - Diego Ciangottini"
-description: "The speaker, a researcher at the National Institute of Nuclear Physics in Italy and maintainer of Interlink, introduces Interlink as a tool designed to seamlessly translate Kubernetes pod manifests into jobs that can run on supercomputers m..."
+description:
+  The speaker, a researcher at the National Institute of Nuclear Physics
+  in Italy and maintainer of Interlink, introduces Interlink as a tool designed to
+  seamlessly translate Kubernetes pod manifests into jobs that can run on supercomputers
+  m...
 resource: https://www.youtube.com/watch?v=K-Z4l7SOa3o
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Interlink is not intended for running Slurm under Kubernetes or managing Slurm a
 The system requires a recent Kubernetes version, a container runtime, shared file systems across nodes, and specific network capabilities, and is composed of three main components: a virtual kubelet provider for Kubernetes, an Interlink server on the HPC side, and a network plugin for pod communication.
 In the demo, the speaker shows how users can define notebook requirements, target specific nodes or supercomputers, and launch pods that are offloaded to the HPC, with full integration and access to logs, ultimately enabling the use of supercomputer GPUs for their workloads.
 The speaker invites interested participants to see a live demonstration at the kiosk session.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                         |

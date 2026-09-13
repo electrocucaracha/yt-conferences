@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Dragonfly V2.4.0 - Intro, Updates, Data Distribution in AI Infrastructure -
+  Wenbo Qi & Chenyu Zhang
+nav_order: 95
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Dragonfly V2.4.0 - Intro, Updates, Data Distribution in AI Infrastructure - Wenbo Qi & Chenyu Zhang"
-description: "In this presentation, Gio, the maintainer of Dronefly, introduces the project as an efficient, stable, and secure P2P-powered solution for data distribution and acceleration, particularly suited for cloud-native architectures and large-scal..."
+description:
+  In this presentation, Gio, the maintainer of Dronefly, introduces the
+  project as an efficient, stable, and secure P2P-powered solution for data distribution
+  and acceleration, particularly suited for cloud-native architectures and large-scal...
 resource: https://www.youtube.com/watch?v=zjCFSEVvaX4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Dronefly supports rapid delivery of files, container images, AI models, and logs
 The system offers three core image acceleration solutions and optimizes file distribution using P2P technology, supporting various protocols and object storage systems, and is increasingly focused on AI infrastructure for efficient model distribution.
 Recent updates in version 2.4 include a new transfer protocol, improved scheduling, preheating enhancements, and deprecation of the Go client in favor of Rust, all aimed at reducing download times and preventing overloads.
 Gio also demonstrates how Dronefly, integrated with Harbor and Kubernetes, streamlines AI model management and distribution, enabling versioning, access control, and efficient deployment, with ongoing plans to further optimize preheating, RDMA acceleration, lazy loading, and model security scanning.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                  |

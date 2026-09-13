@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Kubernetes SIG Storage: Intro & Deep Dive - Xing Yang, Michelle Au, Hemant
+  Kumar"
+nav_order: 141
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Kubernetes SIG Storage: Intro & Deep Dive - Xing Yang, Michelle Au, Hemant Kumar"
-description: "The session, led by members of SIG Storage from organizations like VMware, Google, and Red Hat, provided an overview of SIG Storage’s responsibilities in Kubernetes, including maintaining storage-related APIs, dynamic provisioning, volume p..."
+description:
+  The session, led by members of SIG Storage from organizations like VMware,
+  Google, and Red Hat, provided an overview of SIG Storage’s responsibilities in Kubernetes,
+  including maintaining storage-related APIs, dynamic provisioning, volume p...
 resource: https://www.youtube.com/watch?v=tGSEyEdh5ug
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The team highlighted key features introduced in Kubernetes releases 1.33 and 1.3
 Upcoming work in 1.35 and beyond includes security improvements for CSI drivers, further development of the Container Object Storage Interface (COSI), integration with cluster autoscaler for volume node limits, and the ability to mutate persistent volume node affinity.
 The discussion also addressed ongoing efforts around volume health reporting, disaster recovery, replication, and automatic volume expansion, as well as community engagement opportunities.
 Attendees asked questions about advanced CSI driver use cases, storage class recommendations for testing, data protection workflows, disaster recovery across clusters, and technical challenges with storage affinity and FUSE-based file systems, with SIG Storage encouraging participation and feedback through meetings and communication channels.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

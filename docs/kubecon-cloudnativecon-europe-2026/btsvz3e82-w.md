@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tutorial: DRA-matically Simple: On-Demand GPUs for MLOps - Doug Smith & Miguel
+  Duarte Barroso"
+nav_order: 380
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Tutorial: DRA-matically Simple: On-Demand GPUs for MLOps - Doug Smith & Miguel Duarte Barroso"
-description: "In this workshop, Doug Smith and Miguel introduce and demonstrate Dynamic Resource Allocation (DRRA), a new feature in Kubernetes 1.35 designed to improve resource management and efficiency. They explain the motivation behind DRRA, highligh..."
+description:
+  In this workshop, Doug Smith and Miguel introduce and demonstrate Dynamic
+  Resource Allocation (DRRA), a new feature in Kubernetes 1.35 designed to improve
+  resource management and efficiency. They explain the motivation behind DRRA, highligh...
 resource: https://www.youtube.com/watch?v=BTSvZ3E82_w
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ DRRA enables intent-based resource requests, allowing users to specify requireme
 The presenters outline the roles of driver developers, Kubernetes admins, and application developers in the DRRA workflow, using analogies like a restaurant's inventory, menu, and orders to clarify responsibilities.
 The hands-on portion guides participants through reserving and using virtual GPUs, modifying code, and observing resource claims, demonstrating how DRRA streamlines resource allocation, improves cluster efficiency, and simplifies administration compared to previous methods.
 The session concludes with practical troubleshooting and a Q&A, emphasizing the benefits of DRRA for both users and administrators.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                       |

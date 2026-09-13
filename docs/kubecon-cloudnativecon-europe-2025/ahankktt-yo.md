@@ -1,11 +1,19 @@
 ---
+layout: default
+title: Building a 5* Kubernetes Hotel - Dean Fuller & Rachael Wonnacott
+nav_order: 34
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Building a 5\* Kubernetes Hotel - Dean Fuller & Rachael Wonnacott"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=ahANKkTT-yo
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +22,7 @@ Here is a summary of the video transcript in 3-5 sentences: Fidelity Internation
 Initially, they adopted a "hotel" model, where the platform engineering team built the foundation, but later realized that this approach was not suitable for their customers' needs.
 They then transitioned to a "five-star hotel" model, which provides more features and capabilities, but also requires more maintenance and support.
 The organization has learned that they cannot abstract infrastructure away from their customers and must balance new feature development with maintenance and support efforts.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                      |

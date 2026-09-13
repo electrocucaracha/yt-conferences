@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "No Shame, Just Pain: How We Migrated Away From Kubernete... Jannis Relakis
+  & Michael Seiwald-McCarty"
+nav_order: 224
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "No Shame, Just Pain: How We Migrated Away From Kubernete... Jannis Relakis & Michael Seiwald-McCarty"
-description: "In this session, Janisle and Michael from Salonus detailed their company’s large-scale migration from multiple outdated Kubernetes flavors to a consolidated, modern platform. Facing challenges such as six different Kubernetes setups across..."
+description:
+  In this session, Janisle and Michael from Salonus detailed their company’s
+  large-scale migration from multiple outdated Kubernetes flavors to a consolidated,
+  modern platform. Facing challenges such as six different Kubernetes setups across...
 resource: https://www.youtube.com/watch?v=MNAcbHUBERU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Facing challenges such as six different Kubernetes setups across three cloud pro
 To enable zero-downtime migrations, they developed a custom cross-cluster service mesh called the "wormhole," allowing seamless communication between old and new clusters.
 Applications were categorized as stateless, singleton, or stateful, each with tailored migration strategies, and automation tooling was built to handle the vast number of required changes efficiently and consistently.
 Key lessons included minimizing scope changes, reducing environment-specific "snowflakes" to improve repeatability, investing in automation, and continually refining processes to ensure reliability and scalability throughout the multi-year migration.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                             |

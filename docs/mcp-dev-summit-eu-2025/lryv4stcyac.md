@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Lessons Learned Building the Chrome DevTools MCP Server"
-description: "Jack, a member of the Google Chrome DevTools team, introduces the newly released official Chrome DevTools MCP server, inviting feedback from users as it is still in early development. He discusses the team's journey in building AI tooling f..."
+nav_order: 22
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  Jack, a member of the Google Chrome DevTools team, introduces the newly
+  released official Chrome DevTools MCP server, inviting feedback from users as it
+  is still in early development. He discusses the team's journey in building AI tooling
+  f...
 resource: https://www.youtube.com/watch?v=lRYv4STCYAc
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He discusses the team's journey in building AI tooling for DevTools, highlightin
 Initial attempts at high-level, niche tools proved less effective, leading to the current approach of exposing granular, composable actions that better support diverse debugging workflows and simplify setup.
 Jack outlines ongoing challenges, such as managing the non-determinism of AI, ensuring compatibility across various clients and models, and developing robust evaluation methods for AI-driven features.
 He also notes the need to support richer outputs like images and to adapt to the rapidly evolving AI and MCP landscape, concluding with a call for community feedback to help improve the server.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

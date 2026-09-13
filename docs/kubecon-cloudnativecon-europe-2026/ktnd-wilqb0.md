@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "LLM Inference at Scale: Orchestrating Prefill-Decode Disaggregation - Zhonghu
+  Xu"
+nav_order: 198
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "LLM Inference at Scale: Orchestrating Prefill-Decode Disaggregation - Zhonghu Xu"
-description: "Junhu from Haw Club discusses the challenges and solutions for orchestrating large language model (LM) inference at scale, particularly focusing on prefill-decode (PD) disaggregation. He explains that traditional Kubernetes deployments stru..."
+description:
+  Junhu from Haw Club discusses the challenges and solutions for orchestrating
+  large language model (LM) inference at scale, particularly focusing on prefill-decode
+  (PD) disaggregation. He explains that traditional Kubernetes deployments stru...
 resource: https://www.youtube.com/watch?v=KtnD-wILqb0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ To address interference between the highly parallel prefill stage and the memory
 However, this introduces new challenges in routing, scaling, and network topology, which standard Kubernetes cannot efficiently manage.
 To solve these issues, the Volcano community developed Casina, an open-source orchestration tool designed specifically for LM inference, offering intelligent routing, dynamic autoscaling, topology-aware scheduling, and seamless integration with Kubernetes APIs.
 Casina enables flexible, efficient, and scalable deployment of disaggregated LM inference workloads, and continues to evolve with new features for heterogeneous hardware support and advanced scheduling.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

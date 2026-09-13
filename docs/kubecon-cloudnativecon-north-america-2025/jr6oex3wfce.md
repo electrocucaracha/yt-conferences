@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Zero Downtime Migration of Monolith To K8s Using Sidecar and Contai... Deepak
+  Kosaraju & James Dabbs
+nav_order: 346
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Zero Downtime Migration of Monolith To K8s Using Sidecar and Contai... Deepak Kosaraju & James Dabbs"
-description: "James and Deepak from Procore shared their experience migrating a large, legacy Rails monolith and its surrounding microservices to Kubernetes, highlighting both the challenges and solutions they encountered. They described the initial pain..."
+description:
+  James and Deepak from Procore shared their experience migrating a large,
+  legacy Rails monolith and its surrounding microservices to Kubernetes, highlighting
+  both the challenges and solutions they encountered. They described the initial pain...
 resource: https://www.youtube.com/watch?v=jR6Oex3wFCE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Their migration strategy focused on using open-source, CNCF-aligned tools, GitOp
 Key technical lessons included tuning deployment and health check settings to accommodate slow application startup and shutdown, iterating on pod termination strategies to achieve zero-downtime rollouts, and adapting autoscaling behaviors to match dynamic traffic patterns.
 They emphasized the importance of executive support, robust observability, and iterative testing in lower environments, ultimately achieving reliable, rapid deployments across multiple clusters with minimal customer impact.
 The team also contributed improvements back to open-source projects and encouraged others to experiment with their shared demo code.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                   |

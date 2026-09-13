@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Building AI/ML Pipelines on Kubernetes - Susan Wu, Ian Chakares, Lu Qiu, Anant
+  Vyas & Lucy Sweet
+nav_order: 29
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Building AI/ML Pipelines on Kubernetes - Susan Wu, Ian Chakares, Lu Qiu, Anant Vyas & Lucy Sweet"
-description: "The panel discussion, led by Susan Wu and featuring experts from Google, Uber, and Lens DB, focused on building AI/ML pipelines on Kubernetes and the evolving infrastructure to support these workloads. Panelists highlighted how AI/ML worklo..."
+description:
+  The panel discussion, led by Susan Wu and featuring experts from Google,
+  Uber, and Lens DB, focused on building AI/ML pipelines on Kubernetes and the evolving
+  infrastructure to support these workloads. Panelists highlighted how AI/ML worklo...
 resource: https://www.youtube.com/watch?v=jnCZ1T4nPLE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Companies like Uber and Lens DB described their use of Kubernetes to orchestrate
 The discussion also covered networking innovations, such as intelligent fabrics and managed offerings like DRA net and GKE inference gateway, which optimize performance for large-scale AI training and inference.
 The panel addressed challenges in development and testing environments, resource allocation, and the rise of agentic workloads, with Uber sharing its approach to building and managing internal AI agents and registries.
 Overall, the session emphasized Kubernetes’ rapid adaptation to AI/ML needs and the collaborative efforts across the community to make it a robust platform for next-generation workloads.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                           |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Cloud Is Lying To You: What It Really Takes To Run On-Prem - Paris Nakita
+  Kejser, Terma A/S"
+nav_order: 304
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "The Cloud Is Lying To You: What It Really Takes To Run On-Prem - Paris Nakita Kejser, Terma A/S"
-description: "Paris, an advanced platforms engineer at Turma, discusses his experience managing a large on-premises Kubernetes cluster and explores the reasons organizations may choose on-prem over cloud, such as compliance, control, and predictable cost..."
+description:
+  Paris, an advanced platforms engineer at Turma, discusses his experience
+  managing a large on-premises Kubernetes cluster and explores the reasons organizations
+  may choose on-prem over cloud, such as compliance, control, and predictable cost...
 resource: https://www.youtube.com/watch?v=K5Wh7dfbr4s
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He highlights the trade-offs between cloud and on-premises solutions, noting tha
 Paris emphasizes that running Kubernetes on-prem requires a shift in mindset, careful planning of hardware, networking, storage, and security, and the adoption of automation tools like Ansible and GitOps for effective management.
 He recommends technologies such as Cilium for networking, Istio for service mesh, and Ceph for storage to build resilient, secure, and vendor-independent clusters, while stressing the importance of robust backup strategies and observability.
 In the Q&A, Paris addresses challenges like DDoS protection, storage replication, automation from bare metal to Kubernetes, and the complexities of scaling and networking, ultimately advocating for ownership, transparency, and thoughtful design in on-premises infrastructure.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                    |

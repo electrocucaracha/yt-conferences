@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Kyverno Everywhere: Simplifying Unified Policy as Code - Jim Bugwadia & Charles-Edouard
+  Brétéché"
+nav_order: 145
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Kyverno Everywhere: Simplifying Unified Policy as Code - Jim Bugwadia & Charles-Edouard Brétéché"
-description: "Kivero aims to simplify Kubernetes policy and governance by providing a native, frictionless way for developers, operators, and security teams to manage and enforce policies as code within Kubernetes environments. The project, started in 20..."
+description:
+  Kivero aims to simplify Kubernetes policy and governance by providing
+  a native, frictionless way for developers, operators, and security teams to manage
+  and enforce policies as code within Kubernetes environments. The project, started
+  in 20...
 resource: https://www.youtube.com/watch?v=N5Lw9Mj_uW8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The project, started in 2019 by contributors from Nermata, has evolved to suppor
 Kivero distinguishes itself by adopting the Common Expression Language (CEL) for policy definitions, modularizing policy types, and enabling off-cluster policy testing and reporting.
 Beyond Kubernetes, Kivero now extends its policy engine to other domains like Terraform and authorization systems, offering a generic, programmable authorization server compatible with protocols such as Envoy and HTTP.
 The project continues to innovate with new features, improved modularity, and an SDK for embedding policy control in custom applications, while preparing for further CNCF graduation and broader use cases.
+
 # Main Points
 
 |   # | Main point                                                                                                                                       |

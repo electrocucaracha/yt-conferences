@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Konveyor AI for Every Language and the Future of App
+  Moderniza... Shaaf Syed"
+nav_order: 272
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Konveyor AI for Every Language and the Future of App Moderniza... Shaaf Syed"
-description: "Sha discusses the challenges of modernizing legacy enterprise applications, such as 30-year-old Enterprise Java Beans, to run on platforms like Kubernetes. He introduces the Conveyor community’s approach, which centers on a static code anal..."
+description:
+  Sha discusses the challenges of modernizing legacy enterprise applications,
+  such as 30-year-old Enterprise Java Beans, to run on platforms like Kubernetes.
+  He introduces the Conveyor community’s approach, which centers on a static code
+  anal...
 resource: https://www.youtube.com/watch?v=6FNR4jGox9w
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He introduces the Conveyor community’s approach, which centers on a static cod
 The system integrates with the language server protocol for detailed code insights and leverages large language models to generate meaningful code transformations.
 Additionally, Conveyor has implemented agentic AI to automate code fixes and validation, as well as a memory feature that retains organizational code changes to improve future recommendations.
 Sha concludes by demonstrating how the tool can convert outdated code, like RMI IOP, into modern REST endpoints, and invites attendees to learn more at the Conveyor kiosk.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

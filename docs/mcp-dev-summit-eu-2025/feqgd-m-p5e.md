@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Multi-Agent Multi-User Collab thru MCP: Enabling Asynchronous Human-Agent
+  Agent-Human Workflows"
+nav_order: 2
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "Multi-Agent Multi-User Collab thru MCP: Enabling Asynchronous Human-Agent Agent-Human Workflows"
-description: "In this presentation, Andrew Culverson and Mun Burid introduce MAMU, a prototype application developed over several weeks that enables multi-agent, multi-user workspaces using the Model Context Protocol (MCP) for multiplayer AI collaboratio..."
+description:
+  In this presentation, Andrew Culverson and Mun Burid introduce MAMU,
+  a prototype application developed over several weeks that enables multi-agent, multi-user
+  workspaces using the Model Context Protocol (MCP) for multiplayer AI collaboratio...
 resource: https://www.youtube.com/watch?v=FEqgD_m-p5E
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Unlike traditional single-user AI assistants, MAMU allows users’ agents to int
 The system consists of a MAMU MCP server, which facilitates agent-to-agent communication and shared tools, and a desktop client that supports chat, context sharing, scheduled tasks, and access control.
 Key underutilized MCP features—sampling (agent-to-agent requests) and elicitation (agent-to-human requests)—enable dynamic, context-rich interactions, such as daily standups, automated task creation, and human-in-the-loop approvals.
 The demo showcases how agents can coordinate tasks, access resources, and escalate queries to humans when needed, with future plans including enhanced context management and resource sharing to further improve collaborative AI workspaces.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                          |

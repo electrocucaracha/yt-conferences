@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Cloud Native University: Platform Engineering - About
+  Tools... Max Körbächer"
+nav_order: 50
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Cloud Native University: Platform Engineering - About Tools... Max Körbächer"
-description: "Max, an open source community leader and author on platform engineering, emphasizes that successful platform engineering is less about specific technologies and more about people, culture, and processes. He explains that platform engineerin..."
+description:
+  Max, an open source community leader and author on platform engineering,
+  emphasizes that successful platform engineering is less about specific technologies
+  and more about people, culture, and processes. He explains that platform engineerin...
 resource: https://www.youtube.com/watch?v=jhF3sTA7B0M
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that platform engineering aims to reduce cognitive load for develope
 Max stresses the importance of treating platforms as evolving products rather than static projects, advocating for self-service, continuous measurement of developer experience, and close collaboration with users through research and feedback loops.
 He highlights the need for a culture of empowerment, learning, and open contribution, as well as internal advocacy to communicate platform value.
 Ultimately, Max argues that shifting from infrastructure to product thinking, focusing on outcomes over outputs, and fostering a supportive culture are key to building effective and scalable platforms.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

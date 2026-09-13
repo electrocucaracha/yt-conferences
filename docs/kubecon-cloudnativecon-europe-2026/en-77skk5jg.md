@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "10 Years of Cilium: Connecting, Securing, and Simplifying the... Bill M, Paul
+  A, Marcelo M & Neha A"
+nav_order: 2
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "10 Years of Cilium: Connecting, Securing, and Simplifying the... Bill M, Paul A, Marcelo M & Neha A"
-description: "The session marked the 10th anniversary of Cilium, a CNI project that has become a standard for cloud-native networking, security, and observability, powered by eBPF. The speakers highlighted Cilium’s growth to over 1,000 contributors and i..."
+description:
+  The session marked the 10th anniversary of Cilium, a CNI project that
+  has become a standard for cloud-native networking, security, and observability,
+  powered by eBPF. The speakers highlighted Cilium’s growth to over 1,000 contributors
+  and i...
 resource: https://www.youtube.com/watch?v=EN_77SkK5jg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Marcelo from Celonis shared their migration journey to Cilium, emphasizing the n
 Paul introduced Tetragon, Cilium’s runtime security sibling, which leverages eBPF for deep observability and enforcement, and described its rapid feature development since 2022.
 Niha from Microsoft discussed major investments in Cilium, including multicluster scalability, hybrid routing, and the integration of Z tunnel and Spire for native, sidecarless MTLS encryption, enhancing security for AI-era workloads.
 The session concluded with community updates, new resources, and an invitation for further contributions to the Cilium ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                          |

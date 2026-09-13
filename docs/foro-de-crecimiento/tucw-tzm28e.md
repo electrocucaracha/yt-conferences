@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "#1 Personal Branding Expert: How to Make Clients Seek You | Humberto Herrera"
-description: "En este episodio del Foro de Crecimiento, Humberto Herrera, experto en manejo de crisis y marca personal, comparte su experiencia sobre cómo convertirse en el “experto inevitable” de una industria. A través de su historia personal, destaca..."
+nav_order: 1
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En este episodio del Foro de Crecimiento, Humberto Herrera, experto en
+  manejo de crisis y marca personal, comparte su experiencia sobre cómo convertirse
+  en el “experto inevitable” de una industria. A través de su historia personal, destaca...
 resource: https://www.youtube.com/watch?v=Tucw-tzm28E
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ A través de su historia personal, destaca la importancia de entender profundame
 Herrera enfatiza que la marca personal no es ser influencer, sino convertirse en un embajador corporativo que aporta valor real y se diferencia en un nicho específico.
 Además, aborda la gestión de crisis, recomendando no sobrerreaccionar y priorizar el ganar sobre tener la razón, así como la importancia de invertir en la marca personal y rodearse de personas que impulsen el crecimiento.
 Finalmente, invita a los oyentes a definir y escribir cómo quieren vivir, resaltando que el éxito radica en tomar control de la propia vida y contribuir al bienestar de otros.
+
 # Main Points
 
 |   # | Main point                                                                                                                   |

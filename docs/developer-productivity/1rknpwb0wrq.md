@@ -1,11 +1,19 @@
 ---
+layout: default
+title: Making the Most of Your Manager • Katrina Clokie • YOW! 2022
+nav_order: 86
+parent: Developer Productivity
 type: Video Note
-title: "Making the Most of Your Manager • Katrina Clokie • YOW! 2022"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=1RknpWB0wRQ
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +23,7 @@ She emphasizes the importance of having open and honest conversations with one's
 Katrina also discusses the concept of sponsorship, where a manager becomes an advocate for an employee's career growth, and provides tips on how to leverage this relationship.
 Additionally, she addresses questions from the audience, including those related to verbal vs.
 written feedback and navigating salary increases in high-inflation environments.
+
 # Main Points
 
 |   # | Main point |

@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Closing - Jeffrey Sica, CNCF"
-description: "The speaker, representing the CNCF, announces the conclusion of the last lightning talk and thanks the audience for staying until the end, expressing surprise at the large turnout. They acknowledge the effort and nerves involved for the pre..."
+nav_order: 210
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  The speaker, representing the CNCF, announces the conclusion of the last
+  lightning talk and thanks the audience for staying until the end, expressing surprise
+  at the large turnout. They acknowledge the effort and nerves involved for the pre...
 resource: https://www.youtube.com/watch?v=NMO_u_1OHIE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ The speaker, representing the CNCF, announces the conclusion of the last lightni
 They acknowledge the effort and nerves involved for the presenters and extend appreciation to them.
 The speaker reminds attendees that CubeCon officially begins the next day with keynotes and more project-focused sessions, and encourages everyone to visit the project pavilion to meet CNCF staff and project representatives in person.
 They also mention upcoming parties and wish everyone an enjoyable CubeCon before signing off.
+
 # Main Points
 
 |   # | Main point                                                                             |

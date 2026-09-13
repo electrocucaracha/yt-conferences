@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Scopes To Intent: Reimagining Authorization for Autonomou... Andres Aguiar
+  & Abhishek Hingnikar"
+nav_order: 30
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "From Scopes To Intent: Reimagining Authorization for Autonomou... Andres Aguiar & Abhishek Hingnikar"
-description: "In this presentation, Andreas from Opta and Abishek from Octa discuss the challenges of authorizing autonomous agents, particularly as their autonomy and access to business tools increase potential risks. They illustrate how current industr..."
+description:
+  In this presentation, Andreas from Opta and Abishek from Octa discuss
+  the challenges of authorizing autonomous agents, particularly as their autonomy
+  and access to business tools increase potential risks. They illustrate how current
+  industr...
 resource: https://www.youtube.com/watch?v=pQnsFT7BViE
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They illustrate how current industry practices, such as OAuth scopes, often gran
 Through demos, they showcase approaches for fine-grained, intent-based authorization, where permissions are dynamically granted per task rather than per agent, reducing the attack surface and improving security.
 They highlight ongoing research and industry efforts, including projects like Open FGA and containment strategies, to address these issues, emphasizing that intent-based authorization alone is not sufficient and must be combined with other security layers.
 The talk concludes by inviting further discussion and sharing resources for those interested in experimenting with these emerging authorization models.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

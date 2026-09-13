@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Esta conversación puede salvar tu relación – Chava Gutiérrez | Sesión 34
+nav_order: 27
+parent: Foro De Crecimiento
 type: Video Note
-title: "Esta conversación puede salvar tu relación – Chava Gutiérrez | Sesión 34"
-description: "En esta entrevista, Chava Gutiérrez, terapeuta de parejas y autor, comparte claves para construir relaciones de pareja sanas y familias fuertes. Explica que el 70% de la dinámica de una relación depende de la energía vital y la salud mental..."
+description:
+  En esta entrevista, Chava Gutiérrez, terapeuta de parejas y autor, comparte
+  claves para construir relaciones de pareja sanas y familias fuertes. Explica que
+  el 70% de la dinámica de una relación depende de la energía vital y la salud mental...
 resource: https://www.youtube.com/watch?v=9i2veE05Www
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Explica que el 70% de la dinámica de una relación depende de la energía vital
 Propone la "regla del tres" como estructura: conectar emocionalmente cada tres días, salir de la rutina cada tres semanas y vivir una experiencia significativa juntos cada tres años.
 Subraya la necesidad de roles claros, comunicación abierta y presencia emocional, tanto en la pareja como en la crianza de los hijos, destacando que la presencia y el trabajo en equipo son fundamentales para el desarrollo emocional de los niños.
 Finalmente, enfatiza que el bienestar familiar es la base para enfrentar los retos externos y que aprender y practicar estos principios requiere tiempo, autoconocimiento y acción consciente.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

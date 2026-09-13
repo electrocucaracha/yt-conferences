@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "QEMU in the Fast Lane: Accelerating KubeVirt Networking With... Daniel Borkmann
+  & Anton Protopopov"
+nav_order: 249
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "QEMU in the Fast Lane: Accelerating KubeVirt Networking With... Daniel Borkmann & Anton Protopopov"
-description: "The talk discusses accelerating virtual machine (VM) networking in Kubernetes using eBPF, focusing on the integration of KubeVirt, Cilium, and the Netkit device driver. The speaker explains how traditional VM and container infrastructures c..."
+description:
+  The talk discusses accelerating virtual machine (VM) networking in Kubernetes
+  using eBPF, focusing on the integration of KubeVirt, Cilium, and the Netkit device
+  driver. The speaker explains how traditional VM and container infrastructures c...
 resource: https://www.youtube.com/watch?v=3X0X4az_E_4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The speaker explains how traditional VM and container infrastructures can be uni
 Benchmarks show significant improvements in throughput and latency for both container and VM workloads, especially when using advanced kernel features such as AF_XDP for zero-copy networking.
 The team demonstrates a prototype where Netkit and AF_XDP are used to connect VMs directly to physical NIC queues, further boosting performance and reducing overhead.
 The session concludes with a live demo, discussion of ongoing kernel development, and answers to audience questions about configuration, feature support, and future enhancements.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

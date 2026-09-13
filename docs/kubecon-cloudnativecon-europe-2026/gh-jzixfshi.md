@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Jaeger V2: The Maintainers' Guide To OpenTelemetry-Native Tracing - Pavol
+  Loffay, Red Hat"
+nav_order: 160
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Jaeger V2: The Maintainers' Guide To OpenTelemetry-Native Tracing - Pavol Loffay, Red Hat"
-description: "In this session, Pavle, a maintainer of the Jaeger project, introduces the fundamentals of distributed tracing and observability, focusing on Jaeger and its current version, Jaeger V2. He explains that distributed tracing is essential for u..."
+description:
+  In this session, Pavle, a maintainer of the Jaeger project, introduces
+  the fundamentals of distributed tracing and observability, focusing on Jaeger and
+  its current version, Jaeger V2. He explains that distributed tracing is essential
+  for u...
 resource: https://www.youtube.com/watch?v=gH_JzIXFshI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that distributed tracing is essential for understanding complex syst
 The talk covers Jaeger's architecture, its reliance on OpenTelemetry for instrumentation, and its data model based on traces and spans, highlighting features such as error detection, service diagrams, and advanced visualizations like flame graphs and trace diffs.
 Pavle demonstrates Jaeger's UI with a live demo, discusses integration with Prometheus for metrics, and outlines new features in Jaeger V2, including improved storage options, the MCP server for efficient trace querying, and UI enhancements like dark mode and incomplete trace detection.
 The session concludes with a discussion of the roadmap, including plans for AI-assisted trace analysis and support for GenAI workloads, and addresses audience questions on data retention, dashboard customization, and modeling complex trace scenarios.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                        |

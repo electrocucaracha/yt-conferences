@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Developer’s Nightmare: How To Survive Compliance Che... Alexandra Hou
+  Aldershaab & Thomas Vitale"
+nav_order: 355
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Developer’s Nightmare: How To Survive Compliance Che... Alexandra Hou Aldershaab & Thomas Vitale"
-description: "In this talk, Alexandra and Thomas discuss the challenges developers face with compliance checklists when trying to ship new features quickly. They demonstrate how manual compliance processes—such as license approvals, vulnerability waivers..."
+description:
+  In this talk, Alexandra and Thomas discuss the challenges developers
+  face with compliance checklists when trying to ship new features quickly. They demonstrate
+  how manual compliance processes—such as license approvals, vulnerability waivers...
 resource: https://www.youtube.com/watch?v=PWtkwLbwEH0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They demonstrate how manual compliance processes—such as license approvals, vu
 By leveraging tools like SBOMs, Dependency Track, automated GitHub integrations, commit and image signing, and frameworks like SLSA, they show how much of the compliance burden can be automated within CI/CD pipelines.
 This automation not only ensures that legal and security requirements are met but also allows developers to focus on building features rather than paperwork.
 Ultimately, they advocate for embedding compliance into developer platforms, enabling teams to deliver secure, compliant software efficiently while fostering collaboration between developers and compliance stakeholders.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

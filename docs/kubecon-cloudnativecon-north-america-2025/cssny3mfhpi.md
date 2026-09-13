@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Vitess: Unlimited Database Scalability - Matt Lord,
+  Maintainer"
+nav_order: 240
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Vitess: Unlimited Database Scalability - Matt Lord, Maintainer"
-description: "In this talk, Matt Lord introduces Vitess, a CNCF project designed as a cloud-native, massively scalable, and highly available database solution that is MySQL compatible. Vitess enables organizations to scale both their data storage and ope..."
+description:
+  In this talk, Matt Lord introduces Vitess, a CNCF project designed as
+  a cloud-native, massively scalable, and highly available database solution that
+  is MySQL compatible. Vitess enables organizations to scale both their data storage
+  and ope...
 resource: https://www.youtube.com/watch?v=CSSnY3MFhPI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Vitess enables organizations to scale both their data storage and operations tea
 Key features include seamless sharding and resharding, materialized views, online schema changes with controlled cutovers, robust backup and recovery options, and strong observability.
 Vitess employs a shared-nothing architecture for isolation and resilience, supports consolidation and pooling to handle high-traffic events, and incorporates mechanisms for graceful degradation, load shedding, and circuit breaking to maintain system health.
 Major companies like Slack, Square, Shopify, and GitHub use Vitess in production, demonstrating its reliability and scalability for large-scale applications.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

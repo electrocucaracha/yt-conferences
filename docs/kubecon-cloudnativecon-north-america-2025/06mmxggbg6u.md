@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Rearchitecting Compute at Coinbase: Migrating To Karpenter for Fast, Reliable
+  Scali... Frances Chong"
+nav_order: 255
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Rearchitecting Compute at Coinbase: Migrating To Karpenter for Fast, Reliable Scali... Frances Chong"
-description: "In this talk, Francis, a staff software engineer at Coinbase, discusses the company's migration from EKS managed node groups and cluster autoscaler to Carpenter for Kubernetes cluster scaling. Coinbase initially faced challenges with slow r..."
+description:
+  In this talk, Francis, a staff software engineer at Coinbase, discusses
+  the company's migration from EKS managed node groups and cluster autoscaler to Carpenter
+  for Kubernetes cluster scaling. Coinbase initially faced challenges with slow r...
 resource: https://www.youtube.com/watch?v=06MmxgGbg6U
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Carpenter was adopted for its dynamic, fast, and flexible node provisioning, red
 The migration involved creating a custom controller to dynamically manage EC2 node classes and configurations, addressing issues like subnet tagging and security group management.
 Lessons learned include handling increased pod disruptions, managing stateful versus stateless workloads, addressing IP exhaustion, and the importance of observability and clear documentation for engineers.
 While most workloads now run on Carpenter, some critical infrastructure remains on managed node groups for stability, and future plans include exploring spot instances, dynamic pricing, and multi-cloud support.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

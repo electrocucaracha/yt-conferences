@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Mentor de emprendedores: Tu vida en 5 años depende de lo que haces hoy | Theo
+  Galan Jr."
+nav_order: 59
+parent: Foro De Crecimiento
 type: Video Note
-title: "Mentor de emprendedores: Tu vida en 5 años depende de lo que haces hoy | Theo Galan Jr."
-description: "En esta entrevista, Theo Galán Junior, empresario y conferencista internacional, comparte su historia de emprendimiento inspirada por sus padres inmigrantes y su deseo de tomar control de su vida a través del control de sus ingresos. Theo e..."
+description:
+  En esta entrevista, Theo Galán Junior, empresario y conferencista internacional,
+  comparte su historia de emprendimiento inspirada por sus padres inmigrantes y su
+  deseo de tomar control de su vida a través del control de sus ingresos. Theo e...
 resource: https://www.youtube.com/watch?v=TFKOX8mTRsc
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Theo enfatiza la importancia de definir un destino claro, elegir el vehículo ad
 Destaca que el éxito es un camino continuo, no un punto de llegada, y que los hábitos, la preparación mental y la capacidad de enfrentar el miedo son claves para avanzar.
 Además, resalta el valor de los aliados, la amistad, la lealtad y la cooperación, afirmando que el éxito sin personas y liderazgo es limitado.
 Finalmente, Theo subraya la importancia de soñar, servir a los demás y correr la carrera de la vida con entusiasmo, fe y propósito, recordando que el verdadero éxito es la paz mental que proviene de dar lo mejor de uno mismo en el camino.
+
 # Main Points
 
 |   # | Main point                                                                                                 |

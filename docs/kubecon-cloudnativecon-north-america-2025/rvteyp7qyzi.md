@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Simplifying Cloud Native App Testing Across Environments - Laurent Broudoux
+  & Artur Ciocanu
+nav_order: 281
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Simplifying Cloud Native App Testing Across Environments - Laurent Broudoux & Artur Ciocanu"
-description: "The video discusses the challenges of deploying cloud-native applications across various environments and introduces tools to enhance resilience, abstraction, and portability without sacrificing developer experience. Using a pizza store app..."
+description:
+  The video discusses the challenges of deploying cloud-native applications
+  across various environments and introduces tools to enhance resilience, abstraction,
+  and portability without sacrificing developer experience. Using a pizza store app...
 resource: https://www.youtube.com/watch?v=RvTEYp7QyzI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Using a pizza store application as an example, the presenters demonstrate how Da
 They also introduce Microx, another CNCF project focused on API simulation, mocking, and contract testing, which simplifies local development and testing by providing lightweight simulations of dependent services.
 By integrating Dapper and Microx with test containers, developers can efficiently manage dependencies, ensure API conformance, and reduce resource consumption during development.
 The session concludes by highlighting how these tools together streamline the development and testing of resilient, portable, and robust cloud-native applications, even when incorporating advanced features like durable workflows and AI-driven processes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

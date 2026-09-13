@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "SIG Contributor Experience: Guiding C... Nabarun Pal, Priyanka Saggu, Arpit
+  Agrawal & Mario Fahlandt"
+nav_order: 317
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "SIG Contributor Experience: Guiding C... Nabarun Pal, Priyanka Saggu, Arpit Agrawal & Mario Fahlandt"
-description: "The session featured the SIG Contributor Experience (SIG ContribEx) team, who discussed their roles in supporting the Kubernetes community, including managing social media, organizing events, and maintaining project infrastructure. They emp..."
+description:
+  The session featured the SIG Contributor Experience (SIG ContribEx) team,
+  who discussed their roles in supporting the Kubernetes community, including managing
+  social media, organizing events, and maintaining project infrastructure. They emp...
 resource: https://www.youtube.com/watch?v=QU1Ysn8QnEc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They emphasized the importance of the code of conduct and highlighted the scale 
 The team described initiatives such as the LWKD (Last Week in Kubernetes Development) newsletter, which summarizes weekly project updates, and detailed their efforts in GitHub management, security, and elections.
 They also outlined various mentoring and onboarding programs, including the New Contributor Orientation (NCO) sessions and participation in external mentorships like Google Summer of Code, aimed at attracting and supporting new contributors.
 The session concluded with information on how to get involved, join meetings, and access resources, while clarifying that the NCO is specific to Kubernetes and not other CNCF projects like Argo.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                              |

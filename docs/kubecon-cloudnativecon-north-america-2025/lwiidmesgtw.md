@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "KubeEdge DeepDive: Extending Kubernetes To the... Tina Tsou, Hongbing Zhang,
+  Huan Wei & Yin Ding"
+nav_order: 136
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "KubeEdge DeepDive: Extending Kubernetes To the... Tina Tsou, Hongbing Zhang, Huan Wei & Yin Ding"
-description: "The video features a deep dive into the KubeEdge project, presented by Technical Steering Committee members Kevin Juan and Ahumb. KubeEdge, which graduated at the end of last year, extends Kubernetes capabilities from data centers to edge e..."
+description:
+  The video features a deep dive into the KubeEdge project, presented by
+  Technical Steering Committee members Kevin Juan and Ahumb. KubeEdge, which graduated
+  at the end of last year, extends Kubernetes capabilities from data centers to edge
+  e...
 resource: https://www.youtube.com/watch?v=LwIiDmesgtw
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ KubeEdge, which graduated at the end of last year, extends Kubernetes capabiliti
 The speakers highlight significant real-world deployments, such as smart retail systems, highway tolling, smart vehicles, satellites, and robotics, emphasizing KubeEdge’s lightweight architecture, unified abstraction for heterogeneous hardware, and robust remote management features.
 They discuss technical aspects like network communication, device management, edge-to-edge networking, and AI integration, as well as the project’s transparent and sustainable governance model, broad industry adoption, and active community engagement.
 The Q&A addresses topics including deployment at scale, security, minimal resource requirements, and the architectural differences between KubeEdge and other edge Kubernetes solutions, underscoring KubeEdge’s focus on lightweight, autonomous edge operations and seamless cloud collaboration.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

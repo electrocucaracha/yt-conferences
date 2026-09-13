@@ -1,11 +1,23 @@
 ---
+layout: default
+title: How to introduce yourself—and get hired | Rebecca Okamoto | TEDxNorthwesternU
+nav_order: 15
+parent: Interview Preparation
 type: Video Note
-title: "How to introduce yourself—and get hired | Rebecca Okamoto | TEDxNorthwesternU"
-description: "The speaker shares their personal experience of how a simple change in their introduction can make a significant difference in their career. They initially thought that their qualifications were more important than their introduction, but a..."
+description:
+  The speaker shares their personal experience of how a simple change in
+  their introduction can make a significant difference in their career. They initially
+  thought that their qualifications were more important than their introduction, but
+  a...
 resource: https://www.youtube.com/watch?v=f_N3PGvnVKg
-tags: ["interview-preparation", video, learning]
+tags:
+  - interview-preparation
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +25,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 The speaker shares their personal experience of how a simple change in their introduction can make a significant difference in their career.
 They initially thought that their qualifications were more important than their introduction, but after a disappointing interview, they realized that capturing someone's attention was key to success.
 The speaker then shares the "secret" of introducing oneself perfectly in 20 words or less, which involves thinking sound bite and explaining what you can do for the listener, rather than just talking about yourself.
+
 # Main Points
 
 |   # | Main point                                                                                   |

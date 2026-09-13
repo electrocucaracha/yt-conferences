@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "AdminNetworkPolicy: From Alpha To Beta... Dan Winship, Surya Seetharaman,
+  Nadia Pinaeva & Bowei Du"
+nav_order: 10
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "AdminNetworkPolicy: From Alpha To Beta... Dan Winship, Surya Seetharaman, Nadia Pinaeva & Bowei Du"
-description: "The video presents an overview of the evolution of Kubernetes cluster network policy, tracing its development from the initial admin network policy (ANP) and baseline admin network policy (BNP) APIs to the new unified cluster network policy..."
+description:
+  The video presents an overview of the evolution of Kubernetes cluster
+  network policy, tracing its development from the initial admin network policy (ANP)
+  and baseline admin network policy (BNP) APIs to the new unified cluster network
+  policy...
 resource: https://www.youtube.com/watch?v=SWf3Z3fV0ic
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The speakers explain that the original separation of ANP and BNP, which served s
 Key changes in the new API include support for multiple baseline policies with priorities, the extension of the "pass" action to both tiers, and a renaming of the "allow" action to "accept" for clarity.
 The team highlights ongoing and future work, such as explicit allow/deny-all rules, improved ingress rule matching, and potential support for identity-based policies and additional tiers.
 They encourage community involvement and feedback as the API moves toward beta status, emphasizing the importance of simplicity, extensibility, and clear governance in policy management.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Keynote: Cloud Native in Europe: Regulation, Sovereignty, and the Future of
+  Open Collab... Jan Melen"
+nav_order: 170
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: Cloud Native in Europe: Regulation, Sovereignty, and the Future of Open Collab... Jan Melen"
-description: "The speaker discusses how the concept of digital sovereignty, particularly in Europe, is shaping policy and legislation around open source technology, citing examples like the Cyber Resilience Act and EU tech initiatives. While these effort..."
+description:
+  The speaker discusses how the concept of digital sovereignty, particularly
+  in Europe, is shaping policy and legislation around open source technology, citing
+  examples like the Cyber Resilience Act and EU tech initiatives. While these effort...
 resource: https://www.youtube.com/watch?v=_ba1NE2bvXQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ While these efforts aim to enhance security and trust, there is a risk that inte
 The speaker advocates for distinguishing between code sovereignty and deployment sovereignty: keeping code as a global, collaboratively developed commons, while allowing regions to maintain sovereign control over their deployments to meet local requirements.
 As regulations evolve, organizations must move from passive consumption to active support of open source projects, with foundations and communities playing a crucial role in governance, security, and compliance.
 Ultimately, the speaker urges that digital sovereignty should focus on sovereign deployments built on shared code, emphasizing collective responsibility to sustain and protect the open source ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                    |

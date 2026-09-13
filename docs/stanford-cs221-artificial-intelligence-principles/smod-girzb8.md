@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 10: Games I"
-description: "In this lecture, the focus is on games as state-based models, building on previous discussions of Markov decision processes (MDPs) and reinforcement learning. The instructor introduces the formal structure of games, particularly two-player..."
+nav_order: 1
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  In this lecture, the focus is on games as state-based models, building
+  on previous discussions of Markov decision processes (MDPs) and reinforcement learning.
+  The instructor introduces the formal structure of games, particularly two-player...
 resource: https://www.youtube.com/watch?v=SMOD_GiRzb8
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ The instructor introduces the formal structure of games, particularly two-player
 Key concepts include the evaluation of game states using recurrences such as expected value, expectimax (for optimal play against a fixed opponent), and minimax (for optimal play against an unknown, adversarial opponent).
 The lecture also covers computational strategies like alpha-beta pruning to speed up minimax search and the use of evaluation functions for approximate, depth-limited search.
 The session concludes by highlighting the importance of understanding optimality relative to opponent strategies and sets the stage for learning evaluation functions in future lectures.
+
 # Main Points
 
 |   # | Main point                                                                                                                                 |

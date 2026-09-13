@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Benchmarking GenAI Foundation Model Inference Optimizations on Kubernetes -
+  S.M. Varghese & B. Slabe
+nav_order: 22
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Benchmarking GenAI Foundation Model Inference Optimizations on Kubernetes - S.M. Varghese & B. Slabe"
-description: 'The talk "Benchmarking Foundation Models on Kubernetes" discusses the optimization of generative AI models, specifically focusing on model inference and latency reduction techniques. The presenters, Sachin Vargas and Brendan Slave, introduc...'
+description:
+  The talk "Benchmarking Foundation Models on Kubernetes" discusses the
+  optimization of generative AI models, specifically focusing on model inference and
+  latency reduction techniques. The presenters, Sachin Vargas and Brendan Slave, introduc...
 resource: https://www.youtube.com/watch?v=_JhARfcw58A
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The talk "Benchmarking Foundation Models on Kubernetes" discusses the optimizati
 The presenters, Sachin Vargas and Brendan Slave, introduce a benchmarking tool called Inference Perf, which allows for the evaluation of performance gains from various techniques such as prefix caching, chunking, quantization, and speculative decoding.
 They demonstrate the effectiveness of these techniques using a controlled experiment setup on a GKE cluster, showcasing improvements in latency and throughput.
 The talk highlights the importance of benchmarking and standardizing performance evaluation methods for generative AI models, particularly in the context of Kubernetes deployments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

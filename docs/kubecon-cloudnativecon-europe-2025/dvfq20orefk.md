@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How To Supercharge AI/ML Observability With OpenTelemetry and Fluent Bit -
+  Celalettin Calis
+nav_order: 122
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "How To Supercharge AI/ML Observability With OpenTelemetry and Fluent Bit - Celalettin Calis"
-description: "The speaker discusses supercharging AIM ML observability using open telemetry and Fluent Bit. They highlight challenges in Kubernetes environments, such as ephemeral compute, resource organization, and autoscaling, which can lead to blind s..."
+description:
+  The speaker discusses supercharging AIM ML observability using open telemetry
+  and Fluent Bit. They highlight challenges in Kubernetes environments, such as ephemeral
+  compute, resource organization, and autoscaling, which can lead to blind s...
 resource: https://www.youtube.com/watch?v=DVFQ20OrEFk
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The speaker discusses supercharging AIM ML observability using open telemetry an
 They highlight challenges in Kubernetes environments, such as ephemeral compute, resource organization, and autoscaling, which can lead to blind spots in troubleshooting model issues.
 The speaker proposes a solution using Open Telemetry, a vendor-neutral observability framework, and Fluent Bit, an end-to-end observability pipeline.
 They demonstrate how Fluent Bit can collect, transform, enrich, and deliver data from Open Telemetry, providing distribution-aware metrics, semantic understanding, and contextual correlation.
+
 # Main Points
 
 |   # | Main point                                                                                                            |

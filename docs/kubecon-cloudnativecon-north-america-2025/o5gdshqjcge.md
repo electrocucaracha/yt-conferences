@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Retrofitting OTEL Collectors & Prometheus - How To Overcome Scale... Vijay
+  Samuel & Sandeep Raveesh
+nav_order: 259
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Retrofitting OTEL Collectors & Prometheus - How To Overcome Scale... Vijay Samuel & Sandeep Raveesh"
-description: "In this presentation, Vijay Samuel and Sep from eBay’s reliability engineering team discuss how they have adapted open telemetry collectors and Prometheus to meet the demands of eBay’s large-scale infrastructure. They describe three main us..."
+description:
+  In this presentation, Vijay Samuel and Sep from eBay’s reliability engineering
+  team discuss how they have adapted open telemetry collectors and Prometheus to meet
+  the demands of eBay’s large-scale infrastructure. They describe three main us...
 resource: https://www.youtube.com/watch?v=O5GdShQJCgE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +26,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 In this presentation, Vijay Samuel and Sep from eBay’s reliability engineering team discuss how they have adapted open telemetry collectors and Prometheus to meet the demands of eBay’s large-scale infrastructure.
 They describe three main use cases: first, optimizing the service graph connector by pulling completed traces from ClickHouse storage, which reduces memory requirements and accommodates cross-cluster communication; second, extending Prometheus exemplars retention by streaming them into ClickHouse and exposing a compatible API for UI queries, enabling weeks-long retention and efficient triage without modifying Prometheus itself; and third, scaling Prometheus through sharding, replication, and multi-tenancy, while introducing an index store inspired by Google Monarch to direct queries only to relevant shards, thus improving scalability and efficiency.
 The team also addresses questions about their custom ingest gateway, indexer TTL management, use of spanmetric connector, and differences from open-source HA Prometheus solutions, emphasizing their non-intrusive, horizontally scalable, and resilient architecture.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

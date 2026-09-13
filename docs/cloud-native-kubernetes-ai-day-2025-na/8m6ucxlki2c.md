@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  You Got a Match! LLM Prefix Aware Routing With Kubernetes - Ricardo Noriega
+  & Cong Liu
+nav_order: 19
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "You Got a Match! LLM Prefix Aware Routing With Kubernetes - Ricardo Noriega & Cong Liu"
-description: "The presentation discusses the Gateway API Inference Extension, a Kubernetes project that enables AI-aware routing for inference workloads by transforming traditional gateways into smart proxies, known as inference gateways. This extension..."
+description:
+  The presentation discusses the Gateway API Inference Extension, a Kubernetes
+  project that enables AI-aware routing for inference workloads by transforming traditional
+  gateways into smart proxies, known as inference gateways. This extension...
 resource: https://www.youtube.com/watch?v=8M6uCXlKI2c
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ This extension allows for intelligent request routing based on model names, late
 The LLMD project builds on this by providing a distributed platform for large-scale AI model serving, implementing advanced routing strategies such as prefix-aware routing, which tracks cached prefixes across servers to maximize cache hits and optimize latency and throughput.
 The speakers compare various routing strategies, highlighting the benefits of prefix-aware routing and the use of a scoring framework that balances cache affinity and load to prevent server overload.
 Benchmarks demonstrate significant improvements in cache hit rates, response times, and throughput, and the solution is production-ready with ongoing enhancements for multi-tier caching and automated cache management.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                              |

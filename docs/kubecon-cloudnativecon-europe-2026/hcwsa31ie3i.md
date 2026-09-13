@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Continuous AI Conformance: The kOp... Arnaud Meukam, Janet Kuo, Justin Santa
+  Barbara, Ciprian Hacman"
+nav_order: 78
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Continuous AI Conformance: The kOp... Arnaud Meukam, Janet Kuo, Justin Santa Barbara, Ciprian Hacman"
-description: "The video features a panel of Kubernetes experts discussing the need for an AI conformance program, particularly in the context of the open-source KOPS project. They explain that traditional Kubernetes conformance, designed for stateless an..."
+description:
+  The video features a panel of Kubernetes experts discussing the need
+  for an AI conformance program, particularly in the context of the open-source KOPS
+  project. They explain that traditional Kubernetes conformance, designed for stateless
+  an...
 resource: https://www.youtube.com/watch?v=hcwsA31ie3I
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that traditional Kubernetes conformance, designed for stateless and
 To address fragmentation and ensure reliability, the Kubernetes AI conformance program was established, setting standards for platforms to support AI workloads effectively.
 The KOPS team has integrated automated AI conformance testing into their workflow, creating fast-path tests for common configurations like the Nvidia GPU operator, while allowing flexibility for alternative solutions.
 Their approach emphasizes transparency, automation, and the development of a centralized, reusable test suite to benefit the broader Kubernetes ecosystem, encouraging other distributions and vendors to adopt and contribute to AI conformance standards.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                         |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Contributing To Kubernetes in an Age of AI - Mario F, Nabarun P, Priyanka S,
+  Madhav J & Kaslin F
+nav_order: 46
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Contributing To Kubernetes in an Age of AI - Mario F, Nabarun P, Priyanka S, Madhav J & Kaslin F"
-description: "The session, led by chairs and technical leads of the Kubernetes SIG Contributor Experience (SIG ContribEx), provided an overview of the group's role in supporting and sustaining the Kubernetes contributor community. They discussed the cont..."
+description:
+  The session, led by chairs and technical leads of the Kubernetes SIG
+  Contributor Experience (SIG ContribEx), provided an overview of the group's role
+  in supporting and sustaining the Kubernetes contributor community. They discussed
+  the cont...
 resource: https://www.youtube.com/watch?v=f_HhK9crJp0
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They discussed the contributor ladder, community statistics, and the importance 
 Updates included the recent steering committee elections and the ongoing monthly new contributor orientation sessions, which have successfully onboarded new contributors, though attendance depends heavily on social media outreach.
 The team also highlighted their social media efforts, noting significant growth, especially on LinkedIn, and encouraged participation in communications and mentoring subprojects.
 Finally, the session addressed the evolving use of AI tools in the project, emphasizing the need for clear policies, transparency, and human review, while inviting community input on shaping guidelines and contributing to AI-related initiatives within Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

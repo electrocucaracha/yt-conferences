@@ -1,11 +1,22 @@
 ---
+layout: default
+title: How to Set Boundaries with Difficult People
+nav_order: 32
+parent: Leadership Skills
 type: Video Note
-title: "How to Set Boundaries with Difficult People"
-description: "In this video, leadership coach Doug Howard addresses the growing issue of toxic work environments and the importance of setting boundaries to protect mental health, professional dignity, and productivity. He introduces a five-step framewor..."
+description:
+  In this video, leadership coach Doug Howard addresses the growing issue
+  of toxic work environments and the importance of setting boundaries to protect mental
+  health, professional dignity, and productivity. He introduces a five-step framewor...
 resource: https://www.youtube.com/watch?v=HtteVDf1yb4
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He introduces a five-step framework for establishing boundaries: assess the situ
 Doug provides real-life workplace examples, such as dealing with micromanagement, credit-stealing coworkers, gossip, personal space violations, excessive workload, and inefficient meetings, demonstrating how to apply the framework in each scenario.
 He emphasizes that setting boundaries is not selfish but essential for self-respect, preventing burnout, and fostering healthier professional relationships, even in challenging environments.
 The video concludes with a recap of the five steps and encourages viewers to document violations and escalate issues when boundaries are repeatedly ignored.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

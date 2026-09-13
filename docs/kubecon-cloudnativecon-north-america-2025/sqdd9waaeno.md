@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Strengthening Kubernetes Trust: SIG Auth's Latest Se... Anish R, Mo K, Stanislav
+  L, Rita Z & Peter E"
+nav_order: 293
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Strengthening Kubernetes Trust: SIG Auth's Latest Se... Anish R, Mo K, Stanislav L, Rita Z & Peter E"
-description: "The SIGOT deep dive session covered numerous updates and features in Kubernetes, focusing on security, authentication, and resource management. Key highlights included the introduction of constraint impersonation, which allows more granular..."
+description:
+  The SIGOT deep dive session covered numerous updates and features in
+  Kubernetes, focusing on security, authentication, and resource management. Key highlights
+  included the introduction of constraint impersonation, which allows more granular...
 resource: https://www.youtube.com/watch?v=SqdD9waaeno
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +30,7 @@ Security improvements were discussed for CSI drivers, such as moving service acc
 Additional features presented were workload identity for image pulls, ensuring secret images are only accessible to authorized pods, pod certificates for automated certificate management, and restricted anonymous authentication to limit unauthenticated access.
 Other notable changes included pod security admission restrictions to prevent SSRF attacks, external signing of service account tokens for better key management, and a new credential plugin policy and allow list in client-go and kubectl to control which binaries can fetch credentials, enhancing overall cluster security and user control.
 The session concluded with a Q&A addressing implementation details and security considerations for these new features.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                              |

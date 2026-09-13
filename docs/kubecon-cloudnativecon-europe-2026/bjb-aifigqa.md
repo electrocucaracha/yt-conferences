@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Get To Where You're Going With Kgateway - David Jumani,
+  Maintainer"
+nav_order: 266
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Get To Where You're Going With Kgateway - David Jumani, Maintainer"
-description: "David, an engineer at Solo and maintainer of the K Gateway project, presents recent updates and features of K Gateway, an Envoy-based Kubernetes gateway API that integrates with service meshes and hyperscalers for hybrid connectivity. Major..."
+description:
+  David, an engineer at Solo and maintainer of the K Gateway project, presents
+  recent updates and features of K Gateway, an Envoy-based Kubernetes gateway API
+  that integrates with service meshes and hyperscalers for hybrid connectivity. Major...
 resource: https://www.youtube.com/watch?v=BjB-AIFiGqA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Major updates include the introduction of overlays, which allow users to customi
 The project also addresses the deprecation of ingress-nginx by facilitating migration through the ingress-to-gateway tool, mapping common annotations, and providing a detailed migration guide.
 Additional enhancements include per-hostname MTLS CA validation for multi-tenant scenarios, full support for Gateway API 1.5.1, integration with Istio as a waypoint, and the introduction of Envoy dynamic modules for greater flexibility.
 The project has seen significant growth, with over 170,000 downloads in the past month, and encourages community involvement through events and online channels.
+
 # Main Points
 
 |   # | Main point                                                                                                             |

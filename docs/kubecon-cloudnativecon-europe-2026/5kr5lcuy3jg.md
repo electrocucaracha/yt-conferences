@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | CNCF Members: Leaving Your Ma... David Palilonis, Jake
+  Pineda & Danielle Cook"
+nav_order: 41
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | CNCF Members: Leaving Your Ma... David Palilonis, Jake Pineda & Danielle Cook"
-description: "The presentation, led by David from CNCF along with colleagues Jake and Danielle, focused on the value and impact of CNCF membership for organizations and individuals. They explained that CNCF, part of the Linux Foundation, hosts over 280 p..."
+description:
+  The presentation, led by David from CNCF along with colleagues Jake and
+  Danielle, focused on the value and impact of CNCF membership for organizations and
+  individuals. They explained that CNCF, part of the Linux Foundation, hosts over
+  280 p...
 resource: https://www.youtube.com/watch?v=5kr5lcUY3Jg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Membership offers companies strategic influence, access to conformance programs,
 Case studies from members such as IBM, Spotify, Michelin, and Grafana Labs highlighted tangible business benefits like improved efficiency, cost savings, and accelerated innovation.
 The speakers emphasized that membership is a compounding investment—distinct from sponsorship—that fosters collaboration, reduces duplication, and sustains technological growth, with measurable ROI and business impact.
 Danielle shared practical examples of translating CNCF engagement into metrics that demonstrate value to organizations, encouraging attendees to get involved through contributions, community events, and sharing their experiences.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                           |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "[Session] Secure from Day One Building Production Ready MCP Servers with Nick
+  Taylor - Pomerium"
+nav_order: 35
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Session] Secure from Day One Building Production Ready MCP Servers with Nick Taylor - Pomerium"
-description: "Nick, a developer advocate at Primarium, presents on building production-ready MCP servers with security from the outset, focusing on zero trust security principles. He explains that zero trust means never implicitly trusting any request, a..."
+description:
+  Nick, a developer advocate at Primarium, presents on building production-ready
+  MCP servers with security from the outset, focusing on zero trust security principles.
+  He explains that zero trust means never implicitly trusting any request, a...
 resource: https://www.youtube.com/watch?v=_wtJzDf068w
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that zero trust means never implicitly trusting any request, always 
 Nick discusses how identity-aware proxies, such as Primarium's open core solution, can provide fine-grained access control, auditing, and OAuth flows without requiring developers to implement OAuth themselves.
 Through demos—despite some technical issues—he illustrates how developers can use these tools to secure MCP servers during both development and production, enabling secure, public access without relying on VPNs and ensuring a smoother transition to production environments.
 The approach offers centralized management of authentication, observability, and tool-level policy enforcement, making it easier for teams to adopt robust security practices from day one.
+
 # Main Points
 
 |   # | Main point                                                                                                                    |

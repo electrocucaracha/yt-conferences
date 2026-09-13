@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Unifying Inner & Outer Loops To Bridge the Gaps Between Devs... Laurent Broudoux
+  & Mathieu Benoit
+nav_order: 384
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Unifying Inner & Outer Loops To Bridge the Gaps Between Devs... Laurent Broudoux & Mathieu Benoit"
-description: "In this session, the presenters address the common challenge of ensuring smooth transitions between development and production environments, aiming to reduce cognitive load and resource consumption for developers and platform engineers. The..."
+description:
+  In this session, the presenters address the common challenge of ensuring
+  smooth transitions between development and production environments, aiming to reduce
+  cognitive load and resource consumption for developers and platform engineers. The...
 resource: https://www.youtube.com/watch?v=Y_jfBWbBTZQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They introduce a demo application based on a microservices architecture and expl
 The talk focuses on two open-source tools: Score, which provides an abstraction layer for defining workload specifications agnostic of the underlying platform, and Microx, which enables the mocking of API dependencies using contract-based simulations.
 By integrating Score and Microx, developers can selectively mock unavailable or resource-intensive services, reducing the need to run all dependencies locally or in staging, while maintaining consistent configurations and minimizing configuration drift.
 The approach also supports automated contract testing to ensure API compliance, streamlining development workflows and improving productivity across various stages of the software lifecycle.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Welcome Back + Opening Remarks - Jorge Castro"
-description: "The speaker welcomes attendees to the third day of the event, acknowledging that it has been a long few days and that many may be tired, but reassures them that the event is nearing its end. They express excitement about changing up the for..."
+nav_order: 187
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  The speaker welcomes attendees to the third day of the event, acknowledging
+  that it has been a long few days and that many may be tired, but reassures them
+  that the event is nearing its end. They express excitement about changing up the
+  for...
 resource: https://www.youtube.com/watch?v=etJmn2vM4ZE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ The speaker welcomes attendees to the third day of the event, acknowledging that
 They express excitement about changing up the format for day three and highlight the valuable talks from various industries about how cloud native technologies are transforming business practices now and for the future.
 The speaker hints at special content related to CNCF projects and announces that there will be demonstrations of impressive technology later in the day.
 The session is set to begin with the introduction of the TOC and TAD.
+
 # Main Points
 
 |   # | Main point                                                                                           |

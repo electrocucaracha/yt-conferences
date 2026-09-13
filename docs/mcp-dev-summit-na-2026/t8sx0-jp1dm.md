@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Chaos To Clarity: How MCP Transforms Incident Response - Sebastian Villanelo
+  & Rocío Bayon"
+nav_order: 27
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "From Chaos To Clarity: How MCP Transforms Incident Response - Sebastian Villanelo & Rocío Bayon"
-description: "The video discusses the challenges engineers face when responding to incidents, particularly the productivity loss caused by constant context switching between multiple tools and platforms. To address this, the presenters introduce MCP apps..."
+description:
+  The video discusses the challenges engineers face when responding to
+  incidents, particularly the productivity loss caused by constant context switching
+  between multiple tools and platforms. To address this, the presenters introduce
+  MCP apps...
 resource: https://www.youtube.com/watch?v=T8sx0-JP1DM
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ To address this, the presenters introduce MCP apps, which integrate incident man
 They demonstrate how the new system leverages PagerDuty’s advanced agents—including SR, describe, chief, and insights agents—to automate triage, retrieve relevant data, and suggest next steps, all while keeping a human in the loop for accountability and critical decisions.
 The solution also supports cloud desktop environments and includes features like service dependency graphs and on-call compensation reports.
 Ultimately, the presenters emphasize that MCP apps reduce burnout, speed up incident resolution, and help engineers maintain focus, with future plans for multi-agent workflows and ongoing community involvement.
+
 # Main Points
 
 |   # | Main point                                                                                                                            |

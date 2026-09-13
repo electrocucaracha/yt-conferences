@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "MCP Gateways: The Control Plane for Agentic Integration - Alex Salazar, Arcade.dev"
-description: "The speaker discusses the major challenges facing AI agents in enterprise environments, emphasizing the need for robust authorization, tool quality, observability, and configuration portability. Current approaches—using service accounts or..."
+nav_order: 55
+parent: Mcp Dev Summit Na 2026
+type: Video Note
+description:
+  The speaker discusses the major challenges facing AI agents in enterprise
+  environments, emphasizing the need for robust authorization, tool quality, observability,
+  and configuration portability. Current approaches—using service accounts or...
 resource: https://www.youtube.com/watch?v=DxZ4mlSRcOc
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Current approaches—using service accounts or user credentials—either create 
 The proposed solution is a control plane, or MCP gateway, that enforces policy by intersecting agent and user permissions on every request, ensuring agents can only perform authorized actions.
 This architecture separates the reasoning and action layers, centralizes governance, and enables scalable, secure, multi-user agent deployments.
 The speaker demonstrates how this system works in practice, highlighting the importance of centralized policy enforcement, tool curation, and audit trails, and addresses questions about integration, policy management, and future developments in agent control and security.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

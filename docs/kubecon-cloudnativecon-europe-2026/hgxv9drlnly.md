@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "From “No Time for GitOps” to Enterprise Adoption: Selling Flux... Lucas Hornung
+  & Christian Matthaei"
+nav_order: 128
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From “No Time for GitOps” to Enterprise Adoption: Selling Flux... Lucas Hornung & Christian Matthaei"
-description: "Lucas Hornung and Christian Mate, members of the platform team at Chebo, shared their experience transforming their technical vision into business-wide adoption at Chebo, a traditional German coffee company turned major e-commerce retailer..."
+description:
+  Lucas Hornung and Christian Mate, members of the platform team at Chebo,
+  shared their experience transforming their technical vision into business-wide adoption
+  at Chebo, a traditional German coffee company turned major e-commerce retailer...
 resource: https://www.youtube.com/watch?v=HGxv9DrLnLY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ After a pivotal management conversation, they learned to "start with why," makin
 They emphasized five key lessons: be visible, talk and listen to people, make value measurable, create compelling narratives, and help others feel the hidden pain their solutions address.
 By using relatable stories and measurable outcomes, they gained management buy-in and developer support, shifting from isolated technical efforts to impactful, organization-wide change.
 The team now fosters ongoing communication, documentation, and feedback loops, and encourages juniors to develop people skills by involving them in stakeholder interactions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

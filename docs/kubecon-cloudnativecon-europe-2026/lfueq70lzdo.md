@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Data on Kubernetes Day: Tuning Elastic on Kube... Luuk
+  Stolk and Artur Gromek"
+nav_order: 56
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Data on Kubernetes Day: Tuning Elastic on Kube... Luuk Stolk and Artur Gromek"
-description: "In this talk, Arthur Groc and Luke Stalk from ING describe their experience tuning the Elastic Stack on Kubernetes within ING’s large-scale, OpenShift-based private cloud infrastructure. They detail the challenges faced when performance iss..."
+description:
+  In this talk, Arthur Groc and Luke Stalk from ING describe their experience
+  tuning the Elastic Stack on Kubernetes within ING’s large-scale, OpenShift-based
+  private cloud infrastructure. They detail the challenges faced when performance
+  iss...
 resource: https://www.youtube.com/watch?v=LFuEq70lZdo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They detail the challenges faced when performance issues emerged in their Elasti
 Through extensive troubleshooting with Portworx engineers and the use of stress testing tools, they identified the storage layer—rather than Kubernetes or Elasticsearch configuration—as the primary bottleneck, with replication overhead and non-optimized volume options contributing to the slowdown.
 By implementing Portworx’s new features such as journal devices, autojournal profiles, and optimized storage classes (favoring replica one), as well as remounting volumes and updating configurations, they were able to nearly double write performance and restore onboarding for new customers.
 The speakers emphasize the importance of context-aware testing and monitoring, noting that synthetic benchmarks did not always align with real-world application performance, and reflect on the valuable lessons learned throughout their two-year optimization journey.
+
 # Main Points
 
 |   # | Main point                                                                                                                               |

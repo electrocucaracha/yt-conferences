@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Domina el juego del dinero: educación financiera para la vida real || Manuel
+  Ramos · Sesión 19"
+nav_order: 17
+parent: Foro De Crecimiento
 type: Video Note
-title: "Domina el juego del dinero: educación financiera para la vida real || Manuel Ramos · Sesión 19"
-description: "En esta entrevista, el experto financiero Manuel Ramos comparte estrategias para que las familias alcancen el equilibrio financiero, enfatizando la importancia de la disciplina, el presupuesto y el autoconocimiento. Recomienda crear un fond..."
+description:
+  En esta entrevista, el experto financiero Manuel Ramos comparte estrategias
+  para que las familias alcancen el equilibrio financiero, enfatizando la importancia
+  de la disciplina, el presupuesto y el autoconocimiento. Recomienda crear un fond...
 resource: https://www.youtube.com/watch?v=cQAdvHCOyV8
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ En esta entrevista, el experto financiero Manuel Ramos comparte estrategias para
 Recomienda crear un fondo de emergencia equivalente a 3 a 12 meses de gastos, evitar el uso excesivo de tarjetas de crédito y destinar al menos el 10% de los ingresos a la inversión, comenzando lo antes posible para aprovechar el tiempo y el interés compuesto.
 Ramos destaca la necesidad de diferenciar entre precio y valor al invertir, aprovechar las crisis como oportunidades y diversificar las inversiones entre acciones, bonos y bienes raíces según el perfil de riesgo y la edad.
 Además, subraya la importancia de la asesoría profesional y de desarrollar buenos hábitos financieros, señalando que la libertad e independencia económica se logran con constancia, educación y una visión a largo plazo.
+
 # Main Points
 
 |   # | Main point                                                                                       |

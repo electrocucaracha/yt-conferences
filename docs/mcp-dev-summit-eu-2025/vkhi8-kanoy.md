@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Why Clients Matter: The Other Side of MCP"
-description: "Angie Jones, leading AI tools and enablement at Block, discusses the pivotal role of open-source MCP clients in shaping the future of agentic AI. She emphasizes that while servers provide potential, it is the clients—particularly open-sourc..."
+nav_order: 33
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  Angie Jones, leading AI tools and enablement at Block, discusses the
+  pivotal role of open-source MCP clients in shaping the future of agentic AI. She
+  emphasizes that while servers provide potential, it is the clients—particularly
+  open-sourc...
 resource: https://www.youtube.com/watch?v=VkHi8-KANOY
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ She emphasizes that while servers provide potential, it is the clients—particu
 Goose, built with a highly permissive Apache 2.0 license, exemplifies how community-driven development accelerates innovation, supports diverse AI models, enhances safety, and enables customizable workflows such as recipes and sub-agent orchestration.
 Jones highlights that open-source clients foster transparency, user choice, and rapid adaptation to the evolving AI landscape, contrasting this with the risks of vendor lock-in and closed ecosystems.
 Ultimately, she asserts that openness is essential for progress in agentic AI, encouraging developers to prioritize freedom, transparency, and community collaboration as the ecosystem grows.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Navigating the Rapid Evolution of Large Mod... Jiaxin Shan, Yuan Tang, Sergey
+  Kanzhelev & Rita Zhang
+nav_order: 175
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Navigating the Rapid Evolution of Large Mod... Jiaxin Shan, Yuan Tang, Sergey Kanzhelev & Rita Zhang"
-description: "The session, led by members from Google, Red Hat, Bance, and Microsoft, introduced the Working Group Serving, which focuses on adapting Kubernetes for evolving inference workloads, particularly in the context of rapid advancements in large..."
+description:
+  The session, led by members from Google, Red Hat, Bance, and Microsoft,
+  introduced the Working Group Serving, which focuses on adapting Kubernetes for evolving
+  inference workloads, particularly in the context of rapid advancements in large...
 resource: https://www.youtube.com/watch?v=bphNDWE8rGE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The group discussed new challenges for 2025, such as the increasing complexity o
 Updates were provided on several subprojects, including the Gateway API Inference Extension for standardized routing, the Inference Proof benchmarking tool, and the Serving Catalog for deployment examples.
 The session also highlighted key Kubernetes initiatives like LWS for multi-node scheduling, Dynamic Resource Allocation (DRA), and unified model weight distribution, as well as open-source solutions such as Airbricks, LMD, KServe, Kaiito, and Dynamo, each addressing different aspects of scalable, efficient, and flexible model serving.
 The group emphasized ongoing collaboration, the importance of transitioning to new resource management paradigms, and invited community participation to further shape the future of AI inference on Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                        |

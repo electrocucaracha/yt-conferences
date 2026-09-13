@@ -1,11 +1,22 @@
 ---
+layout: default
+title: OpenCost - Cost and Resource Management Deep Dive - Rajith Attapattu, Randoli
+nav_order: 230
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "OpenCost - Cost and Resource Management Deep Dive - Rajith Attapattu, Randoli"
-description: "Rajit Tatawatu, founder and CTO of Randoli and maintainer of the OpenCost project, introduces OpenCost, an open-source, vendor-neutral CNCF project for Kubernetes cost monitoring. He explains that OpenCost provides detailed cost visibility..."
+description:
+  Rajit Tatawatu, founder and CTO of Randoli and maintainer of the OpenCost
+  project, introduces OpenCost, an open-source, vendor-neutral CNCF project for Kubernetes
+  cost monitoring. He explains that OpenCost provides detailed cost visibility...
 resource: https://www.youtube.com/watch?v=QL3bpkNJRec
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains that OpenCost provides detailed cost visibility and efficiency metri
 The architecture relies on Prometheus for usage metrics and cloud API pricing, with recent developments including improved integration testing, an experimental Prom-less mode for large clusters, and the introduction of the kube model to better separate usage and pricing data for more accurate cost calculations.
 OpenCost features a plugin system for extensibility, though the UI is basic, and the project's value lies in its robust APIs and data model.
 Rajit encourages community contributions, highlighting areas such as plugin development, testing, and roadmap input, and addresses questions about cost calculation, data export, and future support for infrastructure outside Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

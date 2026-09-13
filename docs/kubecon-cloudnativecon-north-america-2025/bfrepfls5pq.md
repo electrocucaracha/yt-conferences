@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Deep Dive: Handling Kubernetes Memory Pressure & Achievi... Ajay Sundar Karuppasamy,
+  & Itamar Holder"
+nav_order: 56
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Deep Dive: Handling Kubernetes Memory Pressure & Achievi... Ajay Sundar Karuppasamy, & Itamar Holder"
-description: "The speaker, a software engineer at Google, discusses optimizing swap in Kubernetes. They share their experience with stress testing swap on GKE and highlight the importance of kernel tuning and faster storage setups to ensure smooth swap a..."
+description:
+  The speaker, a software engineer at Google, discusses optimizing swap
+  in Kubernetes. They share their experience with stress testing swap on GKE and highlight
+  the importance of kernel tuning and faster storage setups to ensure smooth swap
+  a...
 resource: https://www.youtube.com/watch?v=bFrEPfls5PQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The speaker, a software engineer at Google, discusses optimizing swap in Kuberne
 They share their experience with stress testing swap on GKE and highlight the importance of kernel tuning and faster storage setups to ensure smooth swap activity.
 The speaker emphasizes that early and gradual swapping is better than late and aggressive freezing, and recommends setting parameters such as min free kilobytes and watermark scale factor to control swap aggressiveness.
 They also discuss the limitations of Kubernetes eviction and recommend separating swap IO from application or cube system traffic to avoid interference.
+
 # Main Points
 
 |   # | Main point                                                                                               |

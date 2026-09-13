@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Multi Agent Collaboration in MCP with Nicholas Aldridge from AWS"
-description: "Nick Aldridge, a principal engineer at AWS, shares his frustrating experience with airline booking systems to illustrate the need for better automation and agent-based interactions. He introduces the concept of inter-agent communication usi..."
+nav_order: 20
+parent: Mcp Dev Summit Na 2025
+type: Video Note
+description:
+  Nick Aldridge, a principal engineer at AWS, shares his frustrating experience
+  with airline booking systems to illustrate the need for better automation and agent-based
+  interactions. He introduces the concept of inter-agent communication usi...
 resource: https://www.youtube.com/watch?v=XreKuebKpaA
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He introduces the concept of inter-agent communication using MCP (Message Contro
 Aldridge demonstrates practical implementations using Spring AI and discusses the benefits of using MCP for agent integration, such as ease of use, shared primitives, and the blurring distinction between agents and tools.
 He identifies areas for improvement in MCP, including better support for asynchronous communication, resource sharing, richer capability discovery, and more intuitive abstractions for developers.
 Aldridge encourages the community to contribute to MCP’s development and provides resources for further engagement.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                        |

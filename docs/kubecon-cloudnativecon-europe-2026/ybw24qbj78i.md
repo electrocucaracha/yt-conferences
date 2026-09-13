@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Argo Workflows 4, What's New And What's Next - Alan
+  Clucas, Lead"
+nav_order: 251
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Argo Workflows 4, What's New And What's Next - Alan Clucas, Lead"
-description: "The speaker introduces Argo Workflows, a Kubernetes-native batch processing engine that orchestrates steps or DAGs as pods and facilitates data transfer between them. Recent updates in version 4.0 include new artifact drivers for custom dat..."
+description:
+  The speaker introduces Argo Workflows, a Kubernetes-native batch processing
+  engine that orchestrates steps or DAGs as pods and facilitates data transfer between
+  them. Recent updates in version 4.0 include new artifact drivers for custom dat...
 resource: https://www.youtube.com/watch?v=YbW24qbJ78I
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Recent updates in version 4.0 include new artifact drivers for custom data trans
 Workflow tracing has been added for better performance insights, and future plans involve reworking the DAG engine for unified implementation and potential DAG plugins, as well as enabling pod reuse to reduce spin-up times.
 Additionally, there are efforts to simplify and modernize the expressions system for better usability and compatibility with Helm templating.
 The speaker invites attendees to visit their booth for further discussion.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

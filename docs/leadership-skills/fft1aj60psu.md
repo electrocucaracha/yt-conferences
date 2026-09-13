@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Why Engineers Struggle with Confidence and Speaking Up At Work Improving Your
+  Confidence
+nav_order: 44
+parent: Leadership Skills
 type: Video Note
-title: "Why Engineers Struggle with Confidence and Speaking Up At Work Improving Your Confidence"
-description: "In this video, John Chow, a perspective coach with an HR background in global aerospace engineering, discusses the challenges engineers face with confidence, imposter syndrome, and speaking up in the workplace. He explains that imposter syn..."
+description:
+  In this video, John Chow, a perspective coach with an HR background in
+  global aerospace engineering, discusses the challenges engineers face with confidence,
+  imposter syndrome, and speaking up in the workplace. He explains that imposter syn...
 resource: https://www.youtube.com/watch?v=FFt1aj60PsU
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that imposter syndrome is common among engineers due to the constant
 John emphasizes the importance of perspective, self-awareness, and understanding the difference between ego and genuine confidence, suggesting that engineers should embrace discomfort, seek collaboration over competition, and develop both their masculine and feminine energies for balanced leadership.
 He also highlights the value of knowing one's purpose, stepping outside comfort zones, and fostering open communication within teams to drive innovation and personal growth.
 The conversation concludes with advice for engineers to invest in self-discovery, seek mentorship, and actively challenge comfort zones to achieve greater fulfillment and effectiveness in their careers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 4 - LLM Training
+nav_order: 4
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 4 - LLM Training"
-description: "The lecture begins with logistics about the upcoming midterm and final exams, including their formats, covered topics, and policies on materials. The main content reviews large language model (LLM) architectures, focusing on the mixture of..."
+description:
+  The lecture begins with logistics about the upcoming midterm and final
+  exams, including their formats, covered topics, and policies on materials. The main
+  content reviews large language model (LLM) architectures, focusing on the mixture
+  of...
 resource: https://www.youtube.com/watch?v=VlA_jt_3Qc4
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +29,7 @@ Quantization and mixed-precision training are introduced as methods to reduce me
 The session transitions to fine-tuning, specifically supervised fine-tuning (SFT) and instruction tuning, which adapt pre-trained models to be helpful assistants or to specific tasks using high-quality, labeled datasets.
 Challenges in fine-tuning, such as data quality, distribution alignment, and evaluation difficulties, are discussed, along with evaluation benchmarks and user preference-based assessments.
 The lecture concludes with efficient fine-tuning techniques like LoRA and quantized LoRA, which reduce computational costs by updating only a small subset of parameters or using lower-precision representations, enabling practical adaptation of large models to new tasks.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                               |

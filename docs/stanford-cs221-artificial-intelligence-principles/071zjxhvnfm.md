@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 18: AI & Society"
-description: "The lecture shifts focus from the technical aspects of AI to its societal implications, emphasizing why technologists must consider the broader impact of their work. It highlights AI as a dual-use technology with the potential for both sign..."
+nav_order: 9
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture shifts focus from the technical aspects of AI to its societal
+  implications, emphasizing why technologists must consider the broader impact of
+  their work. It highlights AI as a dual-use technology with the potential for both
+  sign...
 resource: https://www.youtube.com/watch?v=071zJXhvNfM
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ It highlights AI as a dual-use technology with the potential for both significan
 The discussion covers ethical frameworks, the importance of monitoring impacts across different groups, and challenges in aligning AI systems with human values, noting issues like reward hacking and the difficulty of defining universal objectives.
 The lecture also addresses upstream and downstream effects, including data privacy, copyright, labor practices, and environmental concerns, and stresses the need for transparency, openness, and third-party auditing to ensure responsible AI development.
 Ultimately, it argues that understanding and shaping AI’s societal role requires a holistic, ecosystem-level perspective, ongoing evaluation, and a commitment to both technical and ethical stewardship.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

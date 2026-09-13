@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Drasi: A New Take on Change-driven Architectures - Aman Singh, Microsoft"
-description: "Aman Singh, maintainer of the CNCF project DRSI, introduces how DRSI simplifies building change-driven architectures, particularly for scenarios like real-time chat applications powered by retrieval augmented generation (RAG). He explains t..."
+nav_order: 65
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  Aman Singh, maintainer of the CNCF project DRSI, introduces how DRSI
+  simplifies building change-driven architectures, particularly for scenarios like
+  real-time chat applications powered by retrieval augmented generation (RAG). He
+  explains t...
 resource: https://www.youtube.com/watch?v=nbLJ_ICpZhc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains the challenges of keeping AI chat applications up-to-date with priva
 DRSI addresses these issues by allowing users to declaratively define data sources, queries, and reactions using simple YAML files, enabling continuous, real-time synchronization and derived views—such as vector stores for RAG or live dashboards—without custom code or complex infrastructure.
 Through live demos, Singh shows how DRSI can connect disparate data sources, maintain up-to-date result sets, and trigger actions like embedding generation or security alerts in response to data changes, all with minimal configuration.
 He concludes by emphasizing DRSI’s scalability, support for various data sources, and open-source nature, inviting collaboration and feedback from the community.
+
 # Main Points
 
 |   # | Main point                                                                                                |

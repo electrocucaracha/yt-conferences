@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "[Keynote] MCP201: The Protocol in Depth with David Soria Parra at Anthropic"
-description: "In this talk, David, a technical staff member at Anthropic and co-creator of MCP, provides an in-depth overview of the MCP 2011 protocol, highlighting its core primitives—prompts, resources, and tools—and how they enable richer user experie..."
+nav_order: 7
+parent: Mcp Dev Summit Na 2025
+type: Video Note
+description:
+  In this talk, David, a technical staff member at Anthropic and co-creator
+  of MCP, provides an in-depth overview of the MCP 2011 protocol, highlighting its
+  core primitives—prompts, resources, and tools—and how they enable richer user experie...
 resource: https://www.youtube.com/watch?v=C_nqAWHsldo
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains that prompts allow MCP servers to offer dynamic, user-invoked templa
 David also introduces advanced features like sampling, which enables servers to request completions from clients’ configured models, and roots, which help servers identify relevant workspaces or data scopes.
 He discusses the evolution of MCP from local deployments to web-based integrations, emphasizing the importance of authorization and scalability for broader adoption, including enterprise use cases.
 Finally, David touches on upcoming developments such as agent support, asynchronous task execution, elicitation, a public registry API, and expanded SDK offerings, all aimed at making MCP a ubiquitous standard for LLM integrations.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                   |

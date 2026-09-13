@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Static Tokens to Attestation: The Evoluti... Ciprian H, Jack Francis
+  M, Josephine P, & Justin B"
+nav_order: 126
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Static Tokens to Attestation: The Evoluti... Ciprian H, Jack Francis M, Josephine P, & Justin B"
-description: "The panel discusses the ongoing challenges of secure node joining in Kubernetes, highlighting that despite years of effort from major contributors at Microsoft, Google, and Red Hat, a standardized, robust solution remains elusive. Panelists..."
+description:
+  The panel discusses the ongoing challenges of secure node joining in
+  Kubernetes, highlighting that despite years of effort from major contributors at
+  Microsoft, Google, and Red Hat, a standardized, robust solution remains elusive.
+  Panelists...
 resource: https://www.youtube.com/watch?v=MIO3tDk0GnI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Panelists recount recurring vulnerabilities, such as over-reliance on instance m
 They emphasize the complexity introduced by diverse user requirements, hybrid cloud environments, and the lack of unified attestation and registration mechanisms across cloud providers.
 The discussion explores potential improvements, including the use of hardware-backed certificates, TPMs, and external attestation servers, but notes the difficulty of implementing consistent solutions given the variability in infrastructure and cloud capabilities.
 Ultimately, the panel agrees on the need for an open, standardized, and low-effort approach that balances security with usability, and calls for greater collaboration within the Kubernetes community to define and document best practices for secure node joining.
+
 # Main Points
 
 |   # | Main point                                                                                                                      |

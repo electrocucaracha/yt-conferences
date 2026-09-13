@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "A Bug’s-Eye View: Kubernetes SIG Security Explains It... Ian C, Tabitha S,
+  Rory M, Iain S & Mahé T"
+nav_order: 5
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "A Bug’s-Eye View: Kubernetes SIG Security Explains It... Ian C, Tabitha S, Rory M, Iain S & Mahé T"
-description: "The video features a Kubernetes SIG Security maintainer track talk, led by Ian Coldwater and other SIG Security members, focusing on recent updates and processes within the group. The SIG Security Docs subproject, co-chaired by Rory McHune..."
+description:
+  The video features a Kubernetes SIG Security maintainer track talk, led
+  by Ian Coldwater and other SIG Security members, focusing on recent updates and
+  processes within the group. The SIG Security Docs subproject, co-chaired by Rory
+  McHune...
 resource: https://www.youtube.com/watch?v=ujnqeWQZ17w
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Ian discussed the third-party audit subproject, which reviews Kubernetes compone
 Tabitha Sable explained the role of the Security Response Committee in confidentially triaging, fixing, and disclosing vulnerabilities, emphasizing the importance of clear communication and accurate CVE scoring.
 Mah from SIG Security Tooling described improvements to the official CVE feed and tooling to streamline vulnerability disclosure and metadata management.
 The talk concluded with an invitation for new contributors of all backgrounds to join SIG Security’s inclusive community and participate in ongoing efforts to enhance Kubernetes security.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |
@@ -31,7 +46,7 @@ The talk concluded with an invitation for new contributors of all backgrounds to
 |   9 | Recent audit (2023) by Shielder focused on non-core Kubernetes components; findings are being addressed.                                     |
 |  10 | Security Response Committee (SRC) handles confidential security issues, incident response, and vulnerability disclosure.                     |
 |  11 | Vulnerabilities are defined as violations of reasonable security expectations or explicit promises.                                          |
-|  12 | Vulnerabilities are reported via HackerOne or security@kubernetes.io, triaged privately, fixed, and then disclosed publicly.                 |
+|  12 | Vulnerabilities are reported via HackerOne or `security@kubernetes.io`, triaged privately, fixed, and then disclosed publicly.               |
 |  13 | Disclosures include GitHub issues, mailing lists, Slack, forums, and the CVE database.                                                       |
 |  14 | CVSS scoring is used for vulnerability severity, requiring careful context-based judgment.                                                   |
 |  15 | SIG Security Tooling maintains code and tools to support security, including the official CVE feed and Snyk dependency scanning.             |

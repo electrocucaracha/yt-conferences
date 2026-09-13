@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Integrating Data Center Observability Into Cloud Native Envi... Pedro Célestin
+  & Julia Furst Morgado
+nav_order: 105
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Integrating Data Center Observability Into Cloud Native Envi... Pedro Célestin & Julia Furst Morgado"
-description: "In this talk, Julia and Pedro discuss the challenges and solutions involved in bridging the gap between traditional on-premises data center monitoring and modern cloud-native observability, particularly within the legislative chamber in Bra..."
+description:
+  In this talk, Julia and Pedro discuss the challenges and solutions involved
+  in bridging the gap between traditional on-premises data center monitoring and modern
+  cloud-native observability, particularly within the legislative chamber in Bra...
 resource: https://www.youtube.com/watch?v=TsNfSKppiPU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight issues such as fragmented telemetry formats, lack of shared conte
 Their solution centers on adopting OpenTelemetry and its semantic conventions to unify data collection and normalization across both legacy and cloud environments, enabling consistent, vendor-neutral telemetry pipelines.
 Pedro details their open-source framework, which integrates data from SNMP, syslogs, Redfish APIs, and cloud-native sources using OpenTelemetry collectors, Kafka for buffering, and backends like Prometheus and OpenSearch, with additional strategies for long-term log retention and cost management.
 The key benefits include improved data ownership, flexibility in backend choice, cost reduction, and the ability to correlate metrics across all infrastructure layers, ultimately enhancing end-user experience and organizational observability maturity.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

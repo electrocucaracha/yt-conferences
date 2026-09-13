@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Strengthening Supply Chain for Kubernetes: Cross-Cloud SLSA Attestation...
+  Feynman Zhou & Dahu Kuang"
+nav_order: 294
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Strengthening Supply Chain for Kubernetes: Cross-Cloud SLSA Attestation... Feynman Zhou & Dahu Kuang"
-description: "Feman from Microsoft Azure and Dahu from Alibaba Cloud introduced the challenges of securing the software supply chain, particularly for Kubernetes deployments and AI workloads. They discussed the importance of enforcing security best pract..."
+description:
+  Feman from Microsoft Azure and Dahu from Alibaba Cloud introduced the
+  challenges of securing the software supply chain, particularly for Kubernetes deployments
+  and AI workloads. They discussed the importance of enforcing security best pract...
 resource: https://www.youtube.com/watch?v=no3Hg6u80YE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They discussed the importance of enforcing security best practices and highlight
 The speakers explained the SALSA framework’s levels for supply chain security, detailing how provenance and attestation can ensure only trusted images are deployed.
 They showcased how open source projects like Notary and Ratify, along with plugins such as the SALSA verifier, can be integrated with policy engines like OPA Gatekeeper to enforce compliance in Kubernetes clusters.
 A live demo illustrated how these tools block non-compliant images and admit only those meeting higher SALSA levels, demonstrating end-to-end source integrity for AI workflows.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                         |

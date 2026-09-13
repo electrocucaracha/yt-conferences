@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tailor Made: Dynamic Fine-Grained Authorization for API Traffic - Erica Hughberg
+  & Andres Aguiar"
+nav_order: 351
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Tailor Made: Dynamic Fine-Grained Authorization for API Traffic - Erica Hughberg & Andres Aguiar"
-description: "In this presentation, the speakers discuss the challenges of implementing real-time, fine-grained authorization for API traffic, particularly in complex environments where both internal and external resources must be protected. They highlig..."
+description:
+  In this presentation, the speakers discuss the challenges of implementing
+  real-time, fine-grained authorization for API traffic, particularly in complex environments
+  where both internal and external resources must be protected. They highlig...
 resource: https://www.youtube.com/watch?v=A1FXOwUmA6M
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the limitations of traditional token-based approaches, such as de
 Through a live demo, they show how permissions can be updated instantly and propagated in real time, enabling immediate changes to user and agent access without waiting for token expiration.
 The integration allows for both coarse-grained checks at the gateway and fine-grained authorization decisions, all while maintaining high performance and scalability.
 The presenters emphasize the flexibility and creativity enabled by this approach, encourage community involvement, and note that both Envoy and OpenFGA are open source projects.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                      |

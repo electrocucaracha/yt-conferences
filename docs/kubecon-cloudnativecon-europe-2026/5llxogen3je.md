@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: Building Autonomous Networks for the AI Era - Gergely Csatari"
-description: "G. Chhatari from Nokia explains that the company now focuses on building fixed, mobile, and transport networks rather than phones, with their technology powering much of the world’s internet infrastructure. Nokia develops cloud-native telec..."
+nav_order: 165
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  G. Chhatari from Nokia explains that the company now focuses on building
+  fixed, mobile, and transport networks rather than phones, with their technology
+  powering much of the world’s internet infrastructure. Nokia develops cloud-native
+  telec...
 resource: https://www.youtube.com/watch?v=5LlXOGeN3jE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Chhatari from Nokia explains that the company now focuses on building fixed, mob
 Nokia develops cloud-native telecom applications serving over 4.4 billion mobile subscriptions and operates one of the largest private clouds, running Kubernetes workloads.
 Chhatari highlights three open-source projects: maintaining the CAP CNCF sandbox project for application configuration, a schema-driven configuration project with SDC to enable closed-loop automation, and ongoing collaboration with the cloud native community.
 He emphasizes the importance of community events for innovation and invites attendees to the upcoming Kubernetes Community Day in Helsinki, organized by the Finnish cloud native community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

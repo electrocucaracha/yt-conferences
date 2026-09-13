@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Smooth Scaling With the OpAMP Supervisor: Managing Thousands of OpenTe...
+  Evan Bradley & Andy Keller"
+nav_order: 307
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Smooth Scaling With the OpAMP Supervisor: Managing Thousands of OpenTe... Evan Bradley & Andy Keller"
-description: "The Open Agent Management Protocol (Opamp) is a network protocol for remote management of large fleets of observability agents. It allows for partial implementations of the protocol, making it extensible and agent-agnostic. Opamp enables fe..."
+description:
+  The Open Agent Management Protocol (Opamp) is a network protocol for
+  remote management of large fleets of observability agents. It allows for partial
+  implementations of the protocol, making it extensible and agent-agnostic. Opamp
+  enables fe...
 resource: https://www.youtube.com/watch?v=g8rtqqNTL9Q
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Opamp enables features such as heartbeats to keep websocket connections alive, c
 The supervisor is a key component that manages collector configurations, sends updates to agents, and receives telemetry data from collectors.
 It also supports remote configuration, binary upgrades, and hot reloading of collectors.
 Opamp has the potential to simplify fleet management by providing a standardized way to configure and monitor large numbers of agents, but it poses challenges such as the thundering herd problem and ensuring consistency across multiple agents.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

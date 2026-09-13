@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "MCP for Autonomous Storefronts: Building Self-Healing Agent Loops - Guilherme
+  Rodrigues, decocms.com"
+nav_order: 62
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "MCP for Autonomous Storefronts: Building Self-Healing Agent Loops - Guilherme Rodrigues, decocms.com"
-description: "Guilherme Rodrigues, co-founder of Deco CMS, discusses the company's journey in building MCPs (Multi-Channel Platforms) to enable autonomous storefronts for high-volume e-commerce sites. Deco centralizes tools and infrastructure, integrates..."
+description:
+  Guilherme Rodrigues, co-founder of Deco CMS, discusses the company's
+  journey in building MCPs (Multi-Channel Platforms) to enable autonomous storefronts
+  for high-volume e-commerce sites. Deco centralizes tools and infrastructure, integrates...
 resource: https://www.youtube.com/watch?v=nctYH0NrXvM
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Deco centralizes tools and infrastructure, integrates with platforms like VTEX, 
 The process toward autonomy involves first centralizing tools, then empowering agents with contextual skills, enabling them to act on triggers, and finally allowing agents to collaborate and propose solutions, with human oversight where judgment is required.
 Rodrigues emphasizes the importance of distinguishing between tasks that can be fully automated and those needing human input, advocating for a gradual, stepwise approach to autonomy and the use of MCP apps to facilitate human-agent collaboration, especially in areas like merchandising where brand input is essential.
 He concludes by inviting the audience to explore Deco Studio, their platform for agentic workflows, and highlights the ongoing need to refine the "rails" that guide agent behavior for effective autonomous systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  OpenTelemetry Project Update and 'Ask the Experts' - Pablo B, Juraci P, Marylia
+  G & Severin N
+nav_order: 234
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "OpenTelemetry Project Update and 'Ask the Experts' - Pablo B, Juraci P, Marylia G & Severin N"
-description: "The OpenTelemetry product update session covered several major advancements and ongoing initiatives within the project. The team announced the stabilization of declarative configuration, allowing users to manage complex settings across mult..."
+description:
+  The OpenTelemetry product update session covered several major advancements
+  and ongoing initiatives within the project. The team announced the stabilization
+  of declarative configuration, allowing users to manage complex settings across mult...
 resource: https://www.youtube.com/watch?v=mvSGusgcVuw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The team announced the stabilization of declarative configuration, allowing user
 They introduced Weaver, a tool for defining and validating custom telemetry conventions, and highlighted the OpenTelemetry Injector, which streamlines auto-instrumentation across Java, Node.js, .NET, and Python without code changes.
 Performance improvements, particularly in the Go SDK, and the deprecation of the span event API in favor of log-based events were discussed, alongside efforts to enhance stability and reliability across the ecosystem.
 The session also emphasized community involvement, new SIGs (special interest groups), and projects like Blueprints and the Ecosystem Explorer, while addressing questions on roadmap priorities, client instrumentation, and the impact of AI-generated contributions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                          |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Run Your Data Layer In K8s With Vitess - Matt Lord,
+  Maintainer"
+nav_order: 287
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Run Your Data Layer In K8s With Vitess - Matt Lord, Maintainer"
-description: "The speaker introduces themselves as a test maintainer at Planet Scale and discusses the challenges and solutions related to scaling MySQL databases, particularly in Kubernetes environments. They highlight Vitess, a CNCF project designed to..."
+description:
+  The speaker introduces themselves as a test maintainer at Planet Scale
+  and discusses the challenges and solutions related to scaling MySQL databases, particularly
+  in Kubernetes environments. They highlight Vitess, a CNCF project designed to...
 resource: https://www.youtube.com/watch?v=podkclpdT9E
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight Vitess, a CNCF project designed to help scale MySQL from a single
 Key features of Vitess include compatibility, sharding, materializations for data locality, cluster management, online schema changes, backup and recovery, load shedding, and query consolidation.
 The speaker notes that many popular services already use Vitess indirectly and encourages the audience to consider using it directly.
 They emphasize the importance of automated recovery, mentioning VTORC for orchestration and the operator for infrastructure management in Kubernetes, and conclude by demonstrating how easily a Vitess cluster can be installed and managed.
+
 # Main Points
 
 |   # | Main point                                                                                                             |

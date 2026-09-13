@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tutorial: Unlock the Future of Kubernetes and Accelerators With Dynamic Resource
+  Alloc... Rey Lejano"
+nav_order: 328
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Tutorial: Unlock the Future of Kubernetes and Accelerators With Dynamic Resource Alloc... Rey Lejano"
-description: "In this tutorial, Ray Lano from Red Hat introduces dynamic resource allocation (DRA) in Kubernetes, a feature stabilized in version 1.34 that enables more flexible and efficient sharing of hardware accelerators like GPUs, FPGAs, and network..."
+description:
+  In this tutorial, Ray Lano from Red Hat introduces dynamic resource allocation
+  (DRA) in Kubernetes, a feature stabilized in version 1.34 that enables more flexible
+  and efficient sharing of hardware accelerators like GPUs, FPGAs, and network...
 resource: https://www.youtube.com/watch?v=6n_AU3vSels
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The session includes a hands-on lab where participants use virtual machines to i
 Lano explains the architecture and workflow of DRA, contrasting it with the older device plugin approach, and demonstrates how DRA allows for fine-grained device selection, sharing, and configuration through resource claims and templates.
 The tutorial also reviews vendor-specific DRA drivers from Nvidia, Intel, and Google, and walks through deploying and introspecting these drivers, as well as running AI workloads with resource sharing.
 The session concludes with discussion of upcoming DRA features, integration with other Kubernetes components, and resources for further experimentation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

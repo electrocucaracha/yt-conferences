@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "[Session] Beyond API Wrappers: Workflow-Based MCP Servers with Elicitation
+  and Sampling"
+nav_order: 20
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Session] Beyond API Wrappers: Workflow-Based MCP Servers with Elicitation and Sampling"
-description: "In this talk, Tom McLolin from Tomorrow AI discusses moving beyond the traditional approach of treating MCP servers as simple API wrappers, advocating instead for building workflow-oriented servers that focus on specific user outcomes. He e..."
+description:
+  In this talk, Tom McLolin from Tomorrow AI discusses moving beyond the
+  traditional approach of treating MCP servers as simple API wrappers, advocating
+  instead for building workflow-oriented servers that focus on specific user outcomes.
+  He e...
 resource: https://www.youtube.com/watch?v=JuPoDQwmYMU
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that the API wrapper model leads to tool redundancy, context confusi
 By contrast, workflow servers are designed around actual user tasks, selecting only the necessary tools and leveraging advanced MCP features like elicitation and sampling to enable progressive disclosure and human-in-the-loop decision-making.
 Tom demonstrates this approach with a workflow that transforms a hand-drawn sketch into a game-ready, rigged 3D asset, illustrating how complexity is shifted into the server runtime and how elicitation and sampling can streamline user interactions.
 He concludes by emphasizing that effective workflows are discovered through close collaboration with domain experts and that this method better mirrors real-world processes, ultimately making MCP servers more useful and intuitive for end users.
+
 # Main Points
 
 |   # | Main point                                                                                                                   |

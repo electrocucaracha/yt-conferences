@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Cambia tu mente cambia tu vida | Luis Topete – Sesión 39
+nav_order: 6
+parent: Foro De Crecimiento
 type: Video Note
-title: "Cambia tu mente cambia tu vida | Luis Topete – Sesión 39"
-description: "En esta entrevista, Luis Topete, conferencista y coach de mentalidad y alto rendimiento, explica que la mentalidad es la esencia que determina los resultados de una persona, ya que los pensamientos, emociones y acciones crean la realidad in..."
+description:
+  En esta entrevista, Luis Topete, conferencista y coach de mentalidad
+  y alto rendimiento, explica que la mentalidad es la esencia que determina los resultados
+  de una persona, ya que los pensamientos, emociones y acciones crean la realidad
+  in...
 resource: https://www.youtube.com/watch?v=g-uQmWPhEt8
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ Topete presenta la "pirámide del alto desempeño", cuya base es la confianza, s
 Destaca la importancia de la actitud sobre la aptitud, ya que la actitud multiplica las probabilidades de éxito.
 Además, comparte rituales clave como la gratitud, la definición de metas por escrito, el propósito detrás de cada meta, la celebración de logros y rodearse de personas que eleven los estándares.
 Finalmente, enfatiza que el progreso y la acción consciente, junto con una mentalidad optimista basada en datos y la transformación de problemas en retos, son fundamentales para lograr una mentalidad de acero y alcanzar metas significativas.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                      |

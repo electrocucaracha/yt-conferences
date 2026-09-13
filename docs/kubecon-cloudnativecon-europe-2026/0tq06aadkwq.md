@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Signed, Sealed, Delivered: Why Reverse Proxies Outperform VPNs - Peter O'Neill
+  & Boris Kurktchiev"
+nav_order: 331
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Signed, Sealed, Delivered: Why Reverse Proxies Outperform VPNs - Peter O'Neill & Boris Kurktchiev"
-description: "In this talk, Boris and Peter discuss the limitations of traditional VPN-based network security, especially in the context of AI and automation, and advocate for identity-based access control using reverse proxies. They explain how tools li..."
+description:
+  In this talk, Boris and Peter discuss the limitations of traditional
+  VPN-based network security, especially in the context of AI and automation, and
+  advocate for identity-based access control using reverse proxies. They explain how
+  tools li...
 resource: https://www.youtube.com/watch?v=0tq06AAdKWQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain how tools like Keycloak (for identity and authorization) and Envoy 
 Through a live demo, they show how JWTs encapsulate user identity and permissions, enabling precise access decisions and short-lived tokens to reduce risk.
 The speakers emphasize that this approach not only improves security and compliance by tying actions to specific identities and intents, but also addresses the challenges posed by both human and machine actors in modern environments.
 While acknowledging that VPNs still have a role, they argue that organizations must modernize their security posture by layering identity-aware controls throughout their infrastructure.
+
 # Main Points
 
 |   # | Main point                                                                                                     |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "When Multitenancy Goes Wrong: A Deep Dive Into Kcp’s First CVE - Marvin Beckers,
+  ClickHouse"
+nav_order: 401
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "When Multitenancy Goes Wrong: A Deep Dive Into Kcp’s First CVE - Marvin Beckers, ClickHouse"
-description: "Marvin Beckers, a maintainer of the CNCF sandbox project KCP, discusses the project's first official CVE and the lessons learned from addressing it. KCP is a multi-tenant, horizontally scalable control plane for Kubernetes-like APIs, design..."
+description:
+  Marvin Beckers, a maintainer of the CNCF sandbox project KCP, discusses
+  the project's first official CVE and the lessons learned from addressing it. KCP
+  is a multi-tenant, horizontally scalable control plane for Kubernetes-like APIs,
+  design...
 resource: https://www.youtube.com/watch?v=6pFY8lrTOKw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ KCP is a multi-tenant, horizontally scalable control plane for Kubernetes-like A
 The vulnerability arose because an authorizer in the virtual workspace failed to check API bindings on the consumer side, allowing users with certain permissions to perform unauthorized create and delete operations, potentially escalating privileges by creating cluster-admin bindings.
 The issue was discovered while extending permission claims functionality, and although mitigated by some architectural constraints, it was serious enough to warrant a coordinated disclosure and rapid patching process using GitHub's security advisory tools.
 Beckers emphasizes the importance of maintaining a robust security process, transparent communication, and continuous vigilance, encouraging other open source projects to prepare for similar incidents and leverage available security infrastructure.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

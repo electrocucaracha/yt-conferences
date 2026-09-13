@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Scaling Kubescape to Thousands of Nodes - Matthias
+  Bertschy, Maintainer"
+nav_order: 289
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Scaling Kubescape to Thousands of Nodes - Matthias Bertschy, Maintainer"
-description: "Matias, a maintainer of Cubescape, shares the challenges faced when scaling their Kubernetes security platform to handle 5,000 nodes, each sending large data objects. Initially, their naive approach of having each node agent send full CRDs..."
+description:
+  Matias, a maintainer of Cubescape, shares the challenges faced when scaling
+  their Kubernetes security platform to handle 5,000 nodes, each sending large data
+  objects. Initially, their naive approach of having each node agent send full CRDs...
 resource: https://www.youtube.com/watch?v=abVrry6PQdQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Initially, their naive approach of having each node agent send full CRDs every 1
 Switching to the patch method also failed, as synchronous processing and mutexes could not keep up with the volume and size of data.
 Their current solution involves each node agent sending unique CRDs as time series data, allowing the API server to quickly acknowledge and store data, with aggregation handled asynchronously, greatly improving scalability.
 Matias concludes by inviting attendees to discuss further ideas at the conference.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                    |

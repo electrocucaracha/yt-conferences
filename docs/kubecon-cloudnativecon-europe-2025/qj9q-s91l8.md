@@ -1,11 +1,23 @@
 ---
+layout: default
+title:
+  "Keynote: Cloud Native Evolution in Telec... Faseela K, Tom Kivlin, Philippe
+  Ensarguet & Joel Studler"
+nav_order: 146
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Keynote: Cloud Native Evolution in Telec... Faseela K, Tom Kivlin, Philippe Ensarguet & Joel Studler"
-description: "I'm ready to assist. Please provide the video transcript you'd like me to summarize. I'll generate a concise summary within the 2000 character limit."
+description:
+  I'm ready to assist. Please provide the video transcript you'd like me
+  to summarize. I'll generate a concise summary within the 2000 character limit.
 resource: https://www.youtube.com/watch?v=qj9q_-S91L8
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +25,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 I'm ready to assist.
 Please provide the video transcript you'd like me to summarize.
 I'll generate a concise summary within the 2000 character limit.
+
 # Main Points
 
 |   # | Main point |

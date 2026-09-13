@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Dapr in the AI Era: Orchestrating Complex Multi-agent Workflows With Automatic...
+  Yaron Schneider"
+nav_order: 83
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Dapr in the AI Era: Orchestrating Complex Multi-agent Workflows With Automatic... Yaron Schneider"
-description: "Yaron Schneider, CTO and co-founder of Dapr Grid, introduces the Dapr project and its role in making AI agents reliable and production-ready by addressing distributed systems challenges such as state management, workflow durability, and sec..."
+description:
+  Yaron Schneider, CTO and co-founder of Dapr Grid, introduces the Dapr
+  project and its role in making AI agents reliable and production-ready by addressing
+  distributed systems challenges such as state management, workflow durability, and
+  sec...
 resource: https://www.youtube.com/watch?v=9gejXxl5JzE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that while popular agent frameworks like LangChain and LangGraph foc
 Dapr provides a set of APIs and building blocks—including workflows, pub/sub, state management, and conversation APIs—that enable agents to persist state across failures, communicate securely, and integrate with over 30 databases.
 Schneider demonstrates Dapr Agents, a framework contributed by Nvidia, which ensures agents can resume exactly where they left off after crashes, unlike traditional checkpointing approaches.
 He also showcases multi-agent collaboration using Dapr’s pub/sub system and highlights observability features like audit logs and traceability, emphasizing Dapr’s open-source, cloud-native, and vendor-neutral approach to building resilient AI systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

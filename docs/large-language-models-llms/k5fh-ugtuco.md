@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 6 - LLM Reasoning
+nav_order: 6
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 6 - LLM Reasoning"
-description: "In this lecture, the instructor introduces the concept of reasoning in large language models (LLMs), highlighting its recent emergence and importance. The session begins by reviewing previous lectures on pre-training, fine-tuning, and prefe..."
+description:
+  In this lecture, the instructor introduces the concept of reasoning in
+  large language models (LLMs), highlighting its recent emergence and importance.
+  The session begins by reviewing previous lectures on pre-training, fine-tuning,
+  and prefe...
 resource: https://www.youtube.com/watch?v=k5Fh-UgTuCo
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ The core of the lecture defines reasoning as the ability to solve complex, often
 The instructor discusses benchmarks and metrics for evaluating reasoning, such as pass@k, and explains how reinforcement learning (RL), particularly with verifiable rewards, is used to train reasoning models when high-quality reasoning chains are unavailable.
 The lecture details the GRPO (Group Relative Policy Optimization) algorithm, which improves upon previous RL methods by comparing multiple completions for the same prompt to compute advantages without needing a value function, and addresses technical challenges like output length inflation and token weighting.
 The session concludes with a case study of DeepSeek's R1 model, outlining its multi-stage training pipeline—including pre-training, RL with verifiable and formatting rewards, SFT with curated data, and distillation for smaller models—and demonstrates how these methods yield competitive reasoning performance compared to closed-source alternatives.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                   |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How Statistical Offices Move to Cloud Native Technology - Frédéric Comte &
+  Trygve Tatsuya Falch
+nav_order: 143
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "How Statistical Offices Move to Cloud Native Technology - Frédéric Comte & Trygve Tatsuya Falch"
-description: "The speakers, representing Statistics Norway and the French national statistical office, discuss the challenges and solutions involved in moving national statistical offices (NSOs) to cloud-native infrastructures. They highlight the institu..."
+description:
+  The speakers, representing Statistics Norway and the French national
+  statistical office, discuss the challenges and solutions involved in moving national
+  statistical offices (NSOs) to cloud-native infrastructures. They highlight the institu...
 resource: https://www.youtube.com/watch?v=JD8qIJuEfEA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the institutional tension between maintaining strict security and
 By adopting Kubernetes, containers, and open-source platforms like NICE and Onyxia, they have created flexible, secure, and user-friendly environments that allow data scientists—who often work with sensitive real data and are not traditional developers—to efficiently analyze data and build statistical products.
 These platforms provide standardized tools, secure access, and resource management while supporting a wide range of analytical workflows, from one-off explorations to production pipelines.
 The speakers emphasize the importance of collaboration, guidance over abstraction, and ongoing training to ensure that statisticians can leverage modern technologies while maintaining data security and methodological rigor.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

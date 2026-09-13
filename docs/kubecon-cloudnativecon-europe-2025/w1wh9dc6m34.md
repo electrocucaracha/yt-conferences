@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  A Practical Guide To Kubernetes Policy as Code - Jim Bugwadia, Rita Zhang,
+  Andy Suderman & Joe Betz
+nav_order: 10
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "A Practical Guide To Kubernetes Policy as Code - Jim Bugwadia, Rita Zhang, Andy Suderman & Joe Betz"
-description: "The Kubernetes policy as code guide focuses on using code to manage and enforce rules in a Kubernetes cluster. The goal is to simplify policy management and make it more accessible to developers, operators, and security teams. Three key too..."
+description:
+  The Kubernetes policy as code guide focuses on using code to manage and
+  enforce rules in a Kubernetes cluster. The goal is to simplify policy management
+  and make it more accessible to developers, operators, and security teams. Three
+  key too...
 resource: https://www.youtube.com/watch?v=w1wh9dc6m34
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +31,7 @@ Kivero extends validating admission policies with additional features like image
 Gatekeeper provides a dynamic, flexible, and multi-language policy engine that can be used for both Kubernetes and external targets.
 OPA is a popular rule engine that has been integrated into Gatekeeper.
 The tools are designed to work together to provide a comprehensive policy as code solution for Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                |

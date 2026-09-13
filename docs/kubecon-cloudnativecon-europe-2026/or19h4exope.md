@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "SIG API Machinery: SIG Updates and Deep Dive in the AI/ML Era - Stefan Schimanski,
+  NVIDIA"
+nav_order: 315
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "SIG API Machinery: SIG Updates and Deep Dive in the AI/ML Era - Stefan Schimanski, NVIDIA"
-description: "The speaker provides an update on the SIG API Machinery, focusing on recent and upcoming changes that support AI and ML workloads in Kubernetes. The talk highlights improvements in API server mechanics, such as mutating admission policies n..."
+description:
+  The speaker provides an update on the SIG API Machinery, focusing on
+  recent and upcoming changes that support AI and ML workloads in Kubernetes. The
+  talk highlights improvements in API server mechanics, such as mutating admission
+  policies n...
 resource: https://www.youtube.com/watch?v=Or19H4ExOPE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ A major focus is on scaling the API server to handle very large clusters, as req
 These enhancements significantly reduce memory usage and improve performance, allowing Kubernetes to support clusters much larger than previously tested.
 Additional features like watch-based streaming and controller sharding are discussed, along with ongoing work to optimize for large pod specs and deduplicate data.
 Users are advised to update both their Kubernetes clusters and client libraries to benefit from these improvements, most of which are enabled by default in version 1.35 and later.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

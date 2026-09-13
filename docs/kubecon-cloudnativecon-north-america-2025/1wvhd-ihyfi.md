@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: The Kyverno Five: New Policy Types And What You Can
+  Do... Cortney Nickerson"
+nav_order: 238
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: The Kyverno Five: New Policy Types And What You Can Do... Cortney Nickerson"
-description: "Courtney Nickerson introduces Kyverno, a Kubernetes-native policy engine, and highlights its new policy types based on the Common Expression Language (CEL). She uses a concert metaphor to explain how Kubernetes acts as the stage and Kyverno..."
+description:
+  Courtney Nickerson introduces Kyverno, a Kubernetes-native policy engine,
+  and highlights its new policy types based on the Common Expression Language (CEL).
+  She uses a concert metaphor to explain how Kubernetes acts as the stage and Kyverno...
 resource: https://www.youtube.com/watch?v=1WvHD-ihyfI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ She uses a concert metaphor to explain how Kubernetes acts as the stage and Kyve
 The main policy types—validating, mutating, generating, image validating, and deleting—are described as band members, each with specific roles such as enforcing validations, modifying requests, creating resources, ensuring supply chain security, and cleaning up stale resources.
 Additionally, Kyverno now includes CEL libraries, enabling advanced operations like querying resources and validating image metadata directly within policies.
 The adoption of CEL aligns Kyverno with Kubernetes, resulting in improved performance and security, and the project welcomes new contributors and community engagement.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                         |

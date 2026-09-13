@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 3 - Tranformers
+  & Large Language Models
+nav_order: 3
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 3 - Tranformers & Large Language Models"
-description: "The lecture begins with announcements about slide availability and a recap of previous sessions on self-attention and transformer models, categorizing them into encoder-decoder (e.g., T5), encoder-only (e.g., BERT), and decoder-only (e.g..."
+description:
+  The lecture begins with announcements about slide availability and a
+  recap of previous sessions on self-attention and transformer models, categorizing
+  them into encoder-decoder (e.g., T5), encoder-only (e.g., BERT), and decoder-only
+  (e.g...
 resource: https://www.youtube.com/watch?v=Q5baLehv5So
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ The concept of Mixture of Experts (MoE) is introduced as a way to activate only 
 The lecture then covers response generation strategies, including greedy decoding, beam search, and sampling methods such as top-K and top-P, and explains the role of temperature in controlling output diversity.
 Prompting strategies are discussed, including context length, zero-shot and few-shot in-context learning, chain-of-thought prompting, and self-consistency via majority voting.
 Finally, the lecture explores efficiency techniques for inference, such as KV caching, group query attention, memory management (e.g., page attention), multi-latent attention for compact representations, and advanced decoding methods like speculative decoding and multi-token prediction, all aimed at making LLMs more scalable and practical.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                           |

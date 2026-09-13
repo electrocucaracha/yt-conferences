@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Deploying Lightweight AI Agents at the Healthcare Edge With K8s + Ollama -
+  Gary Arora & Samarth Shah
+nav_order: 58
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Deploying Lightweight AI Agents at the Healthcare Edge With K8s + Ollama - Gary Arora & Samarth Shah"
-description: "Gary Aurora and Samarth Sha, architects specializing in cloud and AI solutions for healthcare, discuss the longstanding challenges in healthcare claims processing, emphasizing its complexity, high volume, and reliance on outdated, fragmente..."
+description:
+  Gary Aurora and Samarth Sha, architects specializing in cloud and AI
+  solutions for healthcare, discuss the longstanding challenges in healthcare claims
+  processing, emphasizing its complexity, high volume, and reliance on outdated, fragmente...
 resource: https://www.youtube.com/watch?v=IdAvZKQots0
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that current AI solutions often fail due to the sector’s unique d
 Their proposed solution leverages distributed intelligence by deploying local language models and Kubernetes clusters at provider locations, enabling claims adjudication and audit to occur close to the data, thus reducing costs, improving accuracy, and maintaining data privacy.
 The system allows clusters to share learnings as vector differences without exposing sensitive information, resulting in faster, more comprehensive audits and payments.
 While demonstrated in healthcare, they note this architecture’s applicability to other industries facing similar data privacy and cost challenges, highlighting a trend toward hybrid AI deployments that balance local and cloud resources.
+
 # Main Points
 
 |   # | Main point                                                                                                                                      |

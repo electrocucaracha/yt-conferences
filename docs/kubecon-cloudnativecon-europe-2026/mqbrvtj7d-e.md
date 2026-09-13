@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: Going Global: Lessons From Internationalizing... Severin Neumann
+  & Tiffany Hrabusa"
+nav_order: 206
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Lightning Talk: Going Global: Lessons From Internationalizing... Severin Neumann & Tiffany Hrabusa"
-description: "Tiffany and Severin from the OpenTelemetry project discuss their approach to starting the localization process for their documentation. They explain that while AI and large language models can assist with translation, human review is essent..."
+description:
+  Tiffany and Severin from the OpenTelemetry project discuss their approach
+  to starting the localization process for their documentation. They explain that
+  while AI and large language models can assist with translation, human review is
+  essent...
 resource: https://www.youtube.com/watch?v=MqbRvtJ7D-E
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that while AI and large language models can assist with translation
 Localization teams not only help translate but also provide an accessible entry point for new contributors, some of whom become key project maintainers.
 Their strategy involves starting small with one or two languages, providing structure through mentorship and clear roles, and learning from established projects like Kubernetes.
 They highlight ongoing challenges such as permission management and repository organization, and encourage multilingual contributors to join or propose new localizations, expressing gratitude to those already involved.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

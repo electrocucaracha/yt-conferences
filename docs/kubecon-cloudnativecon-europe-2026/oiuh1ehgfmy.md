@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Forensics With Falco - Gerald Combs, Maintainer"
-description: "Gerald Combmes, creator of Wireshark and a Falco maintainer, introduces Falco as a cloud-native, real-time threat detection engine typically used in Kubernetes clusters to monitor system calls and log messages against predefined rules, trig..."
+nav_order: 264
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Gerald Combmes, creator of Wireshark and a Falco maintainer, introduces
+  Falco as a cloud-native, real-time threat detection engine typically used in Kubernetes
+  clusters to monitor system calls and log messages against predefined rules, trig...
 resource: https://www.youtube.com/watch?v=oiuh1eHGFMY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ Gerald Combmes, creator of Wireshark and a Falco maintainer, introduces Falco as
 He highlights a recent Falco feature that allows triggered activity to be saved to capture files for further investigative analysis using Stratark, a sibling application to Wireshark that applies similar workflows to system calls and log messages.
 Gerald explains how to enable and configure this capture feature in Falco, including specifying which rules to capture, where to save files, and when to stop capturing, while noting the potential performance impact and the need for careful experimentation.
 He invites feedback on this new feature, offers further resources and demos at CubeCon, and expresses gratitude to the community for their support.
+
 # Main Points
 
 |   # | Main point                                                                                                             |

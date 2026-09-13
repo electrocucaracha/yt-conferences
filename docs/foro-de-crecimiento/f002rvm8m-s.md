@@ -1,11 +1,22 @@
 ---
+layout: default
+title: El Éxito en los Negocios Se Aprende – Carlo Ledezma | Sesión 28
+nav_order: 22
+parent: Foro De Crecimiento
 type: Video Note
-title: "El Éxito en los Negocios Se Aprende – Carlo Ledezma | Sesión 28"
-description: "En esta entrevista, Carlos Ledesma, economista y experto en ventas directas, comparte los principios fundamentales para emprender y gestionar un negocio exitoso. Destaca que las personas no logran sus metas principalmente porque no saben có..."
+description:
+  En esta entrevista, Carlos Ledesma, economista y experto en ventas directas,
+  comparte los principios fundamentales para emprender y gestionar un negocio exitoso.
+  Destaca que las personas no logran sus metas principalmente porque no saben có...
 resource: https://www.youtube.com/watch?v=F002Rvm8M_s
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ Ledesma enfatiza que un negocio debe partir de una necesidad real, servir a un c
 Además, resalta la diferencia entre estrategia y táctica, la relevancia de planificar sin caer en la parálisis y la importancia de medir y retroalimentar resultados, aprendiendo tanto del fracaso como del éxito.
 Para diferenciarse en el mercado, recomienda conocer profundamente al cliente, comunicar una propuesta de valor relevante y conectar emocionalmente antes de vender, priorizando la escucha genuina sobre el discurso.
 Finalmente, sostiene que el cliente es el motor, combustible y meta de todo negocio, y que servirlo auténticamente genera relaciones duraderas y sostenibles, siendo los principios y la mentalidad de servicio más importantes que cualquier táctica de ventas.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

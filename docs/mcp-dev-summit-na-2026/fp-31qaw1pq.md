@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Sponsored Session: Future-Proofing AI Agents: The Strategic Role of MCP -
+  Don Murray, Safe Software"
+nav_order: 85
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Sponsored Session: Future-Proofing AI Agents: The Strategic Role of MCP - Don Murray, Safe Software"
-description: 'Don Murray from Safe Software discusses the strategic importance of MCP (an integration protocol) in data integration, emphasizing its growing adoption and the proliferation of MCP endpoints. He highlights the challenge of integrating "hard...'
+description:
+  Don Murray from Safe Software discusses the strategic importance of MCP
+  (an integration protocol) in data integration, emphasizing its growing adoption
+  and the proliferation of MCP endpoints. He highlights the challenge of integrating
+  "hard...
 resource: https://www.youtube.com/watch?v=Fp-31qAW1PQ
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He highlights the challenge of integrating "hard data"—such as legacy database
 Murray demonstrates how MCP tools can be easily created and published using a no-code environment, enabling AI clients like Claude to access and analyze complex datasets for tasks such as neighborhood profiling and business analysis.
 He underscores that MCP allows organizations to leverage all their data, both simple and complex, for AI and integration purposes, regardless of whether the data is in the cloud or on-premises.
 The presentation concludes with a live demo showing how AI can interact with MCP tools to generate insights and visualizations, illustrating the ease and power of integrating diverse data sources through MCP.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

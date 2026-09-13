@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Models as Microservices, Platforms as Partners: Collaboratively Building ML
+  Inf... Stephanie Pavlick"
+nav_order: 171
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Models as Microservices, Platforms as Partners: Collaboratively Building ML Inf... Stephanie Pavlick"
-description: "Stephanie Pavick, a machine learning platform engineer at Hinge, presented an overview of how Hinge has developed its ML platform from the ground up, emphasizing both technical and organizational evolution. Initially, ML engineers built ad..."
+description:
+  Stephanie Pavick, a machine learning platform engineer at Hinge, presented
+  an overview of how Hinge has developed its ML platform from the ground up, emphasizing
+  both technical and organizational evolution. Initially, ML engineers built ad...
 resource: https://www.youtube.com/watch?v=6H88ez69VmQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The platform team, established two years ago, first built generalized solutions 
 The resulting Hinge AI platform, "high," now supports diverse training, serving, feature storage, and generative AI needs, leveraging open-source tools and custom SDKs to streamline model deployment and observability.
 This new approach has reduced model time to production by 40% and ensured comprehensive SLOs for all online models.
 Key lessons include starting with user pain points, baking reliability into defaults, treating ML engineers as partners, and iterating solutions with a willingness to pivot when necessary.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                        |

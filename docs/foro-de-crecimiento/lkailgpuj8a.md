@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cofundador de Rappi: Cómo se construye un negocio millonario desde cero |
+  Andrés Bilbao"
+nav_order: 8
+parent: Foro De Crecimiento
 type: Video Note
-title: "Cofundador de Rappi: Cómo se construye un negocio millonario desde cero | Andrés Bilbao"
-description: "En esta entrevista, Andrés Bilbao, cofundador de Rappi y primer unicornio colombiano, comparte su experiencia sobre la creación y crecimiento de la empresa, destacando que el éxito no es resultado de un plan maestro, sino de múltiples itera..."
+description:
+  En esta entrevista, Andrés Bilbao, cofundador de Rappi y primer unicornio
+  colombiano, comparte su experiencia sobre la creación y crecimiento de la empresa,
+  destacando que el éxito no es resultado de un plan maestro, sino de múltiples itera...
 resource: https://www.youtube.com/watch?v=LkaIlgpUJ8A
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Subraya la importancia de formar equipos ambiciosos y mejores que uno mismo, as�
 Bilbao diferencia entre dos tipos de emprendedores, los "makers" y los "mavericks", y enfatiza que el crecimiento empresarial depende de romper creencias limitantes, fijar metas ambiciosas y medir constantemente los resultados.
 Además, resalta que para escalar un negocio existen varias palancas como el capital, el talento, la tecnología y la visibilidad pública, y que el impacto social debe ser el motor principal de cualquier emprendimiento, más allá del dinero.
 Finalmente, aconseja reclutar personas mejores que uno mismo y fomentar equipos autónomos, priorizando siempre el impacto y la abundancia entendida como libertad, tiempo y contribución social.
+
 # Main Points
 
 |   # | Main point                                                                                                                            |

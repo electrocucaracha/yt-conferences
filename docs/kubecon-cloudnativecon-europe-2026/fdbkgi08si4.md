@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Cloud Native University: AI + Kubernetes: What Beginners...
+  Michael Forrester"
+nav_order: 44
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Cloud Native University: AI + Kubernetes: What Beginners... Michael Forrester"
-description: "The speaker discusses the evolving landscape of AI workloads and Kubernetes, emphasizing that while AI is rapidly being integrated into workflows, most organizations are leveraging existing, generally trained models and platforms like Kuber..."
+description:
+  The speaker discusses the evolving landscape of AI workloads and Kubernetes,
+  emphasizing that while AI is rapidly being integrated into workflows, most organizations
+  are leveraging existing, generally trained models and platforms like Kuber...
 resource: https://www.youtube.com/watch?v=FdBkGi08SI4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Key Kubernetes features such as Device Resource Assignment (DRA), in-place pod r
 The speaker recommends focusing on a core set of technologies—including Kubernetes scheduling, distributed training, and model serving tools like Kserve and KNative—while cautioning beginners to be mindful of security concerns with agent-based infrastructure.
 A free, structured learning path is provided via a public repository, encouraging practitioners to build foundational knowledge and reassuring them that existing skills in infrastructure, monitoring, and security remain highly relevant in the AI era.
 The overall message is to stay calm, focus on learning a few new tools, and recognize that most of the necessary expertise is already in place.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                      |

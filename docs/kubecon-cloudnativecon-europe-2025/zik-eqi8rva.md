@@ -1,11 +1,22 @@
 ---
+layout: default
+title: SIG Scheduling Intro & Updates - Maciej Skoczeń, Google; Kensei Nakada, Tetrate.io
+nav_order: 290
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "SIG Scheduling Intro & Updates - Maciej Skoczeń, Google; Kensei Nakada, Tetrate.io"
-description: 'The Google team is working on improving the performance and efficiency of the Kuberenetes scheduler, specifically the Scheduleuler component. Recent updates include "queing hints" to handle unschedulable parts by retrying them after a certa...'
+description:
+  The Google team is working on improving the performance and efficiency
+  of the Kuberenetes scheduler, specifically the Scheduleuler component. Recent updates
+  include "queing hints" to handle unschedulable parts by retrying them after a certa...
 resource: https://www.youtube.com/watch?v=ZIk_EqI8rVA
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Recent updates include "queing hints" to handle unschedulable parts by retrying 
 Another update is "async preemption," which enables higher priority parts to preempt lower priority ones, improving scheduling throughput.
 Additionally, the team has introduced features such as partitionable devices and prioritized device requests, enabling more flexible resource allocation.
 The Scheduleuler simulator allows users to test custom plugins and configurations without affecting their production clusters.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

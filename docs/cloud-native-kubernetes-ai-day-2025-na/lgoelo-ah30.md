@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Sponsored Keynote: Autoscaling GPU Clusters Anywhere — Hyperscalers, Neoclouds
+  & Ba... Lukas Gentele"
+nav_order: 12
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Sponsored Keynote: Autoscaling GPU Clusters Anywhere — Hyperscalers, Neoclouds & Ba... Lukas Gentele"
-description: "The speaker discusses the challenges of providing Kubernetes access on GPUs to engineering teams, highlighting the significantly higher costs compared to CPUs and the need for efficient resource allocation. To address this, the speaker intr..."
+description:
+  The speaker discusses the challenges of providing Kubernetes access on
+  GPUs to engineering teams, highlighting the significantly higher costs compared
+  to CPUs and the need for efficient resource allocation. To address this, the speaker
+  intr...
 resource: https://www.youtube.com/watch?v=LGOELO-ah30
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ To address this, the speaker introduces VCluster, a Kubernetes distribution that
 VCluster now integrates with Carpenter, an autoscaling tool from AWS, allowing dynamic scaling and optimization of GPU resources across multiple cloud providers through a central vcluster platform and node providers, with full lifecycle management of nodes.
 This setup supports hybrid and multi-cloud environments using Terraform and Open Tofu, and includes direct integrations with Nvidia BCM and Cubeword, enabling deployment on high-performance Nvidia DGX super pods.
 The speaker invites attendees to learn more at their booth and participate in related events.
+
 # Main Points
 
 |   # | Main point                                                                                                  |

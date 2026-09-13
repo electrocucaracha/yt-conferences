@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 9: Policy Gradient"
-description: "The lecture continues the discussion on reinforcement learning (RL), moving from basic algorithms to more advanced topics like function approximation and policy-based methods. It reviews the RL setting, where an agent interacts with an envi..."
+nav_order: 20
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture continues the discussion on reinforcement learning (RL),
+  moving from basic algorithms to more advanced topics like function approximation
+  and policy-based methods. It reviews the RL setting, where an agent interacts with
+  an envi...
 resource: https://www.youtube.com/watch?v=lOMNskWVeD8
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ It reviews the RL setting, where an agent interacts with an environment modeled 
 The lecture distinguishes between model-based and model-free approaches, explaining value-based methods like Q-learning and SARSA, and introduces the challenges of large state spaces, which require function approximation using parameterized models instead of tabular representations.
 The instructor then shifts to policy-based methods, particularly policy gradient algorithms, which optimize policies directly by maximizing expected utility through gradient descent, and explains the REINFORCE algorithm as a foundational example.
 Techniques for variance reduction, such as using baselines, are discussed to improve learning efficiency, and the lecture concludes by summarizing the three main RL approaches—model-based, value-based, and policy-based—highlighting their similarities in structure and their respective strengths.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

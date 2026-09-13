@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: A Hitchhiker's Guide to... Katherine Druckman, Gerald
+  Venzl & Lori Lorusso"
+nav_order: 206
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: A Hitchhiker's Guide to... Katherine Druckman, Gerald Venzl & Lori Lorusso"
-description: "In this session of Project Lightning Talks, Katherine Duckman and Lori Laruso guide attendees through the complex landscape of the Cloud Native Computing Foundation (CNCF) projects, using a playful Rick and Morty theme. They introduce thems..."
+description:
+  In this session of Project Lightning Talks, Katherine Duckman and Lori
+  Laruso guide attendees through the complex landscape of the Cloud Native Computing
+  Foundation (CNCF) projects, using a playful Rick and Morty theme. They introduce
+  thems...
 resource: https://www.youtube.com/watch?v=wUWGSB1HvVk
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They introduce themselves and highlight the vastness of the CNCF ecosystem, whic
 The speakers emphasize the importance of understanding project maturity, filtering projects by relevance and health, and using tools like the CNCF landscape site and Clo Monitor to evaluate and select projects based on specific needs, such as security or compliance.
 They encourage active contribution to projects, noting that all projects, regardless of maturity, benefit from community involvement, and stress the value of due diligence and ongoing evaluation as the open source landscape evolves.
 The session concludes with a reminder to leverage available resources, contribute where possible, and approach project selection with both present and future needs in mind.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                             |

@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 17: Language Models"
-description: "The lecture provides an overview of language models, emphasizing their ubiquity in modern technology, from chatbots and autocomplete features to robotics and code completion. It explains that contemporary large language models are trained o..."
+nav_order: 8
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture provides an overview of language models, emphasizing their
+  ubiquity in modern technology, from chatbots and autocomplete features to robotics
+  and code completion. It explains that contemporary large language models are trained
+  o...
 resource: https://www.youtube.com/watch?v=3orP3u2-jcg
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ It explains that contemporary large language models are trained on massive datas
 The core of language modeling is predicting the next word in a sequence, which enables multitask learning and allows a single model to perform a wide range of tasks, such as translation, summarization, and reasoning, simply by scaling up data and model size.
 The lecture discusses the evolution from simple counting methods to neural network-based models, particularly transformers, and highlights key innovations like pre-training on vast internet text, post-training for instruction following and safety, and the importance of tokenization and efficient system design.
 Finally, it addresses the current landscape, where both closed and open-source large language models are rapidly advancing, raising new questions about safety, accessibility, and the societal impact of increasingly powerful AI systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                  |

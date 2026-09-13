@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Redis on EC2 to Valkey on Kubernetes: A Zero-Downtime Case Study - Joe Heyburn,
+  Braze"
+nav_order: 308
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Redis on EC2 to Valkey on Kubernetes: A Zero-Downtime Case Study - Joe Heyburn, Braze"
-description: "Joe Hayburn, a staff engineer at Braze, describes how his team migrated nearly 300 Redis instances to Kubernetes without downtime and with a rollback path at every step, enabling a seamless later migration to Valkey and achieving up to a 90..."
+description:
+  Joe Hayburn, a staff engineer at Braze, describes how his team migrated
+  nearly 300 Redis instances to Kubernetes without downtime and with a rollback path
+  at every step, enabling a seamless later migration to Valkey and achieving up to
+  a 90...
 resource: https://www.youtube.com/watch?v=rNZ6HLiFgYI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Braze, a customer engagement platform handling billions of personalized messages
 The migration involved overcoming challenges such as maintaining static IPs for Sentinel in Kubernetes, ensuring no downtime or data loss, and managing network routing with AWS Network Load Balancers.
 After successfully migrating to Kubernetes, Braze switched to Valkey with minimal configuration changes, migrating 350 shards across 10 clusters in six weeks and seeing significant performance improvements.
 Looking ahead, Braze aims to optimize pod distribution, enable dynamic scaling, and is contributing to a community-led Valkey operator for Kubernetes to further streamline database operations.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

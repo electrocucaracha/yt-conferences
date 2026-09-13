@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "No More GPU Cold Starts: Making Serverless ML Inference Truly Real-Time -
+  Nikunj Goyal & Aditi Gupta"
+nav_order: 179
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "No More GPU Cold Starts: Making Serverless ML Inference Truly Real-Time - Nikunj Goyal & Aditi Gupta"
-description: "Nikun Goyel and Adidi Gupta discuss the challenges of serverless GPU workloads, focusing on the significant cold start latency that makes real-time inference difficult. They explain that while serverless computing ideally offers zero infras..."
+description:
+  Nikun Goyel and Adidi Gupta discuss the challenges of serverless GPU
+  workloads, focusing on the significant cold start latency that makes real-time inference
+  difficult. They explain that while serverless computing ideally offers zero infras...
 resource: https://www.youtube.com/watch?v=7b-mAtJLb4s
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ In contrast, CPU-based serverless workloads start much faster.
 The speakers demonstrate how each phase contributes to latency and outline practical strategies to reduce cold start times, such as maintaining a pool of warm GPUs, optimizing container images, preloading models and tokenizers, using faster serialization formats like TorchScript or ONNX, and employing lazy loading.
 They show that combining these techniques can reduce cold start latency by several seconds, but the optimal approach depends on balancing performance needs and cost constraints.
 The session concludes with a Q&A addressing motivators for serverless inference and trade-offs between serialization formats.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                               |

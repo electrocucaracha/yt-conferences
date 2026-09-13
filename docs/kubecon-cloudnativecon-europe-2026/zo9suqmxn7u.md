@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | EnvoyCon: The End of a De... Erica H, Kateryna N, Yan
+  A, Rohit A & Leonardo M"
+nav_order: 61
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | EnvoyCon: The End of a De... Erica H, Kateryna N, Yan A, Rohit A & Leonardo M"
-description: "The panel discusses the evolution of Envoy, reflecting on its origins, community, and future. Panelists share personal stories about how they became involved with Envoy, highlighting its appeal as an open-source project and its transformati..."
+description:
+  The panel discusses the evolution of Envoy, reflecting on its origins,
+  community, and future. Panelists share personal stories about how they became involved
+  with Envoy, highlighting its appeal as an open-source project and its transformati...
 resource: https://www.youtube.com/watch?v=Zo9suQMXN7U
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Panelists share personal stories about how they became involved with Envoy, high
 They emphasize Envoy’s shift from a simple proxy to a flexible platform, noting its extensibility, dynamic modules, and growing support for languages beyond C++, which have broadened community participation and use cases.
 The conversation covers technical advancements such as improved load balancing, reliability, and support for AI and modern protocols, as well as the challenges and safeguards associated with dynamic modules.
 Looking ahead, the panel is optimistic about Envoy’s role in shaping networking, its adaptability to new workloads like AI, and its thriving, inclusive community, encouraging newcomers to get involved.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

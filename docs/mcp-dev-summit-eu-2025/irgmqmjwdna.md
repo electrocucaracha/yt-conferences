@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "[Session] Moving Past Simple MCP Tools to MCP Agents with Darren Shepherd
+  - Obot AI"
+nav_order: 17
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Session] Moving Past Simple MCP Tools to MCP Agents with Darren Shepherd - Obot AI"
-description: "Darren Shepard, chief architect at OOT, discusses the evolution from simple MCP (Machine Communication Protocol) tools to more sophisticated MCP agents, emphasizing the importance of building conversational, agent-based interfaces rather th..."
+description:
+  Darren Shepard, chief architect at OOT, discusses the evolution from
+  simple MCP (Machine Communication Protocol) tools to more sophisticated MCP agents,
+  emphasizing the importance of building conversational, agent-based interfaces rather
+  th...
 resource: https://www.youtube.com/watch?v=iRgMQmJwDNA
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He argues that simply mapping APIs to MCP servers is insufficient for representi
 Shepard introduces his project, Nanobot, which encapsulates an entire MCP host as an agent within an MCP server, enabling rich, stateful, and multimodal conversational experiences that can be accessed across various channels and clients.
 Through live demonstrations, he shows how this approach supports agent-to-agent communication, maintains context, and allows for advanced features like elicitations and UI resources, ultimately providing a more controlled, secure, and user-friendly interface.
 Shepard concludes by advocating for the adoption of agent-based MCP servers for customer-facing applications, highlighting the flexibility and improved user experience they offer compared to traditional fine-grained tool exposure.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

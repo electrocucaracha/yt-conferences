@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 1 - Transformer
+nav_order: 1
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 1 - Transformer"
-description: "The transcript is from the introductory lecture of CME 295, a Stanford course on transformers and large language models (LLMs), taught by twin brothers Afin and Shervin, who have backgrounds in machine learning and industry experience at co..."
+description:
+  The transcript is from the introductory lecture of CME 295, a Stanford
+  course on transformers and large language models (LLMs), taught by twin brothers
+  Afin and Shervin, who have backgrounds in machine learning and industry experience
+  at co...
 resource: https://www.youtube.com/watch?v=Ub3GoFaUcds
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The instructors explain the course's goals: to teach the foundational mechanisms
 They outline the course logistics, grading (midterm and final, no coding or homework), prerequisites (basic ML and linear algebra), and resources such as slides, recordings, a textbook, and a cheat sheet.
 The lecture introduces key concepts in natural language processing (NLP), including classification, multi-classification, and generation tasks, and discusses tokenization methods (word, subword, character), word embeddings, and the evolution from RNNs and LSTMs to transformers.
 The instructors detail the self-attention mechanism, the structure of the transformer model (encoder, decoder, multi-head attention), and training techniques like label smoothing, concluding with a step-by-step example of how transformers process and generate text.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

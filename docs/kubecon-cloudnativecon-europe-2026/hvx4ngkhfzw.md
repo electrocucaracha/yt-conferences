@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Envoy in the Era of Agentic Workloads - Yan Avlasov, Google & Erica Hughberg,
+  Tetrate
+nav_order: 104
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Envoy in the Era of Agentic Workloads - Yan Avlasov, Google & Erica Hughberg, Tetrate"
-description: "In this presentation, Erica Huberg and Yan, both maintainers of the Envoy AI Gateway, discuss the evolving challenges and opportunities in networking for agentic AI workloads. They explain how the rise of AI agents, which require complex au..."
+description:
+  In this presentation, Erica Huberg and Yan, both maintainers of the Envoy
+  AI Gateway, discuss the evolving challenges and opportunities in networking for
+  agentic AI workloads. They explain how the rise of AI agents, which require complex
+  au...
 resource: https://www.youtube.com/watch?v=HvX4nGkhfZw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain how the rise of AI agents, which require complex authorization, obs
 Envoy, with its extensibility through features like dynamic modules and support for languages beyond C++, is positioned as a robust, future-ready foundation for managing AI traffic, enforcing security policies, and enabling fine-grained access control.
 The speakers highlight ongoing community efforts to address emerging standards, improve guardrail integration, and support agent-to-agent communication, inviting others to contribute and collaborate.
 They conclude by emphasizing Envoy’s adaptability, production maturity, and active community, encouraging participation and showcasing resources to help newcomers get involved.
+
 # Main Points
 
 |   # | Main point                                                                                                    |

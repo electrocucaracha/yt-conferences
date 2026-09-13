@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Lightning Talk: “Naming Things Is Hard”: A Guide to Naming Using Network Science
+  - Nick Travaglini"
+nav_order: 210
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Lightning Talk: “Naming Things Is Hard”: A Guide to Naming Using Network Science - Nick Travaglini"
-description: "In this talk, Nick, a senior technical customer success manager at Honeycomb.io, discusses effective naming strategies for instrumenting software with open telemetry, drawing on scientific research to guide best practices. He outlines the p..."
+description:
+  In this talk, Nick, a senior technical customer success manager at Honeycomb.io,
+  discusses effective naming strategies for instrumenting software with open telemetry,
+  drawing on scientific research to guide best practices. He outlines the p...
 resource: https://www.youtube.com/watch?v=vU5v4_P13lE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He outlines the problem of creating useful, descriptive names for telemetry data
 Nick reviews existing resources, such as OpenTelemetry blogs, and introduces research on how teams develop naming conventions, highlighting a paradox where both fully decentralized and fully centralized approaches can yield strong results.
 However, experimental findings suggest that a "connected broker" model—slightly more centralized than decentralized—enables teams to generate effective names quickly and collaboratively, combining the benefits of exploration and synthesis.
 He encourages teams to consider this model when naming telemetry elements, while noting that results may vary outside laboratory settings, and invites further discussion and experimentation within the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

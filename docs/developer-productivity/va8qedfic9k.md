@@ -1,11 +1,19 @@
 ---
-type: Video Note
+layout: default
 title: "Scaling Agile: The Small-is-Beautiful of Hubs • James Coplien • GOTO 2021"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+nav_order: 111
+parent: Developer Productivity
+type: Video Note
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Va8QedfiC9k
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +22,7 @@ Here is a summary of the video transcript in 3-5 sentences: The speaker discusse
 This is in contrast to traditional hierarchical systems, where scaling up leads to increased complexity and communication overhead.
 The speaker argues that agile organizations should adopt scale-free network structures, with hubs connecting teams and individuals across the organization, to improve communication and reduce unnecessary hierarchy.
 This approach can lead to more efficient and effective collaboration, but requires a fundamental shift in organizational design and management practices.
+
 # Main Points
 
 |   # | Main point |

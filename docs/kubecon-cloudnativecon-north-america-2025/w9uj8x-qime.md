@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Open Source at the Edge: Hardware, Firmware, and AI Stacks - Miley Fu & Saiyam
+  Pathak"
+nav_order: 189
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Open Source at the Edge: Hardware, Firmware, and AI Stacks - Miley Fu & Saiyam Pathak"
-description: "In this talk, Miley Fu and Sam Bak introduce Echo Kit, an open-source, Rust-based framework for building, customizing, and self-hosting voice AI agents on affordable edge devices like the ESP32 and Raspberry Pi. Echo Kit features open hardw..."
+description:
+  In this talk, Miley Fu and Sam Bak introduce Echo Kit, an open-source,
+  Rust-based framework for building, customizing, and self-hosting voice AI agents
+  on affordable edge devices like the ESP32 and Raspberry Pi. Echo Kit features open
+  hardw...
 resource: https://www.youtube.com/watch?v=W9Uj8x_qimE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Echo Kit features open hardware, firmware, and server components, allowing users
 The system captures audio via the device, sends it to a local or cloud-hosted server for processing, and returns responses in customizable voices, including user-trained or celebrity voices, with a focus on low latency and high performance.
 The presenters demonstrate Echo Kit’s configuration, deployment, and use cases, including educational settings where Kubernetes and vcluster can manage multiple devices and classrooms efficiently.
 They encourage contributions to the project and highlight the importance of open-source collaboration in advancing AI at the edge.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

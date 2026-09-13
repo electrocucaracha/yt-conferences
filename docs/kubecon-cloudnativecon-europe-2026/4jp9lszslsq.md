@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Sponsored Keynote: From Cloud Native to Accelerator Native: Kubernetes as
+  the Distri... Jago Macleod"
+nav_order: 340
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Sponsored Keynote: From Cloud Native to Accelerator Native: Kubernetes as the Distri... Jago Macleod"
-description: 'JGO Mloud, leader of Kubernetes at Google, discusses the rapid evolution and excitement within the Kubernetes community, emphasizing Google''s focus on velocity and utilization to shape the platform''s future. He explains Kubernetes'' "flywhee...'
+description:
+  JGO Mloud, leader of Kubernetes at Google, discusses the rapid evolution
+  and excitement within the Kubernetes community, emphasizing Google's focus on velocity
+  and utilization to shape the platform's future. He explains Kubernetes' "flywhee...
 resource: https://www.youtube.com/watch?v=4jP9lSZslSQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains Kubernetes' "flywheel effect," where developers benefit from increas
 Mloud outlines Kubernetes' progression from container orchestration to an expansive ecosystem and now toward becoming a distributed operating system for AI, highlighting recent advancements like improved hardware integration, workload-aware scheduling, and the agent sandbox for secure, scalable agentic workloads.
 He encourages experimentation with new tools such as GKE Labs' Open RL, stressing that Kubernetes' flexibility allows organizations to innovate and adapt without long-term commitments, benefiting both AI and non-AI use cases.
 Ultimately, he envisions Kubernetes evolving into the "nervous system" for autonomous infrastructure, supporting ongoing innovation and stability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

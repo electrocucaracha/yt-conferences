@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Securing AI Workloads: Building Zero-Trust Architecture for LLM Appl... Rohit
+  Ghumare & Joinal Ahmed"
+nav_order: 299
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Securing AI Workloads: Building Zero-Trust Architecture for LLM Appl... Rohit Ghumare & Joinal Ahmed"
-description: "The speaker discusses securing AI workloads, specifically LLM applications, and building a zero-trust architecture. They highlight various security risks associated with model running and inference, including unauthorized access, data leaka..."
+description:
+  The speaker discusses securing AI workloads, specifically LLM applications,
+  and building a zero-trust architecture. They highlight various security risks associated
+  with model running and inference, including unauthorized access, data leaka...
 resource: https://www.youtube.com/watch?v=qXEvqZ_cY0o
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The speaker discusses securing AI workloads, specifically LLM applications, and 
 They highlight various security risks associated with model running and inference, including unauthorized access, data leakage, adversarial attacks, insider threats, supply chain vulnerabilities, and identity compromise.
 To mitigate these risks, the speaker recommends implementing authentication, authorization, and identity verification; input validation and threat detection; securing deployment and isolation layers using Kubernetes service meshes and container sandboxing; and monitoring models for data confidentiality.
 They also showcase their own project, MCP server for Cube, which allows remote control of local data sources with a web API.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                       |

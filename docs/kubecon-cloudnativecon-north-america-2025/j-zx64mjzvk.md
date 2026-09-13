@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Fix First, Investigate Later: When an eBPF Rollout Brought Down Our... Zain
+  Malik & Grzegorz Głąb"
+nav_order: 78
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Fix First, Investigate Later: When an eBPF Rollout Brought Down Our... Zain Malik & Grzegorz Głąb"
-description: "The team investigated a network outage caused by an EBPF rollout, which affected 50% of their nodes and resulted in significant performance degradation. They discovered that the issue was due to the packet parser plugin in the retina toolin..."
+description:
+  The team investigated a network outage caused by an EBPF rollout, which
+  affected 50% of their nodes and resulted in significant performance degradation.
+  They discovered that the issue was due to the packet parser plugin in the retina
+  toolin...
 resource: https://www.youtube.com/watch?v=J-Zx64mJzVk
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They discovered that the issue was due to the packet parser plugin in the retina
 To resolve the issue, they implemented ring buffers in the kernel, which significantly improved performance.
 The team also found that the problem was not unique to their environment, as other BPF toolings were still using perf rings, but Celium had moved to ring buffers.
 They concluded that observability is essential for identifying performance issues and that choosing between perf rings and ring buffers depends on workload requirements.
+
 # Main Points
 
 |   # | Main point |

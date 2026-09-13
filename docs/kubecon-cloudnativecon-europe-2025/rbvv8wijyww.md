@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Multi-cluster Orchestration System: Karmada Updates and Use Cas... Hongcai
+  Ren & Joe Nathan Abellard"
+nav_order: 199
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Multi-cluster Orchestration System: Karmada Updates and Use Cas... Hongcai Ren & Joe Nathan Abellard"
-description: "Joe, a maintainer of the Commander project, presented an overview of the Kamada project and its features, including multicluster management, failover, and community growth. He discussed how Kamada can be used to manage applications across m..."
+description:
+  Joe, a maintainer of the Commander project, presented an overview of
+  the Kamada project and its features, including multicluster management, failover,
+  and community growth. He discussed how Kamada can be used to manage applications
+  across m...
 resource: https://www.youtube.com/watch?v=rbVV8WIJYww
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ Joe, a maintainer of the Commander project, presented an overview of the Kamada 
 He discussed how Kamada can be used to manage applications across multiple clusters and provide a global view of resources.
 Joe also highlighted the benefits of using a managed service like Manage Komada, which simplifies the process of onboarding tenants and provides a reliable and stable solution for mission-critical workloads.
 The presentation concluded with an overview of the Kamada community's growth and efforts to integrate with other projects, including Q and Cubeflow.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

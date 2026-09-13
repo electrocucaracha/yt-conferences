@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Cloud Native + Kubernetes AI Day | Welcome + Opening Remarks - Ricardo Rocha
+  & Rajas Kakodkar
+nav_order: 3
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Cloud Native + Kubernetes AI Day | Welcome + Opening Remarks - Ricardo Rocha & Rajas Kakodkar"
-description: "The speakers, Ricardo from CERN and Rajas from Broadcom, welcomed attendees to the Cloud Native and Kubernetes AI Day, expressing gratitude to participants, content submitters, and event sponsors. They emphasized the importance of the code..."
+description:
+  The speakers, Ricardo from CERN and Rajas from Broadcom, welcomed attendees
+  to the Cloud Native and Kubernetes AI Day, expressing gratitude to participants,
+  content submitters, and event sponsors. They emphasized the importance of the code...
 resource: https://www.youtube.com/watch?v=lxxXFjwUQxc
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They emphasized the importance of the code of conduct, encouraging kindness and 
 Rajas highlighted ongoing community initiatives, such as the Cloud Native AI initiative within CNCF, white papers on AI/ML workload scheduling and distributed systems, and opportunities to contribute via the CNCF Slack.
 He also mentioned active working groups focused on AI conformance, device management, and serving large language models on Kubernetes.
 The introduction concluded with reminders for speakers about logistics and an announcement that the event’s agenda would soon begin.
+
 # Main Points
 
 |   # | Main point                                                                                                           |

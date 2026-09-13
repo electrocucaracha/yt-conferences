@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Idle to Savings: Building a Global Scheduler for Cost‑Efficient Data
+  P... Rainie Li & Ang Zhang"
+nav_order: 119
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Idle to Savings: Building a Global Scheduler for Cost‑Efficient Data P... Rainie Li & Ang Zhang"
-description: "In this talk, Rainey, a senior engineering manager at Pinterest, outlines how Pinterest built a cost-efficient data processing platform on Kubernetes, known as Mocha. The platform ingests and processes large-scale data using a combination o..."
+description:
+  In this talk, Rainey, a senior engineering manager at Pinterest, outlines
+  how Pinterest built a cost-efficient data processing platform on Kubernetes, known
+  as Mocha. The platform ingests and processes large-scale data using a combination
+  o...
 resource: https://www.youtube.com/watch?v=8P2y_gyHQA8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The platform ingests and processes large-scale data using a combination of Apach
 Key challenges addressed include managing resource allocation for critical and non-critical jobs, maximizing cluster utilization during off-peak hours, and leveraging unused reserved capacity from online services.
 Pinterest employs customized Kubernetes schedulers like Unicorn and Volcano for advanced scheduling, fair sharing, and topology awareness, and has developed a system to dynamically rebalance EC2 capacity between online and offline workloads.
 Solutions such as separating driver and executor node groups, implementing global job scheduling and prioritization, and automatic job routing have improved reliability and resource utilization, with ongoing work to further optimize capacity prediction and utilization using machine learning.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                     |

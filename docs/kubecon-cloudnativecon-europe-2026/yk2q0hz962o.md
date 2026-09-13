@@ -1,11 +1,23 @@
 ---
+layout: default
+title: etcd 3.6 Updates and 3.7 Roadmap - Arka Saha, Broadcom & Josh Berkus, Red Hat
+nav_order: 408
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "etcd 3.6 Updates and 3.7 Roadmap - Arka Saha, Broadcom & Josh Berkus, Red Hat"
-description: "In this SCD maintainer session, Josh Burkus and Shaha provided updates on recent and upcoming developments in the SCD project, a key component of Kubernetes. They discussed the recent security release addressing authorization issues with SC..."
+description:
+  In this SCD maintainer session, Josh Burkus and Shaha provided updates
+  on recent and upcoming developments in the SCD project, a key component of Kubernetes.
+  They discussed the recent security release addressing authorization issues with
+  SC...
 resource: https://www.youtube.com/watch?v=YK2Q0hz962o
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They discussed the recent security release addressing authorization issues with 
 The roadmap for 3.7 includes features like chunked data retrieval (CD range), significant cleanup of gRPC and Protobuff dependencies, and the removal of experimental features, though some proposed performance enhancements may be deferred without additional contributors.
 The team is also overhauling documentation for better usability and announced changes to support windows, urging users to upgrade from older versions.
 Demonstrations showcased the SCD operator's new capabilities, such as certificate management and cluster upgrades, and the session concluded with a call for new contributors to join various subprojects and a Q&A addressing multi-tenancy and resource limits in Kubernetes environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                       |

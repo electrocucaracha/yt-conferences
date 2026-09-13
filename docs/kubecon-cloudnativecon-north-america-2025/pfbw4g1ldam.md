@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Observing Dark Matter With OpenTelemetry - Sam Alipio & Mario Macías, Grafana
+  Labs
+nav_order: 183
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Observing Dark Matter With OpenTelemetry - Sam Alipio & Mario Macías, Grafana Labs"
-description: "In this talk, Mario Matias and Sam discuss approaches to instrumenting applications for observability, focusing on OpenTelemetry and the use of eBPF (extended Berkeley Packet Filter) auto-instrumentation. They explain that while agent-based..."
+description:
+  In this talk, Mario Matias and Sam discuss approaches to instrumenting
+  applications for observability, focusing on OpenTelemetry and the use of eBPF (extended
+  Berkeley Packet Filter) auto-instrumentation. They explain that while agent-based...
 resource: https://www.youtube.com/watch?v=pfBw4g1LdAM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ eBPF provides more accurate system-level data, such as improved response time me
 However, eBPF has limitations, including lack of business-level context, limited distributed tracing support, and a requirement for Linux environments.
 The speakers introduce Grafana's OBI (OpenTelemetry eBPF Instrumentation) project, highlighting its capabilities and integration with existing SDKs, and emphasize that eBPF is a complementary tool rather than a replacement for SDKs.
 They conclude by noting ongoing development to improve integration and protocol support, and address questions about performance impact, compatibility, and deployment options.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

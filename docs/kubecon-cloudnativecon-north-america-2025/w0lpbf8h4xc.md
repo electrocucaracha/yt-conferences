@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "The Future of Virtualization in Kubernetes: What's Next for KubeVirt - Vladik
+  Romanovsky, Red Hat"
+nav_order: 308
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "The Future of Virtualization in Kubernetes: What's Next for KubeVirt - Vladik Romanovsky, Red Hat"
-description: "Vlatty Kromanski, a maintainer of the KubeVirt project, provided an update on the project's progress over the past year, highlighting community changes, new features, and future plans. KubeVirt, which extends the Kubernetes API to allow use..."
+description:
+  Vlatty Kromanski, a maintainer of the KubeVirt project, provided an update
+  on the project's progress over the past year, highlighting community changes, new
+  features, and future plans. KubeVirt, which extends the Kubernetes API to allow
+  use...
 resource: https://www.youtube.com/watch?v=w0LPBf8H4xc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ KubeVirt, which extends the Kubernetes API to allow users to run virtual machine
 Major technical advancements include a rearchitected decentralized live migration feature, improvements to migration controllers with priority queues, streamlined declarative hot plug operations, and expanded support for confidential computing technologies such as Intel TDX and AMD SEV-S.
 Additional enhancements cover optimized I/O thread tuning, support for user-space network binding (PAST), seamless TCP migration, native OCI image volume mounting, and swap space configuration for VMs.
 Looking ahead, the team is working on multiple hypervisor support, plugin mechanisms, incremental backup with CBT, VGPU live migration, PCI NUMA topology awareness, deeper DRA integration, and native VM templates, with opportunities for community involvement through meetings and communication channels.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

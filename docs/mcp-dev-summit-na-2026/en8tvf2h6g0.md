@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Keynote: Building a Unified Control Plane for MCP Across Servers, Clients,
+  and Teams - Cecilia Liu"
+nav_order: 40
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Keynote: Building a Unified Control Plane for MCP Across Servers, Clients, and Teams - Cecilia Liu"
-description: 'Cecilia, a product manager at Docker, shares real-world "horror stories" highlighting the security risks organizations face when using AI agents and MCP servers without proper controls. She recounts incidents where an intern unknowingly cau...'
+description:
+  Cecilia, a product manager at Docker, shares real-world "horror stories"
+  highlighting the security risks organizations face when using AI agents and MCP
+  servers without proper controls. She recounts incidents where an intern unknowingly
+  cau...
 resource: https://www.youtube.com/watch?v=En8TVF2H6g0
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ She recounts incidents where an intern unknowingly caused a data leak by install
 Cecilia stresses that these problems are preventable by establishing clear governance through four key questions: what tools are allowed, who is using them, what data is flowing, and what actions have occurred.
 She outlines three essential solutions: implementing an MCP gateway to control and audit access, using sandboxes to enforce strict operational boundaries at the OS level, and ensuring easy deployment that integrates with existing tech stacks.
 Cecilia concludes by inviting attendees to learn more at Docker’s booth, reiterating that these measures are crucial for preventing security incidents as AI usage scales.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

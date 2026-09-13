@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Experto en Liderazgo: Cómo Multiplicar tu Influencia y tu Impacto! | Yamil
+  Raidan"
+nav_order: 35
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en Liderazgo: Cómo Multiplicar tu Influencia y tu Impacto! | Yamil Raidan"
-description: "En esta entrevista, Yamil Raidán, un líder empresarial con amplia experiencia en América Latina, comparte su visión sobre el liderazgo, el desarrollo personal y la importancia de la autenticidad. Explica que para que una organización prospe..."
+description:
+  En esta entrevista, Yamil Raidán, un líder empresarial con amplia experiencia
+  en América Latina, comparte su visión sobre el liderazgo, el desarrollo personal
+  y la importancia de la autenticidad. Explica que para que una organización prospe...
 resource: https://www.youtube.com/watch?v=VqMPep1jjn0
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Explica que para que una organización prospere son esenciales tres estructuras:
 Yamil relata cómo sus experiencias personales y profesionales lo llevaron a priorizar la libertad y la integridad sobre el dinero, y enfatiza que el liderazgo auténtico requiere responsabilidad, autoconocimiento y la capacidad de romper con creencias limitantes.
 Además, subraya la relevancia de la inteligencia emocional, la recarga rápida de energía y la humildad como pilares fundamentales para liderar equipos y organizaciones.
 Finalmente, aconseja fomentar la autenticidad, el pensamiento crítico y la capacidad de soñar en grande, tanto en la vida personal como en la profesional, para lograr un liderazgo transformador y una vida plena.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

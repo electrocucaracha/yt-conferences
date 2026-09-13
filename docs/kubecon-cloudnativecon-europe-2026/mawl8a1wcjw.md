@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  The Latest in GPU, TPU, NIC and Other Device Support - WG Device Ma... John
+  Belamaric & Patrick Ohly
+nav_order: 362
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Latest in GPU, TPU, NIC and Other Device Support - WG Device Ma... John Belamaric & Patrick Ohly"
-description: "The working group device management meeting, led by engineers from Intel, Google, and Nvidia, provided an update on the progress and future plans for Dynamic Resource Allocation (DRA) in Kubernetes. The group was formed to address limitatio..."
+description:
+  The working group device management meeting, led by engineers from Intel,
+  Google, and Nvidia, provided an update on the progress and future plans for Dynamic
+  Resource Allocation (DRA) in Kubernetes. The group was formed to address limitatio...
 resource: https://www.youtube.com/watch?v=MAwL8A1WCjw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The group was formed to address limitations in the device plug-in interface, aim
 DRA, now generally available, introduces the resource slice and resource claim APIs to describe and allocate devices, enabling advanced scheduling and configuration, including support for partitionable devices and workload-aware scheduling.
 Ongoing efforts focus on integrating native resources such as CPU and memory, enhancing support for complex hardware topologies, expanding the API to cover more device types and use cases, and improving day-two operations like device failure handling.
 The session also highlighted recent contributions from new community members and announced that Nvidia and Google are donating their DRA drivers to the Kubernetes project, encouraging broader participation and further innovation in device management.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

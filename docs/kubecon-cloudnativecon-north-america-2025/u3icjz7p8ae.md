@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Rust Is the Language of AGI - Miley Fu, Second State
+nav_order: 263
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Rust Is the Language of AGI - Miley Fu, Second State"
-description: "Miley Fu, a CNCF ambassador, presented on behalf of Michael about the use of Rust and WebAssembly in building reliable AI infrastructure, highlighting the CNCF project WasmEdge and its applications in server-side AI inference. She discussed..."
+description:
+  Miley Fu, a CNCF ambassador, presented on behalf of Michael about the
+  use of Rust and WebAssembly in building reliable AI infrastructure, highlighting
+  the CNCF project WasmEdge and its applications in server-side AI inference. She
+  discussed...
 resource: https://www.youtube.com/watch?v=u3iCjz7p8aE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ She discussed the popularity of Rust, noting its memory safety, reliability, and
 Miley introduced a voice AI agent demo powered by a Rust server, explaining its architecture, which processes user speech through ASR, LLM, and TTS components, and supports extensibility with additional sensors.
 The talk also covered "code mode," a new approach where AI agents generate and execute code (e.g., TypeScript or Rust) to interact with MCP tools in a secure sandbox, reducing token consumption and improving efficiency compared to traditional tool calling.
 Miley showcased the open-source Rascoder project, which enables agents to generate, compile, and self-correct Rust code, emphasizing Rust's advantages for AI coding and the potential for fully automated, verifiably correct software generation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                          |

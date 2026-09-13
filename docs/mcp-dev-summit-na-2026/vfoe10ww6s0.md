@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Sponsored Session: Model Context Pragmatism - Jeremiah Lowin, Prefect"
-description: "Jeremiah, CEO of Prefect, discusses the evolution of FastMPP, an opinionated framework for working with the Model Context Protocol (MCP). He explains that FastMPP aims to absorb MCP best practices so users can focus on their own data and lo..."
+nav_order: 86
+parent: Mcp Dev Summit Na 2026
+type: Video Note
+description:
+  Jeremiah, CEO of Prefect, discusses the evolution of FastMPP, an opinionated
+  framework for working with the Model Context Protocol (MCP). He explains that FastMPP
+  aims to absorb MCP best practices so users can focus on their own data and lo...
 resource: https://www.youtube.com/watch?v=vfOe10Ww6s0
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains that FastMPP aims to absorb MCP best practices so users can focus on
 To address this, FastMPP 3 was redesigned around two core abstractions—providers and transforms—enabling rapid feature development and support for advanced capabilities like tool search, code mode, and progressive disclosure.
 Jeremiah introduces Prefab, a new generative component library that allows developers to build interactive UIs directly in Python, facilitating richer user experiences within MCP apps without requiring extensive front-end expertise.
 He emphasizes the importance of pushing the ecosystem to support the full range of MCP features, encourages adoption of these new tools, and answers audience questions about technical implementation and client compatibility.
+
 # Main Points
 
 |   # | Main point                                                                                                                   |

@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Opening/ Intro - Jorge Castro, CNCF"
-description: 'George Castra, a CNCF staffer, welcomes attendees to CubeCon, highlighting the diversity of participants, including first-timers, maintainers, end users, vendors, and contributors. He introduces the "chillops" room, where a series of seven-...'
+nav_order: 235
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  George Castra, a CNCF staffer, welcomes attendees to CubeCon, highlighting
+  the diversity of participants, including first-timers, maintainers, end users, vendors,
+  and contributors. He introduces the "chillops" room, where a series of seven-...
 resource: https://www.youtube.com/watch?v=qNvnvWK_o_g
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He introduces the "chillops" room, where a series of seven-minute lightning talk
 Castra emphasizes the importance of forming relationships, contributing to project sustainability, and delivering value back to attendees' organizations.
 He invites anyone feeling lost to find him or his team at the project pavilion and announces the launch of ask.cncf.io, a chatbot designed to help attendees find information about CNCF projects, meetings, and social events.
 The session concludes with encouragement for everyone to enjoy CubeCon and make the most of the opportunities available.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

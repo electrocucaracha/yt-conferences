@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Data on Kubernetes Day: From PVC to Mount Point: Dissecting
+  a... Vivek Singh"
+nav_order: 52
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Data on Kubernetes Day: From PVC to Mount Point: Dissecting a... Vivek Singh"
-description: "In this session, Vivee, a software engineer at MongoDB, explains the process of dynamic volume provisioning in Kubernetes, focusing on how persistent volume claims (PVCs) are handled. When a PVC is created, the Kubernetes persistent volume..."
+description:
+  In this session, Vivee, a software engineer at MongoDB, explains the
+  process of dynamic volume provisioning in Kubernetes, focusing on how persistent
+  volume claims (PVCs) are handled. When a PVC is created, the Kubernetes persistent
+  volume...
 resource: https://www.youtube.com/watch?v=MY-VaJVJmk0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ When a PVC is created, the Kubernetes persistent volume (PV) controller checks f
 External provisioners, typically implemented as CSI (Container Storage Interface) plugins, are responsible for provisioning storage by following the CSI specification, which defines required services and RPCs.
 The CSI plugin consists of controller and node components, with the controller handling volume creation and attachment, and the node plugin managing the mounting of volumes to pods.
 Throughout the workflow, Kubernetes itself does not directly interact with the CSI plugin; instead, sidecar containers monitor resources and trigger the necessary actions, making it crucial to understand each component's role for effective debugging and management of stateful workloads on Kubernetes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

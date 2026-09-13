@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Kubernetes SIG Storage: Intro & Deep Dive - Xing Yang, VMware by Broadcom
+  & Jan Šafránek, Red Hat"
+nav_order: 194
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Kubernetes SIG Storage: Intro & Deep Dive - Xing Yang, VMware by Broadcom & Jan Šafránek, Red Hat"
-description: "The Kubernetes SIG Storage session, led by Shinang and Yan, provided an overview of the group's responsibilities, including maintaining storage-related APIs, volume plugins, and the Container Storage Interface (CSI). The presenters detailed..."
+description:
+  The Kubernetes SIG Storage session, led by Shinang and Yan, provided
+  an overview of the group's responsibilities, including maintaining storage-related
+  APIs, volume plugins, and the Container Storage Interface (CSI). The presenters
+  detailed...
 resource: https://www.youtube.com/watch?v=p17X_VnlpiY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The presenters detailed key features introduced in Kubernetes 1.35, such as impr
 For the upcoming 1.36 release, they highlighted the graduation of features like service account tokens for secrets, mutable volume attach limits, and volume group snapshots, as well as changes to SELinux labeling and the introduction of change block tracking for incremental backups.
 Additional updates include the removal of the legacy gitRepo volume plugin, enhancements to the Container Object Storage Interface, and a new feature to report when a persistent volume claim was last used.
 The session concluded with information on ongoing design efforts, such as expanding volumes in StatefulSets, consolidating CSI sidecars, and improving volume health reporting, along with guidance on how to participate in SIG Storage activities.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

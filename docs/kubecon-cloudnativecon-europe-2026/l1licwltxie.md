@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: What Can Crossplane Actually Do? A Real World Fiel...
+  Jonasz Łasut-Balcerzak"
+nav_order: 295
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: What Can Crossplane Actually Do? A Real World Fiel... Jonasz Łasut-Balcerzak"
-description: "Yonwas Baleshak from the Swiss insurance company Baloas discusses the advantages of using Crossplane for platform APIs, emphasizing its integration with the Kubernetes control plane and ecosystem. Crossplane allows users to leverage familia..."
+description:
+  Yonwas Baleshak from the Swiss insurance company Baloas discusses the
+  advantages of using Crossplane for platform APIs, emphasizing its integration with
+  the Kubernetes control plane and ecosystem. Crossplane allows users to leverage
+  familia...
 resource: https://www.youtube.com/watch?v=l1LICWLtXIE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Crossplane allows users to leverage familiar Kubernetes tools, policies, and RBA
 It offers flexibility in implementation, supporting simple YAML templating, Go templates, and general-purpose programming languages like Go, TypeScript, and Python, along with a wide range of cloud providers.
 Crossplane addresses challenges in self-service for highly regulated, multi-tenant environments by enabling compliance updates, extending cloud provider products, and building abstractions over complex configurations.
 Real-world examples include managing DNS ownership, enhancing API gateways, and simplifying application deployment for developers, ultimately abstracting platform complexity and enabling safer, faster development.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

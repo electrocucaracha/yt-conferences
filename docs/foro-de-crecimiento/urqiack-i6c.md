@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "No es cuánto trabajas: es cómo piensas sobre el dinero | Natalia Perez"
-description: "El video aborda la psicología del dinero y cómo la mayoría de nuestras decisiones financieras son emocionales e inconscientes, lo que nos lleva a gastar más de lo necesario y a veces a endeudarnos. Natalia Pérez, psicóloga invitada, explica..."
+nav_order: 62
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  El video aborda la psicología del dinero y cómo la mayoría de nuestras
+  decisiones financieras son emocionales e inconscientes, lo que nos lleva a gastar
+  más de lo necesario y a veces a endeudarnos. Natalia Pérez, psicóloga invitada,
+  explica...
 resource: https://www.youtube.com/watch?v=urQIAcK_I6c
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Natalia Pérez, psicóloga invitada, explica que nuestras creencias y hábitos r
 Se enfatiza la importancia de la educación financiera, la autoconciencia y la gestión emocional para cambiar estos patrones, ahorrar e invertir de manera efectiva.
 Además, se ofrecen consejos prácticos como el uso de alcancías, la elaboración de presupuestos y la identificación de las verdaderas motivaciones detrás de las compras, destacando que el bienestar financiero depende más del comportamiento y las razones personales para ahorrar que del nivel de ingresos.
 Finalmente, se resalta la necesidad de reconocer los logros propios, practicar la gratitud y asumir la responsabilidad sobre las decisiones económicas para alcanzar una vida más plena y equilibrada.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

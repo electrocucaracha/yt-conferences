@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 15: Logic I"
-description: "The lecture introduces logic as the final technical topic before moving to AI and society, offering a perspective distinct from probabilistic reasoning. It reviews how logic, particularly propositional logic, serves as a formal language for..."
+nav_order: 6
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The lecture introduces logic as the final technical topic before moving
+  to AI and society, offering a perspective distinct from probabilistic reasoning.
+  It reviews how logic, particularly propositional logic, serves as a formal language
+  for...
 resource: https://www.youtube.com/watch?v=Q7V13XriJEc
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ It reviews how logic, particularly propositional logic, serves as a formal langu
 The instructor explains key concepts such as models, interpretation functions, knowledge bases, and the relationships between entailment, contradiction, and contingency, illustrating how adding information to a knowledge base narrows possible worlds.
 The lecture also covers practical operations like "ask" (querying the knowledge base) and "tell" (adding new information), and relates logical reasoning to probabilistic reasoning in Bayesian networks, highlighting differences in expressivity and handling uncertainty.
 Finally, the lecture discusses satisfiability, model checking, and inference rules, emphasizing the importance of soundness and completeness in logical systems, and sets the stage for exploring first-order logic in the next session.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                              |

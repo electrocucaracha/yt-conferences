@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 6: Search II"
-description: "The transcript reviews the concept of search problems, emphasizing the need for search algorithms to solve complex tasks requiring reasoning. It introduces uniform cost search (UCS), also known as Dijkstra's algorithm, which finds the minim..."
+nav_order: 17
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  The transcript reviews the concept of search problems, emphasizing the
+  need for search algorithms to solve complex tasks requiring reasoning. It introduces
+  uniform cost search (UCS), also known as Dijkstra's algorithm, which finds the minim...
 resource: https://www.youtube.com/watch?v=4Iu4KPVbnAY
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,9 +24,10 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 The transcript reviews the concept of search problems, emphasizing the need for search algorithms to solve complex tasks requiring reasoning.
 It introduces uniform cost search (UCS), also known as Dijkstra's algorithm, which finds the minimum-cost path in graphs with non-negative edge costs by expanding nodes in order of increasing past cost using a priority queue.
 The transcript explains the correctness of UCS and contrasts it with dynamic programming, noting that UCS can handle cycles while dynamic programming cannot.
-It then introduces the A* (A-star) algorithm, which augments UCS with a heuristic function estimating future cost, allowing for more efficient search by prioritizing nodes likely to lead to the goal.
+It then introduces the A\* (A-star) algorithm, which augments UCS with a heuristic function estimating future cost, allowing for more efficient search by prioritizing nodes likely to lead to the goal.
 The importance of heuristic consistency is discussed to ensure optimality, and the concept of constructing heuristics via problem relaxation is presented, where constraints are removed to make the problem easier and the relaxed solution provides a valid heuristic.
-The lecture concludes by summarizing that both UCS and A* are exact algorithms for finding minimum-cost paths, with A\* leveraging domain knowledge through heuristics to improve efficiency, and hints at future topics involving non-deterministic actions.
+The lecture concludes by summarizing that both UCS and A\* are exact algorithms for finding minimum-cost paths, with A\* leveraging domain knowledge through heuristics to improve efficiency, and hints at future topics involving non-deterministic actions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

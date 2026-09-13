@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Rook: Intro and... Travis Nielsen, Madhu Rajanna, Artem Torubarov, Deepika
+  Upadhyay & Sebastien Han"
+nav_order: 284
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Rook: Intro and... Travis Nielsen, Madhu Rajanna, Artem Torubarov, Deepika Upadhyay & Sebastien Han"
-description: "Rook is an open-source Kubernetes operator that automates self-storage management, providing cloud-native management of storage. It uses SE (Sephira) as its underlying storage solution, which is a distributed file system with features like..."
+description:
+  Rook is an open-source Kubernetes operator that automates self-storage
+  management, providing cloud-native management of storage. It uses SE (Sephira) as
+  its underlying storage solution, which is a distributed file system with features
+  like...
 resource: https://www.youtube.com/watch?v=xGywrHPAMms
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ It uses SE (Sephira) as its underlying storage solution, which is a distributed 
 Rook supports various storage classes, including block storage, shared file systems, S3-like object storage, and more.
 The operator allows for flexible deployment options, including cloud provider environments, on-premises data centers, and hybrid multi-cloud environments.
 With Rook, users can enjoy scalability, high availability, and performance, while also ensuring data security and protection through features like replication, encryption, and backup capabilities.
+
 # Main Points
 
 |   # | Main point                                                                                                         |

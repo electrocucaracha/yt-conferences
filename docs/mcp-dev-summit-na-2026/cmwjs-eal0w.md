@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Sponsored Session: Who's Driving? Delegation and the Confused Deput... Vitor
+  Balocco & Alvaro Inckot"
+nav_order: 88
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Sponsored Session: Who's Driving? Delegation and the Confused Deput... Vitor Balocco & Alvaro Inckot"
-description: 'The speaker, a founding identity engineer at Run Layer, discusses the technical challenges of assigning responsibility and authority when AI agents act on behalf of users, focusing on the "confused deputy" problem where legitimate permissio...'
+description:
+  The speaker, a founding identity engineer at Run Layer, discusses the
+  technical challenges of assigning responsibility and authority when AI agents act
+  on behalf of users, focusing on the "confused deputy" problem where legitimate permissio...
 resource: https://www.youtube.com/watch?v=CmWJs_eAL0w
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Using the valet key analogy, the talk highlights how current token-based authori
 The speaker explains that while standards like OAuth 2.1 and MCP acknowledge these issues, they do not fully address them, and emphasizes the need for explicit delegation, intent binding, permission intersection, and comprehensive auditing.
 Run Layer’s solution introduces a multi-layered gateway that enforces authentication, delegation, validation, policy checks, and auditing, supporting various identity modes and ensuring that every action by an agent is attributable, revocable, and compliant with emerging standards.
 The talk concludes with practical recommendations: audit agent tokens for delegation context, explicitly model delegation, enforce permission intersections, bind credentials per session, and log all actions for accountability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Your Models Are Vulnerable: How KitOps Turns KServe Into a Zero-Tru... Brad
+  Micklea & Gavrish Prabhu"
+nav_order: 407
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Your Models Are Vulnerable: How KitOps Turns KServe Into a Zero-Tru... Brad Micklea & Gavrish Prabhu"
-description: "The presenters discuss the vulnerabilities of AI deployments and introduce tools and best practices to enhance security. They explain how KServe simplifies serving inference workloads across various runtimes but emphasizes that security mea..."
+description:
+  The presenters discuss the vulnerabilities of AI deployments and introduce
+  tools and best practices to enhance security. They explain how KServe simplifies
+  serving inference workloads across various runtimes but emphasizes that security
+  mea...
 resource: https://www.youtube.com/watch?v=OE6t8_V7ZU4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ KitOps, a CNCF project, enables OCI-native packaging of AI/ML artifacts—includ
 The workflow involves building, verifying, and deploying model kits, with policies and attestations embedded to control access and deployment, even supporting advanced registry-level quarantine for unverified artifacts.
 A live demo illustrates integrating KitOps with KServe to enforce zero-trust inference, where only attested models are deployed, and unverified ones are blocked.
 The Q&A addresses practical adoption, integration with existing MLOps tools, handling large datasets, and the importance of starting security at the training phase, highlighting KitOps’ flexibility and growing community support.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                            |

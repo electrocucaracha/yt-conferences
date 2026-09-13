@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Not Yet Another Envoy Implementation - Exploring Kgateway To Write Your Own
+  GatewayA... Ricardo Katz
+nav_order: 225
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Not Yet Another Envoy Implementation - Exploring Kgateway To Write Your Own GatewayA... Ricardo Katz"
-description: "In this talk, Ricardo, a software engineer at Red Hat and Kubernetes Gateway API maintainer, discusses the recent changes in the K Gateway project, including the split of the control plane and the emergence of Agent Gateway, which is orient..."
+description:
+  In this talk, Ricardo, a software engineer at Red Hat and Kubernetes
+  Gateway API maintainer, discusses the recent changes in the K Gateway project, including
+  the split of the control plane and the emergence of Agent Gateway, which is orient...
 resource: https://www.youtube.com/watch?v=9VqzQgin6vk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains the motivation for creating custom Gateway API implementations, emph
 Ricardo demonstrates how K Gateway and Agent Gateway simplify the process of building new gateway backends by providing a streamlined model and gRPC-based configuration delivery, making it easier to support different proxies beyond Envoy.
 He shares his experience developing a client and a terminal UI to interact with the control plane, as well as a proof-of-concept NGINX proxy integration, highlighting the ease of consuming configuration updates and the potential for broader ecosystem innovation.
 The talk concludes with encouragement for others to experiment with these models, noting ongoing improvements and the need for validation when proxies lack support for certain features.
+
 # Main Points
 
 |   # | Main point                                                                                                                               |

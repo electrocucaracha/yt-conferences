@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Red Vs. Blue: A Live Attacker-Defender Showdown in Kubernetes Securi... Lucy
+  Sweet & Sandeep Kanabar"
+nav_order: 256
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Red Vs. Blue: A Live Attacker-Defender Showdown in Kubernetes Securi... Lucy Sweet & Sandeep Kanabar"
-description: 'In this live "Red Versus Blue" Kubernetes security demo, Lucy and Sandeep demonstrate common attack and defense scenarios within a Kubernetes cluster. Lucy, representing the defender, deploys a database application with default, permissive...'
+description:
+  In this live "Red Versus Blue" Kubernetes security demo, Lucy and Sandeep
+  demonstrate common attack and defense scenarios within a Kubernetes cluster. Lucy,
+  representing the defender, deploys a database application with default, permissive...
 resource: https://www.youtube.com/watch?v=q6ckwAXeeew
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Lucy, representing the defender, deploys a database application with default, pe
 Throughout the session, Lucy responds by applying Kubernetes security features like pod security policies, tightening service account permissions, setting resource quotas and limit ranges, and enforcing network policies to restrict unauthorized access and resource abuse.
 The demo highlights how misconfigurations and lack of restrictions can lead to cluster compromise, and emphasizes the importance of layered security controls.
 The session concludes with a discussion on additional tools like admission webhooks and the importance of community initiatives supporting underrepresented groups in tech.
+
 # Main Points
 
 |   # | Main point                                                                                                        |

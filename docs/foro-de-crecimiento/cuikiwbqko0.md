@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Experto en sueño: ¿estás durmiendo mal y no lo sabes? | Dr. Pablo Ferrero
+  #48"
+nav_order: 47
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en sueño: ¿estás durmiendo mal y no lo sabes? | Dr. Pablo Ferrero #48"
-description: "En esta extensa entrevista, el Dr. Pablo Ferrero, especialista en medicina del sueño, explica la importancia fundamental del sueño para la salud física, mental y el rendimiento en todas las áreas de la vida. Dormir menos de seis horas por n..."
+description:
+  En esta extensa entrevista, el Dr. Pablo Ferrero, especialista en medicina
+  del sueño, explica la importancia fundamental del sueño para la salud física, mental
+  y el rendimiento en todas las áreas de la vida. Dormir menos de seis horas por n...
 resource: https://www.youtube.com/watch?v=CUIKIwBqko0
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Dormir menos de seis horas por noche puede llevar a problemas graves como predia
 El doctor enfatiza que la calidad del sueño depende de factores como la rutina constante, la exposición a la luz y la temperatura, el uso adecuado de colchones y almohadas, y la reducción del consumo de cafeína y alcohol.
 También destaca la importancia de identificar el cronotipo personal y adaptar los horarios de sueño en consecuencia, así como priorizar el descanso sobre otras actividades.
 Finalmente, señala que mejorar el sueño puede ser más efectivo que los antidepresivos para el bienestar general, y que tanto en el ámbito personal como empresarial, invertir en un buen descanso genera beneficios significativos en la salud y la productividad.
+
 # Main Points
 
 |   # | Main point                                                                                                    |

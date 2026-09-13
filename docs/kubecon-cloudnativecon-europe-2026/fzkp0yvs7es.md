@@ -1,11 +1,22 @@
 ---
+layout: default
+title: The Hills Are Alive with the Sound of Kubernetes - Stevie Caldwell, Fairwinds
+nav_order: 359
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Hills Are Alive with the Sound of Kubernetes - Stevie Caldwell, Fairwinds"
-description: 'In this talk, Stevie Caldwell, a senior tech lead at Fairwinds, explores the intersection of music and Kubernetes through the concept of sonification—using non-speech audio to represent data. Drawing on the "cocktail party effect," Caldwell...'
+description:
+  In this talk, Stevie Caldwell, a senior tech lead at Fairwinds, explores
+  the intersection of music and Kubernetes through the concept of sonification—using
+  non-speech audio to represent data. Drawing on the "cocktail party effect," Caldwell...
 resource: https://www.youtube.com/watch?v=fzKp0YvS7Es
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Drawing on the "cocktail party effect," Caldwell explains how humans are adept a
 The demo showcases a system where a Go-based controller listens for Kubernetes events (such as pod creation, deletion, crash looping, and deployment scaling) and sends messages via the OSC protocol to SuperCollider, a real-time audio synthesis environment, which then generates distinct sounds for each event.
 Caldwell demonstrates how this setup can help users recognize cluster activity through sound alone, discusses the challenges of sound design, and suggests that integrating audio with visual monitoring can reduce cognitive load and screen fatigue.
 The talk concludes by encouraging creative approaches to infrastructure, showing that Kubernetes can be both functional and fun.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

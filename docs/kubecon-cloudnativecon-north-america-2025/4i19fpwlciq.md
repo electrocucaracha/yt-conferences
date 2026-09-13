@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Dapr in 2026: Durable Execution and Resilient Eventing for AI Agents - Yaron
+  Schneider & Rajesh Iyer"
+nav_order: 50
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Dapr in 2026: Durable Execution and Resilient Eventing for AI Agents - Yaron Schneider & Rajesh Iyer"
-description: "Ron Schneider, CTO and co-founder of DIG Grid, introduces Dapper as a set of APIs designed to help developers focus on business logic rather than infrastructure, highlighting its utility for platform teams and its thriving community. He dis..."
+description:
+  Ron Schneider, CTO and co-founder of DIG Grid, introduces Dapper as a
+  set of APIs designed to help developers focus on business logic rather than infrastructure,
+  highlighting its utility for platform teams and its thriving community. He dis...
 resource: https://www.youtube.com/watch?v=4I19FPwLCIQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He discusses Dapper’s growing role in AI and agentic frameworks, emphasizing f
 Schneider presents Dapper Agents, a framework developed with Nvidia, which addresses common challenges in agentic systems such as failure recovery, parallel execution, secure identity, and seamless integration with various message brokers, while remaining vendor-neutral.
 He demonstrates Dapper’s integration with Langraph, showing how Dapper’s state API enables support for over 30 databases, built-in tracing, metrics, resiliency policies, and encryption, all with minimal code changes.
 Finally, he shares a case study from JP Morgan Chase, which chose Dapper for workflow orchestration in complex payment processes due to its reliability, state retention, compensating transactions, and suitability for distributed, fault-tolerant applications, and invites the community to participate in ongoing integrations and development.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                              |

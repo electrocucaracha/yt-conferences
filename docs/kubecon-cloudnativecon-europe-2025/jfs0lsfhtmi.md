@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  The State of Prometheus and OpenTelemetry Interoperability - Arthur Sens &
+  Juraj Michálek
+nav_order: 342
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "The State of Prometheus and OpenTelemetry Interoperability - Arthur Sens & Juraj Michálek"
-description: "The discussion centered around Prometheus and Open Telemetry interoperability, with Arthur from Graphana Labs presenting updates on their collaboration. Initially, there were philosophical differences between pull-based Prometheus and push-..."
+description:
+  The discussion centered around Prometheus and Open Telemetry interoperability,
+  with Arthur from Graphana Labs presenting updates on their collaboration. Initially,
+  there were philosophical differences between pull-based Prometheus and push-...
 resource: https://www.youtube.com/watch?v=JFS0lSfHtMI
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Initially, there were philosophical differences between pull-based Prometheus an
 Key advancements include the introduction of UTF8 support in Prometheus 3.0, enabling better compatibility with Open Telemetry's semantic conventions.
 Additionally, Open Telemetry has adopted a delta-to-cumulative processor to handle stateful processes and improved support for native histograms, which have been integrated into Prometheus.
 The team is also exploring ways to enhance resource attributes handling, including the introduction of entities in an upcoming enhancement proposal.
+
 # Main Points
 
 |   # | Main point |

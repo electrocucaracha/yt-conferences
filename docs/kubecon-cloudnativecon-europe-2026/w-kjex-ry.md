@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Moving Spotify’s Infrastructure Management Up the Stack from Kubebu... Alexander
+  Buck & Tomas Aschan
+nav_order: 219
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Moving Spotify’s Infrastructure Management Up the Stack from Kubebu... Alexander Buck & Tomas Aschan"
-description: "In this talk, Thomas and Alex from Spotify discuss their efforts to simplify and improve infrastructure management for both feature and platform teams by developing internal tools such as Declarative Infra, Crow (Cube Resource Orchestrator)..."
+description:
+  In this talk, Thomas and Alex from Spotify discuss their efforts to simplify
+  and improve infrastructure management for both feature and platform teams by developing
+  internal tools such as Declarative Infra, Crow (Cube Resource Orchestrator)...
 resource: https://www.youtube.com/watch?v=W-_kJEX-_RY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ While previous solutions like custom operators improved the experience for featu
 To address this, Spotify introduced Crow for composing and abstracting resources and K-pop for building operators with minimal Kubernetes-specific knowledge, allowing platform teams to focus on business logic.
 These tools have significantly improved developer experience and adoption within Spotify, though challenges remain around scaling, observability, and versioning.
 The session concludes with a Q&A covering technical details, comparisons to tools like Helm and Crossplane, and future ambitions for open sourcing and further platform improvements.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

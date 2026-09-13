@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How to Give Constructive Feedback Without the Stress | Leadership Training
+  for Engineers
+nav_order: 26
+parent: Leadership Skills
 type: Video Note
-title: "How to Give Constructive Feedback Without the Stress | Leadership Training for Engineers"
-description: "The video discusses the challenges many leaders face when giving constructive feedback and emphasizes its importance, especially for engineering leaders. The speaker outlines common mistakes, such as failing to prepare the recipient and sim..."
+description:
+  The video discusses the challenges many leaders face when giving constructive
+  feedback and emphasizes its importance, especially for engineering leaders. The
+  speaker outlines common mistakes, such as failing to prepare the recipient and sim...
 resource: https://www.youtube.com/watch?v=dSD-sWEtSbY
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The speaker outlines common mistakes, such as failing to prepare the recipient a
 A recommended framework involves first offering genuine, specific appreciation, then connecting feedback to what the individual wants in their career, and finally creating a clear path for them to achieve their goals by addressing areas for improvement.
 This approach leverages human psychology—making people feel important, appreciated, heard, and understood—to inspire ownership and proactive development.
 By following these steps, feedback becomes a collaborative and motivating experience rather than a negative or uncomfortable one.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

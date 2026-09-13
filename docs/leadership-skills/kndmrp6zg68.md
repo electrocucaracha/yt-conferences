@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How to Convince a Top Performing Employee to Stay After Resigning | Advice
+  for Engineering Man
+nav_order: 22
+parent: Leadership Skills
 type: Video Note
-title: "How to Convince a Top Performing Employee to Stay After Resigning | Advice for Engineering Man"
-description: "In this video, Doug Howard shares his experience as an engineering manager when a top-performing engineer gave notice after receiving a job offer with a $20,000 salary increase. Rather than reacting negatively or involving HR, Doug approach..."
+description:
+  In this video, Doug Howard shares his experience as an engineering manager
+  when a top-performing engineer gave notice after receiving a job offer with a $20,000
+  salary increase. Rather than reacting negatively or involving HR, Doug approach...
 resource: https://www.youtube.com/watch?v=kNDmRP6Zg68
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Rather than reacting negatively or involving HR, Doug approached the situation b
 Through a candid, supportive conversation, Doug encouraged the engineer to reflect on what was most important at this stage in his career, ultimately leading the engineer to reconsider and withdraw his resignation.
 Doug then outlines a six-step framework for leaders to follow in similar situations: celebrate the offer, show appreciation, ask about the new opportunity, offer perspective for reconsideration, suggest sleeping on the decision, and accept the outcome gracefully.
 This approach emphasizes empathy, mentorship, and maintaining positive relationships, even when employees consider leaving.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

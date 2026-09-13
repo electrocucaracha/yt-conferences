@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Data on Kubernetes Day: From Billion... Victoriya Kalmanovich
+  & Shahar Azulay"
+nav_order: 51
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Data on Kubernetes Day: From Billion... Victoriya Kalmanovich & Shahar Azulay"
-description: "In this presentation, Shahara Zilai and Vicki Kalmanovich discuss the challenges of monitoring Kubernetes environments at scale, emphasizing the complexity introduced by microservices and the explosion of telemetry data such as logs, metric..."
+description:
+  In this presentation, Shahara Zilai and Vicki Kalmanovich discuss the
+  challenges of monitoring Kubernetes environments at scale, emphasizing the complexity
+  introduced by microservices and the explosion of telemetry data such as logs, metric...
 resource: https://www.youtube.com/watch?v=G9Bt-7OHVBk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They share personal experiences illustrating how inadequate observability can hi
 The speakers outline the limitations of both self-hosted and managed SaaS observability solutions—self-hosted stacks demand significant maintenance and can become unstable, while SaaS offerings often lead to high costs, data sovereignty concerns, and forced data reduction.
 As an alternative, they introduce the "bring your own cloud" (BYOC) approach, where observability backends are deployed within the customer’s own cloud environment, combining the control and cost benefits of self-hosting with the ease of managed services.
 This model leverages open-source databases like Clickhouse and VictoriaMetrics for scalable, efficient data storage, supports advanced use cases including AI-driven analysis, and aims to eliminate trade-offs between data access, cost, and operational simplicity in Kubernetes observability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

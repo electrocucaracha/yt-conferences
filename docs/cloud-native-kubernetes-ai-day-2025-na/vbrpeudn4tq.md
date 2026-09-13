@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "KServe Next: Advancing Generative AI Model Serving - Yuan Tang, Red Hat &
+  Dan Sun, Bloomberg"
+nav_order: 5
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "KServe Next: Advancing Generative AI Model Serving - Yuan Tang, Red Hat & Dan Sun, Bloomberg"
-description: "The video features Yan Tan from Red Hat and Dan from Bloomberg introducing Queserve (Queso), a distributed, scalable, and standardized model inference platform for Kubernetes, supporting both generative and predictive AI workloads. They tra..."
+description:
+  The video features Yan Tan from Red Hat and Dan from Bloomberg introducing
+  Queserve (Queso), a distributed, scalable, and standardized model inference platform
+  for Kubernetes, supporting both generative and predictive AI workloads. They tra...
 resource: https://www.youtube.com/watch?v=vbRpeUDN4TQ
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They trace Queserve’s evolution from its origins as KFServing under the Kubefl
 Queserve simplifies AI model deployment on Kubernetes, offering features like autoscaling, authentication, monitoring, and intelligent traffic management, and now supports advanced generative AI workloads with efficient GPU utilization, prompt caching, and multi-tenant resource protection.
 The latest 0.16 release introduces integration with RMD for optimized large model inference, intelligent routing, prefix caching, and disaggregated serving for improved performance.
 Looking ahead, the team aims to provide a unified inference platform for both predictive and generative AI, standardize APIs, enhance manageability, and foster a growing open-source community, inviting users and contributors to participate via GitHub, Slack, and regular community meetings.
+
 # Main Points
 
 |   # | Main point                                                                                                                          |

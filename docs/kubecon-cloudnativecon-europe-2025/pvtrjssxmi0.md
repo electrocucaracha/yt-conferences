@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Kubernetes Meets Climate Science: Building Large-scale Feature De... Armagan
+  Karatosun & Roope Tervo"
+nav_order: 167
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Kubernetes Meets Climate Science: Building Large-scale Feature De... Armagan Karatosun & Roope Tervo"
-description: "The speaker, Arman, introduces himself as an online cloud data access services expert and explains that he worked on a project with climate scientists and interns at Harvard University. He highlights the European public space sector, includ..."
+description:
+  The speaker, Arman, introduces himself as an online cloud data access
+  services expert and explains that he worked on a project with climate scientists
+  and interns at Harvard University. He highlights the European public space sector,
+  includ...
 resource: https://www.youtube.com/watch?v=pvTRjsSXMi0
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He highlights the European public space sector, including the European Space Age
 Arman also discusses the challenges of working with large datasets and the need for a collaborative platform to facilitate data sharing and analysis among scientists.
 He presents a proposed solution, called "European Weather Cloud," which aims to provide a community cloud infrastructure for earth observation scientists to access and analyze satellite data, including machine learning models for feature detection and labeling.
 The project involves integrating multiple tools, such as Jupyter Hub, Label Studio, and Nucleio, to create a flexible and open platform for climate scientists to work together and share knowledge.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

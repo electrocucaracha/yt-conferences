@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Human in the Loop, Agent in the Flow - Harald Kirschner & Connor Peet, Microsoft
+nav_order: 35
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Human in the Loop, Agent in the Flow - Harald Kirschner & Connor Peet, Microsoft"
-description: 'The speakers discuss how modern agent interfaces, particularly in VS Code, are moving beyond simple text-based interactions to provide richer, more interactive experiences through the MCP (Multi-Client Protocol). They highlight the "missing...'
+description:
+  The speakers discuss how modern agent interfaces, particularly in VS
+  Code, are moving beyond simple text-based interactions to provide richer, more interactive
+  experiences through the MCP (Multi-Client Protocol). They highlight the "missing...
 resource: https://www.youtube.com/watch?v=chJb_BbE050
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They highlight the "missing middle"—the space between basic text input/output 
 Demonstrations show how URL elicitations, tasks, and sampling enable more nuanced workflows, such as securely loading data, tracking long-running processes, and efficiently analyzing large outputs without overwhelming the context window.
 MCP apps allow for dynamic, visual, and interactive outputs, supporting use cases like dashboards, whiteboards, and configuration wizards, with graceful degradation for clients lacking full app support.
 The talk emphasizes the importance of designing agent experiences that empower users, improve collaboration, and leverage advanced protocol features for more effective and efficient workflows.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Anatomy of a Kubernetes Scheduler: Narrate Workloads Priority in Sequence
+  - Hoon Jo, Megazone"
+nav_order: 18
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Anatomy of a Kubernetes Scheduler: Narrate Workloads Priority in Sequence - Hoon Jo, Megazone"
-description: "The speaker introduces a beginner-level session focused on Kubernetes, emphasizing the importance of understanding essential concepts beyond just using AI tools. They explain the structure of a Kubernetes cluster, highlighting the roles of..."
+description:
+  The speaker introduces a beginner-level session focused on Kubernetes,
+  emphasizing the importance of understanding essential concepts beyond just using
+  AI tools. They explain the structure of a Kubernetes cluster, highlighting the roles
+  of...
 resource: https://www.youtube.com/watch?v=9BjX9SFOqRE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain the structure of a Kubernetes cluster, highlighting the roles of no
 Through diagrams and demos, the presenter illustrates how different scheduling stages work, such as assigning workloads directly to nodes, using filters to optimize resource use, and applying scoring for more complex scenarios.
 The session is designed to help juniors and team members grasp these foundational scheduling mechanisms, which are crucial for effective Kubernetes management.
 The speaker concludes by stressing that while AI can enhance productivity, a solid grasp of core Kubernetes concepts remains vital for engineers and teams.
+
 # Main Points
 
 |   # | Main point                                                                                                                   |

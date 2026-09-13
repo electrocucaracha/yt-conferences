@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Kubernetes Network Driver Unpacked: Modularity, Tra... Lionel J, Sebastian
+  S, Antonio O & Sunyanan C"
+nav_order: 193
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Kubernetes Network Driver Unpacked: Modularity, Tra... Lionel J, Sebastian S, Antonio O & Sunyanan C"
-description: "In this panel discussion, experts from Google, Red Hat, IBM, and Reddit introduce themselves and discuss advancements in Kubernetes network drivers, focusing on the Device Resource Assignment (DRA) framework. They explain that DRA addresses..."
+description:
+  In this panel discussion, experts from Google, Red Hat, IBM, and Reddit
+  introduce themselves and discuss advancements in Kubernetes network drivers, focusing
+  on the Device Resource Assignment (DRA) framework. They explain that DRA addresses...
 resource: https://www.youtube.com/watch?v=xJ9R7NNZMyQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that DRA addresses limitations in Kubernetes networking, such as to
 The panelists debate the merits of a single monolithic driver versus a constellation of specialized drivers, ultimately agreeing that multiple interoperable drivers are preferable due to the complexity and diversity of networking needs.
 They highlight ongoing projects like the SR-IOV device plugin, the Multus project, and new APIs for secondary networks, emphasizing efforts to ensure backward compatibility and smooth migration for existing users.
 The discussion concludes with insights into current and future driver availability, integration challenges, and the importance of standardizing APIs to enhance portability and flexibility across Kubernetes environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                   |

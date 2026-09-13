@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  10 Ways to Accelerate Your Personal Growth | Escape Your Comfort Zone - Part
+  2 of 2
+nav_order: 2
+parent: Leadership Skills
 type: Video Note
-title: "10 Ways to Accelerate Your Personal Growth | Escape Your Comfort Zone - Part 2 of 2"
-description: "In this video, Doug Howard, a licensed structural engineer and engineering manager, emphasizes the importance of stepping outside your comfort zone to foster personal and professional growth. He shares a real-life example of his client Dan..."
+description:
+  In this video, Doug Howard, a licensed structural engineer and engineering
+  manager, emphasizes the importance of stepping outside your comfort zone to foster
+  personal and professional growth. He shares a real-life example of his client Dan...
 resource: https://www.youtube.com/watch?v=Cf_ilutdApM
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He shares a real-life example of his client Dan, who faced the choice between st
 After choosing the new job, Dan experienced significant growth and fulfillment, learning to view comfort as a warning sign of stagnation.
 Doug then introduces ten practical exercises to help viewers become more comfortable with discomfort, such as making quick decisions, journaling about fears, initiating conversations with strangers, normalizing rejection, and undertaking a 10-day discomfort challenge.
 The video encourages engineers and others to embrace discomfort as a catalyst for growth and to trust their ability to adapt and solve problems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

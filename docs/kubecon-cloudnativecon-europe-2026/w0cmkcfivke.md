@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Sink or Swim? Team Lead and "Junior" SREs Debate... Verena T, David P, Melody
+  E, Patrick S & Petr R
+nav_order: 332
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: 'Sink or Swim? Team Lead and "Junior" SREs Debate... Verena T, David P, Melody E, Patrick S & Petr R'
-description: 'The panel discussion, moderated by Verina, explored the challenges and experiences of onboarding junior engineers, particularly through "sink or swim" and "trial by fire" approaches. Panelists, including both seniors and juniors from variou...'
+description:
+  The panel discussion, moderated by Verina, explored the challenges and
+  experiences of onboarding junior engineers, particularly through "sink or swim"
+  and "trial by fire" approaches. Panelists, including both seniors and juniors from
+  variou...
 resource: https://www.youtube.com/watch?v=W0cMKCFIvkE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Panelists, including both seniors and juniors from various tech backgrounds, emp
 Juniors shared personal stories of being thrust into unfamiliar roles and technologies, highlighting the importance of supportive mentors, open communication, and gradual trust-building.
 The discussion underscored that learning on the job is common, imposter syndrome is widespread, and both juniors and seniors benefit from collaborative problem-solving.
 The panel concluded by encouraging companies to invest in hiring and nurturing junior talent, as they are essential for the future of the industry.
+
 # Main Points
 
 |   # | Main point                                                                                                    |

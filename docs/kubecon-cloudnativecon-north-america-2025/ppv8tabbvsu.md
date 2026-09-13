@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Linkerd, mTLS, and Bungled Bundles - Flynn, Technical
+  Evangelist"
+nav_order: 228
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Linkerd, mTLS, and Bungled Bundles - Flynn, Technical Evangelist"
-description: "Flynn from the Linkerd project discusses the challenges of managing MTLS certificates within a service mesh, focusing on a user incident where expired certificates caused system failures. He explains that Linkerd relies on trust anchors wit..."
+description:
+  Flynn from the Linkerd project discusses the challenges of managing MTLS
+  certificates within a service mesh, focusing on a user incident where expired certificates
+  caused system failures. He explains that Linkerd relies on trust anchors wit...
 resource: https://www.youtube.com/watch?v=PpV8tAbBvsU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that Linkerd relies on trust anchors within trust bundles to validat
 A key issue arose from outdated documentation that recommended an incorrect rotation method, which, combined with changes in cert-manager’s rotation policy in version 1.18, led to compatibility problems and outages.
 Flynn emphasizes that these problems highlight the complexities of certificate management and the importance of coordination between different tools in the ecosystem.
 He concludes by encouraging collaboration to improve integration and invites feedback and engagement from the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

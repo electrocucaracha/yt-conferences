@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Three Shades of Isolation: A Multi-tenancy Fortress - Braulio Dumba & Paolo
+  Dettori, IBM"
+nav_order: 371
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Three Shades of Isolation: A Multi-tenancy Fortress - Braulio Dumba & Paolo Dettori, IBM"
-description: 'In this presentation, Paulo Detorii and his colleague from IBM Research introduce a new approach to Kubernetes multi-tenancy called "three shades of isolation," which addresses the growing need for secure, efficient, and isolated environmen...'
+description:
+  In this presentation, Paulo Detorii and his colleague from IBM Research
+  introduce a new approach to Kubernetes multi-tenancy called "three shades of isolation,"
+  which addresses the growing need for secure, efficient, and isolated environmen...
 resource: https://www.youtube.com/watch?v=24E4LDWThAE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They identify four key requirements for effective isolation: data plane isolatio
 Their solution leverages four open-source technologies—Kubeflex for control plane provisioning, KubeVirt for running virtual machines as pods, K3s for lightweight Kubernetes control planes, and OVN-Kubernetes for advanced network segmentation—to provide each tenant with dedicated control and data planes as well as isolated networks.
 Through a detailed demo, they show how this architecture enables strong separation between tenants, minimizes the noisy neighbor problem, and maintains low performance overhead, with latency increases remaining in the single-digit millisecond range.
 The team plans to further evaluate their framework with additional workloads and continue developing tools to make multi-tenancy management more accessible and secure.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Jenkins to Tekton: Our Journey Toward a Kubernetes-Native CI... Mustafa
+  Barış Ege & Özge Aygül"
+nav_order: 120
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Jenkins to Tekton: Our Journey Toward a Kubernetes-Native CI... Mustafa Barış Ege & Özge Aygül"
-description: "In this presentation, Ozge and Baris share their DevOps team's migration journey from Jenkins to a Kubernetes-native CI/CD pipeline using Tekton and Argo CD. They describe the challenges faced with Jenkins, such as scalability issues, plugi..."
+description:
+  In this presentation, Ozge and Baris share their DevOps team's migration
+  journey from Jenkins to a Kubernetes-native CI/CD pipeline using Tekton and Argo
+  CD. They describe the challenges faced with Jenkins, such as scalability issues,
+  plugi...
 resource: https://www.youtube.com/watch?v=g7WXxziISCU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They describe the challenges faced with Jenkins, such as scalability issues, plu
 By adopting Tekton, they implemented a unified, event-driven pipeline architecture with ephemeral execution and Kubernetes-native features, enabling universal adoption and improved efficiency, though at the cost of some developer flexibility.
 The team also integrated Argo CD for continuous deployment, leveraging Git as the single source of truth and automating deployments with human approval steps for production.
 They discuss technical and cultural lessons learned, including pipeline scheduling, caching strategies, and the importance of communication over excessive configuration, and conclude with a live demo showcasing their streamlined CI/CD process and automated notifications.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

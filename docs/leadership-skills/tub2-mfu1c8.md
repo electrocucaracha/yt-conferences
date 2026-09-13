@@ -1,11 +1,22 @@
 ---
+layout: default
+title: 10 Books Every Leader Must Read
+nav_order: 1
+parent: Leadership Skills
 type: Video Note
-title: "10 Books Every Leader Must Read"
-description: 'In this video, Doug Howard, a leadership mentor and coach, shares his top 10 book recommendations for leaders, explaining the unique value each book offers. He begins with "How to Win Friends and Influence People" by Dale Carnegie, emphasiz...'
+description:
+  In this video, Doug Howard, a leadership mentor and coach, shares his
+  top 10 book recommendations for leaders, explaining the unique value each book offers.
+  He begins with "How to Win Friends and Influence People" by Dale Carnegie, emphasiz...
 resource: https://www.youtube.com/watch?v=tuB2_mFU1c8
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ He begins with "How to Win Friends and Influence People" by Dale Carnegie, empha
 Other notable recommendations include "Atomic Habits" by James Clear for understanding and shaping habits, "Trillion Dollar Coach" by Eric Schmidt for people-centric leadership, and "Talking to Strangers" by Malcolm Gladwell for insights into communication and trust.
 The list also features "Drive" by Daniel Pink on intrinsic motivation, "The 21 Irrefutable Laws of Leadership" by John Maxwell for foundational leadership principles, "What Got You Here Won’t Get You There" by Marshall Goldsmith on adapting behaviors for continued growth, and "Emotional Intelligence" by Daniel Goleman, which Howard considers essential for self-leadership and effective team management.
 Throughout, Howard encourages leaders to continually learn and seek out new resources for personal and professional development.
+
 # Main Points
 
 |   # | Main point                                                                     |

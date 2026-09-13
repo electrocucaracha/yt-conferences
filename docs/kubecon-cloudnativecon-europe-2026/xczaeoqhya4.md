@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Urunc: The New Kid In The Block Of Sandboxed Container...
+  Charalampos Mainas"
+nav_order: 293
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Urunc: The New Kid In The Block Of Sandboxed Container... Charalampos Mainas"
-description: "Haralamus, also known as Bobby, introduces Uran C, a CNCF sandbox project designed to address the trade-off between container performance and strong isolation required for scenarios like multi-tenancy and AI sandboxing. Uran C is a CRI-comp..."
+description:
+  Haralamus, also known as Bobby, introduces Uran C, a CNCF sandbox project
+  designed to address the trade-off between container performance and strong isolation
+  required for scenarios like multi-tenancy and AI sandboxing. Uran C is a CRI-comp...
 resource: https://www.youtube.com/watch?v=XCzaeoqHya4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Uran C is a CRI-compatible runtime that integrates seamlessly with the container
 In Kubernetes deployments, Uran C treats sidecar containers as trusted and user containers as untrusted, isolating the latter in either software-based or VM-based sandboxes without needing an agent inside the sandbox.
 Performance evaluations show Uran C achieves significantly lower overhead and higher pod density compared to other sandbox runtimes, making it suitable for fast, isolated workloads in microservices, serverless, AI sandboxing, resource-constrained environments, and CI/CD pipelines, with support for BSD workloads as well.
 Bobby invites interested users to connect at KubeCon, join community meetings, and find more information on the project's website and GitHub.
+
 # Main Points
 
 |   # | Main point                                                                                                                                      |

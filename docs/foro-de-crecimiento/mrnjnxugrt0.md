@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Experto en Neurociencia: ¡Tu sistema nervioso es la clave de tu éxito! | Marco
+  Ratti #44"
+nav_order: 37
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en Neurociencia: ¡Tu sistema nervioso es la clave de tu éxito! | Marco Ratti #44"
-description: "En esta conversación, Marco Rati, neurocientífico y terapeuta, explica que el sistema nervioso constantemente evalúa si estamos a salvo, lo que determina si respondemos de manera defensiva o abierta al entorno. La desregulación del sistema..."
+description:
+  En esta conversación, Marco Rati, neurocientífico y terapeuta, explica
+  que el sistema nervioso constantemente evalúa si estamos a salvo, lo que determina
+  si respondemos de manera defensiva o abierta al entorno. La desregulación del sistema...
 resource: https://www.youtube.com/watch?v=MRnjnxugrT0
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ La desregulación del sistema nervioso se manifiesta como una sensación de esta
 Rati destaca que muchos rasgos de personalidad, como la timidez o el perfeccionismo, son en realidad mecanismos adaptativos de supervivencia desarrollados para protegernos.
 La regulación del sistema nervioso, clave para el bienestar y el éxito, implica aumentar nuestra capacidad de contener experiencias y emociones, y se logra tanto a través de prácticas individuales de atención plena como mediante la corregulación en relaciones humanas de calidad.
 Finalmente, enfatiza que sanar el trauma no es olvidar el evento, sino desactivar la alerta crónica del sistema nervioso, y que la verdadera libertad y productividad surgen al aprender a escuchar y respetar nuestras necesidades internas y vinculares.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

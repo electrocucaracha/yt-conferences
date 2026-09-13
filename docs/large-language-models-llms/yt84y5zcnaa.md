@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 2 - Transformer-Based
+  Models & Tricks
+nav_order: 2
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 2 - Transformer-Based Models & Tricks"
-description: "In this lecture, the instructors addressed logistical updates regarding audio quality and the final exam date before reviewing key concepts from the previous session on self-attention and the transformer architecture. They recapped how self..."
+description:
+  In this lecture, the instructors addressed logistical updates regarding
+  audio quality and the final exam date before reviewing key concepts from the previous
+  session on self-attention and the transformer architecture. They recapped how self...
 resource: https://www.youtube.com/watch?v=yT84Y5zCnaA
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -18,6 +31,7 @@ The instructors also explored attention mechanism variations, such as local (sli
 The second part of the lecture introduced major transformer model families—encoder-decoder (e.g., T5), encoder-only (e.g., BERT), and decoder-only architectures—detailing their training objectives and use cases.
 A deep dive into BERT explained its bi-directional encoder structure, pre-training tasks (masked language modeling and next sentence prediction), input embeddings (including segment embeddings), and fine-tuning for classification tasks.
 The session concluded with discussions on model efficiency improvements through distillation (DistilBERT) and simplification of pre-training objectives (RoBERTa), emphasizing the evolution and practical considerations in transformer-based NLP models.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

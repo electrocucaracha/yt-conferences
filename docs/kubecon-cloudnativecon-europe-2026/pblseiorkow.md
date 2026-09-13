@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: 10 Years of Building Platforms in the Public Sector - Hans
+  Kristian Flaatten"
+nav_order: 203
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Lightning Talk: 10 Years of Building Platforms in the Public Sector - Hans Kristian Flaatten"
-description: "Hans Christian from the Norwegian Labor and Welfare Administration (NAV) shares the story of how a chance meeting at KubeCon in Berlin between engineers from NAV and the tax authority led to the formation of a collaborative community of 84..."
+description:
+  Hans Christian from the Norwegian Labor and Welfare Administration (NAV)
+  shares the story of how a chance meeting at KubeCon in Berlin between engineers
+  from NAV and the tax authority led to the formation of a collaborative community
+  of 84...
 resource: https://www.youtube.com/watch?v=pBlSeiorkow
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ To assess their progress, they conducted a survey based on the App Delivery SIGâ
 The results showed that 92% of respondents had internal developer platforms, with 83% using Kubernetes, and that tooling for build, deploy, observability, security, and automation has largely converged through knowledge sharing rather than central direction.
 The main motivations for platform development were agility, quality, cost reduction, and increasingly, security, especially after Norwayâ€™s 2025 digital security act.
 While operational maturity improved, measurement of platform success remained a challenge, highlighting the need for better ways to define and assess success; the full report is available online, and Hans invites participation in an upcoming Kubernetes conference in Norway.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                          |

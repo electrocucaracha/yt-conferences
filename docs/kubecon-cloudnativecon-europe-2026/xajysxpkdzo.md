@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "From Creepers to Clusters: Evolving Minecraft Into a Cloud Native... Jaden
+  Walderich & Alex Mizerak"
+nav_order: 117
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Creepers to Clusters: Evolving Minecraft Into a Cloud Native... Jaden Walderich & Alex Mizerak"
-description: "Alex and Jaden, platform engineers at ZAX, shared the evolution of CubeCraft, one of the largest Minecraft servers, from its humble beginnings in 2012 as a small server for friends to supporting tens of thousands of concurrent players. Init..."
+description:
+  Alex and Jaden, platform engineers at ZAX, shared the evolution of CubeCraft,
+  one of the largest Minecraft servers, from its humble beginnings in 2012 as a small
+  server for friends to supporting tens of thousands of concurrent players. Init...
 resource: https://www.youtube.com/watch?v=XAJySxpKdzo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Initially, as teenagers with limited resources and experience, they relied on ov
 After Microsoft approached them to bring CubeCraft to more platforms, they attempted to break up their monolith into microservices, a process that took four years and resulted in a more scalable but still fragmented and hard-to-maintain system.
 Realizing the need for a robust, maintainable solution, they developed Rocket, a universal platform built on OKD (an open-source Kubernetes distribution) and Quarkus, designed to manage both game and data workloads efficiently, with features like custom load balancing, autoscaling, and optimized networking for low latency.
 By iterating on their design and focusing on CubeCraft as a flagship client, they created a platform now used by multiple partners, handling thousands of queries per second and massive amounts of player data, while contributing improvements to the open-source community and continuing to refine their architecture for scalability and maintainability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

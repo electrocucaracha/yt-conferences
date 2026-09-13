@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Breaking the Bad Leadership Cycle in Engineering and Tech
+nav_order: 10
+parent: Leadership Skills
 type: Video Note
-title: "Breaking the Bad Leadership Cycle in Engineering and Tech"
-description: 'In this video, Doug Howard, a former director of engineering, discusses the pervasive issue of the "bad leadership cycle" in engineering and tech industries. He explains that many top-performing engineers are promoted to management roles wi...'
+description:
+  In this video, Doug Howard, a former director of engineering, discusses
+  the pervasive issue of the "bad leadership cycle" in engineering and tech industries.
+  He explains that many top-performing engineers are promoted to management roles
+  wi...
 resource: https://www.youtube.com/watch?v=_JCEJlCrYp0
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains that many top-performing engineers are promoted to management roles 
 Doug shares his personal experience of being promoted without guidance, struggling with delegation, communication, and managing both peers and superiors.
 He emphasizes that moving from engineer to manager is not just a promotion but a career transition requiring a completely different skill set, which is often overlooked by companies.
 This cycle results in high turnover, burnout, stifled innovation, and financial losses for organizations, all of which could be mitigated by leadership training tailored to the logical mindset of engineers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

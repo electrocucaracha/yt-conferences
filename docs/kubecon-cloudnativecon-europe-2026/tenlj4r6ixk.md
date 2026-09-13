@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Open Policy Agent. (OPA) Intro & Deep Dive - Charlie Egan & Anders Eknert,
+  Apple
+nav_order: 228
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Open Policy Agent. (OPA) Intro & Deep Dive - Charlie Egan & Anders Eknert, Apple"
-description: "The speakers welcomed a full audience to the Open Maintainer track, introducing themselves as long-time users and maintainers of the Open Policy Agent (OPA) project. They provided an overview of OPA as a general-purpose policy engine that s..."
+description:
+  The speakers welcomed a full audience to the Open Maintainer track, introducing
+  themselves as long-time users and maintainers of the Open Policy Agent (OPA) project.
+  They provided an overview of OPA as a general-purpose policy engine that s...
 resource: https://www.youtube.com/watch?v=TENlj4r6IXk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They provided an overview of OPA as a general-purpose policy engine that standar
 Recent updates include enhancements to the Rego language, such as string interpolation and upcoming support for an "or" keyword, as well as improvements to documentation and interactive examples to aid both human users and generative AI tools.
 The team also discussed the evolution of the Regal linter into a full-featured language server, updates to related projects like OPA Control Plane, Gatekeeper, and Conftest, and encouraged users to explore new tools, contribute feedback, and participate in the community.
 The session concluded with an invitation for questions and further engagement at the event and online.
+
 # Main Points
 
 |   # | Main point                                                                                                |

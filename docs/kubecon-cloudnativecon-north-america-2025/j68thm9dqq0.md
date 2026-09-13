@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Just Do It: OpAMP - Panos Tsilopoulos & Bob Johnson, Nike, Inc."
-description: "In this presentation, Panos and Bob from Nike discuss their experience implementing the Open Agent Management Protocol (OpAMP) for managing large fleets of OpenTelemetry collectors, particularly during high-scale events like Singles Day in..."
+nav_order: 114
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  In this presentation, Panos and Bob from Nike discuss their experience
+  implementing the Open Agent Management Protocol (OpAMP) for managing large fleets
+  of OpenTelemetry collectors, particularly during high-scale events like Singles
+  Day in...
 resource: https://www.youtube.com/watch?v=J68ThM9DqQ0
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They explain the challenges of managing tens of thousands of collectors without 
 OpAMP, a CNCF-backed, vendor-agnostic protocol, enables remote management of agents, allowing for configuration updates, status reporting, and secure communication between servers and agents.
 The team describes their phased rollout strategy, the importance of KPIs for justifying the project, and demonstrates a Java-based reference implementation that showcases agent-server interactions, resilience, and scalability.
 They address questions about deployment strategies, security, configuration management, and future plans to open source their Java implementation, emphasizing the protocol’s flexibility and the operational benefits of centralized agent management.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

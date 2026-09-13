@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Demystifying the Kubernetes Network Stack (From Pod to Pod) - Simone Rodigari,
+  Microsoft
+nav_order: 90
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Demystifying the Kubernetes Network Stack (From Pod to Pod) - Simone Rodigari, Microsoft"
-description: "Simone Rodigari, a software engineer at Microsoft, presents an overview of Kubernetes networking with a focus on pod-to-pod communication and packet tracing within a cluster. He explains that while Kubernetes abstracts much of the networkin..."
+description:
+  Simone Rodigari, a software engineer at Microsoft, presents an overview
+  of Kubernetes networking with a focus on pod-to-pod communication and packet tracing
+  within a cluster. He explains that while Kubernetes abstracts much of the networkin...
 resource: https://www.youtube.com/watch?v=fj5UQ0WBmAg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that while Kubernetes abstracts much of the networking, understandin
 The talk covers key concepts such as Linux network namespaces, virtual Ethernet (veth) connections between pods and nodes, and the data path for both intra-node and cross-node communication, including overlay and underlay networking approaches.
 Rodigari details how Kubernetes services provide stable virtual IPs and load balancing through DNAT, and how DNS (via CoreDNS) maps service names to IPs, simplifying communication.
 He demonstrates packet tracing and debugging techniques using Linux tools and highlights the importance of understanding these mechanisms for troubleshooting, concluding with a reminder that network policies can be used to secure pod communication.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                      |

@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 3: Learning II"
-description: "In this lecture, the instructor builds on previous discussions of linear regression to introduce linear classification, where the goal is to assign discrete labels (classes) to inputs rather than predict real-valued outputs. The lecture exp..."
+nav_order: 14
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  In this lecture, the instructor builds on previous discussions of linear
+  regression to introduce linear classification, where the goal is to assign discrete
+  labels (classes) to inputs rather than predict real-valued outputs. The lecture
+  exp...
 resource: https://www.youtube.com/watch?v=Mbe5ICIUw5Q
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The lecture explains binary and multiclass classification tasks, using examples 
 The instructor discusses loss functions, highlighting the limitations of squared loss and zero-one loss for classification, and introduces the logistic loss, which enables effective optimization via gradient descent by providing continuous, differentiable feedback.
 For multiclass classification, the lecture covers the use of the softmax function to convert logits into probability distributions and the cross-entropy loss to measure prediction accuracy.
 Finally, the instructor explains how to represent text inputs as tensors through tokenization and one-hot encoding, and introduces the bag-of-words representation, noting its simplicity and limitations regarding word order.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                   |

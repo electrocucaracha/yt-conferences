@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 1: Course Overview and AI Foundations"
-description: "In this introductory lecture for Stanford's CS221 course on artificial intelligence, instructor Percy Liang welcomes students and outlines significant updates to the curriculum, reflecting rapid advancements in AI while emphasizing the endu..."
+nav_order: 11
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  In this introductory lecture for Stanford's CS221 course on artificial
+  intelligence, instructor Percy Liang welcomes students and outlines significant
+  updates to the curriculum, reflecting rapid advancements in AI while emphasizing
+  the endu...
 resource: https://www.youtube.com/watch?v=yaLEGZuIIgE
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He defines AI as the study of agents—human or machine—that perceive, reason,
 The lecture traces the history of AI through three main paradigms: symbolic AI, neural AI, and statistical AI, highlighting their successes, setbacks, and eventual convergence in modern approaches such as deep learning and foundation models.
 Liang also discusses the societal and ethical implications of AI, including alignment between developer intentions and societal values, and introduces the course's hands-on, code-driven approach, focusing on tensors as the core data structure for modern machine learning.
 The session concludes with practical demonstrations of tensor operations using numpy and inops, underscoring the importance of computational efficiency and clear code structure in AI development.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

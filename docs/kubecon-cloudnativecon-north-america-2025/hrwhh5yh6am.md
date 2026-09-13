@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Package Management for Your Clust... Jordan Keister, Rashmi Gottipati, Joe
+  Lanford & Attila Mészáros
+nav_order: 194
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Package Management for Your Clust... Jordan Keister, Rashmi Gottipati, Joe Lanford & Attila Mészáros"
-description: "The Operator Life Cycle Manager (OLM) is a project under the Cloud Native Computing Foundation (CNCF) aimed at providing automated life cycle management for operators on a cluster. OLM v1 has addressed several pain points, including isolate..."
+description:
+  The Operator Life Cycle Manager (OLM) is a project under the Cloud Native
+  Computing Foundation (CNCF) aimed at providing automated life cycle management for
+  operators on a cluster. OLM v1 has addressed several pain points, including isolate...
 resource: https://www.youtube.com/watch?v=HrwHh5Yh6AM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ OLM v1 has addressed several pain points, including isolated deterministic insta
 The new revision-based life cycle management introduces a cluster extension revision API, allowing for predictable rollbacks and rollouts.
 OLM also supports registry v1 bundles with web hooks, single-namespace and own-namespace install modes, and has improved compatibility with existing operators and catalogs.
 However, limitations include eventual consistency in caches and the need for optimistic locking to ensure resource version comparability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                  |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  If You Can Secure It Here, You Can Secure It Anywhere - Milan Williams & Katrina
+  Liu, Semgrep
+nav_order: 36
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "If You Can Secure It Here, You Can Secure It Anywhere - Milan Williams & Katrina Liu, Semgrep"
-description: "In this talk, Milan Williams and Katrina from SGrip discuss their experience building a secure MCP server as part of their application security platform, which helps users detect and fix vulnerabilities in code as soon as possible. They exp..."
+description:
+  In this talk, Milan Williams and Katrina from SGrip discuss their experience
+  building a secure MCP server as part of their application security platform, which
+  helps users detect and fix vulnerabilities in code as soon as possible. They exp...
 resource: https://www.youtube.com/watch?v=iYouIi6QBn8
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain the motivations behind their work, including the increasing number 
 The team prioritized three non-negotiables: protecting customer environments, ensuring reliable and deterministic vulnerability detection, and minimizing the blast radius in case of compromise.
 Katrina outlines key challenges they encountered, such as agent non-determinism, issues with file content accuracy when scanning remotely, and implementing robust authentication, leading them to favor a local server approach while continuing to explore remote solutions.
 The presentation concludes with a demonstration of their tool in action and a recommendation to consult their detailed security guide for building safe MCP servers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                           |

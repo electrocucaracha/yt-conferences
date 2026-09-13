@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "REST in Peace: AI Needs to Be Async - Meet Asya - Artem Yushkovskiy, Delivery
+  Hero"
+nav_order: 304
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "REST in Peace: AI Needs to Be Async - Meet Asya - Artem Yushkovskiy, Delivery Hero"
-description: "Artam introduces a talk on AI orchestration, focusing on the challenges of scaling AI pipelines at Delivery Hero, particularly for automatic image improvement tasks. He describes how traditional pipeline architectures, using tools like Kube..."
+description:
+  Artam introduces a talk on AI orchestration, focusing on the challenges
+  of scaling AI pipelines at Delivery Hero, particularly for automatic image improvement
+  tasks. He describes how traditional pipeline architectures, using tools like Kube...
 resource: https://www.youtube.com/watch?v=SaYnLISqxQw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He describes how traditional pipeline architectures, using tools like Kubeflow, 
 To address this, his team developed Asia, an open-source tool that treats each pipeline step as an independent actor communicating via messages, with routing information embedded in the messages themselves, enabling greater flexibility, error isolation, and scalability.
 The architecture separates concerns between data scientists and platform engineers, allowing pure Python functions for business logic and CRDs for infrastructure, and supports agentic workflows and dynamic routing.
 Artam demonstrates the workflow, highlights integration with Kubernetes-native tools, and emphasizes the project's modularity, composability, and minimal abstractions, inviting feedback and contributions from the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Scheduling at the Edge of Reason: Multi-Cluster AI
+  & OCM - August Simonelli"
+nav_order: 290
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Scheduling at the Edge of Reason: Multi-Cluster AI & OCM - August Simonelli"
-description: "The speaker discusses the importance of multicluster management and introduces several features of open cluster management (OCM), focusing on dynamic scoring, federated learning, and recent project updates. Dynamic scoring is described as a..."
+description:
+  The speaker discusses the importance of multicluster management and introduces
+  several features of open cluster management (OCM), focusing on dynamic scoring,
+  federated learning, and recent project updates. Dynamic scoring is described as
+  a...
 resource: https://www.youtube.com/watch?v=Pbi3LD4I3BM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Dynamic scoring is described as a framework that automates resource management b
 In federated learning, OCM uses the hub as an aggregator to reduce high egress costs at the edge, employing add-ons like Flower and supporting various frameworks through a federated learning CRD that integrates with OCM’s placement logic.
 Project updates include alignment with SIGMC’s cluster profile API for easier integration, the release of a Q add-on for batch learning and job management, the stabilization of add-ons at v1 beta 1, and the introduction of CAP 5313 to decouple scheduling from workload dispatch.
 The speaker also notes the project’s application for incubation, the release of version 1.3, and invites attendees to see a demo at the project pavilion.
+
 # Main Points
 
 |   # | Main point                                                                                            |

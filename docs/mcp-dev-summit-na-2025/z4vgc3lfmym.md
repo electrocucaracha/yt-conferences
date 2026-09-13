@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "[Session] Next Generation Agent Architectures with MCP with Darren Shepherd
+  from Acorn Labs"
+nav_order: 21
+parent: Mcp Dev Summit Na 2025
 type: Video Note
-title: "[Session] Next Generation Agent Architectures with MCP with Darren Shepherd from Acorn Labs"
-description: "The speaker, a co-founder at Acorn Labs with a background in automation and orchestration, discusses the challenges of building AI agents and how the MCP (Message Control Protocol) architecture simplifies the process. He explains that while..."
+description:
+  The speaker, a co-founder at Acorn Labs with a background in automation
+  and orchestration, discusses the challenges of building AI agents and how the MCP
+  (Message Control Protocol) architecture simplifies the process. He explains that
+  while...
 resource: https://www.youtube.com/watch?v=z4vgc3lFMYM
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that while agent architectures are conceptually straightforward, in 
 MCP helps by standardizing the connection between large language models (LLMs) and tools, making it easier to build modular, declarative agents where most functionalities can be treated as tool calls.
 Through live demos, he shows how simple agents and workflows can be constructed using MCP, including dynamic instructions and browser automation, and introduces his experimental project "nanobot" as an example.
 He concludes that with MCP, building agents is becoming much easier for traditional software engineers, and predicts that 2025 will be a significant year for agent development, though improvements like structured outputs and better distributed tracing would further help the ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                              |

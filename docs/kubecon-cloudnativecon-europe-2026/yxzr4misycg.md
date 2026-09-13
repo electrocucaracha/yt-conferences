@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: From Learner To Contributor: A LFX Mentee’s Kubernetes Story
+  - Lavish Pal"
+nav_order: 205
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Lightning Talk: From Learner To Contributor: A LFX Mentee’s Kubernetes Story - Lavish Pal"
-description: "In this lightning talk, Lesh Pal shares his journey from a learner to a contributor in open source, focusing on his experience with the LFX mentorship program. Despite facing eight rejections when applying for the mentorship, he persisted b..."
+description:
+  In this lightning talk, Lesh Pal shares his journey from a learner to
+  a contributor in open source, focusing on his experience with the LFX mentorship
+  program. Despite facing eight rejections when applying for the mentorship, he persisted
+  b...
 resource: https://www.youtube.com/watch?v=YxZR4mISycg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Despite facing eight rejections when applying for the mentorship, he persisted b
 Eventually, his persistence paid off when he was selected as an LFX mentee, where he refactored the Kubernetes reference generator tool and gained valuable insights into how large open source projects operate.
 Lesh emphasizes that open source is about learning, collaboration, and persistence rather than just coding, and encourages newcomers to start small, engage actively with the community, and not be discouraged by rejections.
 He concludes by inviting the audience to connect with him for further questions about open source contributions.
+
 # Main Points
 
 |   # | Main point                                                                                                          |

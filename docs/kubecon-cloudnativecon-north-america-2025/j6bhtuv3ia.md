@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "OpenTelemetry Logs Driving a Major Shift: Events, Richer Data, and Smarter
+  Semantics - Robert Pająk"
+nav_order: 190
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "OpenTelemetry Logs Driving a Major Shift: Events, Richer Data, and Smarter Semantics - Robert Pająk"
-description: "Robert Pyong’s talk focuses on the evolving role of logs in OpenTelemetry, emphasizing their transition from legacy baggage to first-class citizens within the observability ecosystem. He explains that OpenTelemetry logs are structured entit..."
+description:
+  Robert Pyong’s talk focuses on the evolving role of logs in OpenTelemetry,
+  emphasizing their transition from legacy baggage to first-class citizens within
+  the observability ecosystem. He explains that OpenTelemetry logs are structured
+  entit...
 resource: https://www.youtube.com/watch?v=-j6bHtUV3IA
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that OpenTelemetry logs are structured entities, not just strings, c
 Pyong highlights the importance of semantic conventions, which provide guidelines for consistent log attributes and enable meaningful cross-service analysis, distinguishing between general log records and well-defined event records.
 He introduces the new user-facing OpenTelemetry logging API, which allows developers to emit structured logs directly, bypassing traditional logging libraries and enabling better integration and performance, including the ability to leverage efficient OS-native tracing systems.
 The Q&A addresses practical concerns such as batching Windows event logs, the maturity of SDKs across languages, best practices for logging in Kubernetes, and support for syslog, with Pyong noting that while legacy approaches will persist, the adoption of OpenTelemetry’s structured logging and semantics is expected to grow over time.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

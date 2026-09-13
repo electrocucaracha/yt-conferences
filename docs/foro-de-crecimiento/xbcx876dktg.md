@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Soñar Te Transforma – Lourdes Enríquez | Sesión 37
+nav_order: 66
+parent: Foro De Crecimiento
 type: Video Note
-title: "Soñar Te Transforma – Lourdes Enríquez | Sesión 37"
-description: "El video explora la importancia de soñar como motor de transformación personal y presente, no solo del futuro. A través de la conversación con Lourdes Enríquez, se destaca que soñar permite sanar heridas, enfrentar miedos y salir de patrone..."
+description:
+  El video explora la importancia de soñar como motor de transformación
+  personal y presente, no solo del futuro. A través de la conversación con Lourdes
+  Enríquez, se destaca que soñar permite sanar heridas, enfrentar miedos y salir de
+  patrone...
 resource: https://www.youtube.com/watch?v=XBCX876DKtg
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ A través de la conversación con Lourdes Enríquez, se destaca que soñar permi
 Se explica que muchas personas no sueñan debido a condicionamientos culturales y una mentalidad de supervivencia, pero que es posible cambiar este estado emocional mediante prácticas como la gratitud, la visualización y la construcción de un “banco emocional” positivo.
 Lourdes enfatiza que el sueño debe alimentarse constantemente y que el proceso de soñar y actuar es más importante que el resultado final, ya que fortalece la confianza, el merecimiento y la capacidad de construir relaciones y una vida más plena.
 Finalmente, se invita a los espectadores a crear un “sueñógrafo” y a poner en práctica estos conceptos para iniciar un cambio real en sus vidas, recordando que nunca es tarde para soñar y que la vida se construye desde adentro hacia afuera.
+
 # Main Points
 
 |   # | Main point                                                                                                                 |

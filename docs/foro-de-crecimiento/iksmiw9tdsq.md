@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Lessons on self-love that no one taught you | Consuelo Hernández
+nav_order: 55
+parent: Foro De Crecimiento
 type: Video Note
-title: "Lessons on self-love that no one taught you | Consuelo Hernández"
-description: "En esta entrevista, Consuelo Hernández, experta en desarrollo humano, reflexiona sobre la naturaleza del amor y su relación con el ego y la conciencia. Explica que el amor humano suele estar cargado de expectativas y conveniencia, lo que ge..."
+description:
+  En esta entrevista, Consuelo Hernández, experta en desarrollo humano,
+  reflexiona sobre la naturaleza del amor y su relación con el ego y la conciencia.
+  Explica que el amor humano suele estar cargado de expectativas y conveniencia, lo
+  que ge...
 resource: https://www.youtube.com/watch?v=iKsMIw9tDsQ
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Explica que el amor humano suele estar cargado de expectativas y conveniencia, l
 Consuelo destaca la importancia de cultivar la conciencia y la luz interna para contrarrestar el poder destructivo del ego, lo cual permite amarnos a nosotros mismos y a los demás de manera equilibrada.
 Además, aborda el tema del juicio y el autojuicio, señalando que estos suelen llevar al castigo propio y que la verdadera transformación ocurre al asumir la responsabilidad, reparar con acciones y agradecer tanto lo bueno como lo malo.
 Finalmente, comparte su sueño de que la humanidad experimente un momento de amor colectivo, creyendo que esto podría transformar la realidad y traer luz y perfección al mundo.
+
 # Main Points
 
 |   # | Main point                                                                                        |

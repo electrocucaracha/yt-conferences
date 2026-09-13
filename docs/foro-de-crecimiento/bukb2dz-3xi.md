@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Técnicas de Ventas y PNL: La Psicología Secreta para Cerrar Más | Marcelo
+  Yaguna | Sesión 38"
+nav_order: 73
+parent: Foro De Crecimiento
 type: Video Note
-title: "Técnicas de Ventas y PNL: La Psicología Secreta para Cerrar Más | Marcelo Yaguna | Sesión 38"
-description: "En esta entrevista, Marcelo Yaguna, empresario y coach, comparte cómo aprender a vender puede transformar la vida de cualquier persona, destacando la importancia de la mentalidad, la programación neurolingüística (PNL) y la percepción perso..."
+description:
+  En esta entrevista, Marcelo Yaguna, empresario y coach, comparte cómo
+  aprender a vender puede transformar la vida de cualquier persona, destacando la
+  importancia de la mentalidad, la programación neurolingüística (PNL) y la percepción
+  perso...
 resource: https://www.youtube.com/watch?v=bukB2DZ-3XI
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Explica que las creencias limitantes y la falta de autoestima pueden obstaculiza
 Marcelo enfatiza el poder de la palabra "yo soy" para reprogramar el inconsciente y la necesidad de constancia para lograr cambios duraderos.
 Además, detalla cómo identificar y conectar con diferentes tipos de clientes a través del rapport y la observación de temperamentos, así como la importancia de escuchar más que hablar.
 Finalmente, subraya que la educación continua, la resiliencia ante el rechazo y la acción constante son claves para alcanzar el éxito, invitando a los oyentes a implementar el rapport como primer paso práctico para mejorar sus habilidades de venta y conexión interpersonal.
+
 # Main Points
 
 |   # | Main point                                                                                                  |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Advanced Kyverno Patterns : Automating Platform Security and Ope... Frank
+  Jogeleit & Johannes Sonner"
+nav_order: 16
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Advanced Kyverno Patterns : Automating Platform Security and Ope... Frank Jogeleit & Johannes Sonner"
-description: "In this session, Frank and Johannes introduce Kyverno, a Kubernetes-native policy engine, highlighting its advanced features for automating platform security and operations. Kyverno extends beyond Kubernetes’ built-in admission policies by..."
+description:
+  In this session, Frank and Johannes introduce Kyverno, a Kubernetes-native
+  policy engine, highlighting its advanced features for automating platform security
+  and operations. Kyverno extends beyond Kubernetes’ built-in admission policies by...
 resource: https://www.youtube.com/watch?v=7YuMvcW5wRA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Kyverno extends beyond Kubernetes’ built-in admission policies by offering rob
 Johannes shares practical use cases from Deutsche Telekom, such as automating namespace role bindings based on labels for self-service access control, integrating with tools like Crossplane and Pulumi to automate infrastructure tasks without custom scripts, and leveraging Kyverno’s mutating policies to optimize workflows like dependency caching.
 The speakers emphasize Kyverno’s value not only for security but also for holistic infrastructure automation and compliance reporting, enabling scalable governance and self-service in large organizations.
 They conclude with a roadmap update, mentioning improvements to the CLI, a new reporting standard, and the deprecation of older policy formats, inviting users to engage with the project and its community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

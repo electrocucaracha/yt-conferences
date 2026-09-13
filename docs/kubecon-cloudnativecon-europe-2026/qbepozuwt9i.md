@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Bringing Cloud Native PaaS To Space: Onboard Edge Computing f... Adele Karam
+  Hankache & Sergiu Weisz"
+nav_order: 32
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Bringing Cloud Native PaaS To Space: Onboard Edge Computing f... Adele Karam Hankache & Sergiu Weisz"
-description: "The presentation introduces the Orchid project, a European initiative aimed at advancing edge computing on satellites by enabling onboard data processing and orchestration of AI applications. Traditionally, Earth observation satellites proc..."
+description:
+  The presentation introduces the Orchid project, a European initiative
+  aimed at advancing edge computing on satellites by enabling onboard data processing
+  and orchestration of AI applications. Traditionally, Earth observation satellites
+  proc...
 resource: https://www.youtube.com/watch?v=QbEpoZuWT9I
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Traditionally, Earth observation satellites process and transmit data sequential
 Orchid proposes a distributed, hardware-agnostic platform using lightweight Kubernetes (K3S), unikernels (via MirageOS and Unicraft), and custom tools to orchestrate and accelerate AI workflows directly on satellites, significantly reducing the need to transmit large raw datasets to the ground.
 The platform includes components for mission planning, storage management, workflow orchestration, and security, allowing satellites to process data in real time and transmit only valuable results, such as detected ships or fire alerts, thus improving efficiency and enabling new use cases.
 The project is currently a demonstrator targeting low Earth orbit satellites, with plans to open source the software and expand to multisatellite constellations, ultimately aiming to transform satellites into flexible, service-oriented computing platforms.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                         |

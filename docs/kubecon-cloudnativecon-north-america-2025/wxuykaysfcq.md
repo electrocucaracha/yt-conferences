@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Fast and the Furious: CICD Pipeline for eBPF Programs at Meta S... Theophilus
+  Benson & Prankur Gupta"
+nav_order: 73
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Fast and the Furious: CICD Pipeline for eBPF Programs at Meta S... Theophilus Benson & Prankur Gupta"
-description: "The presentation discusses the challenges and solutions involved in building a fast and reliable CI/CD pipeline for eBPF programs at Meta’s scale. The speaker outlines the complexity of managing and deploying numerous eBPF programs across d..."
+description:
+  The presentation discusses the challenges and solutions involved in building
+  a fast and reliable CI/CD pipeline for eBPF programs at Meta’s scale. The speaker
+  outlines the complexity of managing and deploying numerous eBPF programs across
+  d...
 resource: https://www.youtube.com/watch?v=wXuykaYSFCQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The speaker outlines the complexity of managing and deploying numerous eBPF prog
 The talk details Meta’s multi-stage testing pipeline—including unit tests, integration tests, production simulations, and mini-production releases—to ensure safe and effective rollouts, while highlighting the difficulties posed by kernel heterogeneity, overlapping attach points, and multiple teams managing their own eBPF programs.
 To address these, Meta developed specialized tools for testing, observability, and rapid mitigation, such as decoupling control and data planes, building custom chaining and monitoring solutions, and implementing auditors to validate rollout intent.
 The speaker concludes that eBPF pipelines require tailored infrastructure and continuous evolution to handle the high variability and potential blast radius of changes, stressing the importance of robust tooling for both deployment confidence and quick recovery.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

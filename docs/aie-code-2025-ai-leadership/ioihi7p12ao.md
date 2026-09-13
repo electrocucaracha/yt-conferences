@@ -1,11 +1,23 @@
 ---
+layout: default
+title: No More Slop – swyx
+nav_order: 4
+parent: Aie Code 2025 Ai Leadership
 type: Video Note
-title: "No More Slop – swyx"
-description: 'The speaker opens by expressing nervousness and asking for audience support, then declares a "war on slop," which is defined as low-quality, inauthentic, or inaccurate content produced by both humans and AI. They recount the evolution of th...'
+description:
+  The speaker opens by expressing nervousness and asking for audience support,
+  then declares a "war on slop," which is defined as low-quality, inauthentic, or
+  inaccurate content produced by both humans and AI. They recount the evolution of
+  th...
 resource: https://www.youtube.com/watch?v=IoiHI7p12Ao
-tags: ["aie-code-2025-ai-leadership", video, learning]
+tags:
+  - aie-code-2025-ai-leadership
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ The speaker opens by expressing nervousness and asking for audience support, the
 They recount the evolution of the AI Engineer Summit, emphasizing the importance of maintaining high standards and taste as the community grows.
 The talk highlights that slop is pervasive across media, code, and even startup ideas, and that combating it requires significantly more effort than producing it, referencing Brandolini's law and proposing a similar principle for "anti-slop." The speaker advocates for using AI thoughtfully to fight slop, such as through curated newsletters, improved prompting, and tools for code quality, and stresses the need for accountability and modularity in AI development.
 The talk concludes with a rallying cry for the audience to reject slop in all forms and uphold quality in their work.
+
 # Main Points
 
 |   # | Main point                                                                                                                               |

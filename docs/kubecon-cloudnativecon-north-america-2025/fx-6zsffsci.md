@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Lightning Talk: Young? First-Gen? Female? New? Here’s Why You Belong Here
+  Too - Jennifer Weir"
+nav_order: 155
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Lightning Talk: Young? First-Gen? Female? New? Here’s Why You Belong Here Too - Jennifer Weir"
-description: "Jennifer Weir shares her journey as a young, first-generation female entering the cloud-native community, emphasizing that feelings of discomfort or disconnection in new environments are common but should not deter participation. She highli..."
+description:
+  Jennifer Weir shares her journey as a young, first-generation female
+  entering the cloud-native community, emphasizing that feelings of discomfort or
+  disconnection in new environments are common but should not deter participation.
+  She highli...
 resource: https://www.youtube.com/watch?v=fx-6ZSFfScI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ She highlights the significant value of identity diversity, referencing research
 However, she points out existing gaps in leadership roles and stresses the importance of supporting diverse contributors into decision-making positions.
 Weir cites studies showing that organizations lacking gender and ethnic diversity are less likely to succeed financially, and argues that diversity in open source communities leads to broader participation, more inclusive solutions, and stronger technologies.
 She concludes by encouraging everyone to claim their place in the community, as true innovation and ubiquity in cloud-native technologies depend on inclusivity and accessibility for all.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

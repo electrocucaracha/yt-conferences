@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Challenges in Delivering Unstructured Content Efficiently Over... Kailas Krivanka
+  & Fernando Cerenza
+nav_order: 7
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Challenges in Delivering Unstructured Content Efficiently Over... Kailas Krivanka & Fernando Cerenza"
-description: "In this session, Fernando and Kyus from Box discuss their experience building the MCP server, focusing on the challenges of moving files and integrating AI agents with Box’s intelligent content platform. They explain that Box stores vast am..."
+description:
+  In this session, Fernando and Kyus from Box discuss their experience
+  building the MCP server, focusing on the challenges of moving files and integrating
+  AI agents with Box’s intelligent content platform. They explain that Box stores
+  vast am...
 resource: https://www.youtube.com/watch?v=HrfaijVcOf8
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that Box stores vast amounts of unstructured data for over 120,000 
 The team outlines technical hurdles such as inefficient file handling, context window limitations, and the risk of data corruption or exfiltration when agents interact with unstructured content.
 They explore solutions like using text-based representations, programmatic tool calling (code mode), and signed URLs to improve tool composability and security, while emphasizing the importance of admin controls, guardrails, and human-in-the-loop mechanisms to mitigate risks like prompt injection and unauthorized data sharing.
 Ultimately, they stress the need to balance functionality and security, providing flexible controls for IT admins and users while acknowledging that some risks can only be mitigated, not eliminated.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

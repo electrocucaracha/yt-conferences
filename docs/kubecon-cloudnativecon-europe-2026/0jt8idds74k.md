@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Operationalizing AI Workloads on Kubernetes With OpenKruise - Zhang Zhen &
+  Vec Sun
+nav_order: 235
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Operationalizing AI Workloads on Kubernetes With OpenKruise - Zhang Zhen & Vec Sun"
-description: "John from the OpenKruise community discusses the challenges and solutions for operating AI workloads, focusing on both training/inference and agent-based applications. He explains that training and inference workloads often require large da..."
+description:
+  John from the OpenKruise community discusses the challenges and solutions
+  for operating AI workloads, focusing on both training/inference and agent-based
+  applications. He explains that training and inference workloads often require large
+  da...
 resource: https://www.youtube.com/watch?v=0JT8iDDS74k
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ John introduces several OpenKruise features, such as in-place updates for faster
 He also highlights ongoing work to improve pod group management and container restarts, minimizing downtime and resource waste.
 Additionally, John presents the OpenKruise Agent project, which offers fast, persistent sandbox allocation, supports hibernation and checkpointing for efficient resource use, and enables rapid cloning and restoration of agent environments, all aimed at optimizing AI workload operations.
 He notes that while image prewarming accelerates container readiness, it may increase local disk usage and I/O load.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                             |

@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "Beyond CloudEvents: Endpoints, Messages, Schemas – CNCF XRegistry - Manuel
+  Ottlik, HDI Global SE"
+nav_order: 24
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Beyond CloudEvents: Endpoints, Messages, Schemas – CNCF XRegistry - Manuel Ottlik, HDI Global SE"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=M56SHzETAmM
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: Man Lotle, a product
 The X Registry provides a vendor-agnostic specification for managing metadata about resources, allowing for interoperability and reducing schema repetition.
 Man demonstrates the registry's capabilities using a to-do list example, showcasing how it can be used to manage events, schemas, and endpoints.
 The X Registry is currently in its RC1 stage, with plans for further development and release in the near future.
+
 # Main Points
 
 |   # | Main point                                                                |

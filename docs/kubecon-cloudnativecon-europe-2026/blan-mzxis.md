@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Hello World, Meet the Spanimals: Observability for Beginners - Tiffany Jernigan
+  & Matthias Haeussler"
+nav_order: 138
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Hello World, Meet the Spanimals: Observability for Beginners - Tiffany Jernigan & Matthias Haeussler"
-description: "In this beginner-friendly talk on observability, Tiffany Jernigan and Matias introduce the core concepts using playful animal analogies to represent the four main observability signals: traces (Tracy), logs (Logy), metrics (Metric), and pro..."
+description:
+  "In this beginner-friendly talk on observability, Tiffany Jernigan and
+  Matias introduce the core concepts using playful animal analogies to represent the
+  four main observability signals: traces (Tracy), logs (Logy), metrics (Metric),
+  and pro..."
 resource: https://www.youtube.com/watch?v=_bLAN_mzxIs
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They demonstrate a demo application composed of distributed components that gene
 The presenters walk through how these signals are collected, correlated, and visualized using the OpenTelemetry collector and Grafana stack, highlighting the importance of being able to trace requests, view logs, analyze metrics, and profile performance to diagnose issues.
 They emphasize the flexibility of OpenTelemetry in exporting data to various backends and the value of dashboards that bring all signals together for comprehensive monitoring.
 The session concludes with a live demo, configuration examples, and encouragement for attendees to explore the provided repository and continue learning about observability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

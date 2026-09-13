@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Taming Rollout Risks in Distributed Web Apps: A Location-Aware Gradual Deployment...
+  Angela Victorio"
+nav_order: 300
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Taming Rollout Risks in Distributed Web Apps: A Location-Aware Gradual Deployment... Angela Victorio"
-description: "Angela Victoria, a technical lead at JP Morgan Chase and former American Airlines developer, discusses best practices for deploying software updates with minimal risk, drawing on her experience with CI/CD pipelines and Kubernetes. She empha..."
+description:
+  Angela Victoria, a technical lead at JP Morgan Chase and former American
+  Airlines developer, discusses best practices for deploying software updates with
+  minimal risk, drawing on her experience with CI/CD pipelines and Kubernetes. She
+  empha...
 resource: https://www.youtube.com/watch?v=-fhXEJD-ycs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ She emphasizes the importance of gradual rollouts, such as canary deployments an
 Angela demonstrates two approaches: percentage-based traffic splitting using service mesh tools like Istio, and more granular, location-based rollouts for scenarios like airport kiosks, where random selection could disproportionately impact smaller sites.
 She highlights the need for robust monitoring, immediate rollback strategies, and careful timing when deploying updates, and advises decoupling changes to avoid downtime.
 Angela concludes by addressing questions about rollout timing and visibility, noting that deployment progress should be clearly communicated to developers through pipeline tools.
+
 # Main Points
 
 |   # | Main point                                                                                                                          |

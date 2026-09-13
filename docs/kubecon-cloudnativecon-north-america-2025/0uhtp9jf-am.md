@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Surviving to Thriving: Building an Open Source Business in the Era of Rugpulls...
+  Michael Lieberman"
+nav_order: 297
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Surviving to Thriving: Building an Open Source Business in the Era of Rugpulls... Michael Lieberman"
-description: "Mike, CTO and co-founder of Kusari, shares his journey from early experiences with Python and system administration to co-founding a startup focused on open source software supply chain security. He describes his increasing involvement in t..."
+description:
+  Mike, CTO and co-founder of Kusari, shares his journey from early experiences
+  with Python and system administration to co-founding a startup focused on open source
+  software supply chain security. He describes his increasing involvement in t...
 resource: https://www.youtube.com/watch?v=0uHtp9jF_aM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He describes his increasing involvement in the open source community through rol
 Mike discusses the challenges of building and maintaining open source projects, such as limited community contributions, difficulties in product adoption, and issues with companies using but not contributing back.
 He emphasizes the importance of distinguishing between open source projects and commercial products, building community relationships, and contributing broadly to open source for reputation and partnership opportunities.
 Mike concludes with advice for startups: participate actively in open source, don’t rely solely on the community or hyperscalers, and recognize that expertise and relationships are key to success.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                      |

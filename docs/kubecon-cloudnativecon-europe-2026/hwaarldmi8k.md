@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | KubeVirt Summit: Breaking the Performance Barrier...
+  Jian Li & Yves Weisser"
+nav_order: 70
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | KubeVirt Summit: Breaking the Performance Barrier... Jian Li & Yves Weisser"
-description: "In this presentation, Jen from SK Telecom and Eve from NetApp discuss advancements in high-performance AI storage virtualization, focusing on overcoming performance barriers using Kubernetes, KubeVirt, and GPU Direct Storage (GDS) technolog..."
+description:
+  In this presentation, Jen from SK Telecom and Eve from NetApp discuss
+  advancements in high-performance AI storage virtualization, focusing on overcoming
+  performance barriers using Kubernetes, KubeVirt, and GPU Direct Storage (GDS) technolog...
 resource: https://www.youtube.com/watch?v=HWaaRLDmI8k
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain the complexities of AI data center infrastructure, emphasizing the 
 The team describes their solution, which leverages Kubernetes and KubeVirt to manage both virtual machines and containers, and integrates RDMA and GDS to bypass traditional bottlenecks, achieving near-native storage performance even within virtualized environments.
 Benchmark results using NetApp’s AFX platform and GDSIO show that enabling GDS in virtual machines delivers comparable throughput and reduced CPU usage to bare metal setups, significantly improving AI inference efficiency.
 A real-world use case demonstrates that offloading KV cache to storage via GDS accelerates inference performance, especially with large context sizes, confirming that their approach effectively removes traditional virtualization performance barriers for AI workloads.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

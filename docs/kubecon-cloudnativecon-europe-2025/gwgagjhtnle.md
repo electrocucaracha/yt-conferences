@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "How We Solved TLS at Scale: Self-Service, Multi-Tenant Cert-manager - Erik
+  Godding Boye & Tim Ramlot"
+nav_order: 125
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "How We Solved TLS at Scale: Self-Service, Multi-Tenant Cert-manager - Erik Godding Boye & Tim Ramlot"
-description: "The presentation discusses how Eric set up Search Manager, a CNCF graduated project, to create certificates for a multi-tenant environment in a Kubernetes cluster. Initially, Eric used Spiffy and Spir, but faced challenges running it on Ope..."
+description:
+  The presentation discusses how Eric set up Search Manager, a CNCF graduated
+  project, to create certificates for a multi-tenant environment in a Kubernetes cluster.
+  Initially, Eric used Spiffy and Spir, but faced challenges running it on Ope...
 resource: https://www.youtube.com/watch?v=gWgagjHtnlE
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Initially, Eric used Spiffy and Spir, but faced challenges running it on OpenShi
 He then turned to Search Manager, which he customized to meet his needs.
 To ensure security and control, Eric implemented policies using the "approve-a-policy" plugin, allowing tenants to self-provision certificates while preventing unauthorized requests.
 Additionally, he used a custom monitoring solution to track certificate expirations and implement a rolling update mechanism using Reloader to minimize downtime during changes.
+
 # Main Points
 
 |   # | Main point                                                                                                                 |

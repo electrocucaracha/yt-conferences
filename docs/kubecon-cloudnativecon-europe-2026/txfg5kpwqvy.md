@@ -1,11 +1,23 @@
 ---
+layout: default
+title: "Project Lightning Talk: What's Exciting Now In Bootc, And What's Next? -
+  Colin Walters, Maintainer"
+nav_order: 296
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: What's Exciting Now In Bootc, And What's Next? - Colin Walters, Maintainer"
-description: "Colin Walters introduces updates on two CNCF projects, Bootsie and ComposifS, emphasizing the importance of free and open source software for maintaining control over technology. Bootsie, a CNCF sandbox project since 2024, enables deploying..."
+description:
+  Colin Walters introduces updates on two CNCF projects, Bootsie and ComposifS,
+  emphasizing the importance of free and open source software for maintaining control
+  over technology. Bootsie, a CNCF sandbox project since 2024, enables deploying...
 resource: https://www.youtube.com/watch?v=txFg5kPwQvY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ New features include systemd soft reboots for efficient updates, a system reinst
 Walters also presents BCVK (Bootsie Virtualization Kit), which allows rapid iteration by running containers as ephemeral VMs, streamlining development cycles.
 ComposifS aims to provide a versioned, immutable file system with on-disk integrity by separating metadata and data planes, supporting fsverity, and offering DMverity-style integrity; a new Rust implementation is in progress.
 Both projects focus on end-to-end integrity from system power-on, with plans to extend these guarantees to generic OCI images, and Walters invites further community engagement.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

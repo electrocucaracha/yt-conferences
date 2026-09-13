@@ -1,11 +1,22 @@
 ---
+layout: default
+title: You're Testing WHAT? • Gojko Adzic • GOTO 2021
+nav_order: 150
+parent: Developer Productivity
 type: Video Note
-title: "You're Testing WHAT? • Gojko Adzic • GOTO 2021"
-description: "The speaker discusses how advances in technology and cloud computing are changing best practices in automated testing, challenging the traditional testing pyramid that emphasizes fast, isolated unit tests. They argue that as software increa..."
+description:
+  The speaker discusses how advances in technology and cloud computing
+  are changing best practices in automated testing, challenging the traditional testing
+  pyramid that emphasizes fast, isolated unit tests. They argue that as software increa...
 resource: https://www.youtube.com/watch?v=5_IW7npQk9k
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They argue that as software increasingly relies on third-party services and clou
 The talk highlights the importance of testing where the risk is, leveraging cloud capabilities for massively parallel testing environments, and designing automated tests to assist humans rather than replace them—especially for non-deterministic or complex outputs like visuals or videos.
 The speaker shares examples from their own projects, such as using visual diff tools and approval testing to make tests resilient to change and easier to maintain, and stresses the value of separating the "what" from the "how" in test definitions.
 Ultimately, they advocate for rethinking automation to optimize human time, facilitate change, and focus on testing what the system actually does, not just how it does it.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                           |

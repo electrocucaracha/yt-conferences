@@ -1,11 +1,22 @@
 ---
+layout: default
+title: People-first Path To Cell-based Architecture - Martin Jones & Asanka Abeysinghe
+nav_order: 197
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "People-first Path To Cell-based Architecture - Martin Jones & Asanka Abeysinghe"
-description: "In this talk, the speakers discuss their transition of 60,000 users from a monolithic infrastructure to a Kubernetes-native, cell-based architecture, emphasizing the importance of scalability, autonomy, and aligning technology with organiza..."
+description:
+  In this talk, the speakers discuss their transition of 60,000 users from
+  a monolithic infrastructure to a Kubernetes-native, cell-based architecture, emphasizing
+  the importance of scalability, autonomy, and aligning technology with organiza...
 resource: https://www.youtube.com/watch?v=XCpfpD_gMpo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They introduce cell-based architecture as a solution to the complexity of managi
 The approach supports decentralized architecture with federated governance, allowing teams to own and manage their domains independently while maintaining central policy control.
 Practical examples from the University of Edinburgh illustrate how this model enables clear separation of business logic, easier scaling, versioning, and streamlined migrations.
 The speakers also highlight how cell-based architecture facilitates integration of AI and new technologies within enterprise governance, and they provide resources for further exploration and implementation of the concept.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

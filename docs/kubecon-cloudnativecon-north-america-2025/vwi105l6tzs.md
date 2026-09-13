@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Taming the Complexity Beast... Moderated by Katie Norton, Alex Zenla, Jason
+  Hall & Jon Ceanfaglione
+nav_order: 303
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Taming the Complexity Beast... Moderated by Katie Norton, Alex Zenla, Jason Hall & Jon Ceanfaglione"
-description: 'In the panel "Taming the Complexity Beast," experts discuss how organizations are grappling with the unintended consequences of adopting microservices and complex software architectures. They note that while microservices promised agility a...'
+description:
+  In the panel "Taming the Complexity Beast," experts discuss how organizations
+  are grappling with the unintended consequences of adopting microservices and complex
+  software architectures. They note that while microservices promised agility a...
 resource: https://www.youtube.com/watch?v=VWi105l6tzs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They note that while microservices promised agility and scalability, many organi
 The panelists emphasize that adding layers of abstraction or tools often exacerbates these issues, and advocate for a more deliberate, needs-based approach to architectural decisions—choosing simplicity and right-sizing solutions rather than defaulting to industry trends.
 They highlight the importance of secure foundations, caution against shifting too many responsibilities (like cost management and certificate handling) to developers, and stress that operational complexity and socio-technical factors must be considered in architectural planning.
 As organizations move toward AI and new technologies, the panel urges caution, security-first thinking, and learning from past mistakes, while acknowledging that people and organizational dynamics are as critical as technical choices in managing complexity.
+
 # Main Points
 
 |   # | Main point                                                                                                     |

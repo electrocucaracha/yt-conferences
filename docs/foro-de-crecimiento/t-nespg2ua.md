@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Principios para hablar en público con Paco Benítez | sesión 43
+nav_order: 63
+parent: Foro De Crecimiento
 type: Video Note
-title: "Principios para hablar en público con Paco Benítez | sesión 43"
-description: "En esta extensa conversación, se destaca que no basta con ser talentoso; es fundamental saber comunicar ese talento para que otros lo reconozcan y valoren. Los invitados, especialmente Paco Benítez, enfatizan que la comunicación efectiva es..."
+description:
+  En esta extensa conversación, se destaca que no basta con ser talentoso;
+  es fundamental saber comunicar ese talento para que otros lo reconozcan y valoren.
+  Los invitados, especialmente Paco Benítez, enfatizan que la comunicación efectiva
+  es...
 resource: https://www.youtube.com/watch?v=t_-neSPg2UA
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Los invitados, especialmente Paco Benítez, enfatizan que la comunicación efect
 Se explica que el éxito al hablar en público depende de tres pilares: tener claro el “por qué” (la razón interna y el impacto que se busca), la mentalidad adecuada (creer en el propio mensaje y adoptar una actitud positiva), y la claridad en el objetivo de la presentación.
 Además, se abordan técnicas como el uso del storytelling, la importancia de la energía, la estructura 3-2-1 para organizar ideas y el equilibrio entre improvisación y memorización.
 Finalmente, se concluye que la práctica constante y la disposición a exponerse son claves para convertirse en un comunicador influyente, y que el verdadero motor para vencer el miedo y destacar es tener un “por qué” poderoso y bien definido.
+
 # Main Points
 
 |   # | Main point                                                                                                             |

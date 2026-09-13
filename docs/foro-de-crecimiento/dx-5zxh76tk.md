@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Michel Domit: Ser, Hacer y Tener | sesión 40"
-description: "En esta masterclass, Michelle Domit enfatiza la importancia de planear la vida no en función de lo que se quiere tener, sino de quién se quiere ser y qué se debe hacer para lograrlo, considerando el tener solo como un medio y no como un fin..."
+nav_order: 60
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En esta masterclass, Michelle Domit enfatiza la importancia de planear
+  la vida no en función de lo que se quiere tener, sino de quién se quiere ser y qué
+  se debe hacer para lograrlo, considerando el tener solo como un medio y no como
+  un fin...
 resource: https://www.youtube.com/watch?v=dX-5zXh76Tk
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ En esta masterclass, Michelle Domit enfatiza la importancia de planear la vida n
 A través de ejercicios de reflexión y meditación, invita a los participantes a imaginar que les quedan 30 días de vida, con el objetivo de identificar lo verdaderamente esencial y redefinir prioridades, virtudes y hábitos.
 Domit explica cómo la atención, las palabras y la vibración energética influyen en la calidad de vida, y propone la meditación diaria como herramienta para elevar la conciencia, cancelar pensamientos negativos y conectar con la naturaleza divina interior.
 Finalmente, motiva a crear un plan de vida basado en el ser, el hacer y el tener, comprometiéndose a la autoobservación, la coherencia y el servicio a los demás, para así encontrar la misión personal y alcanzar una vida plena y significativa.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

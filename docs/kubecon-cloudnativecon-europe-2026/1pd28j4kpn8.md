@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Real-World Supply-Chain Security - Alex Leong, Buoyant
+nav_order: 306
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Real-World Supply-Chain Security - Alex Leong, Buoyant"
-description: "Alex Leong, a software engineer at Buoyant and long-time contributor to the Linkerd service mesh, discusses practical approaches to supply chain security in software development. He explains that supply chain security involves providing det..."
+description:
+  Alex Leong, a software engineer at Buoyant and long-time contributor
+  to the Linkerd service mesh, discusses practical approaches to supply chain security
+  in software development. He explains that supply chain security involves providing
+  det...
 resource: https://www.youtube.com/watch?v=1Pd28J4kpN8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains that supply chain security involves providing detailed, verifiable i
 Leong outlines how these attestations can be generated, delivered, and managed using tools like cosign, Snyk, Sift, and the OCI registry with referers, ensuring immutability of images while enabling continuous vulnerability monitoring and policy enforcement through engines like Kyverno.
 He emphasizes the importance of clear documentation and streamlined processes to reduce friction for consumers, acknowledges the evolving nature of the ecosystem, and encourages both producers and consumers to adopt and demand robust supply chain transparency.
 The session concludes with audience questions about tooling, policy enforcement, and the growing complexity of supply chain requirements, highlighting ongoing challenges and future directions in the field.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                          |

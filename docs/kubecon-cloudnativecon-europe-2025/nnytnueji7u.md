@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Tutorial: Workshop: Developing as a Team for Kubernetes With Nix an... Leigh
+  Capili & Tanja Ulianova"
+nav_order: 354
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Tutorial: Workshop: Developing as a Team for Kubernetes With Nix an... Leigh Capili & Tanja Ulianova"
-description: "The speaker is discussing the Nyx package manager, which allows for declarative software builds in a hermetic way. They introduce Flux, an open-source project that uses Nyx to create reproducible environments for development and deployment..."
+description:
+  The speaker is discussing the Nyx package manager, which allows for declarative
+  software builds in a hermetic way. They introduce Flux, an open-source project that
+  uses Nyx to create reproducible environments for development and deployment...
 resource: https://www.youtube.com/watch?v=NnYtnUeJi7U
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The speaker is discussing the Nyx package manager, which allows for declarative 
 They introduce Flux, an open-source project that uses Nyx to create reproducible environments for development and deployment.
 The speaker demonstrates how to use Flux to build a Go application with Postgres database, showcasing the benefits of using Nyx and Flux for collaborative development and deployment.
 They also discuss the importance of GitOps and shifting it left to include machine management, highlighting the potential for Flux to automate infrastructure updates and ensure consistent versions across teams.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

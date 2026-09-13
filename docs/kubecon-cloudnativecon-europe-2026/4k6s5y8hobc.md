@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Evolution or Revolution: Istio as the Network Platform for Cloud Nat... Mitch
+  Connors & Daniel Grimm"
+nav_order: 105
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Evolution or Revolution: Istio as the Network Platform for Cloud Nat... Mitch Connors & Daniel Grimm"
-description: "In this STO maintainer track talk, presenters Mitch Connors and Daniel provide an overview of the evolution of the ISTIO project, discussing whether recent changes represent an evolution or a revolution. They recount ISTIO’s history from it..."
+description:
+  In this STO maintainer track talk, presenters Mitch Connors and Daniel
+  provide an overview of the evolution of the ISTIO project, discussing whether recent
+  changes represent an evolution or a revolution. They recount ISTIO’s history from
+  it...
 resource: https://www.youtube.com/watch?v=4K6s5y8HoBc
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They recount ISTIO’s history from its 2017 launch, highlighting key milestones
 The talk covers recent developments, including support for Gateway API inference extensions to better handle large language model workloads, efforts to simplify ingress-only installations, and the growing use of Ztunnel outside ISTIO by projects like Calico and Cilium.
 They also detail improvements in multicluster networking, achieving both scalability and end-to-end security through double MTLS tunneling, and announce integration with the Agent Gateway project for agentic networking use cases.
 The presenters emphasize the project’s ongoing health, steady contributor engagement, and the increasing impact of power user contributors, inviting more community involvement to address emerging needs and challenges.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

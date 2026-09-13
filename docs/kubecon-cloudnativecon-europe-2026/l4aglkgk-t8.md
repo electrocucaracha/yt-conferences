@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: youki: What’s New and What’s Next? - Yusuke Sakurai,
+  Reviewer"
+nav_order: 301
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: youki: What’s New and What’s Next? - Yusuke Sakurai, Reviewer"
-description: "Yusuke Sakai, a maintainer of Yoki, provides an update on the project's recent developments and future plans. Yoki is an OCI-compliant, low-level container runtime that has grown beyond its experimental phase, now serving as a practical com..."
+description:
+  Yusuke Sakai, a maintainer of Yoki, provides an update on the project's
+  recent developments and future plans. Yoki is an OCI-compliant, low-level container
+  runtime that has grown beyond its experimental phase, now serving as a practical
+  com...
 resource: https://www.youtube.com/watch?v=L4AgLkGk_T8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Yoki is an OCI-compliant, low-level container runtime that has grown beyond its 
 Recent updates include support for net devices and Linux memory policy, improved compatibility with other runtimes and the OCI specification, expanded testing, and various bug fixes and security improvements.
 Looking ahead to version 1.0.0, the roadmap focuses on enhancing real-world compatibility with other runtimes, integrating microVM-based container execution for stronger isolation, and simplifying Kubernetes adoption through easier deployment methods.
 These efforts aim to make Yoki more practical, reliable, and accessible for broader use.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

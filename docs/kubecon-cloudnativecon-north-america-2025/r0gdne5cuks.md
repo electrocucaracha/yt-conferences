@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Multi-Cluster Wars: The Scheduler Awakens - Dejan Pejchev & Priyanka Ravi,
+  G-Research"
+nav_order: 173
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Multi-Cluster Wars: The Scheduler Awakens - Dejan Pejchev & Priyanka Ravi, G-Research"
-description: "In this talk, Dan Pachev and Priyanka Ravi discuss the importance of batch scheduling and the limitations of single-cluster setups, such as performance bottlenecks, control plane pressure, single points of failure, and data locality challen..."
+description:
+  In this talk, Dan Pachev and Priyanka Ravi discuss the importance of
+  batch scheduling and the limitations of single-cluster setups, such as performance
+  bottlenecks, control plane pressure, single points of failure, and data locality
+  challen...
 resource: https://www.youtube.com/watch?v=R0gDne5CuKs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain how multicluster scheduling addresses these issues by improving hig
 The presenters then provide a deep dive into three multicluster batch schedulers: Volcano Global, which leverages Carmada for multicluster control and placement; MultiQ, a Kubernetes-native scheduler that uses admission checks and resource mirroring for seamless multicluster operation; and Armada, designed for high-throughput, large-scale scheduling with an event-driven architecture and robust preemption and fairness mechanisms.
 The session concludes with a Q&A, clarifying technical details such as resource reservation in MultiQ and confirming that Armada supports running a single workload across multiple clusters.
 The presenters emphasize that multicluster scheduling brings balance and efficiency to large-scale compute environments, likening it to opening multiple doors to ease congestion.
+
 # Main Points
 
 |   # | Main point                                                                                                         |

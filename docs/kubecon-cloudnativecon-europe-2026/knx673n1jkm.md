@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Optimize Sidecarless Service Mesh With A Brand-New
+  Rust-Base... Zengzeng Yao"
+nav_order: 284
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Optimize Sidecarless Service Mesh With A Brand-New Rust-Base... Zengzeng Yao"
-description: "Yaoenzen from Huawei introduces a new approach to optimizing service mesh performance using Kmesh, an eBPF-based traffic management engine, and Orion, a Rust-based proxy. Traditional sidecar service meshes have issues such as tight applicat..."
+description:
+  Yaoenzen from Huawei introduces a new approach to optimizing service
+  mesh performance using Kmesh, an eBPF-based traffic management engine, and Orion,
+  a Rust-based proxy. Traditional sidecar service meshes have issues such as tight
+  applicat...
 resource: https://www.youtube.com/watch?v=knX673N1jKM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Traditional sidecar service meshes have issues such as tight application couplin
 Kmesh addresses these by offering kernel-native and dual-engine modes, with the latter offloading L4 processing to the kernel and handling L7 tasks in user space for a balance of performance and versatility.
 Orion, developed in Rust for memory safety and efficiency, replaces Envoy as the L7 waypoint proxy, implementing only essential APIs and filters to remain lightweight and maintainable.
 Benchmarks show Orion achieves 2–4 times higher throughput and significantly lower latency than Envoy, and it integrates natively with Kmesh, aiming to deliver a high-performance, safe, and streamlined service mesh solution without legacy complexity.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                            |

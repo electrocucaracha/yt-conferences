@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "From Metal To Apps: LinkedIn’s Kubernetes-based Compute Platform - Ahmet Alp
+  Balkan & Ronak Nathani"
+nav_order: 105
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "From Metal To Apps: LinkedIn’s Kubernetes-based Compute Platform - Ahmet Alp Balkan & Ronak Nathani"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=dDkXFuy45EA
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: The speaker, Ron, di
 The platform consists of three layers: infrastructure as a service, Kubernetes cluster management, and workload platform layer.
 LinkedIn uses custom resources, such as LI deployments and stateful sets, to manage applications on top of Kubernetes, with features like auto-scaling, quota systems, and in-house CSI drivers for managing bare metal servers.
 The company has successfully migrated over half its stateless fleet to Kubernetes without downtime, and is now planning to federate workloads across multiple clusters.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

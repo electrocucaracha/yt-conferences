@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Kubernetes Security at Shopify Scale: Automating Security Across an Infrastr...
+  Jie Wu & Pulkit Garg"
+nav_order: 195
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Kubernetes Security at Shopify Scale: Automating Security Across an Infrastr... Jie Wu & Pulkit Garg"
-description: "In this presentation, Jay and Pulkit from Shopify’s infrastructure security team describe how they secure Kubernetes at scale for millions of merchants. They explain that Shopify operates hundreds of Kubernetes clusters and processes nearly..."
+description:
+  In this presentation, Jay and Pulkit from Shopify’s infrastructure security
+  team describe how they secure Kubernetes at scale for millions of merchants. They
+  explain that Shopify operates hundreds of Kubernetes clusters and processes nearly...
 resource: https://www.youtube.com/watch?v=fBEG2kag4Aw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that Shopify operates hundreds of Kubernetes clusters and processes
 To address this, they implemented automated static code analysis using an open-source tool called Semgrep, which scans pull requests for critical misconfigurations—such as privileged containers, missing resource limits, and insecure host access—before code is merged.
 They emphasize the importance of balancing security with developer productivity by providing clear, actionable guidance and documentation, and by iteratively refining rules with the help of AI to reduce false positives and ensure relevance.
 The team also uses OPA for policy enforcement beyond Kubernetes, and highlights the value of collaboration, continuous improvement, and making the secure path the easiest for developers, resulting in a significant reduction in incidents and improved overall security posture.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

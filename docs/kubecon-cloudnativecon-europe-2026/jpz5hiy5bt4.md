@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: KubeEdge Everywhere: From Graduation To Global Adoption
+  - Yue Bao"
+nav_order: 273
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: KubeEdge Everywhere: From Graduation To Global Adoption - Yue Bao"
-description: "Hin, a member of the technical steering committee for KubeEdge, introduces the project as the first cloud-native edge computing open-source initiative, launched in 2018 and graduating in 2024 after significant global contributions. KubeEdge..."
+description:
+  Hin, a member of the technical steering committee for KubeEdge, introduces
+  the project as the first cloud-native edge computing open-source initiative, launched
+  in 2018 and graduating in 2024 after significant global contributions. KubeEdge...
 resource: https://www.youtube.com/watch?v=jPz5hIy5Bt4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ KubeEdge extends Kubernetes to edge scenarios by providing a lightweight, custom
 The project includes a subproject, Sedna, which facilitates cloud and edge AI collaboration, supporting unified data management and advanced AI techniques like federated and lifelong learning.
 KubeEdge is widely adopted across industries such as transportation, energy, industrial sectors, and satellite networks, with use cases including satellite data processing, new energy vehicle battery prediction, and cloud-native robotics.
 The overarching goal is to make cloud-native technologies ubiquitous, and the community is encouraged to participate via GitHub.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

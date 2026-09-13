@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How the SIG-Multicluster API Specifications Are Used for Real World... August
+  Simonelli & Ryan Zhang
+nav_order: 127
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "How the SIG-Multicluster API Specifications Are Used for Real World... August Simonelli & Ryan Zhang"
-description: "The SIG multicluster API specifications are used for real-world multicluster management, and August Simonelli from Red Hat will discuss the standards and their implementation in the open cluster management project (OCM) and Kubby Fleet. The..."
+description:
+  The SIG multicluster API specifications are used for real-world multicluster
+  management, and August Simonelli from Red Hat will discuss the standards and their
+  implementation in the open cluster management project (OCM) and Kubby Fleet. The...
 resource: https://www.youtube.com/watch?v=I9GV4N23dvE
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +26,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 The SIG multicluster API specifications are used for real-world multicluster management, and August Simonelli from Red Hat will discuss the standards and their implementation in the open cluster management project (OCM) and Kubby Fleet.
 The OCM project provides a single pane of glass for managing multiple clusters, while Kubby Fleet is a recently contributed CNCF project that offers similar functionality with additional features such as scheduling capabilities and property-based scheduling.
 The two projects will demonstrate how to deploy workloads across multiple clusters using the multicluster service API and placement, respectively.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

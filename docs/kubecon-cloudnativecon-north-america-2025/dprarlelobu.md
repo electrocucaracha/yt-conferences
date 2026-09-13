@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Lightning Talk: Tracing the Untraceable: OpenTelemetry for ‘Vibe-Coded’ LLM
+  Apps - Pranay Prateek"
+nav_order: 154
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Lightning Talk: Tracing the Untraceable: OpenTelemetry for ‘Vibe-Coded’ LLM Apps - Pranay Prateek"
-description: "Prane, a co-founder of Signos, introduces the importance of tracing and monitoring large language model (LLM) applications using open telemetry, an open-source standard that avoids vendor lock-in and is rapidly growing in popularity. He exp..."
+description:
+  Prane, a co-founder of Signos, introduces the importance of tracing and
+  monitoring large language model (LLM) applications using open telemetry, an open-source
+  standard that avoids vendor lock-in and is rapidly growing in popularity. He exp...
 resource: https://www.youtube.com/watch?v=dprArlELOBU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that LLM apps are often black boxes with unpredictable behaviors tha
 Through a demo, Prane shows how Signos, built on open telemetry, can monitor a LangChain-based LLM app to identify bottlenecks such as backend slowdowns, server errors, or LLM rate limits, and detect issues like infinite loops or excessive tool calls.
 He emphasizes that open telemetry enables real-time monitoring of metrics like latency, error rates, and tool usage without relying on third-party vendors, allowing developers to set effective alerts and guardrails.
 Prane concludes by encouraging the audience to adopt open telemetry for better insight and reliability in LLM applications.
+
 # Main Points
 
 |   # | Main point                                                                                                                 |

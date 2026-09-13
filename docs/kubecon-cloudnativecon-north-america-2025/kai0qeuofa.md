@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Node Manager - How Yahoo Manages Thousands of Nodes at Scale? - Payal Patel,
+  Yahoo
+nav_order: 180
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Node Manager - How Yahoo Manages Thousands of Nodes at Scale? - Payal Patel, Yahoo"
-description: "Piyal Patel, a principal software development engineer at Yahoo, presents on Yahoo's Node Manager, a Kubernetes operator designed to automate and control maintenance and remediation tasks across thousands of on-premises and cloud-based Kube..."
+description:
+  Piyal Patel, a principal software development engineer at Yahoo, presents
+  on Yahoo's Node Manager, a Kubernetes operator designed to automate and control
+  maintenance and remediation tasks across thousands of on-premises and cloud-based
+  Kube...
 resource: https://www.youtube.com/watch?v=_kAI0qEuoFA
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +31,7 @@ The system consists of a custom resource for configuration, a controller for orc
 For auto-remediation, Yahoo leverages the open-source Node Problem Detector to identify issues, then uses the same operator framework to cordon, drain, and repair nodes in a controlled manner, with metrics and visualizations provided via Prometheus and Grafana.
 Patel highlights that automation has significantly reduced maintenance time, improved reliability, and provided valuable operational insights, while also addressing challenges such as pod disruption budgets, stateful workloads, and debugging failed actions.
 The session concludes with a Q&A covering technical details, open sourcing plans, and operational best practices.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

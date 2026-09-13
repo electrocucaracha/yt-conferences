@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Right-sized Access Control & Pull with Proof - Stanislav Láznička & Lucas Käldström
+nav_order: 310
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Right-sized Access Control & Pull with Proof - Stanislav Láznička & Lucas Käldström"
-description: "In this presentation, Stlaznichka and Lucas Chastra discuss recent enhancements in Kubernetes, focusing on improvements to image pulling and authorization mechanisms. The first part details changes to how Kubernetes handles private image pu..."
+description:
+  In this presentation, Stlaznichka and Lucas Chastra discuss recent enhancements
+  in Kubernetes, focusing on improvements to image pulling and authorization mechanisms.
+  The first part details changes to how Kubernetes handles private image pu...
 resource: https://www.youtube.com/watch?v=7aRWwlU_ewE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ The first part details changes to how Kubernetes handles private image pulls, in
 This addresses a security issue where previously pulled private images could be accessed without credentials under certain policies, and introduces configurable verification policies for pre-loaded and pulled images.
 The second part introduces a new conditional authorization model, allowing more fine-grained access control by enabling policies that can express conditions (such as allowing actions only on specific resources or fields), and propagating these conditions through the authorization and admission phases.
 This unified approach aims to make Kubernetes authorization more flexible and expressive, with ongoing work and community feedback encouraged for future improvements.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

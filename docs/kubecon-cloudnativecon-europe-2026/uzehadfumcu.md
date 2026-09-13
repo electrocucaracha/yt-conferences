@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Keynote: Rules of the Road for Shared GPUs: AI Inference Scheduling at Wayve
+  - Mukund Muralikrishnan"
+nav_order: 182
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: Rules of the Road for Shared GPUs: AI Inference Scheduling at Wayve - Mukund Muralikrishnan"
-description: "The speaker from Wave discusses their work in developing end-to-end AI for autonomous driving, emphasizing the need to process vast amounts of driving data collected daily from their fleet and partners. To handle this, they operate large Ku..."
+description:
+  The speaker from Wave discusses their work in developing end-to-end AI
+  for autonomous driving, emphasizing the need to process vast amounts of driving
+  data collected daily from their fleet and partners. To handle this, they operate
+  large Ku...
 resource: https://www.youtube.com/watch?v=uZeHADfumCU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ To handle this, they operate large Kubernetes clusters across Azure regions, run
 They recently adopted Kueue, a Kubernetes-native job queuing system, which improved GPU cluster utilization from 85% to over 95% and significantly reduced wait times for all teams, especially smaller ones.
 Kueue enabled fair resource allocation without requiring code changes and maintained high scheduler performance even during heavy workload bursts.
 The speaker encourages attendees to learn more about Kueue at KubeCon and invites those interested in Wave’s work to connect with them at the event.
+
 # Main Points
 
 |   # | Main point                                                                                                        |

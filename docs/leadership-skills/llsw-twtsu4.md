@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Engineer Career Coach Shares Secrets on How to Apply Up and Get Promoted Part
+  2 of 2
+nav_order: 13
+parent: Leadership Skills
 type: Video Note
-title: "Engineer Career Coach Shares Secrets on How to Apply Up and Get Promoted Part 2 of 2"
-description: "The video provides comprehensive advice for professionals aiming to move up one level in their careers, such as transitioning from individual contributor to manager or from manager to director. The key strategies discussed include focusing..."
+description:
+  The video provides comprehensive advice for professionals aiming to move
+  up one level in their careers, such as transitioning from individual contributor
+  to manager or from manager to director. The key strategies discussed include focusing...
 resource: https://www.youtube.com/watch?v=llSw-twtsU4
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The key strategies discussed include focusing resumes, LinkedIn profiles, and in
 The speakers emphasize the importance of aligning your personal brand and purpose with the company's mission, demonstrating genuine care and understanding of the company's challenges, and communicating in a way that highlights benefits to the employer.
 They also explain the modern job search landscape, noting that most positions are filled through internal promotions, referrals, and networking—especially via LinkedIn—rather than online applications, and recommend targeting hiring managers or directors directly.
 Finally, they stress the value of confidence, influence, and building authentic connections, advising candidates to research industry challenges, engage with companies on social media, and tailor their approach to the specific problems and goals of their target organizations.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

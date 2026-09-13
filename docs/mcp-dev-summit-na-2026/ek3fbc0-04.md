@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "MCP Servers in the Wild: Managing Tool Complexity at Scale - Arnav Balyan,
+  Concierge AI"
+nav_order: 58
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "MCP Servers in the Wild: Managing Tool Complexity at Scale - Arnav Balyan, Concierge AI"
-description: "The speaker discusses strategies for managing MCP servers as tool complexity increases, highlighting two main challenges: large tool descriptions and schemas that can exceed model context windows, and the need for servers to guide tool sele..."
+description:
+  "The speaker discusses strategies for managing MCP servers as tool complexity
+  increases, highlighting two main challenges: large tool descriptions and schemas
+  that can exceed model context windows, and the need for servers to guide tool sele..."
 resource: https://www.youtube.com/watch?v=Ek3FbC0__04
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The speaker discusses strategies for managing MCP servers as tool complexity inc
 To address these, the speaker introduces patterns such as progressive tool disclosure (grouping tools hierarchically and revealing them dynamically), code-based execution (using a sandbox for the model to process large tool outputs via code), and plan-based execution (having the model generate execution plans in JSON).
 The effectiveness of each approach depends on the number of tools and their dependencies: plain mode works best for fewer than 22 tools, search mode for over 50 stateless tools, and planner or code modes for tools with dependencies.
 The speaker also mentions emerging areas like generative UI and distribution challenges, and introduces the open-source Concurge SDK, which helps convert servers into these optimized representations with minimal effort.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                 |

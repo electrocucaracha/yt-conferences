@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The MCP Gateway Pattern: Aggregation, Composition, and Beyond - Juan Antonio
+  Osorio, Stacklok"
+nav_order: 92
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "The MCP Gateway Pattern: Aggregation, Composition, and Beyond - Juan Antonio Osorio, Stacklok"
-description: 'The speaker, Juan Antonio ("Oz"), introduces the topic of MCP gateways, discussing their similarities and differences with traditional API gateways, particularly in the context of scaling, security, and integration with large language model...'
+description:
+  The speaker, Juan Antonio ("Oz"), introduces the topic of MCP gateways,
+  discussing their similarities and differences with traditional API gateways, particularly
+  in the context of scaling, security, and integration with large language model...
 resource: https://www.youtube.com/watch?v=kF8EXMglZKs
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He emphasizes that while many established gateway patterns still apply, MCP gate
 Oz demonstrates how gateways can compose workflows and meta-tools to reduce context bloat and improve agent efficiency, using examples from his own projects and showing how agents interact with these tools through a live demo.
 He also touches on authentication strategies, token exchange, and the potential for gateways to support code-based tool composition, noting emerging patterns and ongoing community collaboration around the MCP specification.
 The talk concludes with an invitation to participate in a survey and a Q&A session.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

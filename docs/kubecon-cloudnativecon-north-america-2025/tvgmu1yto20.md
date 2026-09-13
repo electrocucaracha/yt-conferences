@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  'Capabilities, APIs, and Experiences: Blueprints To Bu... Kyle Penfound & Mauricio
+  "Salaboy" Salatino'
+nav_order: 39
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: 'Capabilities, APIs, and Experiences: Blueprints To Bu... Kyle Penfound & Mauricio "Salaboy" Salatino'
-description: "In this talk, Kyle discusses the challenges and strategies involved in building modular, interoperable platforms, particularly in the context of Kubernetes and the broader cloud-native ecosystem. He emphasizes that while the Kubernetes API..."
+description:
+  In this talk, Kyle discusses the challenges and strategies involved in
+  building modular, interoperable platforms, particularly in the context of Kubernetes
+  and the broader cloud-native ecosystem. He emphasizes that while the Kubernetes
+  API...
 resource: https://www.youtube.com/watch?v=tvgMu1yTo20
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He emphasizes that while the Kubernetes API has enabled a vast ecosystem of tool
 Kyle introduces the concept of thinking about platforms as "sandwiches"—where components can be easily swapped or modified—rather than "soups," where everything is mixed together and hard to change.
 He highlights the importance of focusing on capabilities rather than specific tools, advocating for the use of common interfaces within categories of platform components to enable flexibility and easier upgrades.
 Kyle demonstrates these ideas with a demo using Dagger and references the Kenoi project, which provides reference architectures and an IDP builder for modular platform construction, concluding that standard APIs and modular design lead to healthier, more adaptable platforms.
+
 # Main Points
 
 |   # | Main point                                                                                                                                      |

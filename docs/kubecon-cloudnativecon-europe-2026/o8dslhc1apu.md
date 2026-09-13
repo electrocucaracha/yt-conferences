@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: What's New And Exciting In Kagent? - Peter Jausovec,
+  Maintainer"
+nav_order: 297
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: What's New And Exciting In Kagent? - Peter Jausovec, Maintainer"
-description: "Peter, a maintainer from Solo, introduces K agent, an open-source framework for running AI agents in Kubernetes, which has been part of the CNCF since last year and has seen over 130 releases, 2,400 stars, and more than 100 contributors. K..."
+description:
+  Peter, a maintainer from Solo, introduces K agent, an open-source framework
+  for running AI agents in Kubernetes, which has been part of the CNCF since last
+  year and has seen over 130 releases, 2,400 stars, and more than 100 contributors.
+  K...
 resource: https://www.youtube.com/watch?v=O8DslhC1ApU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ K agent consists of a Go controller, database, UI, CLI, and several CRDs, allowi
 The framework supports multiple AI models, including OpenAI, Anthropic, Azure, AWS Bedrock, Colama, and AI gateways, and offers features like prompt templates, tool selection, and integration with MCP servers for tool discovery.
 Recent enhancements include human-in-the-loop functionality, long-term memory storage, built-in prompts and templates, Python and Go runtime options, git-based skill fetching, distributed tracing, and voice support.
 Peter invites viewers to try K agent, join the community, and attend their upcoming talk at Contrifest.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: MCP Routing In Linkerd - Flynn, Technical Evangelist"
-description: "Flynn, a technical evangelist for the Linkerd project, discusses MCP routing in Linkerd, a service mesh that enhances application security, reliability, and observability. He explains that MCP is a protocol enabling agents to access externa..."
+nav_order: 275
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Flynn, a technical evangelist for the Linkerd project, discusses MCP
+  routing in Linkerd, a service mesh that enhances application security, reliability,
+  and observability. He explains that MCP is a protocol enabling agents to access
+  externa...
 resource: https://www.youtube.com/watch?v=tb8rSQz1MGE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He explains that MCP is a protocol enabling agents to access external tools, and
 Implementing MCP routing in Linkerd required handling stateful routing, as MCP sessions must consistently connect to the same server, and dealing with the protocol’s use of JSON-RPC inside HTTP, where critical information and errors are found in the body rather than headers.
 This necessitated advanced payload processing and the ability to parse JSON-RPC, as well as new approaches to authentication and routing based on specific tools.
 Flynn concludes by mentioning the introduction of a new resource called MCP route and invites further discussion at the Linkerd booth.
+
 # Main Points
 
 |   # | Main point                                                                                         |

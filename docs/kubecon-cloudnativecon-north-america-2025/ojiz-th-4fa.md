@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "CRI-O: Thriving in a Changing World, One Container at a Time - Ayato Tokubi
+  & Sohan Kunkerkar"
+nav_order: 37
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "CRI-O: Thriving in a Changing World, One Container at a Time - Ayato Tokubi & Sohan Kunkerkar"
-description: "The presenters, San Kerkar and Ayatkobi from Red Hat, discuss the past year of Cryo development at CubeCon, focusing on lessons learned, new features, and future plans. They explain Cryo as a Kubernetes-specific container runtime that empha..."
+description:
+  The presenters, San Kerkar and Ayatkobi from Red Hat, discuss the past
+  year of Cryo development at CubeCon, focusing on lessons learned, new features,
+  and future plans. They explain Cryo as a Kubernetes-specific container runtime that
+  empha...
 resource: https://www.youtube.com/watch?v=OjIZ-TH-4FA
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Key topics include the transition to "crun" as the default runtime for improved 
 They introduce the Cryo Credential Provider, which enables secure, namespace-specific image pulls in multi-tenant environments, and outline recent upstream initiatives such as in-place pod vertical scaling, custom container stop signals, and enhanced metrics collection.
 A major new feature, OCI volume source, allows mounting OCI images and artifacts directly as container volumes, simplifying data access without extra tools.
 The session concludes with a look at Cryo’s roadmap, including expanded artifact support, security enhancements, and improved performance testing, and encourages community feedback and contributions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

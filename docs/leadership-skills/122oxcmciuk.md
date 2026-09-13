@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Influence Anybody to Do Anything in 5 Steps [Persuasion - Part 3 of 3]
+nav_order: 45
+parent: Leadership Skills
 type: Video Note
-title: "Influence Anybody to Do Anything in 5 Steps [Persuasion - Part 3 of 3]"
-description: "In this video, Doug Howard, a licensed structural engineer and engineering manager, explains that influence is not an innate talent but a skill anyone can develop using a scientific approach. He introduces a five-step process for influencin..."
+description:
+  In this video, Doug Howard, a licensed structural engineer and engineering
+  manager, explains that influence is not an innate talent but a skill anyone can
+  develop using a scientific approach. He introduces a five-step process for influencin...
 resource: https://www.youtube.com/watch?v=122oXcmciuk
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He introduces a five-step process for influencing others: clarify your goal, rem
 Doug emphasizes that most people make decisions based on emotions rather than logic, so effective influence requires appealing to their feelings and priorities.
 He demonstrates the process with practical examples, such as advocating for a student facing expulsion and seeking better feedback from a boss, showing how to tailor your approach to the other person's values.
 Doug encourages viewers to practice this framework in everyday situations to build confidence and effectiveness in influencing others.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "[Session] From Experiment to Enterprise: How Block Operationalized MCP at
+  Scale - Angie Jones, Block"
+nav_order: 11
+parent: Mcp Dev Summit Na 2025
 type: Video Note
-title: "[Session] From Experiment to Enterprise: How Block Operationalized MCP at Scale - Angie Jones, Block"
-description: "Angie Jones, head of developer relations at Block, describes how the company rapidly scaled its AI-powered agent, Goose, across its 12,000-person workforce in just two months. Initially developed for engineers to automate complex developmen..."
+description:
+  Angie Jones, head of developer relations at Block, describes how the
+  company rapidly scaled its AI-powered agent, Goose, across its 12,000-person workforce
+  in just two months. Initially developed for engineers to automate complex developmen...
 resource: https://www.youtube.com/watch?v=IDWqWdLESgY
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Initially developed for engineers to automate complex development tasks using th
 To support broader adoption, Block addressed challenges such as simplifying installation, bundling over 60 internal MCP servers, improving context management, streamlining authentication with SSO, and fostering a supportive culture through Slack channels and educational initiatives.
 These efforts enabled employees from diverse functions—including sales, legal, marketing, and customer service—to leverage Goose for tasks like querying data, automating workflows, and navigating internal processes, resulting in increased efficiency and creativity across the organization.
 Block’s experience demonstrates how thoughtful technical and cultural strategies can drive inclusive, responsible AI adoption at enterprise scale.
+
 # Main Points
 
 |   # | Main point                                                                                                            |

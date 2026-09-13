@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Ulysses’ Odyssey Through Platform Engineering - William Rizzo, Mirantis
+nav_order: 330
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Ulysses’ Odyssey Through Platform Engineering - William Rizzo, Mirantis"
-description: "In this talk, William Ritzo draws parallels between the challenges faced by platform engineers and the obstacles encountered by Ulysses in the Odyssey, using mythological references to illustrate common pitfalls in building and maintaining..."
+description:
+  In this talk, William Ritzo draws parallels between the challenges faced
+  by platform engineers and the obstacles encountered by Ulysses in the Odyssey, using
+  mythological references to illustrate common pitfalls in building and maintaining...
 resource: https://www.youtube.com/watch?v=v9mBzrPLvNc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He discusses how distractions, inertia, and organizational structures like enter
 Integration complexity is compared to the Cyclops, while the risk of platform engineers becoming mere maintenance crews is illustrated through the story of Circe.
 Ritzo emphasizes the importance of setting measurable goals, involving both business and users in evaluating return on investment, and warns against blindly following industry trends, as symbolized by the Sirens.
 He concludes by advocating for iterative development, strong collaboration between developers and platform engineers, and balancing technical and cultural aspects to achieve a mature, self-service platform, ultimately highlighting resilience and continuous learning as keys to success.
+
 # Main Points
 
 |   # | Main point                                                                                                                            |

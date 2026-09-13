@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Multi-Network Step-by-Step: Enabling SR-IOV Support From Kubernetes... Masaharu
+  Kanda & Lionel Jouin"
+nav_order: 220
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Multi-Network Step-by-Step: Enabling SR-IOV Support From Kubernetes... Masaharu Kanda & Lionel Jouin"
-description: "The presentation discusses the integration of SR-IOV (Single Root I/O Virtualization) in Kubernetes using the new model Kubernetes network driver, focusing on enabling multi-network support and advanced hardware-level networking features. S..."
+description:
+  The presentation discusses the integration of SR-IOV (Single Root I/O
+  Virtualization) in Kubernetes using the new model Kubernetes network driver, focusing
+  on enabling multi-network support and advanced hardware-level networking features.
+  S...
 resource: https://www.youtube.com/watch?v=vINwfpvvpKI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ SR-IOV allows a single physical network card to expose multiple virtual function
 The speakers detail how Kubernetes is evolving to treat networking as a first-class resource, leveraging Dynamic Resource Allocation (DRA) and new APIs like consumable capacity and partitionable devices to manage and allocate network bandwidth and VFs more flexibly.
 A live demo illustrates configuring and allocating VFs with specific bandwidths to pods, highlighting current limitations and the need for further enhancements, such as dynamic bandwidth requests at deployment time.
 The talk concludes with an overview of ongoing community efforts, available drivers, and upcoming Kubernetes enhancements aimed at making network resource management as flexible and integrated as CPU and memory, inviting contributions and questions from the audience.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

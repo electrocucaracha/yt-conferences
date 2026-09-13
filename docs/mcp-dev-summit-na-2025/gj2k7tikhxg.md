@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "[Session] Building and Deploying Remote MCP Servers with Dina Kozlov from
+  Cloudflare"
+nav_order: 9
+parent: Mcp Dev Summit Na 2025
 type: Video Note
-title: "[Session] Building and Deploying Remote MCP Servers with Dina Kozlov from Cloudflare"
-description: "Dina Coslov, a product manager at Cloudflare, shares her experience working with the engineering team to simplify building MCP (Multi-Client Platform) servers, emphasizing how easy it has become to create remote MCP servers that retain user..."
+description:
+  Dina Coslov, a product manager at Cloudflare, shares her experience working
+  with the engineering team to simplify building MCP (Multi-Client Platform) servers,
+  emphasizing how easy it has become to create remote MCP servers that retain user...
 resource: https://www.youtube.com/watch?v=gJ2K7tIKhxg
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ She recounts her initial excitement using MCP to deploy code with Claude and hig
 Demonstrating her own MCP server, Best Reads, she shows how it tracks user preferences and book history to provide tailored recommendations, leveraging Cloudflare’s durable objects for built-in, per-user storage and context.
 Coslov explains that deploying MCP servers on Cloudflare is straightforward, with built-in support for remote transport methods and automatic scaling, and encourages attendees to try building their own using provided examples and documentation.
 She concludes by promising to share her Best Reads MCP server code on GitHub, inviting others to experiment and innovate with these tools.
+
 # Main Points
 
 |   # | Main point                                                                                                                  |

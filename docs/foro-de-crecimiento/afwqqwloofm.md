@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Experto en riqueza: ¡No compres una casa! Haz esto mejor | Fernando Palacio"
-description: "En esta extensa entrevista, Fernando Palacio, empresario y coach financiero, comparte estrategias clave para alcanzar la libertad financiera, enfatizando la importancia de tomar el control de las finanzas personales mediante la elaboración..."
+nav_order: 46
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En esta extensa entrevista, Fernando Palacio, empresario y coach financiero,
+  comparte estrategias clave para alcanzar la libertad financiera, enfatizando la
+  importancia de tomar el control de las finanzas personales mediante la elaboración...
 resource: https://www.youtube.com/watch?v=afWqQwLOOFM
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Destaca la relevancia de invertir de manera informada y directa, evitando interm
 Fernando recomienda diversificar las inversiones en tres niveles: seguridad (fondos de emergencia y retiro), rentabilidad (activos que generen ingresos pasivos como bienes raíces y dividendos) y expansión (inversiones de mayor riesgo como criptomonedas), asignando a cada uno un porcentaje según la etapa de vida y tolerancia al riesgo.
 Además, subraya la importancia de la educación financiera, la comunicación y visión compartida en pareja, y el inicio temprano en la inversión para aprovechar el interés compuesto.
 Finalmente, anima a los emprendedores a destinar parte de sus ingresos a inversiones que les permitan construir un futuro de tranquilidad y libertad.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                   |

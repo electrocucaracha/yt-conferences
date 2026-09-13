@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Keynote: How Ubisoft Orchestrates Global Multiplayer Games wit... Jean-François
+  Hubert & Mark Mandel"
+nav_order: 175
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: How Ubisoft Orchestrates Global Multiplayer Games wit... Jean-François Hubert & Mark Mandel"
-description: "Jean-François, Software Development Director at Ubisoft, and Mark Mandel, founder of Agones, discuss how they have built a global multiplayer infrastructure by leveraging cloud-native and open-source technologies, specifically Kubernetes an..."
+description:
+  Jean-François, Software Development Director at Ubisoft, and Mark Mandel,
+  founder of Agones, discuss how they have built a global multiplayer infrastructure
+  by leveraging cloud-native and open-source technologies, specifically Kubernetes
+  an...
 resource: https://www.youtube.com/watch?v=MUOd6IoLC5Q
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Instead of creating custom integrations for each cloud provider, they adopted a 
 Agones, an open-source project now part of the CNCF sandbox, enables Kubernetes to host, scale, and orchestrate authoritative multiplayer game servers, which is crucial for real-time gameplay where low latency and global server placement are essential.
 This architecture was successfully used in the global launch of Rainbow Six Mobile, allowing Ubisoft to dynamically adapt to regional demand and ensure a stable, scalable experience for millions of players.
 Agones has become widely adopted in the industry, with many contributors, and both speakers encourage others to learn more and get involved.
+
 # Main Points
 
 |   # | Main point                                                                                                                              |

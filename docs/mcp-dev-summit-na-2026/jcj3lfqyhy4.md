@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Sponsored Session: Agents and MCP @ Google Scale - Alan Blount & Vaibhav Katkade,
+  Google Cloud"
+nav_order: 84
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Sponsored Session: Agents and MCP @ Google Scale - Alan Blount & Vaibhav Katkade, Google Cloud"
-description: "In this presentation, Alan Blunt, a technical product manager at Google Cloud AI, and his colleague Bob provide an overview of how Google extensively uses MCP (Model Control Protocol) across its infrastructure and products. Alan describes t..."
+description:
+  In this presentation, Alan Blunt, a technical product manager at Google
+  Cloud AI, and his colleague Bob provide an overview of how Google extensively uses
+  MCP (Model Control Protocol) across its infrastructure and products. Alan describes
+  t...
 resource: https://www.youtube.com/watch?v=jCJ3LfqyHy4
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Alan describes the broad integration of MCP in agent development, highlighting t
 He emphasizes the flexibility and openness of Google’s platform, allowing developers to use MCP alongside other tools, and notes the importance of infrastructure, security, and governance in scaling agentic applications.
 Bob then details the security and governance features built into Google’s MCP servers, such as authentication, fine-grained access control, AI guardrails, and logging, as well as the use of Envoy proxies to manage and secure agent protocol traffic.
 The session concludes with an invitation to further discussions and learning opportunities about building secure, scalable, and governed agentic systems using MCP within Google’s ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                      |

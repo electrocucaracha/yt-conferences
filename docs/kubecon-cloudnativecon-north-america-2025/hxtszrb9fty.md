@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Safely Sourcing OSS - Beyond 0 CVEs - John Kjell, ControlPlane
+nav_order: 271
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Safely Sourcing OSS - Beyond 0 CVEs - John Kjell, ControlPlane"
-description: "The speaker begins by sharing personal experiences and background in open source and security, then introduces the topic of safely sourcing open source software beyond simply seeking zero CVEs (Common Vulnerabilities and Exposures). Using a..."
+description:
+  The speaker begins by sharing personal experiences and background in
+  open source and security, then introduces the topic of safely sourcing open source
+  software beyond simply seeking zero CVEs (Common Vulnerabilities and Exposures).
+  Using a...
 resource: https://www.youtube.com/watch?v=hxtSzRB9FtY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Using a fictional story about an open source project, the talk highlights the ec
 The speaker emphasizes that true security and sustainability require active investment and contribution to open source projects, not just consumption.
 Foundations like the OpenSSF and CNCF provide governance, legal, and technical support, while tools and standards such as SBOMs, Salsa, and Scorecards help projects and users improve security and compliance.
 Ultimately, the speaker urges the audience to support open source communities, adopt best practices, and recognize that the real adversaries are security threats, not the maintainers or vendors, and that collaboration and transparency are key to a safer software ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "K8s-sigs NFD × SYLVA: Declarative Image-to-Node Compatibi... Eduardo Arango
+  Gutierrez & Chaoyi Huang"
+nav_order: 161
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "K8s-sigs NFD × SYLVA: Declarative Image-to-Node Compatibi... Eduardo Arango Gutierrez & Chaoyi Huang"
-description: "The presentation discusses a collaborative project between the Kubernetes community, the Node Feature Discovery (NFD) maintainers, and the Silva Foundation to address the challenge of deploying containers across highly heterogeneous hardwar..."
+description:
+  The presentation discusses a collaborative project between the Kubernetes
+  community, the Node Feature Discovery (NFD) maintainers, and the Silva Foundation
+  to address the challenge of deploying containers across highly heterogeneous hardwar...
 resource: https://www.youtube.com/watch?v=GPnMIIfrmi0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The solution involves integrating NFD with Silva’s validation framework to cap
 This enables precise scheduling of containers to compatible nodes by matching image metadata with node features, reducing deployment failures and improving reliability, especially in environments with strict service level agreements.
 The approach supports multi-architecture images and allows for fine-grained control over deployments, benefiting both telecom operators and academic institutions with diverse hardware.
 The project is open for contributions, and further details are available in a Kubernetes blog post.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                        |

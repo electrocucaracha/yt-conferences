@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Tutorial: Attack Defense: Leverage eBPF To Reveal Attack Flows... Constanze
+  R, Markus G & Teodor P"
+nav_order: 378
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Tutorial: Attack Defense: Leverage eBPF To Reveal Attack Flows... Constanze R, Markus G & Teodor P"
-description: "The transcript details a CBPF attack-defense gamified workshop focused on Kubernetes security, where participants engage in both offensive and defensive roles using production-ready eBPF tools. The facilitators introduce key contributors an..."
+description:
+  The transcript details a CBPF attack-defense gamified workshop focused
+  on Kubernetes security, where participants engage in both offensive and defensive
+  roles using production-ready eBPF tools. The facilitators introduce key contributors
+  an...
 resource: https://www.youtube.com/watch?v=VA-ne25QX9g
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The facilitators introduce key contributors and tools such as Tetragon, Cubecape
 The workshop progresses through a series of "rooms," each simulating different stages of an attack chain, including initial access, environment discovery, credential access, lateral movement, and exploitation of vulnerabilities.
 Participants learn to detect and respond to various adversarial techniques using anomaly detection, signature rules, and protocol tracing, with emphasis on real-world tactics and the importance of monitoring for unexpected behaviors.
 The session concludes by encouraging attendees to continue exploring the labs, consult provided materials, and engage with tool maintainers for further learning.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

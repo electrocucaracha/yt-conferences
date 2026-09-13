@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Experto #1 en sueño: las causas reales del insomnio y cómo solucionarlo |
+  Eduard Estivill"
+nav_order: 31
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto #1 en sueño: las causas reales del insomnio y cómo solucionarlo | Eduard Estivill"
-description: "En esta extensa entrevista, el experto en sueño Edward Stevil, con más de 40 años de experiencia, explica la importancia fundamental del sueño para la salud física e intelectual, señalando que más del 30% de la población duerme mal y que el..."
+description:
+  En esta extensa entrevista, el experto en sueño Edward Stevil, con más
+  de 40 años de experiencia, explica la importancia fundamental del sueño para la
+  salud física e intelectual, señalando que más del 30% de la población duerme mal
+  y que el...
 resource: https://www.youtube.com/watch?v=9m3Md6RtIsk
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ En esta extensa entrevista, el experto en sueño Edward Stevil, con más de 40 a
 Stevil detalla cómo las necesidades de sueño varían según la edad y enfatiza que la calidad del descanso depende de rutinas diarias que incluyen horarios regulares, exposición a la luz natural, ejercicio matutino, cenas ligeras y evitar la luz azul antes de dormir.
 Aborda también temas como el impacto del estrés, el rol social de la mujer en el insomnio, las fases del sueño, la importancia de tratar los ronquidos y las apneas, y la influencia de dormir en pareja.
 Finalmente, destaca que todos los órganos del cuerpo se benefician de un buen descanso y que el sueño debe ser preparado durante el día, no solo esperado por la noche, ofreciendo recomendaciones prácticas para mejorar la calidad de vida a través de un sueño reparador.
+
 # Main Points
 
 |   # | Main point                                                                                                                                               |

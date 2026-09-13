@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Addressing Non-Deterministic Scheduling: Introducing... Ajay K, Sreeram V,
+  Karthik N & Priyanka S"
+nav_order: 15
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Addressing Non-Deterministic Scheduling: Introducing... Ajay K, Sreeram V, Karthik N & Priyanka S"
-description: "The presentation introduces the Node Readiness Controller (NRC), a new Kubernetes SIG Node subproject designed to address nondeterministic node scheduling by ensuring nodes are truly ready before workloads are assigned. The NRC acts as an o..."
+description:
+  The presentation introduces the Node Readiness Controller (NRC), a new
+  Kubernetes SIG Node subproject designed to address nondeterministic node scheduling
+  by ensuring nodes are truly ready before workloads are assigned. The NRC acts as
+  an o...
 resource: https://www.youtube.com/watch?v=oPHayi9ouRI
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The NRC acts as an out-of-band controller that coordinates between infrastructur
 The controller supports both "bootstrap only" and "continuous" enforcement modes, offers dry-run capabilities, and integrates with tools like Cluster Autoscaler and Mutating Admission Policies to avoid conflicts and deadlocks.
 Performance testing demonstrated NRC’s high throughput, low latency, and minimal resource usage, making it suitable for production environments.
 The team has also implemented security improvements, such as constrained impersonation, and invites community feedback and contributions as they continue to enhance the project’s scalability, usability, and integration with the broader Kubernetes ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                        |

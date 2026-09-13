@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Generalizing Kubernetes Controller Sharding: Patterns That Wo... Motohiro
+  Otsuka & Tomoyuki Nakamura"
+nav_order: 133
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Generalizing Kubernetes Controller Sharding: Patterns That Wo... Motohiro Otsuka & Tomoyuki Nakamura"
-description: "In this presentation, Tommoakamra and Moto Hiroka discuss their experience generalizing command control sharding within a large-scale internal Kubernetes-based platform at Li Corporation. They emphasize that sharding is an architectural dec..."
+description:
+  In this presentation, Tommoakamra and Moto Hiroka discuss their experience
+  generalizing command control sharding within a large-scale internal Kubernetes-based
+  platform at Li Corporation. They emphasize that sharding is an architectural dec...
 resource: https://www.youtube.com/watch?v=7qsOwyE_uOo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They emphasize that sharding is an architectural decision about replication boun
 Their initial attempt at namespace-level sharding led to severe resource amplification and operational issues due to the multiplicative effect of manager instances per namespace, prompting a pivot to label-based sharding for the app operator and cluster-based sharding for the deploy operator.
 This revised approach respected Kubernetes API semantics, fixed manager count per process, and stabilized shard identity, resulting in predictable resource usage and improved system stability.
 The speakers conclude with five general principles for sharding: work within API design, keep manager count fixed, choose sharding axis based on architecture, stabilize shard identity, and prioritize operational risk, noting that the optimal sharding method depends on the dominant dimension of a given architecture.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                |

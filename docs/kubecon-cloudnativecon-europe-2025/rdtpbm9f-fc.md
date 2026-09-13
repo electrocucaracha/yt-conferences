@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Helm 4 You - Matt Farina, SUSE & Andrew Block, Red Hat
+nav_order: 114
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Helm 4 You - Matt Farina, SUSE & Andrew Block, Red Hat"
-description: "Helm 4 is the latest version of the popular Kubernetes package manager, and it brings several significant changes and improvements, including breaking changes to make way for new features. The team behind Helm has been working on this updat..."
+description:
+  Helm 4 is the latest version of the popular Kubernetes package manager,
+  and it brings several significant changes and improvements, including breaking changes
+  to make way for new features. The team behind Helm has been working on this updat...
 resource: https://www.youtube.com/watch?v=rdTPbm9f_fc
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ The team behind Helm has been working on this update for five years, with a focu
 Some of the key features of Helm 4 include improved logging, pluggable rendering engines, and support for cosign signing.
 The team is also exploring ways to make Helm more extensible through plugins, including support for web assembly.
 Helm 3 will remain supported for a period of time, but its retirement timeline has not been officially announced.
+
 # Main Points
 
 |   # | Main point                                                                                              |

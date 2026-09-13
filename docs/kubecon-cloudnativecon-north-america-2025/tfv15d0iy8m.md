@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Flux - The GitLess GitOps Edition - Stefan Prodan, ControlPlane & Dipti Pai,
+  Microsoft
+nav_order: 81
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Flux - The GitLess GitOps Edition - Stefan Prodan, ControlPlane & Dipti Pai, Microsoft"
-description: 'The video features a discussion with Dipy, a Flux maintainer, about advancements in Flux and the concept of "Gitless GitOps." The presenters explain how traditional GitOps workflows rely on Git repositories and container registries to manag...'
+description:
+  The video features a discussion with Dipy, a Flux maintainer, about advancements
+  in Flux and the concept of "Gitless GitOps." The presenters explain how traditional
+  GitOps workflows rely on Git repositories and container registries to manag...
 resource: https://www.youtube.com/watch?v=TFv15d0iy8M
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The video features a discussion with Dipy, a Flux maintainer, about advancements
 This shift offers advantages in security, availability, and operational simplicity, including unified signing and verification of artifacts and reduced reliance on maintaining Git infrastructure in production.
 Dipy demonstrates how Flux integrates with cloud provider identity systems (OIDC) to enable passwordless, credential-free authentication for pulling and pushing resources, enhancing security and supporting multi-tenant scenarios.
 The session concludes with highlights of new features in Flux 2.7, such as the source watcher and artifact generator for improved monorepo support, and mentions upcoming integrations and a new status page UI for Flux users.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                    |

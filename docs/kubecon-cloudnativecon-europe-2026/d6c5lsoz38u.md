@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Inside Saxo Service Blueprint: Implementing Kubernetes Operators for Legacy
+  Ent... Oskar Kristiansen"
+nav_order: 153
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Inside Saxo Service Blueprint: Implementing Kubernetes Operators for Legacy Ent... Oskar Kristiansen"
-description: "Oscar Christensen, a senior enterprise platform engineer at Saxo Bank, describes the development of the Saxo service blueprint, a system designed to modernize and automate infrastructure and IAM provisioning using Kubernetes operators and G..."
+description:
+  Oscar Christensen, a senior enterprise platform engineer at Saxo Bank,
+  describes the development of the Saxo service blueprint, a system designed to modernize
+  and automate infrastructure and IAM provisioning using Kubernetes operators and
+  G...
 resource: https://www.youtube.com/watch?v=D6c5lsOz38U
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Saxo Bank, a complex and highly regulated financial institution with a mix of le
 The new approach allows developers to define service requirements in a YAML file, submit a pull request, and have the platform automatically handle provisioning across all environments, integrating with both cloud-native and traditional infrastructure.
 The system uses custom operators to manage resources such as namespaces, service accounts, Kafka ACLs, app registrations, and network policies, ensuring idempotency and supporting disaster recovery by leveraging Git as the source of truth.
 Transparency and developer experience are enhanced through integration with Backstage and an AI assistant, Eva, which provides real-time status and guidance, enabling a small team to efficiently manage complex infrastructure across multiple domains.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Scaling the Kubernetes Ecosystem: Uber's Approach to Cluster... Silvio Simunic
+  & Vadim Plakhtinskii"
+nav_order: 327
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Scaling the Kubernetes Ecosystem: Uber's Approach to Cluster... Silvio Simunic & Vadim Plakhtinskii"
-description: "Vadim and Sylvia present how Uber manages its large-scale Kubernetes clusters, highlighting the challenges and solutions developed for cluster lifecycle management. Initially, cluster provisioning at Uber was a manual, multi-week process in..."
+description:
+  Vadim and Sylvia present how Uber manages its large-scale Kubernetes
+  clusters, highlighting the challenges and solutions developed for cluster lifecycle
+  management. Initially, cluster provisioning at Uber was a manual, multi-week process
+  in...
 resource: https://www.youtube.com/watch?v=neexk5RZoyw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ To address this, their team automated the process by introducing a declarative c
 They built a custom Kubernetes operator framework to automate cluster provisioning, updates, and decommissioning, ensuring safety through layered approval, quarantine periods, concurrency limits, and integration with Uber’s internal systems.
 Their approach emphasizes safety, scalability, and flexibility, allowing for rapid, reliable cluster operations across hundreds of clusters and thousands of nodes, and has significantly reduced manual effort while integrating seamlessly with Uber’s infrastructure.
 The team chose to build their own solution due to Uber’s unique requirements and scale, and while they drew inspiration from open source projects, they found existing tools insufficient for their needs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                              |

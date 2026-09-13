@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Ping SRE? I Am the SRE! Awesome Fun I Had Drawing a Zine for Troubleshooting
+  Kubern... René Dudfield
+nav_order: 242
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Ping SRE? I Am the SRE! Awesome Fun I Had Drawing a Zine for Troubleshooting Kubern... René Dudfield"
-description: "The speaker introduces the concept of zines—small, DIY booklets often found in coffee shops or bookstores—and shares their personal experiences creating and using them, particularly for note-taking and troubleshooting in technical contexts..."
+description:
+  The speaker introduces the concept of zines—small, DIY booklets often
+  found in coffee shops or bookstores—and shares their personal experiences creating
+  and using them, particularly for note-taking and troubleshooting in technical contexts...
 resource: https://www.youtube.com/watch?v=p01JEOSfaTY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They describe how making zines, especially the 16-page format that requires only
 The talk includes a hands-on demonstration of folding and assembling a mini zine from a single sheet of paper, emphasizing the value of physical note-taking for memory and creativity.
 The speaker also highlights the communal aspect of sharing zines and suggests they can be a useful alternative to digital documentation, encouraging participants to try making and exchanging their own.
 The session concludes with thanks and an invitation to explore zine-making further.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

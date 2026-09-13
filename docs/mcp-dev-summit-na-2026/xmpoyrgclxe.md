@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Sponsored Session: The Self-Improving MCP Server: Agents in a Live Development
+  Loop - Enrico Toniato"
+nav_order: 87
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Sponsored Session: The Self-Improving MCP Server: Agents in a Live Development Loop - Enrico Toniato"
-description: "The speaker discusses the challenges of developing and maintaining MCP servers, emphasizing that while building these servers has become easier due to mature SDKs and frameworks, testing and ensuring consistent behavior across different cli..."
+description:
+  The speaker discusses the challenges of developing and maintaining MCP
+  servers, emphasizing that while building these servers has become easier due to
+  mature SDKs and frameworks, testing and ensuring consistent behavior across different
+  cli...
 resource: https://www.youtube.com/watch?v=XMPoyrgClxE
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Issues such as lack of monitoring, inconsistent user flows, and varying client i
 To address this, the speaker introduces a self-improving MCP server approach, where the agent itself can autonomously test and refine the server during development, CI/CD, and production monitoring stages, using open-source tools like MCPUs and an integrated inspector for live debugging and analytics.
 This approach aims to save developers time, improve reliability, and provide a better experience for both agents and end users.
 The speaker also highlights the open-source nature of their tools, ease of deployment, and support for developers, inviting attendees to try the platform and visit their booth for further engagement.
+
 # Main Points
 
 |   # | Main point                                                                                                          |

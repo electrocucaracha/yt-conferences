@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Optimizing LLM Inference for the Rest of Us - Abdel Sghiouar, Google
+nav_order: 238
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Optimizing LLM Inference for the Rest of Us - Abdel Sghiouar, Google"
-description: "In this talk, Abdel, a developer advocate at Google, discusses strategies for running large language models (LLMs) on Kubernetes, particularly for those without access to unlimited cloud resources. He explains that as LLMs grow in size and..."
+description:
+  In this talk, Abdel, a developer advocate at Google, discusses strategies
+  for running large language models (LLMs) on Kubernetes, particularly for those without
+  access to unlimited cloud resources. He explains that as LLMs grow in size and...
 resource: https://www.youtube.com/watch?v=xLum3amp6h0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +27,7 @@ Abdel outlines three main layers of optimization: the model itself (such as quan
 He highlights open-source tools like Spiegel for image caching and Kubernetes features such as device plug-ins and Dynamic Resource Allocation (DRA) for better hardware utilization.
 Networking considerations are also addressed, including the need for advanced routing and load balancing tailored to LLM workloads, with projects like the Gateway API inference extension and LLMD offering solutions for more intelligent traffic management.
 Throughout, Abdel emphasizes that optimizing LLMs on Kubernetes is a multi-dimensional challenge requiring coordinated improvements across storage, compute, and networking layers.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

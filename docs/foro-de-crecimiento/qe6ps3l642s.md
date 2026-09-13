@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "35 AÑOS de EXPERIENCIA en Redes de Mercadeo Resumidos en 1 HORA | Sesión #11
+  con Lourdes Enríquez \U0001F680"
+nav_order: 3
+parent: Foro De Crecimiento
 type: Video Note
-title: "35 AÑOS de EXPERIENCIA en Redes de Mercadeo Resumidos en 1 HORA | Sesión #11 con Lourdes Enríquez 🚀"
-description: "En esta entrevista, Lourdes Enríquez comparte su experiencia de más de 35 años en redes de mercadeo, destacando la importancia de superar la mentalidad de supervivencia y miedo para adoptar una mentalidad emprendedora y empresarial basada e..."
+description:
+  En esta entrevista, Lourdes Enríquez comparte su experiencia de más de
+  35 años en redes de mercadeo, destacando la importancia de superar la mentalidad
+  de supervivencia y miedo para adoptar una mentalidad emprendedora y empresarial
+  basada e...
 resource: https://www.youtube.com/watch?v=qE6ps3l642s
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Explica que los obstáculos iniciales, como la falta de recursos, se superan con
 Lourdes describe las etapas de crecimiento en el negocio, comparándolas con el desarrollo humano, y enfatiza la importancia de crear una atmósfera positiva en el equipo, evitando rumores y promoviendo la capacitación.
 Además, distingue entre diferentes tipos de líderes, señalando que el liderazgo más efectivo es el que inspira y trabaja desde el ser, no solo desde el hacer o el reconocimiento.
 Finalmente, recomienda planificar el tiempo equilibrando capacitación, ventas y expansión, y sugiere integrar a la familia en el negocio para disfrutar plenamente del proceso y alcanzar un crecimiento sostenible y consciente.
+
 # Main Points
 
 |   # | Main point                                                                                                                               |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Rust Vs. Go: Building a Container Network Stack From Scratch - Matt Heon &
+  Shivang K Raghuvanshi"
+nav_order: 313
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Rust Vs. Go: Building a Container Network Stack From Scratch - Matt Heon & Shivang K Raghuvanshi"
-description: "Matt Heon, principal engineer at Red Hat and core maintainer of Podman, explains that Podman is a single-node, rootless, and daemonless container engine with Docker-compatible interfaces, but not intended as a Kubernetes runtime. Initially..."
+description:
+  Matt Heon, principal engineer at Red Hat and core maintainer of Podman,
+  explains that Podman is a single-node, rootless, and daemonless container engine
+  with Docker-compatible interfaces, but not intended as a Kubernetes runtime. Initially...
 resource: https://www.youtube.com/watch?v=05wBWDa8W-g
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Consequently, the team developed Netavark, a Rust-based, monolithic networking t
 The decision to use Rust over Go was driven by Rust’s static memory management, expressive type system, and improved error handling, despite the team’s greater familiarity with Go.
 Shivang Keragwanshi, an LFX mentee, contributed by building Rust netlink conntrack support to resolve a UDP traffic bug, highlighting the value of mentorship and community contributions.
 In retrospect, the team is satisfied with the move to Rust, noting improved developer satisfaction and manageable onboarding with the help of modern coding assistants, though code review and initial code quality remain challenges.
+
 # Main Points
 
 |   # | Main point                                                                                                                                            |

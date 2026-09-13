@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Helm 4 Is Here. So, Now What? - Andrew Block, Red Hat; Scott Rigby, Replicated;
+  Robert Sirchia, SUSE
+nav_order: 139
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Helm 4 Is Here. So, Now What? - Andrew Block, Red Hat; Scott Rigby, Replicated; Robert Sirchia, SUSE"
-description: "The presentation introduces Helm 4, the latest major release of the Kubernetes package manager, highlighting its first update in six years and marking Helm’s ten-year anniversary. Key features in Helm 4 include a new WASM-based plugin engin..."
+description:
+  The presentation introduces Helm 4, the latest major release of the Kubernetes
+  package manager, highlighting its first update in six years and marking Helm’s ten-year
+  anniversary. Key features in Helm 4 include a new WASM-based plugin engin...
 resource: https://www.youtube.com/watch?v=cmHFJikhmyY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The team has laid the groundwork for charts v3, enabling future enhancements suc
 The Helm Improvement Proposal (HIP) process, modeled after Python’s PEPs, ensures transparency and community involvement in major changes.
 Additional improvements focus on strengthening OCI support, registry mirroring, streamlining the release process, and enhancing contributor experience.
 The presenters encourage community participation through reviewing and proposing HIPs, joining developer meetings, and engaging on Slack to help shape Helm’s future.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                               |

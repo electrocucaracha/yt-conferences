@@ -1,11 +1,19 @@
 ---
-type: Video Note
+layout: default
 title: "Tutorial: Exploring Multi-Tenant Kubernetes APIs and Controllers With Kcp"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+nav_order: 350
+parent: Kubecon Cloudnativecon Europe 2025
+type: Video Note
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Fb_3dWJdY9I
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +22,7 @@ Here is a summary of the video transcript in 3-5 sentences: The workshop tutoria
 The tutorial guides participants through setting up environments, creating workspaces, and binding to API exports to share resources between workspaces.
 The workshop also explores the concept of dynamic providers, including API sync agents that connect KCP to Kubernetes clusters and synchronize resources.
 Participants can try exercises from the documentation on their own and attend a follow-up talk by MJ and Nabarun on resource models beyond Kubernetes workloads and multicluster runtime.
+
 # Main Points
 
 |   # | Main point                                                                                                              |

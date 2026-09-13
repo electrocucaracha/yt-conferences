@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Intro to OAuth for MCP Servers with Aaron Parecki, Okta"
-description: "Aaron Pari from Octa discusses the complexities and evolution of OAuth, particularly its application within MCP (Modular Component Platform) servers and clients. He explains that OAuth, originally designed to allow applications to access us..."
+nav_order: 15
+parent: Mcp Dev Summit Na 2025
+type: Video Note
+description:
+  Aaron Pari from Octa discusses the complexities and evolution of OAuth,
+  particularly its application within MCP (Modular Component Platform) servers and
+  clients. He explains that OAuth, originally designed to allow applications to access
+  us...
 resource: https://www.youtube.com/watch?v=mYKMwZcGynw
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ Using the analogy of hotel key cards, he illustrates how OAuth access tokens gra
 Pari emphasizes the importance of separating OAuth server responsibilities from MCP server functions, enabling clients to authenticate and obtain tokens independently before interacting with resource servers.
 He also highlights recent advancements like protected resource metadata and dynamic client registration, which streamline client configuration and support interoperability without prior relationships.
 Finally, he addresses enterprise scenarios, proposing a model where identity providers (IDPs) mediate application connections for improved security and user experience, shifting token negotiations to the back channel and enhancing visibility for enterprises.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

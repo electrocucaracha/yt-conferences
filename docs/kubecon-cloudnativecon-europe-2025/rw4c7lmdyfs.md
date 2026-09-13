@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How To Rename Metrics Without Impacting Somebody’s Observabili... Bartłomiej
+  Płotka & Arianna Vespri
+nav_order: 121
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "How To Rename Metrics Without Impacting Somebody’s Observabili... Bartłomiej Płotka & Arianna Vespri"
-description: "The video discusses the challenges of renaming metrics in a system, particularly when it affects queries, dashboards, and alerts. The speakers propose a solution using a schema definition that captures metric changes, including name, unit..."
+description:
+  The video discusses the challenges of renaming metrics in a system, particularly
+  when it affects queries, dashboards, and alerts. The speakers propose a solution
+  using a schema definition that captures metric changes, including name, unit...
 resource: https://www.youtube.com/watch?v=Rw4c7lmdyFs
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The speakers propose a solution using a schema definition that captures metric c
 This allows for automatic transformation of queries to use the new metric version, ensuring seamless updates without disrupting users.
 The proposed solution leverages existing tools like OpenTelemetry's Weaver CLI, which can validate schemas, generate documentation, and perform transformations.
 The speakers demonstrate how this approach enables efficient and flexible renaming of metrics in Prometheus, supporting both Prometheus and OpenTelemetry users.
+
 # Main Points
 
 |   # | Main point                                                                                     |

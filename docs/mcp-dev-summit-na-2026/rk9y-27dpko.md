@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Combine Skills and MCP To Close the Context Gap - Pedro Rodrigues, Supabase
+nav_order: 11
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Combine Skills and MCP To Close the Context Gap - Pedro Rodrigues, Supabase"
-description: "Pedro, an AI tooling engineer at Superbase, delivered a talk at the MCP Dev Summit addressing the ongoing debate between MCP (an integration protocol with tools, resources, and prompts) and skills (folders containing instructions, scripts..."
+description:
+  Pedro, an AI tooling engineer at Superbase, delivered a talk at the MCP
+  Dev Summit addressing the ongoing debate between MCP (an integration protocol with
+  tools, resources, and prompts) and skills (folders containing instructions, scripts...
 resource: https://www.youtube.com/watch?v=Rk9y-27dpko
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He clarified that MCP and skills serve different purposes: MCP focuses on integr
 Using Superbase as a case study, Pedro demonstrated that combining MCP with skills leads to more robust and secure agent behavior, particularly by incentivizing agents to consult up-to-date documentation and implement best practices, such as security features.
 Benchmarking showed that agents using both MCP and skills outperformed those using either alone, though at the cost of more steps and token usage.
 Pedro concluded that the main challenge is context management rather than tool capability, and encouraged further discussion on efficient skill distribution within the ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

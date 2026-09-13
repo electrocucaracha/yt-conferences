@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Perses General Overview - Augustin Husson, Maintainer"
-description: "Augustin, a maintainer of Perses, introduces the project as a CNCF sandbox observability visualization tool capable of displaying metrics, logs, traces, and profiling data, with plans to support additional data sources like Polar Signals an..."
+nav_order: 285
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Augustin, a maintainer of Perses, introduces the project as a CNCF sandbox
+  observability visualization tool capable of displaying metrics, logs, traces, and
+  profiling data, with plans to support additional data sources like Polar Signals
+  an...
 resource: https://www.youtube.com/watch?v=fZYp4btZaTg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Perses offers an open dashboard solution with extensible specifications in TypeS
 The tool provides React components for embedding visualizations, a CLI for dashboard validation in CI/CD pipelines, and an operator for deployment, supporting a dashboard-as-code workflow with SDKs in KuLang and GoLang.
 Perses is actively developed by contributors from Amadeus, Red Hat, and ASAP, has received EU funding, and recently reached 2,000 GitHub stars.
 The community is growing, and interested users can connect via the official website, LinkedIn, X, or Slack, and are encouraged to visit the Perses booth at KubeCon.
+
 # Main Points
 
 |   # | Main point                                                                                                   |

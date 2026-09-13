@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Redefining SLIs for LLM Inference: Managing Hybrid Cloud wit... Christopher
+  Nuland & Hilliary Lipsig"
+nav_order: 307
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Redefining SLIs for LLM Inference: Managing Hybrid Cloud wit... Christopher Nuland & Hilliary Lipsig"
-description: "Christopher Nuland and Hillary Lipig from Red Hat discuss redefining service level indicators (SLIs), objectives (SLOs), and agreements (SLAs) for modern AI stacks, particularly those using large language models (LLMs) and small language mo..."
+description:
+  Christopher Nuland and Hillary Lipig from Red Hat discuss redefining
+  service level indicators (SLIs), objectives (SLOs), and agreements (SLAs) for modern
+  AI stacks, particularly those using large language models (LLMs) and small language
+  mo...
 resource: https://www.youtube.com/watch?v=BM4L74qL8zE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that traditional reliability and performance metrics must adapt to 
 The talk highlights the benefits of breaking LLMs into microservices—separating prefill and decode phases—to improve resource allocation, reduce latency, and enhance observability.
 They also discuss the complexities introduced by agentic systems, where telemetry and cross-domain collaboration become even more critical, and share a practical example involving reinforcement learning bots playing video games, illustrating how these metrics are applied in real-world scenarios.
 The session concludes with a discussion on the evolving landscape of LLMs versus SLMs, the challenges of catastrophic forgetting, and the potential future directions for AI model architectures and observability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

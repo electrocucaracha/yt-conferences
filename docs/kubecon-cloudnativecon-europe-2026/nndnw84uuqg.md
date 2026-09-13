@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Cloud Native University: A Simple and Practical Guide
+  to Obser... Diana Todea"
+nav_order: 43
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Cloud Native University: A Simple and Practical Guide to Obser... Diana Todea"
-description: "The speaker, an OpenTelemetry contributor and cloud native community organizer, discusses the challenges and best practices of observability in Kubernetes environments. They highlight the complexity caused by the abundance of tools, metrics..."
+description:
+  The speaker, an OpenTelemetry contributor and cloud native community
+  organizer, discusses the challenges and best practices of observability in Kubernetes
+  environments. They highlight the complexity caused by the abundance of tools, metrics...
 resource: https://www.youtube.com/watch?v=nNDNw84Uuqg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the complexity caused by the abundance of tools, metrics, and das
 Key issues include inconsistent metric naming, high cardinality, and non-standardized logs, with sources ranging from control plane components to application logs and audit logs.
 The speaker demonstrates how audit logs can be parsed and visualized using open-source tools like Grafana, offering valuable insights for troubleshooting and monitoring.
 They advocate for structured logging, early instrumentation, and thoughtful alerting, and encourage community involvement in SIG Instrumentation to improve metric documentation, dashboard usability, and onboarding resources, ultimately aiming to enhance the developer and user experience in Kubernetes observability.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "The Shared Service Blueprint: A Guide to Multi-Tenancy, Illustrated With KEDA
+  - Aya Igarashi"
+nav_order: 366
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Shared Service Blueprint: A Guide to Multi-Tenancy, Illustrated With KEDA - Aya Igarashi"
-description: "Aaya Garash, a software engineer at Preferred Networks, discusses the challenges and solutions of providing shared services in a multi-tenant Kubernetes cluster, using Keda as a case study. She explains that multi-tenancy is essential for t..."
+description:
+  Aaya Garash, a software engineer at Preferred Networks, discusses the
+  challenges and solutions of providing shared services in a multi-tenant Kubernetes
+  cluster, using Keda as a case study. She explains that multi-tenancy is essential
+  for t...
 resource: https://www.youtube.com/watch?v=krOs-eKeH24
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ She explains that multi-tenancy is essential for their AI computing platform, re
 The team chose a per-tenant Keda deployment model over a shared one to ensure isolated trust boundaries, especially for authentication flows involving federated credentials.
 Four main Kubernetes constraints were addressed: routing external metrics via a namespace-aware proxy, rebuilding authentication trust chains, dynamically aligning operator watch scopes with tenant namespaces, and enforcing network boundaries using cluster-wide network policies.
 Garash concludes that while in-house components can be designed for multi-tenancy from the start, adapting open-source solutions often requires additional operational work, and achieving the right balance between security and operational efficiency depends on specific business needs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

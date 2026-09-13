@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Every API Is a Tool for Agents - Matt Carey, Cloudflare
+nav_order: 23
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Every API Is a Tool for Agents - Matt Carey, Cloudflare"
-description: "In this talk, Matt from Cloudflare discusses the evolution of enabling agents to interact with APIs, focusing on the challenges of scaling tool access for agents due to large API specifications that exceed model context windows. He outlines..."
+description:
+  In this talk, Matt from Cloudflare discusses the evolution of enabling
+  agents to interact with APIs, focusing on the challenges of scaling tool access
+  for agents due to large API specifications that exceed model context windows. He
+  outlines...
 resource: https://www.youtube.com/watch?v=2cndQvkoGAw
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He outlines three main approaches: using command-line interfaces (CLIs), tool se
 Matt demonstrates how Cloudflare’s dynamic workers, built on a customized V8 runtime, provide a fast and isolated execution environment for untrusted agent-generated code, enabling composability and safety.
 He argues that this code execution approach offers greater flexibility and scalability compared to previous methods, and that recent infrastructure advances now make it feasible to securely run agent-generated code at scale.
 The session concludes with a discussion on the importance of standard protocols like MCP for interoperability, the challenges of client implementation, and the potential for broader adoption of programmatic tool use as more robust sandboxing primitives become available.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

@@ -1,11 +1,23 @@
 ---
+layout: default
+title: How to Quantify ROI on Personal Growth and Professional Development
+nav_order: 29
+parent: Leadership Skills
 type: Video Note
-title: "How to Quantify ROI on Personal Growth and Professional Development"
-description: "In this video, Doug Howard addresses the challenge of quantifying the return on investment (ROI) for personal and professional development, especially when the benefits are intangible. He introduces a step-by-step framework to help viewers..."
+description:
+  In this video, Doug Howard addresses the challenge of quantifying the
+  return on investment (ROI) for personal and professional development, especially
+  when the benefits are intangible. He introduces a step-by-step framework to help
+  viewers...
 resource: https://www.youtube.com/watch?v=ecpyGyl_oqI
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He introduces a step-by-step framework to help viewers evaluate such investments
 The process continues by calculating the tangible value of increased income and time saved, and then measuring the ROI by comparing these benefits to the investment cost.
 If the tangible ROI is not clearly positive, Doug suggests reflecting on additional qualitative benefits and considering their value.
 He also offers a free ROI calculator tool to simplify this evaluation, encouraging viewers to use it for making informed decisions about their growth investments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

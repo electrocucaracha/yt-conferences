@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Data on Kubernetes Day: KubeVirt Benchmar... Bhumitra
+  Nagar & Dhruv Bhatnagar"
+nav_order: 54
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Data on Kubernetes Day: KubeVirt Benchmar... Bhumitra Nagar & Dhruv Bhatnagar"
-description: "The video discusses real-world challenges faced by organizations migrating from VMware to KubeVirt environments, particularly when scaling up to thousands of virtual machines (VMs). To address issues such as performance, reliability, recove..."
+description:
+  The video discusses real-world challenges faced by organizations migrating
+  from VMware to KubeVirt environments, particularly when scaling up to thousands
+  of virtual machines (VMs). To address issues such as performance, reliability, recove...
 resource: https://www.youtube.com/watch?v=0s2mSPkE7dw
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ To address issues such as performance, reliability, recovery, and capacity at sc
 Wordbench enables users to benchmark VM provisioning, bootstorm scenarios, live migration, node failure recovery, and storage I/O performance across any Kubernetes distribution or storage backend.
 The tool provides detailed metrics and visualizations through an integrated dashboard, supporting both on-premises and cloud deployments.
 The presenters demonstrate Wordbench’s capabilities, share customer use cases, and outline upcoming features, encouraging community contributions to the project.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                    |

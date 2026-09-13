@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Lightning Talk: Graceful Controller Operations - Jeffrey Ying, Google"
-description: "Jeffrey, a software engineer at Google, discusses graceful controller operations within Kubernetes, focusing on the control plane's components. He explains that while the kube-apiserver acts as a hub, the kube-controller-manager and kube-sc..."
+nav_order: 149
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  Jeffrey, a software engineer at Google, discusses graceful controller
+  operations within Kubernetes, focusing on the control plane's components. He explains
+  that while the kube-apiserver acts as a hub, the kube-controller-manager and kube-sc...
 resource: https://www.youtube.com/watch?v=qbuAn7pS9bQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ He explains that while the kube-apiserver acts as a hub, the kube-controller-man
 To address this, Kubernetes uses leader election with a lease resource, ensuring only one active leader while others remain passive.
 Previously, when a leader lost its lease, the process would forcefully exit, causing issues like skipped cleanup and go routine leaks, and requiring a full lease expiration cycle for a new leader to take over.
 With the update in version 1.35, the kube-controller-manager now supports graceful leader transitions, allowing safe cleanup and lock release, enabling smoother transitions and serving as a model for other controllers to adopt more robust patterns.
+
 # Main Points
 
 |   # | Main point                                                                                                                  |

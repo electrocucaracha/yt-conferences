@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "API is the New SSH: Forging a Zero-Trust VM Platform on Kubernetes - Evangelista
+  Tragni, Devoteam"
+nav_order: 11
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "API is the New SSH: Forging a Zero-Trust VM Platform on Kubernetes - Evangelista Tragni, Devoteam"
-description: "The session focused on running virtual machines (VMs) within Kubernetes using KubeVirt, an open-source CNCF project primarily developed by Red Hat. The presenter, a Red Hat DevOps lead, explained the motivation for moving VMs into Kubernete..."
+description:
+  The session focused on running virtual machines (VMs) within Kubernetes
+  using KubeVirt, an open-source CNCF project primarily developed by Red Hat. The
+  presenter, a Red Hat DevOps lead, explained the motivation for moving VMs into Kubernete...
 resource: https://www.youtube.com/watch?v=mVcBnbSfBrs
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ He detailed KubeVirt’s architecture, including its main components (virt-api, 
 Key features such as device passthrough, persistent storage, networking options (including Multus for multiple interfaces), live migration, and ecosystem integration with tools like Argo CD and Cluster API were discussed, alongside practical limitations like live migration fragility, storage requirements, and challenges with Windows VMs and network configurations.
 The presenter emphasized that while KubeVirt is production-ready for some use cases—such as legacy Windows VMs, telco workloads, and ephemeral control planes—there are still technical and organizational hurdles, particularly around networking, disaster recovery, and performance.
 The session concluded with a Q&A addressing issues like nested virtualization, IP preservation during migration, CNI choices (Cilium, Kube-OVN, Calico), and resource overcommitment, highlighting that adoption depends on specific workload needs and organizational readiness for change.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

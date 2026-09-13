@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 7 - Agentic LLMs
+nav_order: 7
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 7 - Agentic LLMs"
-description: "In this lecture, the instructors first recap previous discussions on reasoning models and reinforcement learning algorithms like GRPO, highlighting issues such as length bias and strategies to mitigate it. The main focus then shifts to enab..."
+description:
+  In this lecture, the instructors first recap previous discussions on
+  reasoning models and reinforcement learning algorithms like GRPO, highlighting issues
+  such as length bias and strategies to mitigate it. The main focus then shifts to
+  enab...
 resource: https://www.youtube.com/watch?v=h-7S6HNq0Vg
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +29,7 @@ The lecture then introduces tool calling and function calling, where LLMs use st
 To manage scalability and context limitations, tool selection methods and standardization protocols like MCP are presented.
 Finally, the concept of agents is explored, describing systems that autonomously pursue goals through iterative reasoning and tool use, with examples like the React framework and agent-to-agent communication protocols.
 The session concludes with a discussion on safety risks, mitigation strategies, and practical advice for building robust, agentic LLM systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                   |

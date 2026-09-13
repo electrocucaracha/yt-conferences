@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Prepare for Disruptions: How We Upgrade the Whole ML Training Fleet Bi-week...
+  Cong Gu & Ankit Goyal"
+nav_order: 201
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Prepare for Disruptions: How We Upgrade the Whole ML Training Fleet Bi-week... Cong Gu & Ankit Goyal"
-description: "In this presentation, Monkit and Frank from LinkedIn’s AI Platforms team provide an overview of their on-premises training platform, focusing on how they manage disruptions in large-scale machine learning clusters. They describe the archite..."
+description:
+  In this presentation, Monkit and Frank from LinkedIn’s AI Platforms team
+  provide an overview of their on-premises training platform, focusing on how they
+  manage disruptions in large-scale machine learning clusters. They describe the archite...
 resource: https://www.youtube.com/watch?v=qY46j--UrZk
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They describe the architecture, which includes dynamic job routing, hierarchical
 The team has implemented strategies like maintenance zone-aware scheduling to minimize the number of jobs affected by maintenance, early notification and approval systems to reduce downtime, and a disruption-specific priority queue to ensure disrupted jobs are rescheduled promptly without preempting others.
 These optimizations have reduced the percentage of disrupted jobs to less than 1%, and the platform provides libraries and protocols to help users integrate checkpointing easily.
 The team is also exploring elastic training to further reduce the need for job restarts, and they address user questions about SLAs, enforcement of checkpointing, and technical details of their maintenance and scheduling systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                     |

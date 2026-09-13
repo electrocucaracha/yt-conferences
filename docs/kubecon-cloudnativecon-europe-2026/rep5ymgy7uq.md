@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Durable Execution in DevOps: How Uniphar Built Reliable Syst... Alice Gibbons
+  & Vaclav (Oisin) Haken"
+nav_order: 97
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Durable Execution in DevOps: How Uniphar Built Reliable Syst... Alice Gibbons & Vaclav (Oisin) Haken"
-description: "In this presentation, Alice Gibbons from DiGrid and Oshin from UniFar discuss how UniFar modernized its cost management systems using Dapper, an open-source distributed application runtime. UniFar, originally a small pharmacy co-op, now ope..."
+description:
+  In this presentation, Alice Gibbons from DiGrid and Oshin from UniFar
+  discuss how UniFar modernized its cost management systems using Dapper, an open-source
+  distributed application runtime. UniFar, originally a small pharmacy co-op, now
+  ope...
 resource: https://www.youtube.com/watch?v=REp5yMgy7UQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ UniFar, originally a small pharmacy co-op, now operates globally and needed to m
 Their solution leverages Dapper workflows to automate and reliably track cloud resource costs, enabling flexible cost splitting and reporting through a hierarchy that mirrors Azure’s structure.
 The system uses durable execution, allowing workflows to resume after failures, and outputs standardized CSV reports for accounting.
 They highlight the benefits of Dapper’s modularity, extensibility, and durability, share lessons learned in workflow design and parallelization, and note successful adoption of Dapper for other mission-critical applications at UniFar.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

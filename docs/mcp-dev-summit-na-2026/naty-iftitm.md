@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Datadog Built 100 AI Agents. Here's What Broke.
+nav_order: 13
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Datadog Built 100 AI Agents. Here's What Broke."
-description: "The speaker discusses their experience building AI agents at Data Dog, highlighting the development of the first hundred agents and strategies for scaling to thousands. They describe three main focus areas: AI agents for Data Dog, Data Dog..."
+description:
+  "The speaker discusses their experience building AI agents at Data Dog,
+  highlighting the development of the first hundred agents and strategies for scaling
+  to thousands. They describe three main focus areas: AI agents for Data Dog, Data
+  Dog..."
 resource: https://www.youtube.com/watch?v=Naty_iFtITM
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They describe three main focus areas: AI agents for Data Dog, Data Dog for AI, a
 Key lessons include designing agent-friendly interfaces, prioritizing proactive and autonomous agents over reactive ones, ensuring robust evaluation and monitoring systems, and maintaining model and framework agnosticism to adapt to rapid advancements.
 The speaker emphasizes the importance of treating agents as users, automating tasks traditionally done by humans, and preparing for a future where agents are increasingly independent, multimodal, and capable of learning on the job.
 They conclude by encouraging ongoing experimentation and adaptation as the field evolves.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

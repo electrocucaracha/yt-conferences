@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Evaluate What You Can't See: Measure the Probabilistic Nature of MCP - P.
+  Patel & M.J. Rocabado"
+nav_order: 22
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Evaluate What You Can't See: Measure the Probabilistic Nature of MCP - P. Patel & M.J. Rocabado"
-description: 'Bromesh, CEO of MCP Jam, introduces a talk focused on the challenges of evaluating and improving user value in MCP server development, emphasizing the importance of understanding the "XY problem," where developers often address assumed solu...'
+description:
+  Bromesh, CEO of MCP Jam, introduces a talk focused on the challenges
+  of evaluating and improving user value in MCP server development, emphasizing the
+  importance of understanding the "XY problem," where developers often address assumed
+  solu...
 resource: https://www.youtube.com/watch?v=XqjOcKEUSRQ
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He illustrates how server logs can appear identical despite vastly different use
 Bromesh outlines a user value chain with multiple steps where value can be lost, noting that developers typically only have observability over tool calls, not the full user journey.
 He discusses strategies for obtaining real user data—such as adding parameters for user intent, leveraging existing chatbot data, using test environments, and instrumenting MCP apps—to inform eval testing and improve workflows.
 The talk concludes by introducing MCP Jam’s new sandbox environments, which allow for secure, instrumented testing and user feedback, aiming to operationalize a flywheel of continuous improvement based on real user insights.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                 |

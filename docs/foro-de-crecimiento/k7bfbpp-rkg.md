@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Experto en programación mental: Cómo reprogramar tu mente y cambiar tu destino
+  | Marcelo Yaguna"
+nav_order: 45
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto en programación mental: Cómo reprogramar tu mente y cambiar tu destino | Marcelo Yaguna"
-description: "En este video, Marcelo Yaguna, empresario y conferencista, comparte su experiencia personal de superación, enfatizando que el cambio de mentalidad es esencial para alcanzar el éxito. Explica que existen dos formas principales de reprogramar..."
+description:
+  En este video, Marcelo Yaguna, empresario y conferencista, comparte su
+  experiencia personal de superación, enfatizando que el cambio de mentalidad es esencial
+  para alcanzar el éxito. Explica que existen dos formas principales de reprogramar...
 resource: https://www.youtube.com/watch?v=k7BfbpP_Rkg
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Explica que existen dos formas principales de reprogramar la mente: la repetici�
 Marcelo relata cómo transformó su vida al cambiar su entorno, adoptar hábitos positivos como la escritura diaria, la lectura y la meditación, y buscar mentores que ya hayan logrado lo que uno desea.
 Además, resalta el valor de las ventas como habilidad fundamental para prosperar, ofreciendo consejos prácticos sobre técnicas de cierre, identificación de perfiles de clientes y el uso de palabras que generan confianza.
 Finalmente, guía a la audiencia en un ejercicio de hipnosis para grabar en el subconsciente nuevas creencias de poder, constancia y prosperidad, motivando a todos a tomar acción y convertirse en ejemplo para sus familias.
+
 # Main Points
 
 |   # | Main point                                                                                           |

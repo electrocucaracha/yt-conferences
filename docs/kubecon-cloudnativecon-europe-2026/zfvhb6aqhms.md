@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Merge Forward: Branching Inclusion, Merging Belo... Jay J, Jay T, Bhavani
+  I, Catherine P & Michiel P"
+nav_order: 217
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Merge Forward: Branching Inclusion, Merging Belo... Jay J, Jay T, Bhavani I, Catherine P & Michiel P"
-description: "The panel discussion introduces Merge Forward, a CNCF initiative aimed at building supportive networks for underrepresented groups and their allies within the open source community. Panelists representing groups such as LGBTQ+, women in tec..."
+description:
+  The panel discussion introduces Merge Forward, a CNCF initiative aimed
+  at building supportive networks for underrepresented groups and their allies within
+  the open source community. Panelists representing groups such as LGBTQ+, women in
+  tec...
 resource: https://www.youtube.com/watch?v=zfVHb6AQhMs
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Panelists representing groups such as LGBTQ+, women in tech, Black, Indigenous, 
 They emphasize that true inclusion requires structural changes, psychological safety, and co-determination rather than surface-level or performative efforts.
 The conversation underscores the need to treat inclusivity as essential, not optional, and to avoid making assumptions about others’ needs by actively involving them in decision-making.
 Merge Forward is described as a community-driven effort that empowers individuals, fosters genuine belonging, and seeks to make open source spaces more accessible and welcoming for all, with a call for broader participation and allyship to drive lasting change.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                 |

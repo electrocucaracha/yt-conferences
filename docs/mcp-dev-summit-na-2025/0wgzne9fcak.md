@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] What MCP Middleware Could Look Like with Yoko Li from A16Z"
-description: "Yoko, a partner at Andre and Horwood and an active developer, introduces her work on MCP (Machine Control Protocol) middleware, explaining its role as a horizontal layer between clients and services that centralizes functionalities like aut..."
+nav_order: 3
+parent: Mcp Dev Summit Na 2025
+type: Video Note
+description:
+  Yoko, a partner at Andre and Horwood and an active developer, introduces
+  her work on MCP (Machine Control Protocol) middleware, explaining its role as a
+  horizontal layer between clients and services that centralizes functionalities like
+  aut...
 resource: https://www.youtube.com/watch?v=0WGZNE9FcAk
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ She highlights the challenges developers face when building MCP clients, such as
 Yoko categorizes middleware features into agent-facing (e.g., access control, rate limiting, user preferences, batching tool calls) and tool-facing (e.g., error normalization, PII reduction, workflow orchestration), emphasizing the need for infrastructure to support the growing ecosystem of MCP servers and tools.
 She notes that as machine-initiated workloads increase, robust middleware will be essential for scaling and managing these autonomous processes.
 Yoko encourages open sourcing in this space to foster ecosystem growth and invites further discussion from the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

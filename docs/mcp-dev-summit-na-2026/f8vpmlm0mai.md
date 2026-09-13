@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Building a Workflow Engine on MCP: Orchestrating Processes With Tasks - Donnie
+  Adams, Obot AI"
+nav_order: 5
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Building a Workflow Engine on MCP: Orchestrating Processes With Tasks - Donnie Adams, Obot AI"
-description: "Donnie Adams, a software architect at OOT and former high school math teacher, introduces himself and his team before presenting on MCP Tasks and their architecture. He explains how his team at OOT, inspired by Rancher’s use of Kubernetes t..."
+description:
+  Donnie Adams, a software architect at OOT and former high school math
+  teacher, introduces himself and his team before presenting on MCP Tasks and their
+  architecture. He explains how his team at OOT, inspired by Rancher’s use of Kubernetes
+  t...
 resource: https://www.youtube.com/watch?v=f8vPMlm0MaI
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains how his team at OOT, inspired by Rancher’s use of Kubernetes to ma
 Adams highlights the limitations of synchronous tool calls, such as lack of durability and issues with long-running tasks, and describes how his team initially implemented asynchronous task handling before it was standardized in the MCP specification.
 He then reviews the official MCP Tasks specification, emphasizing its support for asynchronous workflows, state transitions, and improved client-server interactions.
 Adams concludes by sharing a demo of a simple workflow engine he built in Gleam, illustrating the agent loop and task lifecycle, and notes that while his team shifted away from certain workflow implementations due to evolving needs and gaps in the specification, the MCP framework remains central to their approach.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "MCP: The Gateway to Real-Time Human–AI Collaboration in Jupyter at Scale -
+  Jake Diamond-Reivich"
+nav_order: 63
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "MCP: The Gateway to Real-Time Human–AI Collaboration in Jupyter at Scale - Jake Diamond-Reivich"
-description: "Jake from the Jupyter open source governing board introduces Jupyter AI v3, which was launched the previous day and brings significant new features to the Jupyter ecosystem. The main highlight is the adoption of the Agent Client Protocol (A..."
+description:
+  Jake from the Jupyter open source governing board introduces Jupyter
+  AI v3, which was launched the previous day and brings significant new features to
+  the Jupyter ecosystem. The main highlight is the adoption of the Agent Client Protocol
+  (A...
 resource: https://www.youtube.com/watch?v=NPcY4ccny7E
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The main highlight is the adoption of the Agent Client Protocol (ACP), enabling 
 These AI agents can write, debug, and edit notebook cells, access files, kernels, git, and terminals, and can be easily configured or extended by users to suit specific needs.
 The demo showcases how agents like Claude can generate entire notebooks, install necessary packages, and interact with users, all while respecting permission settings.
 Jake emphasizes the flexibility and security of running Jupyter locally, the ease of integrating multiple agents, and the potential for community-built custom personas, making Jupyter Lab a powerful, AI-enabled IDE for individuals and organizations alike.
+
 # Main Points
 
 |   # | Main point                                                                                                          |

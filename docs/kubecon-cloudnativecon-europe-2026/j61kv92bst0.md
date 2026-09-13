@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Peeking Into the GPU Black Box: Continuous Profiling on Kubernetes With eBPF
+  - Zahari Dichev"
+nav_order: 241
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Peeking Into the GPU Black Box: Continuous Profiling on Kubernetes With eBPF - Zahari Dichev"
-description: "In this talk, Zahari, a software engineer at Buoyant, discusses the challenges of gaining observability into GPU usage within Kubernetes clusters, especially given the high costs and scarcity of GPU resources. He explains that while existin..."
+description:
+  In this talk, Zahari, a software engineer at Buoyant, discusses the challenges
+  of gaining observability into GPU usage within Kubernetes clusters, especially given
+  the high costs and scarcity of GPU resources. He explains that while existin...
 resource: https://www.youtube.com/watch?v=J61kV92bSt0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that while existing tools like Nvidia SMI and DCGM provide only basi
 Zahari introduces the use of eBPF uprobes to monitor application interactions with GPU device drivers, enabling the collection of higher-level metrics such as demand (kernel launches), back pressure (synchronization wait times), and contention (multi-process usage).
 Through real-world incident examples, he demonstrates how these metrics can help operators distinguish between application and environment issues affecting GPU workloads.
 However, he notes the limitations of current approaches, emphasizing the need for hardware vendors to provide better, low-overhead observability APIs to support cloud-native GPU usage and optimization.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

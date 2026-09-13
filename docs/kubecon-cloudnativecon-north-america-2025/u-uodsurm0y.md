@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Perses: Update - Augustin Husson, Maintainer"
-description: "Augugusta, a maintainer of the Pers project, provides an update on its progress as a CNCF sandbox initiative focused on displaying observability data such as metrics, traces, logs, and profiling information. Initially, Pers primarily suppor..."
+nav_order: 236
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  Augugusta, a maintainer of the Pers project, provides an update on its
+  progress as a CNCF sandbox initiative focused on displaying observability data such
+  as metrics, traces, logs, and profiling information. Initially, Pers primarily suppor...
 resource: https://www.youtube.com/watch?v=u_uODSUrm0Y
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Initially, Pers primarily supported Prometheus metrics, but recent contributions
 The project has seen significant community growth, nearing 1,700 stars, with 30 new contributors in the past three months and 24 contributors to the latest release.
 SAP has joined as a major contributor, assisting with the Pers operator, Helm charts, testing, and performance on Kubernetes, while Amadeus, RedHat, and SAP actively support the project.
 Additionally, the European Union is now funding Pers, and interested individuals are invited to visit their booth or access resources via their website and social media.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

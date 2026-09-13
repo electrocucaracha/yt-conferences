@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "AI Models Are Huge, but Your GPUs Aren’t: Mastering Multi-Node Distributed
+  Infe... E. Wong & J. Shan"
+nav_order: 6
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "AI Models Are Huge, but Your GPUs Aren’t: Mastering Multi-Node Distributed Infe... E. Wong & J. Shan"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=MQR8jyTR5QE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: Ernest, a software e
 He presents a four-step process for tackling this challenge: model selection, fitting, serving, and communication.
 The key to efficient serving is prefill decode disagregation, which separates the initial processing of token generations from decoding, reducing interference and improving performance.
 Ernest also discusses multi-node deployment strategies, including attention and FFN disagregation, and the importance of observability and topology-aware scheduling in optimizing performance.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

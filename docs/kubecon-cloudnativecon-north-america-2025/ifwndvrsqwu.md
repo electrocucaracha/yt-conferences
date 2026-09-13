@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Extending Kubernetes API: The Hidden Power of Aggregated Server Objects -
+  Amir Malka, ARMO"
+nav_order: 72
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Extending Kubernetes API: The Hidden Power of Aggregated Server Objects - Amir Malka, ARMO"
-description: "The speaker, a software architect at Armo and core maintainer of the open-source security platform Kubescape, discusses the differences between Kubernetes Custom Resource Definitions (CRDs) and aggregated (extension) API servers. He explain..."
+description:
+  The speaker, a software architect at Armo and core maintainer of the
+  open-source security platform Kubescape, discusses the differences between Kubernetes
+  Custom Resource Definitions (CRDs) and aggregated (extension) API servers. He explain...
 resource: https://www.youtube.com/watch?v=ifwNDvRSQWU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that while CRDs are easy to implement and integrate seamlessly with 
 The talk covers the technical journey of building this server, including challenges with storage, memory usage, and the need for optimizations like switching to gRPC, binary encoding, and SQL-based pagination.
 The speaker emphasizes the operational risks and maintenance burden of running a custom API server, advising most users to start with CRDs and only consider extension API servers when absolutely necessary.
 In the Q&A, he acknowledges the complexity and ongoing challenges of this approach, recommending careful consideration before choosing to extend Kubernetes APIs in this way.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                          |

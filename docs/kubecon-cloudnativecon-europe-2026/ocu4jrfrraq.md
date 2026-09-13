@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Cloud Native Theater | Cloud Native University... Cansu Kavili Örnek and Anneli
+  Sara Banderby
+nav_order: 42
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Cloud Native University... Cansu Kavili Örnek and Anneli Sara Banderby"
-description: "Jans Su, an architect with a platform engineering background, and Sarah, a data scientist turned architect, introduce themselves and aim to guide attendees through CubeCon, especially those new to Kubernetes and cloud-native AI. They discus..."
+description:
+  Jans Su, an architect with a platform engineering background, and Sarah,
+  a data scientist turned architect, introduce themselves and aim to guide attendees
+  through CubeCon, especially those new to Kubernetes and cloud-native AI. They discus...
 resource: https://www.youtube.com/watch?v=Ocu4JRFrraQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They discuss the overwhelming landscape of over 200 projects and the rapid growt
 The speakers outline key differences between predictive and generative AI workloads, noting that while infrastructure needs are similar, generative AI often requires larger models and more complex hardware.
 They present four guiding questions for deploying AI models on Kubernetes: where the model lives, how it gets resources, how it is accessed, and how to scale and iterate, highlighting the importance of containers, resource allocation, and intelligent scaling.
 Finally, they recommend session topics for both data scientists and platform engineers, encourage cross-disciplinary collaboration, and advise attendees to connect with peers to better understand the diverse aspects of running AI workloads in production.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

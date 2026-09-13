@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Keynote: From Inference to Agents: Where Op... Jonathan Bryce, Brian Stevens,
+  Mark Collier & Lin Sun"
+nav_order: 173
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: From Inference to Agents: Where Op... Jonathan Bryce, Brian Stevens, Mark Collier & Lin Sun"
-description: "The panel discussion brings together leaders from across the AI and open source communities to explore the current trajectory of AI development, particularly focusing on inference, agentic systems, and the importance of robust, open infrast..."
+description:
+  The panel discussion brings together leaders from across the AI and open
+  source communities to explore the current trajectory of AI development, particularly
+  focusing on inference, agentic systems, and the importance of robust, open infrast...
 resource: https://www.youtube.com/watch?v=JzvG0eWxHnQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Brian Stevens highlights the evolution of open source AI inference stacks, empha
 Lynn discusses the growing momentum around agentic AI, noting challenges in scaling, security, and governance, and points to emerging collaborative efforts in networking and trust within the cloud native community.
 Mark Collier underscores the necessity of cross-foundation and cross-community collaboration, citing real-world examples like Uber’s use of multiple open source tools, and advocates for co-designing solutions rather than working in silos.
 The panel concludes by celebrating open source’s leadership in this technological wave, stressing the unprecedented pace of innovation and the critical role of continued collaboration to ensure open source AI remains competitive and impactful.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

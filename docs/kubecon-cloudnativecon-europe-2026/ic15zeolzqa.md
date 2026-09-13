@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "The 10x DevOps Engineer’s Toolkit: Argo CD + AI-Dr... Alexander Matyushentsev
+  & Leonardo Luz Almeida"
+nav_order: 353
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The 10x DevOps Engineer’s Toolkit: Argo CD + AI-Dr... Alexander Matyushentsev & Leonardo Luz Almeida"
-description: "In this presentation from the Argo maintainers track at KubeCon, Leonardo and Alexander introduce MCP for Argo CD, a new open source protocol designed to simplify integration between AI clients and third-party services like Argo CD. MCP act..."
+description:
+  In this presentation from the Argo maintainers track at KubeCon, Leonardo
+  and Alexander introduce MCP for Argo CD, a new open source protocol designed to
+  simplify integration between AI clients and third-party services like Argo CD. MCP
+  act...
 resource: https://www.youtube.com/watch?v=iC15zeOLZQA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ MCP acts as a universal connector, allowing AI agents to interact with Argo CD t
 The speakers demonstrate practical use cases, such as automating application creation and monitoring deployments, highlighting how MCP enables AI agents to perform tasks that would otherwise require manual intervention.
 At Intuit, MCP was leveraged to enhance support workflows by integrating with bots in Slack channels, enabling automated troubleshooting and reducing the support burden across thousands of Kubernetes namespaces and services.
 The team also discusses ongoing challenges, such as duplicating troubleshooting logic across different agents, and their exploration of agent skills to centralize and standardize these processes, inviting feedback and collaboration from the community.
+
 # Main Points
 
 |   # | Main point                                                                                                                                               |

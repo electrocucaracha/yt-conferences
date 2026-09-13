@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Demistifying Client ID Metadata Documents in MCP - Den Delimarsky, Anthropic
+nav_order: 15
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Demistifying Client ID Metadata Documents in MCP - Den Delimarsky, Anthropic"
-description: "Dan from Anthropic discussed recent updates to the Model Context Protocol (MCP), focusing on improvements to client authorization and registration. Initially, MCP lacked guidance on authorization, leading to complex and unscalable solutions..."
+description:
+  Dan from Anthropic discussed recent updates to the Model Context Protocol
+  (MCP), focusing on improvements to client authorization and registration. Initially,
+  MCP lacked guidance on authorization, leading to complex and unscalable solutions...
 resource: https://www.youtube.com/watch?v=YRLPR3o9fnI
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Initially, MCP lacked guidance on authorization, leading to complex and unscalab
 The new approach, SIMD (client ID metadata documents), allows each client to host a JSON metadata file at a domain they control, simplifying validation and reducing the need for complex registration flows.
 This method addresses previous problems by ensuring one metadata document per client, making impersonation harder and management easier for both developers and authorization servers.
 SIMD is now the recommended method in the MCP specification, with DCR still supported but planned for deprecation, and further enhancements to MCP are in development to improve security and developer experience.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

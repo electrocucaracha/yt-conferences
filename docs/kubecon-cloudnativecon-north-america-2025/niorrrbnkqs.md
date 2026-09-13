@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Beyond YAML: Visualising Kubernetes Ontologies With
+  Meshery - Yash Sharma"
+nav_order: 207
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Beyond YAML: Visualising Kubernetes Ontologies With Meshery - Yash Sharma"
-description: "Yash, a maintainer of the CNCF sandbox project Meshery and a developer advocate at DigitalOcean, introduces Meshery as a cloud-native management platform designed to simplify and visualize Kubernetes infrastructure. He explains that Meshery..."
+description:
+  Yash, a maintainer of the CNCF sandbox project Meshery and a developer
+  advocate at DigitalOcean, introduces Meshery as a cloud-native management platform
+  designed to simplify and visualize Kubernetes infrastructure. He explains that Meshery...
 resource: https://www.youtube.com/watch?v=nIorrrbnKqs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that Meshery enables both newcomers and professionals to easily unde
 Meshery offers a design catalog with templates, over 300 integrations with CNCF projects, and the ability to connect and manage existing or new Kubernetes clusters.
 Yash highlights Meshery’s rapid growth, with over 1,200 contributors and nearly 10,000 GitHub stars, and mentions the project’s division into separate organizations for core and extension functionalities, as well as the introduction of a certified contributor certificate and participation in the LFX mentorship program.
 He encourages users to try Meshery via canvas.new or play.meshery.io.
+
 # Main Points
 
 |   # | Main point                                                                                               |

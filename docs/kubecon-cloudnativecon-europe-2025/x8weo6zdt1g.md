@@ -1,11 +1,23 @@
 ---
+layout: default
+title: "Securing the Gateway: A Deep Dive Into Envoy Gateway's Advanced Security
+  Pol... Huabing (Robin) Zhao"
+nav_order: 300
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Securing the Gateway: A Deep Dive Into Envoy Gateway's Advanced Security Pol... Huabing (Robin) Zhao"
-description: "The speaker, No, discusses advanced security policies for gateways, specifically focusing on OpenWay (Gway) and its API. They introduce a control plane to simplify proxy configuration, allowing users to define traffic policies without manua..."
+description:
+  The speaker, No, discusses advanced security policies for gateways, specifically
+  focusing on OpenWay (Gway) and its API. They introduce a control plane to simplify
+  proxy configuration, allowing users to define traffic policies without manua...
 resource: https://www.youtube.com/watch?v=x8wEo6ZDT1g
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They introduce a control plane to simplify proxy configuration, allowing users t
 Security policy is a key aspect of this, enabling the definition of authentication, authorization, and access controls.
 The speaker demonstrates OIDC authentication with Amazon Cognito and shows how security policy can be applied at two levels: global and specific routes.
 They also discuss using GWay's API to manage gateway traffic and provide examples of security policies that can be defined using YAML files.
+
 # Main Points
 
 |   # | Main point |

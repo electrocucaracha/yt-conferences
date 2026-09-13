@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "We Deleted Our Observability Stack and Rebuilt It With OTEL: 12 Engine...
+  Yash Sharma & Kunju Perath"
+nav_order: 393
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "We Deleted Our Observability Stack and Rebuilt It With OTEL: 12 Engine... Yash Sharma & Kunju Perath"
-description: "In this session, Yash and Kunju from DigitalOcean discuss the evolution of observability for their managed Kubernetes service, DOKS, which operates over 20,000 clusters across 13 regions. Initially, their observability relied on large, file..."
+description:
+  In this session, Yash and Kunju from DigitalOcean discuss the evolution
+  of observability for their managed Kubernetes service, DOKS, which operates over
+  20,000 clusters across 13 regions. Initially, their observability relied on large,
+  file...
 resource: https://www.youtube.com/watch?v=Z0oum6Eh1is
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Initially, their observability relied on large, file-based databases and a singl
 To address these gaps, they transitioned to an architecture based on OpenTelemetry (otel), deploying lightweight agent and gateway collectors across both control and data planes, and leveraging open source plugins for flexible, scalable telemetry collection and processing.
 This new approach enabled them to achieve searchable logs (using OpenSearch), improved metadata enrichment, and more efficient resource usage, while also reducing mean time to detect issues from hours to minutes.
 The team emphasized the importance of understanding new telemetry formats, monitoring the observability stack itself, and carefully managing dependencies, ultimately resulting in a more robust, scalable, and customer-responsive observability platform.
+
 # Main Points
 
 |   # | Main point                                                                                                  |

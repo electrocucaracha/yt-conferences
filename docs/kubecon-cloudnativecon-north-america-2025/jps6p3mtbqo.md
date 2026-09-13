@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Securing Data Applications at Pinterest With Finer Grained Access Cont... Soam
+  Acharya & William Tom
+nav_order: 275
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Securing Data Applications at Pinterest With Finer Grained Access Cont... Soam Acharya & William Tom"
-description: "In this talk at CubeCon, Pinterest’s data engineering team discusses how they secured data applications by implementing fine-grained access control (FGAC) on their Kubernetes-based big data platform, Mocha, which runs Spark on AWS EKS. They..."
+description:
+  In this talk at CubeCon, Pinterest’s data engineering team discusses
+  how they secured data applications by implementing fine-grained access control (FGAC)
+  on their Kubernetes-based big data platform, Mocha, which runs Spark on AWS EKS.
+  They...
 resource: https://www.youtube.com/watch?v=jPS6P3mTbqo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They describe the transition from Hadoop to Kubernetes for improved security, sc
 The FGAC system ensures that each user and workload has a unique identity, with access to S3 data sets controlled through a combination of pod-level annotations, certificates, and a custom credential vending service that issues scoped, temporary AWS STS tokens based on LDAP group mappings.
 The architecture uses components like Archer, Drum, and Volance to intercept and manage credential requests transparently, requiring no application-specific security logic and supporting both human and service identities.
 The team emphasizes that their approach is designed for transparency and compatibility with standard AWS libraries, and they plan to extend FGAC to more applications and finer data access levels in the future.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                 |

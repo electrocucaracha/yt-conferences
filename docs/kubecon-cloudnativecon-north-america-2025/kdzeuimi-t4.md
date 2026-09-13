@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Instrumentation Score: The Difference Between Telemetr... Juraci Paixão Kröhling
+  & Michele Mancioppi"
+nav_order: 104
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Instrumentation Score: The Difference Between Telemetr... Juraci Paixão Kröhling & Michele Mancioppi"
-description: "In this presentation, Judas, Mikuel, and Julie introduce the concept of the Instrumentation Score, a knowledge base and open specification designed to help teams assess and improve the quality of their telemetry data, particularly within th..."
+description:
+  In this presentation, Judas, Mikuel, and Julie introduce the concept
+  of the Instrumentation Score, a knowledge base and open specification designed to
+  help teams assess and improve the quality of their telemetry data, particularly
+  within th...
 resource: https://www.youtube.com/watch?v=kdzeUiMI_t4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They discuss common pitfalls of "bad telemetry," such as excessive or irrelevant
 The Instrumentation Score encodes industry best practices and opinions into a set of rules, allowing organizations to numerically evaluate and compare the quality of telemetry across services, prioritize improvements, and avoid striving for unattainable perfection.
 The presenters stress that good telemetry evolves over time and that the score should be used pragmatically to guide incremental enhancements.
 They also highlight the importance of semantic conventions in standardizing telemetry and invite the community to contribute their experiences and feedback to further refine the Instrumentation Score.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                       |

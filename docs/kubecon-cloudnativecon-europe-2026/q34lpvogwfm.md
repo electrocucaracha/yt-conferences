@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Panel: How Platforms Can Save Junior Engineers (and Thus... Jennifer R, Leena
+  M, Molly C & Paula K"
+nav_order: 239
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Panel: How Platforms Can Save Junior Engineers (and Thus... Jennifer R, Leena M, Molly C & Paula K"
-description: "The panel discussion centers on the importance of platform engineering in supporting junior developers within the tech industry, especially as AI adoption increases. The speakers share their own journeys from junior to senior roles and emph..."
+description:
+  The panel discussion centers on the importance of platform engineering
+  in supporting junior developers within the tech industry, especially as AI adoption
+  increases. The speakers share their own journeys from junior to senior roles and
+  emph...
 resource: https://www.youtube.com/watch?v=q34LpvogwfM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The speakers share their own journeys from junior to senior roles and emphasize 
 They highlight that while AI is widely used by less experienced developers, it cannot replace the contextual understanding and growth that comes from real-world experience and mentorship.
 The panelists stress the value of combining junior and senior engineers on platform teams, noting that juniors bring fresh perspectives and ask critical questions that can improve platforms.
 Ultimately, they argue that investing in junior developers is essential for the industry's future, as platforms and AI should be seen as tools to empower, not replace, human talent.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

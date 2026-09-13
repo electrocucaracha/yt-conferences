@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Keynote: Enterprise MCP - The Data Plane for Autonomous Agents - Adam Seligman
+  & Zayne Turner"
+nav_order: 42
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Keynote: Enterprise MCP - The Data Plane for Autonomous Agents - Adam Seligman & Zayne Turner"
-description: "Adam Seligman and Zane Turner from Workato discuss the need for robust control and data plane architectures to support the rapid development of autonomous agents, emphasizing that current governance and controls are struggling to keep pace..."
+description:
+  Adam Seligman and Zane Turner from Workato discuss the need for robust
+  control and data plane architectures to support the rapid development of autonomous
+  agents, emphasizing that current governance and controls are struggling to keep
+  pace...
 resource: https://www.youtube.com/watch?v=zsQjoUECVRc
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They introduce the concept of an "agentic control plane," which separates the pr
 The speakers outline seven key factors for a healthy agentic control plane: governed operations, deterministic mutations, intent-based communication, bounded access, safe retries, recovery contracts, and structural observability.
 They stress that protocols alone are insufficient for enterprise needs, and businesses must proactively implement these principles to ensure reliability and safety, especially in regulated industries.
 The conversation invites the broader community to contribute to and evolve these architectural guidelines, aiming to raise the reliability and maturity of agent-based systems industry-wide.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

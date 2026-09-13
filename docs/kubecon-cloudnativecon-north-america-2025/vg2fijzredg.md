@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Managing a Million Infra Resources at Spotify: Designing the Platfo... Oliver
+  Soell & Fredrik Sommar"
+nav_order: 163
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Managing a Million Infra Resources at Spotify: Designing the Platfo... Oliver Soell & Fredrik Sommar"
-description: "In this KubeCon talk, Spotify engineers Frederick and Oliver discuss the evolution of Spotify’s internal resource management platform, which supports nearly a million resources across more than 150 types. Initially, after migrating to Googl..."
+description:
+  In this KubeCon talk, Spotify engineers Frederick and Oliver discuss
+  the evolution of Spotify’s internal resource management platform, which supports
+  nearly a million resources across more than 150 types. Initially, after migrating
+  to Googl...
 resource: https://www.youtube.com/watch?v=Vg2FiJZReDg
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ This platform leverages Kubernetes Resource Model (KRM) and GitOps principles, e
 However, operational scaling issues and poor user experiences led Spotify to introduce new tools—Crow, a no-code solution for abstractions and compositions, and K-pop, an internal tool for managed operators using familiar technologies like gRPC and protobuf—to simplify platform extension development and improve ergonomics.
 The team also enhanced developer experiences by integrating resource management into IDEs and Backstage, providing real-time validation and feedback.
 Through these improvements, Spotify aims to make resource management more scalable, user-friendly, and ubiquitous across developer workflows.
+
 # Main Points
 
 |   # | Main point                                                                                                                                     |

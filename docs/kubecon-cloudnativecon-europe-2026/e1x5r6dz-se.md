@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  A Unified Management and Control Plane for Cloud Native Robots Wi... Sitong
+  Mao, Huan Wei & Yin Ding
+nav_order: 7
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "A Unified Management and Control Plane for Cloud Native Robots Wi... Sitong Mao, Huan Wei & Yin Ding"
-description: "In this presentation at KubeCon Europe 2026, Juan and Ding, both KubeEdge TSC members, introduce a unified management and control plane for cloud-native robots using KubeEdge. They explain that as robotics evolves toward multi-robot collabo..."
+description:
+  In this presentation at KubeCon Europe 2026, Juan and Ding, both KubeEdge
+  TSC members, introduce a unified management and control plane for cloud-native robots
+  using KubeEdge. They explain that as robotics evolves toward multi-robot collabo...
 resource: https://www.youtube.com/watch?v=e1x5R6dZ-sE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that as robotics evolves toward multi-robot collaboration, remote o
 KubeEdge extends Kubernetes to the edge, enabling centralized resource management, dynamic workload shifting, and seamless integration of edge devices within a single cluster, which reduces infrastructure overhead and accelerates development cycles.
 The speakers detail how KubeEdge leverages Kubernetes concepts like CRDs and controllers to manage robot registration, task assignment, and synchronization between cloud and edge, and demonstrate a live example where natural language processing in the cloud assigns tasks to multiple robots, optimizing operations and reducing onboarding time for new robots.
 The session concludes with a discussion on the technical architecture, real-world deployment benefits such as increased efficiency and rapid robot integration, and answers to audience questions about orchestration, communication protocols, and practical use cases.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                           |

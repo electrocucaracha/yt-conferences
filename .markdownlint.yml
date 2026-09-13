@@ -1,0 +1,5 @@
+# Jekyll front-matter provides the page H1 via the `title:` key; allow a
+# second H1 in the body so authors can write self-contained documents.
+MD025: false
+# Docs use semantic line breaks (one clause per line) instead of hard wrapping.
+MD013: false

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Scaling Valkey the Right Way: Kubernetes at XL Scale - Sarthak Aggarwal &
+  Madelyn Olson, AWS"
+nav_order: 326
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Scaling Valkey the Right Way: Kubernetes at XL Scale - Sarthak Aggarwal & Madelyn Olson, AWS"
-description: "Maline Olsen and Sarthik from Amazon Elasticache discuss Valky, an open-source, horizontally scalable caching system forked from Redis, focusing on its deployment and scaling in Kubernetes environments. They share lessons learned from manag..."
+description:
+  Maline Olsen and Sarthik from Amazon Elasticache discuss Valky, an open-source,
+  horizontally scalable caching system forked from Redis, focusing on its deployment
+  and scaling in Kubernetes environments. They share lessons learned from manag...
 resource: https://www.youtube.com/watch?v=t0qax1qQm14
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The talk covers best practices for cluster management, such as distributing prim
 They detail extensive scalability testing—demonstrating Valky’s ability to handle up to 2,000 nodes and 1 billion requests per second—while addressing challenges like connection storms, failover vote splits, and optimizing pub/sub message overhead.
 Recent improvements include smarter connection throttling, more efficient failure detection, and a lightweight pub/sub protocol, with ongoing development of a Valky operator to further automate and simplify cluster management.
 The session concludes by encouraging community involvement and highlighting Valky’s suitability as a Redis alternative for large-scale, cloud-native caching needs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                 |

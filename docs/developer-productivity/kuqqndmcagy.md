@@ -1,16 +1,27 @@
 ---
+layout: default
+title: How to Become an Empowered Software Developer • Johannes Stern • GOTO 2019
+nav_order: 54
+parent: Developer Productivity
 type: Video Note
-title: "How to Become an Empowered Software Developer • Johannes Stern • GOTO 2019"
-description: "Notes for How to Become an Empowered Software Developer • Johannes Stern • GOTO 2019."
+description:
+  Notes for How to Become an Empowered Software Developer • Johannes Stern
+  • GOTO 2019.
 resource: https://www.youtube.com/watch?v=kUQQNDMCAGY
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
 
 Notes for How to Become an Empowered Software Developer • Johannes Stern • GOTO 2019.
+
 # Main Points
 
 |   # | Main point                                        |

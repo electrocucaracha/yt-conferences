@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Bridging the Gap with Gen Z - 9 Keys to Effective Leadership
+nav_order: 11
+parent: Leadership Skills
 type: Video Note
-title: "Bridging the Gap with Gen Z - 9 Keys to Effective Leadership"
-description: "In this video, leadership coach Doug Howard addresses the challenges many managers face when leading Gen Z employees, emphasizing that generational differences in perspective, rather than a lack of work ethic or professionalism, are often a..."
+description:
+  In this video, leadership coach Doug Howard addresses the challenges
+  many managers face when leading Gen Z employees, emphasizing that generational differences
+  in perspective, rather than a lack of work ethic or professionalism, are often a...
 resource: https://www.youtube.com/watch?v=OtReM9UigwM
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ In this video, leadership coach Doug Howard addresses the challenges many manage
 He shares a personal story to illustrate how Gen Z’s upbringing in a digital, rapidly changing world shapes their approach to work and problem-solving.
 Doug outlines nine key areas for managers to focus on to bridge the generational gap: recognizing Gen Z as digital natives, adapting communication for their shorter attention spans, encouraging adaptability, supporting self-learning with guidance, fostering a feedback-rich culture, understanding their goal orientation, providing recognition and rewards, embracing diversity and inclusivity, and promoting sustainability.
 He stresses the importance of empathy, influence, and finding common ground to motivate and effectively lead Gen Z, encouraging managers to actively seek to understand and align with their team’s values and perspectives.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Securing AI Agent Infrastructure: AuthN/AuthZ Patterns for MCP and A2A - Yoshiyuki
+  Tabata"
+nav_order: 274
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Securing AI Agent Infrastructure: AuthN/AuthZ Patterns for MCP and A2A - Yoshiyuki Tabata"
-description: "Yoshik Tabata’s session focuses on securing AI agent infrastructure through practical authentication and authorization patterns, specifically for MCP (agent-to-tool communication) and A2A (agent-to-agent communication). He explains how MCP..."
+description:
+  Yoshik Tabata’s session focuses on securing AI agent infrastructure through
+  practical authentication and authorization patterns, specifically for MCP (agent-to-tool
+  communication) and A2A (agent-to-agent communication). He explains how MCP...
 resource: https://www.youtube.com/watch?v=S6qF0N5D1tM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains how MCP and A2A standardize interactions among AI agents, reducing i
 Drawing on principles from an upcoming CNCF white paper, he outlines two security patterns—basic (suitable for limited exposure and non-sensitive data) and advanced (for sensitive data and public networks, enforcing zero trust with mutual TLS and token exchange).
 Tabata demonstrates implementing these patterns using open-source tools Keycloak (for identity and access management) and SPIRE (for workload identity), showing how robust authentication and authorization can be achieved in cloud-native environments.
 The session concludes with a Q&A discussing challenges in enterprise scenarios, such as token forwarding and integrating external services.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                         |

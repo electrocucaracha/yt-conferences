@@ -1,11 +1,23 @@
 ---
+layout: default
+title: An Introduction to Capture The Flag
+nav_order: 16
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "An Introduction to Capture The Flag"
-description: "Fabian from Control Plane introduces a Kubernetes-themed Capture the Flag (CTF) event at KubeCon, designed to teach participants about common security pitfalls by letting them break into intentionally vulnerable Kubernetes clusters. The eve..."
+description:
+  Fabian from Control Plane introduces a Kubernetes-themed Capture the
+  Flag (CTF) event at KubeCon, designed to teach participants about common security
+  pitfalls by letting them break into intentionally vulnerable Kubernetes clusters.
+  The eve...
 resource: https://www.youtube.com/watch?v=Id3FJDnont4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The event, organized by a 50-person security consultancy, provides three differe
 Participants connect to the clusters using SSH credentials provided via the CNCF Slack channel, and only need SSH and a web browser to play.
 The walkthrough demonstrates how to explore the cluster, identify misconfigurations, and creatively use available tools like kubectl and Grafana plugins to uncover flags, with points awarded for each flag found and a live scoreboard tracking progress.
 The event is flexible, allowing participants to join at any time during the day, and support is available both in person and online, with hints accessible at a points cost.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

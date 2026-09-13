@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  SIG Instrumentation Introduction and Deep Dive - Catherine Fang & David Ashpole,
+  Google
+nav_order: 267
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "SIG Instrumentation Introduction and Deep Dive - Catherine Fang & David Ashpole, Google"
-description: "In this presentation, David Ashpole and Katherine from Google introduce and provide a deep dive into SIG Instrumentation, a special interest group responsible for best practices and tooling around metrics, logs, traces, and events in Kubern..."
+description:
+  In this presentation, David Ashpole and Katherine from Google introduce
+  and provide a deep dive into SIG Instrumentation, a special interest group responsible
+  for best practices and tooling around metrics, logs, traces, and events in Kubern...
 resource: https://www.youtube.com/watch?v=cr-_IRp5qX0
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They honor their late colleague Han, who was instrumental in building the SIG.
 The talk covers the importance of consistent and structured logging using Klog, the evolution of metrics collection with Prometheus and the Kubernetes metrics framework, and the addition of features like stability levels, metric deprecation, and auto-generated documentation.
 They discuss the introduction of distributed tracing via OpenTelemetry, now generally available in key components, and the challenges and future directions for trace sampling and signal correlation.
 The session also highlights key subprojects—usage metrics collector, kube-state-metrics, metrics-server, and Prometheus adapter (soon to be deprecated in favor of Kea)—and encourages community involvement in ongoing efforts, especially in contextual logging and subproject contributions.
+
 # Main Points
 
 |   # | Main point                                                                                                          |

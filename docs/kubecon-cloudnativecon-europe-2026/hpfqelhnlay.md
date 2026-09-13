@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Hyperscale Uncertainty Principle: Debugging Tail Latency in a Trillion-Object...
+  Yashraj Kakkad"
+nav_order: 360
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Hyperscale Uncertainty Principle: Debugging Tail Latency in a Trillion-Object... Yashraj Kakkad"
-description: "Yashraj Gakkad, a software engineer at Google Photos, discusses the challenges of maintaining referential integrity and managing tail latency at exabyte scale, where trillions of objects are stored and verified across massive relational met..."
+description:
+  Yashraj Gakkad, a software engineer at Google Photos, discusses the challenges
+  of maintaining referential integrity and managing tail latency at exabyte scale,
+  where trillions of objects are stored and verified across massive relational met...
 resource: https://www.youtube.com/watch?v=hpFqElHNLaY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ To ensure consistency, Google Photos runs a large concurrency pipeline, initiall
 The root cause was identified as large, unsplittable work shards in the read stages, exacerbated by legacy infrastructure and compounded by the inefficiency of best-effort compute when preemptions caused significant wasted work.
 The solution involved over-sharding—creating more, smaller work units than workers—and implementing dynamic work rebalancing (liquid sharding) to break up heavy tasks at runtime, significantly reducing tail latency and improving resource utilization.
 Gakkad concludes with key lessons: architect for the P99 tail, respect physical infrastructure limits, over-shard and re-shard where possible, and carefully evaluate the true cost of preemptible compute at hyperscale, as software abstractions alone are insufficient for predictable, efficient operation at this magnitude.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

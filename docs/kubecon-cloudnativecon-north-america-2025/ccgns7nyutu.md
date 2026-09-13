@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "OTel+K8s= ❤️: An Introduction To OpenTelemetry for Kubernetes... Christos
+  Markou & Jacob Aronoff"
+nav_order: 182
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "OTel+K8s= ❤️: An Introduction To OpenTelemetry for Kubernetes... Christos Markou & Jacob Aronoff"
-description: "The presentation introduces OpenTelemetry (OTEL) and its integration with Kubernetes, covering both foundational concepts and advanced topics. The speakers explain that OTEL is a vendor-neutral, open-source standard for collecting metrics..."
+description:
+  The presentation introduces OpenTelemetry (OTEL) and its integration
+  with Kubernetes, covering both foundational concepts and advanced topics. The speakers
+  explain that OTEL is a vendor-neutral, open-source standard for collecting metrics...
 resource: https://www.youtube.com/watch?v=cCGNs7nyutU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The speakers explain that OTEL is a vendor-neutral, open-source standard for col
 They detail how OTEL’s collector can be deployed in various modes (sidecar, DaemonSet, deployment, gateway) to gather telemetry from Kubernetes clusters, nodes, and workloads, using specialized receivers and processors for metrics, logs, and events.
 The session also highlights the use of the OTEL operator and Helm charts to simplify deployment, configuration, and auto-instrumentation, as well as advanced features like auto-discovery, leader election, log resilience, and semantic conventions for standardizing telemetry.
 Operational considerations such as resource planning, configuration management, and handling back pressure are discussed, and the Q&A addresses backend storage options, log handling strategies, deployment patterns, and future plans for more flexible configuration and presets.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

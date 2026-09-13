@@ -1,11 +1,22 @@
 ---
+layout: default
+title: MCP Developers Summit Highlights - May 23, 2025
+nav_order: 1
+parent: Mcp Dev Summit Na 2025
 type: Video Note
-title: "MCP Developers Summit Highlights - May 23, 2025"
-description: "The speaker expresses enthusiasm about staying current with advancements in MTP, anticipating significant adoption and simplified implementation in the next six months. They highlight the international nature of the conference, noting atten..."
+description:
+  The speaker expresses enthusiasm about staying current with advancements
+  in MTP, anticipating significant adoption and simplified implementation in the next
+  six months. They highlight the international nature of the conference, noting atten...
 resource: https://www.youtube.com/watch?v=RIiUnAmm_ZY
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ The speaker expresses enthusiasm about staying current with advancements in MTP,
 They highlight the international nature of the conference, noting attendees from around 30 countries, including some who traveled from Portugal specifically for the event.
 The speaker is excited about the innovative projects being developed on top of MCP and believes the coming months will bring increased collaboration and integration within the community.
 Overall, there is a strong sense of optimism about the future developments and connections in the MTP and MCP ecosystems.
+
 # Main Points
 
 |   # | Main point                                                                         |

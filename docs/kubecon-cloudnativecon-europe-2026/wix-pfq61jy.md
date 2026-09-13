@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Istio Day: Zero-Downtime Migration from ingress-nginx
+  to Isti... Joe Abellard"
+nav_order: 68
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Istio Day: Zero-Downtime Migration from ingress-nginx to Isti... Joe Abellard"
-description: "Joe, a senior software engineer at Bloomberg, presents on executing a zero-downtime migration from the now-retired Ingress NGINX to a multicluster platform built atop the CNCF Kamada project. He explains the necessity of multicluster orches..."
+description:
+  Joe, a senior software engineer at Bloomberg, presents on executing a
+  zero-downtime migration from the now-retired Ingress NGINX to a multicluster platform
+  built atop the CNCF Kamada project. He explains the necessity of multicluster orches...
 resource: https://www.youtube.com/watch?v=wix_PfQ61jY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains the necessity of multicluster orchestration for data center redundan
 The architecture involves host clusters across data centers, with high availability ensured by stretching control planes and integrating with DNS-based service discovery for unified ingress endpoints.
 Joe details the handling of ingress traffic, observability challenges, and the migration strategies considered, ultimately settling on a phased rollout by data center to replace NGINX with Envoy without service interruption.
 He concludes by discussing future plans to adopt the now-stable Gateway API for improved traffic routing and invites further discussion at the Kamada project booth.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                               |

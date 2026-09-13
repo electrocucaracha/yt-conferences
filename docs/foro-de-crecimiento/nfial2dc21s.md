@@ -1,11 +1,23 @@
 ---
+layout: default
+title: El Éxito es una Habilidad que Se Aprende – Oscar Velasco | Sesión 27
+nav_order: 23
+parent: Foro De Crecimiento
 type: Video Note
-title: "El Éxito es una Habilidad que Se Aprende – Oscar Velasco | Sesión 27"
-description: "En esta entrevista, Óscar Velasco, empresario, inversionista y autor, sostiene que el éxito no es cuestión de suerte, sino una habilidad que se aprende mediante el desarrollo personal y la educación adecuada. Explica que el éxito es la real..."
+description:
+  En esta entrevista, Óscar Velasco, empresario, inversionista y autor,
+  sostiene que el éxito no es cuestión de suerte, sino una habilidad que se aprende
+  mediante el desarrollo personal y la educación adecuada. Explica que el éxito es
+  la real...
 resource: https://www.youtube.com/watch?v=NFiAL2Dc21s
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Explica que el éxito es la realización progresiva de un ideal valioso y que ab
 Velasco introduce el "triángulo del éxito", compuesto por tener el vehículo correcto en el tiempo correcto, el conocimiento adecuado y, sobre todo, ser la persona correcta, lo cual implica trabajar en el crecimiento interior a través de cuatro arquetipos: guerrero, mago, rey/reina y amante.
 Destaca la importancia de las creencias, pensamientos, emociones y acciones en el proceso de manifestación de resultados, y subraya que para mejorar la economía personal es fundamental crear sistemas y buscar razones internas que impulsen el crecimiento.
 Finalmente, señala que el propósito general de la vida es agregar valor, aprender y crecer, y disfrutar del viaje, enfatizando que la educación continua y el desarrollo de la conciencia son claves para alcanzar la realización y ayudar a otros a prosperar.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

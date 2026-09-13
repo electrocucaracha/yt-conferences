@@ -1,11 +1,22 @@
 ---
+layout: default
+title: "Make your money work for you \U0001F4B0 Session #16 with Yoel Sardiñas"
+nav_order: 57
+parent: Foro De Crecimiento
 type: Video Note
-title: "Make your money work for you 💰 Session #16 with Yoel Sardiñas"
-description: "En este video, se aborda la importancia de tomar control personal sobre las inversiones, especialmente en la bolsa de valores, desmitificando la idea de que es un ámbito exclusivo para expertos o personas adineradas. Joel Cardeñas, experto..."
+description:
+  En este video, se aborda la importancia de tomar control personal sobre
+  las inversiones, especialmente en la bolsa de valores, desmitificando la idea de
+  que es un ámbito exclusivo para expertos o personas adineradas. Joel Cardeñas, experto...
 resource: https://www.youtube.com/watch?v=rjad4nS3xBg
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Joel Cardeñas, experto en mentalidad e inversiones, enfatiza que cualquiera pue
 Se destaca la relevancia de la mentalidad de abundancia, la preparación constante y el aprendizaje de las leyes universales para alcanzar la libertad financiera, la cual se logra cuando los ingresos pasivos superan los gastos.
 Joel comparte su historia personal de superación desde la escasez en Cuba hasta el éxito en Estados Unidos, subrayando que el entorno no determina el potencial de una persona y que el conocimiento y la acción son claves para transformar la vida financiera y personal.
 Además, recalca la importancia de ayudar a otros y de invertir al menos el 10% de los ingresos, comenzando de manera pasiva y avanzando según el nivel de conocimiento y tiempo disponible.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

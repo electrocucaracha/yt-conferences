@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Alert Fatigue To Self-Healing: Building AI-Enabled Control Planes...
+  Nuno Guedes & Yury Tsarev"
+nav_order: 114
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "From Alert Fatigue To Self-Healing: Building AI-Enabled Control Planes... Nuno Guedes & Yury Tsarev"
-description: "In this session, Nunu from Millennium BCP and Yuri from Abound discuss how they are leveraging AI-enabled control planes, specifically using Crossplane v2, to address operational challenges in banking such as alert fatigue, regulatory compl..."
+description:
+  In this session, Nunu from Millennium BCP and Yuri from Abound discuss
+  how they are leveraging AI-enabled control planes, specifically using Crossplane
+  v2, to address operational challenges in banking such as alert fatigue, regulatory
+  compl...
 resource: https://www.youtube.com/watch?v=oGk8jVz3qZ4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They demonstrate how AI can be intentionally and safely injected into control pl
 The approach allows for read-only AI recommendations before enabling automated actions, ensuring operators remain in control and can gradually build trust in the system.
 By using label-based filtering and watch operations, they ensure AI interventions are explicit and auditable, and the system is designed to scale efficiently across multi-tenant environments.
 The presenters emphasize that this method improves efficiency, supports regulatory reporting, and allows organizations to adopt AI at their own pace, starting with deterministic workflows and expanding as confidence grows.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

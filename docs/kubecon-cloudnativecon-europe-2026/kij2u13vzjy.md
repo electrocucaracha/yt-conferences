@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | EnvoyCon: From ingress-nginx to Envoy Gateway at Zapier:
+  The... Kalen Wessel"
+nav_order: 58
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | EnvoyCon: From ingress-nginx to Envoy Gateway at Zapier: The... Kalen Wessel"
-description: "Kayn Wessle, a senior site reliability engineer at Zapier, discusses the company's migration from Ingress NGINX to Envoy Gateway, prompted by NGINX's end-of-life announcement, accumulated technical debt, and the desire for a more unified an..."
+description:
+  Kayn Wessle, a senior site reliability engineer at Zapier, discusses
+  the company's migration from Ingress NGINX to Envoy Gateway, prompted by NGINX's
+  end-of-life announcement, accumulated technical debt, and the desire for a more
+  unified an...
 resource: https://www.youtube.com/watch?v=kIj2U13VZJY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The team chose Envoy Gateway for its strong Kubernetes API alignment, extensibil
 The migration process involved thorough auditing, baseline establishment, incremental rollouts using weighted DNS, and careful monitoring to ensure stability, with several unexpected challenges such as buffer limits, reconciliation loops, latency changes, and differing default behaviors between NGINX and Envoy.
 Solutions included adjusting buffer sizes, refining connection settings, and explicitly configuring policies to match previous behaviors.
 Post-migration, Zapier achieved a unified edge view, improved operational consistency, and enhanced developer experience, migrating 500 production ingresses in under six months with minimal incidents.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                  |

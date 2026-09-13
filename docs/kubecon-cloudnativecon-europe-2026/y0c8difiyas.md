@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "AI Agents & Platform Engineering: Efficiency Boost... Hasith K, Vincent C,
+  Sara Q, Idit L & Carlos S"
+nav_order: 8
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "AI Agents & Platform Engineering: Efficiency Boost... Hasith K, Vincent C, Sara Q, Idit L & Carlos S"
-description: "The panel at CubeCon discussed the current state and challenges of integrating AI agents into platform engineering, focusing on whether these technologies boost efficiency or introduce new complexities. Panelists from AWS, Red Hat, NTT Data..."
+description:
+  The panel at CubeCon discussed the current state and challenges of integrating
+  AI agents into platform engineering, focusing on whether these technologies boost
+  efficiency or introduce new complexities. Panelists from AWS, Red Hat, NTT Data...
 resource: https://www.youtube.com/watch?v=Y0C8dIfIYAs
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Panelists from AWS, Red Hat, NTT Data, Solo, and Cisco shared that, while there 
 Key challenges identified include integrating agentic workflows with existing systems, ensuring security and trust (especially around permissions and identity), managing nondeterminism in AI behavior, and preventing fragmented, shadow IT solutions.
 The panel emphasized the importance of strong evaluation frameworks, sandboxing, and starting with clear use cases and data before adopting new technologies.
 They recommended leveraging open-source projects, establishing robust guardrails, and gradually expanding AI’s role as trust and understanding grow within organizations.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The Fourth Pillar Arrives: OpenTelemetry Profiling Alpha in A... Felix Geisendörfer
+  & Florian Lehner"
+nav_order: 356
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The Fourth Pillar Arrives: OpenTelemetry Profiling Alpha in A... Felix Geisendörfer & Florian Lehner"
-description: "The presentation introduces the alpha release of OpenTelemetry profiling, highlighting its significance as a new observability signal alongside logs, metrics, and traces. Profiling is explained as a tool for understanding code performance..."
+description:
+  The presentation introduces the alpha release of OpenTelemetry profiling,
+  highlighting its significance as a new observability signal alongside logs, metrics,
+  and traces. Profiling is explained as a tool for understanding code performance...
 resource: https://www.youtube.com/watch?v=TKp2snmgvtQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Profiling is explained as a tool for understanding code performance, diagnosing 
 The speakers detail the technical evolution of the profiling format, emphasizing efficiency improvements like deduplication and dictionary support, as well as the ability to correlate profiles with other telemetry signals.
 They demonstrate the eBPF-based profiler, which enables frictionless, low-overhead, whole-system profiling across multiple languages without requiring application changes, and showcase its practical use in identifying a real-world production issue.
 The talk concludes with a discussion of ongoing and future work, including broader SDK support, improved interoperability, and enhanced symbolication, and invites community feedback and contributions as profiling moves toward beta and stable releases.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

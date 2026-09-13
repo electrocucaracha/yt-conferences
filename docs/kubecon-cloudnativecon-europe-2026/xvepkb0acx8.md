@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  'Taming Complexity: Building Observable Workflows... Mauricio "Salaboy" Salatino
+  & Kasper Borg Nissen'
+nav_order: 352
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: 'Taming Complexity: Building Observable Workflows... Mauricio "Salaboy" Salatino & Kasper Borg Nissen'
-description: "In this talk, the presenters discuss the growing complexity of modern distributed systems, particularly as architectures evolve from monolithic and microservices to agentic, AI-driven workflows. They highlight the challenges of building and..."
+description:
+  In this talk, the presenters discuss the growing complexity of modern
+  distributed systems, particularly as architectures evolve from monolithic and microservices
+  to agentic, AI-driven workflows. They highlight the challenges of building and...
 resource: https://www.youtube.com/watch?v=XVEPKb0aCx8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the challenges of building and observing such systems, using a de
 The speakers emphasize the importance of observability, noting that traditional tracing methods struggle with the nondeterministic and asynchronous nature of agentic workflows, and advocate for the adoption of open standards like OpenTelemetry to collect and analyze telemetry data across diverse languages, protocols, and tools.
 They share practical insights on instrumenting applications, propagating context, and handling new complexities introduced by skills and scripts, while acknowledging current limitations and the need for further standardization and maturity in observability tooling.
 The session concludes with encouragement for continued community collaboration to improve the developer experience and reliability of these complex systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

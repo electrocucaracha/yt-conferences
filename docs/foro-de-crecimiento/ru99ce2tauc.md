@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Experto en mentalidad: Los 7 pasos para cambiar tu vida | Luis Topete"
-description: "En este video, Luis Topete, empresario y coach de alto rendimiento, comparte los siete pasos fundamentales para romper límites y alcanzar el máximo potencial personal. El proceso inicia reconociendo el punto de partida y las creencias limit..."
+nav_order: 42
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En este video, Luis Topete, empresario y coach de alto rendimiento, comparte
+  los siete pasos fundamentales para romper límites y alcanzar el máximo potencial
+  personal. El proceso inicia reconociendo el punto de partida y las creencias limit...
 resource: https://www.youtube.com/watch?v=rU99ce2tAuc
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ El proceso inicia reconociendo el punto de partida y las creencias limitantes, s
 Se enfatiza la importancia de construir hábitos transformadores mediante pequeños cambios diarios y convertir los sueños en metas específicas, medibles y alcanzables utilizando la técnica SMART.
 Además, se destaca la necesidad de tomar acción con disciplina y persistencia, y finalmente, visualizar el éxito y reforzar las emociones positivas asociadas a la meta cumplida.
 A lo largo del video, se proponen ejercicios prácticos para aplicar cada paso, subrayando que la transformación personal depende principalmente de la acción y la claridad en los objetivos.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

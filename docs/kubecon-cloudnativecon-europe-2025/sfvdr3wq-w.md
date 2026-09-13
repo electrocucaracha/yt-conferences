@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  SIG-Multicluster Intro and Deep... Jeremy Olmsted-Thompson, Laura Lorenz, Stephen
+  Kitt & Ryan Zhang
+nav_order: 292
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "SIG-Multicluster Intro and Deep... Jeremy Olmsted-Thompson, Laura Lorenz, Stephen Kitt & Ryan Zhang"
-description: "The SIG Multicluster project aims to provide a standardized way for managing multiple clusters across different environments, such as clouds and on-premises infrastructure. The project focuses on developing APIs that enable cluster manageme..."
+description:
+  The SIG Multicluster project aims to provide a standardized way for managing
+  multiple clusters across different environments, such as clouds and on-premises
+  infrastructure. The project focuses on developing APIs that enable cluster manageme...
 resource: https://www.youtube.com/watch?v=-SFVDr3wQ_w
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The SIG Multicluster project aims to provide a standardized way for managing mul
 The project focuses on developing APIs that enable cluster management, service discovery, and orchestration across multiple clusters.
 The multicluster services API is a key component of this effort, allowing services to be exposed across clusters without requiring a service mesh or gateway.
 The SIG Multicluster team is working on integrating the multicluster services API with existing Kubernetes APIs and exploring ways to improve its adoption, including providing libraries and tools for implementing the standard.
+
 # Main Points
 
 |   # | Main point                                                                                                     |

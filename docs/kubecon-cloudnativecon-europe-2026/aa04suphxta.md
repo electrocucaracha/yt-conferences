@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "What Survived Production: Operating Game Backends at Million-Player Scale
+  - Berkay Uckac"
+nav_order: 396
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "What Survived Production: Operating Game Backends at Million-Player Scale - Berkay Uckac"
-description: "At CubeCon 2026 in Amsterdam, Barai shared insights from three years of backend development for March Gardens, a mobile game launched in 2020. After initial success and a plateau in metrics, the team revamped the game in 2023, leading to a..."
+description:
+  At CubeCon 2026 in Amsterdam, Barai shared insights from three years
+  of backend development for March Gardens, a mobile game launched in 2020. After
+  initial success and a plateau in metrics, the team revamped the game in 2023, leading
+  to a...
 resource: https://www.youtube.com/watch?v=Aa04SuPhxtA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ After initial success and a plateau in metrics, the team revamped the game in 20
 To support ongoing live operations, they built an internal platform called James, focusing on features like A/B testing, campaign management, analytics, and multiplayer tournaments, all managed by a small server team.
 Their backend architecture emphasizes simplicity, high availability, and scalability, utilizing Kubernetes, Go, MongoDB Atlas, and managed services to minimize operational overhead.
 Barai highlighted the importance of a decision journal for tracking architectural choices, shared lessons from incidents and scaling challenges, and stressed the value of keeping systems straightforward to ensure reliability and ease of management for a small team.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

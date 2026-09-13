@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cortex: Insights, U... Friedrich Gonzalez, Daniel Sabsay, Charlie Le, Alolita
+  Sharma & Daniel Blando"
+nav_order: 55
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Cortex: Insights, U... Friedrich Gonzalez, Daniel Sabsay, Charlie Le, Alolita Sharma & Daniel Blando"
-description: "Alolita Sharma from Apple introduces Cortex, a highly scalable and horizontally available multi-tenant long-term storage solution for Prometheus. Charlie Lee from Apple demonstrates Cortex's architecture and features, including its ability..."
+description:
+  Alolita Sharma from Apple introduces Cortex, a highly scalable and horizontally
+  available multi-tenant long-term storage solution for Prometheus. Charlie Lee from
+  Apple demonstrates Cortex's architecture and features, including its ability...
 resource: https://www.youtube.com/watch?v=3aUg2qxfoZU
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ Alolita Sharma from Apple introduces Cortex, a highly scalable and horizontally 
 Charlie Lee from Apple demonstrates Cortex's architecture and features, including its ability to dynamically rate limit tenants without restarting services.
 The Cortex team discusses upcoming releases, including improved OTLP compatibility, native histograms, and support for Prometheus 3.0.
 Frederick Gonzalez from Adobe announces the project's road map, which includes graduating Cortex as a CNCF project, with goals such as third-party security review and document changes to governance processes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

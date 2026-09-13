@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Introducing TAG Workloads Foundat... Yuan Tang, Paco Xu, Alex Scammon, Rajas
+  Kakodkar & Stephen Rust
+nav_order: 109
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Introducing TAG Workloads Foundat... Yuan Tang, Paco Xu, Alex Scammon, Rajas Kakodkar & Stephen Rust"
-description: "The Tag Workloads Foundation inaugural CubeCon session introduced the group’s mission, leadership, and structure within the CNCF. The foundation, formed from a merger of previous technical advisory groups, focuses on defining and advancing..."
+description:
+  The Tag Workloads Foundation inaugural CubeCon session introduced the
+  group’s mission, leadership, and structure within the CNCF. The foundation, formed
+  from a merger of previous technical advisory groups, focuses on defining and advancing...
 resource: https://www.youtube.com/watch?v=AgeD4piXQaE
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The foundation, formed from a merger of previous technical advisory groups, focu
 The session detailed the roles of sub-projects, initiatives, and community groups, explaining how these structures support ongoing and time-bound efforts, foster community involvement, and help projects progress through the CNCF maturity lifecycle from sandbox to graduation.
 Attendees were encouraged to participate by joining meetings, contributing to reviews and white papers, and eventually taking on leadership roles.
 The Q&A clarified that project involvement with tags is voluntary, and collaboration across different open-source foundations is open and community-driven.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                       |

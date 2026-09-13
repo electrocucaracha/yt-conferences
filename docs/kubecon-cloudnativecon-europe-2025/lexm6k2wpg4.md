@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  OpenFeature Update From the Maintainers - Thomas Poignant, Lukas Reining &
+  Alexandra Oberaigner
+nav_order: 211
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "OpenFeature Update From the Maintainers - Thomas Poignant, Lukas Reining & Alexandra Oberaigner"
-description: "The Open Feature project is an open specification for a vendor-agnostic community-driven API for feature flagging that works with any management tool or in-house solution. The project aims to simplify the process of managing feature flags a..."
+description:
+  The Open Feature project is an open specification for a vendor-agnostic
+  community-driven API for feature flagging that works with any management tool or
+  in-house solution. The project aims to simplify the process of managing feature
+  flags a...
 resource: https://www.youtube.com/watch?v=lEXm6k2wpG4
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The project aims to simplify the process of managing feature flags and provide a
 The Open Feature CLI is a new tool that simplifies the process of generating code for feature flags, making it easier to integrate with existing applications.
 The tracking API allows users to track application metrics, such as user interactions and feature usage, providing insights into how features are performing in production.
 The project also includes an open telemetry semantic convention, which provides a standardized way of labeling and categorizing data related to feature flagging.
+
 # Main Points
 
 |   # | Main point                                                                                              |

@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Highly Scalable AI Search Engine and AI Data Lake With Kubernetes and Lance...
+  Lu Qiu & Chanchan Mao
+nav_order: 98
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Highly Scalable AI Search Engine and AI Data Lake With Kubernetes and Lance... Lu Qiu & Chanchan Mao"
-description: "The presenters discuss the challenges of managing AI data, emphasizing that the key differentiator for AI features is not the models themselves but the data—specifically its volume, velocity, and variety. Traditional data infrastructure str..."
+description:
+  The presenters discuss the challenges of managing AI data, emphasizing
+  that the key differentiator for AI features is not the models themselves but the
+  data—specifically its volume, velocity, and variety. Traditional data infrastructure
+  str...
 resource: https://www.youtube.com/watch?v=ILolPtZGSXU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Traditional data infrastructure struggles with the scale and complexity of moder
 To address this, they introduce Lance and LanceDB, an open-source, AI-native multimodal lakehouse built on the Lance format, which efficiently stores and manages text, images, videos, and embeddings in a unified system with compute-storage separation and seamless integration with existing open-source tools.
 The talk details LanceDB’s technical innovations, such as its columnar storage, user-defined functions for feature engineering, scalable indexing, and support for various search types (full-text, vector, and hybrid), all designed for high scalability and efficient random access.
 Real-world use cases from companies like Netflix, Midjourney, and Harvey illustrate how LanceDB enables unified, scalable, and cost-effective AI data management, while its Kubernetes-based architecture ensures autoscaling, strong consistency, and optimized performance for demanding AI workloads.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                           |

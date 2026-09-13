@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Prometheus V3 One Year In: OpenMetrics 2.0 and More! - Jan Fajerski & Bartłomiej
+  Płotka"
+nav_order: 302
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Prometheus V3 One Year In: OpenMetrics 2.0 and More! - Jan Fajerski & Bartłomiej Płotka"
-description: "The presentation provides an overview of recent developments and future directions for Prometheus since version 3, highlighting major updates, experimental features, and community initiatives. Key technical advancements include the stabiliz..."
+description:
+  The presentation provides an overview of recent developments and future
+  directions for Prometheus since version 3, highlighting major updates, experimental
+  features, and community initiatives. Key technical advancements include the stabiliz...
 resource: https://www.youtube.com/watch?v=6vE9b6StC0g
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Key technical advancements include the stabilization of native histograms, impro
 The team is also working on native support for delta metrics, exploring Parquet-based storage for better scalability, and developing composite sample storage to streamline histograms and improve efficiency.
 Community updates cover the adoption of new governance to encourage contributions, increased activity following the V3 release, and efforts to responsibly manage AI-generated contributions.
 The session concludes with a call for user feedback, ongoing work on metric schematization, and an invitation to participate in proposal discussions, emphasizing the project's commitment to continuous improvement and community engagement.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                           |

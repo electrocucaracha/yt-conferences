@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Andes Survivor: What I Learned in the Mountains | Roberto Canessa #50"
-description: "En esta entrevista, Roberto Canessa relata su experiencia como sobreviviente del accidente aéreo en los Andes, donde tras ser dados por muertos y suspendida la búsqueda, él y otros lograron salir caminando de la montaña después de 72 días..."
+nav_order: 4
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En esta entrevista, Roberto Canessa relata su experiencia como sobreviviente
+  del accidente aéreo en los Andes, donde tras ser dados por muertos y suspendida
+  la búsqueda, él y otros lograron salir caminando de la montaña después de 72 días...
 resource: https://www.youtube.com/watch?v=f3Oa0MGadXo
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Canessa reflexiona sobre cómo, en situaciones extremas, las aspiraciones se red
 Explica que la adaptación, la toma de decisiones diferentes y el apoyo mutuo fueron claves para sobrevivir, así como el sentido del humor y la fe.
 También comparte que ayudar a los demás le permitió sobrellevar su propio sufrimiento y que cada paso dado era un paso menos hacia la meta, enfatizando la importancia de enfocarse en el presente.
 Finalmente, Canessa considera que el milagro de los Andes es un legado del espíritu humano y la capacidad de personas comunes para lograr resultados extraordinarios con la ayuda de Dios.
+
 # Main Points
 
 |   # | Main point                                                                                          |

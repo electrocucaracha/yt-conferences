@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] Why is MCP Auth Hard and What Are We Planning to Do About It"
-description: "In this talk, Paul, a technical staff member at Anthropic and MCP core maintainer, discusses the challenges of implementing OAuth (O) in the context of the Model Context Protocol (MCP). He explains that traditional OAuth flows rely on stron..."
+nav_order: 36
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  In this talk, Paul, a technical staff member at Anthropic and MCP core
+  maintainer, discusses the challenges of implementing OAuth (O) in the context of
+  the Model Context Protocol (MCP). He explains that traditional OAuth flows rely
+  on stron...
 resource: https://www.youtube.com/watch?v=wvtGlur2SdI
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +28,7 @@ Paul outlines several practical difficulties, including the complexity of implem
 To address these, the team is working on conformance testing, SDK pluggability, improved inspection tools, live examples, and a new approach using client ID metadata documents (SEP 9991) to replace DCR.
 He also highlights the need for stronger trust mechanisms, such as moderated registries, and better guidance for handling "second hop" resource access.
 Paul concludes by inviting contributors to join the MCP O interest group to help improve specifications, tools, and documentation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

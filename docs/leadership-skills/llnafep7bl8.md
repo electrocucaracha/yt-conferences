@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Time Management Tips for Engineering Managers and Tech Leaders!
+nav_order: 40
+parent: Leadership Skills
 type: Video Note
-title: "Time Management Tips for Engineering Managers and Tech Leaders!"
-description: "The video discusses why engineering managers and technical leaders often struggle to advance in their roles, attributing it primarily to a constant lack of time and an overwhelming workload that never seems to diminish, regardless of increa..."
+description:
+  The video discusses why engineering managers and technical leaders often
+  struggle to advance in their roles, attributing it primarily to a constant lack
+  of time and an overwhelming workload that never seems to diminish, regardless of
+  increa...
 resource: https://www.youtube.com/watch?v=LLnafEp7Bl8
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The speaker compares this situation to working at a post office, where new tasks
 To address this, the speaker recommends a systematic approach: listing all regular tasks, grouping similar activities into "buckets," estimating the time needed for each, and categorizing them into four quadrants based on urgency and importance.
 By focusing on critical and urgent tasks, eliminating or delegating non-essential activities, and regularly reassessing time allocation, managers can better manage their workload and avoid burnout.
 The speaker emphasizes the importance of delegation and encourages viewers to consider whether tasks truly require their direct involvement or could be handled by others.
+
 # Main Points
 
 |   # | Main point                                                                                                                                  |

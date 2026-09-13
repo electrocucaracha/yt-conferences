@@ -1,11 +1,23 @@
 ---
+layout: default
+title: The Zen of Programming • Sander Hoogendoorn • GOTO 2022
+nav_order: 138
+parent: Developer Productivity
 type: Video Note
-title: "The Zen of Programming • Sander Hoogendoorn • GOTO 2022"
-description: "The speaker shares a personal journey of over 44 years in programming, emphasizing the importance of continuous learning, unlearning, and adapting one’s approach to writing code. Drawing analogies between traveling and coding, the speaker h..."
+description:
+  The speaker shares a personal journey of over 44 years in programming,
+  emphasizing the importance of continuous learning, unlearning, and adapting one’s
+  approach to writing code. Drawing analogies between traveling and coding, the speaker
+  h...
 resource: https://www.youtube.com/watch?v=syGnlE_oosM
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Drawing analogies between traveling and coding, the speaker highlights how beaut
 They discuss the pitfalls of unnecessary complexity, premature optimization, and the tendency to over-engineer for hypothetical future needs, advocating instead for writing less, more maintainable code and focusing only on solving actual problems.
 The talk also stresses the value of teamwork, experimentation, and asking questions, noting that software development is inherently complex and best tackled collaboratively.
 Ultimately, the speaker encourages lifelong learning, taking small steps, and maintaining a sense of fun and curiosity in both coding and life.
+
 # Main Points
 
 |   # | Main point                                                                                        |

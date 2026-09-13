@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Achieving Peak Performance Through Hardware Alignment in DRA - Gaurav Ghildiyal
+  & Byonggon Chun
+nav_order: 8
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Achieving Peak Performance Through Hardware Alignment in DRA - Gaurav Ghildiyal & Byonggon Chun"
-description: "In this session, presenters Gorov from Google and Bang from Fluid Stack discuss achieving peak performance in AI/ML workloads by aligning hardware resources—such as CPUs, GPUs, and network cards—within Kubernetes clusters. They explain how..."
+description:
+  In this session, presenters Gorov from Google and Bang from Fluid Stack
+  discuss achieving peak performance in AI/ML workloads by aligning hardware resources—such
+  as CPUs, GPUs, and network cards—within Kubernetes clusters. They explain how...
 resource: https://www.youtube.com/watch?v=MjVtNltfwhc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain how modern hardware topologies, including NUMA architectures and PC
 The speakers introduce Device Resource Assignment (DRA) as a solution, enabling users to specify resource locality requirements and thus avoid performance drops due to misalignment.
 They share benchmarking results demonstrating the substantial benefits of proper alignment and describe how DRA drivers, including community-driven projects like DRNet, facilitate topology-aware scheduling for GPUs, NICs, and CPUs.
 The session concludes with best practices for understanding hardware topology, benchmarking workloads, and leveraging DRA for granular resource control, while also highlighting ongoing community efforts to further improve alignment capabilities in Kubernetes environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

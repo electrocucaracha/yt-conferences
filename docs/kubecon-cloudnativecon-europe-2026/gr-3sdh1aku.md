@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Modelpack: Standardizing The Packaging And Distribution
+  Of... Andrew Block"
+nav_order: 276
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Modelpack: Standardizing The Packaging And Distribution Of... Andrew Block"
-description: "The speaker introduces Model Pack, a vendor-neutral, open standards project designed to simplify the packaging, distribution, and management of AI and ML models. Model Pack addresses common challenges in the AI/ML space, such as handling di..."
+description:
+  The speaker introduces Model Pack, a vendor-neutral, open standards project
+  designed to simplify the packaging, distribution, and management of AI and ML models.
+  Model Pack addresses common challenges in the AI/ML space, such as handling di...
 resource: https://www.youtube.com/watch?v=gR-3Sdh1AKU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Model Pack addresses common challenges in the AI/ML space, such as handling dive
 By leveraging the Open Container Initiative (OCI) standards, Model Pack allows models to be packaged as OCI artifacts, enabling easy integration with existing cloud-native tools, infrastructure, and CI/CD pipelines.
 It offers features like standardized packaging, a dedicated CLI, built-in security through artifact signing and SBOM generation, and seamless interoperability with current tools.
 The project is open source and community-driven, allowing users to publish, manage, and consume models using familiar container registries and runtimes, with resources available for further learning and community engagement.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

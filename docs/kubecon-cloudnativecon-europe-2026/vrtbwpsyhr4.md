@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Kill the Ticket Queue: A CNCF Blueprint for Self-Service Platfor... Bhavani
+  Indukuri & Aparna Prabhu"
+nav_order: 188
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Kill the Ticket Queue: A CNCF Blueprint for Self-Service Platfor... Bhavani Indukuri & Aparna Prabhu"
-description: "In this talk, Bhavani Indukuri and Aparna Prabhu from DigitalOcean describe how their team transformed the developer experience by replacing a slow, ticket-based environment provisioning process with a self-service platform. Previously, dev..."
+description:
+  In this talk, Bhavani Indukuri and Aparna Prabhu from DigitalOcean describe
+  how their team transformed the developer experience by replacing a slow, ticket-based
+  environment provisioning process with a self-service platform. Previously, dev...
 resource: https://www.youtube.com/watch?v=vrtBWPSyhr4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Previously, developers faced long delays—up to seven days—due to manual back
 By leveraging CNCF projects such as Backstage for a unified developer portal, Argo Events and Argo Workflows for event-driven automation, vcluster for lightweight, isolated Kubernetes environments, and Kyverno for automated policy enforcement and guardrails, they built a scalable, declarative, and observable platform.
 This new system enables developers to provision environments in under ten minutes, enforces resource and security policies automatically, and provides robust observability with Prometheus and Grafana.
 As a result, they achieved a 90% reduction in infrastructure tickets, significant cost savings, and freed platform teams to focus on innovation rather than support, ultimately delivering a much improved developer experience.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                 |

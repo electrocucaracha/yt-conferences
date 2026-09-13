@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | Cloud Native University: Kubernetes: The API of Everything
+  - Tibo Beijen"
+nav_order: 49
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | Cloud Native University: Kubernetes: The API of Everything - Tibo Beijen"
-description: "Tibayian, an experienced Kubernetes professional at DPG Media, introduces Kubernetes from an API-centric perspective rather than just as a container orchestrator. He explains that Kubernetes’ core is its API, which enables data exchange and..."
+description:
+  Tibayian, an experienced Kubernetes professional at DPG Media, introduces
+  Kubernetes from an API-centric perspective rather than just as a container orchestrator.
+  He explains that Kubernetes’ core is its API, which enables data exchange and...
 resource: https://www.youtube.com/watch?v=kJCvn4LR5lM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that Kubernetes’ core is its API, which enables data exchange and 
 By extending the API with custom resource definitions and additional controllers (often called operators), users can automate and manage a wide variety of workloads, both inside and outside Kubernetes, following a repeating pattern of spec, status, and reconciliation.
 Tibayian illustrates this with examples like canary deployments, Kafka clusters, and infrastructure management, emphasizing that Kubernetes is a flexible, extensible platform for orchestrating much more than containers.
 He concludes by encouraging attendees to view Kubernetes primarily as an extensible API platform rather than just a tool for running containers.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                            |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Copacetic: Directly Patch Container Image Vulnerabilities
+  - Jeremy Rickard"
+nav_order: 213
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Copacetic: Directly Patch Container Image Vulnerabilities - Jeremy Rickard"
-description: "Jeremy from Microsoft introduces Copaetic, a CNCF sandbox project designed to patch container images and address vulnerabilities, particularly CVEs, without requiring a full rebuild. Copa is a Go-based CLI tool that leverages BuildKit, the..."
+description:
+  Jeremy from Microsoft introduces Copaetic, a CNCF sandbox project designed
+  to patch container images and address vulnerabilities, particularly CVEs, without
+  requiring a full rebuild. Copa is a Go-based CLI tool that leverages BuildKit, the...
 resource: https://www.youtube.com/watch?v=gp2DVPBkECI
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Copa is a Go-based CLI tool that leverages BuildKit, the default builder for Doc
 The tool supports multiple platforms, all OCI media types, and can now patch not just OS-level vulnerabilities but also issues in application dependencies like Python and Node.js.
 Recent enhancements include multi-platform support, bulk image patching, and integration with various workflows such as GitHub Actions and Docker extensions.
 Jeremy encourages interested users to join the community, explore the GitHub repository, and participate in weekly meetings.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

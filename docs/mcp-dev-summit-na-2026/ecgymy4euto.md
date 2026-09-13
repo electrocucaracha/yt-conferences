@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Rules Are Not Suggestions: A History of MCP Non-Compliance - Sterling Dreyer,
+  Arcade.dev"
+nav_order: 78
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Rules Are Not Suggestions: A History of MCP Non-Compliance - Sterling Dreyer, Arcade.dev"
-description: "Serling, a founding engineer at Arcade, discussed his experience integrating MCP into their product, highlighting unexpected challenges due to inconsistencies and rapid changes in the MCP ecosystem. He described how Arcade manages OAuth and..."
+description:
+  Serling, a founding engineer at Arcade, discussed his experience integrating
+  MCP into their product, highlighting unexpected challenges due to inconsistencies
+  and rapid changes in the MCP ecosystem. He described how Arcade manages OAuth and...
 resource: https://www.youtube.com/watch?v=EcgYMY4eUTo
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He described how Arcade manages OAuth and governance for agentic tools, provides
 During integration, Serling encountered issues with server and client compliance, prompting the development of internal tools—MCP Debugger for live server testing and Toolbench for static code analysis—which revealed that 94% of tested servers failed at least one compliance check.
 He emphasized that while many servers function, non-compliance can introduce security risks and reliance on fallbacks, often due to incomplete framework support or rapid spec evolution.
 Serling advocated for better promotion and expansion of MCP’s conformance testing, improved SDKs and frameworks to enforce compliance, and stricter registry standards, all aimed at lowering barriers for users and ensuring reliable interoperability.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                          |

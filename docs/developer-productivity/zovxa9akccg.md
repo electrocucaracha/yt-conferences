@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Calling Functions Across Languages • Richard Feldman • GOTO 2023
+nav_order: 15
+parent: Developer Productivity
 type: Video Note
-title: "Calling Functions Across Languages • Richard Feldman • GOTO 2023"
-description: "The speaker discusses the challenges of calling functions across languages, particularly when trying to optimize performance. They share their experience with Scala, JavaScript, and Ruby, highlighting the difficulties of serializing data an..."
+description:
+  The speaker discusses the challenges of calling functions across languages,
+  particularly when trying to optimize performance. They share their experience with
+  Scala, JavaScript, and Ruby, highlighting the difficulties of serializing data an...
 resource: https://www.youtube.com/watch?v=ZOvxa9aKCCg
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They share their experience with Scala, JavaScript, and Ruby, highlighting the d
 The speaker then introduces the concept of using C as an intermediary language to bridge the gap between different programming languages.
 They demonstrate how this approach can be used to call a Ruby function from JavaScript in the same process, eliminating the need for inter-process communication or network calls.
 The speaker also touches on the trade-offs involved, including potential overhead and the risk of errors if not implemented correctly.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

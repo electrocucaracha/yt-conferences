@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Reflections on Context Engineering Via MCP Servers - Till Döhmen, MotherDuck
+nav_order: 77
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Reflections on Context Engineering Via MCP Servers - Till Döhmen, MotherDuck"
-description: "Till, from Mother Duck, discusses the company's development of a cloud data warehouse built on DuckDB, emphasizing its compute isolation model that ensures each user has a dedicated compute instance, thus preventing inefficient queries from..."
+description:
+  Till, from Mother Duck, discusses the company's development of a cloud
+  data warehouse built on DuckDB, emphasizing its compute isolation model that ensures
+  each user has a dedicated compute instance, thus preventing inefficient queries
+  from...
 resource: https://www.youtube.com/watch?v=BJYiOKgnKaQ
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He describes the evolution of their MCP server, which enables agentic access to 
 Till highlights the challenges of context engineering within agent-client interactions, such as tool discovery, workflow chaining, and the variability of client support for features like initial instructions.
 He expresses a wish for better feedback mechanisms from clients, improved workflow support, and more robust client-specific testing and observability.
 Finally, he notes that dives fill a gap between static dashboards and ad hoc business questions, allowing flexible, user-driven visualizations and potentially serving as a foundation for more reliable, vetted analytics within organizations.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

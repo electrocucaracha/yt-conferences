@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Crea Tu Mente Empresarial | Mauricio Correa #49"
-description: "En esta entrevista, Mauricio Correa, líder en la industria del network marketing y empresario internacional, comparte su visión sobre cómo crear una mentalidad empresarial exitosa. Destaca la importancia de diferenciar entre sueños y visión..."
+nav_order: 11
+parent: Foro De Crecimiento
+type: Video Note
+description:
+  En esta entrevista, Mauricio Correa, líder en la industria del network
+  marketing y empresario internacional, comparte su visión sobre cómo crear una mentalidad
+  empresarial exitosa. Destaca la importancia de diferenciar entre sueños y visión...
 resource: https://www.youtube.com/watch?v=BK_emVM8dqc
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Destaca la importancia de diferenciar entre sueños y visión: los sueños repre
 Mauricio enfatiza que el camino hacia la riqueza comienza con un empleo para sobrevivir, sigue con el emprendimiento para desarrollar habilidades y hábitos, y culmina con la inversión para generar ingresos pasivos.
 Subraya la necesidad de enfrentar los miedos, desarrollar hábitos, habilidades y humildad, y no dejarse paralizar por la ansiedad o la presión social.
 Finalmente, resalta que el éxito empresarial requiere claridad de metas, responsabilidad, resiliencia ante el fracaso y un enfoque constante en el crecimiento personal y profesional, cuidando tanto la salud física como la emocional.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

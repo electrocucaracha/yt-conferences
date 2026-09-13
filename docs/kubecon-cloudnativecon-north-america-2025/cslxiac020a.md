@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "UX Research Report: Prometheus and OTel's Resource Attributes. - Victoria
+  Nduka & Amy Super"
+nav_order: 329
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "UX Research Report: Prometheus and OTel's Resource Attributes. - Victoria Nduka & Amy Super"
-description: "The presentation detailed a UX research project focused on how Prometheus should handle OpenTelemetry resource attributes, led by Victoria Enuka and supported by Amy Super and others at Grafana Labs. The research identified four main user w..."
+description:
+  The presentation detailed a UX research project focused on how Prometheus
+  should handle OpenTelemetry resource attributes, led by Victoria Enuka and supported
+  by Amy Super and others at Grafana Labs. The research identified four main user
+  w...
 resource: https://www.youtube.com/watch?v=cSLXIAc020A
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -17,6 +31,7 @@ Users expect resource attributes to be treated like metric labels—directly que
 Stakeholder interviews highlighted philosophical and technical differences between Prometheus and OpenTelemetry, but also a shared willingness to improve user experience through better collaboration.
 Recommendations included prioritizing technical solutions to ease attribute handling, improving documentation with practical examples, and fostering cross-community ideation, with ongoing mentorship programs supporting these efforts.
 The session concluded with resources for further engagement and an invitation for questions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                  |

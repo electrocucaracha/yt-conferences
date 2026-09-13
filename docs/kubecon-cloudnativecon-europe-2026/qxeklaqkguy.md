@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "What Happens in Kubernetes SIG Scalability: Intro + DeepDive - Wojciech Tyczyński,
+  Google"
+nav_order: 394
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "What Happens in Kubernetes SIG Scalability: Intro + DeepDive - Wojciech Tyczyński, Google"
-description: "Voytech Tachinski, a technical lead for the Kubernetes SIG Scalability, outlines the group's main areas of focus, which include defining and measuring Kubernetes scalability, monitoring for regressions, implementing improvements, and collab..."
+description:
+  Voytech Tachinski, a technical lead for the Kubernetes SIG Scalability,
+  outlines the group's main areas of focus, which include defining and measuring Kubernetes
+  scalability, monitoring for regressions, implementing improvements, and collab...
 resource: https://www.youtube.com/watch?v=QxeklaQkgUY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains that scalability in Kubernetes is a complex, multi-dimensional probl
 The SIG uses tools like ClusterLoader and PerfDash for rigorous scalability testing across major cloud providers, emphasizing the importance of real-world cluster validation and encouraging feature owners to contribute tests.
 Recent improvements discussed include the watch list feature to reduce memory usage, serving consistent list requests from cache to lower load on etcd, mechanisms to prevent controllers from acting on stale data, opportunistic batching in the scheduler for faster pod placement, and ongoing work to better handle large resource objects.
 Tachinski concludes by inviting community participation to help advance scalability efforts.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                       |

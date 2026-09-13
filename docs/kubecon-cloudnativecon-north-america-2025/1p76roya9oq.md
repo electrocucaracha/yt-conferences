@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "From Panic To Peace: Making K8s Controller Observability Suck Less - Cat Morris
+  & Derik Evangelista"
+nav_order: 86
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "From Panic To Peace: Making K8s Controller Observability Suck Less - Cat Morris & Derik Evangelista"
-description: "The presenters discuss improving Kubernetes controller observability by sharing a four-chapter story, beginning with a Shrek-inspired tale illustrating the challenges of identifying and fixing problems. They recount a real-world debugging e..."
+description:
+  The presenters discuss improving Kubernetes controller observability
+  by sharing a four-chapter story, beginning with a Shrek-inspired tale illustrating
+  the challenges of identifying and fixing problems. They recount a real-world debugging
+  e...
 resource: https://www.youtube.com/watch?v=1P76Roya9oQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They recount a real-world debugging experience with a user named Sid, highlighti
 Solutions included introducing a streamlined CLI, developing a graphical user interface for easier information discovery, implementing structured and leveled logging, and reducing unnecessary log output.
 They also addressed the need for clearer status indicators, consistent resource conditions, and event emissions to help users trace issues efficiently, drawing inspiration from community feedback and industry expectations.
 The talk concludes with the concept of the "observability onion," emphasizing the importance of layered observability—from logs and status to events, metrics, and user interfaces—to support different user personas and ensure a more peaceful, effective debugging experience.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

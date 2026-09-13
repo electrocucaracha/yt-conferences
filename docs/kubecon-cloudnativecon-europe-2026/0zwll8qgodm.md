@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "OpenTelemetry Collector SIG: Project Updates - Jade G, Dmitrii A, Alex B,
+  Evan B & Antoine T"
+nav_order: 232
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "OpenTelemetry Collector SIG: Project Updates - Jade G, Dmitrii A, Alex B, Evan B & Antoine T"
-description: "The OpenTelemetry Collector team provided a comprehensive update on the project's progress, focusing on stabilization efforts and key component improvements. They discussed the organization of the collector across three main repositories—co..."
+description:
+  The OpenTelemetry Collector team provided a comprehensive update on the
+  project's progress, focusing on stabilization efforts and key component improvements.
+  They discussed the organization of the collector across three main repositories—co...
 resource: https://www.youtube.com/watch?v=0zwLl8QGOdM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They discussed the organization of the collector across three main repositories�
 Major updates include performance improvements and memory reductions in Kubernetes components, deprecation of the batch processor in favor of exporter-based batching, enhancements to internal telemetry for better component-level insights, and the introduction of experimental features like entities and profiling support.
 The team also addressed the challenges of maintaining a large number of contrib components, encouraging users to build custom distributions with the collector builder for better efficiency and security, while acknowledging the convenience of the all-in-one contrib distribution.
 Finally, they invited feedback and questions, noting ongoing discussions around further optimizations, such as improved load balancing and data compression, and encouraged community involvement in shaping future developments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                     |

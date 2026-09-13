@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Sponsored Keynote: From Pilot to Production: Scaling and Optimizing Agen...
+  Idit Levine & Keith Babo"
+nav_order: 342
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Sponsored Keynote: From Pilot to Production: Scaling and Optimizing Agen... Idit Levine & Keith Babo"
-description: "The speaker discusses the challenges AI developers face in moving from pilot projects to production, particularly the lack of agent representation in Kubernetes. To address this, Solo developed the K agent project, which treats agents, skil..."
+description:
+  The speaker discusses the challenges AI developers face in moving from
+  pilot projects to production, particularly the lack of agent representation in Kubernetes.
+  To address this, Solo developed the K agent project, which treats agents, skil...
 resource: https://www.youtube.com/watch?v=45rqVBAlHyQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ To address this, Solo developed the K agent project, which treats agents, skills
 The Agent Gateway provides essential features such as memory management, session optimization, and security, while being efficient and supported by an open-source community under the Linux Foundation.
 To improve visibility and management, the Agent Registry offers a unified catalog for all agentic artifacts, supports federation, curation, and integration with multiple runtimes, and helps detect environment drift.
 The speaker highlights the growing momentum in these open-source communities and announces the donation of Agent Registry to the CNCF to further address industry gaps.
+
 # Main Points
 
 |   # | Main point                                                                                                                                          |

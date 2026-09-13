@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  SIG-Multicluster Intro and Deep Dive - Stephen Kitt, Pavanipriya Sajja & Jeremy
+  Olmsted-Thompson
+nav_order: 269
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "SIG-Multicluster Intro and Deep Dive - Stephen Kitt, Pavanipriya Sajja & Jeremy Olmsted-Thompson"
-description: "The SIG Multicluster session, led by Jeremy, Stephen, and Pawani Priya Saja, provided an overview of the group's mission to simplify working with multiple Kubernetes clusters, acknowledging the growing prevalence and complexity of multiclus..."
+description:
+  The SIG Multicluster session, led by Jeremy, Stephen, and Pawani Priya
+  Saja, provided an overview of the group's mission to simplify working with multiple
+  Kubernetes clusters, acknowledging the growing prevalence and complexity of multiclus...
 resource: https://www.youtube.com/watch?v=u_WfTU3pL1o
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The team detailed several key projects and APIs, such as the Cluster Profile API
 Findings from a user experience survey of 150 engineers highlighted common motivations for multicluster setups—including infrastructure flexibility, isolation, business unit autonomy, regional redundancy, and environment separation—as well as major challenges like workload management, observability, operational complexity, and time management.
 Engineers expressed a desire for increased automation, flexible architectures, and improved user experiences, with recommendations focusing on better documentation, centralized monitoring, AI-driven automation, operational training, and developer-centric tools.
 The session concluded with an invitation for community feedback and participation, updates on API adoption and maturity, and a discussion on the evolving needs driven by AI and the importance of maintaining a familiar Kubernetes experience in multicluster operations.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                    |

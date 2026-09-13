@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Dapr: Start Building Distributed Applications With
+  Ease Using... Marc Duiker"
+nav_order: 215
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: Dapr: Start Building Distributed Applications With Ease Using... Marc Duiker"
-description: "Mark Derer, a community manager for the Deer project, introduces Deer, the Distributed Application Runtime, which is a CNCF-graduated project designed to simplify building secure and reliable microservices and agentic AI systems through bui..."
+description:
+  Mark Derer, a community manager for the Deer project, introduces Deer,
+  the Distributed Application Runtime, which is a CNCF-graduated project designed
+  to simplify building secure and reliable microservices and agentic AI systems through
+  bui...
 resource: https://www.youtube.com/watch?v=N7ocoqSUNV4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Deer operates as a sidecar to applications, providing APIs that decouple the app
 A key recent feature is Deer Workflow, a built-in workflow engine that ensures workflow durability and seamless integration with other Deer APIs, supporting multiple programming languages and workflow patterns such as activity chaining and event waiting.
 The latest release, version 1.16, adds multi-location workflow support, improved performance, HTTP streaming, identity federation, and enhanced conversation API tooling, while the upcoming 1.17 release will focus on workflow versioning, management tooling, and tracing.
 Mark encourages viewers to explore case studies, participate in planning, and connect via shared links or at the project pavilion.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                   |

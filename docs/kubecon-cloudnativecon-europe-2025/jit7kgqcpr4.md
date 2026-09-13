@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "First Day Foresight: Anomaly Detection for Observability - Prashant Gupta
+  & Kruthika Prasanna Simha"
+nav_order: 95
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "First Day Foresight: Anomaly Detection for Observability - Prashant Gupta & Kruthika Prasanna Simha"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=jiT7kGqcpR4
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: Kitika and Prashant 
 They introduce the concept of combining metrics, models, and modern-day observability tools to shift from a reactive to proactive approach to anomaly detection.
 The team shares a case study of an astronomy-themed store that used anomaly detection to identify issues before they affected users, highlighting its benefits for reducing mean time to detect (MTTD) and mean time to resolve (MTTR).
 They also discuss the challenges of implementing deep learning models for anomaly detection and introduce CubeFlow as a platform for making ML on Kubernetes simple, portable, and scalable.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

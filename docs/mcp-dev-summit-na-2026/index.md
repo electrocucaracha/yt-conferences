@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Mcp Dev Summit Na 2026"
+has_children: true
+nav_order: 14
+---
+
 # Mcp Dev Summit Na 2026
 
 ## Concepts

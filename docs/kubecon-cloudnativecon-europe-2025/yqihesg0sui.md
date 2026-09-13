@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "More Nodes, More Problems: Solving Multi-Host GPU/TPU Scheduli... John Belamaric
+  & Morten Torkildsen"
+nav_order: 198
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "More Nodes, More Problems: Solving Multi-Host GPU/TPU Scheduli... John Belamaric & Morten Torkildsen"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=YqIHESG0suI
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: John Bellame from Go
 To address this, John introduces Dynamic Resource Allocation (DRA), a new API that allows users to request devices and makes them available to pods and containers.
 DRA aims to improve compact placement, reduce failures, and provide self-healing capabilities, but still has limitations in handling complex resource relationships.
 The technology is being developed by the Kubernetes community, with ongoing work to address issues like tolerations for GPU resources and device capabilities.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                         |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Keynote: From Cloud-Native Apps to Cloud-Native Platforms - Abby Bangser,
+  Principal Engineer"
+nav_order: 172
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: From Cloud-Native Apps to Cloud-Native Platforms - Abby Bangser, Principal Engineer"
-description: "The speaker discusses the importance of platform engineering in enabling builders within organizations to work faster, safer, and more efficiently, emphasizing that true system optimization requires focusing on the primary bottleneck that l..."
+description:
+  The speaker discusses the importance of platform engineering in enabling
+  builders within organizations to work faster, safer, and more efficiently, emphasizing
+  that true system optimization requires focusing on the primary bottleneck that l...
 resource: https://www.youtube.com/watch?v=8t0-5cvvMGM
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Drawing parallels to commuting in Amsterdam and the evolution of software delive
 The speaker notes that current bottlenecks in platforms often stem from slow access to necessary tools, a problem exacerbated by the rapid pace of AI-driven development.
 To address this, the speaker advocates for a marketplace-style platform architecture that allows both producers and consumers to self-serve, and introduces the concept of "good producer citizens," akin to the 12-factor app model for consumers.
 The talk concludes by inviting the community to contribute to the ongoing development of platform capability standards, stressing the need for shared best practices to help organizations build secure, scalable, and performant platforms in an era of unprecedented software growth.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

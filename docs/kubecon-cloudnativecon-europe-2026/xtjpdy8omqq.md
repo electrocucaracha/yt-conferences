@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  An Immersive and Visual Journey Into Kubernetes Networking - Benoit Entzmann,
+  Feesh
+nav_order: 20
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "An Immersive and Visual Journey Into Kubernetes Networking - Benoit Entzmann, Feesh"
-description: "The speaker, Benoman, a DevSecOps consultant with extensive networking experience, introduces a 3D game designed to visually explain Kubernetes networking concepts, from basic to advanced scenarios. Using an underwater world analogy, he dem..."
+description:
+  The speaker, Benoman, a DevSecOps consultant with extensive networking
+  experience, introduces a 3D game designed to visually explain Kubernetes networking
+  concepts, from basic to advanced scenarios. Using an underwater world analogy, he
+  dem...
 resource: https://www.youtube.com/watch?v=Xtjpdy8OmQQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Using an underwater world analogy, he demonstrates how packets (represented as f
 He covers scenarios involving direct pod-to-pod communication, DNS resolution via CoreDNS, service load balancing, and inter-node communication using VXLAN tunnels.
 The presentation then explores more advanced topics, including exposing services to the external world through ingress gateways, implementing service mesh with sidecars for observability and routing, and the newer ambient mesh approach using Z tunnel and waypoint components for improved performance and layer 7 processing.
 Throughout, Benoman emphasizes the importance of understanding packet flow and the impact of various Kubernetes networking components, concluding with a brief mention of potential future topics like multicluster communication.
+
 # Main Points
 
 |   # | Main point                                                                                       |

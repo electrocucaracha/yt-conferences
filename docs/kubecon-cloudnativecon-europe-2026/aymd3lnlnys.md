@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Kubeflow in Cloud Native AI: Orchestrati... Johnu G, Valentina S, Antonin
+  S, Alexander P & Michael Z"
+nav_order: 191
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Kubeflow in Cloud Native AI: Orchestrati... Johnu G, Valentina S, Antonin S, Alexander P & Michael Z"
-description: "The session introduces Kubeflow as a comprehensive, cloud-native AI platform designed to simplify and scale machine learning workflows on Kubernetes. Maintainers from various organizations discuss Kubeflow’s modular components, including to..."
+description:
+  The session introduces Kubeflow as a comprehensive, cloud-native AI platform
+  designed to simplify and scale machine learning workflows on Kubernetes. Maintainers
+  from various organizations discuss Kubeflow’s modular components, including to...
 resource: https://www.youtube.com/watch?v=AYmD3LNlNYs
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Maintainers from various organizations discuss Kubeflow’s modular components, 
 Notable updates include the upcoming Notebooks 2.0 for improved user experience, enhanced model registry integration, distributed training capabilities, and new features in the inference platform to support generative AI and LLM workloads.
 Kubeflow Pipelines has transitioned to SeaweedFS for artifact storage, introduced Kubernetes-native resource management, and is moving toward a more streamlined, plugin-based architecture.
 The session concludes with an invitation to join the Kubeflow community, access technical resources, and participate in upcoming events and demos.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                  |

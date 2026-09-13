@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Keynote: MCP Apps: Extending the Frontier - Ido Salomon & Liad Yosef"
-description: "The speakers introduce MCP apps, a rapidly evolving open standard that enables rich, interactive user interfaces to replace traditional walls of text in applications like ChatGPT, VS Code, and cloud platforms. In just four months, MCP apps..."
+nav_order: 45
+parent: Mcp Dev Summit Na 2026
+type: Video Note
+description:
+  The speakers introduce MCP apps, a rapidly evolving open standard that
+  enables rich, interactive user interfaces to replace traditional walls of text in
+  applications like ChatGPT, VS Code, and cloud platforms. In just four months, MCP
+  apps...
 resource: https://www.youtube.com/watch?v=e6sspA7WpWc
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ In just four months, MCP apps have seen widespread adoption by major companies a
 The core concept is to standardize how UI components are sent and interact with hosts, enabling seamless communication between the UI, the host, and the model without direct backend connections.
 MCP apps support various UI generation methods, from predefined to fully generative, and aim to unify the ecosystem with a single protocol, encouraging community involvement through open meetings and contributions.
 Looking ahead, the team is working on features like reusable views and greater interoperability, envisioning MCP apps as the foundation for a new, more integrated web experience where developers can build once and deploy everywhere.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                         |

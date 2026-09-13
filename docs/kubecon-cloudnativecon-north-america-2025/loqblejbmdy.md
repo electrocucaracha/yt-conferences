@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Getting up To Date With Docsy: The Ku... Natali Vlatko, Rey Lejano, Divya
+  Mohan & Sayak Mukhopadhyay"
+nav_order: 90
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Getting up To Date With Docsy: The Ku... Natali Vlatko, Rey Lejano, Divya Mohan & Sayak Mukhopadhyay"
-description: "The video features members of the Kubernetes SIG Docs team—Ray Laano, Natalie Latco, and Da Muan—discussing the ongoing upgrade of the Kubernetes documentation site, specifically the transition to newer versions of the Doxy theme and Hugo s..."
+description:
+  The video features members of the Kubernetes SIG Docs team—Ray Laano,
+  Natalie Latco, and Da Muan—discussing the ongoing upgrade of the Kubernetes documentation
+  site, specifically the transition to newer versions of the Doxy theme and Hugo s...
 resource: https://www.youtube.com/watch?v=lOQBleJBMdY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain the importance of up-to-date, high-quality documentation for user a
 The upgrade process is incremental, focusing on small, manageable pull requests to minimize disruption, ensure compatibility across multiple languages, and maintain site stability during frequent Kubernetes releases.
 The team emphasizes the need for community involvement in reviewing, testing, and providing feedback on documentation changes, highlighting the challenges of maintaining such a large, volunteer-driven project and inviting contributors to participate through GitHub, Slack, and regular meetings.
 They also address questions about testing, noting that while build and deployment checks exist, there are currently no end-to-end automated tests, and they welcome contributions in this area.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                  |

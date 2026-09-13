@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Composable Platforms in the Wild: Patterns That Work (and Fail) - Daniel Bryant,
+  Syntasso"
+nav_order: 43
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Composable Platforms in the Wild: Patterns That Work (and Fail) - Daniel Bryant, Syntasso"
-description: "The speaker introduces the topic of composable platforms, emphasizing the importance of composition across three key layers: the application/UX layer, the core platform layer, and the infrastructure layer. He argues that teams responsible f..."
+description:
+  "The speaker introduces the topic of composable platforms, emphasizing
+  the importance of composition across three key layers: the application/UX layer,
+  the core platform layer, and the infrastructure layer. He argues that teams responsible
+  f..."
 resource: https://www.youtube.com/watch?v=05AxSXIQz6w
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He argues that teams responsible for each layer must own their flow of value, an
 Drawing on personal experience and industry examples, he highlights common pitfalls such as the "DevOps tool dump" and governance by documentation, advocating instead for composable building blocks, governance as code, and treating platforms as products with clear ownership and lifecycle management.
 Case studies from companies like Lego, Wix, and DoorDash illustrate the benefits of these approaches, including improved developer onboarding, automated compliance, and significant efficiency gains.
 The talk concludes by reinforcing the need for clear APIs, discoverable components, and a product mindset to ensure platforms can scale, evolve, and deliver value effectively.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

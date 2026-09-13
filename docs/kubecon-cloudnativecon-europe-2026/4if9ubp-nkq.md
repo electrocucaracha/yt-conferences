@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "The KEP Lifecycle: How the Release Team Guides Enhanceme... Kat C, Sreeram
+  V, Rayan D & Subhasmita S"
+nav_order: 361
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "The KEP Lifecycle: How the Release Team Guides Enhanceme... Kat C, Sreeram V, Rayan D & Subhasmita S"
-description: "The video features a panel of Kubernetes release team members who explain the Kubernetes Enhancement Proposal (KEP) process and how the release team ensures enhancements contribute to project stability. They introduce themselves and outline..."
+description:
+  The video features a panel of Kubernetes release team members who explain
+  the Kubernetes Enhancement Proposal (KEP) process and how the release team ensures
+  enhancements contribute to project stability. They introduce themselves and outline...
 resource: https://www.youtube.com/watch?v=4if9UBP-NKQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They introduce themselves and outline the role of KEPs, which are design documen
 The panel details the step-by-step lifecycle of a KEP from both contributor and release team perspectives, including SIG sponsorship, PR requirements, production readiness reviews, and the structured 15-week release cycle with key milestones like PR freeze, enhancement freeze, and code freeze.
 They discuss recent process improvements, such as moving from Google Sheets to automated GitHub tracking and instituting hard deadlines for PR submissions to improve efficiency and reduce confusion.
 The session concludes with encouragement for new contributors to join the release team, an overview of the tracking board’s automation, and a Q&A addressing process automation and documentation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                     |

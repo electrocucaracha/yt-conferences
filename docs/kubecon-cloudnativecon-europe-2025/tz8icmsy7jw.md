@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  Dynamic Multi-Cluster Controllers With Controller-runtime - Marvin Beckers
+  & Stefan Schimanski
+nav_order: 78
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Dynamic Multi-Cluster Controllers With Controller-runtime - Marvin Beckers & Stefan Schimanski"
-description: "Marvin Beckers, a team lead at Kubernetic, discusses writing dynamic multicluster controllers with controller runtime. He explains that multicluster runtime is an extension of controller runtime, adding a provider concept to enable reconcil..."
+description:
+  Marvin Beckers, a team lead at Kubernetic, discusses writing dynamic
+  multicluster controllers with controller runtime. He explains that multicluster
+  runtime is an extension of controller runtime, adding a provider concept to enable
+  reconcil...
 resource: https://www.youtube.com/watch?v=Tz8IcMSY7jw
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ Marvin Beckers, a team lead at Kubernetic, discusses writing dynamic multicluste
 He explains that multicluster runtime is an extension of controller runtime, adding a provider concept to enable reconciliation across multiple clusters.
 The project aims to provide a generic and integrated solution for managing multiple Kubernetes clusters, allowing users to scale their controllers more efficiently.
 Marvin showcases the code and demonstrates how to build a multicluster controller using the new multicluster runtime, highlighting its benefits and potential use cases.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

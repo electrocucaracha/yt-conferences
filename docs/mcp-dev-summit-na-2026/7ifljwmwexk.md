@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "From One MCP Server To an Ecosystem: When MCP Stops Being a Server and Becomes
+  a Pla... Vaibhav Tupe"
+nav_order: 29
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "From One MCP Server To an Ecosystem: When MCP Stops Being a Server and Becomes a Pla... Vaibhav Tupe"
-description: "In this session, the speaker from Equinix discusses the journey and challenges of scaling MCP servers within a large digital infrastructure company. Initially, Equinix started with a single MCP server to automate infrastructure tasks like p..."
+description:
+  In this session, the speaker from Equinix discusses the journey and challenges
+  of scaling MCP servers within a large digital infrastructure company. Initially,
+  Equinix started with a single MCP server to automate infrastructure tasks like p...
 resource: https://www.youtube.com/watch?v=7iFLJwMWEXk
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ As adoption grew, multiple teams wanted to onboard their APIs, leading to govern
 The speaker emphasizes the importance of designing domain-first, avoiding "mega" MCP servers, and using tool tags and skills to manage context explosion and agent workflows.
 Security, dynamic discovery, and observability are highlighted as critical, with lessons learned around authorization, tool naming, and workflow determinism.
 The talk concludes with key takeaways: confining domains, using tags and skills to manage scale and context, and designing MCP servers with ecosystem growth in mind, while addressing questions about breaking up large servers, determinism, agent-to-agent communication, and ROI considerations.
+
 # Main Points
 
 |   # | Main point                                                                                                                |

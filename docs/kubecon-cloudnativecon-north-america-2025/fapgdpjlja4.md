@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Resilient by Design: Building Durable AI Agents on Kubernetes - Yaron Schneider,
+  Diagrid"
+nav_order: 258
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Resilient by Design: Building Durable AI Agents on Kubernetes - Yaron Schneider, Diagrid"
-description: "Iron Schneider, CTO and co-founder of Diagrid and co-creator of the Dapper project, discusses the evolution and challenges of automation in software engineering, particularly within the CNCF ecosystem. He explains how the drive for automati..."
+description:
+  Iron Schneider, CTO and co-founder of Diagrid and co-creator of the Dapper
+  project, discusses the evolution and challenges of automation in software engineering,
+  particularly within the CNCF ecosystem. He explains how the drive for automati...
 resource: https://www.youtube.com/watch?v=FApGdPJlJA4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains how the drive for automation has led to increasingly complex systems
 However, this increased autonomy introduces nondeterminism and reliability challenges, especially as agentic workflows scale and interact with external systems, potentially leading to high costs and operational risks.
 Schneider introduces Dapper agents, a Python-based, vendor-neutral agentic framework within CNCF, designed to ensure reliable, stateful, and observable execution of both deterministic and nondeterministic workflows, even across distributed Kubernetes environments.
 Through demonstrations, he highlights Dapper agents’ capabilities in workflow durability, observability integration, and seamless recovery from failures, emphasizing its suitability for building robust, scalable AI-driven automation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

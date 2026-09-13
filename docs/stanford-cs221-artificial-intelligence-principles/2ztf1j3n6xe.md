@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 7: Markov Decision Processes"
-description: "In this lecture, the instructor introduces Markov Decision Processes (MDPs) as a generalization of search problems, highlighting that while search problems assume deterministic actions, MDPs account for uncertainty by allowing actions to ha..."
+nav_order: 18
+parent: Stanford Cs221 Artificial Intelligence Principles
+type: Video Note
+description:
+  In this lecture, the instructor introduces Markov Decision Processes
+  (MDPs) as a generalization of search problems, highlighting that while search problems
+  assume deterministic actions, MDPs account for uncertainty by allowing actions to
+  ha...
 resource: https://www.youtube.com/watch?v=2ZtF1j3n6XE
-tags: ["stanford-cs221-artificial-intelligence-principles", video, learning]
+tags:
+  - stanford-cs221-artificial-intelligence-principles
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ The lecture uses examples such as a "flaky tram" transportation problem and a di
 Key concepts covered include the definition of MDPs, the distinction between costs and rewards, the importance of policies (which map states to actions), and the evaluation of policies through rollouts and expected utility, incorporating discount factors to weigh future rewards.
 The instructor explains two main algorithms: policy evaluation, which computes the value of a given policy using a recurrence relation and bootstrapping, and value iteration, which finds the optimal policy by maximizing over possible actions at each state.
 The lecture concludes by emphasizing the structural similarities between these algorithms and the importance of understanding their underlying recurrences, setting the stage for the next topic on reinforcement learning, where transition probabilities and rewards may be unknown.
+
 # Main Points
 
 |   # | Main point                                                                                                                                       |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Lightning Talk: Resource Fairness and Utilization for Heterogeneous Batch/M...
+  Yuki Iwai & Gabe Saba"
+nav_order: 9
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "Lightning Talk: Resource Fairness and Utilization for Heterogeneous Batch/M... Yuki Iwai & Gabe Saba"
-description: "In this talk, Yuki from CyberAgent and Gabe from Google introduce Q, an AI workload scheduler designed to optimize resource allocation and fair sharing for heterogeneous batch machine learning platforms. Q operates as a secondary scheduler..."
+description:
+  In this talk, Yuki from CyberAgent and Gabe from Google introduce Q,
+  an AI workload scheduler designed to optimize resource allocation and fair sharing
+  for heterogeneous batch machine learning platforms. Q operates as a secondary scheduler...
 resource: https://www.youtube.com/watch?v=dKhF-hZi7CI
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Q operates as a secondary scheduler in front of Kubernetes, providing advanced f
 The presentation focuses on three fair resource distribution approaches: fair sharing with preemption, hierarchical fair sharing, and admission fair sharing based on historical data.
 Through detailed examples, they demonstrate how Q uses dominant resource share (DRS) values and cohort hierarchies to dynamically preempt and allocate GPUs, ensuring efficient and equitable resource utilization across teams and projects.
 The talk concludes with an explanation of how Q leverages historical usage snapshots and penalty mechanisms to further refine admission decisions and maintain scheduling fairness.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

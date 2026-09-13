@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Tutorial: Mind Your Pod's Business: Netwo... Surya Seetharaman, Miguel Duarte
+  Barroso & Keith Burdis"
+nav_order: 352
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Tutorial: Mind Your Pod's Business: Netwo... Surya Seetharaman, Miguel Duarte Barroso & Keith Burdis"
-description: "The speaker discusses network segmentation in Kubernetes, highlighting the importance of isolating pods across different networks to ensure compliance and security. They explain how cluster-wide services can be isolated using UDNS (User-Def..."
+description:
+  The speaker discusses network segmentation in Kubernetes, highlighting
+  the importance of isolating pods across different networks to ensure compliance
+  and security. They explain how cluster-wide services can be isolated using UDNS
+  (User-Def...
 resource: https://www.youtube.com/watch?v=bFKls7IvzNE
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The speaker discusses network segmentation in Kubernetes, highlighting the impor
 They explain how cluster-wide services can be isolated using UDNS (User-Defined Networking) and demonstrate its functionality by creating a cluster UDN and virtual machines in separate namespaces.
 The speaker also touches on the concept of interconnecting UDNS, which allows for cross-network communication between pods, but notes that it's still an experimental feature.
 They conclude by highlighting the availability of UDNS in Kubernetes 1.32 and encouraging attendees to try it out.
+
 # Main Points
 
 |   # | Main point                                                                   |

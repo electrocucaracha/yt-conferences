@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Tu mente ya decidió cuánto dinero puedes tener | Tony Velasco – Sesión 35
+nav_order: 72
+parent: Foro De Crecimiento
 type: Video Note
-title: "Tu mente ya decidió cuánto dinero puedes tener | Tony Velasco – Sesión 35"
-description: 'En este video, se aborda cómo los problemas financieros son en realidad síntomas de creencias y patrones internos relacionados con el dinero. Tony Velasco, invitado experto en negocios y finanzas, explica que cada persona tiene un "termosta...'
+description:
+  En este video, se aborda cómo los problemas financieros son en realidad
+  síntomas de creencias y patrones internos relacionados con el dinero. Tony Velasco,
+  invitado experto en negocios y finanzas, explica que cada persona tiene un "termosta...
 resource: https://www.youtube.com/watch?v=mcmnRA276Sw
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Tony Velasco, invitado experto en negocios y finanzas, explica que cada persona 
 Se presentan las cuatro leyes de la riqueza: la ley del ingreso (no importa cuánto ganas, sino de dónde lo ganas), la ley del gasto (no es cuánto ganas, sino cuánto conservas), la ley del ahorro y la ley de la inversión, enfatizando la importancia de crear hábitos sólidos en cada una.
 Además, se diferencian los ciclos de pobreza y riqueza, destacando que la clave para romper el ciclo negativo es identificar fugas de dinero, simplificar gastos, aumentar ingresos y educarse constantemente.
 Finalmente, se resalta la importancia de tener un sueño claro, comprometerse al 100% con él y tomar acción disciplinada para lograr una verdadera transformación financiera.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                         |

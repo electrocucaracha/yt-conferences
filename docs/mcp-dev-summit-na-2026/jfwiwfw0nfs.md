@@ -1,11 +1,23 @@
 ---
+layout: default
+title: What if MCP was Symmetric? - Jerome Swannack, Anthropic
+nav_order: 104
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "What if MCP was Symmetric? - Jerome Swannack, Anthropic"
-description: 'Jerome introduces an idea to improve the MCP protocol by enabling more composable and flexible systems through what he calls "symmetric MCP." He explains that current MCP servers are limited in their ability to interact, especially for adva...'
+description:
+  Jerome introduces an idea to improve the MCP protocol by enabling more
+  composable and flexible systems through what he calls "symmetric MCP." He explains
+  that current MCP servers are limited in their ability to interact, especially for
+  adva...
 resource: https://www.youtube.com/watch?v=jFWIWfw0Nfs
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ Jerome introduces an idea to improve the MCP protocol by enabling more composabl
 By making MCP symmetric—allowing clients to expose tools to servers and routing tool calls centrally through the client—developers could build more modular, secure, and composable systems, akin to an LLM operating system where components can be plugged together like Unix pipes.
 Jerome shares his experience building a prototype of this approach, noting benefits such as improved composability, centralized control, and easier permission management, while acknowledging challenges around protocol extensibility, security, and user experience.
 He concludes that although this is a significant conceptual shift, it could unlock richer MCP ecosystems and simplify the development of advanced features.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

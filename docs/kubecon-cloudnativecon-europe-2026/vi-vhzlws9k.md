@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Sandbox Operator: Enabling Session-Aware, Efficient MCP Tool Execution...
+  Mingshan Zhao & Zhen Zhang"
+nav_order: 324
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Sandbox Operator: Enabling Session-Aware, Efficient MCP Tool Execution... Mingshan Zhao & Zhen Zhang"
-description: "The speakers, developers from Alibaba Cloud’s container service team, discuss the challenges and solutions for deploying AI agent applications on Kubernetes, particularly as more AI scientists—often new to Kubernetes—seek large-scale, low-l..."
+description:
+  The speakers, developers from Alibaba Cloud’s container service team,
+  discuss the challenges and solutions for deploying AI agent applications on Kubernetes,
+  particularly as more AI scientists—often new to Kubernetes—seek large-scale, low-l...
 resource: https://www.youtube.com/watch?v=vi_VhZLWs9k
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They introduce the Open Cruise Agent, a container-based agent sandbox solution t
 The Open Cruise Agent integrates with community standards such as E2B and MCP, supports rapid sandbox provisioning through warm pools, and enables dynamic storage mounting and in-place image updates to efficiently handle diverse workloads.
 Key technologies include secure container runtimes, sandbox gateways for network security, and mechanisms for pausing, resuming, and checkpointing sandboxes to optimize resource usage and support robust state management.
 The team emphasizes ongoing collaboration with the community to standardize sandbox lifecycle APIs and outlines future plans for universal sandbox runtimes and improved cost efficiency.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                           |

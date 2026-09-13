@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "OCI Images as MCP Packaging: Supply Chain Security for AI Tools - Juan Antonio
+  Osorio, Stacklok"
+nav_order: 68
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "OCI Images as MCP Packaging: Supply Chain Security for AI Tools - Juan Antonio Osorio, Stacklok"
-description: "The speaker, Juan Antonio (Oz), discusses the importance of using OCI (Open Container Initiative) images as a secure packaging format for MCP servers and AI tooling, emphasizing the security risks of running tools directly with commands lik..."
+description:
+  The speaker, Juan Antonio (Oz), discusses the importance of using OCI
+  (Open Container Initiative) images as a secure packaging format for MCP servers
+  and AI tooling, emphasizing the security risks of running tools directly with commands
+  lik...
 resource: https://www.youtube.com/watch?v=zzIoinEd_bM
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He highlights recent security incidents, such as malicious MCP servers and criti
 OCI images, which are essentially standardized Docker containers, allow for improved transparency, vulnerability scanning, provenance tracking, and enforcement of security policies by leveraging tools like SBOMs (Software Bill of Materials), digital signatures (using projects like Sigstore and Cosign), and attestations (such as SLSA provenance).
 Through a live demo, Oz demonstrates building, scanning, signing, and attesting an OCI image, showing how these steps can be automated and integrated into existing infrastructure.
 While OCI images are not a complete solution to all security challenges, they provide a strong foundation for defense in depth, enabling organizations to systematically manage and secure their software supply chain.
+
 # Main Points
 
 |   # | Main point                                                                                                                          |

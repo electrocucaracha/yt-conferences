@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Observing Chaos: Real-Time Monitoring of AI-Driven Kubernetes Destr... Josh
+  Halley & Ricardo Aravena"
+nav_order: 226
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Observing Chaos: Real-Time Monitoring of AI-Driven Kubernetes Destr... Josh Halley & Ricardo Aravena"
-description: "In this CubeCon session, Josh Halley and Ricardo present their project on chaos engineering using cloud native technologies and AI, specifically demonstrating a multiplayer Doom deathmatch played by AI agents. They describe an elaborate arc..."
+description:
+  In this CubeCon session, Josh Halley and Ricardo present their project
+  on chaos engineering using cloud native technologies and AI, specifically demonstrating
+  a multiplayer Doom deathmatch played by AI agents. They describe an elaborate arc...
 resource: https://www.youtube.com/watch?v=KOM-PQNpcjk
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They describe an elaborate architecture involving Kubernetes, PyTorch for model 
 The system uses a chaos monkey framework to introduce failures and test resilience, while each AI player runs in its own pod with a neural network, and their behaviors and interactions—including "trash talk" generated via GPT Mini—are monitored and visualized through dashboards.
 The presenters emphasize the iterative nature of training effective AI behaviors, the importance of observability and explainability, and how these techniques can be applied beyond gaming to real-world distributed systems for improved resilience and insight.
 The project was developed primarily by the two presenters, leveraging generative AI tools, and serves as both a technical showcase and a playful demonstration of modern cloud native and AI capabilities.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                        |

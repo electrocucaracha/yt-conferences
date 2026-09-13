@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Steal this LinkedIn strategy to get recruiters blowing up your inbox
+nav_order: 23
+parent: Interview Preparation
 type: Video Note
-title: "Steal this LinkedIn strategy to get recruiters blowing up your inbox"
-description: 'A strategy for job seekers to attract recruiters and hiring managers without applying for hundreds of roles. The approach involves optimizing LinkedIn profiles with keywords, turning them into "landing pages" that showcase measurable result...'
+description:
+  A strategy for job seekers to attract recruiters and hiring managers
+  without applying for hundreds of roles. The approach involves optimizing LinkedIn
+  profiles with keywords, turning them into "landing pages" that showcase measurable
+  result...
 resource: https://www.youtube.com/watch?v=WH_2PNwkT3E&
-tags: ["interview-preparation", video, learning]
+tags:
+  - interview-preparation
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -13,6 +25,7 @@ generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
 A strategy for job seekers to attract recruiters and hiring managers without applying for hundreds of roles.
 The approach involves optimizing LinkedIn profiles with keywords, turning them into "landing pages" that showcase measurable results and impact, and creating power content using the EBC method (entertaining, valuable, and credible).
 By following these three steps, job seekers can increase their chances of getting found by recruiters, landing more interviews, and securing better opportunities.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                           |

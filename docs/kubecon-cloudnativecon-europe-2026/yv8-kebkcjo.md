@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Sponsored Session: Performance at Enterprise Cloud Scale: Coupa’s Ku... Peter
+  Irwin & Carl Baumcratz"
+nav_order: 346
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Sponsored Session: Performance at Enterprise Cloud Scale: Coupa’s Ku... Peter Irwin & Carl Baumcratz"
-description: "In this presentation, Peter from ScaleOps and Carl from Koopa discuss the challenges of managing Kubernetes at enterprise scale, particularly as dynamic workloads and multiple development teams increase complexity and inefficiency. Koopa, a..."
+description:
+  In this presentation, Peter from ScaleOps and Carl from Koopa discuss
+  the challenges of managing Kubernetes at enterprise scale, particularly as dynamic
+  workloads and multiple development teams increase complexity and inefficiency. Koopa,
+  a...
 resource: https://www.youtube.com/watch?v=yV8_keBkCJo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Koopa, an AI-driven spend management platform, faced issues with manual resource
 By implementing ScaleOps’ automation solutions, Koopa streamlined workload right-sizing, improved pod placement, and facilitated a smooth migration from Cluster Autoscaler to Carpenter, ultimately reducing vCPU usage by 30% and saving $2.26 million to date.
 The automation not only cut costs but also saved thousands of engineering hours, enabled proactive resource management, and fostered cross-team alignment, allowing developers to focus on innovation rather than infrastructure maintenance.
 The partnership with ScaleOps continues to evolve, emphasizing ongoing cost avoidance and operational efficiency as Koopa scales its platform.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                             |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Improving Pod Disruption and Node Lifecycle - Filip Křepinský, Lucy Sweet &
+  Ryan Hallisey
+nav_order: 150
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Improving Pod Disruption and Node Lifecycle - Filip Křepinský, Lucy Sweet & Ryan Hallisey"
-description: "In this presentation, Lucy from Uber, Philip from Red Hat, and Ryan from Nvidia—leads of the Kubernetes node life cycle working group—discuss ongoing efforts to improve pod disruption and node life cycle management in Kubernetes. They intro..."
+description:
+  In this presentation, Lucy from Uber, Philip from Red Hat, and Ryan from
+  Nvidia—leads of the Kubernetes node life cycle working group—discuss ongoing efforts
+  to improve pod disruption and node life cycle management in Kubernetes. They intro...
 resource: https://www.youtube.com/watch?v=dpRlhe9EgiY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They introduce the eviction request API, which enables a more declarative and ob
 The team also addresses challenges in node maintenance, highlighting the fragmented ecosystem of tools and the need for standardized APIs to improve observability and coordination of node states such as draining and maintenance.
 Additionally, they discuss the issue of "kublet amnesia" during graceful node shutdowns and their work on specialized life cycle management to address such problems.
 The group encourages community involvement and feedback to help shape these evolving features and ensure broad adoption across the Kubernetes ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                     |

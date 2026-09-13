@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  The Top Delegation Challenges Engineering Managers and Tech Leaders Face and
+  How to Overcome Them
+nav_order: 39
+parent: Leadership Skills
 type: Video Note
-title: "The Top Delegation Challenges Engineering Managers and Tech Leaders Face and How to Overcome Them"
-description: "The video emphasizes that the primary reason engineering managers and technical leaders struggle to advance in their careers is a lack of effective delegation skills. Doug Howard, a leadership coach for engineers, explains that mastering de..."
+description:
+  The video emphasizes that the primary reason engineering managers and
+  technical leaders struggle to advance in their careers is a lack of effective delegation
+  skills. Doug Howard, a leadership coach for engineers, explains that mastering de...
 resource: https://www.youtube.com/watch?v=xG0Bwdg7BmY
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Doug Howard, a leadership coach for engineers, explains that mastering delegatio
 He outlines the benefits of delegation, such as optimizing team performance, fostering innovation through diverse perspectives, and spreading knowledge to reduce risk and improve retention.
 The video also details ten common challenges managers face with delegation, including lack of training, time constraints, perfectionism, trust issues, communication difficulties, and fear of losing control or recognition.
 Howard concludes by encouraging leaders to proactively develop their delegation abilities, build trust, and recognize the long-term benefits of empowering their teams, as these are critical for both personal advancement and organizational success.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                  |

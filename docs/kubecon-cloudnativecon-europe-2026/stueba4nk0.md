@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Spin-Up, Test, Tear-Down: How Trivago Runs Developer Preview Environm... Armin
+  Aminian & Jan Wozniak"
+nav_order: 339
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Spin-Up, Test, Tear-Down: How Trivago Runs Developer Preview Environm... Armin Aminian & Jan Wozniak"
-description: "In this presentation, Armen, S, and Jan from Trivago discuss how they manage developer preview environments at scale to support over 200 engineers and hundreds of pull requests daily. Trivago, a travel meta-search engine with over 100 micro..."
+description:
+  In this presentation, Armen, S, and Jan from Trivago discuss how they
+  manage developer preview environments at scale to support over 200 engineers and
+  hundreds of pull requests daily. Trivago, a travel meta-search engine with over
+  100 micro...
 resource: https://www.youtube.com/watch?v=_stuEBA4nK0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ Trivago, a travel meta-search engine with over 100 microservices deployed across
 To address this, they implemented automated, isolated preview environments for each pull request, leveraging Kubernetes, Argo CD, and KEDA for cost-efficient scaling, including scale-to-zero capabilities.
 The team details their journey from using GCP Cloud Run for frontend previews to unifying their platform on Kubernetes, overcoming technical hurdles with KEDA’s HTTP add-on, and collaborating with the open-source community to improve scaling for both backend and frontend services.
 Their solution enables rapid, confident feature delivery, minimizes incidents, and maintains cost efficiency, with all processes automated through CI/CD pipelines and dynamic environment provisioning.
+
 # Main Points
 
 |   # | Main point                                                                                                                             |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Using Buildpacks To Boost Developer Productivity - Joe Kutner, Salesforce &
+  Joey Brown, Heroku
+nav_order: 337
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Using Buildpacks To Boost Developer Productivity - Joe Kutner, Salesforce & Joey Brown, Heroku"
-description: "In this talk, Joey Brown and Joe Cutner discuss how standardizing application builds with cloud native buildpacks can significantly boost developer productivity. They explain that buildpacks automate the process of packaging source code int..."
+description:
+  In this talk, Joey Brown and Joe Cutner discuss how standardizing application
+  builds with cloud native buildpacks can significantly boost developer productivity.
+  They explain that buildpacks automate the process of packaging source code int...
 resource: https://www.youtube.com/watch?v=GeO8qCPlJC8
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that buildpacks automate the process of packaging source code into 
 Buildpacks provide modularity and logical mapping of components to image layers, enabling efficient caching and simplifying updates through features like rebase, which allows base image updates without full rebuilds.
 While buildpacks impose some constraints compared to Dockerfiles, they restore the separation of concerns between platform engineers and application developers, promoting specialization and reducing the operational burden on developers.
 The speakers emphasize that standardization through buildpacks benefits both platform engineers and developers by streamlining workflows, improving security, and enabling more consistent, maintainable application builds.
+
 # Main Points
 
 |   # | Main point                                                                                                |

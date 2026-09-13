@@ -1,11 +1,22 @@
 ---
+layout: default
+title: Introduction To TAG Infrastructure - Dylan Page & Kashif Khan
+nav_order: 110
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Introduction To TAG Infrastructure - Dylan Page & Kashif Khan"
-description: "Dylan Paige and Kashifan, co-chairs of the CNCF Technical Advisory Group (TAG) Infrastructure, introduce the group's mission, structure, and current initiatives. Following a recent reorganization, the CNCF consolidated its technical advisor..."
+description:
+  Dylan Paige and Kashifan, co-chairs of the CNCF Technical Advisory Group
+  (TAG) Infrastructure, introduce the group's mission, structure, and current initiatives.
+  Following a recent reorganization, the CNCF consolidated its technical advisor...
 resource: https://www.youtube.com/watch?v=Xj7hxbFX2BQ
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Following a recent reorganization, the CNCF consolidated its technical advisory 
 TAG Infrastructure focuses on foundational cloud-native domains such as data, storage, networking, compute, infrastructure management, and edge/sovereignty, setting best practices and standards to ensure scalable, resilient, secure, and performant systems.
 The group is actively working on initiatives like defining storage system attributes and addressing data storage needs for AI/ML workloads, and encourages community contributions through technical reviews, new initiatives, and advocacy.
 Regular meetings and open channels are available for those interested in participating or learning more about TAG Infrastructure’s work.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                            |

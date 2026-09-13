@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble
+  & Márk Sági-Kazár
+nav_order: 189
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Márk Sági-Kazár"
-description: "In this talk, Marcus Noble and Mark Shagi Kazar, both experienced Kubernetes practitioners and CNCF ambassadors, share a range of oddities and quirks they've encountered in Kubernetes over their careers. They discuss the confusing implement..."
+description:
+  In this talk, Marcus Noble and Mark Shagi Kazar, both experienced Kubernetes
+  practitioners and CNCF ambassadors, share a range of oddities and quirks they've
+  encountered in Kubernetes over their careers. They discuss the confusing implement...
 resource: https://www.youtube.com/watch?v=ybxDYZ-9wHE
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ The speakers highlight networking nuances, such as the inability to assign DNS d
 Security topics include the risks of unrevokable service account tokens and the dangers of overly broad RBAC permissions, especially with the "escalate" verb.
 They also explain the limitations of admission policies, operational differences between kubectl and crictl, and the use of static manifests and kubelet standalone mode for running pods outside the API server.
 Throughout, they invite the audience to share their own Kubernetes oddities and provide resources for further learning.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                 |

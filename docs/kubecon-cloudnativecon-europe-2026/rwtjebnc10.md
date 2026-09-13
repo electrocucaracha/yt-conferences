@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Is the Agent in the Room with Us Right Now? - Nick Rutigliano & Andrew Halaney,
+  Netflix
+nav_order: 158
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Is the Agent in the Room with Us Right Now? - Nick Rutigliano & Andrew Halaney, Netflix"
-description: "In this talk, Andrew Heleni and Nicotiano, senior engineers at Netflix, discuss the architecture and isolation strategies of Titus, Netflix’s internal container platform built atop Kubernetes. They explain that Titus workloads are not stand..."
+description:
+  In this talk, Andrew Heleni and Nicotiano, senior engineers at Netflix,
+  discuss the architecture and isolation strategies of Titus, Netflix’s internal container
+  platform built atop Kubernetes. They explain that Titus workloads are not stand...
 resource: https://www.youtube.com/watch?v=-rwTJebNC10
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that Titus workloads are not standard Kubernetes workloads and requ
 The team describes a real-world incident involving INotify resource exhaustion, which led to upstream changes in containerd to ensure proper user namespace isolation.
 They also detail their approaches to storage, CPU, and network isolation, including the use of bind-mount ID maps, XFS quotas, and bandwidth enforcement, as well as the injection of custom init processes and dynamic security profiles.
 The presentation concludes with recommendations for enabling user namespaces, setting resource limits, and leveraging extensibility points like NRI and OCI hooks for advanced isolation in multi-tenant environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                           |

@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  How to Motivate an Underperforming Direct Report in 1 Conversation | Leadership
+  Training
+nav_order: 28
+parent: Leadership Skills
 type: Video Note
-title: "How to Motivate an Underperforming Direct Report in 1 Conversation | Leadership Training"
-description: "In this video, Doug Howard addresses the challenge of helping a younger direct report improve their performance and take accountability. He shares a personal story about a struggling employee who repeatedly made mistakes and caused project..."
+description:
+  In this video, Doug Howard addresses the challenge of helping a younger
+  direct report improve their performance and take accountability. He shares a personal
+  story about a struggling employee who repeatedly made mistakes and caused project...
 resource: https://www.youtube.com/watch?v=z6fhcABl1CQ
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Instead of confronting him directly, Doug held a positive, forward-looking conve
 Doug then arranged for the employee to shadow a senior engineer, encouraging him to identify and develop the necessary non-technical skills.
 This approach led the employee to create his own improvement plan, take ownership of his growth, and ultimately transform into a high-performing team member.
 Doug emphasizes that using influence and aligning feedback with an employee’s aspirations is far more effective than relying on authority, resulting in greater motivation and accountability.
+
 # Main Points
 
 |   # | Main point                                                                                                                         |

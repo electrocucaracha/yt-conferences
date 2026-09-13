@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Progressive Tool Discovery: Using MCP Notifications To Manage C... Billy Hickman
+  & Lilia Abaibourova"
+nav_order: 73
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Progressive Tool Discovery: Using MCP Notifications To Manage C... Billy Hickman & Lilia Abaibourova"
-description: 'The presenters discuss the challenge of managing tool discovery for AI agents at scale, drawing an analogy to the "paradox of choice" faced by users of streaming services. As Prime Video adopted AI agents for operational and development tas...'
+description:
+  The presenters discuss the challenge of managing tool discovery for AI
+  agents at scale, drawing an analogy to the "paradox of choice" faced by users of
+  streaming services. As Prime Video adopted AI agents for operational and development
+  tas...
 resource: https://www.youtube.com/watch?v=MFL5cRTBUX0
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ As Prime Video adopted AI agents for operational and development tasks, they enc
 To address this, they implemented a dynamic tool discovery system where agents initially access only a "find tools" function, allowing them to discover and load only the tools relevant to their current problem category, and unload them when no longer needed.
 This approach reduces context size, improves agent performance, and allows for tools to be added or removed mid-session, though it requires governance to avoid tool overlap and some trade-offs in latency.
 The team demonstrated this system with a running agent example and discussed its applicability, limitations, and future improvements, emphasizing that while effective internally, broader adoption depends on protocol compliance across different agent implementations.
+
 # Main Points
 
 |   # | Main point                                                                                                                                 |

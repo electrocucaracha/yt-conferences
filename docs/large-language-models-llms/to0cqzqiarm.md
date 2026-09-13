@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 11 - Benchmarking
+  by Yann Dubois"
+nav_order: 13
+parent: Large Language Models Llms
 type: Video Note
-title: "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 11 - Benchmarking by Yann Dubois"
-description: "In this lecture, Yan, a third-year PhD student, discusses the importance and challenges of benchmarking and evaluation in machine learning, particularly in natural language processing (NLP). He outlines the different stages of model develop..."
+description:
+  In this lecture, Yan, a third-year PhD student, discusses the importance
+  and challenges of benchmarking and evaluation in machine learning, particularly
+  in natural language processing (NLP). He outlines the different stages of model
+  develop...
 resource: https://www.youtube.com/watch?v=TO0CqzqiArM
-tags: ["large-language-models-llms", video, learning]
+tags:
+  - large-language-models-llms
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +30,7 @@ Yan distinguishes between close-ended tasks, like classification and entailment,
 He highlights the limitations of both automatic and human evaluations, including issues of bias, reproducibility, and the influence of reference quality, and notes the growing use of LLMs like GPT-4 for scalable, consistent evaluation despite their own biases.
 Yan also addresses broader challenges such as overfitting, contamination, monoculture in benchmarks (e.g., English-centric datasets), and the lack of incentives to adopt better metrics in academia.
 He concludes by urging practitioners to critically examine outputs rather than relying solely on benchmark numbers, and to consider task-specific, robust evaluation strategies.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

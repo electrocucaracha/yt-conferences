@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Day 1 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam
+nav_order: 85
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Day 1 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam"
-description: "Uche welcomes viewers to the first day of KubeCon CloudNativeCon Europe 2026, highlighting the event's impressive scale, which he compares to the size of his hometown. With over 13,500 attendees, this year's conference is the largest KubeCo..."
+description:
+  Uche welcomes viewers to the first day of KubeCon CloudNativeCon Europe
+  2026, highlighting the event's impressive scale, which he compares to the size of
+  his hometown. With over 13,500 attendees, this year's conference is the largest
+  KubeCo...
 resource: https://www.youtube.com/watch?v=3GIFe0HbRSo
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ Uche welcomes viewers to the first day of KubeCon CloudNativeCon Europe 2026, hi
 With over 13,500 attendees, this year's conference is the largest KubeCon CloudNativeCon to date.
 Uche expresses excitement about meeting industry experts in cloud native architectures and values the opportunity to learn from their real-life experiences and perspectives.
 He feels privileged to attend and encourages continued progress in the cloud native community.
+
 # Main Points
 
 |   # | Main point                                                                                     |

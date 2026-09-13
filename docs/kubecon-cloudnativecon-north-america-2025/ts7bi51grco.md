@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Meta’s Kubernetes-based Portable AI Research Environment - Shaun Hopper, Meta
+  & Navarre Pratt
+nav_order: 169
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Meta’s Kubernetes-based Portable AI Research Environment - Shaun Hopper, Meta & Navarre Pratt"
-description: "In this talk, Navar Pratt from CoreWeave and Sean Hopper from Meta describe Meta’s transition to a portable, Kubernetes-based AI research environment in collaboration with CoreWeave. Initially, Meta’s AI training infrastructure was tied to..."
+description:
+  In this talk, Navar Pratt from CoreWeave and Sean Hopper from Meta describe
+  Meta’s transition to a portable, Kubernetes-based AI research environment in collaboration
+  with CoreWeave. Initially, Meta’s AI training infrastructure was tied to...
 resource: https://www.youtube.com/watch?v=ts7bI51gRCo
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Initially, Meta’s AI training infrastructure was tied to specific cloud provid
 By adopting Kubernetes and CoreWeave’s “Sunk” (Slurm on Kubernetes) platform, Meta was able to containerize its research clusters, streamline deployment with Helm charts and Flux, and abstract away Kubernetes complexity for researchers, who continue to use familiar Slurm interfaces.
 The new architecture enables robust observability and telemetry, with deep integration into both CoreWeave and Meta’s monitoring systems, allowing for full-stack visibility and efficient troubleshooting at scale.
 The presenters emphasize the benefits of container-based login environments, the importance of full-stack observability for large-scale AI workloads, and the use of standardized telemetry protocols (OTLP) to maintain portability and integration across diverse cloud environments.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

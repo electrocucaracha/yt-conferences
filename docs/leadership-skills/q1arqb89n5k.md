@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  The Most Important Skill You Need for Persuading and Influencing People [Persuasion
+  - Part 2 of 3]
+nav_order: 76
+parent: Leadership Skills
 type: Video Note
-title: "The Most Important Skill You Need for Persuading and Influencing People [Persuasion - Part 2 of 3]"
-description: "In this video, Doug Howard, a licensed structural engineer and engineering manager, discusses the importance of empathy as the key skill required to influence and persuade others, especially for engineers who tend to approach situations log..."
+description:
+  In this video, Doug Howard, a licensed structural engineer and engineering
+  manager, discusses the importance of empathy as the key skill required to influence
+  and persuade others, especially for engineers who tend to approach situations log...
 resource: https://www.youtube.com/watch?v=Q1ARQB89n5k
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He shares a personal story illustrating how reframing a request from his own per
 Doug explains the differences between logical and emotional decision-makers, noting that most people are emotional and that failing to consider their perspective can hinder influence.
 He then offers five practical exercises to develop empathy: exposing personal biases, stepping outside comfort zones, changing environments, being curious about others, and seeking feedback on relationship skills.
 The episode is part two of a three-part series on persuasion, with further resources and episodes linked in the description.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

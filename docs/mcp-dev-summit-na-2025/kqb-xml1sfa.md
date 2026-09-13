@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "[Session] MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from
+  LlamaIndex"
+nav_order: 14
+parent: Mcp Dev Summit Na 2025
 type: Video Note
-title: "[Session] MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex"
-description: "Lori, VP of Developer Relations at Llama Index, introduces a rapid overview of agent-to-agent communication protocols, noting that while she initially knew of only three, her research uncovered 13 in total. She distinguishes between context..."
+description:
+  Lori, VP of Developer Relations at Llama Index, introduces a rapid overview
+  of agent-to-agent communication protocols, noting that while she initially knew
+  of only three, her research uncovered 13 in total. She distinguishes between context...
 resource: https://www.youtube.com/watch?v=kqB_xML1SfA
-tags: ["mcp-dev-summit-na-2025", video, learning]
+tags:
+  - mcp-dev-summit-na-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ She distinguishes between context-oriented protocols, like MCP and agents.json, 
 Most protocols are still incomplete, with MCP standing out for its adoption and focus, though it lacks some features like robust async support and protocol negotiation found in others like Agora.
 Lori highlights key unsolved challenges across all protocols, including the need for a unified registry, effective authorization, and reputation systems to ensure secure and reliable agent interactions.
 She concludes that while MCP currently meets most needs and has significant traction, the field is evolving rapidly, and open questions remain about the future direction of agent communication standards.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |

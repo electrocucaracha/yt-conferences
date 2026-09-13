@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: A Maintainer’s Tour Of Tag Security And Compliance
+  - Marina Moore"
+nav_order: 249
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: A Maintainer’s Tour Of Tag Security And Compliance - Marina Moore"
-description: "The TAG Security and Compliance group is a Technical Advisory Group focused on helping CNCF projects build secure, cloud-native systems by providing security reviews, guidance for cybersecurity and compliance readiness, and resources for en..."
+description:
+  The TAG Security and Compliance group is a Technical Advisory Group focused
+  on helping CNCF projects build secure, cloud-native systems by providing security
+  reviews, guidance for cybersecurity and compliance readiness, and resources for
+  en...
 resource: https://www.youtube.com/watch?v=M8rM2wrLdDQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The TAG Security and Compliance group is a Technical Advisory Group focused on h
 They offer two types of security assessments: self-assessments for project maintainers to evaluate their own security posture, and joint assessments where TAG members collaborate with projects for deeper analysis and recommendations.
 The group also produces best practice guides, white papers, and is currently working on projects such as updating the cloud native security controls catalog, developing guidance for MCP server authentication and authorization, gathering supply chain security metrics, and creating resources for identity and access management.
 Community involvement is encouraged through meetings, GitHub issue tracking, and Slack channels, and they host events and panels to share experiences and recognize security improvements within the community.
+
 # Main Points
 
 |   # | Main point                                                                                                             |

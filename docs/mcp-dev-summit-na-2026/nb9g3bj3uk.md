@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Mix-Up Attacks in MCP: Multi-Issuer Confusion and Mitigations - Emily Lauber,
+  Microsoft"
+nav_order: 66
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Mix-Up Attacks in MCP: Multi-Issuer Confusion and Mitigations - Emily Lauber, Microsoft"
-description: "Emily Lober, a senior product manager at Microsoft, discusses the challenges of mixup attacks in the MCP (Managed Client Protocol) ecosystem, emphasizing their subtlety and prevalence due to MCP’s architecture, which often involves multiple..."
+description:
+  Emily Lober, a senior product manager at Microsoft, discusses the challenges
+  of mixup attacks in the MCP (Managed Client Protocol) ecosystem, emphasizing their
+  subtlety and prevalence due to MCP’s architecture, which often involves multiple...
 resource: https://www.youtube.com/watch?v=-nb9g3Bj3uk
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Using an analogy involving her pets, she explains how a malicious authorization 
 She outlines two main mitigations: using unique redirect URIs per authorization server—which is difficult to implement at scale in MCP—and validating the issuer parameter in authorization responses, a practice now recommended in a new draft specification (SE 2468).
 Lober urges developers to adopt issuer validation, update SDKs, and carefully manage trust relationships to protect against these attacks, concluding with a call to action for the MCP community to implement these security measures.
 During the Q&A, she acknowledges that while resource and audience validation can help, they may not fully prevent mixup attacks, reinforcing the need for issuer parameter validation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                              |

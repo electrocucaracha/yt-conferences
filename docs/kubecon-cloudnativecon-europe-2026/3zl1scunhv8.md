@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | KubeVirt Summit: Opening Remarks and Commu... Andrew
+  Burden and Itamar Holder"
+nav_order: 74
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | KubeVirt Summit: Opening Remarks and Commu... Andrew Burden and Itamar Holder"
-description: "Andrew Burton and Lubishlav Pivar opened the first in-person Cubert Summit, expressing excitement at meeting the community after five years of virtual events and thanking the CNCF and speakers for their support. They encouraged attendees to..."
+description:
+  Andrew Burton and Lubishlav Pivar opened the first in-person Cubert Summit,
+  expressing excitement at meeting the community after five years of virtual events
+  and thanking the CNCF and speakers for their support. They encouraged attendees
+  to...
 resource: https://www.youtube.com/watch?v=3zl1SCunHV8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They encouraged attendees to get involved by adding their organizations to the a
 The team highlighted the recent release of Cubert version 1.8 and introduced the VEP (Virtualization Enhancement Proposal) process, which allows community members to propose and track new features through a structured workflow involving design proposals, feedback, prioritization, and implementation.
 Lubishlav explained that VEPs are managed by special interest groups and serve as a roadmap for upcoming releases, with a clear timeline from proposal to code freeze and stabilization.
 The session concluded with optimism about Cubert’s progress toward CNCF graduation and an invitation for attendees to participate in future discussions and events.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

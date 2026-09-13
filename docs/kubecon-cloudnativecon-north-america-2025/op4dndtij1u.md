@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  DRA is GA! Kubernetes WG Device Management - GPUs, TPUs, NICs and More... Kevin
+  Klues & Patrick Ohly
+nav_order: 49
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "DRA is GA! Kubernetes WG Device Management - GPUs, TPUs, NICs and More... Kevin Klues & Patrick Ohly"
-description: "The CubeCon North America update meeting for the Kubernetes Device Management Working Group focused on recent progress in dynamic resource allocation (DRA), a feature now generally available in Kubernetes 1.34. DRA replaces device plugins w..."
+description:
+  The CubeCon North America update meeting for the Kubernetes Device Management
+  Working Group focused on recent progress in dynamic resource allocation (DRA), a
+  feature now generally available in Kubernetes 1.34. DRA replaces device plugins
+  w...
 resource: https://www.youtube.com/watch?v=Op4DNDTij1U
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ DRA replaces device plugins with a more flexible system for describing, requesti
 The group highlighted new features like easier migration from device plugins, binding conditions for dynamic allocation, and consumable capacity for improved device sharing, as well as the growing ecosystem of DRA drivers and integrations, including support for CPUs, high-performance networking (DRET), and KubeVirt.
 Community contributions and participation were encouraged, with resources available for developing new drivers and regular meetings for collaboration.
 The Q&A addressed practical concerns about cluster topologies, scheduler compatibility, autoscaling support, and driver development, emphasizing that DRA is designed to work with standard Kubernetes components and is evolving to support more advanced use cases.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                            |

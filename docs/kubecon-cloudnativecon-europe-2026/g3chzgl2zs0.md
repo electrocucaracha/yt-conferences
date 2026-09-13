@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: Envoy Today: What’s New In Managing Cloud-Native And
+  AI Workl... Karol Szwaj"
+nav_order: 258
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: Envoy Today: What’s New In Managing Cloud-Native And AI Workl... Karol Szwaj"
-description: "The speaker celebrates the 10th anniversary of the Envoy project, highlighting its evolution from a proxy at a lift company to a foundational component in the cloud-native networking ecosystem. The core Envoy proxy serves as a high-performa..."
+description:
+  The speaker celebrates the 10th anniversary of the Envoy project, highlighting
+  its evolution from a proxy at a lift company to a foundational component in the
+  cloud-native networking ecosystem. The core Envoy proxy serves as a high-performa...
 resource: https://www.youtube.com/watch?v=g3CHzGl2zS0
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The core Envoy proxy serves as a high-performance Layer 7 proxy used in service 
 The talk details how AI traffic differs from traditional HTTP, requiring advanced observability and management features, and outlines ongoing roadmap developments such as native protocol support, inference improvements, and enhanced telemetry.
 Adoption metrics are impressive, with millions of Helm chart and image pulls, thousands of GitHub stars, and hundreds of contributors.
 The speaker invites attendees to learn more through a curated calendar of Envoy-related talks and encourages participation in the 10-year anniversary celebrations and ongoing community discussions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                               |

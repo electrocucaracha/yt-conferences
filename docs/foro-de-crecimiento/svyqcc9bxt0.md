@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Estratega emocional: cómo dominar la depresión, la ansiedad y las adicciones
+  | Manuel Salmun"
+nav_order: 28
+parent: Foro De Crecimiento
 type: Video Note
-title: "Estratega emocional: cómo dominar la depresión, la ansiedad y las adicciones | Manuel Salmun"
-description: "En esta entrevista, Manuel Salmón, experto en adicciones, ansiedad, depresión y relaciones humanas, comparte su experiencia personal con la adicción y su proceso de recuperación, enfatizando la importancia de reconocer la enfermedad y busca..."
+description:
+  En esta entrevista, Manuel Salmón, experto en adicciones, ansiedad, depresión
+  y relaciones humanas, comparte su experiencia personal con la adicción y su proceso
+  de recuperación, enfatizando la importancia de reconocer la enfermedad y busca...
 resource: https://www.youtube.com/watch?v=sVyqCC9bxt0
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Manuel introduce herramientas prácticas como el “triángulo” para gestionar
 Además, ofrece una metodología de cinco pasos para alcanzar metas y una técnica para tomar decisiones alineando razón y emoción.
 Subraya que la recuperación de adicciones requiere abstinencia, trabajo emocional y apoyo continuo, y que el cambio personal es posible si se enfrenta la verdad y se actúa con coherencia.
 Finalmente, advierte que no cambiar implica vivir una vida repetitiva y llena de arrepentimiento, mientras que superar los propios desafíos permite alcanzar una vida plena y significativa.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                               |

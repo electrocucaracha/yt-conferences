@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: CNCF Sandbox Project K8Up Under The Hood - Aarno Aukia,
+  Maintainer"
+nav_order: 255
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: CNCF Sandbox Project K8Up Under The Hood - Aarno Aukia, Maintainer"
-description: "The speaker, a maintainer of the KUP CNCF sandbox project, discusses the evolution of Kubernetes from primarily hosting stateless applications to supporting critical workloads with important data, highlighting real-world incidents where ina..."
+description:
+  The speaker, a maintainer of the KUP CNCF sandbox project, discusses
+  the evolution of Kubernetes from primarily hosting stateless applications to supporting
+  critical workloads with important data, highlighting real-world incidents where
+  ina...
 resource: https://www.youtube.com/watch?v=NtXvB9gWTu8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ To address challenges in backup and restore processes—such as determining what
 Unlike traditional infrastructure-based backup solutions, KAP empowers application users to define their own backup requirements, schedules, and security needs using Kubernetes-native CRDs, with all configurations managed via GitOps practices.
 The tool leverages the open-source backup utility restic for encrypted, flexible storage and allows users to both back up and restore stateful applications independently.
 The project, introduced at KubeCon Barcelona 2019, invites contributors from various backgrounds to join their efforts toward incubation.
+
 # Main Points
 
 |   # | Main point                                                                                                                                |

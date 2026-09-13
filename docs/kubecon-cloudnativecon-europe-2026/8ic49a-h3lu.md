@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: k0s - CNCF Sandbox Distro Updates - Jussi Nummelin,
+  Maintainer"
+nav_order: 299
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: k0s - CNCF Sandbox Distro Updates - Jussi Nummelin, Maintainer"
-description: "Jussi, a core maintainer at Mirantis, introduces K0s, a lightweight Kubernetes distribution similar to K3s, notable for packaging all necessary components into a single, statically compiled binary that runs across various Linux distribution..."
+description:
+  Jussi, a core maintainer at Mirantis, introduces K0s, a lightweight Kubernetes
+  distribution similar to K3s, notable for packaging all necessary components into
+  a single, statically compiled binary that runs across various Linux distribution...
 resource: https://www.youtube.com/watch?v=8iC49a-h3LU
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ K0s distinguishes itself architecturally by clearly separating the control plane
 Jussi also highlights Kosmodrome, a sibling project that enables declarative management of control planes and infrastructure using custom resources, simplifying large-scale cluster management without the need for dedicated VMs.
 Recent updates include improved Windows support, enhanced Helm extensions, and better operability for Containerd, with the project seeing growing community contributions and an upcoming incubation application.
 Jussi encourages community involvement and invites attendees to visit their booth for demonstrations and discussions.
+
 # Main Points
 
 |   # | Main point                                                                                                                  |

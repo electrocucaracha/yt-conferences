@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  How to Build a European Cloud Orchestration Platform From With... Maximilian
+  Techritz & Johannes Ott
+nav_order: 149
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "How to Build a European Cloud Orchestration Platform From With... Maximilian Techritz & Johannes Ott"
-description: "In this presentation, Johannes and Max from SAP share their three-year journey building a European cloud orchestration platform within their enterprise, which has now been open sourced and donated to the Neonos Foundation under the Linux Fo..."
+description:
+  In this presentation, Johannes and Max from SAP share their three-year
+  journey building a European cloud orchestration platform within their enterprise,
+  which has now been open sourced and donated to the Neonos Foundation under the Linux
+  Fo...
 resource: https://www.youtube.com/watch?v=hR8hFht9sFA
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They identified the complexity and inefficiency caused by disparate tools and ma
 Their solution was to unify orchestration using the Kubernetes resource model and open source tools like Crossplane, External Secrets Operator, and Flux, culminating in the creation of Open Control Plane—a self-service, extensible control plane as a service that simplifies adoption for all engineers.
 To drive adoption, they invested heavily in community building, enablement materials, workshops, and contribution guides, fostering a collaborative culture that empowered teams to contribute and extend the platform.
 As a result, they have seen significant improvements in rollout speed and operational confidence, and they invite others to join their growing community to further develop and benefit from this open ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                          |

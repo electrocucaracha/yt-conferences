@@ -1,11 +1,22 @@
 ---
+layout: default
+title: How Burnout Got Me Misdiagnosed with ADHD
+nav_order: 15
+parent: Leadership Skills
 type: Video Note
-title: "How Burnout Got Me Misdiagnosed with ADHD"
-description: "In this episode, the speaker shares a personal story about being misdiagnosed with ADHD over a decade ago, following a period of intense stress and burnout after moving into a leadership role. Initially, he was prescribed Adderall, which dr..."
+description:
+  In this episode, the speaker shares a personal story about being misdiagnosed
+  with ADHD over a decade ago, following a period of intense stress and burnout after
+  moving into a leadership role. Initially, he was prescribed Adderall, which dr...
 resource: https://www.youtube.com/watch?v=BSUkGJbSpFk
-tags: ["leadership-skills", video, learning]
+tags:
+  - leadership-skills
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ Initially, he was prescribed Adderall, which dramatically improved his focus and
 Over the years, increasing dosages led to cycles of high productivity followed by severe burnout, emotional detachment, and dependency on the medication.
 It was only after moving and consulting a new doctor that he realized the misdiagnosis, learning that his symptoms were more likely due to stress and burnout rather than ADHD, especially since he had no history of such symptoms earlier in life.
 The speaker emphasizes the importance of thorough diagnosis, self-reflection, and addressing root causes like stress and self-care before turning to stimulant medications, hoping his experience will raise awareness and help others facing similar challenges.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                         |

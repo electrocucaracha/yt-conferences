@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Intent Engineering: The Death of the Mono-Directional Prompt - Rizel Scarlett,
+  Block, Inc."
+nav_order: 38
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Intent Engineering: The Death of the Mono-Directional Prompt - Rizel Scarlett, Block, Inc."
-description: "The speaker discusses the evolution of prompt engineering in AI, noting its importance in the early days when models like GPT-3 were unpredictable and required carefully crafted prompts. However, with advancements in AI, particularly after..."
+description:
+  The speaker discusses the evolution of prompt engineering in AI, noting
+  its importance in the early days when models like GPT-3 were unpredictable and required
+  carefully crafted prompts. However, with advancements in AI, particularly after...
 resource: https://www.youtube.com/watch?v=v2rlaPQnK4I
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -16,6 +29,7 @@ Context engineering focuses on providing agents with the necessary information t
 Intent engineering, on the other hand, ensures that AI agents truly understand user intentions, using tools like MCP apps for clarifying, confirming, and interpreting intent through interactive interfaces and structured elicitation.
 The speaker demonstrates these concepts with examples and highlights the importance of intent engineering in areas like code review, where understanding the agent’s intent is crucial for scalable and reliable collaboration.
 The talk concludes by emphasizing that while prompt engineering was foundational, intent engineering is now essential for effective human-AI collaboration.
+
 # Main Points
 
 |   # | Main point                                                                                                                                   |

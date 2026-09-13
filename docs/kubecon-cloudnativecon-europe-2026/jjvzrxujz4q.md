@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Project Lightning Talk: Harbor Update - Prasanth Baskar, Maintainer"
-description: "Prashant, a core contributor to Harbor, provided updates on the project, highlighting the recent release of version 2.15, which introduces features such as disabling tags for S3 and other storages to enhance garbage collection performance..."
+nav_order: 268
+parent: Kubecon Cloudnativecon Europe 2026
+type: Video Note
+description:
+  Prashant, a core contributor to Harbor, provided updates on the project,
+  highlighting the recent release of version 2.15, which introduces features such
+  as disabling tags for S3 and other storages to enhance garbage collection performance...
 resource: https://www.youtube.com/watch?v=jJVZrXuJZ4Q
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +25,7 @@ Prashant, a core contributor to Harbor, provided updates on the project, highlig
 The next release will focus on replacing Redis with Valky for improved performance and expanding support for uTrivy results, including config secrets from scans.
 Harbor’s subprojects include Harbor Satellite, a lightweight, stateless registry for edge devices, and Harbor CLI, a tool for automating Harbor management, which recently surpassed 100,000 downloads.
 Prashant also acknowledged key contributors, especially those who advanced from mentees to maintainers, and invited the community to connect via Slack, Twitter, LinkedIn, or at their booth and bi-weekly meetings to share feedback and use cases.
+
 # Main Points
 
 |   # | Main point                                                                                                               |

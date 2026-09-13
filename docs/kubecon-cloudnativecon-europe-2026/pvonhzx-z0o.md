@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  Optimizing Error Recovery for Cost-Ef... Radostin Stoyanov, Andrey Velichkevich
+  & Viktória Spišáková
+nav_order: 237
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Optimizing Error Recovery for Cost-Ef... Radostin Stoyanov, Andrey Velichkevich & Viktória Spišáková"
-description: "The presentation discusses research on optimizing error recovery for distributed AI model training using Kubernetes, focusing on transparent infrastructure-level checkpointing to minimize compute loss from failures. The team highlights real..."
+description:
+  The presentation discusses research on optimizing error recovery for
+  distributed AI model training using Kubernetes, focusing on transparent infrastructure-level
+  checkpointing to minimize compute loss from failures. The team highlights real...
 resource: https://www.youtube.com/watch?v=pvonHzx-z0o
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The team highlights real-world issues, such as a 34-day protein structure predic
 They categorize failures into infrastructure, AI engine, and user errors, noting that these can lead to significant interruptions and financial losses.
 Their work centers on improving GPU checkpointing by integrating compression and deduplication techniques to reduce checkpoint size and restore time, and by enabling more efficient deployment within Kubernetes and the Kubeflow ecosystem.
 The team demonstrates how their approach allows for suspending and resuming distributed training jobs with minimal overhead, and discusses ongoing efforts to integrate these features into open-source tools, inviting community collaboration for further development.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                       |

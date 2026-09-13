@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "TAG Operational Resilience: Sustainability Month To... Mario F, Alolita S,
+  Carol V, N Pal & Saiyam P"
+nav_order: 350
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "TAG Operational Resilience: Sustainability Month To... Mario F, Alolita S, Carol V, N Pal & Saiyam P"
-description: "The TAG Operational Resilience group, part of the CNCF, provided updates on their ongoing initiatives and the restructuring that consolidated several focus areas—such as observability, business continuity, resource optimization, and sustain..."
+description:
+  The TAG Operational Resilience group, part of the CNCF, provided updates
+  on their ongoing initiatives and the restructuring that consolidated several focus
+  areas—such as observability, business continuity, resource optimization, and sustain...
 resource: https://www.youtube.com/watch?v=cE-lBwHeb1I
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The group’s mission is to define practices and standards for building, operati
 Current initiatives include developing project release guidelines to help CNCF projects formalize robust release processes, creating a reference framework for levels of service reliability automation, and identifying observability personas to better align tools and strategies with user needs.
 The group also leads sustainability efforts, such as the annual Cloud Native Sustainability Week and the Project Green Reviews, which aims to measure and improve the sustainability footprint of CNCF projects.
 Participation is encouraged through bi-weekly meetings and Slack channels, with an emphasis on community input, collaboration, and ensuring initiatives are well-scoped and time-bound to achieve concrete outcomes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                   |

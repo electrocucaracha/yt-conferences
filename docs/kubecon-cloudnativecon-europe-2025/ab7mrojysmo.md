@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  "Tutorial: Build, Operate, and Use a Multi-Tenant AI Cluster Base... C. Misale,
+  O. Tardieu & D. Grove"
+nav_order: 349
+parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
-title: "Tutorial: Build, Operate, and Use a Multi-Tenant AI Cluster Base... C. Misale, O. Tardieu & D. Grove"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Ab7mRoJYsMo
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +24,7 @@ Here is a summary of the video transcript in 3-5 sentences: IBM Research Princip
 They introduce an open-source platform called MLB Batch that provides a turnkey solution for managing quotas, queuing, and fault detection for AI workloads on Kubernetes clusters with GPUs.
 The platform uses Q, a Kubernetes-native system for queuing and quota management, and autopilot, which detects faults in the cluster and triggers recovery actions.
 The team demonstrates the platform's capabilities using various examples, including fine-tuning a model, running batch inference, and managing quotas for multiple teams.
+
 # Main Points
 
 |   # | Main point                                                                                                                       |

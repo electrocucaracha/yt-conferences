@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "An Open Source AI Compute Stack: Kubernetes + Ray + PyTorch + VLLM - Robert
+  Nishihara, Anyscale"
+nav_order: 17
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "An Open Source AI Compute Stack: Kubernetes + Ray + PyTorch + VLLM - Robert Nishihara, Anyscale"
-description: "Robert presents an overview of Ray, an open-source project developed to address the growing complexity of modern AI workloads, particularly in reinforcement learning and large-scale data processing. He explains how Ray, in combination with..."
+description:
+  Robert presents an overview of Ray, an open-source project developed
+  to address the growing complexity of modern AI workloads, particularly in reinforcement
+  learning and large-scale data processing. He explains how Ray, in combination with...
 resource: https://www.youtube.com/watch?v=4o2amJxMHUc
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains how Ray, in combination with Kubernetes, PyTorch, and frameworks lik
 Ray’s actor abstraction allows users to easily scale Python classes and functions across clusters, supporting diverse workloads from data processing to reinforcement learning, and recent enhancements include native GPU-to-GPU data transfer.
 Robert highlights the importance of collaboration between Ray and other open-source communities, the integration with the PyTorch and Linux Foundations, and the development of a rich ecosystem of libraries on top of Ray.
 He also clarifies the complementary roles of Ray and Kubernetes, emphasizing that Ray manages process-level orchestration within workloads while Kubernetes handles container-level management, and discusses ongoing efforts to improve support for AI workloads in both systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                            |

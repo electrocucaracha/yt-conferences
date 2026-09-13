@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: From Idle to Ideal: Cross‑Cluster GPU Sharing with
+  CoHDI - Takao Indoh"
+nav_order: 265
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Project Lightning Talk: From Idle to Ideal: Cross‑Cluster GPU Sharing with CoHDI - Takao Indoh"
-description: "Taka Indoor from Fujitsu presents a solution for maximizing GPU utilization across multiple Kubernetes clusters using Kodi, addressing the growing demand for AI workloads and the increasing scarcity and cost of GPUs. Traditionally, Kubernet..."
+description:
+  Taka Indoor from Fujitsu presents a solution for maximizing GPU utilization
+  across multiple Kubernetes clusters using Kodi, addressing the growing demand for
+  AI workloads and the increasing scarcity and cost of GPUs. Traditionally, Kubernet...
 resource: https://www.youtube.com/watch?v=v6TlA7PNOR4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Traditionally, Kubernetes manages hardware within individual clusters, making it
 Kodi introduces a shared GPU and memory pool, allowing dynamic attachment and detachment of GPUs to clusters based on workload needs—allocating more GPUs to inference clusters during the day and to training clusters at night.
 This composable infrastructure approach enables flexible, on-demand hardware allocation, reducing idle time and infrastructure costs.
 Kodi integrates with the Kubernetes scheduler, and the team has released version 0.0.1.1 along with an emulator for users to try, inviting further engagement with the project.
+
 # Main Points
 
 |   # | Main point                                                                                                        |

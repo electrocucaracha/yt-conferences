@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Beyond the Sandbox: Security at the Host Layer - Lorenzo Verna & Pietro Valfrè,
+  Denied"
+nav_order: 1
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Beyond the Sandbox: Security at the Host Layer - Lorenzo Verna & Pietro Valfrè, Denied"
-description: "The speakers discuss their innovative approach to behavioral authorization for AI agents, emphasizing the need for new security models as agents evolve from simple assistants to autonomous entities capable of real-world actions. Traditional..."
+description:
+  The speakers discuss their innovative approach to behavioral authorization
+  for AI agents, emphasizing the need for new security models as agents evolve from
+  simple assistants to autonomous entities capable of real-world actions. Traditional...
 resource: https://www.youtube.com/watch?v=jTkKzNUT1fw
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Traditional authorization methods, such as resource-based controls and sandboxin
 Their solution involves embedding authorization policies directly within the agent, enabling interception and evaluation of every tool call based on content and context, rather than just identity or scope.
 This approach uses a layered evaluation strategy, starting with deterministic rules and escalating to model-based assessments as needed, and supports integration with various external tools for enhanced policy enforcement.
 The system also provides audit trails and policy recommendations, allowing for iterative refinement and greater control over agent actions, with the goal of creating a horizontal authorization layer compatible with any agent framework.
+
 # Main Points
 
 |   # | Main point                                                                                                                                         |

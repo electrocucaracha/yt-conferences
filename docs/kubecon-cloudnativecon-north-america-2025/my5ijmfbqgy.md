@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Project Lightning Talk: k0s: CNCF Sandbox Distro Updates - Jussi Nummelin,
+  Technical lead"
+nav_order: 245
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Project Lightning Talk: k0s: CNCF Sandbox Distro Updates - Jussi Nummelin, Technical lead"
-description: "Yusi introduces Kzer, a Kubernetes distribution and CNCF sandbox project designed to simplify Kubernetes into a single, statically compiled binary that runs on various Linux distributions and now Windows. Kzer includes essential components..."
+description:
+  Yusi introduces Kzer, a Kubernetes distribution and CNCF sandbox project
+  designed to simplify Kubernetes into a single, statically compiled binary that runs
+  on various Linux distributions and now Windows. Kzer includes essential components...
 resource: https://www.youtube.com/watch?v=My5ijmfBQGY
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Kzer includes essential components like containerd and supports multiple CNI opt
 Architecturally, Kzer separates the control plane from the worker plane, enabling use cases like running the control plane in the cloud and workers at the network edge.
 Since its open source launch in 2020 and joining the CNCF sandbox in February, Kzer has seen steady growth in usage and contributors, with the latest release supporting Windows worker nodes and IPv6-only clusters.
 Yusi encourages community participation, inviting users and contributors to join, share their experiences, and visit the project's community booth.
+
 # Main Points
 
 |   # | Main point                                                                                                     |

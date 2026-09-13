@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Multi-cluster Orchestration System: Karmad... Hongcai Ren, Tessa Pham, Michas
+  Szacillo & Zongqing Li"
+nav_order: 221
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Multi-cluster Orchestration System: Karmad... Hongcai Ren, Tessa Pham, Michas Szacillo & Zongqing Li"
-description: "The session introduces Karmada, a project designed to manage and schedule workloads across multiple Kubernetes clusters without requiring changes to existing applications. Over the past year, Karmada has added several key features, includin..."
+description:
+  The session introduces Karmada, a project designed to manage and schedule
+  workloads across multiple Kubernetes clusters without requiring changes to existing
+  applications. Over the past year, Karmada has added several key features, includin...
 resource: https://www.youtube.com/watch?v=NY3O_0G90rg
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ Over the past year, Karmada has added several key features, including stateful a
 Bloomberg shares use cases such as model caching and Jupyter notebook scheduling, highlighting Karmada’s ability to fan out resources, aggregate global status, and enable flexible, policy-driven placement.
 Trip.com describes how Karmada has streamlined cluster add-on deployment, improved system resilience through high-availability architectures, and enabled smooth, large-scale cross-cluster migrations, significantly reducing operational time and effort.
 The community continues to grow, focusing on scalability, dashboard improvements, and enhanced support for AI workloads, while addressing questions about resource quotas, autoscaling, and performance at scale.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                         |

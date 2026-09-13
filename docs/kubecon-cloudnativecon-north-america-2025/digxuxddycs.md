@@ -1,11 +1,22 @@
 ---
-type: Video Note
+layout: default
 title: "Platform Engineering: Day Zero, The Origin Story - Murriel McCabe, Google"
-description: "The speaker, an engineering manager at Google Cloud, introduces the concept of platform engineering, tracing its definitions and principles from industry sources and emphasizing its role as an internal product designed to improve developer..."
+nav_order: 200
+parent: Kubecon Cloudnativecon North America 2025
+type: Video Note
+description:
+  The speaker, an engineering manager at Google Cloud, introduces the concept
+  of platform engineering, tracing its definitions and principles from industry sources
+  and emphasizing its role as an internal product designed to improve developer...
 resource: https://www.youtube.com/watch?v=dIgxuxdDYCs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +26,7 @@ They discuss the realities versus the ideals of platform engineering, noting tha
 The talk stresses the importance of assessing whether a platform is truly needed before introducing one, advocating for a product mindset focused on user needs, adaptability, and self-service, and highlighting the need to address organizational context, people, processes, and technology.
 The speaker outlines steps for building a platform roadmap, starting with understanding the current landscape, engaging stakeholders, identifying pain points, and delivering a minimum viable platform (MVP) through rapid iteration and collaboration.
 Finally, they emphasize ongoing communication, user adoption strategies, and continuous improvement, positioning platform engineering as an iterative, collaborative, and user-centered practice that evolves with organizational needs.
+
 # Main Points
 
 |   # | Main point                                                                                                                                               |

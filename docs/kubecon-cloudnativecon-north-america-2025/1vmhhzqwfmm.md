@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Kubernetes Infra SIG: Intro and Updates - Mahamed Ali, Arab Center for Research
+  & Policy Studies"
+nav_order: 140
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Kubernetes Infra SIG: Intro and Updates - Mahamed Ali, Arab Center for Research & Policy Studies"
-description: "Muhammad, a senior DevOps engineer and Kubernetes maintainer, provides an update on the SIG Kubernetes infrastructure, which manages the Kubernetes project's cloud infrastructure with support from major vendors. He highlights key services s..."
+description:
+  Muhammad, a senior DevOps engineer and Kubernetes maintainer, provides
+  an update on the SIG Kubernetes infrastructure, which manages the Kubernetes project's
+  cloud infrastructure with support from major vendors. He highlights key services
+  s...
 resource: https://www.youtube.com/watch?v=1VMhhZQWFmM
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He highlights key services such as the image registry, CI, and download service,
 This year, IBM and Datadog joined as new vendors, with IBM providing build clusters for additional architectures and Datadog offering cloud cost observability and testing tools.
 The team has improved CI performance by upgrading to newer VM types and continues to seek contributors, especially those interested in cloud infrastructure and SRE roles.
 Muhammad encourages interested individuals to join the SIG's Slack channel or meetings to get involved.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                        |

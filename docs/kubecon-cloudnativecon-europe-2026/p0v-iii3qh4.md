@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | KubeVirt Summit: Bridging Islands: EVPN Overlays for
+  Multi-C... Miguel Duarte"
+nav_order: 71
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | KubeVirt Summit: Bridging Islands: EVPN Overlays for Multi-C... Miguel Duarte"
-description: "Miguel from Red Hat’s networking team presents on implementing EVPN overlays for multicluster KubeVirt environments. He explains the motivation for this approach, highlighting challenges with legacy applications that require L2 adjacency, t..."
+description:
+  Miguel from Red Hat’s networking team presents on implementing EVPN overlays
+  for multicluster KubeVirt environments. He explains the motivation for this approach,
+  highlighting challenges with legacy applications that require L2 adjacency, t...
 resource: https://www.youtube.com/watch?v=P0V_IiI3Qh4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ He explains the motivation for this approach, highlighting challenges with legac
 EVPN, built on top of BGP, enables stretched layer 2 networks across clusters, efficient routing, reduced broadcast traffic, and seamless workload mobility, particularly for live VM migration.
 The solution integrates existing components like KubeVirt, OpenP Router (using FRR), Linux bridges, and various CNIs, aiming for a Kubernetes-native, declarative API to simplify configuration.
 In a demo, Miguel shows live migration of a VM between clusters with minimal packet loss, demonstrating that workloads remain accessible via their IP addresses throughout the process, thus validating the effectiveness of the EVPN-based multicluster networking solution.
+
 # Main Points
 
 |   # | Main point                                                                                           |

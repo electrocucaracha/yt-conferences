@@ -1,17 +1,28 @@
 ---
+layout: default
+title:
+  "Cloud Native Theater | KubeVirt Summit: Measuring KubeVirt Performance and
+  Scale wi... Sreeja Varnam"
+nav_order: 73
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Cloud Native Theater | KubeVirt Summit: Measuring KubeVirt Performance and Scale wi... Sreeja Varnam"
-description: "Of course! Please provide the video transcript you would like summarized."
+description: Of course! Please provide the video transcript you would like summarized.
 resource: https://www.youtube.com/watch?v=qbdNmWE5RQQ
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
 
 Of course!
 Please provide the video transcript you would like summarized.
+
 # Main Points
 
 |   # | Main point |

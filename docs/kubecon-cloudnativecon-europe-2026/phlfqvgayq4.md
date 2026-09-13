@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Let Your Network Speak! - Nadia Pinaeva, NVIDIA & Joel Takvorian, Red Hat
+nav_order: 201
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Let Your Network Speak! - Nadia Pinaeva, NVIDIA & Joel Takvorian, Red Hat"
-description: "In this presentation, Nadia from NVIDIA and Joel from Red Hat introduce NetObserve, an open-source, mostly CNI-agnostic Kubernetes operator for network observability that uses eBPF agents to collect and correlate network traffic data with K..."
+description:
+  In this presentation, Nadia from NVIDIA and Joel from Red Hat introduce
+  NetObserve, an open-source, mostly CNI-agnostic Kubernetes operator for network
+  observability that uses eBPF agents to collect and correlate network traffic data
+  with K...
 resource: https://www.youtube.com/watch?v=PHLfqvgaYq4
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ They demonstrate NetObserve’s features, such as collecting network flows, DNS 
 Through live and recorded demos, they show how NetObserve helps users visualize network flows, identify issues like DNS errors or misconfigured network policies, and trace the reasons for allowed or dropped traffic, even in complex environments with multiple overlapping policies.
 The integration between NetObserve and networking plugins enables mapping of low-level ACL decisions back to Kubernetes network policies, greatly improving the ability to debug and secure network connectivity.
 The Q&A covers topics such as data retention (handled by external storage solutions), openness to supporting other CNIs, potential integration with OpenStack, and the need for collaboration between observability tools and networking plugins for full functionality.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

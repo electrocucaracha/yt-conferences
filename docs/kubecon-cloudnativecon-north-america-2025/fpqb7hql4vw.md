@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  The Missing Manual for Open Source Community Sustainability - Taylor Dolezal
+  & Erica Hughberg
+nav_order: 312
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "The Missing Manual for Open Source Community Sustainability - Taylor Dolezal & Erica Hughberg"
-description: "The transcript captures an interactive workshop focused on building and sustaining open source communities, emphasizing the importance of recognizing the different roles within these communities: builders, users, and silent users. The facil..."
+description:
+  "The transcript captures an interactive workshop focused on building
+  and sustaining open source communities, emphasizing the importance of recognizing
+  the different roles within these communities: builders, users, and silent users.
+  The facil..."
 resource: https://www.youtube.com/watch?v=FPQB7hQL4Vw
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The facilitators engage the audience in activities to highlight the contribution
 They discuss the value of partnership over control, the necessity of trust, and the importance of creating welcoming spaces for all types of users, including those who may not actively engage but still provide valuable feedback through indirect means.
 The conversation also covers strategies for preventing burnout, recognizing contributions, and ensuring community health by monitoring engagement and supporting maintainers.
 Ultimately, the session underscores that community is not just an add-on to open source projects but a core product, and encourages participants to document their journeys, celebrate contributions, and foster inclusive, resilient communities.
+
 # Main Points
 
 |   # | Main point                                                                                                                                        |

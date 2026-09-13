@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "LMCache: Lower LLM Performance Costs in the Enterprise - Martin Hickey & Junchen
+  Jiang"
+nav_order: 6
+parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
-title: "LMCache: Lower LLM Performance Costs in the Enterprise - Martin Hickey & Junchen Jiang"
-description: "The speakers at CubeCon Atlanta discuss the evolution of cloud infrastructure and AI workloads, highlighting the shift from concerns about virtual machines to the current focus on deploying and optimizing AI inference, particularly large la..."
+description:
+  The speakers at CubeCon Atlanta discuss the evolution of cloud infrastructure
+  and AI workloads, highlighting the shift from concerns about virtual machines to
+  the current focus on deploying and optimizing AI inference, particularly large la...
 resource: https://www.youtube.com/watch?v=V4CNYLxT9DA
-tags: ["cloud-native-kubernetes-ai-day-2025-na", video, learning]
+tags:
+  - cloud-native-kubernetes-ai-day-2025-na
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that as LLMs handle increasingly long context windows, both computa
 KV cache stores reusable runtime memory, allowing models to skip redundant processing when the same context is used across multiple queries, thus improving performance and reducing costs.
 The LM Cache open source project, developed by researchers at the University of Chicago, provides a unified library for sharing and offloading KV cache across GPUs, CPUs, and various storage backends, supporting multiple inference engines and enabling asynchronous, efficient cache management.
 The talk concludes by emphasizing LM Cache’s role in addressing the challenges of AI inference at scale and inviting the community to contribute and explore the project further.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                |

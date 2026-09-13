@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "[Keynote] Scaling Commerice Interactivity Lessons from Shopify's Implementation
+  of MCP UI"
+nav_order: 30
+parent: Mcp Dev Summit Eu 2025
 type: Video Note
-title: "[Keynote] Scaling Commerice Interactivity Lessons from Shopify's Implementation of MCP UI"
-description: "Samuel and Brett, engineers from Shopify, discuss the future of user interfaces (UI) in the context of the Model Context Protocol (MCP), a standard that enables AI models and tools to communicate and integrate seamlessly. They explain that..."
+description:
+  Samuel and Brett, engineers from Shopify, discuss the future of user
+  interfaces (UI) in the context of the Model Context Protocol (MCP), a standard that
+  enables AI models and tools to communicate and integrate seamlessly. They explain
+  that...
 resource: https://www.youtube.com/watch?v=T8bgEuOQbH4
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They explain that while AI chatbots have become more intelligent and capable of 
 MCP UI addresses this by allowing servers to send UI resources—such as product cards, carts, and checkouts—to clients, enabling interactive and visually rich experiences within AI agents or chat environments.
 The presenters demonstrate how MCP UI is used at Shopify and integrated into the open-source Libra Chat platform, allowing users to browse, add to cart, and purchase products through embedded UI components, with all user actions communicated back to the agent.
 They also highlight the flexibility of MCP UI for styling and integration, discuss ongoing improvements, and invite attendees to learn more through deep-dive sessions and further resources.
+
 # Main Points
 
 |   # | Main point                                                                                                                   |

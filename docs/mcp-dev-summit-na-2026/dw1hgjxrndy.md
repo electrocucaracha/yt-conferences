@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "MCP at 18 Months: Protocols, Patterns, and What We Didn't See Coming - Shaun
+  Smith, Hugging Face"
+nav_order: 61
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "MCP at 18 Months: Protocols, Patterns, and What We Didn't See Coming - Shaun Smith, Hugging Face"
-description: "Sean Smith from Hugging Face discusses the evolution and impact of the MCP server and related agent technologies. He reflects on the initial limitations of MCP, such as the lack of agentic CLIs, transport solutions, and long-running model c..."
+description:
+  Sean Smith from Hugging Face discusses the evolution and impact of the
+  MCP server and related agent technologies. He reflects on the initial limitations
+  of MCP, such as the lack of agentic CLIs, transport solutions, and long-running
+  model c...
 resource: https://www.youtube.com/watch?v=DW1hGJXrNdY
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He reflects on the initial limitations of MCP, such as the lack of agentic CLIs,
 Smith highlights the growing sophistication of tool integration, dynamic tool calling, and code execution within agent frameworks, emphasizing the importance of protocols like the Agent Client Protocol and Open Responses API for bundling inference engines and tools.
 He notes that MCP has achieved strong product-market fit, especially for consumer and enterprise use cases, due to its ease of integration, authentication, and support for regulatory needs.
 Ultimately, Smith concludes that MCP has matured into essential infrastructure, facilitating seamless transportability and composability in modern AI systems.
+
 # Main Points
 
 |   # | Main point                                                                                                              |

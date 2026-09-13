@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Inference Awakens: Tools for the Age of GenAI - Alexa Griffith, Bloomberg
+  & Erica Hughberg, Tetrate"
+nav_order: 103
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Inference Awakens: Tools for the Age of GenAI - Alexa Griffith, Bloomberg & Erica Hughberg, Tetrate"
-description: "The transcript features a lively, cinematic-themed discussion about the evolving challenges and solutions in deploying generative AI workloads, particularly large language models, in modern cloud and hybrid environments. The speakers highli..."
+description:
+  The transcript features a lively, cinematic-themed discussion about the
+  evolving challenges and solutions in deploying generative AI workloads, particularly
+  large language models, in modern cloud and hybrid environments. The speakers highli...
 resource: https://www.youtube.com/watch?v=nlTk5q3MPZ4
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ The transcript features a lively, cinematic-themed discussion about the evolving
 The speakers highlight how traditional stateless microservice architectures and legacy gateways are struggling to handle the new, stateful, resource-intensive, and complex traffic patterns introduced by generative AI, which require more intelligent routing, advanced rate limiting, and unified security management.
 They present an open-source, Kubernetes-based blueprint using tools like Envoy Gateway and KServe to enable scalable, cost-effective, and observable AI inference across on-premises and cloud infrastructure, emphasizing the importance of open standards, unified APIs, and robust monitoring with tools like OpenTelemetry and Prometheus.
 The talk encourages collaboration within the open-source community, inviting participants to contribute use cases and questions, and concludes with introductions to the speakers and their organizations, underscoring the mission to build adaptable, AI-native platforms through open collaboration.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                   |

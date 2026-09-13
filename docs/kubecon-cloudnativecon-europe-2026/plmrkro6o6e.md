@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Snapshots Gone Wild: Taming Multi-PVC Chaos with VolumeGroupSna... Shubham
+  Pampattiwar & Scott Seago"
+nav_order: 336
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Snapshots Gone Wild: Taming Multi-PVC Chaos with VolumeGroupSna... Shubham Pampattiwar & Scott Seago"
-description: "In this talk, Shuan Pampachar and Scott Sego from Red Hat discuss the challenges of backing up multi-volume stateful applications on Kubernetes, highlighting how traditional individual volume snapshots can lead to inconsistent and potential..."
+description:
+  In this talk, Shuan Pampachar and Scott Sego from Red Hat discuss the
+  challenges of backing up multi-volume stateful applications on Kubernetes, highlighting
+  how traditional individual volume snapshots can lead to inconsistent and potential...
 resource: https://www.youtube.com/watch?v=pLmRkRO6O6E
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They introduce the Kubernetes Volume Group Snapshot (VGS) API, which enables ato
 The speakers explain how VGS support was integrated into the open-source backup tool Velero, allowing users to opt in simply by labeling their Persistent Volume Claims (PVCs), and describe the workflow, design decisions, and lessons learned from testing across different CSI drivers.
 They share benchmark results showing that VGS not only improves consistency but also speeds up backups, especially as the number of volumes increases, and provide a practical blueprint for adopting VGS in production environments.
 The session concludes with key takeaways: atomic snapshots are essential for multi-volume apps, VGS provides this capability, Velero makes it easy to use, VGS artifacts are transient by design, and thorough testing across storage drivers is crucial.
+
 # Main Points
 
 |   # | Main point                                                                                                                        |

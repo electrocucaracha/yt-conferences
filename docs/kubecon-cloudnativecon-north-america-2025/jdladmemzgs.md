@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Supercharge Cloud Native SQL Database With Object Storage: Scaling TiKV With
+  S3 as... Jinpeng Zhang"
+nav_order: 295
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Supercharge Cloud Native SQL Database With Object Storage: Scaling TiKV With S3 as... Jinpeng Zhang"
-description: "The speaker discusses scaling databases with S3 at the backbone, focusing on object storage becoming a defacto distributed file system on cloud platforms. They introduce Taqi, an OLTP database that leverages object storage for background op..."
+description:
+  The speaker discusses scaling databases with S3 at the backbone, focusing
+  on object storage becoming a defacto distributed file system on cloud platforms.
+  They introduce Taqi, an OLTP database that leverages object storage for background
+  op...
 resource: https://www.youtube.com/watch?v=jDlAdMEMZgs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +28,7 @@ The speaker discusses scaling databases with S3 at the backbone, focusing on obj
 They introduce Taqi, an OLTP database that leverages object storage for background operations, achieving low latency and high elasticity.
 By using remote object storage, Taqi reduces volatility and improves scalability, allowing for faster scaling in and out of nodes while minimizing impact on online traffic.
 The speaker also highlights benefits such as reduced storage costs, centralized compaction services, and improved recovery speed.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                        |

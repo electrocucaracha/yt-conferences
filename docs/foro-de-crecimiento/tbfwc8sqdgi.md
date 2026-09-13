@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Si Te Sientes Solo, Esto es Para Ti | Sebastián Struck – Sesión 36
+nav_order: 65
+parent: Foro De Crecimiento
 type: Video Note
-title: "Si Te Sientes Solo, Esto es Para Ti | Sebastián Struck – Sesión 36"
-description: "En esta entrevista, Sebastián Struck, creador de Maestría Emocional, analiza la evolución del amor y las relaciones en la sociedad actual, destacando que el concepto de amor romántico como lo conocemos tiene apenas unos cien años y que hist..."
+description:
+  En esta entrevista, Sebastián Struck, creador de Maestría Emocional,
+  analiza la evolución del amor y las relaciones en la sociedad actual, destacando
+  que el concepto de amor romántico como lo conocemos tiene apenas unos cien años
+  y que hist...
 resource: https://www.youtube.com/watch?v=TBfWc8SqDgI
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ Explica que hoy existe una "epidemia de soltería", influida por factores como l
 Struck señala que muchas personas confunden el enamoramiento, impulsado por químicos adictivos, con el amor verdadero, que es más una decisión consciente y requiere autoconocimiento y trabajo personal.
 Además, enfatiza la importancia de romper patrones aprendidos en la infancia para elegir relaciones más sanas y satisfactorias, y advierte sobre los riesgos de la soledad, tanto para la salud física como emocional.
 Finalmente, resalta que la calidad de las relaciones humanas, más que la cantidad, es el principal factor de felicidad y bienestar, invitando a priorizar la conexión auténtica y el desarrollo personal.
+
 # Main Points
 
 |   # | Main point                                                                                                                                    |

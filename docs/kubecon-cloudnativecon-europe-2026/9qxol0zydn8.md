@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Keynote: Orchestrating Document Data Extraction with Dapr Agents - Fabian
+  Steinbach"
+nav_order: 179
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Keynote: Orchestrating Document Data Extraction with Dapr Agents - Fabian Steinbach"
-description: "Fabian, a software architect at Zeiss, explains the challenges of extracting structured optical data from non-standardized documents like handwritten notes and forms in various languages, which is crucial for manufacturing precision lenses..."
+description:
+  Fabian, a software architect at Zeiss, explains the challenges of extracting
+  structured optical data from non-standardized documents like handwritten notes and
+  forms in various languages, which is crucial for manufacturing precision lenses...
 resource: https://www.youtube.com/watch?v=9QXoL0ZYDn8
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ To address this, Zeiss implemented Dapr Agents, focusing on three main requireme
 They constrained AI behavior using a durable workflow that included preprocessing, OCR, and selective use of LLMs or agents, ensuring predictable and reliable results with state persistence to avoid redundant processing.
 The system’s flexibility allows for easy integration of new models by changing configurations rather than code.
 As a result, Zeiss was able to move from prototype to production in two months without needing labeled training data, achieving recognition results comparable to specialized machine learning systems.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                   |

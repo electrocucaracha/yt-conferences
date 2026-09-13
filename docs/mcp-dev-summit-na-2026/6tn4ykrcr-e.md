@@ -1,11 +1,23 @@
 ---
+layout: default
+title: The Boring Attack That Will Actually Get You - Craig Jellick, Obot AI
+nav_order: 91
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "The Boring Attack That Will Actually Get You - Craig Jellick, Obot AI"
-description: "In this talk, Craig Jelik, VP of Engineering at Obot, emphasizes the growing threat of supply chain attacks on MCP servers, highlighting that simple tactics like name squatting and compromised dependencies can be more dangerous than novel e..."
+description:
+  In this talk, Craig Jelik, VP of Engineering at Obot, emphasizes the
+  growing threat of supply chain attacks on MCP servers, highlighting that simple
+  tactics like name squatting and compromised dependencies can be more dangerous than
+  novel e...
 resource: https://www.youtube.com/watch?v=6Tn4YKRcR-E
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He presents real-world case studies, including the Postmark MCP attack, the Lite
 Jelik underscores the importance of careful dependency management, reviewing package provenance, using age-based cooldowns, disabling post-install hooks, and auditing GitHub actions to mitigate risks.
 He also advocates for organizational strategies such as secure build pipelines, containerization, repackaging open-source servers, and centralizing MCP server management through gateways to improve visibility, control, and incident response.
 The talk concludes with practical recommendations and resources for developers to strengthen their security posture against evolving supply chain threats.
+
 # Main Points
 
 |   # | Main point                                                                                                              |

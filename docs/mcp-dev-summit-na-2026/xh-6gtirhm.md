@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "MCP Apps Best Practices: Patterns and Pitfalls - Olivier Chafik & Anton Pidkuiko,
+  Anthropic"
+nav_order: 53
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "MCP Apps Best Practices: Patterns and Pitfalls - Olivier Chafik & Anton Pidkuiko, Anthropic"
-description: "Olivier and Anton from Anthropic introduced MCP apps, describing them as a protocol for AI applications akin to USB or HDMI for hardware, enabling seamless interoperability and interactive user experiences. They demonstrated features such a..."
+description:
+  Olivier and Anton from Anthropic introduced MCP apps, describing them
+  as a protocol for AI applications akin to USB or HDMI for hardware, enabling seamless
+  interoperability and interactive user experiences. They demonstrated features such
+  a...
 resource: https://www.youtube.com/watch?v=Xh__6GtirHM
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They demonstrated features such as efficient tool calls, interactive views (like
 The talk covered best practices for structuring tool calls, updating model context, handling authentication, and ensuring accessibility, as well as upcoming features like direct model-to-view communication and partial input streaming for reduced latency.
 They highlighted that MCP apps are standard web apps with added capabilities, support graceful degradation, and can be integrated into existing codebases, encouraging contributions and further exploration of the open-source ecosystem.
 Audience questions addressed efficiency, data sharing between model and app, streaming, accessibility, and technical implementation details.
+
 # Main Points
 
 |   # | Main point                                                                                                                    |

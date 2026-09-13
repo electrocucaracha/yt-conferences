@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Golem To Murderbot: Challenges With Agentic Security Delegation Via MCP -
+  Michael Schwartz, Gluu"
+nav_order: 31
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "Golem To Murderbot: Challenges With Agentic Security Delegation Via MCP - Michael Schwartz, Gluu"
-description: "In this talk, Mike Schwarz, founder of Glue, explores the challenges of agentic security delegation using metaphors from the golem legend and Martha Wells’ Murderbot series to illustrate issues of intent, control, and risk in AI agents. He..."
+description:
+  In this talk, Mike Schwarz, founder of Glue, explores the challenges
+  of agentic security delegation using metaphors from the golem legend and Martha
+  Wells’ Murderbot series to illustrate issues of intent, control, and risk in AI
+  agents. He...
 resource: https://www.youtube.com/watch?v=ixQorHltcfw
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He argues that while human and software authentication are largely solved proble
 Schwarz emphasizes the need for multi-layered, embedded security rather than relying solely on gateways, and advocates for centralized policy management using analyzable policy engines like Cedar.
 He introduces a governance framework with layers for risk management, identity (for accountability), visibility, and event response, stressing that effective governance requires transparency, accountability, and communication in terms understandable to organizational leadership.
 The talk concludes with a call to rethink governance processes and to adopt new tools and frameworks for managing risk and security in increasingly automated IT landscapes.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                        |

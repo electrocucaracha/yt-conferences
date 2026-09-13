@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Message In, Job Out: Build Event-Driven Workflows in Kubernetes Using... Colin
+  Lacy & Grace Brickley"
+nav_order: 168
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Message In, Job Out: Build Event-Driven Workflows in Kubernetes Using... Colin Lacy & Grace Brickley"
-description: "In this presentation, Colin Lacy and Grace Brickley, software engineers at Cisco, demonstrate how their small, cost-conscious disco services startup automates customer onboarding using event-driven workflows in Kubernetes with NATS, CloudEv..."
+description:
+  In this presentation, Colin Lacy and Grace Brickley, software engineers
+  at Cisco, demonstrate how their small, cost-conscious disco services startup automates
+  customer onboarding using event-driven workflows in Kubernetes with NATS, CloudEv...
 resource: https://www.youtube.com/watch?v=IvvuZiTkGZU
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They explain that NATS serves as a lightweight, high-performance messaging syste
 Project Speltos acts as a management plane for Kubernetes resources, enabling reactive provisioning and integration with NATS to trigger automated workflows based on incoming events.
 The workflow they showcase automates the creation of customer accounts, user entries, welcome emails, and marketing notifications, leveraging Kubernetes jobs for each step, which allows for retries, scalability, and extensibility.
 The solution meets their non-functional requirements by minimizing compute costs, supporting bulk onboarding, and enabling easy workflow extension, all while maximizing automation and supporting multi-cluster management.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                                                                      |

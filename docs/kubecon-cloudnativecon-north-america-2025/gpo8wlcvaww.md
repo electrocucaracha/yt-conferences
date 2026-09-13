@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  But What About Reliability? - The Multi-Million Dollar Kubernetes Cost Op...
+  Zain Malik & Nibir Bora
+nav_order: 35
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "But What About Reliability? - The Multi-Million Dollar Kubernetes Cost Op... Zain Malik & Nibir Bora"
-description: "In this talk, Zan Malik and Nibir discuss the challenges organizations face in balancing cost savings with reliability in cloud-native platforms, particularly Kubernetes. They highlight the common misconception that reliability always requi..."
+description:
+  In this talk, Zan Malik and Nibir discuss the challenges organizations
+  face in balancing cost savings with reliability in cloud-native platforms, particularly
+  Kubernetes. They highlight the common misconception that reliability always requi...
 resource: https://www.youtube.com/watch?v=GPo8WLCvaWw
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ They highlight the common misconception that reliability always requires high co
 Through a combination of technical solutions—such as extending Kubernetes with custom controllers, implementing multi-cluster operators for safe pod evictions, and adopting advanced optimization techniques like automatic resource tuning and custom bin packing—they achieved both improved reliability and substantial cost reductions.
 The speakers emphasize the importance of radical visibility, developer control, and cultural change to overcome organizational resistance and fear, ultimately saving $13 million on their cloud bill.
 Their key lessons are that there is no silver bullet; success requires deep understanding of application behavior, investment in observability, and a thoughtful balance between automation, control, and human factors.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                       |

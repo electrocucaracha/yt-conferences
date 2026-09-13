@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "SIG API Machinery: Project Updates and Release Planning - Joe Betz, Google"
-description: "The SIG API Machinery is a broad cross-cutting Special Interest Group (SIG) within Kubernetes, responsible for the rest mechanics of the Kubernetes API, including versioning, serialization protocols, resources, sub-resources, and support fo..."
+nav_order: 285
+parent: Kubecon Cloudnativecon Europe 2025
+type: Video Note
+description:
+  The SIG API Machinery is a broad cross-cutting Special Interest Group
+  (SIG) within Kubernetes, responsible for the rest mechanics of the Kubernetes API,
+  including versioning, serialization protocols, resources, sub-resources, and support
+  fo...
 resource: https://www.youtube.com/watch?v=VCmp--NcxeE
-tags: ["kubecon-cloudnativecon-europe-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +26,7 @@ The SIG API Machinery is a broad cross-cutting Special Interest Group (SIG) with
 The group focuses on making upgrades safer, improving declarative APIs, and enhancing performance.
 Recent features include snapshotable API server cache, emulation version, mixed version proxy, seabboard serializer, declarative validation, coordinated leader election, streaming encoded list responses, and CRD validation ratcheting.
 The SIG is actively seeking contributors to improve the toolset for making upgrades safer and more efficient.
+
 # Main Points
 
 |   # | Main point                                                                                                                     |

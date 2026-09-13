@@ -1,11 +1,23 @@
 ---
-type: Video Note
+layout: default
 title: "[Session] MCP-UI: Next-gen Agentic Experiences"
-description: "The speaker introduces MCPUI, an open protocol designed to address the limitations of text-based interfaces in chat environments by enabling providers to send interactive UI components, preserving their brand identity and enhancing user exp..."
+nav_order: 29
+parent: Mcp Dev Summit Eu 2025
+type: Video Note
+description:
+  The speaker introduces MCPUI, an open protocol designed to address the
+  limitations of text-based interfaces in chat environments by enabling providers
+  to send interactive UI components, preserving their brand identity and enhancing
+  user exp...
 resource: https://www.youtube.com/watch?v=SIXTArBVL5w
-tags: ["mcp-dev-summit-eu-2025", video, learning]
+tags:
+  - mcp-dev-summit-eu-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ MCPUI allows applications to break down their interfaces into composable, intera
 The protocol ensures security by sandboxing UI components in iframes and supports theming and rendering flexibility through features like custom CSS and remote DOM, allowing consistent experiences across different hosts.
 MCPUI is already adopted by companies like Shopify, Postman, Goose, and Hugging Face, and supports multiple SDKs, making integration straightforward.
 The project is community-driven, with ongoing work on authentication, native client support, and broader adoption, aiming to enable seamless, agentic workflows where users interact with multiple apps through a unified, interactive chat interface.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                |

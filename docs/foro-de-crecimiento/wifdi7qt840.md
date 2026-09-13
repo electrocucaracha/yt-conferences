@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Experto #1 en Productividad: Por Qué Tu Cerebro No Está Rindiendo al Máximo
+  | Nico Fernandez #51"
+nav_order: 30
+parent: Foro De Crecimiento
 type: Video Note
-title: "Experto #1 en Productividad: Por Qué Tu Cerebro No Está Rindiendo al Máximo | Nico Fernandez #51"
-description: "En este video, se desmitifica la idea de que se necesitan 10,000 horas para ser bueno en algo, proponiendo que con solo 18 minutos diarios durante un año se puede superar al 98% de la población en cualquier habilidad. La productividad se de..."
+description:
+  En este video, se desmitifica la idea de que se necesitan 10,000 horas
+  para ser bueno en algo, proponiendo que con solo 18 minutos diarios durante un año
+  se puede superar al 98% de la población en cualquier habilidad. La productividad
+  se de...
 resource: https://www.youtube.com/watch?v=WiFdI7qT840
-tags: ["foro-de-crecimiento", video, learning]
+tags:
+  - foro-de-crecimiento
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ La productividad se define como hacer más con menos y se sostiene sobre tres pi
 Se enfatiza la importancia de cuidar el sueño para mejorar el rendimiento cognitivo, realizar ejercicio de fuerza para potenciar la inteligencia y mantener una alimentación basada en alimentos naturales, evitando ultraprocesados.
 Además, se recomienda administrar la concentración por encima del tiempo, utilizar herramientas tecnológicas y planificar con métodos como el time blocking y el Second Brain.
 Finalmente, se destaca que la verdadera productividad no solo permite lograr más, sino también disfrutar más de la vida y dedicar tiempo a lo que realmente importa, conectando el propósito personal con el bienestar y la felicidad.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                     |

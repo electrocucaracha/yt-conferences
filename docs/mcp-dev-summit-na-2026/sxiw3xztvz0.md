@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "URL Elicitation Deep Dive: Third-party OAuth Solved (and More!) - Nate Barbettini,
+  Arcade.dev"
+nav_order: 103
+parent: Mcp Dev Summit Na 2026
 type: Video Note
-title: "URL Elicitation Deep Dive: Third-party OAuth Solved (and More!) - Nate Barbettini, Arcade.dev"
-description: "In this talk, Nate, a founding engineer at Arcade, introduces the concept of URL elicitation, a new feature in the MCP protocol designed to securely handle sensitive user interactions, such as payments or OAuth authorization, without exposi..."
+description:
+  In this talk, Nate, a founding engineer at Arcade, introduces the concept
+  of URL elicitation, a new feature in the MCP protocol designed to securely handle
+  sensitive user interactions, such as payments or OAuth authorization, without exposi...
 resource: https://www.youtube.com/watch?v=sXIw3xZTVZ0
-tags: ["mcp-dev-summit-na-2026", video, learning]
+tags:
+  - mcp-dev-summit-na-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -14,6 +27,7 @@ In this talk, Nate, a founding engineer at Arcade, introduces the concept of URL
 He explains that URL elicitation allows an MCP server to send a secure URL directly to the client, prompting the user to complete sensitive actions—like entering a credit card number or authorizing access—in a trusted browser environment, rather than through chat or the client interface.
 This approach maintains strict trust boundaries, ensuring that sensitive information never passes through the model or client, and is particularly useful for integrating with external APIs that require OAuth or similar flows.
 Nate also addresses security considerations, such as phishing risks and the need for trusted registries, and notes that while adoption across clients is still uneven, the feature is gaining support and provides a robust foundation for secure, user-mediated interactions in the MCP ecosystem.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                    |

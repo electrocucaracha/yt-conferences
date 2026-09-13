@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Hacking GPU Observability: eBPF & Ephemeral Containers in Action on Kubernetes
+  - Brandon Kang"
+nav_order: 136
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Hacking GPU Observability: eBPF & Ephemeral Containers in Action on Kubernetes - Brandon Kang"
-description: "In this presentation, Brendan from Akami discusses the challenges of monitoring and debugging GPU workloads in Kubernetes environments, emphasizing that GPUs often fail silently and traditional monitoring tools like Nvidia's DCGM only provi..."
+description:
+  In this presentation, Brendan from Akami discusses the challenges of
+  monitoring and debugging GPU workloads in Kubernetes environments, emphasizing that
+  GPUs often fail silently and traditional monitoring tools like Nvidia's DCGM only
+  provi...
 resource: https://www.youtube.com/watch?v=mkH38O3wLog
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ He explains that GPU workloads differ significantly from CPU workloads, with pro
 Brendan introduces eBPF, a Linux kernel technology, as a solution for deeper observability, allowing real-time monitoring of application, driver, and kernel interactions without modifying application code or breaking Kubernetes principles.
 He demonstrates how eBPF can be used to trace CUDA runtime events and data transfers, improving both performance troubleshooting and security by detecting abnormal behaviors like unauthorized crypto mining.
 Brendan also recommends using ephemeral containers for safe debugging in production, and outlines a layered architecture for full-stack GPU observability, combining DCGM, eBPF, and open-source tools to achieve comprehensive visibility and secure, cloud-native machine learning infrastructure.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                       |

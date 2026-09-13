@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Mapping the Next Phase: Updating the Cloud Native Ma... Danielle Cook, Simon
+  Forster & Robert Glenn"
+nav_order: 165
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Mapping the Next Phase: Updating the Cloud Native Ma... Danielle Cook, Simon Forster & Robert Glenn"
-description: "The Cloud Native Maturity Model is an evolving framework designed to guide organizations through their cloud native adoption journey. The model consists of five levels: build, operate, scale, improve, and optimize. Each level represents a s..."
+description:
+  "The Cloud Native Maturity Model is an evolving framework designed to
+  guide organizations through their cloud native adoption journey. The model consists
+  of five levels: build, operate, scale, improve, and optimize. Each level represents
+  a s..."
 resource: https://www.youtube.com/watch?v=4I4SB5rEb50
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ The model consists of five levels: build, operate, scale, improve, and optimize.
 Each level represents a stage of maturity, with increasing complexity and emphasis on business outcomes, people, processes, policy, and technology.
 The model aims to provide a common language for discussing cloud native adoption and has been updated to reflect the rapidly changing landscape of cloud native technologies.
 The CNCF is seeking input from practitioners to further refine the model and ensure it remains relevant and effective in supporting organizations' cloud native journeys.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

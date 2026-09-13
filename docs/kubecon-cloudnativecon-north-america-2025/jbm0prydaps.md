@@ -1,11 +1,21 @@
 ---
+layout: default
+title:
+  Tools and Strategies for Making the Most of Kubernetes Access Con... Lucas
+  Käldström & Micah Hausler
+nav_order: 320
+parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
-title: "Tools and Strategies for Making the Most of Kubernetes Access Con... Lucas Käldström & Micah Hausler"
-description: "Here is a summary of the video transcript in 3-5 sentences."
+description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=JBM0PRyDaPs
-tags: ["kubecon-cloudnativecon-north-america-2025", video, learning]
+tags:
+  - kubecon-cloudnativecon-north-america-2025
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +25,7 @@ They introduce a new enhancement proposal that aims to add more fine-grained alt
 The proposal utilizes the Cedar authorization language, which provides expressivity, safety, and analyzability, allowing for better policy management and enforcement.
 The authors demonstrate the use of Cedar in a demo, showcasing its ability to constrain reads and ensure authorized access.
 They conclude by encouraging viewers to join the SIG-O special interest group for authentication and authorization discussions.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                           |

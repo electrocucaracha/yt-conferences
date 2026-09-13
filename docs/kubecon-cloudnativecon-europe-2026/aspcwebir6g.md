@@ -1,11 +1,25 @@
 ---
+layout: default
+title:
+  "Collisions in the Dark: Illuminating the 95% of Kubeflow You Can't... Amine
+  Lahouel & Laura Llinares"
+nav_order: 76
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Collisions in the Dark: Illuminating the 95% of Kubeflow You Can't... Amine Lahouel & Laura Llinares"
-description: "In this talk, Amin and Lara, engineers at CERN, present their work on observability for the Next Generation Triggers (NGT) project, which supports CERN’s high-energy physics experiments by managing vast amounts of collision data. They descr..."
+description:
+  In this talk, Amin and Lara, engineers at CERN, present their work on
+  observability for the Next Generation Triggers (NGT) project, which supports CERN’s
+  high-energy physics experiments by managing vast amounts of collision data. They
+  descr...
 resource: https://www.youtube.com/watch?v=AsPCWEBiR6g
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +29,7 @@ They describe the challenges of providing a scientific computing platform based 
 Their observability stack integrates various exporters and tools—such as Prometheus, Grafana, Kepler, and IPMI—to collect and visualize metrics on GPU and CPU utilization, energy consumption, and CO2 emissions, supporting both user troubleshooting and sustainability goals.
 They share lessons learned from scaling their monitoring infrastructure, highlight the importance of dashboards for users and administrators, and discuss ongoing efforts to simplify deployment through a Kubeflow observability manifest.
 The talk concludes by emphasizing the value of transparency, sustainability, and open-source collaboration in building effective observability solutions for scientific computing workloads.
+
 # Main Points
 
 |   # | Main point                                                                                                                                                                                                       |

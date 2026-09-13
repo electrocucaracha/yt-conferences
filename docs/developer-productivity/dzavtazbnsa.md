@@ -1,11 +1,23 @@
 ---
+layout: default
+title: Building HTTP API SDKs that Really Are a Kit • Darrel Miller • GOTO 2019
+nav_order: 13
+parent: Developer Productivity
 type: Video Note
-title: "Building HTTP API SDKs that Really Are a Kit • Darrel Miller • GOTO 2019"
-description: "Darrell Miller, a Microsoft program manager, discusses building HTTP API SDKs, which he believes should be flexible enough to allow developers to pick and choose the parts they want to use. He argues that current SDKs are often inflexible a..."
+description:
+  Darrell Miller, a Microsoft program manager, discusses building HTTP
+  API SDKs, which he believes should be flexible enough to allow developers to pick
+  and choose the parts they want to use. He argues that current SDKs are often inflexible
+  a...
 resource: https://www.youtube.com/watch?v=dzaVtAZBnsA
-tags: ["developer-productivity", video, learning]
+tags:
+  - developer-productivity
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +27,7 @@ He argues that current SDKs are often inflexible and limited, making it difficul
 To address this, Darrell's team has developed a new approach to SDKs, including middleware, response handlers, and tasks, which provide more flexibility and choice for developers.
 The goal is to create a "kit" that allows developers to build their own solutions without having to rebuild everything from scratch.
 By making SDKs optional and providing choices, Darrell hopes to encourage usage and adoption of these kits.
+
 # Main Points
 
 |   # | Main point                                                                                                                                           |

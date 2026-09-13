@@ -1,11 +1,24 @@
 ---
+layout: default
+title:
+  "Volcano: Orchestrating the Full AI Lifecycle – From Training To Inferen...
+  Chen Zicong & Hajnal Máté"
+nav_order: 390
+parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
-title: "Volcano: Orchestrating the Full AI Lifecycle – From Training To Inferen... Chen Zicong & Hajnal Máté"
-description: "The presentation introduces Volcano, a unified batch scheduling platform that has evolved from a simple batch scheduler to orchestrate the full AI lifecycle, including training, inference, and bursty agent workloads. The speakers, Matty Hel..."
+description:
+  The presentation introduces Volcano, a unified batch scheduling platform
+  that has evolved from a simple batch scheduler to orchestrate the full AI lifecycle,
+  including training, inference, and bursty agent workloads. The speakers, Matty Hel...
 resource: https://www.youtube.com/watch?v=mzA0yuZ4QuY
-tags: ["kubecon-cloudnativecon-europe-2026", video, learning]
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
 status: stable
-generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+generated:
+  by: process:yt-conferences-okf
+  at: 2026-09-12 00:00:00+00:00
 ---
 
 # Summary
@@ -15,6 +28,7 @@ The speakers, Matty Hel and Jesse, outline Volcano’s integration with various 
 Recent developments include the introduction of the Agentuler for latency-sensitive workloads, dynamic sharding for efficient resource allocation, and enhanced network topology-aware scheduling using hypernodes.
 The session also highlights subprojects such as Casina (an LLM serving platform), Agent Cube (for AI agent workloads), and Volcano Global (for multicluster scheduling), each addressing specific needs in AI workload management.
 The team emphasizes ongoing work to further integrate with cloud providers and open-source projects, and calls for community contributions to advance Volcano as a comprehensive, unified scheduling solution for diverse AI workloads.
+
 # Main Points
 
 |   # | Main point                                                                                                                                             |
