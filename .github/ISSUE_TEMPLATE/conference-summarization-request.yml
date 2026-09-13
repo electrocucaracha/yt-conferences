@@ -1,0 +1,49 @@
+name: Conference Summarization Request
+description: Request the summarization of a conference from its YouTube playlist.
+title: "[Conference Request]: "
+labels:
+  - conference-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to request that a conference be added to the
+        collection.
+        Provide the YouTube playlist URL for the conference so its talks can
+        be fetched, transcribed, and summarized.
+  - type: input
+    id: conference-name
+    attributes:
+      label: Conference name
+      description: The full name of the conference or event.
+      placeholder: e.g. KubeCon + CloudNativeCon Europe 2026
+    validations:
+      required: true
+  - type: input
+    id: playlist-url
+    attributes:
+      label: YouTube playlist URL
+      description: >-
+        The URL of the YouTube playlist containing the conference talks.
+      placeholder: https://www.youtube.com/playlist?list=...
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: >-
+        Any other details that help identify or scope the conference, such as dates, tracks, or subject areas.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: >-
+            The playlist URL is public and contains the conference talks.
+          required: true
+        - label: >-
+            I searched existing issues and this conference has not already been requested.
+          required: true
