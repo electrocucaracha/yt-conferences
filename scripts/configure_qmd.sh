@@ -29,10 +29,10 @@ readonly COLLECTION_NAME='yt-conferences'
 # @exitcode 1 If the QMD command fails.
 #######################################
 run_qmd() {
-    if ! qmd "$@"; then
-        printf 'QMD command failed: qmd %s\n' "$*" >&2
-        return 1
-    fi
+	if ! qmd "$@"; then
+		printf 'QMD command failed: qmd %s\n' "$*" >&2
+		return 1
+	fi
 }
 
 #######################################
@@ -44,35 +44,35 @@ run_qmd() {
 # @exitcode 1 If QMD is unavailable or a command fails.
 #######################################
 main() {
-    local root_dir
-    local collection_path
-    local collection_list
+	local root_dir
+	local collection_path
+	local collection_list
 
-    if ! command -v qmd >/dev/null 2>&1; then
-        printf '%s\n' \
-            'qmd is required: https://github.com/tobi/qmd' >&2
-        return 1
-    fi
+	if ! command -v qmd >/dev/null 2>&1; then
+		printf '%s\n' \
+			'qmd is required: https://github.com/tobi/qmd' >&2
+		return 1
+	fi
 
-    root_dir="$(CDPATH='' cd -- "$(dirname -- "$0")/.." && pwd)"
-    collection_path="${root_dir}/docs"
+	root_dir="$(CDPATH='' cd -- "$(dirname -- "$0")/.." && pwd)"
+	collection_path="${root_dir}/docs"
 
-    run_qmd init
+	run_qmd init
 
-    collection_list="$(qmd collection list 2>/dev/null || true)"
-    if grep -q "^${COLLECTION_NAME}[[:space:]]" <<<"${collection_list}"; then
-        run_qmd collection remove "${COLLECTION_NAME}"
-    fi
-    run_qmd collection add "${collection_path}" --name "${COLLECTION_NAME}"
+	collection_list="$(qmd collection list 2>/dev/null || true)"
+	if grep -q "^${COLLECTION_NAME}[[:space:]]" <<<"${collection_list}"; then
+		run_qmd collection remove "${COLLECTION_NAME}"
+	fi
+	run_qmd collection add "${collection_path}" --name "${COLLECTION_NAME}"
 
-    run_qmd context add "qmd://${COLLECTION_NAME}" \
-        'OKF v0.2 video-note knowledge bundle organized by conference and learning topic.'
+	run_qmd context add "qmd://${COLLECTION_NAME}" \
+		'OKF v0.2 video-note knowledge bundle organized by conference and learning topic.'
 
-    run_qmd update
-    run_qmd embed -c "${COLLECTION_NAME}"
+	run_qmd update
+	run_qmd embed -c "${COLLECTION_NAME}"
 
-    printf 'QMD is ready: collection=%s path=%s\n' \
-        "${COLLECTION_NAME}" "${collection_path}"
+	printf 'QMD is ready: collection=%s path=%s\n' \
+		"${COLLECTION_NAME}" "${collection_path}"
 }
 
 main "$@"
