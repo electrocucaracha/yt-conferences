@@ -9,7 +9,7 @@ type: Video Note
 description:
   In this presentation, Paulo Detorii and his colleague from IBM Research
   introduce a new approach to Kubernetes multi-tenancy called "three shades of isolation,"
-  which addresses the growing need for secure, efficient, and isolated environmen...
+  which addresses the growing need for secure, efficient, and isolated environment.
 resource: https://www.youtube.com/watch?v=24E4LDWThAE
 tags:
   - kubecon-cloudnativecon-europe-2026

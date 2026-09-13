@@ -9,7 +9,7 @@ type: Video Note
 description:
   The presentation discusses how to speed up loading of large data sets
   into Kubernetes clusters using image volumes from OCI registries. The current state
-  of efficiency in starting up images has improved with artifact streaming, but packagin...
+  of efficiency in starting up images has improved with artifact streaming, but packaging.
 resource: https://www.youtube.com/watch?v=XqL5lh32lr8
 tags:
   - kubecon-cloudnativecon-europe-2025

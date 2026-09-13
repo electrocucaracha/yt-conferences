@@ -9,7 +9,7 @@ type: Video Note
 description:
   The speakers introduce the complexities of using GPUs, particularly within
   Kubernetes environments. They begin by explaining foundational Linux concepts such
-  as system calls, control groups (cgroups), and namespaces, which underpin containe...
+  as system calls, control groups (cgroups), and namespaces, which underpin container.
 resource: https://www.youtube.com/watch?v=nu6bLhuvlWM
 tags:
   - kubecon-cloudnativecon-europe-2026

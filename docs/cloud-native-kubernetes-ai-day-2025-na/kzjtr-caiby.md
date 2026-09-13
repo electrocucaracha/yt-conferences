@@ -7,7 +7,7 @@ type: Video Note
 description:
   The event concluded with expressions of gratitude to all attendees, platinum
   sponsors, diamond sponsors, and the startup sponsor, highlighting the event's popularity
-  and strong support. Organizers reminded participants about a reception wit...
+  and strong support. Organizers reminded participants about a reception with.
 resource: https://www.youtube.com/watch?v=kZJTR_CaIbY
 tags:
   - cloud-native-kubernetes-ai-day-2025-na

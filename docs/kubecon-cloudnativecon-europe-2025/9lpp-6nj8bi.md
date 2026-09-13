@@ -7,7 +7,7 @@ type: Video Note
 description:
   Camille Fornier, co-author Ian Noland, and their platform engineering
   team discuss the importance of starting a platform team when scaling to manage complexity,
-  create leverage, and improve productivity. They emphasize that platform enginee...
+  create leverage, and improve productivity. They emphasize that platform engineer.
 resource: https://www.youtube.com/watch?v=9lPp-6nJ8bI
 tags:
   - kubecon-cloudnativecon-europe-2025

@@ -10,7 +10,7 @@ description:
   In this presentation, Johannes and Max from SAP share their three-year
   journey building a European cloud orchestration platform within their enterprise,
   which has now been open sourced and donated to the Neonos Foundation under the Linux
-  Fo...
+  For.
 resource: https://www.youtube.com/watch?v=hR8hFht9sFA
 tags:
   - kubecon-cloudnativecon-europe-2026

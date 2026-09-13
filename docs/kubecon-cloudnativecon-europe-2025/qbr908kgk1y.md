@@ -9,7 +9,7 @@ type: Video Note
 description:
   Deness, a security and cloud computing master student, discussed bridging
   the gap between high-performance computing (HPC) and cloud ecosystems through Kubernetes.
-  He highlighted the differences in assumptions between HPC and cloud computin...
+  He highlighted the differences in assumptions between HPC and cloud computing.
 resource: https://www.youtube.com/watch?v=QbR908kgk1Y
 tags:
   - kubecon-cloudnativecon-europe-2025

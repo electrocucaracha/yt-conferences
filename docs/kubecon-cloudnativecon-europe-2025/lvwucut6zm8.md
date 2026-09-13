@@ -8,7 +8,7 @@ description:
   The speaker, William Morgan, CEO of Buoyant, discusses the concept of
   sidecars in service meshes, particularly in relation to Linkerd. He explains that
   a sidecar is a pattern where a container runs alongside an application container,
-  sharin...
+  sharing.
 resource: https://www.youtube.com/watch?v=lVWUCUt6ZM8
 tags:
   - kubecon-cloudnativecon-europe-2025

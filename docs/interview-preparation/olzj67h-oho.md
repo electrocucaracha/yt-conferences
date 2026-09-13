@@ -8,7 +8,7 @@ description:
   He reveals the reason for their stagnation was not due to their skills,
   but rather a series of unlearned assumptions that hindered their career growth.
   These assumptions included believing that hard work alone would lead to recognition,
-  thi...
+  this.
 resource: https://www.youtube.com/watch?v=oLzj67H-OHo
 tags:
   - interview-preparation

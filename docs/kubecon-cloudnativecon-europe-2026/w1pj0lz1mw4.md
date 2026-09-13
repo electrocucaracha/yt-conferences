@@ -7,7 +7,7 @@ type: Video Note
 description:
   Eduardo presents the latest advancements in the Fluent Bit project, emphasizing
   its evolution as a high-performance, vendor-neutral telemetry pipeline for collecting,
-  processing, and routing observability data. He explains the core architec...
+  processing, and routing observability data. He explains the core architect.
 resource: https://www.youtube.com/watch?v=w1pj0Lz1mW4
 tags:
   - kubecon-cloudnativecon-europe-2026

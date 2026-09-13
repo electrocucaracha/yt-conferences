@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Beyond ChatOps: Agentic AI in Kubernete... Pavneet Ahluwalia, Idit Levine,
+  "Beyond ChatOps: Agentic AI in Kubernetes. Pavneet Ahluwalia, Idit Levine,
   Arik ALon & Valeria Ortiz"
 nav_order: 24
 parent: Kubecon Cloudnativecon North America 2025

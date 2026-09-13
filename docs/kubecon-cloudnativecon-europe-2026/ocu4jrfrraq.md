@@ -9,7 +9,7 @@ type: Video Note
 description:
   Jans Su, an architect with a platform engineering background, and Sarah,
   a data scientist turned architect, introduce themselves and aim to guide attendees
-  through CubeCon, especially those new to Kubernetes and cloud-native AI. They discus...
+  through CubeCon, especially those new to Kubernetes and cloud-native AI. They discuss.
 resource: https://www.youtube.com/watch?v=Ocu4JRFrraQ
 tags:
   - kubecon-cloudnativecon-europe-2026

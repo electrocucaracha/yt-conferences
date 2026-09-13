@@ -9,7 +9,7 @@ type: Video Note
 description:
   Flynn from the Linkerd project discusses the challenges of managing MTLS
   certificates within a service mesh, focusing on a user incident where expired certificates
-  caused system failures. He explains that Linkerd relies on trust anchors wit...
+  caused system failures. He explains that Linkerd relies on trust anchors with.
 resource: https://www.youtube.com/watch?v=PpV8tAbBvsU
 tags:
   - kubecon-cloudnativecon-north-america-2025

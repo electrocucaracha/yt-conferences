@@ -9,7 +9,7 @@ type: Video Note
 description:
   The SIG instrumentation team at Kubernetes aims to provide best practices
   and tools for component owners to instrument their components using signals such
-  as metrics, traces, logs, and events. The team has developed various projects, includ...
+  as metrics, traces, logs, and events. The team has developed various projects, include.
 resource: https://www.youtube.com/watch?v=RwcC44BWDvA
 tags:
   - kubecon-cloudnativecon-europe-2025

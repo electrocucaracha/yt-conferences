@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  Simplifying the Networking and Secur... Bill Mulligan, Anna Kapuścińska, Bowei
+  Simplifying the Networking and Secure. Bill Mulligan, Anna Kapuścińska, Bowei
   Du & Amir Kheirkhahan
 nav_order: 305
 parent: Kubecon Cloudnativecon Europe 2025

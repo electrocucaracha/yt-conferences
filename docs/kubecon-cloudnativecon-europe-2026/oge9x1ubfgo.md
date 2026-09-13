@@ -9,7 +9,7 @@ type: Video Note
 description:
   In this talk, the Swisscom team describes their journey from building
   Kubernetes operators to becoming an accidental platform team tasked with modernizing
-  the automation of their 5G mobile data core. Initially, deploying new network functio...
+  the automation of their 5G mobile data core. Initially, deploying new network function.
 resource: https://www.youtube.com/watch?v=OgE9X1uBfGo
 tags:
   - kubecon-cloudnativecon-europe-2026

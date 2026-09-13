@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Cutting Metrics Traffic, Cutting Costs: The AZ-Aware Observ... Iris Dyrmishi
+  "Cutting Metrics Traffic, Cutting Costs: The AZ-Aware Observe. Iris Dyrmishi
   & Rodrigo Fior Kuntzer"
 nav_order: 81
 parent: Kubecon Cloudnativecon Europe 2026

@@ -9,7 +9,7 @@ type: Video Note
 description:
   The presentation introduces Volcano, a unified batch scheduling platform
   that has evolved from a simple batch scheduler to orchestrate the full AI lifecycle,
-  including training, inference, and bursty agent workloads. The speakers, Matty Hel...
+  including training, inference, and bursty agent workloads. The speakers, Matty Help.
 resource: https://www.youtube.com/watch?v=mzA0yuZ4QuY
 tags:
   - kubecon-cloudnativecon-europe-2026

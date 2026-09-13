@@ -9,7 +9,7 @@ type: Video Note
 description:
   The presentation discusses connecting open-source activities with corporate
   goals, particularly revenue generation. The speakers, Kim McMahon and Amanda, share
-  their experiences working in marketing and advocacy roles for open-source projec...
+  their experiences working in marketing and advocacy roles for open-source project.
 resource: https://www.youtube.com/watch?v=Lkpjq4nybdE
 tags:
   - kubecon-cloudnativecon-europe-2025

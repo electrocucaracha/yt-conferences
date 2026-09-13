@@ -10,7 +10,7 @@ description:
   In this session, Simon Forester and Danielle Cook discuss the concept
   of a "cloud native balance sheet," arguing that traditional organizational balance
   sheets overlook significant intangible assets and liabilities related to people,
-  proces...
+  process.
 resource: https://www.youtube.com/watch?v=5ZwS4PYe-Cg
 tags:
   - kubecon-cloudnativecon-europe-2026

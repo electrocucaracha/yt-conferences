@@ -9,7 +9,7 @@ type: Video Note
 description:
   Phillip and Julie, senior engineers at Red Hat, introduce KServe, an
   open-source project for serving AI and machine learning models on Kubernetes. They
-  explain that KServe abstracts the complexity of deploying and managing models, supportin...
+  explain that KServe abstracts the complexity of deploying and managing models, supporting.
 resource: https://www.youtube.com/watch?v=nI9VOG8I5HE
 tags:
   - kubecon-cloudnativecon-europe-2026

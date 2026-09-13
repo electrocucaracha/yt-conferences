@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Strengthening Auth in Kubernetes: Image Pulling, DRA Admin Acces... Rita Zhang
+  "Strengthening Auth in Kubernetes: Image Pulling, DRA Admin Access. Rita Zhang
   & Stanislav Láznička"
 nav_order: 321
 parent: Kubecon Cloudnativecon Europe 2025

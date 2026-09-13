@@ -9,7 +9,7 @@ type: Video Note
 description:
   In this presentation, Luca Berton outlines a practical approach to building
   a multi-tenant, GPU-powered AI platform on bare metal OpenShift, drawing on real-world
-  experience with an avionics customer in France. He emphasizes that while runn...
+  experience with an avionics customer in France. He emphasizes that while run.
 resource: https://www.youtube.com/watch?v=nABVTFBmV2M
 tags:
   - kubecon-cloudnativecon-europe-2026

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "No Shame, Just Pain: How We Migrated Away From Kubernete... Jannis Relakis
+  "No Shame, Just Pain: How We Migrated Away From Kubernetes. Jannis Relakis
   & Michael Seiwald-McCarty"
 nav_order: 224
 parent: Kubecon Cloudnativecon Europe 2026

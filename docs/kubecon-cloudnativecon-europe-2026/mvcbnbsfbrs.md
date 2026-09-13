@@ -9,7 +9,7 @@ type: Video Note
 description:
   The session focused on running virtual machines (VMs) within Kubernetes
   using KubeVirt, an open-source CNCF project primarily developed by Red Hat. The
-  presenter, a Red Hat DevOps lead, explained the motivation for moving VMs into Kubernete...
+  presenter, a Red Hat DevOps lead, explained the motivation for moving VMs into Kubernetes.
 resource: https://www.youtube.com/watch?v=mVcBnbSfBrs
 tags:
   - kubecon-cloudnativecon-europe-2026

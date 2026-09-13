@@ -9,7 +9,7 @@ type: Video Note
 description:
   In this workshop, Doug Smith and Miguel introduce and demonstrate Dynamic
   Resource Allocation (DRRA), a new feature in Kubernetes 1.35 designed to improve
-  resource management and efficiency. They explain the motivation behind DRRA, highligh...
+  resource management and efficiency. They explain the motivation behind DRRA, highlight.
 resource: https://www.youtube.com/watch?v=BTSvZ3E82_w
 tags:
   - kubecon-cloudnativecon-europe-2026

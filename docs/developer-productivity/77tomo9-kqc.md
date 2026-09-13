@@ -9,7 +9,7 @@ type: Video Note
 description:
   Francisca Hinkleman, a senior engineer at Google, and Anu, another senior
   engineer, presented a talk on using Node.js with Google Sheets. They aimed to show
-  how anyone can work with sheets, not just developers. The duo created an applicatio...
+  how anyone can work with sheets, not just developers. The duo created an application.
 resource: https://www.youtube.com/watch?v=77toMO9-kQc
 tags:
   - developer-productivity

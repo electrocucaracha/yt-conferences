@@ -9,7 +9,7 @@ type: Video Note
 description:
   The speaker from NVIDIA discusses their experience with device failures
   in their Kubernetes clusters, particularly with GPUs falling off the bus. They share
-  that they have 60,000+ GPUs, 30,000+ nodes, and 40+ clusters worldwide, experiencin...
+  that they have 60,000+ GPUs, 30,000+ nodes, and 40+ clusters worldwide, experiencing.
 resource: https://www.youtube.com/watch?v=cLJRh4y4vXg
 tags:
   - kubecon-cloudnativecon-europe-2025

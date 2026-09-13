@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  Why Is My Query Slow? Real AI Use Cases With Vitess + Kubernete... Brett Warminski
+  Why Is My Query Slow? Real AI Use Cases With Vitess + Kubernetes. Brett Warminski
   & Gourav Khanijoe
 nav_order: 343
 parent: Kubecon Cloudnativecon North America 2025

@@ -8,7 +8,7 @@ description:
   The session, led by Shing Yang and Dave Smith, provided an update on
   the Kubernetes Data Protection Working Group, detailing its motivation, current
   projects, and ongoing white paper. The group, sponsored by SIG Storage and SIG Apps,
-  addres...
+  address.
 resource: https://www.youtube.com/watch?v=dKl_OaNlpOA
 tags:
   - kubecon-cloudnativecon-north-america-2025

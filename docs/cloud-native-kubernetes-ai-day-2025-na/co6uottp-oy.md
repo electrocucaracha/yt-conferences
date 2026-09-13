@@ -10,7 +10,7 @@ description:
   The speaker introduces Nibbus, a NASDAQ-listed, engineering-led company
   building AI cloud infrastructure designed to empower innovators of all sizes. Nibbus
   is a strategic Nvidia partner and is vertically integrated, handling everything
-  fro...
+  from.
 resource: https://www.youtube.com/watch?v=Co6uOtTp_OY
 tags:
   - cloud-native-kubernetes-ai-day-2025-na

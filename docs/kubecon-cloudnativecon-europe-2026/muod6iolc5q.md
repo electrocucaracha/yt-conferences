@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Keynote: How Ubisoft Orchestrates Global Multiplayer Games wit... Jean-François
+  "Keynote: How Ubisoft Orchestrates Global Multiplayer Games with. Jean-François
   Hubert & Mark Mandel"
 nav_order: 175
 parent: Kubecon Cloudnativecon Europe 2026

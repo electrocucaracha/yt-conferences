@@ -9,7 +9,7 @@ description:
   Shins from the AI traffic team at Boomber presented on the future of
   AI traffic management and the development of the On AI Gateway, a project built
   atop the Envoy Gateway to address AI-specific challenges such as extracting model
-  names fro...
+  names from.
 resource: https://www.youtube.com/watch?v=7OkSrMBirmc
 tags:
   - kubecon-cloudnativecon-europe-2026

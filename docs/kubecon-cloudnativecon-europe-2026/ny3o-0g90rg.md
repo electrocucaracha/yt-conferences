@@ -9,7 +9,7 @@ type: Video Note
 description:
   The session introduces Karmada, a project designed to manage and schedule
   workloads across multiple Kubernetes clusters without requiring changes to existing
-  applications. Over the past year, Karmada has added several key features, includin...
+  applications. Over the past year, Karmada has added several key features, including.
 resource: https://www.youtube.com/watch?v=NY3O_0G90rg
 tags:
   - kubecon-cloudnativecon-europe-2026

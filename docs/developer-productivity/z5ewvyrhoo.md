@@ -7,7 +7,7 @@ type: Video Note
 description:
   Adam Tornhill, a programmer and psychologist, shares his insights on
   improving systems in software development. He emphasizes that succeeding with software
-  at scale is incredibly hard due to psychological factors such as coordination betwee...
+  at scale is incredibly hard due to psychological factors such as coordination between.
 resource: https://www.youtube.com/watch?v=-z5EWVyRhOo
 tags:
   - developer-productivity

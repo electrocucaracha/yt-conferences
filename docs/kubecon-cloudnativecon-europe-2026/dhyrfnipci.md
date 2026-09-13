@@ -10,7 +10,7 @@ description:
   The speaker discusses the foundational role of Kubernetes in managing
   complex distributed systems, highlighting its extensibility and the ecosystem of
   open solutions that address operational challenges. In enterprise environments,
-  Kubernete...
+  Kubernetes.
 resource: https://www.youtube.com/watch?v=-DhYRFNipcI
 tags:
   - kubecon-cloudnativecon-europe-2026

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Harmonizing Strategy and Engineering: Lessons Learnt in Buildin... S. Chandrasekaran
+  "Harmonizing Strategy and Engineering: Lessons Learnt in Building. S. Chandrasekaran
   & K. Klymkovska"
 nav_order: 94
 parent: Kubecon Cloudnativecon North America 2025

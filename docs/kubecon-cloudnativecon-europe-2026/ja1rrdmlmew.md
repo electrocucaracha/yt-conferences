@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Tutorial: AI on Kubernetes Without the Chaos: Building Reproducible ML Environmen...
+  "Tutorial: AI on Kubernetes Without the Chaos: Building Reproducible ML Environment.
   Nourhan Mohamed"
 nav_order: 377
 parent: Kubecon Cloudnativecon Europe 2026

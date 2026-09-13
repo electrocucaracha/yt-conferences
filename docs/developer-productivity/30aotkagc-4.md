@@ -9,7 +9,7 @@ type: Video Note
 description:
   The speaker, Yan, discusses the importance of simplicity in technology
   development. He shares his experience working on game engines at EA and how he eventually
-  left to build his own engine, Hazel, which has a simpler architecture than exis...
+  left to build his own engine, Hazel, which has a simpler architecture than existing.
 resource: https://www.youtube.com/watch?v=30AOTkAgc_4
 tags:
   - developer-productivity

@@ -7,7 +7,7 @@ type: Video Note
 description:
   Augugusta, a maintainer of the Pers project, provides an update on its
   progress as a CNCF sandbox initiative focused on displaying observability data such
-  as metrics, traces, logs, and profiling information. Initially, Pers primarily suppor...
+  as metrics, traces, logs, and profiling information. Initially, Pers primarily support.
 resource: https://www.youtube.com/watch?v=u_uODSUrm0Y
 tags:
   - kubecon-cloudnativecon-north-america-2025

@@ -7,7 +7,7 @@ type: Video Note
 description:
   Matos Pimementa, a Flux maintainer at Control Plane, introduces Flux
   as a lightweight, Kubernetes-native GitOps tool designed for automating CI/CD pipelines
-  with a focus on performance and security. Flux integrates deeply with the Kubernete...
+  with a focus on performance and security. Flux integrates deeply with the Kubernetes.
 resource: https://www.youtube.com/watch?v=qln3o8Ol7pQ
 tags:
   - kubecon-cloudnativecon-europe-2026

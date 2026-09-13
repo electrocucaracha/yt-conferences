@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "When OTTL Goes Off the Rails: Debugging Transformations wit... Edmo Vamerlatti
+  "When OTTL Goes Off the Rails: Debugging Transformations with. Edmo Vamerlatti
   Costa & Tyler Helmuth"
 nav_order: 402
 parent: Kubecon Cloudnativecon Europe 2026

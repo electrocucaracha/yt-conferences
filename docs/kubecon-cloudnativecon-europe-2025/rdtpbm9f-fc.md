@@ -7,7 +7,7 @@ type: Video Note
 description:
   Helm 4 is the latest version of the popular Kubernetes package manager,
   and it brings several significant changes and improvements, including breaking changes
-  to make way for new features. The team behind Helm has been working on this updat...
+  to make way for new features. The team behind Helm has been working on this update.
 resource: https://www.youtube.com/watch?v=rdTPbm9f_fc
 tags:
   - kubecon-cloudnativecon-europe-2025

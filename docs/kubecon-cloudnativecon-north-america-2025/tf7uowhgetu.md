@@ -9,7 +9,7 @@ type: Video Note
 description:
   The City CIG City team has announced several updates, including the passing
   of Han, a key contributor to the Kubernetes project, and the election of new chairs.
-  The team also discussed their SD mentorship program, which successfully complet...
+  The team also discussed their SD mentorship program, which successfully complete.
 resource: https://www.youtube.com/watch?v=tF7UOwhgetU
 tags:
   - kubecon-cloudnativecon-north-america-2025

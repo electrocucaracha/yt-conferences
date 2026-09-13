@@ -10,7 +10,7 @@ description:
   In this talk, Sanji Chari from Nvidia and Madav Bharu from SAP discuss
   building an open-source AI reference stack tailored for the EU sovereign cloud,
   emphasizing transparency, GDPR compliance, and data sovereignty. They outline the
-  evolvin...
+  evolving.
 resource: https://www.youtube.com/watch?v=WdcIOOyJaDI
 tags:
   - kubecon-cloudnativecon-europe-2026
@@ -25,7 +25,7 @@ generated:
 # Summary
 
 In this talk, Sanji Chari from Nvidia and Madav Bharu from SAP discuss building an open-source AI reference stack tailored for the EU sovereign cloud, emphasizing transparency, GDPR compliance, and data sovereignty.
-They outline the evolvin...
+They outline the evolving.
 
 # Main Points
 

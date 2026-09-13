@@ -9,7 +9,7 @@ type: Video Note
 description:
   In this talk, Zahari, a software engineer at Buoyant, discusses the challenges
   of gaining observability into GPU usage within Kubernetes clusters, especially given
-  the high costs and scarcity of GPU resources. He explains that while existin...
+  the high costs and scarcity of GPU resources. He explains that while existing.
 resource: https://www.youtube.com/watch?v=J61kV92bSt0
 tags:
   - kubecon-cloudnativecon-europe-2026

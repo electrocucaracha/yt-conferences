@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Redefining SLIs for LLM Inference: Managing Hybrid Cloud wit... Christopher
+  "Redefining SLIs for LLM Inference: Managing Hybrid Cloud with. Christopher
   Nuland & Hilliary Lipsig"
 nav_order: 307
 parent: Kubecon Cloudnativecon Europe 2026

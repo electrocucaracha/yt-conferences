@@ -9,7 +9,7 @@ type: Video Note
 description:
   Daniel Terhorst-North discusses the evolution of software delivery and
   development over 20 years, from his first experience with JAOO to the current state
-  of continuous integration and delivery (CI/CD). He highlights key takeaways, includin...
+  of continuous integration and delivery (CI/CD). He highlights key takeaways, including.
 resource: https://www.youtube.com/watch?v=klqo1oPdbpM
 tags:
   - developer-productivity

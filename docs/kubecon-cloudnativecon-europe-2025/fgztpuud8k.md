@@ -9,7 +9,7 @@ type: Video Note
 description:
   Kendall Rhoden, a product manager at Diagrid, introduces Dapper and Score,
   two projects aimed at simplifying the development process by abstracting away complexity
-  from developers. Dapper provides a set of APIs and SDKs that enable develope...
+  from developers. Dapper provides a set of APIs and SDKs that enable develop.
 resource: https://www.youtube.com/watch?v=-fGztPUuD8k
 tags:
   - kubecon-cloudnativecon-europe-2025

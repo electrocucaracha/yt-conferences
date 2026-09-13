@@ -9,7 +9,7 @@ type: Video Note
 description:
   The presentation, "Navigating the Gateway API Maze," discusses the evolution
   from Kubernetes' Ingress API to the Gateway API, highlighting the limitations of
-  Ingress—such as lack of portability, complexity from annotations, and shared objec...
+  Ingress—such as lack of portability, complexity from annotations, and shared object.
 resource: https://www.youtube.com/watch?v=aBoqH0wf4Yk
 tags:
   - kubecon-cloudnativecon-europe-2026

@@ -7,7 +7,7 @@ type: Video Note
 description:
   The lecture begins by reviewing two-player zero-sum games and the minmax
   principle, emphasizing how game trees alternate between maximizing and minimizing
-  nodes. It then connects these concepts to reinforcement learning, specifically discus...
+  nodes. It then connects these concepts to reinforcement learning, specifically discuss.
 resource: https://www.youtube.com/watch?v=9CKRoKFdS5Y
 tags:
   - stanford-cs221-artificial-intelligence-principles

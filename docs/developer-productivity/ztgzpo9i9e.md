@@ -7,7 +7,7 @@ type: Video Note
 description:
   The speaker introduces "moldable development," a new approach to programming
   that emphasizes creating custom tools tailored to each specific development problem,
-  aiming to make software systems more explainable for humans. Demonstrating thi...
+  aiming to make software systems more explainable for humans. Demonstrating this.
 resource: https://www.youtube.com/watch?v=_ztGZpo9I9E
 tags:
   - developer-productivity

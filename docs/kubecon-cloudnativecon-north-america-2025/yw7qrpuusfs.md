@@ -10,7 +10,7 @@ description:
   The presentation discusses using AI to interact with Kubernetes, focusing
   on interacting directly with the cluster API rather than building AI systems on
   top of Kubernetes. The speakers identify common use cases for AI in Kubernetes,
-  includ...
+  include.
 resource: https://www.youtube.com/watch?v=yW7QRpUUSFs
 tags:
   - kubecon-cloudnativecon-north-america-2025

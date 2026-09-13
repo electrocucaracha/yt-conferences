@@ -9,7 +9,7 @@ type: Video Note
 description:
   Chris Coleman from Testify SAC discussed feature flag-driven development,
   a solution to improve the adoption process of feature flags in software delivery
-  life cycles. Feature flags allow for runtime control, progressive rollouts, experimen...
+  life cycles. Feature flags allow for runtime control, progressive rollouts, experiment.
 resource: https://www.youtube.com/watch?v=YjAgUlhBV90
 tags:
   - kubecon-cloudnativecon-north-america-2025

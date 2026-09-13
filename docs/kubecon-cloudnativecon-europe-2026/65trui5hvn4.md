@@ -9,7 +9,7 @@ type: Video Note
 description:
   In this presentation, Ankur Singh from Red Hat and Satyam from Mirantis
   introduce a Kubernetes-native, open-source solution called Auger to address pain
-  points in PHOPS (presumably "FinOps" or cost optimization) within Kubernetes environmen...
+  points in PHOPS (presumably "FinOps" or cost optimization) within Kubernetes environment.
 resource: https://www.youtube.com/watch?v=65TRuI5hvn4
 tags:
   - kubecon-cloudnativecon-europe-2026

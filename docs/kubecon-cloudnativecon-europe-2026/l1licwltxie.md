@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "Project Lightning Talk: What Can Crossplane Actually Do? A Real World Fiel...
+  "Project Lightning Talk: What Can Crossplane Actually Do? A Real World Feel.
   Jonasz Łasut-Balcerzak"
 nav_order: 295
 parent: Kubecon Cloudnativecon Europe 2026

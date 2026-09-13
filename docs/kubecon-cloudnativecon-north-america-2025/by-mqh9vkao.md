@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-  "On the Origin of Platforms: Evolution of a Capital One Enterpris... Bradley
+  "On the Origin of Platforms: Evolution of a Capital One Enterprise. Bradley
   Whitfield & Jacob Walden"
 nav_order: 185
 parent: Kubecon Cloudnativecon North America 2025

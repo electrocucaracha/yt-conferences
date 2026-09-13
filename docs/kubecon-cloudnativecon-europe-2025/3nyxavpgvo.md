@@ -9,7 +9,7 @@ type: Video Note
 description:
   "The speaker discusses the evolution of Kubernetes, an open-source container
   orchestration system, and its success. They attribute three key factors to its popularity:
-  (1) declarative programming, allowing users to declare desired states wit..."
+  (1) declarative programming, allowing users to declare desired states with."
 resource: https://www.youtube.com/watch?v=-3NyXaVPGvo
 tags:
   - kubecon-cloudnativecon-europe-2025

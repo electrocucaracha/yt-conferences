@@ -10,7 +10,7 @@ description:
   The speaker, Arman, introduces himself as an online cloud data access
   services expert and explains that he worked on a project with climate scientists
   and interns at Harvard University. He highlights the European public space sector,
-  includ...
+  include.
 resource: https://www.youtube.com/watch?v=pvTRjsSXMi0
 tags:
   - kubecon-cloudnativecon-europe-2025

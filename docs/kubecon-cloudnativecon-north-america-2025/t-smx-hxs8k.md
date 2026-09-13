@@ -9,7 +9,7 @@ type: Video Note
 description:
   In this talk, Sebie, a developer advocate at Port, discusses the role
   of platform engineering in reducing developers’ cognitive load by shifting complexity
-  to platform teams and enabling self-service capabilities. He emphasizes the importan...
+  to platform teams and enabling self-service capabilities. He emphasizes the important.
 resource: https://www.youtube.com/watch?v=T_sMX_hxS8k
 tags:
   - kubecon-cloudnativecon-north-america-2025

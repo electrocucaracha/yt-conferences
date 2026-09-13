@@ -9,7 +9,7 @@ type: Video Note
 description:
   The speaker discusses the importance of using AI in a responsible and
   scalable manner, particularly with open-source solutions like Kubernetes. They introduce
-  two sandbox projects, Kao and CubeFleet, which aim to simplify running and servin...
+  two sandbox projects, Kao and CubeFleet, which aim to simplify running and serving.
 resource: https://www.youtube.com/watch?v=SHG6T-8HIX8
 tags:
   - kubecon-cloudnativecon-north-america-2025

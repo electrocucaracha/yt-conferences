@@ -9,7 +9,7 @@ type: Video Note
 description:
   Antoan Lron, a senior engineer at New York, discussed Cubespray, an orchestrator
   for Kubernetes, which manages the life cycle of kubernetes clusters, focusing on
-  production environments and flexibility. It can run on various operating syste...
+  production environments and flexibility. It can run on various operating system.
 resource: https://www.youtube.com/watch?v=SqKqB-q_m8E
 tags:
   - kubecon-cloudnativecon-europe-2025

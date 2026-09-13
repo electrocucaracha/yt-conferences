@@ -25,7 +25,7 @@ generated:
 # Summary
 
 The speaker, as the final presenter of the day, discusses the evolving process of building AI-native companies, emphasizing that there is no established playbook yet and that organizations are collaboratively inventing it in real time.
-Drawing from experiences at their company, Every, which operates four software products with just 15 people and relies on AI agents to write 99% of its code, the speaker highlights the transformative impact of full AI adoption—enabling single developers to build and maintain complex applications, accelerating parallel development, and fostering a culture of rapid prototyping and demo-driven collaboration.
+Drawing from experiences at their company, Every, which operates four software products with just 15 people and relies on AI coding agents to write 99% of its code, the speaker highlights the transformative impact of sustained AI adoption—enabling single developers to build and maintain complex applications, accelerating parallel development, and fostering a culture of rapid prototyping and demo-driven collaboration.
 They introduce the concept of "compounding engineering," where each new feature makes subsequent development easier, facilitated by detailed planning, delegation to AI, assessment, and codification of knowledge into reusable prompts.
 This approach leads to easier code sharing, immediate productivity for new hires, flexible tech stacks, and even allows managers to contribute code with fragmented attention.
 The talk concludes by underscoring the significant productivity gains and collaborative benefits of 100% AI integration, inviting the audience to learn more about Every’s AI-focused products and services.
@@ -37,9 +37,9 @@ The talk concludes by underscoring the significant productivity gains and collab
 |   1 | Speaker is discussing building an AI-native company and notes the playbook is still being invented.                                 |
 |   2 | Emphasizes value in sharing personal experiences and collaboratively figuring out best practices.                                   |
 |   3 | Observes a significant difference between organizations where 90% vs. 100% of engineers use AI.                                     |
-|   4 | At the company "Every," 99% of code is written by AI agents; no one handwrites code.                                                |
+|   4 | At the company "Every," 99% of code is written by AI coding agents; no one handwrites code.                                         |
 |   5 | Every operates six business units and four software products with just 15 people.                                                   |
-|   6 | Each app is built primarily by a single developer, enabled by AI agents.                                                            |
+|   6 | Each app is built primarily by a single developer, enabled by AI coding agents.                                                     |
 |   7 | Examples of products: Kora (AI email management), Monologue (speech-to-text), Spiral (complex app), all built by one engineer each. |
 |   8 | Cloud code and agent-based coding allow for parallel work on multiple features and bugs.                                            |
 |   9 | AI enables rapid prototyping and experimentation due to lower starting energy and cost.                                             |
@@ -53,7 +53,7 @@ The talk concludes by underscoring the significant productivity gains and collab
 |  17 | Developers can easily contribute to multiple products, and cross-app collaboration is common.                                       |
 |  18 | No need to standardize on a tech stack; AI enables productivity across languages and frameworks.                                    |
 |  19 | Managers and even CEOs can commit code, enabled by AI and the ability to work with fractured attention.                             |
-|  20 | Achieving 100% AI adoption creates a 10x difference in productivity and collaboration.                                              |
+|  20 | Achieving sustained AI adoption creates a reported 10x difference in productivity and collaboration.                                |
 |  21 | Every offers a daily AI newsletter, app bundle, and training/consulting under one subscription.                                     |
 
 # Video
