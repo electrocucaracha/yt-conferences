@@ -26,11 +26,11 @@ productivity, engineering leadership, and related areas.
 
 The information is produced by
 [`yt-summarizer`](https://github.com/electrocucaracha/yt-summarizer), an
-application that reads curated YouTube videos from Notion, retrieves their
-transcripts, and uses a large language model to generate summaries and main
+application that fetches conference videos uploaded to YouTube, retrieves their
+transcripts, and uses a large language model to generate summaries and extract key
 points.
-This project organizes that generated information into a durable knowledge
-base that is easier to browse, search, and reuse.
+This project organizes that generated information into a durable knowledge base
+that is easier to browse, search, and reuse.
 
 The notes are organized as a structured, machine-readable knowledge base using
 [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/open-knowledge-format/blob/main/SPEC.md).
