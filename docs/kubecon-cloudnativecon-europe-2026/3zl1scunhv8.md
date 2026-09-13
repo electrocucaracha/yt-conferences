@@ -38,7 +38,7 @@ The session concluded with optimism about Cubert’s progress toward CNCF gradua
 |   2 | Thanks to CNCF for hosting and providing the CloudNative Theater                                                                                                      |
 |   3 | Appreciation expressed to speakers and attendees                                                                                                                      |
 |   4 | Encouragement for users to add their organizations to the Cubert adopters file via QR code or web address                                                             |
-|   5 | CNCF interested in case studies and cloud native reference architecture; more info on CNCF website                                                                    |
+|   5 | CNCF interested in case studies and cloud native reference architecture; more info on CNCF site                                                                       |
 |   6 | Multiple Cubert community meetings open to all; attendance welcomed                                                                                                   |
 |   7 | Event schedule runs until 1:30; cups with Cubert logo given for asking questions (while supplies last)                                                                |
 |   8 | Maintainer talk scheduled after the last session in room E103105                                                                                                      |

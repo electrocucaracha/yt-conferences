@@ -36,7 +36,7 @@ Eddie encourages both newcomers and experienced professionals to get involved in
 | --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |   1 | Eddie Knight, sponsored contributor at Sonatype, presents on CNCF governance structures.                                                                                       |
 |   2 | Discusses roles: CNCF Technical Oversight Committee (TOC), Technical Advisory Groups (TAGs), Technical Community Groups (TCGs).                                                |
-|   3 | Began career after open source became commonplace; initially worked on freelance websites and infrastructure.                                                                  |
+|   3 | Began career after open source became commonplace; initially worked on freelance sites and infrastructure.                                                                     |
 |   4 | Early experience included accidental database deletions, highlighting importance of security and boundaries.                                                                   |
 |   5 | Worked at Bank of America and Morgan Stanley on infrastructure as code and platform engineering.                                                                               |
 |   6 | Became an open source maintainer after sharing a needed tool with a community.                                                                                                 |

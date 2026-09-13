@@ -28,7 +28,7 @@ The speaker discusses Sparo, a dynamic topology-aware RDMA allocation solution d
 Efficient GPU and RDMA device allocation is crucial, especially when distributed inference tasks require fine-grained resource management across nodes.
 Traditional device plug-ins for GPUs and RDMA operate separately and do not coordinate allocations based on PCIe affinity, leading to inefficiencies.
 Sparo, as a Singi project plug-in, addresses these challenges by enabling underlay networking for containers, detecting PCIe affinity between RDMA devices and GPUs, and providing dedicated RDMA interfaces with independent IP addresses for traceable traffic.
-It offers two allocation approaches: pre-defined resource allocation, which allows administrators to specify resource claims in advance, and adaptive RDMA resource allocation, which automatically assigns RDMA devices based on the PCIe topology of allocated GPUs, improving flexibility and efficiency over traditional methods.
+It offers two allocation approaches: predefined resource allocation, which allows administrators to specify resource claims in advance, and adaptive RDMA resource allocation, which automatically assigns RDMA devices based on the PCIe topology of allocated GPUs, improving flexibility and efficiency over traditional methods.
 
 # Main Points
 

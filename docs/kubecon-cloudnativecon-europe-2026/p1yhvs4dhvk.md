@@ -32,7 +32,7 @@ Audience questions addressed topics such as replication, load balancing, and gat
 |   # | Main point                                                                                                                       |
 | --: | -------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | gRPC has been around for 10 years, is stable, and continues to grow.                                                             |
-|   2 | Significant usage: 7 million weekly Maven Central (Java), 304 million monthly Python downloads, 29 million weekly NPM downloads. |
+|   2 | Significant usage: 7 million weekly Maven Central (Java), 304 million monthly Python downloads, 29 million weekly npm downloads. |
 |   3 | Community contributions from companies like Netflix, DataDog, Broadcom, and LinkedIn.                                            |
 |   4 | Investments made in improving documentation, adding new user guides, and producing more video content.                           |
 |   5 | gRPC comp conferences held in the Bay Area and Bangalore.                                                                        |

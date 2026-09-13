@@ -28,7 +28,7 @@ Ana Kmer, a certified engineer at Red Hat and maintainer of the KFL SDK, discuss
 To address these issues, she introduces the KFL SDK, a set of unified Python APIs that simplify running AI workloads at any scale, allowing users to switch between local and distributed execution with minimal code changes.
 The SDK supports various backends, including local subprocesses, containerized environments, and Kubernetes, and offers features like trainer and optimizer clients for training and hyperparameter optimization, a model registry for versioning, and a Spark client for distributed data processing.
 Upcoming features include workflow orchestration, feature store integration, observability, experiment tracking, and an MCP server for AI agent operations.
-Ana also highlights the SDK's recent milestone of 140,000 downloads and invites the community to engage through their website, blog, Slack channel, and regular meetings.
+Ana also highlights the SDK's recent milestone of 140,000 downloads and invites the community to engage through their site, blog, Slack channel, and regular meetings.
 
 # Main Points
 
@@ -50,7 +50,7 @@ Ana also highlights the SDK's recent milestone of 140,000 downloads and invites 
 |  14 | Upcoming features include pipelines client for workflow orchestration, fist client for feature store, integration with OpenTelemetry for observability, and MLflow for experiment tracking. |
 |  15 | MCP server is planned to enable AI agents to operate Qflow.                                                                                                                                 |
 |  16 | KFL SDK recently reached 140,000 downloads in recent months.                                                                                                                                |
-|  17 | Community engagement includes a website, blog post, Slack channel under CNCF, bi-weekly meetings, and maintainer sessions.                                                                  |
+|  17 | Community engagement includes a site, blog post, Slack channel under CNCF, bi-weekly meetings, and maintainer sessions.                                                                     |
 
 # Video
 

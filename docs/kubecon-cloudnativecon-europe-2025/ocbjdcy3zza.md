@@ -22,10 +22,10 @@ generated:
 
 # Summary
 
-The speaker, Adulo Garcia, discusses building a VEX Kubernetes feed to communicate vulnerability impact to end-users.
+The speaker, Adulo Garcia, discusses building a VEX Kubernetes feed to communicate vulnerability impact to end users.
 VEX is a system of documents that chronologically order vulnerabilities' impact on software.
 The goal is to make it easy for users to assess the exploitation capability of vulnerabilities in their container images.
-To tackle challenges, a new tool called Vexflow is introduced, which gives a chat ops interface in GitHub issues to handle the vex life cycle.
+To tackle challenges, a new tool called Vexflow is introduced, which gives a chat ops interface in GitHub issues to handle the vex lifecycle.
 It scans repositories, opens issues with triage instructions, and captures assessments to generate vex statements.
 The speaker demonstrates how Vexflow can be used to issue vex statements for a project, including one that simulates a CRA policy requirement by blocking vulnerabilities during release.
 

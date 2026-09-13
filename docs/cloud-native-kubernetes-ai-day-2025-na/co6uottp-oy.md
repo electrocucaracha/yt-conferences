@@ -48,7 +48,7 @@ The speaker invites attendees to learn more, visit their booth, and try out thei
 |  12 | Expertise: Access to knowledgeable support when issues arise.                                                                                               |
 |  13 | Nibbus uses and contributes to open source at multiple levels:                                                                                              |
 |  14 | Virtualization: Uses KV, coup (custom version), open road, VPP for networking, and YDB for storage.                                                         |
-|  15 | Orchestration: Uses Kubernetes, slurm, and developed an open-source slurm operator for Kubernetes (s operator), now used by other clouds.                   |
+|  15 | Orchestration: Uses Kubernetes, Slurm, and developed an open-source Slurm operator for Kubernetes (s operator), now used by other clouds.                   |
 |  16 | Additional tools: Supports dstag, sky pilot, ray, flight, and various MLOps tools (metaflow, mlflow, airflow, kubeflow).                                    |
 |  17 | Language models: Utilizes many open-source models such as VLM, SGLANK, and others.                                                                          |
 |  18 | Open source solutions help build stable, high-performance AI clouds and solutions.                                                                          |

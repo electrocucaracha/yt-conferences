@@ -40,7 +40,7 @@ They conclude by encouraging involvement in the MCP working group to further ref
 |   5 | Over 10,000 MCP servers are listed in registries.                                                                                 |
 |   6 | MCP servers require minimal coordination between server and host application developers; only MCP protocol agreement is needed.   |
 |   7 | Tool descriptions and results consume context, impacting performance.                                                             |
-|   8 | Experiment showed using extra tools increased run time by 47% and nearly doubled token consumption.                               |
+|   8 | Experiment showed using extra tools increased runtime by 47% and nearly doubled token consumption.                                |
 |   9 | LLM reliability and performance drop in multi-turn conversations, especially with underspecified tasks.                           |
 |  10 | Integrating tools differs from traditional APIs; tool results become the next conversation turn.                                  |
 |  11 | User experience patterns are emerging for tool selection, but managing many tools can burden users.                               |

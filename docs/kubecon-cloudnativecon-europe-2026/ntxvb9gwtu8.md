@@ -45,7 +45,7 @@ The project, introduced at KubeCon Barcelona 2019, invites contributors from var
 |   9 | Problems with infrastructure-level backups: operators may not know which data to back up or how often, and must handle restores for users |
 |  10 | KAP provides backup as a service, allowing cluster users to define backup needs (what, how often, where, security requirements)           |
 |  11 | Application owners best understand their backup requirements                                                                              |
-|  12 | Emphasis on GitOps: configuration stored in git repositories, synced with clusters                                                        |
+|  12 | Emphasis on GitOps: configuration stored in Git repositories, synced with clusters                                                        |
 |  13 | Uses open source backup tool restic for backups and encryption                                                                            |
 |  14 | Kubernetes-native approach: backups and restores managed via CRDs and Kubernetes primitives                                               |
 |  15 | Users can schedule backups (e.g., nightly, weekly, monthly), define retention and pruning                                                 |

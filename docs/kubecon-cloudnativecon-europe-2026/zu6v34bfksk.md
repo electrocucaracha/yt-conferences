@@ -50,7 +50,7 @@ The session concludes with an invitation for community contributions and engagem
 |  14 | Functions in compositions can be written in any GRPC-supported language (Go, Python, KCL, Q, HCL, YAML).                                                                                           |
 |  15 | Crossplane handles Kubernetes controller complexities; functions focus on business logic.                                                                                                          |
 |  16 | Developer experience improvements: control plane projects unify functions, compositions, and XRDs in one place for easier management and versioning.                                               |
-|  17 | CLI tools support initializing projects, generating XRDs, compositions, and functions, and running local clusters for testing.                                                                     |
+|  17 | Command-line tools support initializing projects, generating XRDs, compositions, and functions, and running local clusters for testing.                                                            |
 |  18 | XPRN is a test framework for writing and running composition tests locally.                                                                                                                        |
 |  19 | New metrics capabilities allow detailed, flexible monitoring of Crossplane resources, leveraging resource state metrics.                                                                           |
 |  20 | Resource metrics monitors enable custom metrics and labeling, with controls to a                                                                                                                   |

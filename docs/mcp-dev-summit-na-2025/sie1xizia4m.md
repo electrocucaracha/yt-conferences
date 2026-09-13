@@ -40,7 +40,7 @@ Through practical examples, she illustrates how MCP could enable powerful, conte
 |   6 | Explained "Jarvis" as a backronym inspired by Iron Man's AI assistant.                                                                                                        |
 |   7 | Jarvis functions: personal assistant, system control, emergency response, engineering support, research, analysis, companionship, and real-world actions via robots.          |
 |   8 | Jarvis experience: natural language, multimodal interaction, immediate response, proactive updates, anticipates needs, no configuration, consistent presence across contexts. |
-|   9 | Predicts a paradigm shift: future will have a Jarvis client (host application) and websites will become MCP servers.                                                          |
+|   9 | Predicts a paradigm shift: future will have a Jarvis client (host application) and sites will become MCP servers.                                                             |
 |  10 | Envisions Jarvis as a single assistant augmented by MCP servers for various tasks (workout, trip planning, therapy, etc.).                                                    |
 |  11 | Identifies trust and privacy as major challenges for widespread adoption.                                                                                                     |
 |  12 | Notes that users should not have to manage or configure MCP servers; selection and discovery should be automatic.                                                             |

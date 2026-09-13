@@ -32,7 +32,7 @@ John concludes that while the ideal platform remains aspirational, incremental i
 |   # | Main point                                                                                                                            |
 | --: | ------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | John works at VA retail group in platform engineering and does consulting and community/open source work.                             |
-|   2 | VA retail group is a Dutch retailer similar to Target but smaller, with its own logistics, app, website, and supporting software.     |
+|   2 | VA retail group is a Dutch retailer similar to Target but smaller, with its own logistics, app, site, and supporting software.        |
 |   3 | Platform engineering is about building software to help other software, reducing cognitive load for developers.                       |
 |   4 | Platforms should be sized appropriately; too little or too much is problematic.                                                       |
 |   5 | Historically, VA had siloed teams managing separate stacks, leading to communication issues and high cognitive load.                  |

@@ -48,7 +48,7 @@ The speaker also mentions their open-source contributions, such as the Takeoff U
 |  13 | OAuth used for authentication via Smiles frequent flyer program                                                        |
 |  14 | Security and governance were major challenges; concerns about data leaks                                               |
 |  15 | Used existing mobile and web APIs, proxied through MCP; secured with Cloudflare and rate limiting by frequent flyer ID |
-|  16 | MCP is end-user focused, requiring login with frequent flyer ID                                                        |
+|  16 | MCP is end user focused, requiring login with frequent flyer ID                                                        |
 |  17 | Implemented OAuth 2.1 despite lack of enterprise support, using Cloudflare Worker platform and SDK                     |
 |  18 | Current MCP features are read-only; working on enabling actions like check-in and seat selection                       |
 |  19 | Developing disruption management to suggest new flights automatically                                                  |

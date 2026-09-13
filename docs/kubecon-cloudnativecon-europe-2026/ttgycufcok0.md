@@ -31,29 +31,29 @@ Concluding, the speaker emphasizes the importance of building and sharing more A
 
 # Main Points
 
-|   # | Main point                                                                                                                                                              |
-| --: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | First CubeCon attended in Seattle 2016, first organized by CNCF                                                                                                         |
-|   2 | Initial confusion about Kubernetes concepts like pods, declarative YAML, and Helm                                                                                       |
-|   3 | As part of the TOC, surveyed cloud native community leaders and users about pain points                                                                                 |
-|   4 | Main pain point identified: complexity of the cloud native ecosystem                                                                                                    |
-|   5 | Noted impressive growth: cloud native users scaled from 0 to 10 million in under 10 years                                                                               |
-|   6 | Questioned how to reach the next 10 million users faster and with less complexity                                                                                       |
-|   7 | Belief that agentic AI will play a major role in the future of cloud native                                                                                             |
-|   8 | Demonstrated MCP server configuration with Argo CD and GitHub MCP servers running in Kubernetes                                                                         |
-|   9 | Showed AI agent exposed as MCP server                                                                                                                                   |
-|  10 | Demoed creating an Argo CD application called "demo" using Argo CD MCP server                                                                                           |
-|  11 | Encountered and resolved network issues during the demo                                                                                                                 |
-|  12 | Successfully deployed the demo application with front end, back end, and dedicated gateway                                                                              |
-|  13 | Used AI agent to create an HTTP route from agent gateway proxy to front end service                                                                                     |
-|  14 | AI agent created a pull request (PR) for the HTTP route; audience reviewed and approved the PR                                                                          |
-|  15 | Synced the new PR into the cluster using Argo; application running successfully                                                                                         |
-|  16 | Attempted to fly a drone on stage and connect to its Wi-Fi; faced network challenges                                                                                    |
-|  17 | Managed to fly the drone but camera stream did not work; switched to backup plan using phone camera                                                                     |
-|  18 | Captured audience engagement photos and compared them with AI                                                                                                           |
-|  19 | Application architecture included front end through agent gateway, Argo, GitHub, secured with mutual TLS, using SPIFFE and Istio service mesh with ambient (no sidecar) |
-|  20 | Showcased Argo CD, MCP server, K agent as MCP server, agent gateway as MCP gateway, and agent scale for HTTP route creation                                             |
-|  21 | Encouraged building more MCP servers, AI agents, and skills, and sharing them openly to advance cloud native                                                            |
+|   # | Main point                                                                                                                                                             |
+| --: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | First CubeCon attended in Seattle 2016, first organized by CNCF                                                                                                        |
+|   2 | Initial confusion about Kubernetes concepts like pods, declarative YAML, and Helm                                                                                      |
+|   3 | As part of the TOC, surveyed cloud native community leaders and users about pain points                                                                                |
+|   4 | Main pain point identified: complexity of the cloud native ecosystem                                                                                                   |
+|   5 | Noted impressive growth: cloud native users scaled from 0 to 10 million in under 10 years                                                                              |
+|   6 | Questioned how to reach the next 10 million users faster and with less complexity                                                                                      |
+|   7 | Belief that agentic AI will play a major role in the future of cloud native                                                                                            |
+|   8 | Demonstrated MCP server configuration with Argo CD and GitHub MCP servers running in Kubernetes                                                                        |
+|   9 | Showed AI agent exposed as MCP server                                                                                                                                  |
+|  10 | Demoed creating an Argo CD application called "demo" using Argo CD MCP server                                                                                          |
+|  11 | Encountered and resolved network issues during the demo                                                                                                                |
+|  12 | Successfully deployed the demo application with frontend, backend, and dedicated gateway                                                                               |
+|  13 | Used AI agent to create an HTTP route from agent gateway proxy to frontend service                                                                                     |
+|  14 | AI agent created a pull request (PR) for the HTTP route; audience reviewed and approved the PR                                                                         |
+|  15 | Synced the new PR into the cluster using Argo; application running successfully                                                                                        |
+|  16 | Attempted to fly a drone on stage and connect to its Wi-Fi; faced network challenges                                                                                   |
+|  17 | Managed to fly the drone but camera stream did not work; switched to backup plan using phone camera                                                                    |
+|  18 | Captured audience engagement photos and compared them with AI                                                                                                          |
+|  19 | Application architecture included frontend through agent gateway, Argo, GitHub, secured with mutual TLS, using SPIFFE and Istio service mesh with ambient (no sidecar) |
+|  20 | Showcased Argo CD, MCP server, K agent as MCP server, agent gateway as MCP gateway, and agent scale for HTTP route creation                                            |
+|  21 | Encouraged building more MCP servers, AI agents, and skills, and sharing them openly to advance cloud native                                                           |
 
 # Video
 

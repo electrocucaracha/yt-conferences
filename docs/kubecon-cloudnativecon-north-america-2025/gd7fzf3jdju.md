@@ -23,7 +23,7 @@ generated:
 # Summary
 
 The speaker is excited to be at CubeCon CloudNative Con, emphasizing their connection with the community and feeling immersed in the technology.
-They express enthusiasm for connecting with both end-users and engineers, likening the event to a "time machine" that projects them 10 years into the future.
+They express enthusiasm for connecting with both end users and engineers, likening the event to a "time machine" that projects them 10 years into the future.
 The speaker also thanks the CNCF for selecting their case study as a winner, highlighting their commitment to making open source better.
 
 # Main Points

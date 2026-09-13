@@ -43,7 +43,7 @@ Pimementa concludes by inviting further discussion and highlighting ongoing impr
 |  10 | Large financial institutions use Flux for its scalability and ability to manage hundreds of clusters declaratively via GitOps. |
 |  11 | Flux offers strong Helm support, including deep integration with the Helm SDK and support for Helm 4.                          |
 |  12 | Performs drift detection effectively, especially with Helm.                                                                    |
-|  13 | Uses Kubernetes server side apply natively for better resource management with multiple tools.                                 |
+|  13 | Uses Kubernetes server-side apply natively for better resource management with multiple tools.                                 |
 |  14 | Provides robust health checks and supports dependency declarations between resources.                                          |
 |  15 | Supports cell expressions for custom health checks across different resource types.                                            |
 |  16 | Control Plane introduced Flux Operator, an open source project for easier Flux management.                                     |

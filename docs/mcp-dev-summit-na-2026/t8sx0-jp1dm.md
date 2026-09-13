@@ -25,7 +25,7 @@ generated:
 # Summary
 
 The video discusses the challenges engineers face when responding to incidents, particularly the productivity loss caused by constant context switching between multiple tools and platforms.
-To address this, the presenters introduce MCP apps, which integrate incident management workflows directly into the developer’s IDE, such as VS Code, allowing access to alerts, logs, timelines, and response actions in one place.
+To address this, the presenters introduce MCP apps, which integrate incident management workflows directly into the developer’s IDE, such as Visual Studio Code, allowing access to alerts, logs, timelines, and response actions in one place.
 They demonstrate how the new system leverages PagerDuty’s advanced agents—including SR, describe, chief, and insights agents—to automate triage, retrieve relevant data, and suggest next steps, all while keeping a human in the loop for accountability and critical decisions.
 The solution also supports cloud desktop environments and includes features like service dependency graphs and on-call compensation reports.
 Ultimately, the presenters emphasize that MCP apps reduce burnout, speed up incident resolution, and help engineers maintain focus, with future plans for multi-agent workflows and ongoing community involvement.
@@ -39,11 +39,11 @@ Ultimately, the presenters emphasize that MCP apps reduce burnout, speed up inci
 |   3 | The team aimed to centralize incident context within the developer’s IDE to minimize tool-switching.                                  |
 |   4 | They built an integration that brings alerts, logs, timelines, and response workflows directly into the IDE.                          |
 |   5 | The solution uses MCP apps and integrates PagerDuty Advanced agents (Describe, Chief, Insights, SR).                                  |
-|   6 | The SR agent retrieves logs, runbooks, and incident context from various sources (e.g., ElasticSearch, CloudWatch, Confluence).       |
+|   6 | The SR agent retrieves logs, runbooks, and incident context from various sources (e.g., Elasticsearch, CloudWatch, Confluence).       |
 |   7 | All actions performed in the MCP app are recorded in the incident audit trail for accountability.                                     |
 |   8 | The architecture involves an MCP server that discovers and enables MCP apps in the IDE.                                               |
 |   9 | The system reduces cognitive load and keeps the human responder in the loop for critical actions.                                     |
-|  10 | Incident triage, analysis, and resolution can be performed directly in VS Code or Cloud Desktop.                                      |
+|  10 | Incident triage, analysis, and resolution can be performed directly in Visual Studio Code or Cloud Desktop.                           |
 |  11 | The incident command center MCP app provides a unified view for triage, logs, alerts, and actions.                                    |
 |  12 | The SR agent suggests next steps and summarizes incidents based on retrieved data.                                                    |
 |  13 | The integration supports multiple log vendors and service dependency visualization.                                                   |

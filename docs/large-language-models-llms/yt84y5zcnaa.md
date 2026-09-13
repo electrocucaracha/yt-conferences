@@ -46,7 +46,7 @@ The session concluded with discussions on model efficiency improvements through 
 |   8 | RoPE (rotary position embeddings): Rotates queries and keys by position-dependent angles, encoding relative distance; widely used in current models.                  |
 |   9 | Layer normalization: Originally post-norm (after sublayer), now often pre-norm (before sublayer); RMSNorm is a parameter-efficient alternative.                       |
 |  10 | Attention complexity: Full attention is O(N²); local/sliding window attention restricts interactions to neighbors, reducing computation.                              |
-|  11 | Multi-query/grouped-query attention: Sharing key/value projections across heads (MQA, GQA) saves memory and improves efficiency; common in modern LLMs.               |
+|  11 | Multi-query/grouped-query attention: Sharing key-value projections across heads (MQA, GQA) saves memory and improves efficiency; common in modern LLMs.               |
 |  12 | Transformer variants: Encoder-decoder (T5), encoder-only (BERT, DistilBERT, RoBERTa), decoder-only (modern LLMs).                                                     |
 |  13 | T5 uses span corruption (masking spans) instead of next-token prediction; BERT uses masked language modeling (MLM) and next sentence prediction (NSP).                |
 |  14 | BERT: Encoder-only, bi-directional self-attention, uses CLS and SEP tokens, segment embeddings, and multi-stage training (pre-training + fine-tuning).                |

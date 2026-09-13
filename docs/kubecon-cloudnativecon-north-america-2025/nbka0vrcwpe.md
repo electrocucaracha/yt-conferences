@@ -49,7 +49,7 @@ The talk concludes by encouraging attendees to embrace new tools and strategies 
 |  13 | Evaluations (evals) help determine if LLMs/agents perform tasks successfully and guide improvements.                                                                                                                                                             |
 |  14 | New toolbox includes agent frameworks, infrastructure tools (Kubernetes, Docker), and durable execution platforms.                                                                                                                                               |
 |  15 | Not everyone needs full observability; roles determine which observability data is relevant.                                                                                                                                                                     |
-|  16 | AI enables faster iteration and rewriting, but distinction exists between “durable code” (critical systems) and “disposable code” (easily rebuilt, e.g., websites).                                                                                              |
+|  16 | AI enables faster iteration and rewriting, but distinction exists between “durable code” (critical systems) and “disposable code” (easily rebuilt, e.g., sites).                                                                                                 |
 |  17 | AI can assist in understanding and                                                                                                                                                                                                                               |
 
 # Video

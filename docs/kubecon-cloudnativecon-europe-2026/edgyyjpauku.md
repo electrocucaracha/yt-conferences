@@ -42,7 +42,7 @@ The overarching goal is to enable interoperability and portability of AI workloa
 |   6 | Kubernetes AI conformance adds requirements on top of existing Kubernetes conformance; platforms must be Kubernetes conformant first              |
 |   7 | The program defines standardized capabilities and APIs for running AI/ML workloads, aiming for interoperability and portability                   |
 |   8 | Transitioned from a working group to a SIG Architecture official subproject for long-term maintenance                                             |
-|   9 | All design, requirements, discussions, code, and automated tests are available in the GitHub repo                                                 |
+|   9 | All design, requirements, discussions, code, and automated tests are available in the GitHub repository                                           |
 |  10 | Program launched at KubeCon North America; initial adopters and contributors recognized                                                           |
 |  11 | Certified platforms are listed in the CNCF landscape; checklist available for Kubernetes versions 1.33 to 1.35                                    |
 |  12 | Requirement tracking moved from Google Docs to a structured GitHub project board                                                                  |

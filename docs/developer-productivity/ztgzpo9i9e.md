@@ -43,7 +43,7 @@ Ultimately, the talk advocates for a shift in perspective: rather than relying o
 |  10 | Application of moldable tools to both reading and editing tasks, including context-aware code completion and custom editors                  |
 |  11 | Use of executable examples and domain-specific debuggers to make systems more explainable and improve documentation                          |
 |  12 | Transformation of internal system representations into user-facing documentation and knowledge management tools                              |
-|  13 | Ability to compose and combine tools for various domains (API, architecture, devops, knowledge management) within the same environment       |
+|  13 | Ability to compose and combine tools for various domains (API, architecture, DevOps, knowledge management) within the same environment       |
 |  14 | Emphasis on contextual, interactive, and visual operators to create narratives about systems                                                 |
 |  15 | Support for exploring and editing complex schemas (e.g., JSON-based API lexicons) with navigable, context-aware editors                      |
 |  16 | Advocacy for optimizing software engineering for reading and decision-making, not just writing                                               |

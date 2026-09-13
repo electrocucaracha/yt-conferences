@@ -50,7 +50,7 @@ Becky concludes by advocating for the use of MCP gateways to provide necessary g
 |  15 | Organizations with AI products or deployments in the EU, especially in regulated industries, must comply.                                          |
 |  16 | Compliance requirements often align with MCP best practices.                                                                                       |
 |  17 | Eight requirements for high-risk AI systems; focus on three:                                                                                       |
-|  18 | Data governance: prevent PII from reaching models; use filtering/redaction (e.g., regex, Microsoft Presidio, custom DLP).                          |
+|  18 | Data governance: prevent PII from reaching models; use filtering/redaction (e.g., regular expression, Microsoft Presidio, custom DLP).             |
 |  19 | Audit logs: must be structured, include contextual metadata, and be suitable for external stakeholders/regulators.                                 |
 |  20 | Accuracy and cybersecurity: every server is a potential attack surface; use guardrails and monitoring (e.g., alerts for tool description changes). |
 |  21 | MCP gatewa                                                                                                                                         |

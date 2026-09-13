@@ -43,7 +43,7 @@ The presenters emphasize community contributions and encourage engagement with t
 |   7 | Additional Strimzi components: Kafka Connect, Kafka MirrorMaker, Kafka clients.                                                                                       |
 |   8 | Access Operator: creates Kubernetes secrets with Kafka connection details for clients.                                                                                |
 |   9 | HTTP Bridge: exposes REST endpoints for producing/consuming/administering Kafka via HTTP; supports OpenTelemetry tracing and Prometheus metrics.                      |
-|  10 | MQTT Bridge: allows IoT devices to send data to Kafka via MQTT; supports flexible topic mapping using regex.                                                          |
+|  10 | MQTT Bridge: allows IoT devices to send data to Kafka via MQTT; supports flexible topic mapping using regular expression.                                             |
 |  11 | OAuth Library: enables token-based authentication (e.g., OAuth, Keycloak) for Kafka clients and HTTP Bridge; supports local JWT and remote introspection validation.  |
 |  12 | Quotas Plugin: provides dynamic, broker-level quota management and monitoring, distributing quotas among clients dynamically.                                         |
 |  13 | Drain Cleaner: safely manages Kafka broker eviction during Kubernetes node draining, ensuring topic replication is not compromised.                                   |

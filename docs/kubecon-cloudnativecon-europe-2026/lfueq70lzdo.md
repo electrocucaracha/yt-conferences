@@ -48,7 +48,7 @@ The speakers emphasize the importance of context-aware testing and monitoring, n
 |  12 | Performance issues were first detected by Elastic engineers: indexing rate dropped, write timeout errors increased.                      |
 |  13 | Cluster metrics did not initially reflect the performance issues, making troubleshooting difficult.                                      |
 |  14 | Onboarding of new customers was paused during investigation.                                                                             |
-|  15 | Troubleshooting involved Portworx engineers, FIO, and IOT tools; storage layer showed long IO latency.                                   |
+|  15 | Troubleshooting involved Portworx engineers, FIO, and IoT tools; storage layer showed long IO latency.                                   |
 |  16 | Isolated test environments and Elastic stress test tools were used to reproduce and analyze issues.                                      |
 |  17 | Tested various configurations: Portworx replication (replica 1 vs 2), RAID 5 vs RAID 10, SSD vs NVMe, bare metal vs virtualized storage. |
 |  18 | Replica 1 consistently outperformed replica 2 due to lower replication overhead.                                                         |

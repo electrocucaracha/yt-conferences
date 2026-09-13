@@ -28,7 +28,7 @@ JGO Mloud, lead open source Kubernetes at Google, gave an update on the latest d
 He announced that rollbacks are now upstream and enabled in GKE, achieving almost four nines of reliability in upgrade success rates.
 Additionally, skip version upgrades have been implemented, allowing for safer annual upgrades.
 Mloud also highlighted advancements in hardware support, including DRA's GA status, making AI workloads more portable and functional.
-Furthermore, framework orchestration improvements have been made, particularly with the integration of slurm and ray communities, enabling consistent operational experiences across frameworks.
+Furthermore, framework orchestration improvements have been made, particularly with the integration of Slurm and ray communities, enabling consistent operational experiences across frameworks.
 
 # Main Points
 

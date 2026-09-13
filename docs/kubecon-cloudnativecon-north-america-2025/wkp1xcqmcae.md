@@ -48,16 +48,16 @@ They encouraged community involvement through contributions, feedback, and parti
 |  15 | Commands embeddable in other applications.                                                                                             |
 |  16 | Enhanced logging for SDK and CLI users.                                                                                                |
 |  17 | Reproducible chart builds for consistent outputs.                                                                                      |
-|  18 | WebAssembly (WASM) plugin support with backward compatibility; plugins now cross-platform (Windows, Linux, Mac, ARM, Intel).           |
+|  18 | WebAssembly (Wasm) plugin support with backward compatibility; plugins now cross-platform (Windows, Linux, Mac, ARM, Intel).           |
 |  19 | Post Renderers now plugin-based.                                                                                                       |
 |  20 | Future plans:                                                                                                                          |
 |  21 | Chart API v3 to be introduced during Helm 4 lifecycle as an experiment, with v2 still supported.                                       |
 |  22 | GoReleaser and cosign signing to be added (planned for 4.1).                                                                           |
-|  23 | Helm v3 support: bug fixes until July 8, 2026; security fixes until Nov 11, 2026; no feature backports.                                |
+|  23 | Helm v3 support: bugfixes until July 8, 2026; security fixes until Nov 11, 2026; no feature backports.                                 |
 |  24 | Helm v5 is years away; feedback and suggestions are welcome.                                                                           |
 |  25 | Community involvement encouraged via Slack, GitHub, community meetings, documentation, charts tooling, and unit tests.                 |
 |  26 | Project pavilion presence for further questions and discussions.                                                                       |
-|  27 | WASM plugins use WYP1, not the component model, due to Go limitations.                                                                 |
+|  27 | Wasm plugins use WYP1, not the component model, due to Go limitations.                                                                 |
 |  28 | Attendees invited to contribute and ask questions.                                                                                     |
 
 # Video

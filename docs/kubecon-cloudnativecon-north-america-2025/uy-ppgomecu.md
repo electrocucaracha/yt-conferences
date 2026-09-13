@@ -39,7 +39,7 @@ Robert invites interested individuals to get involved with the project, mentioni
 |   6 | Supports pre-existing policies (e.g., RIO, Kyverno, Artifact Hub, custom RIGO policies)                                           |
 |   7 | User personas: consumers (policy enforcements), developers (policy creators), operators (policy operators), integrator developers |
 |   8 | Supports multiple programming languages: .NET, Go, Rust                                                                           |
-|   9 | Policies compiled into small binaries using WebAssembly (WASM)                                                                    |
+|   9 | Policies compiled into small binaries using WebAssembly (Wasm)                                                                    |
 |  10 | GitOps approach for policy management                                                                                             |
 |  11 | "Policies everywhere" concept: enforce policies in clusters, VMs, and edge use cases, not limited to Kubernetes                   |
 |  12 | Universal policy agent enables writing and enforcing policies wherever needed                                                     |

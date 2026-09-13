@@ -22,7 +22,7 @@ generated:
 
 Here is a summary of the video transcript in 3-5 sentences: Man Lotle, a product owner for cloud native platforms at HDI Global, discusses Cloud Events Registry (X Registry), a project aimed at harmonizing metadata across event-driven architectures.
 The X Registry provides a vendor-agnostic specification for managing metadata about resources, allowing for interoperability and reducing schema repetition.
-Man demonstrates the registry's capabilities using a to-do list example, showcasing how it can be used to manage events, schemas, and endpoints.
+Man demonstrates the registry's capabilities using a todo list example, showcasing how it can be used to manage events, schemas, and endpoints.
 The X Registry is currently in its RC1 stage, with plans for further development and release in the near future.
 
 # Main Points

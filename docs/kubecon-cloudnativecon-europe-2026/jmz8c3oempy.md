@@ -40,7 +40,7 @@ Their key lessons emphasize minimizing custom resource size, limiting status upd
 |   3 | FISA's real-time fraud detection platform processes 90 billion events and $83 trillion in payments annually.                                           |
 |   4 | Spark is used for batch processing, feature engineering, and model training.                                                                           |
 |   5 | Delays in Spark applications can degrade transaction scoring and miss fraud.                                                                           |
-|   6 | Over 150 production YARN clusters, isolated per client/use case.                                                                                       |
+|   6 | Over 150 production Yarn clusters, isolated per client/use case.                                                                                       |
 |   7 | 4,000 Spark applications launched daily (3 per minute), number is growing.                                                                             |
 |   8 | Previous setup: independent clusters per client/use case, lack of resource efficiency, no multi-tenancy, operational burden, frequent SRE involvement. |
 |   9 | Strategic shift to Kubernetes consolidation for a single operational model and cloud-native, cost-efficient infrastructure.                            |

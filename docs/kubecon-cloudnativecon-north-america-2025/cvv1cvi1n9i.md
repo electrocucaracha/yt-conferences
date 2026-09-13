@@ -24,7 +24,7 @@ generated:
 
 # Summary
 
-In this talk, Corey Quinn critiques the common practice of over-engineering for cloud portability, likening it to preppers obsessively preparing bugout bags for disasters that never match reality.
+In this talk, Corey Quinn critiques the common practice of overengineering for cloud portability, likening it to preppers obsessively preparing bugout bags for disasters that never match reality.
 He argues that many organizations invest heavily in cloud-agnostic architectures—using Kubernetes, avoiding managed services, and maintaining complex migration plans—only to end up with expensive, inefficient systems that fail to deliver the promised flexibility.
 Quinn contends that true lock-in is not to a specific cloud provider’s APIs, but to the expertise and operational knowledge teams develop over time, making switching providers far more costly and disruptive than anticipated.
 He warns that pursuing multicloud redundancy often doubles operational burdens and failure points without real benefit, and that the real disaster is burning out engineers with unnecessary complexity.

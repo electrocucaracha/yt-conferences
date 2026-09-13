@@ -51,7 +51,7 @@ Ultimately, she asserts that openness is essential for progress in agentic AI, e
 |  17 | Goose normalized agents as CLIs, expanding agent capabilities beyond IDEs.                                                                    |
 |  18 | Goose introduced sub-agents, enabling orchestration and parallelization of tasks.                                                             |
 |  19 | Goose recipes allow users to create, save, share, and schedule repeatable agent workflows.                                                    |
-|  20 | Community contributions enabled Goose to run on Windows and Linux, not just MacOS.                                                            |
+|  20 | Community contributions enabled Goose to run on Windows and Linux, not just macOS.                                                            |
 |  21 | Open-source accelerates experimentation, idea testing, and ecosystem growth.                                                                  |
 |  22 | Goose demonstrates the value of openness, transparency, and choice in Agentic AI.                                                             |
 |  23 | Developers and consumers should demand acce                                                                                                   |

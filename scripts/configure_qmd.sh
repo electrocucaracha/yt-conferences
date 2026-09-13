@@ -60,7 +60,7 @@ main() {
     run_qmd init
 
     collection_list="$(qmd collection list 2>/dev/null || true)"
-    if grep -q "^${COLLECTION_NAME}[[:space:]]" <<< "${collection_list}"; then
+    if grep -q "^${COLLECTION_NAME}[[:space:]]" <<<"${collection_list}"; then
         run_qmd collection remove "${COLLECTION_NAME}"
     fi
     run_qmd collection add "${collection_path}" --name "${COLLECTION_NAME}"

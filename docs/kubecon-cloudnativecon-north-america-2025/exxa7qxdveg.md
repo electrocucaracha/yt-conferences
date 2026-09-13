@@ -52,7 +52,7 @@ The session also covers improved observability tools, such as the GKE IP masquer
 |  17 | New features: multipod CIDR (add pod IP ranges), multi-subnet clusters (add subnets for nodes/pods), multi-service CIDR (multiple service ranges), and auto IPAM (automatic IP allocation). |
 |  18 | GKE IP masquerading analyzer is integrated into Network Intelligence Center for diagnosing egress issues.                                                                                   |
 |  19 | Subnet utilization feature shows IPv4/IPv6 usage and warns about high utilization during VM creation.                                                                                       |
-|  20 | Documentation and blog posts are ava                                                                                                                                                        |
+|  20 | Documentation and blog posts are AVA                                                                                                                                                        |
 
 # Video
 

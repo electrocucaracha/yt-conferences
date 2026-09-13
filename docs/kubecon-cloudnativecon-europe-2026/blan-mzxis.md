@@ -54,7 +54,7 @@ The session concludes with a live demo, configuration examples, and encouragemen
 |  18 | Profiling (flame graphs) helps identify performance bottlenecks (e.g., CPU/memory usage).                                                                      |
 |  19 | OpenTelemetry is open source and vendor-neutral; collectors can be configured to export to different backends.                                                 |
 |  20 | Emphasized the importance of correlating signals for effective troubleshooting.                                                                                |
-|  21 | Provided a GitHub repo for the demo application and configurations.                                                                                            |
+|  21 | Provided a GitHub repository for the demo application and configurations.                                                                                      |
 |  22 | Encouraged audience to explore dashboards and automation features in Grafana.                                                                                  |
 |  23 | Q&A and further resources offered at the end.                                                                                                                  |
 

@@ -41,7 +41,7 @@ The session concludes by encouraging attendees to continue exploring the labs, c
 |   5 | GitHub account needed to sign up; community-driven, no purchase necessary                                                 |
 |   6 | Patience requested due to conference Wi-Fi limitations                                                                    |
 |   7 | Participants join, press start, and wait for the boot process                                                             |
-|   8 | Tools used: Tetragon (Mah), Cubecape (Matias), Inspector Gadget (Quasim), Pixie (Dom Delano)                              |
+|   8 | Tools used: Tetragon (Mah), Cubecape (Matias), Inspector Gadget (Quasim), Pixie (DOM Delano)                              |
 |   9 | Node agent (Cubecape) installed first; follow instructions exactly during explanations                                    |
 |  10 | Labs allow sharing ports and terminals for co-play and debugging                                                          |
 |  11 | Dev machine has tools like helm and k9s; cplane is a squeezed Kubernetes environment                                      |

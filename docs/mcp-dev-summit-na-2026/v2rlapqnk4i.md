@@ -38,7 +38,7 @@ The talk concludes by emphasizing that while prompt engineering was foundational
 |   2 | Prompt engineering was crucial in early AI models like GPT-3, requiring precise phrasing due to small context windows and unpredictability.  |
 |   3 | Modern AI models (post-December 2025, e.g., Opus) have shifted the focus from prompt engineering to collaborating and orchestrating agents.  |
 |   4 | Prompt engineering is being replaced by context engineering and intent engineering.                                                          |
-|   5 | Context engineering involves providing agents with structured information (e.g., markdown files, docs) rather than crafting perfect prompts. |
+|   5 | Context engineering involves providing agents with structured information (e.g., Markdown files, docs) rather than crafting perfect prompts. |
 |   6 | Overloading agents with too much context can lead to "context rot," causing confusion and hallucinations.                                    |
 |   7 | Solutions to context rot include managing context windows, using patterns like loops, beads for memory, and delegating to sub-agents.        |
 |   8 | Ambiguity remains a problem: agents may have enough information but still not understand user intent.                                        |
@@ -52,7 +52,7 @@ The talk concludes by emphasizing that while prompt engineering was foundational
 |  16 | Combining these features allows for better clarification, confirmation, and interpretation of intent.                                        |
 |  17 | Intent engineering is already possible and should be adopted now.                                                                            |
 |  18 | Intent is also important in code review, helping reviewers understand agent decisions and changes.                                           |
-|  19 | Automated scans (e.g., GitHub actions) can help detect prompt injection risks in contributed co                                              |
+|  19 | Automated scans (e.g., GitHub Actions) can help detect prompt injection risks in contributed co                                              |
 
 # Video
 

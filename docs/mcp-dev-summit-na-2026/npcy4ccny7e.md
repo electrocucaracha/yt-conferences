@@ -26,7 +26,7 @@ generated:
 
 Jake from the Jupyter open source governing board introduces Jupyter AI v3, which was launched the previous day and brings significant new features to the Jupyter ecosystem.
 The main highlight is the adoption of the Agent Client Protocol (ACP), enabling users to integrate and customize AI agent personas—such as Claude, Codeex, and Gemini—directly within Jupyter Lab through a new chat interface.
-These AI agents can write, debug, and edit notebook cells, access files, kernels, git, and terminals, and can be easily configured or extended by users to suit specific needs.
+These AI agents can write, debug, and edit notebook cells, access files, kernels, Git, and terminals, and can be easily configured or extended by users to suit specific needs.
 The demo showcases how agents like Claude can generate entire notebooks, install necessary packages, and interact with users, all while respecting permission settings.
 Jake emphasizes the flexibility and security of running Jupyter locally, the ease of integrating multiple agents, and the potential for community-built custom personas, making Jupyter Lab a powerful, AI-enabled IDE for individuals and organizations alike.
 
@@ -39,13 +39,13 @@ Jake emphasizes the flexibility and security of running Jupyter locally, the eas
 |   3 | Jupyter AI v3 introduces Agent Client Protocol (ACP), enabling AI agent personas inside Jupyter.                    |
 |   4 | Users can create custom AI personas or use existing ones like Claude, Codeex, Gemini.                               |
 |   5 | AI personas can write, debug, and edit notebook cells, reducing manual notebook creation.                           |
-|   6 | Agents have full tool access: files, kernels, git, terminal, all agent-controlled via ACP.                          |
+|   6 | Agents have full tool access: files, kernels, Git, terminal, all agent-controlled via ACP.                          |
 |   7 | Installing an agent’s Python package (e.g., Claude) enables its use in Jupyter with no extra setup.                 |
 |   8 | Jupyter Lab Chat is a new interface allowing interaction with multiple AI personas simultaneously.                  |
-|   9 | Users can define custom personas (e.g., data science assistant, markdown expert) and have them collaborate.         |
+|   9 | Users can define custom personas (e.g., data science assistant, Markdown expert) and have them collaborate.         |
 |  10 | Persona creation involves defining personality, available tools, and message handlers; easy to package and publish. |
-|  11 | ACP provides a registry of available tools (cells, terminal, kernel, git) for agents.                               |
-|  12 | ACP brings CLI tools and agents into the Jupyter environment for granular control.                                  |
+|  11 | ACP provides a registry of available tools (cells, terminal, kernel, Git) for agents.                               |
+|  12 | ACP brings command-line tools and agents into the Jupyter environment for granular control.                         |
 |  13 | Demo showed Claude agent generating a sample notebook, installing packages, and creating visualizations.            |
 |  14 | Agents request user permission before accessing tools.                                                              |
 |  15 | Jupyter AI v3 is installed via pip; features available out of the box.                                              |

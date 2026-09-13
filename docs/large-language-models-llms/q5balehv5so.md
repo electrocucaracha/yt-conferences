@@ -35,7 +35,7 @@ Finally, the lecture explores efficiency techniques for inference, such as KV ca
 
 |   # | Main point                                                                                                                                                                           |
 | --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   1 | Announcements: Slides are available on the website before class; will be posted every Thursday evening.                                                                              |
+|   1 | Announcements: Slides are available on the site before class; will be posted every Thursday evening.                                                                                 |
 |   2 | Recap: Previous lectures covered self-attention, transformers, and three main model categories: encoder-decoder (e.g., T5), encoder-only (e.g., BERT), and decoder-only (e.g., GPT). |
 |   3 | LLMs (Large Language Models):                                                                                                                                                        |
 |   4 | Assign probability to sequences of tokens (next token prediction).                                                                                                                   |

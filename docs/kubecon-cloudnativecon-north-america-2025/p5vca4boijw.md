@@ -33,7 +33,7 @@ Timberink also highlights ongoing challenges with storage solutions at the edge 
 |   # | Main point                                                                                                                                                        |
 | --: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Dylan Timberink, Distinguished Engineer at The Home Depot, shares lessons from building the edge platform powering Home Depot stores.                             |
-|   2 | Home Depot is the world’s largest home improvement retailer with over 2,300 locations in North America and a major retail website.                                |
+|   2 | Home Depot is the world’s largest home improvement retailer with over 2,300 locations in North America and a major retail site.                                   |
 |   3 | The legacy edge platform was store-centric, built for unreliable connectivity and batch data synchronization.                                                     |
 |   4 | Retail transformation around 2015-2016 shifted focus from store-centric to customer-centric, driven by omnichannel expectations and agile development needs.      |
 |   5 | Hardware and software refresh cycles aligned around 2019, creating an opportunity for a new platform.                                                             |

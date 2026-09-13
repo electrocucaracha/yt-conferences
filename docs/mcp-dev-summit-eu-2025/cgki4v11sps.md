@@ -22,7 +22,7 @@ generated:
 
 # Summary
 
-Matt from Ref introduces Ref, a startup offering an MTP server designed as a documentation search tool for coding agents, which indexes both public and private docs to provide agents with only the relevant snippets needed, optimizing token usage and minimizing context window bloat.
+Matt from Ref introduces Ref, a startup offering an MTP server designed as a documentation search tool for coding agents, which indices both public and private docs to provide agents with only the relevant snippets needed, optimizing token usage and minimizing context window bloat.
 He explains that, unlike traditional search systems evaluated by precision and recall, Ref focuses on recall and token usage to better suit the iterative search behavior of agents, who accumulate context over multiple searches.
 Matt describes how Ref leverages MCP sessions to maintain state across searches, enabling features like prefetching, avoiding duplicate links, and chunking large documents to prevent context overload.
 He shares that these improvements result in significant token savings—up to 95% compared to other servers—while also discussing challenges with client fragmentation and session management due to differences in how clients handle session IDs.
@@ -33,7 +33,7 @@ Matt concludes by encouraging attendees to connect with him, help promote Ref on
 |   # | Main point                                                                                                                                                       |
 | --: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Ref is a startup offering an MCP server for documentation search, targeting coding agents.                                                                       |
-|   2 | Ref indexes both public and private documentation, enabling agents to access relevant snippets without overloading the context window.                           |
+|   2 | Ref indices both public and private documentation, enabling agents to access relevant snippets without overloading the context window.                           |
 |   3 | The talk aims to explain how Ref achieves precise, token-efficient documentation search using MCP sessions.                                                      |
 |   4 | Search evaluation at Ref uses recall and token usage as primary metrics, rather than just precision and recall.                                                  |
 |   5 | Human and agent search behaviors are similar in their iterative approach but differ in context management: humans use visual fields, agents use context windows. |

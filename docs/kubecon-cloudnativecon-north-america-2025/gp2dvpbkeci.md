@@ -24,7 +24,7 @@ generated:
 # Summary
 
 Jeremy from Microsoft introduces Copaetic, a CNCF sandbox project designed to patch container images and address vulnerabilities, particularly CVEs, without requiring a full rebuild.
-Copa is a Go-based CLI tool that leverages BuildKit, the default builder for Docker, to analyze vulnerability scan reports—by default using Trivy—and generate patch layers that update only the affected components in a container image.
+Copa is a Go-based command-line tool that leverages BuildKit, the default builder for Docker, to analyze vulnerability scan reports—by default using Trivy—and generate patch layers that update only the affected components in a container image.
 The tool supports multiple platforms, all OCI media types, and can now patch not just OS-level vulnerabilities but also issues in application dependencies like Python and Node.js.
 Recent enhancements include multi-platform support, bulk image patching, and integration with various workflows such as GitHub Actions and Docker extensions.
 Jeremy encourages interested users to join the community, explore the GitHub repository, and participate in weekly meetings.
@@ -34,7 +34,7 @@ Jeremy encourages interested users to join the community, explore the GitHub rep
 |   # | Main point                                                                                                                |
 | --: | ------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Copaetic is a CNCF sandbox project aimed at directly patching container images to address vulnerabilities.                |
-|   2 | It is a CLI tool written in Go, based on BuildKit (the default builder for Docker).                                       |
+|   2 | It is a command-line tool written in Go, based on BuildKit (the default builder for Docker).                              |
 |   3 | Copa uses container vulnerability scan reports, by default from Trivy, to identify OS vulnerabilities in images.          |
 |   4 | The scan component is pluggable and can be replaced with other tools.                                                     |
 |   5 | Copa analyzes the scan report, determines what needs updating, and generates a patch layer (diff) to append to the image. |

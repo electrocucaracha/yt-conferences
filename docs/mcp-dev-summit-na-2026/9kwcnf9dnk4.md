@@ -18,7 +18,7 @@ generated:
 
 # Summary
 
-Notes for https www youtube com watch v=9kwCNf9DNk4 34226c1a7255817b8f5fd31b02ead060.
+Notes for https www YouTube com watch v=9kwCNf9DNk4 34226c1a7255817b8f5fd31b02ead060.
 
 # Main Points
 

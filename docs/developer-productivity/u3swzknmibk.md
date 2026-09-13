@@ -18,7 +18,7 @@ generated:
 
 # Summary
 
-Here is a summary of the video transcript in 3-5 sentences: The speaker discusses how software entropy, or disorder, increases over time due to various factors such as dependency forest, progressive test anemia, lopsided test strategy, and over-engineering.
+Here is a summary of the video transcript in 3-5 sentences: The speaker discusses how software entropy, or disorder, increases over time due to various factors such as dependency forest, progressive test anemia, lopsided test strategy, and overengineering.
 They explain that software engineers can take steps to mitigate these issues by creating a bill of materials, enforcing dependencies through fitness functions, adopting a satisficing approach to decision-making, and foreseeing potential problems such as government shutdowns or inconsistent programming languages.
 By addressing these factors, developers can reduce the entropy in their systems and improve the overall quality and maintainability of their software.
 

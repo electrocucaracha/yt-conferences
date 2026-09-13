@@ -43,7 +43,7 @@ Success is measured variably, often by follower growth and project-specific outc
 |   7 | Most team members are volunteers, often students, leading to inconsistent engagement.                                                                          |
 |   8 | The group was renamed in 2023 to Kubernetes SIG Contributor Experience Contributor Communications Team, commonly called "contributor comms."                   |
 |   9 | Kubernetes has a large, global contributor base: 96,700 contributors, 4.6 million contributions, 8,000 reviewers (as of July).                                 |
-|  10 | Skills needed include social media, SEO, blogging, and basic website management (Hugo, Doxy).                                                                  |
+|  10 | Skills needed include social media, SEO, blogging, and basic site management (Hugo, Doxy).                                                                     |
 |  11 | The team automates social media posting using RSS feeds, Zapier, and Buffer to maintain regular activity.                                                      |
 |  12 | A major lesson was learned during the Docker shim deprecation: different audiences interpret messages differently; clear, targeted communication is essential. |
 |  13 | The audience includes contributors, end users, and the broader community, each needing different information.                                                  |

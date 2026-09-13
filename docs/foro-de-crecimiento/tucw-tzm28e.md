@@ -49,7 +49,7 @@ Finalmente, invita a los oyentes a definir y escribir cómo quieren vivir, resal
 |  16 | La cultura ganadora en empresas se basa en la meritocracia y en atraer a los mejores talentos.                               |
 |  17 | Alejarse del 97% de las personas y creencias que no contribuyen a tu crecimiento.                                            |
 |  18 | La madurez es estar dispuesto a pagar el precio de tus decisiones.                                                           |
-|  19 | Para posicionamiento estratégico, usa el “one liner”: problema del cliente, cómo lo resuelves, y transformación.             |
+|  19 | Para posicionamiento estratégico, usa el “one-liner”: problema del cliente, cómo lo resuelves, y transformación.             |
 |  20 | En comunicación personal, conecta preguntando sobre las pasiones de la otra persona.                                         |
 |  21 | En manejo de crisis, la percepción es la realidad y la prevención es clave.                                                  |
 |  22 | Recomendaciones de libros: Letem, Cómo ganar amigos e influir sobre las personas, How to Get Rich.                           |
@@ -65,7 +65,7 @@ Finalmente, invita a los oyentes a definir y escribir cómo quieren vivir, resal
 |  32 | Invertir en marca personal: tanto como puedas permitirte.                                                                    |
 |  33 | Alejarse del 97% de las personas y creencias que no contribuyen a tu crecimiento.                                            |
 |  34 | La madurez es estar dispuesto a pagar el precio de tus decisiones.                                                           |
-|  35 | Para posicionamiento estratégico, usa el “one liner”: problema del cliente, cómo lo resuelves, y transformación.             |
+|  35 | Para posicionamiento estratégico, usa el “one-liner”: problema del cliente, cómo lo resuelves, y transformación.             |
 |  36 | En comunicación personal, conecta preguntando sobre las pasiones de la otra persona.                                         |
 |  37 | En manejo de crisis, la percepción es la realidad y la prevención es clave.                                                  |
 |  38 | El éxito es vivir la vida en tus Ratings (1-5): 4                                                                            |

@@ -43,7 +43,7 @@ Currently in early deployment, the agent operates in a dry-run mode, with plans 
 |   9 | Agent workflow: user query triggers agent, orchestration layer communicates with LLM, tools fetch data/perform actions, results returned to user                              |
 |  10 | Intuit uses GenoS platform to design, build, and deploy generative AI applications, providing access to models, agents, tools, tracing, memory, and evaluation                |
 |  11 | Agent inputs: chat, Slack bot, or alert trigger; typically includes transaction ID or unique identifier                                                                       |
-|  12 | Agent gathers context: logs, metrics, change logs, user info                                                                                                                  |
+|  12 | Agent gathers context: logs, metrics, changelogs, user info                                                                                                                   |
 |  13 | Retrieval Augmented Generation (RAG) layer adds company-specific context from internal/public docs, indexed in a vector database                                              |
 |  14 | LLM summarizes input/context, selects tools (functions with natural language descriptions), executes tools, and iterates as needed                                            |
 |  15 | Tool selection relies on clear, natural language descriptions matching documentation                                                                                          |

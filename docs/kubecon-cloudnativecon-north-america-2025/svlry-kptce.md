@@ -48,8 +48,8 @@ During the Q&A, they addressed extending the approach to broader documentation, 
 |  12 | The demo shows successful analysis and compliance reporting using the setup.                                                                                                                                                                         |
 |  13 | Security concerns: for sensitive environments, use local LLMs instead of cloud; KGPT supports this.                                                                                                                                                  |
 |  14 | Guardrails are a first line of defense, but organizations should follow their own AI security best practices.                                                                                                                                        |
-|  15 | The open-source repo and demo code are available for attendees to try.                                                                                                                                                                               |
-|  16 | Q&A covers: combining MCP, KGPT, and RAG for self-service portals; differences between RAG and direct markdown reference; LLM performance/latency; human-in-the-loop for remediation; and rationale for using embeddings over large context windows. |
+|  15 | The open-source repository and demo code are available for attendees to try.                                                                                                                                                                         |
+|  16 | Q&A covers: combining MCP, KGPT, and RAG for self-service portals; differences between RAG and direct Markdown reference; LLM performance/latency; human-in-the-loop for remediation; and rationale for using embeddings over large context windows. |
 
 # Video
 

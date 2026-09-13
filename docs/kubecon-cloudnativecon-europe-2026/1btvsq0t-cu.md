@@ -50,7 +50,7 @@ The session concluded with an invitation to the community to participate in the 
 |  17 | Gateway API integration to replace deprecated NGINX Ingress Controller, supporting TLS passthrough and termination.                  |
 |  18 | Proposals for new features are open for community feedback.                                                                          |
 |  19 | StreamZy virtual conference is upcoming in June; call for proposals is open for one more week.                                       |
-|  20 | Community engagement encouraged via website, GitHub, social media, YouTube, and community calls.                                     |
+|  20 | Community engagement encouraged via site, GitHub, social media, YouTube, and community calls.                                        |
 
 # Video
 

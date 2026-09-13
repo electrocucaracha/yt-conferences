@@ -28,7 +28,7 @@ The speaker discusses prioritizing technical depth in large-scale software syste
 The first law states that as a system evolves, it must continuously adapt or become less useful over time.
 The second law asserts that complexity will increase unless actively reduced.
 To address this challenge, the speaker proposes quantifying technical debt and using version control data to prioritize code refactoring.
-They demonstrate this approach on an Android code base, analyzing hotspots and identifying areas of high complexity and technical debt.
+They demonstrate this approach on an Android codebase, analyzing hotspots and identifying areas of high complexity and technical debt.
 By applying behavioral code analysis techniques, developers can identify refactoring candidates, reduce technical debt, and improve business impact.
 
 # Main Points

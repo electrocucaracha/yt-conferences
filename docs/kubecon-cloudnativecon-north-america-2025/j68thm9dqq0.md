@@ -41,7 +41,7 @@ They address questions about deployment strategies, security, configuration mana
 |   7 | Protocol supports varied agent versions and configurations across large fleets.                                                                |
 |   8 | Security: Multiple authentication layers, including certificate signing and header-based auth; must consider fleet size and certificate costs. |
 |   9 | OpAMP uses WebSocket (preferred for full-duplex, persistent connections) or HTTP; plan for failover and scaling.                               |
-|  10 | Reference implementation is in Golang; Nike built a Java-based version with persistent storage and UI for fleet visualization.                 |
+|  10 | Reference implementation is in Go; Nike built a Java-based version with persistent storage and UI for fleet visualization.                     |
 |  11 | Rollout strategy: phased approach—foundation, initial scale, then full rollout.                                                                |
 |  12 | Supervisor process deployed alongside collectors enables remote management without user intervention.                                          |
 |  13 | Migration requires teams to adopt new collector versions/distributions, with opt-in build steps to avoid breaking changes.                     |

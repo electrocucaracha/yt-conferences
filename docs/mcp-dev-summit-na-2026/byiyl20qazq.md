@@ -36,7 +36,7 @@ Cowie also addresses the balance between guiding users through structured learni
 |   2 | Non-technical friends and family are now using AI to automate tasks and learn new skills.                                                                                         |
 |   3 | Speaker leads the team behind Graph Academy, Neo4j’s online training platform for developers and data scientists.                                                                 |
 |   4 | Graph Academy teaches generative AI and knowledge graphs, requiring the team to stay current and adapt learning experiences.                                                      |
-|   5 | Initial chatbot on Graph Academy (2023) used RAG-based approach with vector indexes; provided technically accurate but often unhelpful responses.                                 |
+|   5 | Initial chatbot on Graph Academy (2023) used RAG-based approach with vector indices; provided technically accurate but often unhelpful responses.                                 |
 |   6 | Chatbot’s first version was quietly disabled due to ineffectiveness.                                                                                                              |
 |   7 | In 2025, agentic workflows enabled a new assistant that could access tools, perform actions, and provide tailored, actionable help.                                               |
 |   8 | New assistant could check database status, provision instances, and give user-specific instructions, improving problem-solving.                                                   |

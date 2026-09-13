@@ -37,7 +37,7 @@ Future plans include enhancing the developer experience and adding dedicated sup
 |   2 | Major feature: Helm v4 support integrated, thanks to collaboration with the Helm team.                                                                                                             |
 |   3 | Flux uses the Helm Go SDK natively, not just as a templating tool.                                                                                                                                 |
 |   4 | Focus on performance and security: supports upgrading hundreds of Helm releases in parallel, with sealed charts inside the controller.                                                             |
-|   5 | Kubernetes serverside apply now available in Helm controller, providing uniform resource management and improved scaling.                                                                          |
+|   5 | Kubernetes server-side apply now available in Helm controller, providing uniform resource management and improved scaling.                                                                         |
 |   6 | Helm controller now supports health checks for custom resources inside charts using CEL expressions.                                                                                               |
 |   7 | New feature to reduce mean time to recovery: controller can cancel ongoing health checks and start upgrades immediately on new revisions (behind a feature gate, planned default in Q1 next year). |
 |   8 | Helm release inventory is now reflected in the custom resource status, simplifying UI integration and debugging.                                                                                   |

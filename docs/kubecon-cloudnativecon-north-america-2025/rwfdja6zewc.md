@@ -25,7 +25,7 @@ generated:
 
 The video presents an overview and update on the Gateway API, a next-generation Kubernetes routing and load balancing API that has become the effective successor to Ingress since its inception in 2019.
 The speakers, representing Google, Red Hat, and Microsoft, discuss recent developments, including the release of version 1.4, which graduated backend TLS policy and supported features from experimental to standard, and introduced new experimental features such as mesh resource, default gateways, HTTP external authorization, and enhanced TLS configuration.
-They emphasize the API’s role-based design, extensibility, and the importance of selecting an appropriate implementation, as there is no default provided.
+They emphasize the APIs role-based design, extensibility, and the importance of selecting an appropriate implementation, as there is no default provided.
 The session also highlights ongoing and future work, such as documentation improvements, enhanced CRD provider guidance, expanded support for retries and timeouts, and monthly experimental releases.
 Additionally, the talk covers related subprojects like the inference extension and agentic networking, both aimed at supporting AI and agent workloads in Kubernetes, and invites community feedback and participation to guide further development and address user needs, including multicluster and egress scenarios.
 

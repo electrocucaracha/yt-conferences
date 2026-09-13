@@ -47,7 +47,7 @@ The session concludes by encouraging further discussion on advancing cloud-nativ
 |  12 | Threat actor mapping uses STRIDE and MITRE ATT&CK frameworks.                                                                                                                         |
 |  13 | Common threat patterns: spoofing at gateways, privilege escalation at service-to-service plane, credential threats at management plane, data disclosure/tampering at data plane.      |
 |  14 | DREAD factors used to score and prioritize risks.                                                                                                                                     |
-|  15 | Example: GitOps repo compromise scored as high risk, with proposed mitigations.                                                                                                       |
+|  15 | Example: GitOps repository compromise scored as high risk, with proposed mitigations.                                                                                                 |
 |  16 | Automation: threat modeling as code enables detection of architectural drift, automated scans, and integration with ticketing systems.                                                |
 |  17 | Some manual judgment is always required in threat modeling.                                                                                                                           |
 |  18 | AI-assisted threat modeling demo using STRIDE GPT: generic prompts yield broad risks, block-focused prompts yield more actionable, specific                                           |

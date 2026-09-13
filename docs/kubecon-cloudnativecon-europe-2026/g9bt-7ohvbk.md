@@ -27,7 +27,7 @@ In this presentation, Shahara Zilai and Vicki Kalmanovich discuss the challenges
 They share personal experiences illustrating how inadequate observability can hinder troubleshooting and lead to operational setbacks, highlighting the necessity of robust observability as a prerequisite for managing modern cloud-native systems.
 The speakers outline the limitations of both self-hosted and managed SaaS observability solutions—self-hosted stacks demand significant maintenance and can become unstable, while SaaS offerings often lead to high costs, data sovereignty concerns, and forced data reduction.
 As an alternative, they introduce the "bring your own cloud" (BYOC) approach, where observability backends are deployed within the customer’s own cloud environment, combining the control and cost benefits of self-hosting with the ease of managed services.
-This model leverages open-source databases like Clickhouse and VictoriaMetrics for scalable, efficient data storage, supports advanced use cases including AI-driven analysis, and aims to eliminate trade-offs between data access, cost, and operational simplicity in Kubernetes observability.
+This model leverages open-source databases like ClickHouse and VictoriaMetrics for scalable, efficient data storage, supports advanced use cases including AI-driven analysis, and aims to eliminate trade-offs between data access, cost, and operational simplicity in Kubernetes observability.
 
 # Main Points
 

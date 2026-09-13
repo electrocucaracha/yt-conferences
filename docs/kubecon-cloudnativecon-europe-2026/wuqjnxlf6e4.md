@@ -26,7 +26,7 @@ generated:
 
 Adam Rosman presents an update on the Metal Cubed project, which aims to manage bare metal machines from Kubernetes, enabling users to create and manage small clouds from physical servers.
 Since its inception in 2019 and joining the CNCF sandbox in 2020, the project achieved incubation status in August 2025.
-The community has remained active, with consistent development, 36,000 GitHub actions, 59 releases, increased contributors, and new adopters like Mirantis.
+The community has remained active, with consistent development, 36,000 GitHub Actions, 59 releases, increased contributors, and new adopters like Mirantis.
 Current development focuses include multi-tenancy for physical servers, enhanced provisioning security, support for OCI images, improved customization and multi-architecture support, expanded IPv6 testing, and upcoming physical switch management.
 The project continues to grow, maintaining regular community meetings and engagement.
 
@@ -40,7 +40,7 @@ The project continues to grow, maintaining regular community meetings and engage
 |   4 | Joined the CNCF sandbox in 2020.                                                                                                             |
 |   5 | Achieved CNCF incubation status on August 27, 2025.                                                                                          |
 |   6 | No drop in development activity after incubation; development pace maintained.                                                               |
-|   7 | Recorded 36,000 individual GitHub actions since incubation.                                                                                  |
+|   7 | Recorded 36,000 individual GitHub Actions since incubation.                                                                                  |
 |   8 | Released 59 releases across five components.                                                                                                 |
 |   9 | Gained a new adopter: Mirantis.                                                                                                              |
 |  10 | Increased number of maintainers and unique human contributors.                                                                               |

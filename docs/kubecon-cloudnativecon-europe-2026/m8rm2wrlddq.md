@@ -51,7 +51,7 @@ Community involvement is encouraged through meetings, GitHub issue tracking, and
 |  16 | CNCF Supply Chain Security Insights project to gather metrics on supply chain security across CNCF projects.           |
 |  17 | Guidance and white paper on identity and access management in cloud native environments.                               |
 |  18 | Recipe cards for supply chain security advice.                                                                         |
-|  19 | Issue tracker available in the TOC GitHub repo, filterable by TAG Security and Compliance.                             |
+|  19 | Issue tracker available in the TOC GitHub repository, filterable by TAG Security and Compliance.                       |
 |  20 | Community-based, volunteer-run organization; encourages participation and involvement.                                 |
 |  21 | Meetings held in two different time zones; information available online.                                               |
 |  22 | Presence on CNCF Slack under TAG Security and Compliance and individual project channels.                              |

@@ -47,7 +47,7 @@ The talk concludes with practical advice on disaster recovery drills, adjusting 
 |  12 | Kubelet evictions:                                                                                                                        |
 |  13 | Node pressure evictions: evicts pods under resource pressure (memory, disk, etc.), ignores PDBs.                                          |
 |  14 | Kubelet admission: refuses to run pods if resources or affinity rules aren't met; can terminate pods if node labels change.               |
-|  15 | Local storage evictions: pods evicted if ephemeral storage limits are exceeded.                                                           |
+|  15 | LocalStorage evictions: pods evicted if ephemeral storage limits are exceeded.                                                            |
 |  16 | Scheduler evictions:                                                                                                                      |
 |  17 | Pod preemption: evicts lower-priority pods to schedule higher-priority ones; PDBs honored best-effort.                                    |
 |  18 | Controller manager evictions:                                                                                                             |

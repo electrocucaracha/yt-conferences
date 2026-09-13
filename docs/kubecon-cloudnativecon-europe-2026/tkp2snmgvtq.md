@@ -42,10 +42,10 @@ The talk concludes with a discussion of ongoing and future work, including broad
 |   7 | Profiling format optimized for efficiency: uses dictionaries to avoid repeated strings, reducing payload size by up to 40%.          |
 |   8 | Supports correlation with other OpenTelemetry signals (metrics, logs, traces) via links containing span and trace IDs.               |
 |   9 | eBPF-based profiler enables frictionless, system-wide profiling on Linux without code changes or restarts.                           |
-|  10 | Custom stack unwinding supports interpreted languages (Java, NodeJS, Python, PHP, Perl, etc.).                                       |
+|  10 | Custom stack unwinding supports interpreted languages (Java, Node.js, Python, PHP, Perl, etc.).                                      |
 |  11 | eBPF profiler typically incurs ~1% CPU overhead.                                                                                     |
 |  12 | Profiling receiver can be deployed as a DaemonSet; collector configuration is separate due to elevated privileges.                   |
-|  13 | Demo showed profiling of Python and NodeJS programs, including mixed-language stack traces.                                          |
+|  13 | Demo showed profiling of Python and Node.js programs, including mixed-language stack traces.                                         |
 |  14 | Real-world example: profiling identified an infinite loop bug introduced by an AI refactor in a production e-commerce app.           |
 |  15 | Next steps: move to beta/stable, add units to resource attributes, extend OTLP for symbolication (debug symbols for native code).    |
 |  16 | Instrumentation work is ongoing: receivers exist for Go (net/http/prof, Go Flight Recorder), Java (async-profiler, SDK in progress). |

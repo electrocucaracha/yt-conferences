@@ -43,7 +43,7 @@ The talk concludes with an invitation to explore OTO AI's open-source projects, 
 |   8 | MCP specification is rapidly changing; some discussed issues may already be outdated.                                                                   |
 |   9 | Authorization flow involves multiple authentications: first with OTO, then with the third-party (e.g., Outlook).                                        |
 |  10 | Issues encountered:                                                                                                                                     |
-|  11 | Handling requests with expired tokens is inconsistent across clients (e.g., VS Code requires deleting credentials).                                     |
+|  11 | Handling requests with expired tokens is inconsistent across clients (e.g., Visual Studio Code requires deleting credentials).                          |
 |  12 | Non-initialization requests (e.g., tool calls) with expired tokens are handled differently by clients; Nanobot repeats the flow for user convenience.   |
 |  13 | Changing scopes on tokens is problematic; current spec lacks clear guidance.                                                                            |
 |  14 | Scopes:                                                                                                                                                 |

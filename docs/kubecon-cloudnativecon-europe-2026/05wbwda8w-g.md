@@ -54,7 +54,7 @@ In retrospect, the team is satisfied with the move to Rust, noting improved deve
 |  18 | Netavark’s codebase initially had suboptimal Rust due to team inexperience; ongoing refactoring is improving it.                                      |
 |  19 | Slirp4netns is being replaced by pasta for rootless networking; migration will occur in Podman 6.                                                     |
 |  20 | Rust’s package management was easier for Podman due to lessons learned from Go’s complex vendoring.                                                   |
-|  21 | Podman team is satisfied with Rust; developer ava                                                                                                     |
+|  21 | Podman team is satisfied with Rust; developer AVA                                                                                                     |
 
 # Video
 

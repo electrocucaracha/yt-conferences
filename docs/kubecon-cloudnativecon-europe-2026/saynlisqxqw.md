@@ -42,7 +42,7 @@ Artam demonstrates the workflow, highlights integration with Kubernetes-native t
 |   7 | Benefits: errors localized to individual actors, system scales efficiently, actors scale based on queue workload (using K autoscaler).                 |
 |   8 | Architecture:                                                                                                                                          |
 |   9 | CRD defines async actor.                                                                                                                               |
-|  10 | Python container (runtime) runs user handler, communicates with Golang sidecar over HTTP/Unix socket.                                                  |
+|  10 | Python container (runtime) runs user handler, communicates with Go sidecar over HTTP/Unix socket.                                                      |
 |  11 | Optional state proxy sidecar for external memory abstraction.                                                                                          |
 |  12 | Gateway translates HTTP requests to messages, tracks status, supports A2A and MCP protocols.                                                           |
 |  13 | Code separation: data scientists write pure Python functions; platform engineers manage CRDs.                                                          |

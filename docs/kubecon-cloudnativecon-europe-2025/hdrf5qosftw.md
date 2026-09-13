@@ -26,7 +26,7 @@ generated:
 
 The Open Telemetry project, a vendor-neutral open-source standard for collecting, generating, and correlating telemetry data, was born in 2019 after merging Google's Open Census and CNCF's Open Tracing.
 The otel community is modeled after the Kubernetes community, with a supportive and egalitarian atmosphere, backed by major observability vendors.
-The otel end-user Sig story aims to provide resources and guidance for users, including an introduction to the project, its components, and implementation strategies.
+The otel end user Sig story aims to provide resources and guidance for users, including an introduction to the project, its components, and implementation strategies.
 Strategies for building a strong community include being responsive and transparent, hosting events on a consistent basis, and defining clear priorities.
 
 # Main Points

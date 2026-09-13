@@ -48,7 +48,7 @@ The Q&A session covered topics like compliance, group promotion strategies, upgr
 |  13 | Resource protection feature in Argo CD 3.0.0 requires human approval before deleting critical resources like namespaces.                                            |
 |  14 | ApplicationSet applies overrides in parallel across clusters; no promotion pools or ceremonies are used.                                                            |
 |  15 | Performance is not an issue for small clusters; improvements like limiting Git remote calls and using repo-server caching were made for scale.                      |
-|  16 | For airgapped environments, each cluster uses a local Git repo; multiple upstream repos must be                                                                     |
+|  16 | For airgapped environments, each cluster uses a local Git repository; multiple upstream repos must be                                                               |
 
 # Video
 

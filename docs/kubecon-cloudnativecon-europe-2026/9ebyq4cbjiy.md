@@ -26,7 +26,7 @@ generated:
 The OpenFeature maintainers provided an update on the project's progress, beginning with introductions and an overview for newcomers.
 OpenFeature is an incubating CNCF project that offers a vendor-agnostic, open specification for feature flagging, allowing developers to toggle features at runtime without modifying source code.
 The team highlighted recent advancements, including the move of most SDKs to version 1.0, growing community adoption, and contributions from major companies.
-Key technical updates included the OpenFeature Remote Evaluation Protocol (OFREP) to further reduce vendor lock-in, the MCP tool for enhanced agent communication and automation, and new GitHub Actions and CLI tools to streamline flag management and consistency.
+Key technical updates included the OpenFeature Remote Evaluation Protocol (OFREP) to further reduce vendor lock-in, the MCP tool for enhanced agent communication and automation, and new GitHub Actions and command-line tools to streamline flag management and consistency.
 The maintainers also discussed community-driven design decisions, such as supporting isolated API instances for advanced use cases, and ongoing efforts to separate API from implementation packages.
 They encouraged participation, highlighted educational resources, and addressed audience questions on performance optimization and future MCP capabilities, emphasizing the project's growth and openness to new contributors.
 
@@ -47,7 +47,7 @@ They encouraged participation, highlighted educational resources, and addressed 
 |  11 | MCP (Management Control Plane) is in active development, providing enhanced agent intelligence and best practices, leveraging Offrep for flag queries.                                                 |
 |  12 | OpenFeature GitHub Action and CLI enable flag-driven development, flag change tracking, and consistency across environments/providers.                                                                 |
 |  13 | CLI commands: pull (fetch remote config), compare (diff manifests), generate (create typed variables).                                                                                                 |
-|  14 | Singleton API pattern is used for simplicity, but advanced use cases (micro-frontends, dependency injection, parallel testing) prompted work on isolated API instances.                                |
+|  14 | Singleton API pattern is used for simplicity, but advanced use cases (micro frontends, dependency injection, parallel testing) prompted work on isolated API instances.                                |
 |  15 | Proposal to separate API from implementation packages for stability and easier library integration is under discussion.                                                                                |
 |  16 | Free feature flagging course available on LFX Education platform; 500+ enrollments.                                                                                                                    |
 |  17 | Community is growing, with over 120 cont                                                                                                                                                               |

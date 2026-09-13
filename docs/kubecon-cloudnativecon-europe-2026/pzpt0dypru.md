@@ -54,7 +54,7 @@ To stay updated, the speakers recommend subscribing to resources like "Last Week
 |  18 | SIGs maintain "good first issue" labels in GitHub for new contributors; all contributions, including documentation and graphics, are welcome. |
 |  19 | The release team shadow program offers a way to get involved.                                                                                 |
 |  20 | All resources and slides are available in a shared repository.                                                                                |
-|  21 | Kubernetes governance information is spread across multiple repositories and markdown files.                                                  |
+|  21 | Kubernetes governance information is spread across multiple repositories and Markdown files.                                                  |
 |  22 | Community is open and supportive; all skill levels are encouraged to participate.                                                             |
 
 # Video

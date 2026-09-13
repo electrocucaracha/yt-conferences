@@ -25,7 +25,7 @@ generated:
 Pedro, a software engineer at Single Store (formerly MemSQL), discusses how the company uses its MCP server to improve user onboarding for both new and existing users.
 He explains that traditional onboarding methods—such as documentation, webinars, and tutorials—are scalable but can overwhelm users as documentation grows and may not address specific issues promptly.
 Additionally, proprietary products like Single Store face challenges with large language models (LLMs) lacking sufficient context, making onboarding harder compared to open-source alternatives.
-To address these issues, Single Store developed the MCP server, which provides resources like markdown guides and prompt templates to help users and LLMs interact more effectively with the platform.
+To address these issues, Single Store developed the MCP server, which provides resources like Markdown guides and prompt templates to help users and LLMs interact more effectively with the platform.
 Pedro demonstrates how integrating these resources streamlines setting up applications with tools like Drizzle and Single Store, and shares lessons learned, including the importance of defining concrete user flows, adapting documentation for LLMs, and hosting the MCP server remotely for better analytics and control.
 Future plans include making documentation more LLM-friendly, expanding resource coverage, and enhancing direct database access and management through the MCP server.
 
@@ -47,8 +47,8 @@ Future plans include making documentation more LLM-friendly, expanding resource 
 |  12 | MCP server features passwordless login and supports authentication via Single Store accounts or OAuth providers.                                                         |
 |  13 | Tools and resources in MCP are grouped; resources include static documents, database records, and prompt templates for LLMs.                                             |
 |  14 | Demo showed integrating Drizzle (TypeScript ORM) with Single Store using MCP resources for guided onboarding.                                                            |
-|  15 | MCP resources (e.g., markdown files) provide LLMs with context-specific guidance for Single Store integrations.                                                          |
-|  16 | Lessons learned: define concrete use cases for onboarding, adapt documentation for LLMs (convert HTML to markdown), and run MCP server remotely for better analytics and |
+|  15 | MCP resources (e.g., Markdown files) provide LLMs with context-specific guidance for Single Store integrations.                                                          |
+|  16 | Lessons learned: define concrete use cases for onboarding, adapt documentation for LLMs (convert HTML to Markdown), and run MCP server remotely for better analytics and |
 
 # Video
 

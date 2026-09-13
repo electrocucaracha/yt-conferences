@@ -50,7 +50,7 @@ The session concludes with an invitation to join the SIG’s Slack channel and c
 |  13 | Asynchronous API calls during scheduling now enabled by default in 1.35 to avoid blocking scheduling cycle.                                                                           |
 |  14 | NominatedNodeName enhancement: exposes intended pod placement before binding, aiding external components like Cluster Autoscaler.                                                     |
 |  15 | Extended toleration operators (alpha): supports numeric comparisons for scheduling decisions.                                                                                         |
-|  16 | Scheduling framework types/interfaces moved to staging repo in 1.34 for easier custom plugin development.                                                                             |
+|  16 | Scheduling framework types/interfaces moved to staging repository in 1.34 for easier custom plugin development.                                                                       |
 |  17 | Queuing hint is GA in 1.3                                                                                                                                                             |
 
 # Video

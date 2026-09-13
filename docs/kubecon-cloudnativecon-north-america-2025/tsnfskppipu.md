@@ -27,7 +27,7 @@ In this talk, Julia and Pedro discuss the challenges and solutions involved in b
 They highlight issues such as fragmented telemetry formats, lack of shared context, tool sprawl, and the absence of a common observability language, which hinder effective troubleshooting and collaboration between infrastructure and platform teams.
 Their solution centers on adopting OpenTelemetry and its semantic conventions to unify data collection and normalization across both legacy and cloud environments, enabling consistent, vendor-neutral telemetry pipelines.
 Pedro details their open-source framework, which integrates data from SNMP, syslogs, Redfish APIs, and cloud-native sources using OpenTelemetry collectors, Kafka for buffering, and backends like Prometheus and OpenSearch, with additional strategies for long-term log retention and cost management.
-The key benefits include improved data ownership, flexibility in backend choice, cost reduction, and the ability to correlate metrics across all infrastructure layers, ultimately enhancing end-user experience and organizational observability maturity.
+The key benefits include improved data ownership, flexibility in backend choice, cost reduction, and the ability to correlate metrics across all infrastructure layers, ultimately enhancing end user experience and organizational observability maturity.
 
 # Main Points
 

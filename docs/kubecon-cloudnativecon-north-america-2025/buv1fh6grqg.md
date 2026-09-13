@@ -36,7 +36,7 @@ By separating data from programmatic logic, Config Hub enables more efficient an
 |   2 | He was part of the team that created Kubernetes and worked at Google for 17 years.                                                   |
 |   3 | The current configuration sprawl problem can be solved by using a fully rendered, explicit configuration model.                      |
 |   4 | This approach separates data from programmatic changes, making it easier to manage and update configurations.                        |
-|   5 | Config Hub is a tool that stores configuration as data in objects in a database, rather than storing generation code in git.         |
+|   5 | Config Hub is a tool that stores configuration as data in objects in a database, rather than storing generation code in Git.         |
 |   6 | It provides an API for the configuration data, enabling automation of changes through functions or tools built on top of Config Hub. |
 |   7 | The approach allows for more efficient and safer configuration management, reducing the risk of blast radius errors.                 |
 |   8 | It enables mass changes to be made easily, with opportunities for review and validation before deployment.                           |

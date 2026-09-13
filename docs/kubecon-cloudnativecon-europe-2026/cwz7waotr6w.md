@@ -51,7 +51,7 @@ Gabriel invites the community to join CloudNativePG on various platforms and att
 |  16 | kubectl plugin for cluster management, log retrieval, and performance monitoring.                                                                                                                                                                                   |
 |  17 | Cluster referencing for debugging or shutting down clusters to save costs.                                                                                                                                                                                          |
 |  18 | Recent features: declarative databases, logical replication, CMPGI interface for custom backup systems, major PostgreSQL upgrades, declarative foreign data management, quorum-based failover, and declarative loading of PostgreSQL extensions via OCI containers. |
-|  19 | Community is accessible via CNCF website, GitHub, Slack, and at the event kiosk.                                                                                                                                                                                    |
+|  19 | Community is accessible via CNCF site, GitHub, Slack, and at the event kiosk.                                                                                                                                                                                       |
 |  20 | Two related talks are scheduled, including one on data sovereignty and another by Gabriel Bolini and Lauren Parody.                                                                                                                                                 |
 
 # Video

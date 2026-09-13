@@ -26,7 +26,7 @@ generated:
 
 Yusuke Sakai, a maintainer of Yoki, provides an update on the project's recent developments and future plans.
 Yoki is an OCI-compliant, low-level container runtime that has grown beyond its experimental phase, now serving as a practical component in cloud-native environments and Kubernetes execution flows.
-Recent updates include support for net devices and Linux memory policy, improved compatibility with other runtimes and the OCI specification, expanded testing, and various bug fixes and security improvements.
+Recent updates include support for net devices and Linux memory policy, improved compatibility with other runtimes and the OCI specification, expanded testing, and various bugfixes and security improvements.
 Looking ahead to version 1.0.0, the roadmap focuses on enhancing real-world compatibility with other runtimes, integrating microVM-based container execution for stronger isolation, and simplifying Kubernetes adoption through easier deployment methods.
 These efforts aim to make Yoki more practical, reliable, and accessible for broader use.
 
@@ -45,7 +45,7 @@ These efforts aim to make Yoki more practical, reliable, and accessible for broa
 |   9 | Memory policy support is relevant for NUMA workloads.                                                                             |
 |  10 | Improved compatibility with runc behavior and the OCI specification.                                                              |
 |  11 | Expanded OCI conformance and compatibility testing.                                                                               |
-|  12 | Bug fixes and security improvements, including general stability and shell-related fixes.                                         |
+|  12 | Bugfixes and security improvements, including general stability and shell-related fixes.                                          |
 |  13 | The project is becoming more practical and reliable.                                                                              |
 |  14 | Roadmap toward Yoki 1.0.0 focuses on practicality for production use:                                                             |
 |  15 | Improve compatibility with runc, including features outside the specification like exec update and checkpoint.                    |

@@ -25,7 +25,7 @@ generated:
 
 Stuart, a leader at Liberty Mutual, shares his experience with deploying Gen AI at scale in a multinational company.
 He highlights the importance of understanding that "shipping" something doesn't necessarily mean "adoption," and that adoption can be asymmetrical.
-Stuart also emphasizes the need for careful planning, including choosing the right model for the job, designing for tradeoffs, and being prepared to pivot when new technologies emerge.
+Stuart also emphasizes the need for careful planning, including choosing the right model for the job, designing for trade-offs, and being prepared to pivot when new technologies emerge.
 Additionally, he notes that scaling Gen AI is a significant challenge, and that mistakes should be viewed as opportunities for growth and learning.
 
 # Main Points

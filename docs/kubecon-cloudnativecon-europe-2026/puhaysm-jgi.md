@@ -26,7 +26,7 @@ generated:
 The presentation introduces the Coina platform, developed by the Dutch tax authority (Belastingdienst), which manages tax collection, benefits, and customs in the Netherlands.
 The platform’s journey began in 2017 with the goal of maximizing developer autonomy through a Kubernetes-based container hosting solution.
 Early adoption saw rapid growth, but challenges emerged as developers faced high cognitive load and a lack of standardization, leading to slower onboarding.
-To address this, the team created a structured onboarding process, a comprehensive manifesto, and the open-source Project as a Service (Paas) operator, enabling developers to provision fully configured Kubernetes environments with a single YAML request.
+To address this, the team created a structured onboarding process, a comprehensive manifesto, and the open-source Project as a Service (PaaS) operator, enabling developers to provision fully configured Kubernetes environments with a single YAML request.
 The platform also offers a “golden path” of best practices, extensive documentation, workshops, and a strong community of practice, supporting over 80 teams and 160 applications across 78 OpenShift clusters.
 Looking ahead, the team aims to expand integrations, enhance automation with AI, and continue empowering developers toward self-sufficiency and standardization.
 

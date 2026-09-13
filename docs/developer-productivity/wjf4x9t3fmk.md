@@ -24,7 +24,7 @@ generated:
 
 The speaker discusses the history of continuous delivery, starting from 2005 when ThoughtWorks implemented continuous integration (CI) in their UK office.
 They faced challenges deploying to production due to differences between developer workstations and production environments.
-To overcome this, they created a bash script called "Conan" that automated deployment to Solaris clusters.
+To overcome this, they created a Bash script called "Conan" that automated deployment to Solaris clusters.
 This experience led to the development of more advanced CI tools like CruiseControl and Selenium.
 The speaker also shares lessons learned from other projects, including the importance of testing, monitoring, observability, security, and cross-functional teams in achieving successful continuous delivery.
 

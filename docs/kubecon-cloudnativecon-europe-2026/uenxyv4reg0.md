@@ -50,7 +50,7 @@ Ultimately, the panel agreed that a minimal, standardized foundation for Kuberne
 |  15 | Digital sovereignty and geo-specific requirements are important for some users.                              |
 |  16 | Tools like Helm and Cluster API are mentioned as ways to manage and deploy Kubernetes clusters.              |
 |  17 | The community may naturally create multiple distributions based on packaging, tooling, and user preferences. |
-|  18 | Consistency in documentation, repo layout, and best practices across cloud providers is lacking.             |
+|  18 | Consistency in documentation, repository layout, and best practices across cloud providers is lacking.       |
 |  19 | Conformance currently tests only mandatory GA features; optional conformance profiles are discussed.         |
 |  20 | Programmatic discovery of distribution features is seen as important.                                        |
 |  21 | Testing frameworks are being developed to better enumerate and test optional features.                       |

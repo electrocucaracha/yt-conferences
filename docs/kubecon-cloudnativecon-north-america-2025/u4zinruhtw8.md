@@ -44,7 +44,7 @@ The presentation also highlights how ORAS and OCI artifacts support secure, flex
 |   9 | Deployment time reduced to a few hours, depending on application complexity.                                                                                             |
 |  10 | ORAS standardizes packaging, publishing, and delivery of cloud-native software infrastructure.                                                                           |
 |  11 | ORAS project started in 2019, joined CNCF in 2021; enables storing any artifact (AI models, Helm charts, signatures, etc.) in container registries.                      |
-|  12 | ORAS provides CLI tools and SDKs (C#, Java, Python, Go, Rust); widely adopted in open source and enterprise.                                                             |
+|  12 | ORAS provides command-line tools and SDKs (C#, Java, Python, Go, Rust); widely adopted in open source and enterprise.                                                    |
 |  13 | Key ORAS scenarios: content distribution, content promotion, supply chain security, multi-architecture artifact management, registry backup/restore.                     |
 |  14 | GE Healthcare uses infrastructure as code (IaC) as the foundation for reusable packages, supporting tools like Terraform, Helm, Open Tofu, and cloud-specific IaC.       |
 |  15 | OCI artifacts are used to package IaC files, metadata, and annotations, enabling composable, reusable, and versioned deployments.                                        |

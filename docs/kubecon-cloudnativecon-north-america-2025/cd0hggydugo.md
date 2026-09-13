@@ -48,7 +48,7 @@ Christine also recommends resources like the official guides, the ingress-to-gat
 |  13 | Implementations must pass conformance tests for each release                                                  |
 |  14 | Example gateway can specify class name (e.g., Cilium) and is portable across implementations                  |
 |  15 | HTTPRoute example listens for the deployed gateway                                                            |
-|  16 | Resources for getting started: guides on the Gateway API website                                              |
+|  16 | Resources for getting started: guides on the Gateway API site                                                 |
 |  17 | Tools: ingress-to-gateway (translates Ingress to Gateway API), gateway-cuddle (visualizes resources)          |
 |  18 | Encouragement to provide feedback and get involved with the community (SIG Network group, GitHub discussions) |
 |  19 | Contact Christine for questions                                                                               |

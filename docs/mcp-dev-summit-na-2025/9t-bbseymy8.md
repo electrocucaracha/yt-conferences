@@ -35,7 +35,7 @@ The talk concludes with resources for further exploration, including code reposi
 |   2 | Focus of the talk is on practical aspects of scaling MCP from local environments to cloud-scale deployments, specifically MCP servers.                    |
 |   3 | MCP servers are available at GitHub AWSLAB/MCP, with the list growing frequently.                                                                         |
 |   4 | Example: AWS documentation MCP server wraps existing public APIs (search, recommendations, navigation) as tools in an MCP server.                         |
-|   5 | Demonstration using Amazon Q dev CLI tool to interact with the AWS docs MCP server via natural language requests.                                         |
+|   5 | Demonstration using Amazon Q dev command-line tool to interact with the AWS docs MCP server via natural language requests.                                |
 |   6 | Local environments are good for prototyping, but scaling requires decoupling and running MCP servers remotely.                                            |
 |   7 | MCP spec has evolved from standard IO and SSE to supporting streamable HTTP.                                                                              |
 |   8 | Currently, only Python and TypeScript SDKs support streamable HTTP; client app support is still catching up.                                              |
@@ -48,7 +48,7 @@ The talk concludes with resources for further exploration, including code reposi
 |  15 | New open source SDK "strands" released for building agents; supports multiple model providers (Amazon Bedrock, Meta Llama, Anthropic, Light LLM, OpenAI). |
 |  16 | MCP Lambda handler is a prototype; production use should implement stronger authorization (e.g., Cognito).                                                |
 |  17 | Reference to a blog post on inter-agent communication using MCP.                                                                                          |
-|  18 | Links provided for code repo, strand agents, and a survey for $25 AWS credit.                                                                             |
+|  18 | Links provided for code repository, strand agents, and a survey for $25 AWS credit.                                                                       |
 
 # Video
 

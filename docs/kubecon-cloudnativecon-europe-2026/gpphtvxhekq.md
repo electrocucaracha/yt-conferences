@@ -34,7 +34,7 @@ He also emphasizes the broader effort required to update the entire OPA ecosyste
 |   # | Main point                                                                                                                                            |
 | --: | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Charlie from the OPER project introduces the general purpose policy engine.                                                                           |
-|   2 | OPER allows users to write policies, such as controlling deployment permissions or access to directories in a git repo.                               |
+|   2 | OPER allows users to write policies, such as controlling deployment permissions or access to directories in a Git repository.                         |
 |   3 | Policies are written in the Rego language.                                                                                                            |
 |   4 | Users load policy code into Open Policy Agent (OPA), provide JSON input, and OPA evaluates the policy to produce a decision.                          |
 |   5 | OPA handles policy decisions, policy reloading, and audit logs.                                                                                       |

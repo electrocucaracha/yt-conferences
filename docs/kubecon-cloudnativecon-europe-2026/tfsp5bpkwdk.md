@@ -23,10 +23,10 @@ generated:
 
 In this talk at CubeCon EU, Ben and Patrick, maintainers of Backstage at Spotify, provided an update on the project's progress since the last conference.
 They highlighted significant growth, with over 4,000 adopters, 255 open source plugins, and nearly 33,000 GitHub stars, and discussed improvements such as a new process for handling pull request reviews and the addition of two new core maintainers.
-The team showcased advancements in the front-end system, including better plugin isolation, improved navigation, built-in permissions, and a move toward a new design system, with the new front-end now the default for new apps and a planned phase-out of the old system by year-end.
+The team showcased advancements in the frontend system, including better plugin isolation, improved navigation, built-in permissions, and a move toward a new design system, with the new frontend now the default for new apps and a planned phase-out of the old system by year-end.
 Updates to the CLI and authentication processes were detailed, including support for the CIMD spec, modularization of the CLI, and new catalog actions, making automation and integration with AI tools more seamless.
 The presenters emphasized Backstage’s evolving role as a central hub for developer experience, especially as AI adoption increases, and introduced ongoing work to make the software catalog model more extensible and machine-readable, supporting better integration with plugins and AI agents.
-They concluded with a roadmap focused on catalog model extensions, AI context integration, improvements to the release process, continued evolution of the Backstage UI, and the deprecation of the old front-end system.
+They concluded with a roadmap focused on catalog model extensions, AI context integration, improvements to the release process, continued evolution of the Backstage UI, and the deprecation of the old frontend system.
 
 # Main Points
 

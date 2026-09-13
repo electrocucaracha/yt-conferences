@@ -25,7 +25,7 @@ generated:
 # Summary
 
 The talk provides an update on the Ingress EngineX project, highlighting its long history, extensive feature set, and significant community contributions over the past decade, including around 8,000 closed pull requests and over 1,000 contributors.
-However, due to a lack of maintainers and limited resources—currently only two active maintainers—the project has been in maintenance mode since the last London KubeCon, with only dependency updates and minor bug fixes being made.
+However, due to a lack of maintainers and limited resources—currently only two active maintainers—the project has been in maintenance mode since the last London KubeCon, with only dependency updates and minor bugfixes being made.
 The team announced that Ingress EngineX will be archived by March 2026, after which it will become read-only with no further updates, though existing images and Helm charts will remain available.
 The related Ingate project, intended to help users migrate to Gateway API, will also be retired due to insufficient development and interest.
 The speakers expressed gratitude to the community and recommended that users begin migrating to Gateway API, noting that the decline of Ingress EngineX is a natural part of the open source lifecycle and encouraging contributions to projects supporting this transition.
@@ -37,7 +37,7 @@ The speakers expressed gratitude to the community and recommended that users beg
 |   1 | Ingress EngineX has been active for about 10 years with over 8,000 closed PRs and more than 1,000 contributors.                                                    |
 |   2 | The project has an extensive feature set, including many annotations beyond the basic ingress API.                                                                 |
 |   3 | Maintenance has become difficult due to a lack of maintainers and limited resources; currently, only two people are actively involved.                             |
-|   4 | Since the last CubeCon in London, the project has been in maintenance mode, with only dependency updates and minor bug fixes.                                      |
+|   4 | Since the last CubeCon in London, the project has been in maintenance mode, with only dependency updates and minor bugfixes.                                       |
 |   5 | No significant new features have been added recently; activity has been minimal.                                                                                   |
 |   6 | Regular patch releases have continued, but mostly for dependency updates, not new features.                                                                        |
 |   7 | After discussions with committee members, the decision was made to archive the project by March 2026 (Amsterdam).                                                  |

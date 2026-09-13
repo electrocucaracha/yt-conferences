@@ -25,7 +25,7 @@ Dylan Paige and Kashif, co-chairs of the CNCF Technical Advisory Group (TAG) for
 The TAG Infrastructure group focuses on defining and advancing best practices, standards, and assessment models for foundational cloud native infrastructure domains such as data, storage, networking, compute, infrastructure management, and edge/sovereignty.
 Their work includes producing frameworks, white papers, and reference implementations, with current initiatives covering topics like the storage landscape, data storage for AI/ML workloads, and infrastructure lifecycle management across diverse environments.
 The group emphasizes collaboration, open contribution, and ongoing refinement of its charter to ensure technical coherence and interoperability across CNCF projects.
-They also clarify that while reference architectures can be artifacts of TAGs, some are developed in end-user or community groups, with TAGs providing technical expertise as needed.
+They also clarify that while reference architectures can be artifacts of TAGs, some are developed in end user or community groups, with TAGs providing technical expertise as needed.
 
 # Main Points
 

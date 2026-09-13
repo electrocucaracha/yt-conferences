@@ -33,7 +33,7 @@ Yoko encourages open sourcing in this space to foster ecosystem growth and invit
 |   # | Main point                                                                                                                                                          |
 | --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Yoko is a partner at Andre and Horwood, leading early-stage investments in developer tools and AI.                                                                  |
-|   2 | She is a developer who creates open source software, including an MCP light control repo.                                                                           |
+|   2 | She is a developer who creates open source software, including an MCP light control repository.                                                                     |
 |   3 | MCP middleware is a horizontal layer between client and services, providing functionalities like request interception, transformation, authentication, and logging. |
 |   4 | Middleware centralizes functionalities between client, server, and third-party APIs.                                                                                |
 |   5 | MCP clients require handling agent loops and integrations, such as tool selection, parallelization, authentication, logging, debugging, and runtime metrics.        |

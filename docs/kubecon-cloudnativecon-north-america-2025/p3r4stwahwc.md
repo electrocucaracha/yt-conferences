@@ -51,7 +51,7 @@ The session concludes with a Q&A addressing policy enforcement and automation, a
 |  16 | Call to action: Start with one policy (e.g., cleanup or best practice), measure its impact, and expand gradually.                                             |
 |  17 | Kyverno policies can validate, mutate, generate, and clean up resources; can operate in blocking or audit/reporting modes.                                    |
 |  18 | Kyverno can query external APIs for advanced logic (e.g., checking traffic before scaling down).                                                              |
-|  19 | Plans to create a public GitHub repo with example policies if there is community interest.                                                                    |
+|  19 | Plans to create a public GitHub repository with example policies if there is community interest.                                                              |
 
 # Video
 

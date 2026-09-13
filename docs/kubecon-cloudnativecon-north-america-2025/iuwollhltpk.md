@@ -39,7 +39,7 @@ The TOC also emphasizes the importance of predictability, coaching, and guidance
 |   4 | Projects are encouraged to self-evaluate using established criteria.                                                             |
 |   5 | The TOC aims to provide guidance without enforcing specific languages or approaches.                                             |
 |   6 | Pain points include predictability, finding adopters, and ensuring projects meet expectations.                                   |
-|   7 | A new website (contribute.cncf.io) has been launched with information on good CNCF project practices.                            |
+|   7 | A new site (contribute.cncf.io) has been launched with information on good CNCF project practices.                               |
 |   8 | Feedback is encouraged through public meetings, Slack channels, and the maintainers-circle channel.                              |
 
 # Video

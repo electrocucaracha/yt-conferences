@@ -21,9 +21,9 @@ generated:
 
 # Summary
 
-Bertrand Schreifer, CTO at Open Value and an experienced Java developer and architect, discusses the enduring relevance and power of command line tools in modern software development.
+Bertrand Schreifer, CTO at Open Value and an experienced Java developer and architect, discusses the enduring relevance and power of command-line tools in modern software development.
 He explains that command line utilities remain essential for tasks requiring speed, data manipulation, and automation, often proving more efficient than graphical interfaces or heavyweight solutions for many everyday problems.
-Schreifer highlights the simplicity and composability of command line tools, their cross-platform availability, and the importance of standard utilities like grep, cut, and sed for processing data.
+Schreifer highlights the simplicity and composability of command-line tools, their cross-platform availability, and the importance of standard utilities like grep, cut, and sed for processing data.
 He also notes the value of using standard tools to ensure scripts are portable across different systems, and mentions that modern solutions like Windows Subsystem for Linux have made command line environments more accessible on Windows.
 Finally, Schreifer advocates for teaching command line skills at universities, emphasizing their role in productivity, troubleshooting, and deeper understanding of system behavior.
 
@@ -35,12 +35,12 @@ Finally, Schreifer advocates for teaching command line skills at universities, e
 |   2 | He has 10-15 years of experience as a Java developer and software architect, mainly in consulting.                                           |
 |   3 | Active with the Netherlands Java User Group, organizing conferences.                                                                         |
 |   4 | Started using command line and Linux in university around 1998.                                                                              |
-|   5 | Command line tools are simple, do one thing well, and can be combined to build data pipelines.                                               |
+|   5 | Command-line tools are simple, do one thing well, and can be combined to build data pipelines.                                               |
 |   6 | Command line usage is still relevant, especially with DevOps, containers, and Kubernetes.                                                    |
 |   7 | Uses command line for speed, data manipulation (searching/filtering logs, transforming files), and automation (repetitive tasks, scripting). |
 |   8 | Prefers vi/vim as a text editor because it is available on most systems.                                                                     |
 |   9 | Linux system boots the kernel, then OS utilities, then starts a shell (command interpreter).                                                 |
-|  10 | POSIX is a standard for command line utilities; bash is a common shell.                                                                      |
+|  10 | POSIX is a standard for command line utilities; Bash is a common shell.                                                                      |
 |  11 | Shells have built-in commands and can run external binaries; scripting is possible within shells.                                            |
 |  12 | Frequently used utilities: cut (print file columns), grep (search/filter), sed (string editing), rev (reverse strings/files).                |
 |  13 | Command line is powerful for data manipulation and automation, especially for small to medium data sets.                                     |

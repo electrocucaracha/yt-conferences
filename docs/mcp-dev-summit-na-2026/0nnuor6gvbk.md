@@ -26,7 +26,7 @@ generated:
 The speaker discusses bridging the gap between those with ideas for improving MCP or agents and those able to test and implement these ideas at scale.
 They introduce Goose, an open-source agent project originating at Block and now governed by the Linux Foundation, which serves as a collaborative proving ground for new MCP features and experimentation.
 Goose emphasizes performance, stability, interoperability with open standards like MCP and ACP, and a willingness to rapidly experiment and evolve.
-The talk highlights features such as "code mode" for efficient token usage, integration with the Agent Client Protocol to enable diverse client interactions, and support for MCP apps, including experimental features like AI-powered app front-ends.
+The talk highlights features such as "code mode" for efficient token usage, integration with the Agent Client Protocol to enable diverse client interactions, and support for MCP apps, including experimental features like AI-powered app frontends.
 The speaker invites the community to contribute experimental ideas and implementations to Goose, positioning it as a platform for real-world testing and collaborative innovation in the agent ecosystem.
 
 # Main Points
@@ -49,8 +49,8 @@ The speaker invites the community to contribute experimental ideas and implement
 |  14 | Goose implemented support for Agent Client Protocol (ACP), enabling more clients (desktop, mobile, web, terminal) to control agents via a standardized protocol.                  |
 |  15 | ACP support allows flexible deployment and interaction between agents and clients.                                                                                                |
 |  16 | Goose adopted MCP UI early, influencing its development into MCP apps.                                                                                                            |
-|  17 | Goose supports MCP apps, including advanced features like sampling from app front-end code, enabling AI-powered apps.                                                             |
-|  18 | Sampling from the app front-end is being incubated in Goose, with plans to formalize in the SDK.                                                                                  |
+|  17 | Goose supports MCP apps, including advanced features like sampling from app frontend code, enabling AI-powered apps.                                                              |
+|  18 | Sampling from the app frontend is being incubated in Goose, with plans to formalize in the SDK.                                                                                   |
 |  19 | Goose currently lacks support for long-running tasks in the host UI but Ratings (1-5): 3                                                                                          |
 
 # Video

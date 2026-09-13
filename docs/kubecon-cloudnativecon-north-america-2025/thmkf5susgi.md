@@ -26,7 +26,7 @@ generated:
 
 Andy Anderson, a software architect at IBM Research, introduces Coupe Stellar, a multicluster configuration management tool within the CNCF ecosystem.
 Coupe Stellar enables users to manage an inventory of remote clusters, stage workloads in centralized namespaces, and distribute them to execution clusters via binding policies, overcoming Kubernetes limitations such as cluster timeouts.
-Recent developments include extensive localization, a new website with a sandbox environment, a plugin framework for custom UI extensions, automated multi-browser UI testing, and a multiplugin for the command line to streamline cluster management.
+Recent developments include extensive localization, a new site with a sandbox environment, a plugin framework for custom UI extensions, automated multi-browser UI testing, and a multiplugin for the command line to streamline cluster management.
 The ADA project integrates AI-driven automation for provisioning and workload assignment, and the team emphasizes community involvement through a contributor ladder, mentorship program, and collaborations like the software-defined farm project with Cornell University.
 Anderson invites attendees to upcoming sessions and encourages participation in the Coupe Stellar community.
 
@@ -41,7 +41,7 @@ Anderson invites attendees to upcoming sessions and encourages participation in 
 |   5 | Uses SIG M multiclusters workload API for communication between inventory, transport, and definition spaces.                                        |
 |   6 | Overcomes Kubernetes limitations, such as clusters being marked unschedulable after going offline.                                                  |
 |   7 | Recently added localization in English, French, Italian, German, Spanish, Japanese, Hindi, traditional and simplified Chinese, and Portuguese.      |
-|   8 | New website launching in December with enhanced sandbox for free trials.                                                                            |
+|   8 | New site launching in December with enhanced sandbox for free trials.                                                                               |
 |   9 | Plug-in framework allows creation and distribution of UI plugins.                                                                                   |
 |  10 | Automated multi-browser UI testing implemented with Playwright.                                                                                     |
 |  11 | Multi-plugin for kubectl enables working with multiple clusters from the command line (e.g., "kubectl get pods -A" shows pods across all clusters). |

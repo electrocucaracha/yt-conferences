@@ -40,7 +40,7 @@ The video concludes with a practical exercise to demonstrate improved listening 
 |   5 | Three main barriers to listening:                                                                                                                                          |
 |   6 | Thought speech differential: people speak at 150 words per minute, but brains process 400-500 words per minute, leaving mental capacity unused and leading to distraction. |
 |   7 | Listener anxiety: realizing you haven’t been listening, feeling panic, and trying to catch up instead of focusing.                                                         |
-|   8 | Distraction: mental “cash” is filled with to-dos, worries, and background thoughts, causing overthinking and stress.                                                       |
+|   8 | Distraction: mental “cash” is filled with todos, worries, and background thoughts, causing overthinking and stress.                                                        |
 |   9 | Technique 1: Clearing your mental cash                                                                                                                                     |
 |  10 | Use a physical notebook to write three pages of stream-of-consciousness thoughts before important conversations.                                                           |
 |  11 | This clears mental distractions and frees up brain space for listening.                                                                                                    |

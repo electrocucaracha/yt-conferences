@@ -38,7 +38,7 @@ While operational maturity improved, measurement of platform success remained a 
 |   2 | NAV and the Norwegian Tax Authority first connected at KubeCon Berlin over shared interest in containers and Kubernetes.                                                            |
 |   3 | They invited colleagues and other agencies, leading to a community of 84 public sector organizations focused on platform building, mostly using Kubernetes.                         |
 |   4 | A survey was created based on the App Delivery TAG’s platform engineering maturity model to measure maturity levels across organizations.                                           |
-|   5 | The survey included about 30 questions on organizational meta-data, platform engineering maturity, Kubernetes adoption, and public cloud adoption.                                  |
+|   5 | The survey included about 30 questions on organizational metadata, platform engineering maturity, Kubernetes adoption, and public cloud adoption.                                   |
 |   6 | The survey was conducted in 2024 and 2026, allowing for longitudinal comparison.                                                                                                    |
 |   7 | 92% of respondent organizations have an internal developer platform.                                                                                                                |
 |   8 | 83% of those platforms run on Kubernetes.                                                                                                                                           |
@@ -47,7 +47,7 @@ While operational maturity improved, measurement of platform success remained a 
 |  11 | The increase in focus on security may be linked to Norway’s new digital security act in 2025.                                                                                       |
 |  12 | Operations maturity improved across organizations, but measurement of platform success did not show significant improvement.                                                        |
 |  13 | Most platform teams lack clear metrics for defining and measuring platform success.                                                                                                 |
-|  14 | The full report is published on the community website.                                                                                                                              |
+|  14 | The full report is published on the community site.                                                                                                                                 |
 |  15 | Announcement of a Kubernetes-based conference in Norway seeking speakers.                                                                                                           |
 
 # Video

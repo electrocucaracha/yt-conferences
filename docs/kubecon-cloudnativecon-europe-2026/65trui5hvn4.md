@@ -47,7 +47,7 @@ A live demo showcases Auger’s architecture, custom resources, and its ability 
 |  12 | Includes drift detection by comparing forecasted and actual values, raising Kubernetes events if accuracy drops.                                          |
 |  13 | Human approval mechanism ensures recommendations are audited before action.                                                                               |
 |  14 | Extensible architecture: contributors can add new data sources, models, or policies by implementing minimal Python classes/functions.                     |
-|  15 | Hybrid Golang (Kubernetes plumbing) and Python (AI/ML inference) design.                                                                                  |
+|  15 | Hybrid Go (Kubernetes plumbing) and Python (AI/ML inference) design.                                                                                      |
 |  16 | Supports multi-cluster deployments and plug-in approaches.                                                                                                |
 |  17 | Demo showcased Auger running on a local kind cluster, using ARMA and Oneshot models, with recommendations visualized in Grafana.                          |
 |  18 | Project is open source                                                                                                                                    |

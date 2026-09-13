@@ -26,7 +26,7 @@ In this lecture, the instructor introduces first order logic as a more expressiv
 The lecture explains the syntax and semantics of first order logic, emphasizing the distinction between terms (which denote objects) and formulas (which denote truth values), and describes how models are constructed using a domain of objects and an interpretation function that maps symbols to elements in the domain.
 Logical inference in first order logic is discussed, including the use of modus ponens, substitution, and unification to derive new facts, and the limitations of propositionalization when unique names and domain closure do not hold.
 The instructor also demonstrates how to translate natural language statements into first order logic expressions, highlighting common pitfalls with quantifiers and the increased expressivity provided by variables and quantifiers.
-The lecture concludes by noting that while first order logic is powerful, it cannot express certain statements (such as proportions), which require higher order logics, and previews upcoming topics on AI and language models.
+The lecture concludes by noting that while first order logic is powerful, it cannot express certain statements (such as proportions), which require higher-order logics, and previews upcoming topics on AI and language models.
 
 # Main Points
 

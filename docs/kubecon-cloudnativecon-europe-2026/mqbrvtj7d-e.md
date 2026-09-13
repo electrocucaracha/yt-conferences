@@ -49,8 +49,8 @@ They highlight ongoing challenges such as permission management and repository o
 |  13 | Tooling and processes (like drift detection, labeling, and GitHub project boards) are needed as the project grows.                            |
 |  14 | The goal is to empower localization teams to manage their own documentation sets and workflows.                                               |
 |  15 | Encouragement for localization teams to hold synchronous meetings to discuss challenges.                                                      |
-|  16 | Permission management is a major challenge; undecided between using a single repo or multiple repos.                                          |
-|  17 | Single repo: shared tooling, easier maintenance, but limited contributor permissions.                                                         |
+|  16 | Permission management is a major challenge; undecided between using a single repository or multiple repos.                                    |
+|  17 | Single repository: shared tooling, easier maintenance, but limited contributor permissions.                                                   |
 |  18 | Multiple repos: more granular permissions for contributors, but increased maintenance workload.                                               |
 |  19 | Ongoing challenge: attracting more contributors to open source localization.                                                                  |
 |  20 | Call to action: multilingual contributors are encouraged to join or propose new localizations.                                                |

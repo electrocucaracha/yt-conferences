@@ -56,7 +56,7 @@ They emphasize the importance of automated recovery, mentioning VTORC for orches
 |  21 | Operator manages infrastructure in Kubernetes.                                                                         |
 |  22 | Vitess is designed for graceful failover and degradation, resulting in higher latency instead of errors during issues. |
 |  23 | Vitess enables scaling data layers without needing to scale data teams.                                                |
-|  24 | Example provided for installing the Vitess operator and setting up a cluster using the Vitess repo.                    |
+|  24 | Example provided for installing the Vitess operator and setting up a cluster using the Vitess repository.              |
 |  25 | Presenter encourages attendees to visit the booth for follow-up questions.                                             |
 
 # Video

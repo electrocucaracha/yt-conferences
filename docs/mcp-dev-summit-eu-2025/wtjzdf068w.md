@@ -52,11 +52,11 @@ The approach offers centralized management of authentication, observability, and
 |  17 | Visibility and auditing are built-in.                                                                                         |
 |  18 | OTEL traces supported.                                                                                                        |
 |  19 | MCP security best practices recommend proxies and align with zero trust.                                                      |
-|  20 | OAUTH scopes (e.g., GitHub’s “repo”) are broad; zero trust allows finer tool-level controls.                                  |
+|  20 | OAUTH scopes (e.g., GitHub’s “repository”) are broad; zero trust allows finer tool-level controls.                            |
 |  21 | Primarium’s identity-aware proxy is open core and handles OAUTH flows, reducing implementation burden.                        |
 |  22 | Upstream OAUTH flows (e.g., Google) are managed via configuration; tokens never leave the gateway.                            |
 |  23 | MCP clients receive short-lived JWTs, not long-lived tokens.                                                                  |
-|  24 | Works with standard MCP clients (Claude, ChatGPT, Goose, VS Code).                                                            |
+|  24 | Works with standard MCP clients (Claude, ChatGPT, Goose, Visual Studio Code).                                                 |
 |  25 | Clients don’t need to manage OAUTH; receive short-lived tokens.                                                               |
 |  26 | Demo showed configuring MCP servers with identity-aware proxy, applying policies, and auditing access.                        |
 |  27 | Developers can do local dev with security and OAUTH flows in place.                                                           |

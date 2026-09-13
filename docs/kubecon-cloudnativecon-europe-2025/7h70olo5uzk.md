@@ -32,11 +32,11 @@ The project also focuses on "dashboard as code" initiatives, which enable users 
 |   2 | Pers has various focuses, including extensibility, embeddability, and data sources.                        |
 |   3 | The project aims to converge towards an open specification and standard specification for dashboards.      |
 |   4 | Pers supports various data sources and can be embedded in other UIs.                                       |
-|   5 | The project provides SDKs in Golang and Qlang for coding dashboards.                                       |
+|   5 | The project provides SDKs in Go and Qlang for coding dashboards.                                           |
 |   6 | Dashboard as code is a key feature of the project, allowing users to describe their dashboards using code. |
 |   7 | The project offers a CLI (persi) for building and validating dashboards.                                   |
 |   8 | Pers supports custom rules for linting and validation of dashboards.                                       |
-|   9 | The project has a demo that shows how to create a dashboard using Golang SDK.                              |
+|   9 | The project has a demo that shows how to create a dashboard using Go SDK.                                  |
 |  10 | Pers is part of the CNCF and aims to empower users to create and share dashboards.                         |
 |  11 | The project plans to support community dashboards and plugins.                                             |
 |  12 | Governance is being discussed, with the goal of ensuring the project benefits multiple companies.          |

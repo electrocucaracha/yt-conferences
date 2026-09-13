@@ -33,7 +33,7 @@ Security considerations, fine-grained access controls, and upcoming features lik
 | --: | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Stefan Pradan, Flux maintainer for eight years, presented at CubeCon.                                                                          |
 |   2 | Flux synchronizes Kubernetes clusters with a desired state stored outside the cluster.                                                         |
-|   3 | Early Flux versions synced clusters to a single repo; now supports "gitless GitOps" using container registries for unified storage.            |
+|   3 | Early Flux versions synced clusters to a single repository; now supports "gitless GitOps" using container registries for unified storage.      |
 |   4 | OCI artifact support in Flux is stable; migration documentation and tooling are available.                                                     |
 |   5 | Common GitOps challenges include: becoming a "YAML engineer," monorepo vs. multi-repo decisions, and managing signal-to-noise ratio in alerts. |
 |   6 | Flux MCP (Multi-Cluster Platform) helps address YAML complexity and improves signal-to-noise ratio.                                            |

@@ -45,7 +45,7 @@ Finally, they emphasize that as AI and cloud architectures evolve to include mor
 |  10 | Full heap dumps provide a complete memory snapshot but have high overhead and pause the program; used in tools like Valgrind and JVM heap dumps.          |
 |  11 | Object introspection analyzes container types to optimize stack vs. heap allocations; pioneered by Meta and being explored by Pixie.                      |
 |  12 | The PROF format is a standard for profiling data, supporting CPU and memory profiles, and enables visualization of allocation-heavy code.                 |
-|  13 | Parka supports PROF format, provides allocation sampling and in-use profiling, and supports Go, Rust, Python, and NodeJS.                                 |
+|  13 | Parka supports PROF format, provides allocation sampling and in-use profiling, and supports Go, Rust, Python, and Node.js.                                |
 |  14 | Pyroscope uses an SDK push model for profiling, supports Go, Java, and .NET, and provides temporal allocation views and flame graphs.                     |
 |  15 | Pixie is developing memory profiling, supports dynamic instrumentation, and is prototyping object introspection for optimizing memory footprint.          |
 |  16 | Allocation sampling and in-use profiling are low overhead and widely support                                                                              |

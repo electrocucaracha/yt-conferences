@@ -44,7 +44,7 @@ The speaker invites attendees to learn more through a curated calendar of Envoy-
 |   9 | AI Gateway is progressing from alpha to beta, aiming for general availability, and supports OpenAI standard agents, token budgets, rate limits, and richer telemetry for LLM backends.                   |
 |  10 | Focus on Gateway API v1.5 conformance and new load balancing features in Envoy Gateway.                                                                                                                  |
 |  11 | Adoption metrics: Envoy Gateway reached 2.1 million Helm chart pulls in 30 days, 5 million image pulls, core Envoy Proxy has over 27,000 GitHub stars, and 300+ unique contributors.                     |
-|  12 | Luma calendar available for all Envoy-related talks and end-user performance details.                                                                                                                    |
+|  12 | Luma calendar available for all Envoy-related talks and end user performance details.                                                                                                                    |
 |  13 | 10-year anniversary celebration and opportunities to meet maintainers at the project pavilion (P11A) from Tuesday to Thursday.                                                                           |
 |  14 | Invitation to join Envoy Slack for feature and user discussions.                                                                                                                                         |
 |  15 | Speaker: Kosi, software engineer at Kubernatic and Envoy Gateway maintainer.                                                                                                                             |

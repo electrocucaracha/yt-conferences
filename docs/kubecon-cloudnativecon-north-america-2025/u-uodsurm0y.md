@@ -25,7 +25,7 @@ Augugusta, a maintainer of the Pers project, provides an update on its progress 
 Initially, Pers primarily supported Prometheus metrics, but recent contributions from the core team and community have expanded support to include additional data sources like Pyroscope for profiling, Loki, ClickHouse, and VictoriaLogs for logs, and Tempo for traces.
 The project has seen significant community growth, nearing 1,700 stars, with 30 new contributors in the past three months and 24 contributors to the latest release.
 SAP has joined as a major contributor, assisting with the Pers operator, Helm charts, testing, and performance on Kubernetes, while Amadeus, RedHat, and SAP actively support the project.
-Additionally, the European Union is now funding Pers, and interested individuals are invited to visit their booth or access resources via their website and social media.
+Additionally, the European Union is now funding Pers, and interested individuals are invited to visit their booth or access resources via their site and social media.
 
 # Main Points
 
@@ -47,7 +47,7 @@ Additionally, the European Union is now funding Pers, and interested individuals
 |  14 | European Union is funding the project for the first time this year                                                       |
 |  15 | Booth available Wednesday afternoon, 2:00 p.m. to 5:00 p.m., kiosk 6A                                                    |
 |  16 | Project presence on social media and CNCF Slack                                                                          |
-|  17 | Official website: pers.dev, with documentation, installation instructions, and an online demo                            |
+|  17 | Official site: pers.dev, with documentation, installation instructions, and an online demo                               |
 
 # Video
 

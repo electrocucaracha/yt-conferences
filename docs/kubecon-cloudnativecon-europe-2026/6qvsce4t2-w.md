@@ -26,7 +26,7 @@ generated:
 In this presentation, Suzuit and Kent Kubo discuss the challenges of injecting private CA certificates into containers within their private cloud infrastructure, which operates over 1,000 Kubernetes clusters.
 They review existing approaches—such as modifying Dockerfiles, using init containers, and mounting static files—and highlight their limitations, particularly regarding OS and language-specific trust store differences.
 To address these issues, they developed an automated solution using the Node Resource Interface (NRI), which enables OS- and language-aware CA certificate injection during container startup with minimal user intervention, requiring only a pod annotation.
-Their implementation leverages NRI plugins, OCI hooks, and an entry point modifier to detect environments and inject certificates appropriately, currently supporting NodeJS and Python, with plans to add Java and other languages.
+Their implementation leverages NRI plugins, OCI hooks, and an entry point modifier to detect environments and inject certificates appropriately, currently supporting Node.js and Python, with plans to add Java and other languages.
 While their approach simplifies certificate management and improves automation, it requires node-level privileges and does not yet support read-only filesystems or complete CA replacement, but future work aims to address these limitations and integrate with Kubernetes standards like cluster trust bundles.
 
 # Main Points
@@ -44,7 +44,7 @@ While their approach simplifies certificate management and improves automation, 
 |   9 | Issues with existing approaches:                                                                                                               |
 |  10 | Trust store locations differ across Linux distributions                                                                                        |
 |  11 | CA bundle update commands differ                                                                                                               |
-|  12 | Some languages (e.g., Java, Python, NodeJS) require special handling                                                                           |
+|  12 | Some languages (e.g., Java, Python, Node.js) require special handling                                                                          |
 |  13 | Need for OS- and language-aware automatic CA trust injection                                                                                   |
 |  14 | NRI is a plugin API for high-level container runtimes, intercepts container lifecycle events, mutates configs, works with containerd and CRI-O |
 |  15 | Implemented NRI plugin for automatic CA trust injection:                                                                                       |

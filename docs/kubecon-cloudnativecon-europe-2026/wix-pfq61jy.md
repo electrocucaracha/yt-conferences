@@ -34,7 +34,7 @@ He concludes by discussing future plans to adopt the now-stable Gateway API for 
 |   # | Main point                                                                                                                                                               |
 | --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |   1 | Joe, Senior Software Engineer at Bloomberg, presents on executing a zero downtime migration from Ingress NGINX to a multicluster platform built on Kamada.               |
-|   2 | The Ingress NGINX repo was archived and is now officially retired.                                                                                                       |
+|   2 | The Ingress NGINX repository was archived and is now officially retired.                                                                                                 |
 |   3 | Multicluster orchestration is essential at Bloomberg for data center redundancy and service continuity during disasters.                                                 |
 |   4 | Multicluster orchestration involves building multiple clusters across data centers and using an orchestrator to make placement decisions.                                |
 |   5 | Bloomberg uses the CNCF Kamada project as its multicluster orchestrator.                                                                                                 |

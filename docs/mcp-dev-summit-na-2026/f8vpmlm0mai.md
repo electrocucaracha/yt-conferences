@@ -28,7 +28,7 @@ Donnie Adams, a software architect at OOT and former high school math teacher, i
 He explains how his team at OOT, inspired by Rancher’s use of Kubernetes to manage Kubernetes, built their chat application using MCP, demonstrating how chat interactions are implemented as tool calls within the MCP protocol.
 Adams highlights the limitations of synchronous tool calls, such as lack of durability and issues with long-running tasks, and describes how his team initially implemented asynchronous task handling before it was standardized in the MCP specification.
 He then reviews the official MCP Tasks specification, emphasizing its support for asynchronous workflows, state transitions, and improved client-server interactions.
-Adams concludes by sharing a demo of a simple workflow engine he built in Gleam, illustrating the agent loop and task lifecycle, and notes that while his team shifted away from certain workflow implementations due to evolving needs and gaps in the specification, the MCP framework remains central to their approach.
+Adams concludes by sharing a demo of a simple workflow engine he built-in Gleam, illustrating the agent loop and task lifecycle, and notes that while his team shifted away from certain workflow implementations due to evolving needs and gaps in the specification, the MCP framework remains central to their approach.
 
 # Main Points
 

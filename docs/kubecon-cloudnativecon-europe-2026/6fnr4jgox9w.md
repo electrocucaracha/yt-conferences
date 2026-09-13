@@ -25,7 +25,7 @@ generated:
 # Summary
 
 Sha discusses the challenges of modernizing legacy enterprise applications, such as 30-year-old Enterprise Java Beans, to run on platforms like Kubernetes.
-He introduces the Conveyor community’s approach, which centers on a static code analysis engine that supports multiple languages—including Java, Golang, Python, and NodeJS—to identify problematic code and suggest remedies for modernization.
+He introduces the Conveyor community’s approach, which centers on a static code analysis engine that supports multiple languages—including Java, Go, Python, and NodeJS—to identify problematic code and suggest remedies for modernization.
 The system integrates with the language server protocol for detailed code insights and leverages large language models to generate meaningful code transformations.
 Additionally, Conveyor has implemented agentic AI to automate code fixes and validation, as well as a memory feature that retains organizational code changes to improve future recommendations.
 Sha concludes by demonstrating how the tool can convert outdated code, like RMI IOP, into modern REST endpoints, and invites attendees to learn more at the Conveyor kiosk.
@@ -37,10 +37,10 @@ Sha concludes by demonstrating how the tool can convert outdated code, like RMI 
 |   1 | Sha discusses application modernization, focusing on moving legacy code (e.g., 30-year-old Enterprise Java Beans) to Kubernetes. |
 |   2 | Legacy code presents challenges such as stubs, serialization, lack of clustering, and other issues.                              |
 |   3 | The Conveyor community addresses application modernization for multiple languages.                                               |
-|   4 | Conveyor uses a static code analysis engine to analyze source code (Java, Golang, etc.).                                         |
+|   4 | Conveyor uses a static code analysis engine to analyze source code (Java, Go, etc.).                                             |
 |   5 | The analysis engine provides guidelines for modifying components (I/O, messaging, transactions) to run on Kubernetes.            |
 |   6 | Integration with the Language Server Protocol offers insights into code paths and enables implementation of analysis rules.      |
-|   7 | Recent updates added support for C, Golang, Python, and NodeJS.                                                                  |
+|   7 | Recent updates added support for C, Go, Python, and Node.js.                                                                     |
 |   8 | Static code analysis can suggest improvements, such as using secrets and config maps.                                            |
 |   9 | Conveyor leverages large language models (LLMs) for code generation and remediation using context engineering.                   |
 |  10 | The system can identify problematic code lines and provide remedies for Kubernetes compatibility.                                |

@@ -41,7 +41,7 @@ Key lessons learned include the importance of leadership support, optimizing dev
 |   5 | Library-based approach issues:                                                                                                                              |
 |   6 | Low adoption (~10%) due to operational burden on 6,600 engineers.                                                                                           |
 |   7 | High maintenance burden for updates and security fixes.                                                                                                     |
-|   8 | Inconsistent support across languages (only Golang and Java).                                                                                               |
+|   8 | Inconsistent support across languages (only Go and Java).                                                                                                   |
 |   9 | Technical constraints with integrating into some open source systems.                                                                                       |
 |  10 | Transitioned to a service mesh solution using Envoy as an on-host proxy, removing the need for per-service libraries.                                       |
 |  11 | Envoy handles authentication, authorization, and MTLS encryption transparently at the network layer.                                                        |

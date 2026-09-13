@@ -48,7 +48,7 @@ The session concluded with a live demo of Garm’s Kubernetes operator, showcasi
 |  12 | Features added included transparent proxy configuration and remote shell access for debugging workflows.                                                         |
 |  13 | The team experienced a major outage due to infrastructure issues, wrote a postmortem, and emphasized transparency to build trust.                                |
 |  14 | The platform scaled to over 12 million workflow runs and 700,000 runs per month.                                                                                 |
-|  15 | Open source and Garm were crucial to the platform's success; the team contributed bug fixes, insights, and a Kubernetes operator back to the community.          |
+|  15 | Open source and Garm were crucial to the platform's success; the team contributed bugfixes, insights, and a Kubernetes operator back to the community.           |
 |  16 | A live demo showcased the Kubernetes operator integration, multi-provider support, and runner pool management in Garm.                                           |
 |  17 | The talk concluded with an invitation to explore helpful links and a Q&A session.                                                                                |
 

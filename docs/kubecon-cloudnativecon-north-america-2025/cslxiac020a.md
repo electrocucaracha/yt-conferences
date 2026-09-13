@@ -40,7 +40,7 @@ The session concluded with resources for further engagement and an invitation fo
 |   2 | Amy Super (product designer at Grafana Labs) and Victoria Enuka (UX designer/researcher) led the project, supported by mentors from Grafana Labs.                           |
 |   3 | The project originated from user struggles in the Prometheus community with OpenTelemetry resource attributes, including poor query experience and high cardinality issues. |
 |   4 | Research goals: understand user pain points, stakeholder perspectives, and user expectations regarding resource attributes.                                                 |
-|   5 | Methods: 7 end-user interviews and a survey with 63 responses, providing both qualitative and quantitative data.                                                            |
+|   5 | Methods: 7 end user interviews and a survey with 63 responses, providing both qualitative and quantitative data.                                                            |
 |   6 | Four main user workflows identified:                                                                                                                                        |
 |   7 | Complete mapping: all resource attributes mapped to Prometheus metric labels (used by teams with few storage constraints).                                                  |
 |   8 | Selective attribute promotion: users manually choose which attributes to promote as labels.                                                                                 |

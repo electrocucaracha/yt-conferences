@@ -41,7 +41,7 @@ All workshop materials and instructions are available online, and participants a
 |   5 | RAG systems allow LLMs to answer questions by retrieving and summarizing relevant data sources.                                  |
 |   6 | Fine-tuning and prompt engineering are discussed as methods to customize LLM responses.                                          |
 |   7 | Architecture is cloud-native, containerized, and runs on OpenShift (Kubernetes distribution).                                    |
-|   8 | Data must be prepared in text formats (markdown, JSON) for LLMs.                                                                 |
+|   8 | Data must be prepared in text formats (Markdown, JSON) for LLMs.                                                                 |
 |   9 | Pipelines automate data ingestion and embedding into vector databases for retrieval.                                             |
 |  10 | Kubeflow automates AI tasks such as data processing, validation, and deployment.                                                 |
 |  11 | Event-driven pipelines use MinIO for object storage, Kafka for event streaming, and KNative Eventing for serverless triggers.    |

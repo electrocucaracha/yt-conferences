@@ -24,7 +24,7 @@ generated:
 
 # Summary
 
-The current process for generating API reference docs for Kubernetes and Cube Control is manual, requiring a local workspace setup, fetching the open API spec, and modifying markdown files, which fails every time due to lack of automation and documentation.
+The current process for generating API reference docs for Kubernetes and Cube Control is manual, requiring a local workspace setup, fetching the open API spec, and modifying Markdown files, which fails every time due to lack of automation and documentation.
 The SIG Docs technical leads aim to improve this process by making it more accessible to new contributors, allowing them to generate the docs themselves, and eventually automating the process with existing tooling from the Kubernetes API ecosystem.
 
 # Main Points

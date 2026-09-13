@@ -47,7 +47,7 @@ They note growing excitement and interest in MCP among financial sector executiv
 |  11 | Grounding LLM responses in up-to-date, timely context is especially important in finance.                                                   |
 |  12 | Financial markets depend on breaking news, company announcements, government actions, and executive statements.                             |
 |  13 | MCP boosts internal systems interoperability, connects data sets and analytic tools, and improves developer productivity.                   |
-|  14 | MCP's plug-and-play, configurable, swappable, loosely coupled components are superior to previous hard-coded dependencies.                  |
+|  14 | MCP's plug-and-play, configurable, swappable, loosely coupled components are superior to previous hardcoded dependencies.                   |
 |  15 | MCP is considered the API for the age of agentic AI, enabling systems and agents to communicate.                                            |
 |  16 | Bloomberg supports the development of MCP, especially in areas like authentication, authorization, rate limiting, metering, and guardrails. |
 |  17 | Agentic AI and MCP are top priorities for customers in the financial sector.                                                                |

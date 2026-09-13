@@ -50,7 +50,7 @@ The talk concludes with an overview of the project's history, community involvem
 |  15 | Best practices: keep tool lists focused, use config maps for prompts, choose models wisely, leverage observability features.                        |
 |  16 | Kagent emits logs/traces for visibility and supports Kubernetes benefits like RBAC and MTLS.                                                        |
 |  17 | Kagent and Kgateway are separate but complementary projects; can be used together or independently.                                                 |
-|  18 | Community resources: GitHub repo, CNCF                                                                                                              |
+|  18 | Community resources: GitHub repository, CNCF                                                                                                        |
 
 # Video
 

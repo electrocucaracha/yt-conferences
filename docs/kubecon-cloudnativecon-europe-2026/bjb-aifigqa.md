@@ -53,7 +53,7 @@ The project has seen significant growth, with over 170,000 downloads in the past
 |  18 | Envoy dynamic modules provide additional flexibility.                                                                  |
 |  19 | Agent Gateway is now an independent project with the data plane.                                                       |
 |  20 | Recent release: 2.3.0 beta 3.                                                                                          |
-|  21 | Community engagement: contract fest, kiosk, website, Slack, and community meetings.                                    |
+|  21 | Community engagement: contract fest, kiosk, site, Slack, and community meetings.                                       |
 
 # Video
 

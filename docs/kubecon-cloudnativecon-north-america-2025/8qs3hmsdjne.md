@@ -48,7 +48,7 @@ As a result, rollouts have become predictable and routine, freeing engineers to 
 |  13 | Rollout failures are made actionable by providing clear, human-readable failure reasons and next steps.                                                            |
 |  14 | Introduced a failure reason taxonomy: category, reason, and message for each failure.                                                                              |
 |  15 | Pod failures are categorized (infra, initialization, image pull, app fail to start, etc.) and summarized for each rollout.                                         |
-|  16 | Users can use internal CLI tools and dashboards for detailed rollout and pod information, with pre-formed commands and integrated metrics/logs.                    |
+|  16 | Users can use internal command-line tools and dashboards for detailed rollout and pod information, with pre-formed commands and integrated metrics/logs.           |
 |  17 | Default alerts notify users of issues even before failures occur.                                                                                                  |
 |  18 | Platform-wide failure categorization enables targeted improvements and root cause analysis.                                                                        |
 |  19 | Rollout success rate i                                                                                                                                             |

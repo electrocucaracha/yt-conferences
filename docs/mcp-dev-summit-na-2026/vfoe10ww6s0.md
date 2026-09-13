@@ -24,7 +24,7 @@ generated:
 Jeremiah, CEO of Prefect, discusses the evolution of FastMPP, an opinionated framework for working with the Model Context Protocol (MCP).
 He explains that FastMPP aims to absorb MCP best practices so users can focus on their own data and logic, but notes that previous efforts prioritized broad client compatibility at the expense of server innovation.
 To address this, FastMPP 3 was redesigned around two core abstractions—providers and transforms—enabling rapid feature development and support for advanced capabilities like tool search, code mode, and progressive disclosure.
-Jeremiah introduces Prefab, a new generative component library that allows developers to build interactive UIs directly in Python, facilitating richer user experiences within MCP apps without requiring extensive front-end expertise.
+Jeremiah introduces Prefab, a new generative component library that allows developers to build interactive UIs directly in Python, facilitating richer user experiences within MCP apps without requiring extensive frontend expertise.
 He emphasizes the importance of pushing the ecosystem to support the full range of MCP features, encourages adoption of these new tools, and answers audience questions about technical implementation and client compatibility.
 
 # Main Points
@@ -47,7 +47,7 @@ He emphasizes the importance of pushing the ecosystem to support the full range 
 |  14 | Progressive disclosure: dynamically reveals tools based on user actions.                                                     |
 |  15 | Emphasis on pushing clients to support more advanced MCP features.                                                           |
 |  16 | Introduction of MCP apps: servers deliver full UIs directly to users, bypassing agents.                                      |
-|  17 | Challenge: most FastMPP users are Python developers, but MCP apps require front-end (JS/TS) skills.                          |
+|  17 | Challenge: most FastMPP users are Python developers, but MCP apps require frontend (JS/TS) skills.                           |
 |  18 | Most use cases are internal to companies, focusing on sharing data/workflows within trusted boundaries.                      |
 |  19 | Prefab, a new generative component library, allows building interactive UIs in Python using a token-efficient DSL.           |
 |  20 | Prefab integrates with FastMPP for interactive tools, MCP apps, and generative UIs.                                          |

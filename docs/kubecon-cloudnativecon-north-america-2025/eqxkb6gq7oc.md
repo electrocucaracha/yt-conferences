@@ -39,12 +39,12 @@ The workshop concludes by emphasizing the power of combining these open-source p
 |   1 | Workshop focuses on building an internal developer platform using the "backstack": Backstage, Argo, Crossplane, and Kyverno.                                    |
 |   2 | Presenters: Margarita Medina (Upbound, Kubernetes), Christian Hernandez (Cisco, Argo CD), Courtney Nickerson (Nermatada, Kyverno), Scott Rosenberg (Teras Sky). |
 |   3 | Workshop agenda: slides on platform engineering and project intros, hands-on guided workshop, free time for labs, wrap-up.                                      |
-|   4 | Participants instructed to fork a GitHub repo, open a 4-core Codespace (web version recommended), and set up environment.                                       |
+|   4 | Participants instructed to fork a GitHub repository, open a 4-core Codespace (web version recommended), and set up environment.                                 |
 |   5 | Backstage:                                                                                                                                                      |
 |   6 | Framework for building internal developer portals, not a product.                                                                                               |
 |   7 | Powered by a central software catalog; enables software creation, management, and exploration.                                                                  |
 |   8 | Highly customizable with 250+ official plugins and 100+ community plugins.                                                                                      |
-|   9 | New front-end system allows no-code plugin integration; switched from Webpack to RSpack for faster builds.                                                      |
+|   9 | New frontend system allows no-code plugin integration; switched from webpack to RSpack for faster builds.                                                       |
 |  10 | Argo:                                                                                                                                                           |
 |  11 | Suite of DevOps tools for Kubernetes: Argo Workflows, Argo CD, Argo Rollouts, Argo Events, Argo Helm.                                                           |
 |  12 | Argo CD is a GitOps tool for declarative, versioned, and continuously reconciled application deployment.                                                        |

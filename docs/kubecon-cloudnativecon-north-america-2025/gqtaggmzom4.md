@@ -27,7 +27,7 @@ generated:
 The Cloud Native Computing Foundation (CNCF) is celebrating its 10th birthday with a keynote speech by Jeremy, highlighting the growth of Kubernetes and the CNCF ecosystem.
 The community has seen over 200 projects join the CNCF, with hundreds of thousands of contributors, and has made significant progress in areas like AI, security, and observability.
 As the community looks to the future, it's focusing on scaling and addressing opportunities such as AI, security, and external regulations like the cybersecurity resilience act.
-The CNCF is restructuring its workgroups into initiatives and sub-projects, with a new website (contribute.cncf.io) providing resources for maintainers and contributors.
+The CNCF is restructuring its workgroups into initiatives and sub-projects, with a new site (contribute.cncf.io) providing resources for maintainers and contributors.
 
 # Main Points
 

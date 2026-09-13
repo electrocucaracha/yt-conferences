@@ -43,7 +43,7 @@ The team emphasized the need for more community contributions, particularly to a
 |   7 | Observability for Windows nodes is supported via Prometheus, Datadog, OpenTelemetry, etc.                                                          |
 |   8 | Recent work focused on kube-proxy enhancements and documentation overhaul for Windows networking.                                                  |
 |   9 | Graceful node shutdown for Windows progressed from alpha to beta; now recommends running kubelet as a Windows service with Qlogrunner for logging. |
-|  10 | Improved CI signal for Windows: Windows node e2e tests now run in Kubernetes CI, including stable coverage for Windows Server 2025.                |
+|  10 | Improved CI signal for Windows: Windows node end-to-end tests now run in Kubernetes CI, including stable coverage for Windows Server 2025.         |
 |  11 | Windows Server 2025 introduces container image portability: N-1 version images can run on newer hosts, easing upgrades.                            |
 |  12 | Roadmap includes flushing alpha/beta enhancements and supporting in-place pod resize for Windows (add CPU/memory without rescheduling).            |
 |  13 | Demo of graceful node shutdown: non-critical pods terminated before critical ones; node returns to ready state after reboot.                       |

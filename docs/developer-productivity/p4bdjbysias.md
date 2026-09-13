@@ -36,7 +36,7 @@ Despite concerns, both express hope that increased awareness, ethical movements,
 |   4 | Digital transformation is more about human behavior than technology itself.                                                                |
 |   5 | Behavioral economics studies human irrationality, referencing books like "Thinking, Fast and Slow," "Nudge," and "Predictably Irrational." |
 |   6 | Humans make about 35,000 decisions daily, often irrationally and predictably.                                                              |
-|   7 | Digital environments nudge users, influencing decisions unconsciously (e.g., Google search results, travel websites using scarcity).       |
+|   7 | Digital environments nudge users, influencing decisions unconsciously (e.g., Google search results, travel sites using scarcity).          |
 |   8 | Nudging and influence have always existed; behavioral economics has mapped over 180 cognitive biases.                                      |
 |   9 | Digital nudges can be used as tools for good or as weapons, depending on intent.                                                           |
 |  10 | People tend to believe they are rational and see reality, even when evidence shows otherwise.                                              |

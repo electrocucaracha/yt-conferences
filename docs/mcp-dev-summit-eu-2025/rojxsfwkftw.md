@@ -24,7 +24,7 @@ generated:
 
 The speaker, a developer, expresses appreciation for the note-taking and documentation features in MCP, highlighting how they assist in tracking progress and maintaining context during code development.
 They observe that the MCP ecosystem is rapidly expanding due to high energy and diverse experimentation within the community, with frequent specification updates and ongoing collaboration.
-Looking ahead, the developer anticipates that the primary focus will shift toward stability as the protocol matures over the next 6 to 12 months, especially on the client side.
+Looking ahead, the developer anticipates that the primary focus will shift toward stability as the protocol matures over the next 6 to 12 months, especially on the client-side.
 They note that downstream applications, such as ChatGPT and various open-source clients, are quickly achieving full compatibility with the MCP specification, and the speaker is enthusiastic about these developments.
 
 # Main Points
@@ -38,7 +38,7 @@ They note that downstream applications, such as ChatGPT and various open-source 
 |   5 | Community collaboration is strong and ongoing.                                                      |
 |   6 | MCP will continue to evolve as better AI methods are discovered.                                    |
 |   7 | Foresees a focus on stability in the MCP space moving forward.                                      |
-|   8 | Predicts significant changes on the client side in the next 6 to 12 months as the protocol matures. |
+|   8 | Predicts significant changes on the client-side in the next 6 to 12 months as the protocol matures. |
 |   9 | Downstream applications, such as ChatGPT, have recently added MCP support.                          |
 |  10 | Open source clients are reaching full parity with the MCP specification.                            |
 |  11 | Expresses enthusiasm for ongoing developments in the MCP ecosystem.                                 |

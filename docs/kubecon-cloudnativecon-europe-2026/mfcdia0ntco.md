@@ -26,7 +26,7 @@ generated:
 
 The video features a panel of Kubernetes SIG CLI maintainers discussing recent updates and ongoing work on tools like kubectl, kustomize, and the new QRC configuration system.
 They explain the SIG CLI’s role in managing Kubernetes CLI tooling and invite community participation in their weekly meetings.
-Key updates include bug fixes and new features in kustomize, enhancements to kubectl such as interactive delete defaults and QRC for customizing CLI behavior, and the migration of exec and port-forward commands to websockets.
+Key updates include bugfixes and new features in kustomize, enhancements to kubectl such as interactive delete defaults and QRC for customizing CLI behavior, and the migration of exec and port-forward commands to websockets.
 The team highlights recent deprecations, the addition of multiple condition support in kubectl wait, and ongoing efforts to improve usability and security, such as CRI-native copy and audit headers for usage telemetry.
 They encourage feedback and contributions, discuss challenges around backward compatibility, and address audience questions on topics like server-side apply, multiple kubeconfig support, and the future of kustomize features.
 The session closes with a lighthearted discussion on the pronunciation of "kubectl" and an open invitation for further community involvement.

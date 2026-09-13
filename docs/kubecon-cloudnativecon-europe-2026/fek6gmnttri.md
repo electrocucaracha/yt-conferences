@@ -37,7 +37,7 @@ The speaker reassures the audience that best practices, such as using security.t
 |   3 | The CRA requires devices to list all software components ("ingredients") and ensure they are safe, up-to-date, and vulnerabilities are reported and fixed. |
 |   4 | Vulnerabilities must be reported to upstream communities.                                                                                                  |
 |   5 | The CRA benefits consumers, users, and open source developers by increasing transparency and communication about software use and vulnerabilities.         |
-|   6 | Services, websites, and certain devices (automotive, medical, marine) are outside the CRA's scope.                                                         |
+|   6 | Services, sites, and certain devices (automotive, medical, marine) are outside the CRA's scope.                                                            |
 |   7 | Hobby projects are not covered unless incorporated into a product.                                                                                         |
 |   8 | Open source developers cannot control how their code is used; if included in a product, CRA applies.                                                       |
 |   9 | CRA defines roles: Developers (individuals), Stewards (foundations), Manufacturers, Integrators, Distributors (companies).                                 |

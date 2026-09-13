@@ -25,7 +25,7 @@ generated:
 
 The speakers discuss the continued relevance and challenges of running MCP (Multi-Channel Protocol) at scale in production environments, highlighting issues such as session affinity, policy enforcement, and observability gaps when integrating MCP with microservices and enterprise systems.
 They explain how Envoy Proxy, an open-source, extensible network proxy, addresses these challenges through features like core filters for MCP awareness, policy enforcement, and observability, as well as mechanisms for converting existing REST APIs to be MCP-compatible.
-The conversation emphasizes Envoy’s extensibility through WASM extensions, dynamic modules, and external processes, enabling organizations to adapt legacy systems without extensive rewrites.
+The conversation emphasizes Envoy’s extensibility through Wasm extensions, dynamic modules, and external processes, enabling organizations to adapt legacy systems without extensive rewrites.
 They also introduce the Envoy AI Gateway and MCP router, which facilitate scalable, agent-ready architectures and aggregation of multiple MCP servers.
 The speakers encourage community involvement, noting that collaboration across companies and expertise is essential for evolving network and AI infrastructure, and invite participants to join the ongoing development and discussion around Envoy and MCP integration.
 
@@ -42,7 +42,7 @@ The speakers encourage community involvement, noting that collaboration across c
 |   7 | Migration: Need to convert existing REST APIs to MCP for agent discoverability without major rewrites.                                                    |
 |   8 | Aggregation: Need to aggregate multiple MCP servers under a single URL.                                                                                   |
 |   9 | Envoy Proxy is a mature, open-source, extensible network proxy used widely (including at Google).                                                         |
-|  10 | Envoy supports extensibility via WASM extensions, dynamic modules (e.g., Rust, Go), and external processes.                                               |
+|  10 | Envoy supports extensibility via Wasm extensions, dynamic modules (e.g., Rust, Go), and external processes.                                               |
 |  11 | MCP filter in Envoy enables MCP awareness, allowing extraction of tool names and attributes for policy enforcement and observability.                     |
 |  12 | MCP2REST bridge in Envoy allows quick conversion of REST APIs to MCP-aware services.                                                                      |
 |  13 | MCP router filter enables aggregation of multiple MCP servers/endpoints.                                                                                  |

@@ -49,7 +49,7 @@ The speakers recommend starting simple, empowering teams, avoiding vendor lock-i
 |  13 | Migrated to Kubernetes, requiring organizational change and upskilling.                                                                                                                                                        |
 |  14 | Focus on building reusable components (database, message queues, secrets, storage, integration patterns).                                                                                                                      |
 |  15 | Strives to bring expertise in-house, reduce vendor lock-in, and empower teams.                                                                                                                                                 |
-|  16 | Lessons learned: avoid overcomplicating with microservices, automate developer environments, use Linux and VS Code, and script everything (preferably                                                                          |
+|  16 | Lessons learned: avoid overcomplicating with microservices, automate developer environments, use Linux and Visual Studio Code, and script everything (preferably                                                               |
 
 # Video
 

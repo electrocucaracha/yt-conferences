@@ -40,7 +40,7 @@ The talk concludes by urging ongoing attention to description quality and though
 |   5 | Chaining multiple API calls as tools leads to high failure rates; chaining is the hardest problem.                                           |
 |   6 | Tools should be designed around tasks or intents, not just as thin API wrappers.                                                             |
 |   7 | Task- or intent-oriented tools are easier for agents to select and use effectively.                                                          |
-|   8 | Organizing tools by tasks/intents aligns with how agents make to-do lists (inspired by girkin style).                                        |
+|   8 | Organizing tools by tasks/intents aligns with how agents make todo lists (inspired by girkin style).                                         |
 |   9 | Evidence from papers and benchmarks (Apple's tool sandbox, Reddus, block, square, GitHub Copilot) supports task/intention-based tool design. |
 |  10 | Description quality is the most important factor for tool selection and performance; iterating on descriptions yields a 10x improvement.     |
 |  11 | Descriptions should be concise (ideally under 600 words), start with an action verb, and clearly state the task/intent.                      |

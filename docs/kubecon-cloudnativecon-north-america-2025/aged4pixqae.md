@@ -38,7 +38,7 @@ The Q&A clarified that project involvement with tags is voluntary, and collabora
 |   3 | TWF supports CNCF projects, identifies ecosystem gaps, and provides technical expertise.                                                                                                         |
 |   4 | TAGs help projects through the CNCF maturity lifecycle: sandbox, incubation, graduation.                                                                                                         |
 |   5 | TWF scope includes containers, CI/CD, model serving, batch scheduling, and more.                                                                                                                 |
-|   6 | Out of scope: non-cloud native topics, end-user initiatives, and anything not listed in the scope.                                                                                               |
+|   6 | Out of scope: non-cloud native topics, end user initiatives, and anything not listed in the scope.                                                                                               |
 |   7 | TWF leadership is collaborative and open to new contributors.                                                                                                                                    |
 |   8 | Subprojects are long-lived groups for ongoing conversations and initiatives within or across TAGs.                                                                                               |
 |   9 | Initiatives are short-lived, time-bound efforts (e.g., white papers, standards).                                                                                                                 |

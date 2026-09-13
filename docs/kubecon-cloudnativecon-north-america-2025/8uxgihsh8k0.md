@@ -26,7 +26,7 @@ The video is a live quiz show where contestants compete to win prizes by answeri
 The host, Hanuket, introduces the game and explains the rules, while Simon, a senior product owner at Dino trace, provides context and examples.
 The contestants are asked to choose between four solutions for each category: secret management, runtime threat detection, and vulnerability scanning.
 After discussing each solution, Hanuket reveals the winner of each category, with both Cubescape and Tetragonon emerging as top choices in runtime threat detection.
-The game concludes with a final question about the cloud-native life cycle, and the host invites contestants to join them after the talk for further questions and details about the solutions used.
+The game concludes with a final question about the cloud-native lifecycle, and the host invites contestants to join them after the talk for further questions and details about the solutions used.
 
 # Main Points
 

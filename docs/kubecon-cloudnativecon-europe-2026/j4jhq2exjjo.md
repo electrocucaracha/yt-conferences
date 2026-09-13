@@ -27,7 +27,7 @@ generated:
 The speaker reflects on their long experience with CubeCon and the evolution of cloud native technologies, emphasizing the importance of connecting software development—such as eBPF and the Psyllium project—to tangible business outcomes.
 They highlight a framework that starts with understanding user needs, which translate into specific use cases, address industry challenges, and ultimately drive desired business results.
 Using Bloomberg as an example, the speaker explains how Psyllium’s host-based network policies enabled Bloomberg to enhance security and compliance in their Kubernetes clusters, supporting critical financial industry requirements and unlocking new business opportunities.
-The speaker stresses that the true goal of open source projects is not just widespread adoption, but solving real business challenges that impact the bottom line, and points to Psyllium’s website as a resource for case studies illustrating this user-to-outcome journey.
+The speaker stresses that the true goal of open source projects is not just widespread adoption, but solving real business challenges that impact the bottom line, and points to Psyllium’s site as a resource for case studies illustrating this user-to-outcome journey.
 
 # Main Points
 
@@ -52,7 +52,7 @@ The speaker stresses that the true goal of open source projects is not just wide
 |  17 | Implementing Cilium enabled Bloomberg to offer new features and unlock new business lines.                                     |
 |  18 | The process moves from user needs, to use cases, to industry challenges, to business outcomes, and finally to business impact. |
 |  19 | The goal of open source projects is to solve business challenges, not just gain downloads.                                     |
-|  20 | Cilium’s website features nearly 100 public case studies from various industries.                                              |
+|  20 | Cilium’s site features nearly 100 public case studies from various industries.                                                 |
 |  21 | Case studies highlight features, use cases, industry verticals, and business outcomes like zero trust networking.              |
 |  22 | The approach demonstrates connecting user needs to business outcomes.                                                          |
 

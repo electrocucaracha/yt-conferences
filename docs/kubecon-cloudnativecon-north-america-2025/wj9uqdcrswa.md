@@ -26,7 +26,7 @@ generated:
 
 The session focused on common pitfalls and best practices for managing etcd within Kubernetes, particularly at large scale.
 The speakers emphasized the critical role of etcd as Kubernetes’ core data store and discussed issues such as database size limits, compaction, defragmentation, upgrade challenges, and the impact of disk and network performance on cluster health.
-They highlighted the importance of monitoring key metrics—like leader changes, slow applies, slow read indexes, and heartbeat failures—using Prometheus to detect performance problems.
+They highlighted the importance of monitoring key metrics—like leader changes, slow applies, slow read indices, and heartbeat failures—using Prometheus to detect performance problems.
 The discussion also covered strategies like separating high-churn resources (e.g., events) into dedicated etcd clusters to maintain overall performance, and the necessity of adhering to recommended disk IOPS and network throughput for stability.
 Attendees were encouraged to consult the official etcd operational guide and use diagnostic tools for proactive cluster health management, while questions from the audience addressed real-world scenarios, performance tuning, and the rationale behind architectural decisions.
 

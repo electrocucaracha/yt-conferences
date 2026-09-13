@@ -48,7 +48,7 @@ Nate also addresses security considerations, such as phishing risks and the need
 |  14 | MCP server is not a proxy; it maintains its own OAuth scopes and tokens                                                                                                                       |
 |  15 | Correct pattern: server triggers URL elicitation for external authorization, user completes flow in browser, server receives necessary token, sensitive data never exposed to model or client |
 |  16 | Mechanism is generic: useful for payments, OAuth, API keys, passwords, and other sensitive data entry                                                                                         |
-|  17 | Supported in MCP since November release; VS Code, Cursor, and Cloud Code clients support it                                                                                                   |
+|  17 | Supported in MCP since November release; Visual Studio Code, Cursor, and Cloud Code clients support it                                                                                        |
 |  18 | Adoption across clients is slow; more SDK and conformance suite support needed                                                                                                                |
 |  19 | Security considerations: URLs should not expose sensitive parameters; provenance and trust of MCP ser                                                                                         |
 

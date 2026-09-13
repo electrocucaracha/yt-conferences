@@ -51,7 +51,7 @@ The tool is used by multiple companies, has been submitted to the CNCF, and can 
 |  15 | If an issue is detected, Holmes can attempt a fix or suggest a rollback PR.                                 |
 |  16 | Holmes operator executes health checks, queries data sources, analyzes logs, and interacts with GitHub.     |
 |  17 | Holmes supports human-in-the-loop remediation and can integrate with other remediation handlers.            |
-|  18 | Can trigger GitHub actions or run kubectl commands for remediation.                                         |
+|  18 | Can trigger GitHub Actions or run kubectl commands for remediation.                                         |
 |  19 | Holmes can automate various remediation tasks.                                                              |
 |  20 | Contact available at the project pavilion or Robusta booth.                                                 |
 

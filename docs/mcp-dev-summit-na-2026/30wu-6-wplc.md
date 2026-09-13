@@ -48,7 +48,7 @@ Overall, the approach streamlines procurement, reduces friction for end users, a
 |  13 | Data and confirmations are returned to the GPT app, which loads the correct UI resource and structured content.                                |
 |  14 | Backend systems vary in security (OAuth vs. API key); MCP gateways can add security and fine-grained access control.                           |
 |  15 | MCP gateways allow definition of policies to restrict tool/function invocation in specific scenarios.                                          |
-|  16 | Pattern: MCP orchestrator invokes agents, which invoke other MCP servers, using the latest agent skills standard (skills in markdown files).   |
+|  16 | Pattern: MCP orchestrator invokes agents, which invoke other MCP servers, using the latest agent skills standard (skills in Markdown files).   |
 |  17 | Approach simplifies procurement for buyers across divisions, removing need to interact with legacy systems.                                    |
 |  18 | Emphasizes real-world enterprise transformation using MCPs and agent skills orchestration.                                                     |
 

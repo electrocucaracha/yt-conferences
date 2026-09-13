@@ -21,7 +21,7 @@ generated:
 
 # Summary
 
-A Kubernetes engineer is not a fixed role but rather a person who solves real problems with technology, often touching various aspects of the tool, including contributing to upstream, using it downstream, or being an end-user.
+A Kubernetes engineer is not a fixed role but rather a person who solves real problems with technology, often touching various aspects of the tool, including contributing to upstream, using it downstream, or being an end user.
 The term encompasses individuals involved in platform engineering, and its definition depends on factors such as company size, career stage, and business goals.
 To be effective, a Kubernetes engineer must consider both technical and business perspectives, adapting to changing needs and continuously improving the tool.
 

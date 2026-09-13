@@ -35,7 +35,7 @@ He demonstrates Harbor running on ARM in his local K3S cluster and invites the c
 | --: | ----------------------------------------------------------------------------------------------------------------------- |
 |   1 | Speaker is Olen, Harvard community maintainer, CNCF ambassador, and open source technology advocate at SUSA.            |
 |   2 | Harbor is a graduated CNCF project, not just a container registry.                                                      |
-|   3 | Harbor now supports floating AI models if built in NoCI.                                                                |
+|   3 | Harbor now supports floating AI models if built-in NoCI.                                                                |
 |   4 | Harbor was incepted in 2014 at VMware, open sourced in 2016, donated to CNCF in 2018, and graduated in 2020.            |
 |   5 | Harbor is celebrating its 10 or 11-year anniversary this year.                                                          |
 |   6 | Since the last London update, there have been two new releases.                                                         |

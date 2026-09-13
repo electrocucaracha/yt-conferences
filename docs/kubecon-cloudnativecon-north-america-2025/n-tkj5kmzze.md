@@ -36,7 +36,7 @@ The presenters conclude by highlighting the evolving nature of supply chain secu
 |   1 | The event is the "Ultimate Kutan Challenge: Secret Chain Edition," focusing on supply chain security.                                                                                 |
 |   2 | Presenters: Developer advocate at OC Cloud (specialized in CI/CD, infra as code, developer experience) and Shireen from Red Hat (works on OpenShift, active in Kubernetes community). |
 |   3 | Attendees participate via a Slido quiz using a QR code.                                                                                                                               |
-|   4 | The presenters built a Golang app ("Gophers API") and aim to safely take its image to production.                                                                                     |
+|   4 | The presenters built a Go app ("Gophers API") and aim to safely take its image to production.                                                                                         |
 |   5 | Emphasis on not trusting public registry images blindly; always check for signatures and security scans.                                                                              |
 |   6 | Signature indicators: DockerHub (icons), quay.io (shield), Harbor (green check/red cross), SBOM details, vulnerability scan results.                                                  |
 |   7 | Tools to sign images: Cosign and Notation (Docker Content Trust is retiring).                                                                                                         |

@@ -40,7 +40,7 @@ He concludes by inviting feedback from users facing AI challenges, promoting edu
 |   7 | Early adopter of Rust in cloud native space; contributed to libraries like Tokio, Tower, and H2.                                                                  |
 |   8 | Operational goal: proxies should be an implementation detail, requiring minimal tuning.                                                                           |
 |   9 | Linkerd is a sustainable project funded by Buoyant, which employs all maintainers and sells an enterprise version.                                                |
-|  10 | Release process: frequent "edge" releases with latest code and bug fixes; major versions are bundled periodically.                                                |
+|  10 | Release process: frequent "edge" releases with latest code and bugfixes; major versions are bundled periodically.                                                 |
 |  11 | Recent features/changes:                                                                                                                                          |
 |  12 | Default TLS libraries updated to be post-quantum ready (moved from ring to AWS LC).                                                                               |
 |  13 | Added observability for cipher suite and key exchange in metrics.                                                                                                 |

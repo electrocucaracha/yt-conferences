@@ -24,7 +24,7 @@ generated:
 # Summary
 
 The presentation, "Navigating the Gateway API Maze," discusses the evolution from Kubernetes' Ingress API to the Gateway API, highlighting the limitations of Ingress—such as lack of portability, complexity from annotations, and shared object confusion—that led to the development of Gateway API as a next-generation, collaborative, and extensible load balancing solution.
-The speakers, Becca from Google Cloud and Christine from Cisco, explain the Gateway API's improved design, including clear role-based personas, support for both L4 and L7 traffic, and a rich ecosystem of controllers and tools to aid migration and management.
+The speakers, Becca from Google Cloud and Christine from Cisco, explain the Gateway APIs improved design, including clear role-based personas, support for both L4 and L7 traffic, and a rich ecosystem of controllers and tools to aid migration and management.
 They introduce resources like the controller matching wizard, conformance reports, and tools such as "ingress to gateway" and "gateway cuddle" to simplify adoption and visualization.
 The talk also covers the project's agile release process, experimental feature channels, and ongoing community-driven development, including extensions for AI inference and agent networking.
 In the Q&A, they clarify that Gateway API and Ingress can run in parallel, CRDs are not bundled with Kubernetes by default, and while stable releases aim to avoid breaking changes, minor updates may introduce some, urging operators to stay engaged with the community for support and feedback.

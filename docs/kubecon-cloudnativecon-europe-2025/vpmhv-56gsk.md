@@ -26,7 +26,7 @@ generated:
 
 The speaker discusses CI/CD observability with open telemetry, building on their previous work in this area.
 They introduce semantic conventions, a common language for describing telemetry attributes, which cover aspects such as pipeline stages, deployments, VCS versioning, and testing.
-The SIG aims to enable observability across the software development life cycle by standardizing these attributes and propagating context through environment variables, particularly useful in CI/CD pipelines and infrastructure code.
+The SIG aims to enable observability across the software development lifecycle by standardizing these attributes and propagating context through environment variables, particularly useful in CI/CD pipelines and infrastructure code.
 
 # Main Points
 

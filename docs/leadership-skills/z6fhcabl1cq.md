@@ -36,7 +36,7 @@ Doug emphasizes that using influence and aligning feedback with an employee’s 
 | --: | ---------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Addressing underperformance in younger direct reports requires a specific conversation approach.                                   |
 |   2 | Common issues: repeated sloppy mistakes, missing details, not following instructions, causing project delays, not asking for help. |
-|   3 | Negative impact: rework, project delays, team members picking up slack, low morale.                                                |
+|   3 | Negative impact: rework, project delays, team members picking up Slack, low morale.                                                |
 |   4 | Initial step: schedule a casual, positive, forward-looking meeting focused on the employee.                                        |
 |   5 | Ask open-ended questions about their comfort, performance, and career goals.                                                       |
 |   6 | Identify disconnect between manager’s and employee’s perception of performance.                                                    |

@@ -45,7 +45,7 @@ Throughout, Abdel emphasizes that optimizing LLMs on Kubernetes is a multi-dimen
 |  11 | Key Kubernetes advantages: automation, scalability, advanced device management, multi-cloud support.                     |
 |  12 | LLM workloads differ from web apps due to size, hardware needs, and traffic patterns.                                    |
 |  13 | Three optimization layers: model (quantization, parameters), server engine (throughput), infrastructure (accelerators).  |
-|  14 | Pre-warming, caching, and pre-loading models can improve performance.                                                    |
+|  14 | Pre-warming, caching, and preloading models can improve performance.                                                     |
 |  15 | Autoscaling is challenging due to large container/model sizes.                                                           |
 |  16 | Popular model servers: VLLM, Hugging Face TGI, Nvidia NIM, Triton, Ray Serve, Jetstream, Ollama.                         |
 |  17 | Compatibility between model, server engine, and accelerator must be checked.                                             |

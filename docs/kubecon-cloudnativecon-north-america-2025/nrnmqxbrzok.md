@@ -48,7 +48,7 @@ Despite these advancements, they caution that MCP is still maturing, with securi
 |  13 | Docker MCP toolkit allows hosting and managing MCP servers, including secret management.                                                                                |
 |  14 | MCP can automate root cause analysis by analyzing logs and traces, and trigger alerts or fixes.                                                                         |
 |  15 | Cape (Community AI Platform Engineering) is a CNCF project providing multi-agent AI systems for platform engineering.                                                   |
-|  16 | Cape integrates with tools like Backstage, VS Code, ArgoCD, PagerDuty, GitHub, and Jira via agents.                                                                     |
+|  16 | Cape integrates with tools like Backstage, Visual Studio Code, ArgoCD, PagerDuty, GitHub, and Jira via agents.                                                          |
 |  17 | Agent-to-agent (A2A) protocol complements MCP for agent communication and proactive workflows.                                                                          |
 
 # Video

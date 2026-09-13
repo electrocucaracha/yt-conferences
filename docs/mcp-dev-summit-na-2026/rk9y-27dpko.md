@@ -32,7 +32,7 @@ Pedro concluded that the main challenge is context management rather than tool c
 |   # | Main point                                                                                                                                                        |
 | --: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Majority of audience familiar with Superbase; Superbase gear available                                                                                            |
-|   2 | Presentation built as a NextJS app, not Google Slides                                                                                                             |
+|   2 | Presentation built as a Next.js app, not Google Slides                                                                                                            |
 |   3 | Speaker: Pedro, AI tooling engineer at Superbase, co-founder of Lisbon AI Week, second-time MCP Dev Summit speaker                                                |
 |   4 | MCP (Multi-agent Communication Protocol) is an integration protocol with three primitives: tools (actions), resources (context), and prompts (templates)          |
 |   5 | MCP features: OAuth, multiple transports, sampling, elicitation                                                                                                   |

@@ -24,7 +24,7 @@ generated:
 
 In this talk, Craig Jelik, VP of Engineering at Obot, emphasizes the growing threat of supply chain attacks on MCP servers, highlighting that simple tactics like name squatting and compromised dependencies can be more dangerous than novel exploits.
 He presents real-world case studies, including the Postmark MCP attack, the LiteLLM and Trivy compromise, and the Axios incident, illustrating how attackers exploit trust in open-source software and automated processes to exfiltrate sensitive data or gain remote access.
-Jelik underscores the importance of careful dependency management, reviewing package provenance, using age-based cooldowns, disabling post-install hooks, and auditing GitHub actions to mitigate risks.
+Jelik underscores the importance of careful dependency management, reviewing package provenance, using age-based cooldowns, disabling post-install hooks, and auditing GitHub Actions to mitigate risks.
 He also advocates for organizational strategies such as secure build pipelines, containerization, repackaging open-source servers, and centralizing MCP server management through gateways to improve visibility, control, and incident response.
 The talk concludes with practical recommendations and resources for developers to strengthen their security posture against evolving supply chain threats.
 
@@ -37,7 +37,7 @@ The talk concludes with practical recommendations and resources for developers t
 |   3 | Main takeaway: Be cautious and nervous when installing MCP servers locally.                                             |
 |   4 | Commonly discussed attacks (tool poisoning, rug pulls, prompt injection) are less concerning than supply chain attacks. |
 |   5 | Case Study 1: Postmark MCP                                                                                              |
-|   6 | Legitimate GitHub repo name not registered on npm.                                                                      |
+|   6 | Legitimate GitHub repository name not registered on npm.                                                                |
 |   7 | Attacker squatted the npm name, published a malicious version after 15 benign versions.                                 |
 |   8 | Malicious version BCC’d all emails, exfiltrating data.                                                                  |
 |   9 | Detected quickly by Koi security firm; impact limited.                                                                  |

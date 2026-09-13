@@ -50,7 +50,7 @@ Despite a minor issue with coin price retrieval, the demo illustrates the ease a
 |  16 | Demonstrated Postman's MCP server generator tool.                                                                                                                          |
 |  17 | Users can select API requests and download a custom MCP server.                                                                                                            |
 |  18 | Selected Coin Gecko's coin historical data, New York Times article search, and NASA astronomy picture of the day.                                                          |
-|  19 | Generated and downloaded the MCP server as a zip file.                                                                                                                     |
+|  19 | Generated and downloaded the MCP server as a ZIP file.                                                                                                                     |
 |  20 | Each selected API request appears as a tool in the server's tools directory.                                                                                               |
 |  21 | Set up environment variables for API keys.                                                                                                                                 |
 |  22 | Used Postman's MCP client to test the server and verify each tool works.                                                                                                   |

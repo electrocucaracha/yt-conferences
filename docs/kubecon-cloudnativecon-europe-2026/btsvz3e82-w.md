@@ -46,7 +46,7 @@ The session concludes with practical troubleshooting and a Q&A, emphasizing the 
 |  10 | Three main roles: driver developer (stocks inventory), admin (curates device classes/menu), application developer (requests resources via claims).                                                               |
 |  11 | Admins can audit inventory, monitor usage, and troubleshoot stuck pods more easily.                                                                                                                              |
 |  12 | Observability improved: resource claims show which pod is using what, with health/status updates.                                                                                                                |
-|  13 | Workshop includes hands-on lab: participants SSH into a Kubernetes cluster, use GitHub accounts/SSH keys, and follow tutorial steps from a provided repo.                                                        |
+|  13 | Workshop includes hands-on lab: participants SSH into a Kubernetes cluster, use GitHub accounts/SSH keys, and follow tutorial steps from a provided repository.                                                  |
 |  14 | Participants experience DRRA from three perspectives: data scientist (uses CLI to reserve/release GPUs), VLM developer (modifies code, runs workloads), Kubernetes admin (monitors and manages resource claims). |
 |  15 | Example workflow: reserve GPU with CLI, run workload, release resource; resource claims persist beyond pod lifecycle until e                                                                                     |
 

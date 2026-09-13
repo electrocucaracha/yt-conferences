@@ -45,7 +45,7 @@ The team emphasizes the importance of clear responsibilities, the right tooling,
 |  10 | On AWS, each tenant gets a separate account and EKS cluster for control plane and resource isolation                                                                     |
 |  11 | Infrastructure provisioned with Terraform; Argo CD used for continuous deployment                                                                                        |
 |  12 | Security pipeline includes code quality scanning (curcube), vulnerability scanning (Checkmarx), and secret scanning; dependencies updated with Renovate                  |
-|  13 | Argo CD adapted to comply with IT change management by triggering deployments via git tags and change tasks                                                              |
+|  13 | Argo CD adapted to comply with IT change management by triggering deployments via Git tags and change tasks                                                              |
 |  14 | Governance enforced with Kyverno for policy boundaries and compliance reporting; tenants receive feedback via internal developer portal                                  |
 |  15 | Managed platform reduced cluster delivery time from 54 days to 4 hours                                                                                                   |
 |  16 | Internal portal (Nexa, built                                                                                                                                             |

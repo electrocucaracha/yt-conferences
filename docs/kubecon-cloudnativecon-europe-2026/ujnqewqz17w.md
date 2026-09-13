@@ -33,27 +33,27 @@ The talk concluded with an invitation for new contributors of all backgrounds to
 
 # Main Points
 
-|   # | Main point                                                                                                                                   |
-| --: | -------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Ian Coldwater (they/them) is co-chair of Kubernetes SIG Security.                                                                            |
-|   2 | The talk covers updates and processes of SIG Security, including collaboration with the Security Response Committee.                         |
-|   3 | SIG Security is a horizontal SIG working across Kubernetes to improve security, with much work done in subprojects.                          |
-|   4 | SIG Security Docs works to improve Kubernetes security documentation and creates independent security docs.                                  |
-|   5 | Major recent project: Updating the OWASP Kubernetes Top 10, which had become outdated.                                                       |
-|   6 | The team gained access to the OWASP Kubernetes Top 10 repo, brainstormed new items, surveyed the community, and released an updated list.    |
-|   7 | Third Party Audit subproject manages external security audits of Kubernetes.                                                                 |
-|   8 | Previous audits: Trail of Bits (2019) and NCC Group (2022); some findings remain open.                                                       |
-|   9 | Recent audit (2023) by Shielder focused on non-core Kubernetes components; findings are being addressed.                                     |
-|  10 | Security Response Committee (SRC) handles confidential security issues, incident response, and vulnerability disclosure.                     |
-|  11 | Vulnerabilities are defined as violations of reasonable security expectations or explicit promises.                                          |
-|  12 | Vulnerabilities are reported via HackerOne or `security@kubernetes.io`, triaged privately, fixed, and then disclosed publicly.               |
-|  13 | Disclosures include GitHub issues, mailing lists, Slack, forums, and the CVE database.                                                       |
-|  14 | CVSS scoring is used for vulnerability severity, requiring careful context-based judgment.                                                   |
-|  15 | SIG Security Tooling maintains code and tools to support security, including the official CVE feed and Snyk dependency scanning.             |
-|  16 | Recent improvements: Structured CVE data using OSV schema, new CLI tool for disclosures, and plans for a "won't fix" label for certain CVEs. |
-|  17 | Shoutouts to new contributors and ongoing work to improve CVE feed accuracy.                                                                 |
-|  18 | SIG Security encourages new contributors of all backgrounds; meetings are open and inclusive.                                                |
-|  19 | Contact via mailing list, Slack (#sig-security), or at conference booth.                                                                     |
+|   # | Main point                                                                                                                                            |
+| --: | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Ian Coldwater (they/them) is co-chair of Kubernetes SIG Security.                                                                                     |
+|   2 | The talk covers updates and processes of SIG Security, including collaboration with the Security Response Committee.                                  |
+|   3 | SIG Security is a horizontal SIG working across Kubernetes to improve security, with much work done in subprojects.                                   |
+|   4 | SIG Security Docs works to improve Kubernetes security documentation and creates independent security docs.                                           |
+|   5 | Major recent project: Updating the OWASP Kubernetes Top 10, which had become outdated.                                                                |
+|   6 | The team gained access to the OWASP Kubernetes Top 10 repository, brainstormed new items, surveyed the community, and released an updated list.       |
+|   7 | Third Party Audit subproject manages external security audits of Kubernetes.                                                                          |
+|   8 | Previous audits: Trail of Bits (2019) and NCC Group (2022); some findings remain open.                                                                |
+|   9 | Recent audit (2023) by Shielder focused on non-core Kubernetes components; findings are being addressed.                                              |
+|  10 | Security Response Committee (SRC) handles confidential security issues, incident response, and vulnerability disclosure.                              |
+|  11 | Vulnerabilities are defined as violations of reasonable security expectations or explicit promises.                                                   |
+|  12 | Vulnerabilities are reported via HackerOne or `security@kubernetes.io`, triaged privately, fixed, and then disclosed publicly.                        |
+|  13 | Disclosures include GitHub issues, mailing lists, Slack, forums, and the CVE database.                                                                |
+|  14 | CVSS scoring is used for vulnerability severity, requiring careful context-based judgment.                                                            |
+|  15 | SIG Security Tooling maintains code and tools to support security, including the official CVE feed and Snyk dependency scanning.                      |
+|  16 | Recent improvements: Structured CVE data using OSV schema, new command-line tool for disclosures, and plans for a "won't fix" label for certain CVEs. |
+|  17 | Shoutouts to new contributors and ongoing work to improve CVE feed accuracy.                                                                          |
+|  18 | SIG Security encourages new contributors of all backgrounds; meetings are open and inclusive.                                                         |
+|  19 | Contact via mailing list, Slack (#sig-security), or at conference booth.                                                                              |
 
 # Video
 

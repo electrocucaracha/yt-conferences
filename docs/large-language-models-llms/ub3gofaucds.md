@@ -30,32 +30,32 @@ The instructors detail the self-attention mechanism, the structure of the transf
 
 # Main Points
 
-|   # | Main point                                                                                                                                                   |
-| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   1 | Course: CME 295 Transformers and Large Language Models, taught by twin brothers Afin and Shervin.                                                            |
-|   2 | Both instructors have backgrounds from Salbar (France), MIT, Stanford (ICME), Uber, Google, and Netflix, specializing in NLP and LLMs.                       |
-|   3 | The class evolved from annual workshops (2021-2024) to a Stanford course, now in its second instance.                                                        |
-|   4 | Course goals:                                                                                                                                                |
-|   5 | Learn the underlying mechanisms of transformers and LLMs.                                                                                                    |
-|   6 | Understand LLM training and applications.                                                                                                                    |
-|   7 | Suitable for those interested in AI/LLMs for research, career, personal projects, or domain applications.                                                    |
-|   8 | Prerequisites: Basic ML knowledge (model training, neural networks), linear algebra (matrix multiplication).                                                 |
-|   9 | Logistics:                                                                                                                                                   |
-|  10 | Fridays, 3:30–5:20pm; 2 units; letter or credit/no-credit.                                                                                                   |
-|  11 | Lectures recorded and posted online.                                                                                                                         |
-|  12 | Grades: 50% midterm (Oct 24), 50% final (week of Dec 8); no homework.                                                                                        |
-|  13 | Slides, recordings, syllabus, and textbook ("Super Study Guide Transformer LLMs") available on the website; VIP cheat sheet on GitHub in multiple languages. |
-|  14 | Announcements via Canvas; questions via Canvas ED or email.                                                                                                  |
-|  15 | Exams focus on concepts, not coding.                                                                                                                         |
-|  16 | NLP tasks categorized as:                                                                                                                                    |
-|  17 | Classification (e.g., sentiment analysis, intent detection, language detection, topic modeling).                                                             |
-|  18 | Multi-classification (e.g., named entity recognition, part-of-speech tagging, parsing).                                                                      |
-|  19 | Generation (e.g., machine translation, question answering, summarization, code/poem generation).                                                             |
-|  20 | Evaluation metrics: accuracy, precision, recall, F1 score, BLEU, ROUGE, perplexity.                                                                          |
-|  21 | Tokenization methods: word-level, subword-level, character-level; trade-offs in OOV risk, sequence length, and computational cost.                           |
-|  22 | Word representations: one-hot encoding (orthogonal, not ideal), learned embeddings (e.g., word2vec: CBOW, skip-gram).                                        |
-|  23 | Embeddings learned via proxy tasks (e.g., predicting next word); size of embeddings is a trade-off.                                                          |
-|  24 | RNNs and LSTMs capture sequence/order but suffer from vanishing gradients and slow computation.                                                              |
+|   # | Main point                                                                                                                                                |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Course: CME 295 Transformers and Large Language Models, taught by twin brothers Afin and Shervin.                                                         |
+|   2 | Both instructors have backgrounds from Salbar (France), MIT, Stanford (ICME), Uber, Google, and Netflix, specializing in NLP and LLMs.                    |
+|   3 | The class evolved from annual workshops (2021-2024) to a Stanford course, now in its second instance.                                                     |
+|   4 | Course goals:                                                                                                                                             |
+|   5 | Learn the underlying mechanisms of transformers and LLMs.                                                                                                 |
+|   6 | Understand LLM training and applications.                                                                                                                 |
+|   7 | Suitable for those interested in AI/LLMs for research, career, personal projects, or domain applications.                                                 |
+|   8 | Prerequisites: Basic ML knowledge (model training, neural networks), linear algebra (matrix multiplication).                                              |
+|   9 | Logistics:                                                                                                                                                |
+|  10 | Fridays, 3:30–5:20pm; 2 units; letter or credit/no-credit.                                                                                                |
+|  11 | Lectures recorded and posted online.                                                                                                                      |
+|  12 | Grades: 50% midterm (Oct 24), 50% final (week of Dec 8); no homework.                                                                                     |
+|  13 | Slides, recordings, syllabus, and textbook ("Super Study Guide Transformer LLMs") available on the site; VIP cheat sheet on GitHub in multiple languages. |
+|  14 | Announcements via Canvas; questions via Canvas ED or email.                                                                                               |
+|  15 | Exams focus on concepts, not coding.                                                                                                                      |
+|  16 | NLP tasks categorized as:                                                                                                                                 |
+|  17 | Classification (e.g., sentiment analysis, intent detection, language detection, topic modeling).                                                          |
+|  18 | Multi-classification (e.g., named entity recognition, part-of-speech tagging, parsing).                                                                   |
+|  19 | Generation (e.g., machine translation, question answering, summarization, code/poem generation).                                                          |
+|  20 | Evaluation metrics: accuracy, precision, recall, F1 score, BLEU, ROUGE, perplexity.                                                                       |
+|  21 | Tokenization methods: word-level, subword-level, character-level; trade-offs in OOV risk, sequence length, and computational cost.                        |
+|  22 | Word representations: one-hot encoding (orthogonal, not ideal), learned embeddings (e.g., word2vec: CBOW, skip-gram).                                     |
+|  23 | Embeddings learned via proxy tasks (e.g., predicting next word); size of embeddings is a trade-off.                                                       |
+|  24 | RNNs and LSTMs capture sequence/order but suffer from vanishing gradients and slow computation.                                                           |
 
 # Video
 

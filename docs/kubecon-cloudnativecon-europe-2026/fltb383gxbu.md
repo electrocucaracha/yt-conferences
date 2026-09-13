@@ -40,9 +40,9 @@ Yang demonstrates the practical benefits of these changes and emphasizes the imp
 |   3 | Kubernetes Enhancement Proposals (KEPs) help coordinate non-trivial project changes.                                                                                                           |
 |   4 | The five-minute CrashLoopBackOff delay was introduced in 2015 without deep benchmarking, simply to throttle misbehaving containers.                                                            |
 |   5 | Delay doubles up to 300 seconds; container must run cleanly for 10 minutes to reset.                                                                                                           |
-|   6 | Issue 57291 (opened in 2017) requested making the behavior adjustable; it is the third most reacted-to issue in the core repo.                                                                 |
+|   6 | Issue 57291 (opened in 2017) requested making the behavior adjustable; it is the third most reacted-to issue in the core repository.                                                           |
 |   7 | Users requested: (1) Success exit (no penalty for exit code 0), (2) Early recovery (faster restart after transient errors), (3) Manual reset for stuck pods.                                   |
-|   8 | Workarounds included bash wrappers, custom reaper operators, and patching Kubernetes to change the hardcoded delay.                                                                            |
+|   8 | Workarounds included Bash wrappers, custom reaper operators, and patching Kubernetes to change the hardcoded delay.                                                                            |
 |   9 | Three modern user stories where the five-minute delay fails: task isolation (e.g., queue workers), highly coupled workloads (e.g., AI/ML jobs), and critical sidecars (e.g., network proxies). |
 |  10 | KEP 4603 (2024) aimed to make CrashLoopBackOff configurable, balancing developer experience and node stability.                                                                                |
 |  11 | Alternatives like instant restarts for exit code 0 and a new "rapid" restart policy were rejected due to risks and compatibility issues.                                                       |

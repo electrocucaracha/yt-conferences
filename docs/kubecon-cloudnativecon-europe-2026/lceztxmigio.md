@@ -37,9 +37,9 @@ He concludes by answering questions about hardware needs and clarifying aspects 
 |   2 | New technologies now enable easier deployment of 3GPP-standardized networks.                                                                  |
 |   3 | Goal: Simplify private cellular network deployment, making it accessible via natural language.                                                |
 |   4 | Luis Arisa from Vtor, with experience in telco, AI, cloud native, and open infra communities, presents the solution.                          |
-|   5 | First 5G private solution network built in 2019 using Kubernetes.                                                                             |
+|   5 | First 5G private solution network built-in 2019 using Kubernetes.                                                                             |
 |   6 | Industry challenges: excessive documentation, high memory requirements, costly infrastructure, vendor lock-in, and need for multiple experts. |
-|   7 | Diagnosis: Telecom industry is over-engineered, over-budget, and inefficient.                                                                 |
+|   7 | Diagnosis: Telecom industry is overengineered, over-budget, and inefficient.                                                                  |
 |   8 | Prescription: Use cellular CRDs and a single YAML file to deploy private cellular networks.                                                   |
 |   9 | Developed a 3GPP telco expert to interpret specifications and assist developers.                                                              |
 |  10 | Utilizes open-source software, GitHub, Flux, AI, and MCP to automate deployment.                                                              |
@@ -54,7 +54,7 @@ He concludes by answering questions about hardware needs and clarifying aspects 
 |  19 | CLI enables network slicing and configuration via natural language.                                                                           |
 |  20 | Anyone, regardless of expertise, can deploy a private cellular network using the solution.                                                    |
 |  21 | Hardware requirements: minimum 8GB RAM, 8 vCPUs for basic deployment; 16GB RAM and GPU for advanced features.                                 |
-|  22 | Solution tested with real smartphones and supports easy recon                                                                                 |
+|  22 | Solution tested with real mobile phones and supports easy recon                                                                               |
 
 # Video
 

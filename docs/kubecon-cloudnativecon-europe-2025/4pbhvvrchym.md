@@ -26,7 +26,7 @@ generated:
 Kevin Juan, a professional working on multiple projects at CNCF, will discuss his thoughts and experience with multicluster AI infrastructure, particularly day2 optimization.
 He explains that multiple companies have regional business divisions resulting in physically divided distributed clusters, and users may need to extend their workload to public clouds for rapid resource access.
 The speaker has worked on the Kamada project, which provides a federated layer for managing clusters, incluster scheduling, and workload management.
-The goal is to balance control plan footprint with efficiency and throughput while addressing challenges such as scheduling tradeoffs, cluster failover, and queuing workloads.
+The goal is to balance control plan footprint with efficiency and throughput while addressing challenges such as scheduling trade-offs, cluster failover, and queuing workloads.
 
 # Main Points
 

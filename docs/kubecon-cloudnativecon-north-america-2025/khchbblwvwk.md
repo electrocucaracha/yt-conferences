@@ -47,7 +47,7 @@ He also shared technical lessons learned, such as handling protocol defaults and
 |  12 | Achieved unified architecture across all providers, simplifying experience for application teams.                                                                                  |
 |  13 | Migration involved scaling down HAProxy nodes, converting them to Kubernetes nodes, and running Envoy on them.                                                                     |
 |  14 | Chose Envoy Gateway over CNI-based gateways for more granular configuration options.                                                                                               |
-|  15 | Started implementing WASM filters for edge traffic shedding; exploring advanced load balancing algorithms like ORCA.                                                               |
+|  15 | Started implementing Wasm filters for edge traffic shedding; exploring advanced load balancing algorithms like ORCA.                                                               |
 |  16 | Envoy proxy sizing: largest nodes have 192 cores, handling ~30k connections/sec, with average response time under 5ms.                                                             |
 |  17 | Overprovisi                                                                                                                                                                        |
 

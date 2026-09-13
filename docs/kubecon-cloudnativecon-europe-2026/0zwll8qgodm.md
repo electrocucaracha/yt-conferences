@@ -48,7 +48,7 @@ Finally, they invited feedback and questions, noting ongoing discussions around 
 |  13 | Internal telemetry improvements: component attributes tagging, universal pipeline metrics, basic error logs, and metric views for customization.                                                                                               |
 |  14 | Experimental "entities" feature introduced to better represent relationships between resources; available in Kubernetes cluster receiver.                                                                                                      |
 |  15 | Profiling support (profiles signal) added in alpha; prof receiver can report collector’s own profiles.                                                                                                                                         |
-|  16 | Contrib repo has many components; efforts underway to raise the bar for new additions an                                                                                                                                                       |
+|  16 | Contrib repository has many components; efforts underway to raise the bar for new additions an                                                                                                                                                 |
 
 # Video
 

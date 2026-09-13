@@ -38,7 +38,7 @@ The team also highlights the value of open experimentation, feedback loops throu
 |   3 | Integration of MCP built on existing foundations.                                                                                                           |
 |   4 | Encourage starting simple and focusing on clear goals.                                                                                                      |
 |   5 | Emphasize importance of fundamental, foundational work.                                                                                                     |
-|   6 | Nordstrom had pre-existing engineering standards, sample apps, deployment pipelines, and composable build systems before MCP.                               |
+|   6 | Nordstrom had pre-existing engineering standards, sample apps, deployment pipelines, and composable build tools before MCP.                                 |
 |   7 | Organizations that focus on strong foundations absorb new technologies better.                                                                              |
 |   8 | Community groups and strong documentation are key components.                                                                                               |
 |   9 | Early MCP deployments used existing container platforms and connected to internal tools.                                                                    |

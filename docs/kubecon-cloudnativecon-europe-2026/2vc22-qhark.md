@@ -24,7 +24,7 @@ generated:
 
 # Summary
 
-Matt Bilman, CEO and co-founder of Netifi, introduces the company as a front-end web deployment cloud platform supporting over 12 million developers and facilitating the creation of around 3 million sites monthly.
+Matt Bilman, CEO and co-founder of Netifi, introduces the company as a frontend web deployment cloud platform supporting over 12 million developers and facilitating the creation of around 3 million sites monthly.
 Since its inception over a decade ago, Netifi has focused on providing the fastest path from code to URL and an optimal developer experience, becoming an early adopter of cloud-native technologies like Kubernetes.
 Bilman highlights a significant shift in the industry from prioritizing developer experience to focusing on agent experience (AX), as AI agents increasingly become users of infrastructure and developer tools.
 He explains that this evolution is expanding the user base from traditional developers to billions of potential users, such as those proficient with spreadsheets, and challenges teams to rethink how they design products and documentation for agent interaction.
@@ -34,7 +34,7 @@ Netifi is actively developing solutions tailored for agents and invites collabor
 
 |   # | Main point                                                                                                                                       |
 | --: | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   1 | Matt Bilman is CEO and co-founder of Netifi, a front-end web deployment cloud platform.                                                          |
+|   1 | Matt Bilman is CEO and co-founder of Netifi, a frontend web deployment cloud platform.                                                           |
 |   2 | Netifi supports over 12 million developers and 3 million site creations monthly.                                                                 |
 |   3 | The company was launched over a decade ago to provide the fastest path from code to URL and the best developer experience.                       |
 |   4 | Netifi has been an early adopter of the cloud native ecosystem, using Kubernetes since 2017.                                                     |

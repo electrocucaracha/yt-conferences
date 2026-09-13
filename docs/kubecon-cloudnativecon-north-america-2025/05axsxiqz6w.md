@@ -50,7 +50,7 @@ The talk concludes by reinforcing the need for clear APIs, discoverable componen
 |  14 | Platform as a product: clear ownership, versioning, discoverability, and lifecycle management.                                                         |
 |  15 | Benefits of composable platforms: faster time to market, resilience, cost efficiency, scalability.                                                     |
 |  16 | Metrics examples: time to deploy, policy compliance, mean time to upgrade, mean time to add services.                                                  |
-|  17 | Anti-pattern: DevOps tool dump leads to fragmented, unmanageable platforms.                                                                            |
+|  17 | Antipattern: DevOps tool dump leads to fragmented, unmanageable platforms.                                                                             |
 |  18 | Aim for a small set of reliable, organization-specific, composable primitives.                                                                         |
 |  19 | Governance as code is preferred over manual, document-based governance.                                                                                |
 |  20 | Engage security/infrastructure teams early for compliance and automation.                                                                              |

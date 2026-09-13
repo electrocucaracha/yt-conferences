@@ -53,7 +53,7 @@ Mark encourages viewers to explore case studies, participate in planning, and co
 |  17 | Current Deer release is 1.16 (September), adding multi-location workflow support, improved workflow performance, HTTP streaming, Identity Federation, and extended Conversation API tooling. |
 |  18 | Next release 1.17 is scheduled for January, focusing on workflow versioning, better management tooling, and improved workflow tracing.                                                       |
 |  19 | Feedback on planning can be given via Deer issue tracker.                                                                                                                                    |
-|  20 | 11 Deer case studies are published on the CNCF website.                                                                                                                                      |
+|  20 | 11 Deer case studies are published on the CNCF site.                                                                                                                                         |
 |  21 | Project team members will be available at the project pavilion.                                                                                                                              |
 |  22 | QR code shared for accessing slide deck, links, and connecting with Mark.                                                                                                                    |
 

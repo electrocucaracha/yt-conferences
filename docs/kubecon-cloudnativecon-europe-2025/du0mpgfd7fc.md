@@ -24,10 +24,10 @@ generated:
 
 # Summary
 
-The video transcript discusses the concept of Web Assembly (WASM) and its potential to enable more efficient and portable application development.
-The speaker, David Justice, is joined by Terrence, who explains that they are working on building WASM components using the Cloud Native Build Packs (CNBP) project.
+The video transcript discusses the concept of Web Assembly (Wasm) and its potential to enable more efficient and portable application development.
+The speaker, David Justice, is joined by Terrence, who explains that they are working on building Wasm components using the Cloud Native Build Packs (CNBP) project.
 They demonstrate how to create a simple web assembly component using JavaScript and Go, and showcase the benefits of using CNBP, including standardized build processes, reduced binary size, and improved productivity.
-The speaker also highlights the need for community support and collaboration to expand WASM capabilities and library support across multiple languages.
+The speaker also highlights the need for community support and collaboration to expand Wasm capabilities and library support across multiple languages.
 
 # Main Points
 

@@ -36,7 +36,7 @@ The SDK remains open to extension, supports pluggable JSON parsing, and aims to 
 |   2 | Java is widely adopted in enterprises, with 30+ years in production and ~30% of engineers using it.                           |
 |   3 | 90% of Fortune 500 companies use Java; it's favored for integration and a broad ecosystem.                                    |
 |   4 | Java's evolution focuses on AI integration and GPU performance.                                                               |
-|   5 | Java SDK for MCP shows best performance in latency and throughput, with some memory tradeoff.                                 |
+|   5 | Java SDK for MCP shows best performance in latency and throughput, with some memory trade-off.                                |
 |   6 | JVM provides static typing, JIT compilation, and advanced garbage collection.                                                 |
 |   7 | Java SDK for MCP was open-sourced soon after MCP's announcement; team of three.                                               |
 |   8 | SDK design aimed for quick start, experimentation, and production readiness.                                                  |

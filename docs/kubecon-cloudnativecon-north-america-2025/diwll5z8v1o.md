@@ -33,7 +33,7 @@ The system is implemented as a Rust core with Go integration, supports CNCF obse
 
 |   # | Main point                                                                                         |
 | --: | -------------------------------------------------------------------------------------------------- |
-|   1 | QR codes for GitHub repo, documentation, and YouTube channel provided                              |
+|   1 | QR codes for GitHub repository, documentation, and YouTube channel provided                        |
 |   2 | Encouragement to contribute, open issues, and star the GitHub project                              |
 |   3 | Project focuses on intelligent routing within Kubernetes for large language model inference        |
 |   4 | Open sourced two months ago; received significant attention                                        |

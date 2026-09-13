@@ -48,7 +48,7 @@ Attendees asked questions about advanced CSI driver use cases, storage class rec
 |  13 | GitRepo entry plugin disabled by default; removal planned for 1.39.                                                                       |
 |  14 | Kubernetes 1.34:                                                                                                                          |
 |  15 | Volume expansion failures can now be retried by reducing PVC size.                                                                        |
-|  16 | Improved PVC resizing status reporting and bug fixes.                                                                                     |
+|  16 | Improved PVC resizing status reporting and bugfixes.                                                                                      |
 |  17 | Volume Attribute Class (beta) allows changing volume attributes post-provisioning.                                                        |
 |  18 | Mutable Volume Attach Limits (beta) enables dynamic attach limit reporting.                                                               |
 |  19 | Volume Group Snapshot (beta2) supports consistent snapshots across multiple volumes.                                                      |

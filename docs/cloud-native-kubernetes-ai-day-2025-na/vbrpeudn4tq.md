@@ -51,7 +51,7 @@ Looking ahead, the team aims to provide a unified inference platform for both pr
 |  16 | Added RMD integration in 0.16 release for intelligent inference scheduling, prefix caching, and disaggregated serving.              |
 |  17 | Supports single-node, multi-node, and disaggregated workloads with various parallelism options.                                     |
 |  18 | Roadmap includes unified inference fabric, maturing ARM inference service, standard APIs, and improved out-of-the-box performance.  |
-|  19 | Active community with regular meetings, GitHub repo, and Slack channels for users and c                                             |
+|  19 | Active community with regular meetings, GitHub repository, and Slack channels for users and c                                       |
 
 # Video
 

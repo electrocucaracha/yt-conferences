@@ -28,7 +28,7 @@ Surya, an engineer at Red Hat and maintainer of the OVN Kubernetes project, intr
 He clarifies that OVN Kubernetes is distinct from similarly named projects and is built on OpenVSwitch (OVS) and OVN, both Linux Foundation projects, to abstract and manage complex networking topologies within Kubernetes.
 The project, founded in 2016 and recently added to the CNCF as a sandbox project, translates Kubernetes events into OVN logical constructs, enabling features such as port-to-port networking, network policies, egress and bandwidth controls, hardware offload, and user-defined networks for multi-tenancy and BGP route advertisement.
 OVN Kubernetes also collaborates with the KubeVirt community to support VM networking use cases, including persistent static IPs and consistent egress IPs.
-Looking ahead, the project aims to add support for EVPN to extend network isolation to provider fabrics, further bridging traditional and Kubernetes networking, and invites contributors and adopters to join via their website, Slack channel, or at their CubeCon kiosk.
+Looking ahead, the project aims to add support for EVPN to extend network isolation to provider fabrics, further bridging traditional and Kubernetes networking, and invites contributors and adopters to join via their site, Slack channel, or at their CubeCon kiosk.
 
 # Main Points
 
@@ -50,7 +50,7 @@ Looking ahead, the project aims to add support for EVPN to extend network isolat
 |  14 | Supports both Geneva encapsulation (overlay) and BGP (no overlay) networking modes.                                                                                          |
 |  15 | Adding support for EVPN to extend user-defined networks to provider network fabrics for greater isolation.                                                                   |
 |  16 | Aims to bridge data center, traditional, and enterprise networking with Kubernetes networking.                                                                               |
-|  17 | Community involvement: website QR code, CNCF Slack channel, alternate Monday community meetings, kiosk 15A at CubeCon.                                                       |
+|  17 | Community involvement: site QR code, CNCF Slack channel, alternate Monday community meetings, kiosk 15A at CubeCon.                                                          |
 
 # Video
 

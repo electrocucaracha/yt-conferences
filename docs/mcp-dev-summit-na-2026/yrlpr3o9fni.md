@@ -51,7 +51,7 @@ SIMD is now the recommended method in the MCP specification, with DCR still supp
 |  18 | Only accept HTTP 200 responses for metadata.                                                                                   |
 |  19 | Restrict metadata file size.                                                                                                   |
 |  20 | Ensure redirect URIs match client ID origins.                                                                                  |
-|  21 | Major clients (Cloud.AI, Cloud Code, VS Code) support SIMD; work ongoing with others.                                          |
+|  21 | Major clients (Cloud.AI, Cloud Code, Visual Studio Code) support SIMD; work ongoing with others.                               |
 |  22 | Authorization servers can reason over and restrict trusted domains and URIs.                                                   |
 |  23 | Additional proposals in progress: Demonstrated Proof of Possession (DEOP), workload identity federation, and cross-app access. |
 |  24 | Developers are encouraged to provide feedback; new spec update expected in June.                                               |

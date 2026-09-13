@@ -27,7 +27,7 @@ Haralamus, also known as Bobby, introduces Uran C, a CNCF sandbox project design
 Uran C is a CRI-compatible runtime that integrates seamlessly with the container ecosystem and focuses on single-application workloads using unikernels or single-application kernels, packaging applications alongside their own kernel within a secure sandbox.
 In Kubernetes deployments, Uran C treats sidecar containers as trusted and user containers as untrusted, isolating the latter in either software-based or VM-based sandboxes without needing an agent inside the sandbox.
 Performance evaluations show Uran C achieves significantly lower overhead and higher pod density compared to other sandbox runtimes, making it suitable for fast, isolated workloads in microservices, serverless, AI sandboxing, resource-constrained environments, and CI/CD pipelines, with support for BSD workloads as well.
-Bobby invites interested users to connect at KubeCon, join community meetings, and find more information on the project's website and GitHub.
+Bobby invites interested users to connect at KubeCon, join community meetings, and find more information on the project's site and GitHub.
 
 # Main Points
 
@@ -48,7 +48,7 @@ Bobby invites interested users to connect at KubeCon, join community meetings, a
 |  13 | Supports BSD workloads.                                                                                                                         |
 |  14 | Uran C team available at KubeCon, project pavilion Wednesday 10-1:30, kiosk 24b.                                                                |
 |  15 | Community meetings every last Wednesday of the month (postponed during KubeCon).                                                                |
-|  16 | More information available on the website, GitHub repository, CNCF Slack workspace, and channel.                                                |
+|  16 | More information available on the site, GitHub repository, CNCF Slack workspace, and channel.                                                   |
 
 # Video
 

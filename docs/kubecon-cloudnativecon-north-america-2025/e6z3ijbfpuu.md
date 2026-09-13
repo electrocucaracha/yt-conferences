@@ -53,7 +53,7 @@ He concludes by inviting the audience to connect with him and try out the tool.
 |  17 | Maintainers use this information to monitor the impact of pull requests on dependencies.                              |
 |  18 | Arsh's software was used by others, leading to a "full circle" moment and a newfound respect for DSA.                 |
 |  19 | The tool includes a command to visualize all project dependencies, producing a complex graph for Kubernetes.          |
-|  20 | Arsh invites attendees to connect via his website or visit booth 1560 for more information.                           |
+|  20 | Arsh invites attendees to connect via his site or visit booth 1560 for more information.                              |
 
 # Video
 

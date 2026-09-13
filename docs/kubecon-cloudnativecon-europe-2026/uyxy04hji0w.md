@@ -50,7 +50,7 @@ The speakers also emphasize the importance of open governance, industry-academic
 |  13 | Case studies:                                                                                                                                                    |
 |  14 | Satellite edge computing: satellites as edge nodes process data locally, only results sent to ground stations.                                                   |
 |  15 | Expressway toll system in China: manages 100,000+ heterogeneous edge nodes, enables easy firmware/app upgrades, and video surveillance management.               |
-|  16 | New energy vehicles: each car as an edge device, AI models predict battery life cycle, data processed at edge and cloud for continuous model improvement.        |
+|  16 | New energy vehicles: each car as an edge device, AI models predict battery lifecycle, data processed at edge and cloud for continuous model improvement.         |
 |  17 | Smart retail: edge servers in stores process customer interactions, cloud broadcasts targeted video streams.                                                     |
 |  18 | Collaborative robots: natural language commands processed in cloud, edge devices control robot groups.                                                           |
 |  19 | Community building:                                                                                                                                              |

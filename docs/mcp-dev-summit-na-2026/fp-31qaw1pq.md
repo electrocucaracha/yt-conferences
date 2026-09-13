@@ -44,7 +44,7 @@ The presentation concludes with a live demo showing how AI can interact with MCP
 |   8 | MCP allows sharing of complex workflows and data with AI and other MCP clients, both cloud and on-premise.                                                  |
 |   9 | The best data for AI is "all the data," including hard-to-access legacy and spatial data.                                                                   |
 |  10 | MCP is used for geospatial analysis, BIM validation, point clouds, digital twins, AR/VR, and more.                                                          |
-|  11 | Workflows are built in a no-code environment, published to MCP, and accessible by any MCP client or AI.                                                     |
+|  11 | Workflows are built-in a no-code environment, published to MCP, and accessible by any MCP client or AI.                                                     |
 |  12 | Documentation is crucial for MCP tools, as AI uses it to decide which tool to call.                                                                         |
 |  13 | Demo: Claude AI interacts with MCP tools (e.g., neighborhood profile, economic profile) to answer questions about Vancouver neighborhoods.                  |
 |  14 | Claude selects appropriate MCP tools based on descriptions and parameters, without explicit instructions.                                                   |

@@ -48,7 +48,7 @@ Audience questions addressed efficiency, data sharing between model and app, str
 |  12 | Interactions can be managed via a command queue using the view UUID.                                                          |
 |  13 | Upcoming spec will allow view-local tools for direct model-to-view communication.                                             |
 |  14 | Apps can update the model context with text/images to keep the model aware of the app state.                                  |
-|  15 | State persistence is planned for the spec; currently, use server-side storage or local storage.                               |
+|  15 | State persistence is planned for the spec; currently, use server-side storage or localStorage.                                |
 |  16 | Universal servers can detect client capabilities and enable/disable app features accordingly.                                 |
 |  17 | Apps should blend into host UI, support light/dark mode, avoid nested scrollbars, and use CSS variables.                      |
 |  18 | Streaming partial tool inputs reduces latency; apps can process and display data as it streams in.                            |

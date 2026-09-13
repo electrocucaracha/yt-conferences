@@ -39,7 +39,7 @@ The session concludes with a discussion on scaling architectures using MCP gatew
 |   4 | Tools are functions/APIs agents call for deterministic tasks; MCP (Model Context Protocol) standardizes agent-tool communication.                             |
 |   5 | Multi-agent systems enable specialization, efficiency, modularity, scalability, observability, and improved security/auditing.                                |
 |   6 | Zero trust security model: no inherent trust, every access verified, least privilege, per-request access, continuous evaluation.                              |
-|   7 | Security anti-patterns: passing user API keys to agents/tools loses context; master keys break zero trust.                                                    |
+|   7 | Security antipatterns: passing user API keys to agents/tools loses context; master keys break zero trust.                                                     |
 |   8 | OAuth recommended for authorization; token exchange preserves context and separates identities between user, agent, and tool.                                 |
 |   9 | Workload identity (e.g., Spiffy/Spire) replaces long-lived secrets with attested workload identities.                                                         |
 |  10 | Legacy tools using API keys can be integrated via secure credential stores (e.g., Vault).                                                                     |

@@ -16,8 +16,8 @@ Follow the [Semantic Line Breaks specification](https://sembr.org).
 - Preserve the rendered meaning of the document.
 - Do not insert hard-break syntax such as trailing spaces or `<br>` elements.
 - Keep a hyphenated word on one line.
-- Put a blank line before headings, lists, tables, and fenced code blocks.
-- Preserve intentional blank lines that separate logical sections.
+- Put a empty line before headings, lists, tables, and fenced code blocks.
+- Preserve intentional empty lines that separate logical sections.
 
 ## Structured Markdown
 

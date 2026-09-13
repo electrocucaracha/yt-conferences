@@ -51,7 +51,7 @@ The session concludes by inviting feedback and contributions to the Micros commu
 |  16 | Mock templates allow dynamic generation of payloads (e.g., random order IDs)                                              |
 |  17 | Micros enables dynamic mocks to be generated and consumed in real time within Kubernetes                                  |
 |  18 | Micros facilitates spec-driven development and simplifies testing of event-driven APIs in cloud-native environments       |
-|  19 | Community is encouraged to contribute, provide feedback, and explore the Micros GitHub repo                               |
+|  19 | Community is encouraged to contribute, provide feedback, and explore the Micros GitHub repository                         |
 
 # Video
 

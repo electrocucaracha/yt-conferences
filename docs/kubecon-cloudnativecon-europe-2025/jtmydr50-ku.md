@@ -27,15 +27,15 @@ They emphasize the importance of open-source solutions and collaboration among c
 
 # Main Points
 
-|   # | Main point                                                                                                                                                                   |
-| --: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Cloud-native storage is important for stateful workloads due to automation, scaling, and self-healing capabilities.                                                          |
-|   2 | Kubernetes provides a platform for cloud-native storage, with features like declarative configuration, autoscaling, and self-healing.                                        |
-|   3 | TIKV is a highly scalable and low-latency distributed key-value store that can be used as a database or for caching.                                                         |
-|   4 | Nokia and Civo are using CNCF storage projects to automate operations and provide reliable services.                                                                         |
-|   5 | Local storage is often preferred for workloads with high performance requirements, while network storage may be better suited for workloads with high mobility requirements. |
-|   6 | Scaling storage involves managing the number of nodes, local disks, and replicas to achieve linear performance.                                                              |
-|   7 | Operators can help manage scaling by identifying hotspots and distributing resources across the cluster.                                                                     |
+|   # | Main point                                                                                                                                                                  |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Cloud-native storage is important for stateful workloads due to automation, scaling, and self-healing capabilities.                                                         |
+|   2 | Kubernetes provides a platform for cloud-native storage, with features like declarative configuration, autoscaling, and self-healing.                                       |
+|   3 | TIKV is a highly scalable and low-latency distributed key-value store that can be used as a database or for caching.                                                        |
+|   4 | Nokia and Civo are using CNCF storage projects to automate operations and provide reliable services.                                                                        |
+|   5 | LocalStorage is often preferred for workloads with high performance requirements, while network storage may be better suited for workloads with high mobility requirements. |
+|   6 | Scaling storage involves managing the number of nodes, local disks, and replicas to achieve linear performance.                                                             |
+|   7 | Operators can help manage scaling by identifying hotspots and distributing resources across the cluster.                                                                    |
 
 # Video
 

@@ -53,7 +53,7 @@ Barai highlighted the importance of a decision journal for tracking architectura
 |  17 | Go praised for efficient websocket handling (tens of thousands of open connections)                                      |
 |  18 | Document database (MongoDB) chosen for evolving player-centric schemas; ClickHouse used for hot analytics storage        |
 |  19 | Observability: Prometheus, Grafana, GCP managed services, PagerDuty for alerts                                           |
-|  20 | Minimal developer tooling; simple multi-tenant system via namespaces and bash scripts                                    |
+|  20 | Minimal developer tooling; simple multi-tenant system via namespaces and Bash scripts                                    |
 |  21 | Caching: avoided Redis, used in-memory or simple Go key-value store for small, dynamic data                              |
 |  22 | Major incidents: GCP network failure, client-side request spike, HPA misconfiguration causing resource chaos             |
 |  23 | Scaling: built proactive autoscaling tool for predictable player                                                         |

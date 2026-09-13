@@ -23,7 +23,7 @@ generated:
 
 # Summary
 
-The speakers, Dan Pchev and Jonathan, discuss their journey of applying the component model to the Kubernetes scheduler using WebAssembly (WASM).
+The speakers, Dan Pchev and Jonathan, discuss their journey of applying the component model to the Kubernetes scheduler using WebAssembly (Wasm).
 They initially encountered challenges with defining their own width and generating bindings for various programming languages.
 However, they discovered Xism, an alternative that supports multiple hosts and guest languages, including Go and Rust.
 The team implemented a Go host using Xism with JSON serialization, achieving better performance compared to manual implementation.

@@ -41,7 +41,7 @@ Throughout, Benoman emphasizes the importance of understanding packet flow and t
 |   5 | Layer 2 (MAC address) not used by Cilium; Layer 3 (IP address/room number) used for routing.     |
 |   6 | Layer 4 (transport, e.g., TCP) and Layer 7 (payload) are also represented.                       |
 |   7 | Mini camera shows packet path; right panel shows current location.                               |
-|   8 | First scenario: packet travels from front-end pod to back-end pod using Cilium.                  |
+|   8 | First scenario: packet travels from frontend pod to backend pod using Cilium.                    |
 |   9 | eBPF program processes packets at the host interface, bypassing netfilter/IP tables.             |
 |  10 | eBPF checks destination and routes packet directly to destination pod.                           |
 |  11 | Port matching at destination is required; mismatched ports result in dropped packets.            |
@@ -50,9 +50,9 @@ Throughout, Benoman emphasizes the importance of understanding packet flow and t
 |  14 | Egress network policy checks if packet is allowed to reach CoreDNS.                              |
 |  15 | Service translation/load balancing gives pod number behind the service.                          |
 |  16 | VXLAN tunnel (overlay network) used for cross-node communication; encapsulates packets.          |
-|  17 | Incoming network policy checks source before allowing packet to back-end pod.                    |
-|  18 | Third scenario: exposing front-end to the world using service mesh (Istio).                      |
-|  19 | External DNS resolves front-end name; packet sent to external IP of load balancer service.       |
+|  17 | Incoming network policy checks source before allowing packet to backend pod.                     |
+|  18 | Third scenario: exposing frontend to the world using service mesh (Istio).                       |
+|  19 | External DNS resolves frontend name; packet sent to external IP of load balancer service.        |
 |  20 | Ingress gateway pod receives packet; eBPF routes to ingress gateway.                             |
 |  21 | Service mesh uses sidecar (Envoy proxy) for observability, tracing, advanced routing.            |
 |  22 | IP tables redirect traffic to sidecar before reaching application.                               |

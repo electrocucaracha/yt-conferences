@@ -36,7 +36,7 @@ The session concludes with discussion on future directions, including agentic in
 |   1 | Presentation covers LMD, KV cache, and improvements for LLM inference routing.                                                         |
 |   2 | Presenters: Maruna Yub (LMD maintainer, IBM), Tyler (VLM core maintainer), K from Dcloud.                                              |
 |   3 | Tutorial includes hands-on with Kubernetes naive routing vs. LMD intelligent inference scheduling.                                     |
-|   4 | Prerequisites: kind, kubectl, helm, helmfile, yq, jq, docker, lmd deps.                                                                |
+|   4 | Prerequisites: kind, kubectl, helm, helmfile, yq, jq, Docker, lmd deps.                                                                |
 |   5 | LMD simulator used for local deployment; no real GPUs required.                                                                        |
 |   6 | Transformers process: tokenization, embedding, multiple layers (attention and feed-forward), LM head.                                  |
 |   7 | Attention mechanism is stateful; cost grows quadratically with sequence length.                                                        |

@@ -21,7 +21,7 @@ generated:
 # Summary
 
 Here is a summary of the video transcript in 3-5 sentences: The speaker, Schneider, introduces himself as a core maintainer of the Dapper project and discusses the recent advancements in the project, including its graduation to a CNCF project and its growing user base.
-He highlights the importance of end-user adoption and showcases examples of successful use cases, such as NASA using Dapper on the International Space Station.
+He highlights the importance of end user adoption and showcases examples of successful use cases, such as NASA using Dapper on the International Space Station.
 Schneider also introduces Dapper Agents, a new framework that enables autonomous AI agents to interact with each other and with external systems, providing a unified programming model for building agentic workflows.
 The speaker demonstrates how Dapper Agents can be used to build complex distributed systems and showcases its potential in various industries.
 

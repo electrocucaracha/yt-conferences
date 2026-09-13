@@ -32,26 +32,26 @@ Shepard concludes by advocating for the adoption of agent-based MCP servers for 
 
 # Main Points
 
-|   # | Main point                                                                                                                                            |
-| --: | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | The talk focuses on moving from simple MCP tools to MCP agents.                                                                                       |
-|   2 | Darren Shepard, chief architect at OOT, is presenting.                                                                                                |
-|   3 | MCP agents should be conversational, not just simple tools mapping to APIs.                                                                           |
-|   4 | Current MCP server approach exposes raw tools, leading to unpredictable user experience and lack of company representation.                           |
-|   5 | Security and privacy are major concerns, especially for sensitive domains like banking.                                                               |
-|   6 | Exposing raw tools to any LLM is risky due to data harvesting and lack of control.                                                                    |
-|   7 | The proposed solution is to build an MCP agent with a carefully chosen LLM, curated prompts, and secured tools.                                       |
-|   8 | The agent is then exposed as a single MCP chat tool, enabling conversational interaction.                                                             |
-|   9 | Nanobot is a project implementing this approach, acting as an MCP host within an MCP server.                                                          |
-|  10 | Nanobot standardizes the agent interface and uses declarative configuration, making setup simple for users.                                           |
-|  11 | The agent maintains conversational context and session state.                                                                                         |
-|  12 | Nanobot supports multimodal interfaces and can be accessed via various channels (web, SMS, etc.).                                                     |
-|  13 | Demonstrations showed agent-to-agent communication, human-in-the-loop confirmations, and integration with different clients (Goose, Claude, VS Code). |
-|  14 | The approach allows for richer user experiences and better control over interactions.                                                                 |
-|  15 | MCP UI and mime types enable adaptive interfaces for different channels.                                                                              |
-|  16 | The chat method is designed to be asynchronous for improved user experience.                                                                          |
-|  17 | The system supports both conversational agents and traditional fine-grained tools if needed.                                                          |
-|  18 | Nanobot and its demo app are available at nanobot.ai and on GitHub.                                                                                   |
+|   # | Main point                                                                                                                                                       |
+| --: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The talk focuses on moving from simple MCP tools to MCP agents.                                                                                                  |
+|   2 | Darren Shepard, chief architect at OOT, is presenting.                                                                                                           |
+|   3 | MCP agents should be conversational, not just simple tools mapping to APIs.                                                                                      |
+|   4 | Current MCP server approach exposes raw tools, leading to unpredictable user experience and lack of company representation.                                      |
+|   5 | Security and privacy are major concerns, especially for sensitive domains like banking.                                                                          |
+|   6 | Exposing raw tools to any LLM is risky due to data harvesting and lack of control.                                                                               |
+|   7 | The proposed solution is to build an MCP agent with a carefully chosen LLM, curated prompts, and secured tools.                                                  |
+|   8 | The agent is then exposed as a single MCP chat tool, enabling conversational interaction.                                                                        |
+|   9 | Nanobot is a project implementing this approach, acting as an MCP host within an MCP server.                                                                     |
+|  10 | Nanobot standardizes the agent interface and uses declarative configuration, making setup simple for users.                                                      |
+|  11 | The agent maintains conversational context and session state.                                                                                                    |
+|  12 | Nanobot supports multimodal interfaces and can be accessed via various channels (web, SMS, etc.).                                                                |
+|  13 | Demonstrations showed agent-to-agent communication, human-in-the-loop confirmations, and integration with different clients (Goose, Claude, Visual Studio Code). |
+|  14 | The approach allows for richer user experiences and better control over interactions.                                                                            |
+|  15 | MCP UI and MIME types enable adaptive interfaces for different channels.                                                                                         |
+|  16 | The chat method is designed to be asynchronous for improved user experience.                                                                                     |
+|  17 | The system supports both conversational agents and traditional fine-grained tools if needed.                                                                     |
+|  18 | Nanobot and its demo app are available at nanobot.ai and on GitHub.                                                                                              |
 
 # Video
 

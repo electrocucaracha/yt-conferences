@@ -50,7 +50,7 @@ Chin also shares resources for improving presentation skills, including his onli
 |  14 | Adjust chart types (e.g., stacked bars, percentages) to best illustrate your main point.                                                                     |
 |  15 | Separate slide decks for presentations (simple, visual) and documentation (detailed, in appendix).                                                           |
 |  16 | Christopher offers resources: online course, one-on-one coaching, team workshops, and a YouTube channel ("The Hidden Speaker") with practical tips.          |
-|  17 | Connect with Christopher via LinkedIn, his website (thehiddenspeaker.com), or email (`info@thehiddenspeaker.com`).                                           |
+|  17 | Connect with Christopher via LinkedIn, his site (thehiddenspeaker.com), or email (`info@thehiddenspeaker.com`).                                              |
 
 # Video
 

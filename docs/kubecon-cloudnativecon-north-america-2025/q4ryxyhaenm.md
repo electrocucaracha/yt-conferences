@@ -43,7 +43,7 @@ Throughout, the group emphasizes a welcoming, collaborative environment where bo
 |   7 | Subprojects include documentation, tooling, and self-assessments.                                                                                 |
 |   8 | The periodic third-party audit recently focused on widely used non-core components, not just the core codebase.                                   |
 |   9 | The audit process involves external teams, findings triaged by the Security Response Committee, and eventual public disclosure.                   |
-|  10 | One disclosed finding: CVE-20257342 (hard-coded credentials in Windows OVA/NANX images).                                                          |
+|  10 | One disclosed finding: CVE-20257342 (hardcoded credentials in Windows OVA/NANX images).                                                           |
 |  11 | SIG Security Documentation subproject focuses on security awareness through tutorials, blogs, examples, and hardening guides.                     |
 |  12 | Current documentation projects: updating the OWASP Kubernetes Top 10 (community input invited) and developing a detailed hardening guide.         |
 |  13 | Contributors are encouraged to collaborate and bring new topics or sections.                                                                      |

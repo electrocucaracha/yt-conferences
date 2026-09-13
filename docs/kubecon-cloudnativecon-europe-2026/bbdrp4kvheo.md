@@ -43,8 +43,8 @@ Throughout, the presenters address audience questions on topics such as registry
 |   8 | Zarf supports supply chain security: provenance checks, SBOM creation, and package signing.                                                                   |
 |   9 | Zarf is an OpenSSF sandbox project, focusing on Kubernetes but can handle other artifacts.                                                                    |
 |  10 | Zarf deployments use Helm charts under the hood; users are not locked into Zarf and can use Helm directly after deployment.                                   |
-|  11 | Zarf packages include metadata, components (Helm charts, manifests, images, files, git repos), and support for customizations.                                |
-|  12 | The zarf.yaml file is central to configuration, containing documentation, components, git repositories, OCI artifacts, and metadata.                          |
+|  11 | Zarf packages include metadata, components (Helm charts, manifests, images, files, Git repos), and support for customizations.                                |
+|  12 | The zarf.yaml file is central to configuration, containing documentation, components, Git repositories, OCI artifacts, and metadata.                          |
 |  13 | Zarf can templatize components and find OCI images automatically or manually.                                                                                 |
 |  14 | Zarf Connect provides easy access to deployed applications.                                                                                                   |
 |  15 | Package creation bundles all components into a single tar.zst file for deployment.                                                                            |

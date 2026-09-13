@@ -40,7 +40,7 @@ He concludes by inviting viewers to a maintainer summit for further questions.
 |   7 | Version 0.2 adds certificate support to help use the operator in production environments, though it is not yet production-ready.                   |
 |   8 | Upcoming releases will include features like recovery, backup, and a Helm chart release.                                                           |
 |   9 | Users can experiment with the operator; the official image is version 0.2.                                                                         |
-|  10 | For local development on a kind cluster, users can clone the repo, build the Docker image, and deploy locally.                                     |
+|  10 | For local development on a kind cluster, users can clone the repository, build the Docker image, and deploy locally.                               |
 |  11 | Deploying the official image brings up the etcd operator controller pod and installs the etcd clusters CRD.                                        |
 |  12 | The cluster object specifies the etcd version and cluster size; scaling out adds members until the desired size is reached.                        |
 |  13 | Scaling in allows reducing the cluster size by editing the object, and the operator reconciles the change.                                         |

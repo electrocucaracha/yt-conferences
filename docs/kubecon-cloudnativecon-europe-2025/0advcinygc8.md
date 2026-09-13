@@ -25,7 +25,7 @@ generated:
 
 The speaker discusses high availability in software systems, emphasizing that users' happiness is the ultimate goal.
 They acknowledge that returning a 503 "unavailable" status code can be problematic, as it's meant to be retryable.
-Instead, they introduce Reboot, an open-source framework for cloud-native applications that encourages clients to retry errors, making it easier for back-end engineers to return 503s without compromising availability.
+Instead, they introduce Reboot, an open-source framework for cloud-native applications that encourages clients to retry errors, making it easier for backend engineers to return 503s without compromising availability.
 By trusting clients to retry and ensuring safe retries through item potency, Reboot enables systems to remain highly available while still returning meaningful error codes.
 
 # Main Points

@@ -25,7 +25,7 @@ generated:
 
 Philip Conrad, a maintainer of the Open Policy Agent (OPA) project, presented updates on OPA’s performance improvements at CubeCon, using slides prepared by his colleague Sebastian.
 OPA is a CNCF graduated, general-purpose policy engine that allows software authorization logic to be decoupled from applications, enabling flexible policy enforcement such as verifying trusted container registries in Kubernetes.
-Over the past year, OPA reached its 1.0 release, incorporating significant performance enhancements like reduced unnecessary work, fewer memory allocations, improved interpreter efficiency, and better use of sync.pool in Golang.
+Over the past year, OPA reached its 1.0 release, incorporating significant performance enhancements like reduced unnecessary work, fewer memory allocations, improved interpreter efficiency, and better use of sync.pool in Go.
 Additional improvements include more efficient text handling, faster decision log generation, and advancements in the rule indexer and storage layer.
 Conrad encouraged users to upgrade to version 1.0, utilize tools like OPA format and the Regal linter, and participate in the active community, highlighting upcoming features and inviting engagement through Slack, the conference booth, and a forthcoming community survey.
 
@@ -39,7 +39,7 @@ Conrad encouraged users to upgrade to version 1.0, utilize tools like OPA format
 |   4 | Policies in OPA allow decoupling authorization logic from applications and can check conditions such as container registry trust in Kubernetes. |
 |   5 | OPA 1.0 was released in the past year, finalizing language changes and introducing significant performance improvements.                        |
 |   6 | Performance improvements include fewer unnecessary operations, reduced allocations, and a more efficient interpreter.                           |
-|   7 | Version 1.0 introduced heavier use of sync.Pool in Golang to reuse allocations and reduce garbage collector load.                               |
+|   7 | Version 1.0 introduced heavier use of sync.Pool in Go to reuse allocations and reduce garbage collector load.                                   |
 |   8 | Version 1.4 improved efficiency of several text handling built-ins by reducing allocations.                                                     |
 |   9 | Version 1.3 included enhancements for faster decision log generation, aiding audit logging.                                                     |
 |  10 | Further improvements were made to the compiler, storage layer, and rule indexer.                                                                |

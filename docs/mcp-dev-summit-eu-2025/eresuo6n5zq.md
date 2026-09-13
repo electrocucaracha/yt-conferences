@@ -42,7 +42,7 @@ The presentation concludes with a demonstration of the system and an invitation 
 |   8 | Streaming and server-sent events (SSE) are critical for long-running MCP systems.                                                 |
 |   9 | MCP servers can be local (stdio, highly stateful) or remote (socket-based, different security needs).                             |
 |  10 | Local MCP servers are extremely stateful; remote servers face challenges with state and connection reliability.                   |
-|  11 | Official Typescript SDK for MCP is stateful, making robust remote/serverless scaling difficult.                                   |
+|  11 | Official TypeScript SDK for MCP is stateful, making robust remote/serverless scaling difficult.                                   |
 |  12 | TCP connections are unreliable; 20% may be dropped (per Cloudflare).                                                              |
 |  13 | Sticky sessions are discouraged due to operational challenges.                                                                    |
 |  14 | Message delivery guarantees: at most once (fire and forget), at least once (preferred), exactly once (complex).                   |

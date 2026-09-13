@@ -29,35 +29,35 @@ The overarching goal is to abstract away node management complexities so users c
 
 # Main Points
 
-|   # | Main point                                                                                                                |
-| --: | ------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Review of Kubernetes resource management evolution for AI, ML, and HPC workloads.                                         |
-|   2 | Shift from simple web front-end workloads (2016) to complex stateful workloads and standardized GPU orchestration (2025). |
-|   3 | New challenges in node lifecycle management due to AI and accelerator-heavy workloads.                                    |
-|   4 | Four key characteristics of modern workloads:                                                                             |
-|   5 | Long-running jobs (e.g., LLM training) sensitive to interruptions.                                                        |
-|   6 | Workloads are brittle; minor hardware/software issues can disrupt jobs.                                                   |
-|   7 | Strict requirements for minimizing idle time due to high costs.                                                           |
-|   8 | Data gravity issues: moving large models/data causes downtime.                                                            |
-|   9 | Current Kubernetes node management is inadequate for these needs.                                                         |
-|  10 | Three main challenge areas:                                                                                               |
-|  11 | Signals: Observability and feature discovery on heterogeneous nodes is lacking.                                           |
-|  12 | Actions: No first-class node maintenance; aggressive draining leads to inefficiency.                                      |
-|  13 | Coordination: Poor visibility into intent and future actions.                                                             |
-|  14 | Specific problems:                                                                                                        |
-|  15 | Maintenance equals aggressive draining, causing underutilization.                                                         |
-|  16 | Node readiness is simplistic; kubelet ready does not mean node is truly ready.                                            |
-|  17 | Feature discovery is inconsistent; label fragmentation hinders portability and automation.                                |
-|  18 | Application replica availability is not guaranteed due to orchestration latency and lack of intent signaling.             |
-|  19 | Solutions and roadmap:                                                                                                    |
-|  20 | Better disruption signals and node readiness/PodDisruptionBudget improvements.                                            |
-|  21 | Safe maintenance flows via new EvictionRequest API.                                                                       |
-|  22 | Node declared features to standardize feature discovery and labeling.                                                     |
-|  23 | Enhanced observability and intent-based infrastructure.                                                                   |
-|  24 | EvictionRequest API allows observable, coordinated, and gated pod eviction processes.                                     |
-|  25 | Node declared features and readiness gates improve scheduling and node readiness validation.                              |
-|  26 | Move towards workload-centric abstractions (e.g., workload API) and away from node-centric management.                    |
-|  27 | Ongoing efforts to improve node lifecycle, resource management, a                                                         |
+|   # | Main point                                                                                                               |
+| --: | ------------------------------------------------------------------------------------------------------------------------ |
+|   1 | Review of Kubernetes resource management evolution for AI, ML, and HPC workloads.                                        |
+|   2 | Shift from simple web frontend workloads (2016) to complex stateful workloads and standardized GPU orchestration (2025). |
+|   3 | New challenges in node lifecycle management due to AI and accelerator-heavy workloads.                                   |
+|   4 | Four key characteristics of modern workloads:                                                                            |
+|   5 | Long-running jobs (e.g., LLM training) sensitive to interruptions.                                                       |
+|   6 | Workloads are brittle; minor hardware/software issues can disrupt jobs.                                                  |
+|   7 | Strict requirements for minimizing idle time due to high costs.                                                          |
+|   8 | Data gravity issues: moving large models/data causes downtime.                                                           |
+|   9 | Current Kubernetes node management is inadequate for these needs.                                                        |
+|  10 | Three main challenge areas:                                                                                              |
+|  11 | Signals: Observability and feature discovery on heterogeneous nodes is lacking.                                          |
+|  12 | Actions: No first-class node maintenance; aggressive draining leads to inefficiency.                                     |
+|  13 | Coordination: Poor visibility into intent and future actions.                                                            |
+|  14 | Specific problems:                                                                                                       |
+|  15 | Maintenance equals aggressive draining, causing underutilization.                                                        |
+|  16 | Node readiness is simplistic; kubelet ready does not mean node is truly ready.                                           |
+|  17 | Feature discovery is inconsistent; label fragmentation hinders portability and automation.                               |
+|  18 | Application replica availability is not guaranteed due to orchestration latency and lack of intent signaling.            |
+|  19 | Solutions and roadmap:                                                                                                   |
+|  20 | Better disruption signals and node readiness/PodDisruptionBudget improvements.                                           |
+|  21 | Safe maintenance flows via new EvictionRequest API.                                                                      |
+|  22 | Node declared features to standardize feature discovery and labeling.                                                    |
+|  23 | Enhanced observability and intent-based infrastructure.                                                                  |
+|  24 | EvictionRequest API allows observable, coordinated, and gated pod eviction processes.                                    |
+|  25 | Node declared features and readiness gates improve scheduling and node readiness validation.                             |
+|  26 | Move towards workload-centric abstractions (e.g., workload API) and away from node-centric management.                   |
+|  27 | Ongoing efforts to improve node lifecycle, resource management, a                                                        |
 
 # Video
 

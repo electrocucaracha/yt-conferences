@@ -47,7 +47,7 @@ Key recommendations include automating security processes, embedding security ro
 |  11 | Used OWASP ML Top 10 as a baseline for threat modeling and prioritizing security controls.                                                                                                             |
 |  12 | Supply chain risks are pervasive across all stages; provenance and trust in assets are critical.                                                                                                       |
 |  13 | Security controls must be embedded from design through operation, not added at the end (“shift left”).                                                                                                 |
-|  14 | Recommended open source tools: Sigstore (signing/verification), SLSA (provenance), Scorecard/Allstar (repo hardening), GUAC (artifact/dependency graphing).                                            |
+|  14 | Recommended open source tools: Sigstore (signing/verification), SLSA (provenance), Scorecard/Allstar (repository hardening), GUAC (artifact/dependency graphing).                                      |
 |  15 | Most open source tools need ext                                                                                                                                                                        |
 
 # Video

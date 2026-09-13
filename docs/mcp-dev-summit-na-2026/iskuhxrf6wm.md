@@ -41,7 +41,7 @@ While this approach is a workaround rather than an ideal solution, it allows for
 |   8 | Lack of standardization resulted in inconsistent state machines and tool ontologies across servers.                                                          |
 |   9 | Effective task orchestration requires client-side primitives for polling and state/result retrieval.                                                         |
 |  10 | SEP 1686 proposes a standard: assign work an ID, manage state via a state machine, provide methods for updates and result retrieval.                         |
-|  11 | FastMCP 3.x and Docket (Pythonic task orchestrator) implement SEP 1686 on the server side.                                                                   |
+|  11 | FastMCP 3.x and Docket (Pythonic task orchestrator) implement SEP 1686 on the server-side.                                                                   |
 |  12 | Major issue: few clients support SEP 1686, creating a chicken-and-egg problem for adoption.                                                                  |
 |  13 | MCP is viewed as a marketplace between client and server capabilities; both must demand features for adoption.                                               |
 |  14 | Marketplaces can be bootstrapped by leveraging existing ones, making features valuable in single-player mode, or owning both client and server.              |

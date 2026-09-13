@@ -32,19 +32,19 @@ With Rook, users can enjoy scalability, high availability, and performance, whil
 
 # Main Points
 
-|   # | Main point                                                                                                         |
-| --: | ------------------------------------------------------------------------------------------------------------------ |
-|   1 | Rook is a Kubernetes operator that automates self-storage.                                                         |
-|   2 | SE (Sephira) is an open-source distributed storage solution used with Rook.                                        |
-|   3 | Rook has three layers: Rook, CSI, and SE.                                                                          |
-|   4 | SE provides block storage, shared file systems, S3-like object storage, and more.                                  |
-|   5 | Rook supports cloud providers, on-premises data centers, and hybrid environments.                                  |
-|   6 | New features in Rook include mirroring, improved object storage, and CSI operator enabled by default.              |
-|   7 | CSI driver has three projects: FFS, RBD, and NFS.                                                                  |
-|   8 | CSI driver supports thin provisioning, RWX block mode, and more.                                                   |
-|   9 | Object store custom resource allows users to create buckets with desired configuration.                            |
-|  10 | Performance penalty for running Rook compared to local storage is due to network performance for write operations. |
-|  11 | Seph performs better with many clients in a large cluster.                                                         |
+|   # | Main point                                                                                                        |
+| --: | ----------------------------------------------------------------------------------------------------------------- |
+|   1 | Rook is a Kubernetes operator that automates self-storage.                                                        |
+|   2 | SE (Sephira) is an open-source distributed storage solution used with Rook.                                       |
+|   3 | Rook has three layers: Rook, CSI, and SE.                                                                         |
+|   4 | SE provides block storage, shared file systems, S3-like object storage, and more.                                 |
+|   5 | Rook supports cloud providers, on-premises data centers, and hybrid environments.                                 |
+|   6 | New features in Rook include mirroring, improved object storage, and CSI operator enabled by default.             |
+|   7 | CSI driver has three projects: FFS, RBD, and NFS.                                                                 |
+|   8 | CSI driver supports thin provisioning, RWX block mode, and more.                                                  |
+|   9 | Object store custom resource allows users to create buckets with desired configuration.                           |
+|  10 | Performance penalty for running Rook compared to localStorage is due to network performance for write operations. |
+|  11 | Seph performs better with many clients in a large cluster.                                                        |
 
 # Video
 

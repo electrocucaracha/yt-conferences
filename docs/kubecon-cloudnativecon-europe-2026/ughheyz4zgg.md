@@ -24,7 +24,7 @@ generated:
 # Summary
 
 In this presentation, Mat Bankei and Stefan Prodan introduce a workflow for creating declarative, pull request-driven, GitOps-native preview environments using Flux, designed to balance developer self-service with platform team governance.
-They describe a setup involving three repositories: a platform repo managed by platform engineers, an application repo for developers, and a Helm charts repo, enabling developers to deploy preview environments by simply labeling a pull request.
+They describe a setup involving three repositories: a platform repository managed by platform engineers, an application repository for developers, and a Helm charts repository, enabling developers to deploy preview environments by simply labeling a pull request.
 The demo showcases how Flux Operator automates the deployment and cleanup of these ephemeral environments, integrates with GitHub Actions for CI, and provides feedback directly in pull requests.
 The presenters also demonstrate debugging failed deployments using GitHub Copilot and Flux MCP, emphasizing the importance of access controls and observability.
 They conclude by sharing resources and best practices for adopting this workflow, highlighting its flexibility, automation, and support for multiple providers beyond GitHub.
@@ -38,7 +38,7 @@ They conclude by sharing resources and best practices for adopting this workflow
 |   3 | Challenges in current CI/CD pipelines include maintenance difficulty, inconsistency, long review cycles, and lack of standardization.                                                                          |
 |   4 | Developers want self-service and minimal infrastructure involvement; platform teams require governance, control, and observability.                                                                            |
 |   5 | AI and agentic coding increase the need for real environment testing.                                                                                                                                          |
-|   6 | The proposed solution uses three repositories: a platform repo (Flux operator config, cluster bootstrap), an app repo (developer-only, no secrets), and a Helm charts repo (platform-owned).                   |
+|   6 | The proposed solution uses three repositories: a platform repository (Flux operator config, cluster bootstrap), an app repository (developer-only, no secrets), and a Helm charts repository (platform-owned). |
 |   7 | The workflow uses GitHub Actions for CI (build and push images), but CI does not interact with the cluster.                                                                                                    |
 |   8 | Flux operator monitors pull requests with a specific label and deploys preview environments automatically.                                                                                                     |
 |   9 | The system supports multiple providers (GitHub, GitLab, Azure DevOps) and can use GitHub Actions to push manifests.                                                                                            |

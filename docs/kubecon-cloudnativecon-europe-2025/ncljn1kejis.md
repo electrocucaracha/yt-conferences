@@ -24,7 +24,7 @@ generated:
 
 The Open Telemetry project has made significant progress over the past five years, with contributions increasing from 1,000 to 7,000 per week and over 500 active contributors.
 The community has grown globally, with contributors from 105 countries, and the project has become one of the largest in the Cloud Native Computing Foundation (CNCF).
-Key updates include end-user adoption, instrumentation of open-source libraries, and improvements to profiling and logging APIs.
+Key updates include end user adoption, instrumentation of open-source libraries, and improvements to profiling and logging APIs.
 The collector SIG is working on a new pipeline component, and the community is exploring ways to improve transparency and readability in decision-making processes.
 
 # Main Points

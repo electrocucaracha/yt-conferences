@@ -43,7 +43,7 @@ The tools are designed to work together to provide a comprehensive policy as cod
 |   5 | Cell is a programming language designed to be embedded into things like YAML, with properties such as being designed for single-line expressions, having a relatively unsurprising C-style syntax, and having low overhead for execution. |
 |   6 | Validating admission policy allows for the use of cell expressions to enforce policies, while mutating admission policy returns a patch that mutates the object.                                                                          |
 |   7 | Gatekeeper is a dynamic flexible emission and mutation web hook that can be used to enforce policies, with support for multiple languages including Rego and cell.                                                                        |
-|   8 | Kivero is a project that aims to simplify policy management for Kubernetes, making it available to non-Kubernetes environments and providing standard life cycle management wherever possible.                                            |
+|   8 | Kivero is a project that aims to simplify policy management for Kubernetes, making it available to non-Kubernetes environments and providing standard lifecycle management wherever possible.                                             |
 
 # Video
 

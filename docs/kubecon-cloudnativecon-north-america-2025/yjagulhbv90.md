@@ -28,7 +28,7 @@ Feature flags allow for runtime control, progressive rollouts, experimentation, 
 However, traditional approaches can lead to issues like runtime errors, typos, and context switching.
 To address this, Chris introduced the concept of a "flag manifest," a simple list of feature flags with default values, descriptions, and types.
 This declarative approach treats feature flags as first-class citizens in software delivery life cycles, generating type-safe code bindings and validating flag configurations in CI processes.
-The open feature CLI can be used to create and manage flag manifests, and the open feature GitHub action can automate flag creation upon pull request merge.
+The open feature CLI can be used to create and manage flag manifests, and the open feature GitHub Action can automate flag creation upon pull request merge.
 Future directions include adding generated aspects, local flag overrides, and support for more languages and MCP integrations.
 
 # Main Points

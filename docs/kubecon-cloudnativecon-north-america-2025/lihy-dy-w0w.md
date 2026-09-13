@@ -38,7 +38,7 @@ The talk concludes with a discussion of ongoing efforts to further optimize inte
 |   3 | Real-world issue reported by Vanessa from Limor Lab: MPI jobs in Kubernetes were slow due to networking problems.                                                                               |
 |   4 | MPI jobs require coordinated, lock-step communication between processes, relying on DNS and headless services for pod discovery.                                                                |
 |   5 | Discovered DNS scalability issue: CoreDNS struggled to generate DNS records quickly for large jobs (e.g., 5,000 nodes), causing delays and financial cost.                                      |
-|   6 | Identified Golang DNS resolver bug: exceeded TCP DNS record limits, causing failures in resolving pod names.                                                                                    |
+|   6 | Identified Go DNS resolver bug: exceeded TCP DNS record limits, causing failures in resolving pod names.                                                                                        |
 |   7 | Solution: Added a new SLI to measure DNS propagation delay; optimized CoreDNS and used local DNS cache.                                                                                         |
 |   8 | Another issue: clusters with tens of thousands of headless services caused excessive API server load, as kubelet and kube-proxy watched all services unnecessarily.                             |
 |   9 | Solution: Implemented server-side field selector filtering in the API server to reduce resource consumption.                                                                                    |

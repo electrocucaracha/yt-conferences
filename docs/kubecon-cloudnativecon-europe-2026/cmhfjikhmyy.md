@@ -52,7 +52,7 @@ The presenters encourage community participation through reviewing and proposing
 |  16 | Collaboration with CNCF projects like ORAS and container tools is ongoing to improve OCI capabilities.                                                                   |
 |  17 | Efforts are underway to streamline the Helm release process and improve contributor experience.                                                                          |
 |  18 | Community involvement is encouraged via reviewing/commenting on HIPs, joining Kubernetes Slack channels (Helm Users, Helm Dev), and attending weekly developer meetings. |
-|  19 | Information on developer meetings and tracking Helm v3 charts implementation is available on the Helm website.                                                           |
+|  19 | Information on developer meetings and tracking Helm v3 charts implementation is available on the Helm site.                                                              |
 
 # Video
 

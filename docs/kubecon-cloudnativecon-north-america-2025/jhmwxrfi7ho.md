@@ -44,7 +44,7 @@ The talk concludes with an invitation for community involvement and information 
 |  10 | This feature is now GA.                                                                                                         |
 |  11 | CSI sidecars are helper containers for volume operations in Kubernetes.                                                         |
 |  12 | Multiple CSI sidecars exist, leading to release and resource utilization challenges.                                            |
-|  13 | Plan to consolidate all CSI sidecars into a single mono repo.                                                                   |
+|  13 | Plan to consolidate all CSI sidecars into a single mono repository.                                                             |
 |  14 | The consolidation proposal (KEP) was merged and targets alpha in Kubernetes 1.36.                                               |
 |  15 | Next steps include implementation of the consolidated sidecar.                                                                  |
 |  16 | Community involvement is encouraged; related sessions and events are available at KubeCon.                                      |

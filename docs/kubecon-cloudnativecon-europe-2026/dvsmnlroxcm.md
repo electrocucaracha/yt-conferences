@@ -51,7 +51,7 @@ Upcoming enhancements include expanded data source support, new specifications, 
 |  16 | Tinkerbell supports full Kubernetes installations via the cap t provider.                                           |
 |  17 | Will support running Tinkerbell externally to an existing Cappy structure for more flexibility.                     |
 |  18 | Community meetings are held every Tuesday on CNCF Slack.                                                            |
-|  19 | Project information is available on the website and GitHub.                                                         |
+|  19 | Project information is available on the site and GitHub.                                                            |
 |  20 | Upcoming sessions include a contributor meeting and a project booth for demos.                                      |
 
 # Video

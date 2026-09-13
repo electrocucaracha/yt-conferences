@@ -47,7 +47,7 @@ Recently, OpenCost integrated AI-driven analysis features, enabling users to rec
 |  11 | The project has been growing since 2019 with contributions from major cloud providers, Kubecost, Randoli, Adobe, and others.     |
 |  12 | Installation is available via GitHub, Helm chart, standalone manifests, and other chart options (Kubecost Free, Randoli).        |
 |  13 | Recent AI integration allows analysis and cost-saving recommendations using an MCP server and AI tools.                          |
-|  14 | AI-generated insights include markdown guides for right-sizing containers and implementing savings plans based on OpenCost data. |
+|  14 | AI-generated insights include Markdown guides for right-sizing containers and implementing savings plans based on OpenCost data. |
 |  15 | Attendees encouraged to scan the QR code for more information and to connect after the talk.                                     |
 
 # Video

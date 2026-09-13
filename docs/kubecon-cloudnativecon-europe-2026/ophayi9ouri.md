@@ -48,7 +48,7 @@ The team has also implemented security improvements, such as constrained imperso
 |  12 | Security improvements: constraint impersonation (Kubernetes 1.36+) limits node status updates to only the node a component runs on.                                               |
 |  13 | Three minor releases so far; latest (v0.3.0) includes security and observability enhancements.                                                                                    |
 |  14 | Roadmap includes Helm charts, Headlamp UI integration, API efficiency improvements, and further security work.                                                                    |
-|  15 | Community involvement encouraged via GitHub, Slack, bi-weekly meetings, and project website.                                                                                      |
+|  15 | Community involvement encouraged via GitHub, Slack, bi-weekly meetings, and project site.                                                                                         |
 
 # Video
 

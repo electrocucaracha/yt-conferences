@@ -58,7 +58,7 @@ The session also highlights key subprojects—usage metrics collector, kube-stat
 |  23 | API server and kubelet tracing GA in v1.34                                                                          |
 |  24 | Tracing provides detailed breakdowns of request handling                                                            |
 |  25 | API server supports limited user-controlled sampling via RBAC                                                       |
-|  26 | Kubelet tracing uses hard-coded sampling rates, no fine-grained policy                                              |
+|  26 | Kubelet tracing uses hardcoded sampling rates, no fine-grained policy                                               |
 |  27 | Future ideas: trace context propagation via objects, more components, declarative config                            |
 |  28 | Signal correlation:                                                                                                 |
 |  29 | Goal to connect metrics, logs, traces, zpages, and events for better debugging                                      |

@@ -39,7 +39,7 @@ While this shift brought new challenges in tool management and governance, Bloom
 |   4 | AI has been used at Bloomberg for over 15 years, starting with news sentiment analysis in 2009 and neural networks for news discovery in 2020.        |
 |   5 | GenAI development at Bloomberg revealed complex workflows with many stakeholders and handoff points.                                                  |
 |   6 | The main bottleneck was transitioning applications from demos to production, not building demos themselves.                                           |
-|   7 | Productionization gap slowed velocity; demos could be built in days, but productionization took weeks or months.                                      |
+|   7 | Productionization gap slowed velocity; demos could be built-in days, but productionization took weeks or months.                                      |
 |   8 | Hypothesis: First-class support for AI integration-ready APIs, discoverability, and well-defined integration points would speed up productionization. |
 |   9 | Protocols enable dependency inversion, interoperability, easy integration, and loose coupling at scale.                                               |
 |  10 | Standardizing LLM APIs on the OpenAI API standard allowed easy swapping between LLMs/providers.                                                       |

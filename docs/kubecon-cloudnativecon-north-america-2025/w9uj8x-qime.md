@@ -36,12 +36,12 @@ They encourage contributions to the project and highlight the importance of open
 | --: | --------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Introduction of speakers: Miley Fu (Second State) and Sam Bak (vcluster, Cipmplify, CNCF TAG Operational Resilience)                          |
 |   2 | Discussion topic: Open source edge hardware, firmware, and AI stacks                                                                          |
-|   3 | Second State's CNCF project uses WebAssembly on the server side, suitable for AI inference, microservices, serverless, and embedded use cases |
+|   3 | Second State's CNCF project uses WebAssembly on the server-side, suitable for AI inference, microservices, serverless, and embedded use cases |
 |   4 | Go Sim is an open source conference co-hosted with Rust, with 2400 attendees                                                                  |
 |   5 | Main focus: Rust-based open source project for voice AI agents                                                                                |
 |   6 | AI services are often proprietary, black-box, with data privacy and customization concerns                                                    |
 |   7 | Project: Echo Kit – a full stack, customizable, self-hosted voice AI agent framework                                                          |
-|   8 | Echo Kit features open hardware, open firmware, and open server, all built in Rust                                                            |
+|   8 | Echo Kit features open hardware, open firmware, and open server, all built-in Rust                                                            |
 |   9 | Edge device: ESP32 (captures/plays audio, connects via Wi-Fi), communicates with server via WebSockets                                        |
 |  10 | Server orchestrates ASR (Automatic Speech Recognition), LM (Language Model), TTS (Text-to-Speech), and tool calls (e.g., MCPS)                |
 |  11 | Porting to Raspberry Pi in collaboration with Raspberry Pi Foundation                                                                         |

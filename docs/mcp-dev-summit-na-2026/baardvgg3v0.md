@@ -25,7 +25,7 @@ generated:
 # Summary
 
 Jonathan Lechu, a software engineer and security researcher, presents his findings on vulnerabilities in locally running servers, particularly focusing on Model Context Protocol (MCP) servers.
-He explains how browsers' same origin policy and longstanding behaviors allow malicious websites to communicate with local servers through simple requests or DNS rebinding attacks, a technique that can bypass security restrictions and has been exploited in numerous high-profile incidents over the past two decades.
+He explains how browsers' same origin policy and longstanding behaviors allow malicious sites to communicate with local servers through simple requests or DNS rebinding attacks, a technique that can bypass security restrictions and has been exploited in numerous high-profile incidents over the past two decades.
 Lechu demonstrates that many MCP servers, including those from major vendors like Google, Docker, and AWS, were vulnerable to these attacks due to improper validation of the origin header, despite clear warnings in the MCP specification.
 He shares examples where these vulnerabilities allowed remote code execution or unauthorized access to sensitive data, and notes that while some vendors have patched their SDKs or issued bounties, many servers remain at risk because protections are not enabled by default.
 Lechu concludes by urging developers to properly configure their servers and not rely on browsers for protection, as these attack vectors remain largely unmitigated in most environments.

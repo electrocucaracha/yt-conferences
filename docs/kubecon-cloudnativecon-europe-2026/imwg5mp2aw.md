@@ -27,7 +27,7 @@ Christopher, a maintainer of the CNCF sandbox project Capsule, discusses the cha
 As organizations grow, managing hundreds of microservices and namespaces becomes complex and costly, often leading to inefficient resource use and high cloud expenses.
 Capsule addresses these issues by introducing the concept of a "tenant," which groups multiple namespaces and provides isolated resource pools and configurable policies, enabling effective multi-tenancy without the overhead of managing multiple clusters.
 The project leverages Kubernetes primitives, integrates with key CNCF tools like Argo CD, Rancher, and Velero, and supports GitOps workflows.
-Capsule is open for collaboration, offers enterprise support through partners, and invites interested users to connect via their pavilion, Slack, website, or GitHub.
+Capsule is open for collaboration, offers enterprise support through partners, and invites interested users to connect via their pavilion, Slack, site, or GitHub.
 
 # Main Points
 

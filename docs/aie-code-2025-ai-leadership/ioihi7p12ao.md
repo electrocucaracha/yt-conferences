@@ -46,7 +46,7 @@ The talk concludes with a rallying cry for the audience to reject slop in all fo
 |  13 | Code slop can lead to tech debt or security issues, such as exposing private data                                                        |
 |  14 | Autonomy without accountability is criticized                                                                                            |
 |  15 | AI can help fight code slop by keeping human attention on hard problems and using tools like code maps for codebase understanding        |
-|  16 | Computer use (autonomous agents) is improving and can help fight slop, e.g., automating website updates                                  |
+|  16 | Computer use (autonomous agents) is improving and can help fight slop, e.g., automating site updates                                     |
 |  17 | Sub-agents can fight context rot                                                                                                         |
 |  18 | Modularity: keep clear boundaries between human-designed and AI-coded components                                                         |
 |  19 | Key message: "No more slop"                                                                                                              |

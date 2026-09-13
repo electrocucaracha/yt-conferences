@@ -44,7 +44,7 @@ They have created a benchmark tool called inference perf to understand what impa
 |  10 | The dynamic resource allocation work stream aims to improve resource utilization and reduce latency.                                                         |
 |  11 | The orchestration work stream explores the gateway API inference extension (GEE) and its potential for improving resource sharing across multiple use cases. |
 |  12 | The community has been actively discussing caching and performance optimization, with a focus on standardizing metrics and tools.                            |
-|  13 | The working group is open to feedback and contributions from vendors and end-users.                                                                          |
+|  13 | The working group is open to feedback and contributions from vendors and end users.                                                                          |
 
 # Video
 

@@ -44,7 +44,7 @@ The discussion concludes with insights into current and future driver availabili
 |   9 | Synchronization and resource management across multiple drivers is an ongoing challenge                                                                                                      |
 |  10 | DRA enables migration paths: existing workloads can use extended resources, while new workloads can leverage resource claims and advanced scheduling                                         |
 |  11 | New KEPs (Kubernetes Enhancement Proposals) for consumable capacity and shared consumable capacity to improve bandwidth allocation modeling                                                  |
-|  12 | Projects mentioned: aret (Google, AI workflows, RDMA), SR-IOV device plugin (Intel, production use), C9 driver (experimental), Kubernetes network drivers repo (for experimentation)         |
+|  12 | Projects mentioned: aret (Google, AI workflows, RDMA), SR-IOV device plugin (Intel, production use), C9 driver (experimental), Kubernetes network drivers repository (for experimentation)   |
 |  13 | DRA and CNI are separate tracks; DRA adds new functionality without breaking existing CNI-based networking                                                                                   |
 |  14 | Discussion on decomposing drivers, potential for separate IPAM drivers, and modeling IP addresses as consumable resources                                                                    |
 |  15 | SR-IOV with DRA supports virtualized environments (e.g., OpenStack VMs as Kubernetes nodes)                                                                                                  |

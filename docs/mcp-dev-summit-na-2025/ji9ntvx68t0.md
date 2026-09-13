@@ -25,7 +25,7 @@ generated:
 
 The video introduces the official MCP server registry, aiming to consolidate the fragmented ecosystem of MCP server registries by providing a centralized, community-driven solution.
 The presenters, members of the steering committee from various early MCP projects, explain that the registry addresses three main problems: incomplete server listings due to unreliable web scraping, the burden on server maintainers to update multiple registries, and the lack of a unified source for structured installation instructions.
-The official registry will use a standardized server.json file containing metadata, source code references, optional remote URLs, and structured installation instructions, with a CLI tool to facilitate publishing.
+The official registry will use a standardized server.json file containing metadata, source code references, optional remote URLs, and structured installation instructions, with a command-line tool to facilitate publishing.
 Advanced features like source code storage and sophisticated search or ranking are intentionally left out, with the expectation that downstream client apps and third-party registries will build on top of the core registry and enrich the data as needed.
 The demo showcases the publishing process and how different clients can leverage the registry and add their own metadata, emphasizing the importance of community feedback and collaboration in shaping the registry’s development.
 
@@ -37,7 +37,7 @@ The demo showcases the publishing process and how different clients can leverage
 |   2 | Aim to consolidate fragmented MCP server registries into a central, community-driven registry.                                                  |
 |   3 | Main focus: define what is in and out of scope for the official registry.                                                                       |
 |   4 | Steering committee includes members from Pulse MCP, Block (Goose), and GitHub.                                                                  |
-|   5 | Community contributions highlighted, especially from Avan (GitHub), Connor, and Sandy (VS Code).                                                |
+|   5 | Community contributions highlighted, especially from Avan (GitHub), Connor, and Sandy (Visual Studio Code).                                     |
 |   6 | Problems being solved:                                                                                                                          |
 |   7 | Third-party registries lack comprehensive server lists due to reliance on web scrapers.                                                         |
 |   8 | Fragmented data and incomplete coverage of MCP servers.                                                                                         |
@@ -48,9 +48,9 @@ The demo showcases the publishing process and how different clients can leverage
 |  13 | Advanced search, filtering, and ranking; delegated to downstream MCP client marketplaces.                                                       |
 |  14 | Solution:                                                                                                                                       |
 |  15 | Introduction of a server.json file containing metadata, source code references, optional remote URLs, and structured installation instructions. |
-|  16 | CLI tool for publishing server.json to the registry, similar to npm publish.                                                                    |
+|  16 | Command-line tool for publishing server.json to the registry, similar to npm publish.                                                           |
 |  17 | Expectation of an ETL (Extract, Transform, Load) layer between the registry and MCP clients for filtering and enrichment.                       |
-|  18 | Downstream consumers (e.g., VS Code, Smithery, Raycast) can add proprietary data and metrics.                                                   |
+|  18 | Downstream consumers (e.g., Visual Studio Code, Smithery, Raycast) can add proprietary data and metrics.                                        |
 |  19 | Open questions for community feedback:                                                                                                          |
 |  20 | Does server.json capture all necessary data for MCP client apps?                                                                                |
 |  21 | Can the API shape be reused in a federated manner by third-party marketplaces?                                                                  |
@@ -58,7 +58,7 @@ The demo showcases the publishing process and how different clients can leverage
 |  23 | Local registry setup with Docker Compose.                                                                                                       |
 |  24 | Publishing a server.json using OAuth authentication.                                                                                            |
 |  25 | ETL marketplace for Goose and integration with GitHub MCP server.                                                                               |
-|  26 | Installation and usage in both Goose and VS Code clients, each adding their own metadata layers.                                                |
+|  26 | Installation and usage in both Goose and Visual Studio Code clients, each adding their own metadata layers.                                     |
 |  27 | Emphasis on ongoing community inv                                                                                                               |
 
 # Video

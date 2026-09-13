@@ -40,8 +40,8 @@ Throughout, they emphasize the importance of stability, automation, and incremen
 |   3 | Initial platform was manual, low-scale, with snowflake infra and configs, and limited automation/security.                                                                  |
 |   4 | New platform leverages cloud-native tech: Argo CD (service provisioning), Argo Workflows (deployments), Terraform (infra code), all orchestrated by control plane services. |
 |   5 | Argo chosen for easy installation, flexible integration, strong API/CI integration, robust dependency model, and strong open-source community.                              |
-|   6 | Current scale: 1,000-2,000 Argo CD applications, 2-3 million Kubernetes resources, 32 application controller pods, 24 repo server pods, one control plane instance.         |
-|   7 | Argo CD auto-sync ensures cluster state matches Git repo, but not used due to custom release model and deployment windows.                                                  |
+|   6 | Current scale: 1,000-2,000 Argo CD applications, 2-3 million Kubernetes resources, 32 application controller pods, 24 repository server pods, one control plane instance.   |
+|   7 | Argo CD auto-sync ensures cluster state matches Git repository, but not used due to custom release model and deployment windows.                                            |
 |   8 | Release manifest bundles all microservice versions, Terraform code, and plugins; one Argo application per cluster.                                                          |
 |   9 | Custom deployment process: scheduler and deploy manager submit Argo Workflows during customer-defined deploy windows.                                                       |
 |  10 | Workflow steps: preflight checks, Terraform plan/apply, config/secrets generation, Argo CD sync via custom plugins.                                                         |

@@ -26,7 +26,7 @@ generated:
 
 The speaker represents the Score project, a CNCF initiative aiming to provide a platform-agnostic way to deploy applications on various runtimes, including Kubernetes, serverless, and VMs.
 The goal is to shift abstraction from developers to platforms, allowing for more standardization, collaboration, and repeatable recipes.
-The Score file describes a workload's intent, environment variables, and resources needed, while the platform engineer supports deployment requests by authoring and designing supported golden paths, enabling collaboration between security, cloud, observability, and devops teams.
+The Score file describes a workload's intent, environment variables, and resources needed, while the platform engineer supports deployment requests by authoring and designing supported golden paths, enabling collaboration between security, cloud, observability, and DevOps teams.
 
 # Main Points
 

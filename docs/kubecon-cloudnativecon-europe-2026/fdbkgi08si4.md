@@ -49,7 +49,7 @@ The overall message is to stay calm, focus on learning a few new tools, and reco
 |  14 | Caution is advised before deploying AI agents in production due to security concerns.                                                                                                           |
 |  15 | Docker has released microVMs for agent isolation; agents can escape traditional sandboxes.                                                                                                      |
 |  16 | After mastering core Kubernetes features, explore KAgent, Toolhive, and Agent Gateway.                                                                                                          |
-|  17 | The cloud-native-ai-lab repo provides a free, structured learning path for AI on Kubernetes.                                                                                                    |
+|  17 | The cloud-native-ai-lab repository provides a free, structured learning path for AI on Kubernetes.                                                                                              |
 |  18 | Existing skills in platforms, tooling, monitoring, and security remain relevant for AI workloads.                                                                                               |
 |  19 | Adapting to AI workloads mainly requires learning a few new tools and concepts; most existing knowledge is still applicable.                                                                    |
 

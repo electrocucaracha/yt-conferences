@@ -40,7 +40,7 @@ They conclude with a roadmap update, mentioning improvements to the CLI, a new r
 |   5 | Provides cleanup policies to remove unnecessary resources based on labels or expressions.                                                              |
 |   6 | API and expression language (CEL) are similar to Kubernetes built-in policies, with additional libraries for extended use cases.                       |
 |   7 | Enables image verification and HTTP requests in policy execution.                                                                                      |
-|   8 | Can be used as a CLI tool for validating any JSON payload, including Dockerfiles and Terraform files.                                                  |
+|   8 | Can be used as a command-line tool for validating any JSON payload, including Dockerfiles and Terraform files.                                         |
 |   9 | Offers an OPA-Envoy plugin for validating Envoy requests and HTTP requests.                                                                            |
 |  10 | Easy to learn for Kubernetes users, uses YAML and CEL for policy definitions.                                                                          |
 |  11 | Fine-grained exception handling allows excluding resources from policies without changing the policy itself.                                           |

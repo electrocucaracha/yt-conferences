@@ -51,7 +51,7 @@ The session concluded with a Q&A addressing differences and shared features betw
 |  15 | Stream-based push for ingestion, improving efficiency.                                                                          |
 |  16 | Improved native histogram support, including out-of-order ingestion and observability.                                          |
 |  17 | Ingestion rate limits for native histograms.                                                                                    |
-|  18 | Ability to query multiple tenants simultaneously using pipe-delimited or regex.                                                 |
+|  18 | Ability to query multiple tenants simultaneously using pipe-delimited or regular expression.                                    |
 |  19 | Dynamic query splitting for more efficient query sharding.                                                                      |
 |  20 | Option to reject queries if ingesters exceed CPU/memory thresholds.                                                             |
 |  21 | UTF-8 support in metric names and labels, including emojis.                                                                     |

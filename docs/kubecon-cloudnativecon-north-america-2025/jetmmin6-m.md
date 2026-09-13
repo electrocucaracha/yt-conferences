@@ -47,7 +47,7 @@ The panel concludes on a hopeful note, citing increased industry investment in s
 |  12 | Hackathons and live hacking events foster collaboration and immediate problem-solving across teams.                                                                                |
 |  13 | SLAs in security often come from contracts, not from service level objectives (SLOs), which can misalign priorities.                                                               |
 |  14 | Decision-making power and risk acceptance are often separated from technical understanding, complicating response to findings.                                                     |
-|  15 | There is hope in industry trends: increased investment in security, AI automating compliance tasks, and new ide                                                                    |
+|  15 | There is hope in industry trends: increased investment in security, AI automating compliance tasks, and new IDE                                                                    |
 
 # Video
 

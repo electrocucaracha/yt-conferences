@@ -52,7 +52,7 @@ Agones has become widely adopted in the industry, with many contributors, and bo
 |  16 | The infrastructure adapts to different regional peaks and availability, routing traffic and capacity to the best cloud provider.        |
 |  17 | Agones has become widely adopted in the industry over the past 8 years, with many contributors.                                         |
 |  18 | Ubisoft invites others to learn more about Agones and join their community.                                                             |
-|  19 | Ubisoft encourages trying Rainbow Six Mobile and visiting their website for more information.                                           |
+|  19 | Ubisoft encourages trying Rainbow Six Mobile and visiting their site for more information.                                              |
 
 # Video
 

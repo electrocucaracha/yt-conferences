@@ -25,7 +25,7 @@ generated:
 
 The Graphana team, led by Joe, shared their experience migrating to Open FGA (formerly known as Zanzibar) for authorization and access control.
 They started with a small pilot project, focusing on folders and dashboards, and gradually expanded to other resources.
-The team encountered challenges, such as schema complexity and performance issues, but found solutions through feature toggles, caching, and local search indexes.
+The team encountered challenges, such as schema complexity and performance issues, but found solutions through feature toggles, caching, and local search indices.
 To address multi-tenancy, they used separate stores for each tenant, leveraging Open FGA's middleware capabilities.
 The Graphana DSkit toolkit enabled packaging and deployment of the authorization logic, allowing for scalability and flexibility in cloud and on-premises environments.
 
