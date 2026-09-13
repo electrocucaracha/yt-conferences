@@ -1,0 +1,54 @@
+# SPDX-license-identifier: Apache-2.0
+##############################################################################
+# Copyright (c) 2026
+# All rights reserved. This program and the accompanying materials
+# are made available under the terms of the Apache License, Version 2.0
+# which accompanies this distribution, and is available at
+# http://www.apache.org/licenses/LICENSE-2.0
+##############################################################################
+name: Lint Code Base
+# yamllint disable-line rule:truthy
+on:
+  push:
+  pull_request:
+permissions: read-all
+jobs:
+  get-sloc:
+    name: Count Lines of Code
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Setup Go
+        uses: actions/setup-go@b7ad1dad31e06c5925ef5d2fc7ad053ef454303e # v7.0.0
+        with:
+          go-version: "^1.27"
+          cache: false
+      - name: Install dependencies
+        run: go install github.com/boyter/scc/v3@latest
+      - name: Run scc tool
+        run: scc --format wide
+  check-super-linter:
+    name: Check syntax (super-linter)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Run super-linter validation
+        uses: super-linter/super-linter@4ce20838b8ab83717e78138c5b3a1407148e0918 # v8.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LINTER_RULES_PATH: .github/linters
+          SAVE_SUPER_LINTER_OUTPUT: true
+          KUBERNETES_KUBECONFORM_OPTIONS: "-ignore-missing-schemas"
+          FILTER_REGEX_EXCLUDE: "(^|/)(\\.venv|\\.tox|node_modules|dist|build|htmlcov|\\.pytest_cache|\\.ruff_cache|\\.mypy_cache|\\.qmd)(/|$)"
+          VALIDATE_BIOME_FORMAT: false
+          VALIDATE_BIOME_LINT: false
+          DEFAULT_BRANCH: ${{ github.head_ref || github.ref_name }}

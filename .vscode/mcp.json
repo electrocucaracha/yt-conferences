@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "yt-conferences-qmd": {
+      "type": "stdio",
+      "command": "qmd",
+      "args": ["mcp"],
+      "env": {
+        "QMD_FORCE_CPU": "1"
+      }
+    }
+  }
+}

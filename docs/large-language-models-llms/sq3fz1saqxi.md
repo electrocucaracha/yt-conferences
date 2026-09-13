@@ -1,0 +1,43 @@
+---
+type: Video Note
+title: "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 1: Overview and Tokenization"
+description: 'The CS 336 course, "Language Models from Scratch," is designed to provide students with a comprehensive, hands-on understanding of the entire language modeling pipeline, from data processing and tokenization to model architecture, training...'
+resource: https://www.youtube.com/watch?v=SQ3fZ1sAqXI
+tags: ["large-language-models-llms", video, learning]
+status: stable
+generated: { by: process:yt-conferences-okf, at: 2026-09-12T00:00:00Z }
+---
+
+# Summary
+
+The CS 336 course, "Language Models from Scratch," is designed to provide students with a comprehensive, hands-on understanding of the entire language modeling pipeline, from data processing and tokenization to model architecture, training, scaling, and alignment.
+The instructors emphasize the importance of building models from the ground up to truly grasp the underlying mechanics, mindset, and partial intuitions necessary for fundamental research, especially as modern AI research often abstracts away these details.
+The course is structured into five main units—basics, systems, scaling laws, data, and alignment—each with challenging assignments that require students to implement core components without scaffolding, benchmark efficiency, and make design decisions reflective of real-world constraints.
+Students will learn about the evolution of language models, the significance of efficiency in both hardware and algorithms, and the practical challenges of working with large-scale data and compute resources.
+While the course is demanding and not focused on the latest techniques or training frontier-scale models, it aims to equip students with the foundational skills and mindset needed to innovate and build robust machine learning systems, with all materials and lectures made available online for broader access.
+# Main Points
+
+|   # | Main point                                                                                                                                                                                                                                                                                                                       |
+| --: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Introduction of CS336: Language Models from Scratch; core staff introduced (Percy, Tatsu, Roit, Neil, Marcel)                                                                                                                                                                                                                    |
+|   2 | Course covers end-to-end language modeling pipeline: data, systems, modeling                                                                                                                                                                                                                                                     |
+|   3 | Emphasis on building language models from scratch for deep technical understanding                                                                                                                                                                                                                                               |
+|   4 | Class size increased by 50%; lectures made available on YouTube                                                                                                                                                                                                                                                                  |
+|   5 | Motivation: Researchers are increasingly abstracted from underlying technology; need to reconnect with fundamentals                                                                                                                                                                                                              |
+|   6 | Industrialization of language models: GPT-4 rumored at 1.8T parameters, $100M+ to train, 200K H100s, $500B investment                                                                                                                                                                                                            |
+|   7 | Lack of public details on frontier models due to competition and safety                                                                                                                                                                                                                                                          |
+|   8 | Small models may not be representative of large-scale behaviors (e.g., attention vs. MLP flops, emergent behaviors)                                                                                                                                                                                                              |
+|   9 | Three types of knowledge taught: mechanics (how things work), mindset (scaling, efficiency), intuitions (data/modeling choices)                                                                                                                                                                                                  |
+|  10 | Bitter lesson: Efficiency and algorithms at scale matter; algorithmic improvements have outpaced Moore’s Law                                                                                                                                                                                                                     |
+|  11 | Research focus: Build the best model given compute/data budget; maximize efficiency                                                                                                                                                                                                                                              |
+|  12 | Brief history: Language models from Shannon, n-gram models, neural language models, transformers, foundation models (ELMo, BERT, T5), scaling laws, open/closed models                                                                                                                                                           |
+|  13 | Openness levels: closed, open-weights, open-source                                                                                                                                                                                                                                                                               |
+|  14 | Course uses executable lectures with embedded code                                                                                                                                                                                                                                                                               |
+|  15 | Course logistics: 5-unit class, heavy workload, five assignments, minimal scaffolding, unit tests provided, cluster access via Together AI                                                                                                                                                                                       |
+|  16 | Assignments: 1. Basics—implement tokenizer, transformer, optimizer, training loop 2. Systems—kernels, parallelism, inference, benchmarking 3. Scaling laws—fit scaling curves, optimize hyperparameters under flops budget 4. Data—curation, filtering, deduplication, evaluation 5. Alignment—supervised fine-tuning, DPO, GRPO |
+|  17 | Emphasis on efficiency in all design decisions due to compute constraints                                                                                                                                                                                                                                                        |
+|  18 | Tokenization: overview of character, byte, word, and BPE (byte pair encod                                                                                                                                                                                                                                                        |
+
+# Video
+
+[Watch on YouTube](https://www.youtube.com/watch?v=SQ3fZ1sAqXI)
