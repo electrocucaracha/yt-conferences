@@ -6,9 +6,8 @@
 # which accompanies this distribution, and is available at
 # http://www.apache.org/licenses/LICENSE-2.0
 ##############################################################################
-
-MD013:
-  line_length: 400 # Line length; markdownlint default of 80 is too short
+MD013: false # Line length check disabled for tables and semantic line breaks
 MD024:
   siblings_only: true # Allow duplicate headings under different parent headings
+MD025: false # Allow multiple top-level headings (Summary, Main Points, Video)
 MD029: false # Allow sequential ordered-list numbering (1. 2. 3.)
