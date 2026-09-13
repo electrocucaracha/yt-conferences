@@ -26,7 +26,6 @@ fmt: cleanup
 	uvx black .
 	uvx isort .
 	uv run --script scripts/format_okf.py
-	npx --yes prettier "docs/**/*.md" --write
 
 check:
 	uv run --script scripts/check_okf.py
