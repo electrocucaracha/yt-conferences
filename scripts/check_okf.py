@@ -28,7 +28,6 @@ from pathlib import Path
 import click
 import frontmatter
 
-
 ROOT = Path(__file__).resolve().parents[1] / "docs"
 
 
@@ -88,7 +87,9 @@ def validate_bundle(root: Path) -> list[str]:
     elif 'okf_version: "0.2"' not in index_path.read_text(encoding="utf-8"):
         errors.append(f"{index_path}: missing okf_version 0.2")
 
-    directories = sorted(path for path in root.rglob("*") if path.is_dir() and "assets" not in path.parts)
+    directories = sorted(
+        path for path in root.rglob("*") if path.is_dir() and "assets" not in path.parts
+    )
     for directory in directories:
         if not (directory / "index.md").is_file():
             errors.append(f"{directory}: missing directory index.md")
@@ -104,21 +105,31 @@ def validate_bundle(root: Path) -> list[str]:
         if end == -1:
             errors.append(f"{path}: unterminated YAML frontmatter")
             continue
-        document = frontmatter.loads(text)
+        try:
+            document = frontmatter.loads(text)
+        except Exception as err:  # noqa: BLE001
+            errors.append(f"{path}: invalid YAML frontmatter ({err})")
+            continue
         if not document.metadata.get("type"):
             errors.append(f"{path}: missing non-empty type")
         body = document.content
         required_sections = ["# Summary", "# Main Points", "# Video"]
-        missing_sections = [section for section in required_sections if section not in body]
+        missing_sections = [
+            section for section in required_sections if section not in body
+        ]
         if missing_sections:
             errors.append(f"{path}: missing sections: {', '.join(missing_sections)}")
-        if not re.search(r"^\|\s*#\s*\|\s*Main point\s*\|$", body, re.MULTILINE) or not re.search(r"^\|\s*:?-+:\s*\|\s*-+\s*\|$", body, re.MULTILINE):
+        if not re.search(
+            r"^\|\s*#\s*\|\s*Main point\s*\|$", body, re.MULTILINE
+        ) or not re.search(r"^\|\s*:?-+:\s*\|\s*-+\s*\|$", body, re.MULTILINE):
             errors.append(f"{path}: Main Points must be a Markdown table")
     return errors
 
 
 @click.command()
-@click.option("--root", type=click.Path(path_type=Path), default=ROOT, show_default=True)
+@click.option(
+    "--root", type=click.Path(path_type=Path), default=ROOT, show_default=True
+)
 def main(root: Path) -> None:
     """Validate the bundle and exit with a failure status when invalid."""
     errors = validate_bundle(root)
@@ -127,7 +138,9 @@ def main(root: Path) -> None:
         click.echo("\n".join(errors))
         raise click.exceptions.Exit(1)
 
-    concepts = sum(1 for path in root.rglob("*.md") if path.name not in {"index.md", "log.md"})
+    concepts = sum(
+        1 for path in root.rglob("*.md") if path.name not in {"index.md", "log.md"}
+    )
     click.echo(f"OKF v0.2 check passed: {concepts} concept documents")
 
 

@@ -25,7 +25,6 @@ from pathlib import Path
 
 import click
 
-
 ROOT = Path(__file__).resolve().parents[1] / "docs"
 
 
@@ -113,20 +112,33 @@ def format_concept(path: Path) -> None:
     if end == -1:
         return
     body = text[end + 4 :].strip()
-    existing_summary = re.search(r"^# Summary\s*\n\n(.*?)(?=\n# Main Points)", body, re.MULTILINE | re.DOTALL)
+    existing_summary = re.search(
+        r"^# Summary\s*\n\n(.*?)(?=\n# Main Points)", body, re.MULTILINE | re.DOTALL
+    )
     if not existing_summary:
         return
     summary_lines = [
         sentence.strip()
-        for sentence in re.split(r"(?<=[.!?])\s+", " ".join(existing_summary.group(1).split()))
+        for sentence in re.split(
+            r"(?<=[.!?])\s+", " ".join(existing_summary.group(1).split())
+        )
         if sentence.strip()
     ]
-    replacement = "# Summary\n\n" + "\n".join(summary_lines) + "\n"
-    path.write_text(text[: end + 4] + "\n\n" + body[: existing_summary.start()] + replacement + body[existing_summary.end() :].lstrip(), encoding="utf-8")
+    replacement = "# Summary\n\n" + "\n".join(summary_lines) + "\n\n"
+    formatted = (
+        text[: end + 4]
+        + "\n\n"
+        + body[: existing_summary.start()]
+        + replacement
+        + body[existing_summary.end() :].lstrip()
+    ).rstrip() + "\n"
+    path.write_text(formatted, encoding="utf-8")
 
 
 @click.command()
-@click.option("--root", type=click.Path(path_type=Path), default=ROOT, show_default=True)
+@click.option(
+    "--root", type=click.Path(path_type=Path), default=ROOT, show_default=True
+)
 def main(root: Path) -> None:
     """Format all concept documents in the documentation bundle."""
     for concept in sorted(root.rglob("*.md")):
