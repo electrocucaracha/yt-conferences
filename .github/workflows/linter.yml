@@ -52,4 +52,5 @@ jobs:
           FILTER_REGEX_EXCLUDE: "(^|/)(\\.venv|\\.tox|node_modules|dist|build|htmlcov|\\.pytest_cache|\\.ruff_cache|\\.mypy_cache|\\.qmd)(/|$)"
           VALIDATE_BIOME_FORMAT: false
           VALIDATE_BIOME_LINT: false
+          VALIDATE_SPELL_CODESPELL: false
           DEFAULT_BRANCH: ${{ github.head_ref || github.ref_name }}
