@@ -7,6 +7,125 @@ nav_order: 12
 
 # Mcp Dev Summit Eu 2025
 
+## Executive Overview
+
+The MCP Dev Summit EU 2025 in London brought together AI architects, protocol maintainers, enterprise developers, and platform leaders to examine the rapid maturation of the Model Context Protocol (MCP).
+Featuring keynotes and technical sessions from Anthropic, Bloomberg, Amazon Web Services, Google Chrome DevTools, Shopify, Block, WorkOS, Grafana Labs, Hugging Face, Platformatic, and Tetrate, the conference highlighted MCP's transition from a novel open-source specification into a foundational infrastructure layer for enterprise AI.
+As the ecosystem reaches over 10,000 public and private MCP servers, community attention has turned toward production readiness, enterprise security, protocol standardization, and rich interactive user experiences.
+Organizations are moving beyond basic API wrappers toward stateful, workflow-driven MCP agents, native asynchronous execution (SEP 1391), zero-trust authentication gateways, and dynamic UI component rendering (MCP-UI).
+Simultaneously, enterprise leaders in financial services, retail, and travel are embedding MCP into core operations to ground generative AI in real-time context while maintaining strict compliance, observability, and data entitlements.
+
+## Terminology
+
+- **Model Context Protocol (MCP)**:
+  An open standard enabling large language models and autonomous agents to securely access digital tools, enterprise databases, and interactive UI components.
+
+- **Asynchronous Tool Calling (SEP 1391)**:
+  A protocol extension introducing native task tokens and RPC methods for non-blocking, long-running agent workflows like code migration and molecular analysis.
+
+- **MCP Profiles**:
+  Server-declared policy configurations identified by unique URLs that mandate specific authentication, token durations, or enterprise compliance requirements.
+
+- **MCP-UI**:
+  An open protocol permitting MCP servers to transmit sandboxed, interactive UI components directly into AI chat environments.
+
+- **MCP Registry (`server.json`)**:
+  A community-driven, decentralized specification and REST API for publishing, discovering, and federating MCP server capabilities across organizations.
+
+- **Layered Tool Pattern**:
+  An agent tool architecture that condenses complex multi-API domains into three structured phases: discovery, planning, and execution.
+
+- **Sampling & Elicitation**:
+  Core protocol capabilities allowing agent-to-agent context requests (sampling) and agent-to-human clarification prompts (elicitation).
+
+- **Dynamic MCPs (DMCPs) & Serlets**:
+  Context-aware virtual servers that dynamically inject or revoke tools based on active tasks to prevent context window bloat and tool overload.
+
+## Key Themes & Trends
+
+- **Enterprise Security, Authorization, and Zero-Trust Gateways**:
+  Transitioning MCP from developer local desktops to corporate networks requires robust authorization.
+  Industry leaders are implementing zero-trust AI gateways (Pomerium, HyperMCP, Amboy) and adopting client metadata specifications (SEP 9991) to replace fragile Dynamic Client Registration (DCR).
+  Financial leaders (Bloomberg, Saxo Bank, Evergreen Wealth) emphasized enforcing granular data entitlements, audit logging, and step-up authentication across automated agent interactions.
+
+- **Protocol Scalability, Asynchronous Execution, and Stateless Transports**:
+  Synchronous tool calls introduce significant latency and operational bottlenecks for complex tasks.
+  The introduction of native asynchronous tool semantics (SEP 1391) enables tools to run in the background while returning progress tokens.
+  Additionally, production deployments at Hugging Face and Platformatic highlight a shift toward default stateless HTTP streamable transport and server-side state persistence (e.g. Redis) to ensure multi-threaded scaling.
+
+- **Workflow-Centric Agents and Multi-Agent Collaboration**:
+  Exposing raw, fine-grained REST endpoints directly to LLMs causes decision fatigue and prompt bloat.
+  Engineers from Square, Tomorrow AI, and Obot AI advocated for layered tool patterns and workflow-centric agent design.
+  Leveraging protocol primitives like sampling and elicitation allows autonomous agents (MAMU, Nanobot) to coordinate multi-user workspaces, execute complex multi-step pipelines, and request human-in-the-loop approvals when required.
+
+- **Tool Overload Mitigation and Graph-Based Discovery**:
+  As available tools expand into thousands, static tool injection degrades LLM reasoning and inflates token costs.
+  Solutions like MCPZ "serlets", graph-based tool selection algorithms, and dynamic MCPs (DMCPs) filter tools based on centrality, cost, and active context.
+  Concurrently, the open-source MCP Registry (`server.json`) enables federated, decentralized server discovery across public and enterprise subregistries.
+
+- **Interactive User Interfaces and Embedded Components (MCP-UI)**:
+  Text-only chat responses are insufficient for complex domains like ecommerce, travel, and developer tooling.
+  Shopify, Postman, and Goose demonstrated MCP-UI, sending sandboxed, brand-consistent HTML/React widgets directly to chat clients.
+  Users can browse products, manage shopping carts, inspect DevTools, and authorize transactions interactively inside the agent interface.
+
+- **Observability, Vetting, and Quality Assurance**:
+  Operating enterprise agent fabrics demands comprehensive monitoring and security vetting.
+  Platforms like Numa Labs/Natoma perform automated static analysis to detect prompt injection and tool poisoning before servers are published.
+  Furthermore, Grafana Labs demonstrated protocol-level performance testing using K6, enabling continuous integration pipelines to simulate soak and spike tests across MCP connections.
+
+## Key Takeaways & Strategic Insights
+
+- **Architect for Workflows, Not Raw Endpoints**:
+  Avoid exposing raw database tables or hundreds of API endpoints directly to models.
+  Implement the layered tool pattern (discovery, planning, execution) or workflow servers to streamline model reasoning and lower execution costs.
+
+- **Adopt Zero-Trust Identity and Gateway Architecture**:
+  Centralize authentication, rate limiting, and observability using identity-aware AI gateways (Pomerium, HyperMCP).
+  Decouple authentication logic from individual MCP server implementations to ensure enterprise compliance.
+
+- **Implement Dynamic Context and Graph-Based Tool Routing**:
+  Utilize dynamic toolboxes (serlets) or graph-based tool selection to inject only relevant tools into the active context window, reducing token expense by up to 95%.
+
+- **Prepare for Asynchronous and Stateless Operations**:
+  Design new MCP tools around asynchronous task tokens (SEP 1391) and stateless HTTP transports to support long-running enterprise processes and horizontal scaling.
+
+- **Enhance User Engagement with Interactive UI (MCP-UI)**:
+  Integrate MCP-UI to deliver rich, domain-specific UI components within chat clients, transforming text assistants into interactive applications.
+
+| Talk Title                                                                                                             | Speaker & Organization                  | Core Thesis & Strategic Insight                                                                                                                               |
+| :--------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Multi-Agent Multi-User Collab thru MCP: Enabling Asynchronous Human-Agent Agent-Human Workflows](feqgd-m-p5e.md)      | Andrew Culverson & Mun Burid            | Demonstrates MAMU, leveraging sampling and elicitation for multi-agent, multi-user workspaces with asynchronous collaboration and human approvals.            |
+| [[Session] Scaling MCP Observability: How Natoma Monitors Thousands of MCP Servers](09orzbzc3au.md)                    | Capil (Numa Labs)                       | Outlines enterprise observability, static code vetting for prompt injection, and detailed activity logging across thousands of hosted MCP servers.            |
+| [[Session] Asynchronous Tool Calling with Nick Aldridge - Amazon Web Services](2q6o1b-lcew.md)                         | Nick Aldridge (AWS)                     | Introduces SEP 1391 for native asynchronous tool calling, establishing task tokens and RPC methods for non-blocking enterprise workflows.                     |
+| [[Session] What are Profiles? A Proposed Foundational Feature of MCP Servers](5hasfiwob2g.md)                          | Standards Working Group                 | Proposes MCP Profiles to allow organizations to declare and negotiate specific authentication, security, and compliance requirements during connection setup. |
+| [[Session] From Embeddings to Edges: A Graph Based Approach to Tool Selection](5nfohwawvgm.md)                         | Tooling Architecture Team               | Presents a graph-based tool selection framework representing tools as nodes and edges to improve selection accuracy and reduce context bloat.                 |
+| [[Session] Improving Agentic Search with MCP Sessions with Matt Dailey - Ref](cgki4v11sps.md)                          | Matt Dailey (Ref)                       | Demonstrates stateful MCP sessions for document search, achieving up to 95% token savings through prefetching and context chunking.                           |
+| [[Session] One Test a Day Keeps the Issues Away with Oleksandr Kotov - Grafana Labs](d3peufcbhqq.md)                   | Oleksandr Kotov (Grafana Labs)          | Details performance testing for MCP servers using K6 and Grafana to simulate load, identify bottlenecks, and enforce CI quality thresholds.                   |
+| [[Session] MCP Registry: The Path To (De-)Centralizing Discovery](dqnolgpndq4.md)                                      | Tatis & Toby (MCP Registry Maintainers) | Explains the open-source `server.json` specification and subregistry architecture enabling federated server discovery across organizations.                   |
+| [[Keynote] Building an AI Voice Agent to Automate a Robot Cafe with Google Gemini Live and MCP](eqrdy42vwma.md)        | Gerard Sans (Google Developer Expert)   | Demonstrates building a real-time multilingual AI voice agent integrating Google Gemini Live and MCP to automate robot cafe operations.                       |
+| [[Session] Building Scalable MCP Servers with Node with Matteo Colina - Platformatic.dev](eresuo6n5zq.md)              | Matteo Colina (Platformatic.dev)        | Introduces `@platformatic/mcp` for stateful, Redis-backed Node.js MCP servers supporting session resumability and OAuth 2.1 integration.                      |
+| [[Session] Tools, Not Endpoints: The Layered MCP Pattern for Task‑Centric Agents](fuloflb7bzk.md)                      | Square Platform Engineering             | Proposes the layered tool pattern (discovery, planning, execution) to distill extensive API catalogs into intuitive agent capabilities.                       |
+| [[Roundtable] Why Financial Services Companies are Investing in MCP](gkpr538mjd0.md)                                   | Evergreen Wealth, Bloomberg, Saxo Bank  | Discusses enterprise MCP adoption in financial services, focusing on regulatory compliance, data entitlements, and structured outputs.                        |
+| [[Session] Too Many Tools: Surviving the MCP Tool Overload with Shalev Shalit - Webrix](hjy04dv-o7u.md)                | Shalev Shalit (Webrix)                  | Evaluates strategy patterns for mitigating tool overload, including dynamic MCPs (DMCPs), search-and-call methods, and role-tailored toolkits.                |
+| [[Session] Moving Past Simple MCP Tools to MCP Agents with Darren Shepherd - Obot AI](irgmqmjwdna.md)                  | Darren Shepherd (Obot AI)               | Introduces Nanobot, encapsulating MCP hosts as conversational agents within servers to deliver controlled, multimodal user experiences.                       |
+| [[Session] Do You Need an AI Gateway with Ignasi Barrera - Tetrate](jbehnvunf2m.md)                                    | Ignasi Barrera (Tetrate)                | Presents the Amboy AI Gateway for managing security, policy enforcement, rate limiting, and observability across LLM and MCP traffic.                         |
+| [[Session] Let's dream big for MCP Auth with Tobin South - WorkOS](jpee-ge5olm.md)                                     | Tobin South (WorkOS)                    | Explores authorization architecture for autonomous agents, covering backchannel auth, step-up prompts, and enterprise SSO/SAML integration.                   |
+| [[Session] Beyond API Wrappers: Workflow-Based MCP Servers with Elicitation and Sampling](jupodqwmymu.md)              | Tom McLolin (Tomorrow AI)               | Recommends workflow-oriented MCP servers leveraging progressive disclosure, elicitation, and sampling to guide complex user tasks.                            |
+| [[Keynote] Revolutionizing Travel with AI How We Built the Turkish Airlines MCP](kwvkpfnhwlm.md)                       | Turkish Airlines Technology Team        | Details Turkish Airlines' enterprise MCP server implementation for conversational flight booking, promotions, and frequent flyer OAuth 2.1 auth.              |
+| [[Session] Lessons Learned Building the Chrome DevTools MCP Server](lryv4stcyac.md)                                    | Jack (Google Chrome DevTools)           | Shares lessons from Google's official Chrome DevTools MCP server, advocating for granular composable actions over rigid high-level tools.                     |
+| [[Keynote] MCP Project Update with David Soria Parra - Anthropic](oaebrdfuhi.md)                                       | David Soria Parra (Anthropic)           | Delivers Anthropic's state of the MCP project update, highlighting ecosystem scale (10,000+ servers), async tasks, and client metadata specs.                 |
+| [[Session] Effortless User Onboarding with MCP with Pedro Rodrigues - SingleStore](ojglgebvdbs.md)                     | Pedro Rodrigues (SingleStore)           | Shows how SingleStore uses remote MCP servers with Markdown guides and prompt templates to accelerate developer onboarding for LLMs.                          |
+| [[Session] Streams, Sessions, Stats Transport and Client Behaviour in Practice](osoex7jy0m4.md)                        | Sean Smith (Hugging Face)               | Analyzes streamable HTTP transport production traffic at Hugging Face, advising default statelessness for reliable horizontal scaling.                        |
+| [[Keynote] Engineering the Future-Making MCP Enterprise Ready for Finance - Shawn Edwards, Bloomberg](p9xcmpmuam4.md)  | Shawn Edwards (Bloomberg)               | Details Bloomberg's adoption of agentic AI and MCP to ground financial applications in trusted, real-time market data with enterprise governance.             |
+| [[Session] MCP & Contextual Smart Tooling with Jason Kneen - BouncingFish](s413hw1hxou.md)                             | Jason Kneen (BouncingFish)              | Introduces MCPZ CLI and "serlets" to generate task-specific virtual servers that dynamically load tools and eliminate prompt bloat.                           |
+| [[Session] MCP-UI: Next-gen Agentic Experiences](sixtarbvl5w.md)                                                       | MCP-UI Core Team                        | Introduces MCP-UI, an open protocol for embedding sandboxed, interactive UI components directly into AI chat environments.                                    |
+| [[Keynote] Scaling Commerce Interactivity Lessons from Shopify's Implementation of MCP UI](t8bgeuoqbh4.md)             | Samuel & Brett (Shopify)                | Demonstrates Shopify's integration of MCP UI into AI agents, enabling interactive product browsing, cart rendering, and checkout in chat.                     |
+| [[Session] OAuth Everywhere: What I Learned Building MCP Clients, Servers, & the Gateway Between Them](ujmywi-tkp0.md) | Donnie Adams (OTO AI)                   | Shares lessons from multi-tenant MCP gateway deployment, addressing OAuth scope challenges, token refresh, and WWW-Authenticate improvements.                 |
+| [[Session] Why Clients Matter: The Other Side of MCP](vkhi8-kanoy.md)                                                  | Angie Jones (Block)                     | Highlights the role of open-source MCP clients like Goose in driving agentic AI adoption, preventing lock-in, and enabling custom workflows.                  |
+| [[Session] Hidden powers of MCP Gateways: Solving OAuth and Analytics Challenges](wibqp0rjj78.md)                      | Philip Mlinsy (Glass Cube)              | Introduces HyperMCP, an open-source gateway for simplifying server setup, centralized OAuth management, and request-response analytics.                       |
+| [[Session] Secure from Day One Building Production Ready MCP Servers with Nick Taylor - Pomerium](wtjzdf068w.md)       | Nick Taylor (Pomerium)                  | Explains applying zero-trust principles and identity-aware proxies to secure production MCP servers without manual OAuth implementation.                      |
+| [[Session] Why is MCP Auth Hard and What Are We Planning to Do About It](wvtglur2sdi.md)                               | Paul (Anthropic)                        | Outlines authentication challenges in dynamic MCP environments and introduces SEP 9991 for client metadata documents to replace DCR.                          |
+
 ## Concepts
 
 - [Highlights from MPC Dev Summit EU 2025 - London - 2 Oct 2025](rojxsfwkftw.md) - The speaker, a developer, expresses appreciation for the note-taking and documentation features in MCP, highlighting how they assist in tracking progress and maintaining context during code development. They observe that the MCP ecosystem i...

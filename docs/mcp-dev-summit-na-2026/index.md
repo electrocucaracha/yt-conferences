@@ -7,6 +7,188 @@ nav_order: 14
 
 # Mcp Dev Summit Na 2026
 
+## Executive Overview
+
+The Model Context Protocol Developer Summit North America 2026 (MCP Dev Summit NA 2026) represented a milestone event for the open agentic AI ecosystem.
+Organized under the Agentic AI Foundation (AAIF) and Linux Foundation, the summit gathered engineers, architects, security researchers, and technology executives from Anthropic, Docker, AWS, Google Cloud, Microsoft, Prefect, Obot AI, Cloudflare, Datadog, Block, and numerous high-growth startups.
+The core focus shifted from initial client-server experimentation to establishing production-grade architectures, enterprise control planes, security patterns, interactive agent interfaces (MCP Apps), and asynchronous task execution models (MCP Tasks).
+Keynotes and technical sessions demonstrated how MCP has grown into an industry standard powering over 110 million monthly SDK downloads, driving interoperability across autonomous agents, tools, cloud infrastructure, and enterprise workflows.
+
+## Terminology
+
+- **Model Context Protocol (MCP)**:
+  An open standard protocol that standardizes how AI applications and agents connect to context, tools, prompts, and resources across heterogeneous systems.
+
+- **MCP Apps**:
+  An extension to the MCP specification that enables servers to return interactive UI components rather than plain text responses, transforming chat interfaces into dynamic graphical workflows.
+
+- **MCP Tasks**:
+  An asynchronous execution primitive (defined via SEP-1686) enabling agents to initiate, monitor, and manage long-running, durable background processes across distributed systems.
+
+- **MCP Gateways**:
+  Control plane middleware that aggregates, composes, authenticates, and routes requests between agents and multiple backend MCP servers.
+
+- **Context Middleware**:
+  Intermediate processing layers that filter, transform, re-rank, or govern the context provided to LLMs to prevent context window saturation and security leaks.
+
+- **Code Mode**:
+  An agent operational paradigm where LLMs write and execute scripts locally or in a sandbox to interact with APIs and system resources instead of calling individual granular tools.
+
+- **Agentic Discovery**:
+  Mechanisms and registries (such as OCI-based packages or Kubernetes CRDs) that allow agents to dynamically discover and configure MCP servers and skills at runtime.
+
+- **URL Elicitation**:
+  A protocol pattern allowing MCP tools to return secure external interaction links for user tasks like OAuth authorization or payment confirmation without exposing credentials to LLMs.
+
+- **Interceptors**:
+  Standardized middleware components operating between MCP clients and servers to enforce security policies, audit logging, rate limiting, and context governance.
+
+## Key Themes & Trends
+
+- **Transition to Enterprise Control & Data Planes**:
+  Organizations are moving beyond point-to-point local MCP connections toward centralized control planes, enterprise gateways, and data planes.
+  These architectures enforce identity management, access delegation, policy control, and auditability across distributed multi-agent systems.
+
+- **Evolution Beyond Static Tools to Interactive UIs (MCP Apps)**:
+  Text-only walls are being replaced by rich, embedded UI components returned directly by MCP servers.
+  This allows users to review graphics, interact with forms, confirm actions, and collaborate in real-time within environments like Visual Studio Code, ChatGPT, and cloud consoles.
+
+- **Asynchronous & Long-Running Execution (MCP Tasks)**:
+  The introduction of MCP Tasks and SEP-1686 solves a fundamental limitation of synchronous HTTP/stdio requests.
+  Agents can now dispatch long-running workflows, detach, and asynchronously poll or receive notifications upon completion using engines like Prefect, Temporal, and Obot AI.
+
+- **Security, Identity, and Authorization Re-imagined**:
+  Delegated agentic access introduces complex security challenges, including multi-issuer mix-up attacks, shadow MCP deployments, and confused deputy vulnerabilities.
+  Practitioners are implementing 4-legged identity frameworks, URL elicitation, OCI container image packaging, and granular interceptors to protect enterprise data.
+
+- **Context Optimization & Progressive Discovery**:
+  As tool counts scale into the thousands, passing full API schemas exhausts context windows and degrades model accuracy.
+  Engineering teams are utilizing progressive tool discovery, dynamic filtering, RPC-to-MCP abstractions, and context middleware to keep prompts focused and lightweight.
+
+## Key Takeaways & Strategic Insights
+
+- **Standardize on Enterprise MCP Gateways**:
+  Deploy centralized MCP gateways to manage tool routing, rate limiting, identity propagation, and observability across internal teams and third-party integrations.
+
+- **Adopt MCP Apps for Complex Workflows**:
+  Leverage MCP Apps to embed interactive forms and visualizations directly into agent flows, improving user trust, decision accuracy, and human-in-the-loop control.
+
+- **Implement Asynchronous Architecture with MCP Tasks**:
+  Incorporate MCP Tasks (SEP-1686) into workflow engines to decouple agent decision-making from execution time limits, supporting resilient background automation.
+
+- **Enforce Granular Security and Identity Guardrails**:
+  Mitigate agent-based security threats by shifting from broad service accounts to user-delegated OAuth patterns, sandboxed OCI runtime environments, and real-time interceptors.
+
+| Talk Title                                                                                                | Speaker & Organization                                 | Core Thesis & Strategic Insight                                                                                 |
+| :-------------------------------------------------------------------------------------------------------- | :----------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| [Keynote: Welcome Remarks from the AAIF Governing Board Chair](p-plv187bw.md)                             | David Nalley                                           | Details the milestone growth of the Agentic AI Foundation to 170+ members advancing open governance.            |
+| [MCP Creator Reveals the 2026 Roadmap for AI Agents](kavrfygcpg0.md)                                      | David (Anthropic)                                      | Highlights over 110M monthly SDK downloads and outlines future protocol extensions for agentic scale.           |
+| [Keynote: Building a Unified Control Plane for MCP Across Servers, Clients, and Teams](en8tvf2h6g0.md)    | Cecilia Liu (Docker)                                   | Highlights real-world risks of unmanaged MCP servers and proposes centralized enterprise control planes.        |
+| [Keynote: Context is More Than Tools - Why the "C" in MCP is More Relevant Than Ever](685yfog3aeo.md)     | Ryan Cooke (WorkOS)                                    | Demonstrates leveraging protocol primitives beyond tool calling to optimize contextual intelligence for agents. |
+| [Keynote: Enterprise MCP - The Data Plane for Autonomous Agents](zsqjouecvrc.md)                          | Adam Seligman & Zayne Turner (Workato)                 | Advocates for data plane architectures to safely govern enterprise data flow across autonomous agent networks.  |
+| [Keynote: Lessons Learned from Driving Enterprise MCP Adoption](m5ymjzx-cfs.md)                           | Sheng Liang (Obot AI)                                  | Shares experiences from early enterprise adoption and community growth over the initial summit cycle.           |
+| [Keynote: MCP @ Amazon Scale](1rogvapmow.md)                                                              | James Hood (AWS)                                       | Explores the evolution of agentic chat, reasoning models, and internal MCP adoption across Amazon.              |
+| [Keynote: MCP Apps: Extending the Frontier](e6sspa7wpwc.md)                                               | Ido Salomon & Liad Yosef                               | Introduces MCP Apps as an open standard enabling interactive graphical UIs to replace static text.              |
+| [Keynote: Navigating Primitives for Agent Collaboration](1hhffkfqrn8.md)                                  | Nick Aldridge (Mousecat)                               | Reviews the progression from basic Q&A models to sophisticated multi-agent collaborative primitives.            |
+| [Keynote: One-To-Many: Enabling MCP, Agents, and Intelligent Systems...](4rmvn-d8uy.md)                   | Ola Hungerford & Sandeep Bhat (Nordstrom)              | Details enterprise architecture foundations required to scale AI integration across retail domains.             |
+| [Keynote: Using MCP for Skills Orchestration and Enterprise Integration](30wu-6-wplc.md)                  | Jacob Wilson (PwC)                                     | Explores applying modern orchestration and skills management to transform enterprise procurement.               |
+| [Call Now, Fetch Later: MCP Tasks and SEP-1686](iskuhxrf6wm.md)                                           | Adam Azzam (Prefect)                                   | Explains SEP-1686 for decoupling task invocation from execution in long-running agent workflows.                |
+| [Durable, Asynchronous, and Tricky: Implementing MCP Tasks in Practice](cd0dlpavdn8.md)                   | Cornelia Davis (Temporal)                              | Addresses implementation details and reliability patterns for asynchronous task workflows.                      |
+| [Building a Workflow Engine on MCP: Orchestrating Processes With Tasks](f8vpmlm0mai.md)                   | Donnie Adams (Obot AI)                                 | Explores building task-based workflow engines leveraging Kubernetes-inspired declarative primitives.            |
+| [Beyond the Sandbox: Security at the Host Layer](jtkkznut1fw.md)                                          | Lorenzo Verna & Pietro Valfrè (Denied)                 | Proposes host-layer behavioral authorization models to secure autonomous agent execution.                       |
+| [Bridging Kernel Space and AI: Building an MCP Server for Linux Scheduler Observabil...](emgieqbsjm.md)   | Daniel Hodges                                          | Demonstrates using BPF and MCP for conversational, hypothesis-driven kernel scheduling analysis.                |
+| [Building ChatGPT Apps: Principles for a New Kind of Interface](km4zzw0aohc.md)                           | Elliot Garreffa (Ghost Team)                           | Outlines design principles for shifting from traditional web layouts to intent-driven conversational apps.      |
+| [Building MARVIN: What Teaching a Non-Technical Marketer To Use MCP Taught Me About...](g1zzxm-6bx8.md)   | Sterling Chin                                          | Highlights user experience lessons and long-term context retention when onboarding non-technical users to MCP.  |
+| [Challenges in Delivering Unstructured Content Efficiently Over...](hrfaijvcof8.md)                       | Kailas Krivanka & Fernando Cerenza (Box)               | Shares architecture solutions for streaming unstructured content and connecting agents with cloud storage.      |
+| [Clients? Servers? Agents? The Beautiful Asymmetry of the MCP Spec](gmqcxe1zrwy.md)                       | Rohit Ganguly (Descope)                                | Analyzes protocol asymmetry and dynamic client-server-agent relationships in modern implementations.            |
+| [Code Mode Is Best Served in the Shell](z5c9lspqryw.md)                                                   | Jan Curn (Apify)                                       | Compares structured protocol calls against shell-based CLI execution for agent efficiency.                      |
+| [Code Mode Without the Code](ttcnnsapx5q.md)                                                              | Bob Dickinson (TeamSpark)                              | Introduces MCP Graph, a no-code visual workflow orchestration engine for MCP servers.                           |
+| [Combine Skills and MCP To Close the Context Gap](rk9y-27dpko.md)                                         | Pedro Rodrigues (Supabase)                             | Clarifies complementary roles between protocol integrations (MCP) and instructional skill folders.              |
+| [Context Middleware for MCP: From Enterprise Needs To Protocol Extension](x5lx3iou7m.md)                  | Peder Holdgaard Pedersen (Saxo Bank)                   | Examines middleware patterns for governing context quality and enforcing enterprise accuracy.                   |
+| [Datadog Built 100 AI Agents. Here's What Broke.](naty-iftitm.md)                                         | Datadog Speaker                                        | Reviews real-world lessons and failure modes when scaling agent fleets in production.                           |
+| [Declarative MCP Servers for Secure, Specialized AI Agents](lo4nyyuersy.md)                               | Josh Reini & Reetika Roy (Snowflake)                   | Recommends domain-focused declarative servers over monolithic agents with excessive privileges.                 |
+| [Demistifying Client ID Metadata Documents in MCP](yrlpr3o9fni.md)                                        | Den Delimarsky (Anthropic)                             | Explains standardized client registration and metadata document specs for robust authorization.                 |
+| [Deploying MCP at Scale Without Skipping Compliance](cjsr-hkizok.md)                                      | Becky Brooks (Usercentrics)                            | Outlines compliance strategies and regulatory alignment under frameworks like the EU AI Act.                    |
+| [Distributing MCP Servers With OCI To Power Agent Skills](y4pmgop4ryg.md)                                 | Bobby House (Docker)                                   | Demonstrates using OCI image registries for secure packaging and distribution of server dependencies.           |
+| [Dynamic MCPs: Agentic Discovery, Configuration, and Management of MCP Workloads](3imd6g6nm2s.md)         | Jim Clark (Docker)                                     | Compares MCP development to LSP and details dynamic agentic server discovery mechanisms.                        |
+| [Enabling Agentic Cloud Workflows](9tkkmvgqhqo.md)                                                        | Santhosh Misro & Mayur Deshpande (Google)              | Presents Google Storage Intelligence MCP server for goal-driven cloud resource management.                      |
+| [Enterprise-Ready MCP: Security Patterns and the "4-Legged" Identity Challenge](pjpocx9-kt8.md)           | Paulina Xu (Aentic Fabric)                             | Addresses complex identity delegation challenges across multi-tier agent and service topologies.                |
+| [Evaluate What You Can't See: Measure the Probabilistic Nature of MCP](xqjockeusrq.md)                    | P. Patel & M.J. Rocabado (MCP Jam)                     | Introduces evaluation frameworks to measure user value and server performance probabilistically.                |
+| [Every API Is a Tool for Agents](2cndqvkogaw.md)                                                          | Matt Carey (Cloudflare)                                | Shares strategies for handling large API specifications without exhausting model context windows.               |
+| [Evolution, Not Revolution: How MCP Is Reshaping OAuth](zsocfseyvkc.md)                                   | Aaron Parecki (Okta)                                   | Explores updates to authorization standards tailored for autonomous agent delegation.                           |
+| [From 60 Minutes To 60 Seconds: Production MCP Workflows for Healthcare Billing](1lowizbnbsg.md)          | Andrew Espira (Custod)                                 | Case study showing how MCP orchestration reduces healthcare billing workflows from 60 minutes to 60 seconds.    |
+| [From Benchmarks To Business Value: Building a Use-Case Specific Agen...](o7l6-myoct0.md)                 | Gaurav Saxena & Matvey Kukuy                           | Discusses real-world evaluation methodologies for complex telemetry and incident response agents.               |
+| [From Chaos To Clarity: How MCP Transforms Incident Response](t8sx0-jp1dm.md)                             | Sebastian Villanelo & Rocío Bayon                      | Shows how MCP apps reduce engineer context switching during high-pressure incident triage.                      |
+| [From Cypher to Conversation: MCP at WestJet](l8m0ypnf4xi.md)                                             | Anton Lysov (WestJet)                                  | Illustrates replacing complex graph queries with conversational MCP interfaces for airline flight scheduling.   |
+| [From One MCP Server To an Ecosystem: When MCP Stops Being a Server and Becomes a Pla...](7ifljwmwexk.md) | Vaibhav Tupe (Equinix)                                 | Details scaling MCP from single automation tools to a platform-wide enterprise ecosystem.                       |
+| [From Scopes To Intent: Reimagining Authorization for Autonomou...](pqnsft7bvie.md)                       | Andres Aguiar & Abhishek Hingnikar (Okta)              | Re-imagines access control models by transitioning from static scopes to intent-based authorization.            |
+| [Golem To Murderbot: Challenges With Agentic Security Delegation Via MCP](ixqorhltcfw.md)                 | Michael Schwartz (Gluu)                                | Analyzes risks of intent deviation and delegation control using literary metaphors.                             |
+| [Goose as a Proving Ground for New MCP Features, and How To Use Them](0nnuor6gvbk.md)                     | Alex Hancock (Block)                                   | Demonstrates open-source testing of new MCP capabilities within the Goose agent project.                        |
+| [Hooks, Not Hacks: Modular Enforcement for MCP Agents](9lnfch7egxq.md)                                    | Fred Araujo & Ian Molloy (IBM)                         | Proposes modular security enforcement hooks treating agents as potential insider threats.                       |
+| [How Duolingo Built an AI Slackbot With 180+ MCP Tools](5sb9ia2v78g.md)                                   | Aaron (Duolingo)                                       | Shares architecture and lessons from connecting an internal Slackbot to 180+ MCP tools.                         |
+| [Human in the Loop, Agent in the Flow](chjb-bbe050.md)                                                    | Harald Kirschner & Connor Peet (Microsoft)             | Explores building rich interactive agent experiences in Visual Studio Code through MCP primitives.              |
+| [If You Can Secure It Here, You Can Secure It Anywhere](iyouii6qbn8.md)                                   | Milan Williams & Katrina Liu (Semgrep)                 | Details securing MCP servers within static analysis security platforms.                                         |
+| [If the LLM Can't Find You, You Don't Exist: Discoverability for MCP-Apps and Chat...](mtlfhstd3ve.md)    | Vincent McLeese (Ghost Team)                           | Discusses discoverability mechanics and ranking strategies for MCP apps in AI marketplaces.                     |
+| [Intent Engineering: The Death of the Mono-Directional Prompt](v2rlapqnk4i.md)                            | Rizel Scarlett (Block, Inc.)                           | Explores the evolution from single static prompt engineering to bidirectional intent engineering.               |
+| [Interceptors for MCP: A Production-Tested Standard for Agentic Middl...](z8s3fnjmty0.md)                 | Kurt Degiorgio & Cannis Chan (Bloomberg)               | Introduces standardized interceptor middleware for governance, auditing, and context control.                   |
+| [Kubernetes-Native Agent Discovery: A Unified Registry for MCP Servers and Skills](dkzysomojtq.md)        | Carlos Santana (AWS)                                   | Uses Kubernetes CRDs as a control plane for modeling and discovering agent workloads.                           |
+| [Lessons Learned Building Intelligent UIs With MCP Apps](arso4yfclxq.md)                                  | Riley Scheid (Reboot)                                  | Best practices for building UI components returned by MCP apps in complex workflows.                            |
+| [MCP Apps Best Practices: Patterns and Pitfalls](xh-6gtirhm.md)                                           | Olivier Chafik & Anton Pidkuiko (Anthropic)            | Demonstrates interoperability patterns and UX pitfalls when developing MCP apps.                                |
+| [MCP Gateways: The Control Plane for Agentic Integration](dxz4mlsrcoc.md)                                 | Alex Salazar (Arcade.dev)                              | Identifies key enterprise requirements for gateways, including authentication and observability.                |
+| [MCP Live: Streaming Context To AI Agents](v7jcetecvo0.md)                                                | Harshit Kohli (AWS)                                    | Proposes extending request-response models to real-time event streaming for AI agents.                          |
+| [MCP Meets Java: Engineering the MCP Java SDK](sexqcwklork.md)                                            | Dariusz Jędrzejczyk (Broadcom)                         | Introduces the official Java MCP SDK for enterprise integration on the JVM.                                     |
+| [MCP Servers in the Wild: Managing Tool Complexity at Scale](ek3fbc0-04.md)                               | Arnav Balyan (Concierge AI)                            | Presents techniques to manage large tool schemas without overwhelming context limits.                           |
+| [MCP Traffic Handling at Scale: Stateless Design, Proxies, and the Roa...](vmlyp862lb8.md)                | Erica Hughberg & Boteng Yao                            | Discusses proxying, session affinity, and stateless transport design for high-volume MCP traffic.               |
+| [MCP Vs CLIs: Why Agents Need Purpose-Built Interfaces](ideydmjkuje.md)                                   | Sam Morrow (GitHub)                                    | Compares purpose-built MCP tool protocols against general CLI wrappers for agent safety.                        |
+| [MCP at 18 Months: Protocols, Patterns, and What We Didn't See Coming](dw1hgjxrndy.md)                    | Shaun Smith (Hugging Face)                             | Reflects on the evolution, ecosystem trends, and unexpected shifts in agent adoption.                           |
+| [MCP for Autonomous Storefronts: Building Self-Healing Agent Loops](nctyh0nrxvm.md)                       | Guilherme Rodrigues (decocms.com)                      | Case study on self-healing agent loops managing high-volume e-commerce storefronts.                             |
+| [MCP: The Gateway to Real-Time Human–AI Collaboration in Jupyter at Scale](npcy4ccny7e.md)                | Jake Diamond-Reivich (Jupyter)                         | Introduces Jupyter AI v3 and Agent Client Protocol integration for interactive data science.                    |
+| [MCPwned: Hacking MCP Servers With One Skeleton Key Vulnerability](baardvgg3v0.md)                        | Jonathan Leitschuh                                     | Discloses security vulnerabilities in local MCP servers and browser origin risks.                               |
+| [Mental Reset: How To Rethink Your User Flow in the Age of MCP & ChatGPT Apps](d2l4tvt6onq.md)            | Erica Beavers (Alpic)                                  | Redefines UX design flows for agent-first applications across industries.                                       |
+| [Mix-Up Attacks in MCP: Multi-Issuer Confusion and Mitigations](nb9g3bj3uk.md)                            | Emily Lauber (Microsoft)                               | Analyzes multi-issuer mix-up attack vectors in multi-tenant agent integrations and mitigations.                 |
+| [My MCP Server Code Works, but the Agent Fails: The Case for MCP-specif...](r-otbm1fzmm.md)               | Calum Murray & Wesley Chun (Red Hat)                   | Introduces MCP Checker, an evaluation tool for testing agent-server semantic interface reliability.             |
+| [OCI Images as MCP Packaging: Supply Chain Security for AI Tools](zzioined-bm.md)                         | Juan Antonio Osorio (Stacklok)                         | Recommends OCI container packaging for supply chain security and tool distribution.                             |
+| [One Spec, Ten SDKs, Zero Excuses: Conformance Testing MCP](2zurqpsjzi.md)                                | Paul Carleton (Anthropic)                              | Addresses specification ambiguities and introduces automated conformance suites across SDKs.                    |
+| [Operating MCP in the Enterprise: From Protocol To Production](0doyliqioxy.md)                            | Amar Deep Singh & Neelabh Tripathi                     | Shares practical architecture patterns for promoting AI protocols from lab pilots to production.                |
+| [Path to V2 for MCP SDKs](sfdrrela93s.md)                                                                 | Max Isbey (Anthropic)                                  | Outlines upcoming breaking updates, transport improvements, and multi-language SDK convergence.                 |
+| [Patterns for Building MCP-powered Agent Systems](vkj3zt8gx0y.md)                                         | Jiquan Ngiam (MintMCP)                                 | Explores patterns for organizing fleets of AI agents collaborating alongside human teams.                       |
+| [Progressive Tool Discovery: Using MCP Notifications To Manage C...](mfl5crtbux0.md)                      | Billy Hickman & Lilia Abaibourova (Amazon Prime Video) | Leverages notifications for dynamic tool discovery to avoid overwhelming model context limits.                  |
+| [Protocol Evolution: Adapting the Model Context Protocol for SLMs and the Edge](zqimtpjo0aq.md)           | Kierra Dotson                                          | Discusses protocol adaptations needed to run MCP efficiently on small language models and edge nodes.           |
+| [Putting the Single Back in Single Sign-On: Cross-App Access for MCP](hrrzzorvy84.md)                     | Paul Carleton & Max Gerber                             | Addresses OAuth consent fatigue and proposes seamless cross-app single sign-on mechanisms.                      |
+| [RPC & MCP: Turning a Decade of APIs Into Agentic Tools](7520metfn94.md)                                  | Ze'ev Klapow (HubSpot)                                 | Demonstrates transforming existing RPC service frameworks into agentic tools at scale.                          |
+| [Reflections on Context Engineering Via MCP Servers](bjyiokgnkaq.md)                                      | Till Döhmen (MotherDuck)                               | Shares insights on context engineering for cloud data warehousing and DuckDB queries.                           |
+| [Rules Are Not Suggestions: A History of MCP Non-Compliance](ecgymy4euto.md)                              | Sterling Dreyer (Arcade.dev)                           | Recounts real-world non-compliance issues and ecosystem friction during rapid specification changes.            |
+| [Schema To Insight: Architecting Production-Grade Database MCP Tools](9u3zlfqxyqu.md)                     | Kurtis Van Gent & Wenxin Du (Google)                   | Presents patterns for building secure, scalable database query tools for AI agents.                             |
+| [Securing MCP at Scale: From Principles To Production](e515s-ewf9m.md)                                    | Peter Smulovics (Morgan Stanley)                       | Analyzes security challenges in highly regulated banking environments including prompt injection.               |
+| [Securing the MCP Ecosystem: Production Patterns for Transparency...](8egmt6fzfgk.md)                     | Lisa Tagliaferri & Trevor Dunlap (Chainguard)          | Addresses supply chain threats, tool poisoning, and exfiltration risks across agent toolchains.                 |
+| [Shadow MCP: Finding the MCPs Nobody Approved](mpmv-t-i0k8.md)                                            | Aidan Sochowski & Alexander Frazer (Runlayer)          | Examines security risks of unapproved shadow MCP servers operating without IT oversight.                        |
+| [Skills Vs. MCP Vs. Code Mode: Cutting Through the Hype (and the Rage)](doedeqfi6hg.md)                   | Nikolay Rodionov (Alpic)                               | Clarifies boundaries and synergies between agent skills, MCP protocols, and code mode.                          |
+| [Sponsored Session: Agents and MCP @ Google Scale](jcj3lfqyhy4.md)                                        | Alan Blount & Vaibhav Katkade (Google Cloud)           | Overview of Google Cloud's extensive use of MCP across products and cloud infrastructure.                       |
+| [Sponsored Session: Future-Proofing AI Agents: The Strategic Role of MCP](fp-31qaw1pq.md)                 | Don Murray (Safe Software)                             | Highlights the strategic role of MCP endpoints in enterprise data integration.                                  |
+| [Sponsored Session: Model Context Pragmatism](vfoe10ww6s0.md)                                             | Jeremiah Lowin (Prefect)                               | Discusses FastMCP and opinionated frameworks designed to absorb protocol complexity.                            |
+| [Sponsored Session: The Self-Improving MCP Server: Agents in a Live Development Loop](xmpoyrgclxe.md)     | Enrico Toniato                                         | Demonstrates live development loops for continuously testing and self-improving MCP servers.                    |
+| [Sponsored Session: Who's Driving? Delegation and the Confused Deput...](cmwjs-eal0w.md)                  | Vitor Balocco & Alvaro Inckot (Runlayer)               | Addresses confused deputy vulnerability risks when agents execute delegated tasks.                              |
+| [Stateless: The Future of MCP Transports](oguryxwyr70.md)                                                 | Shaun Smith & Kurtis Van Gent                          | Outlines transport shifts toward stateless designs for improved reliability and horizontal scaling.             |
+| [The Anatomy of a Meltdown: A Deep-Dive into MCP via Selective Sabotage](ivemlfwwl0i.md)                  | Joey Stout (Spacelift)                                 | Interactive deep-dive sabotaging the six core MCP primitives to demonstrate failure points.                     |
+| [The Boring Attack That Will Actually Get You](6tn4ykrcr-e.md)                                            | Craig Jellick (Obot AI)                                | Warns against supply chain attacks like typosquatting and dependency compromise on MCP servers.                 |
+| [The MCP Gateway Pattern: Aggregation, Composition, and Beyond](kf8exmglzks.md)                           | Juan Antonio Osorio (Stacklok)                         | Details gateway architectural patterns for aggregating and composing multiple MCP servers.                      |
+| [The Seven Deadly Sins With MCP](qgh5mosqw64.md)                                                          | Ricardo Ferreira (Redis)                               | Highlights common implementation antipatterns and performance bottlenecks in MCP servers.                       |
+| [The Tool Abstraction Problem: Lessons Learned Building 1000+ MCP Tools](ddvdusjggzy.md)                  | Sam Partee (Arcade.dev)                                | Shares lessons on designing tool abstractions specifically optimized for LLM reasoning.                         |
+| [Threat Modeling Authorization in MCP](adi8zrdmn-4.md)                                                    | Sarah Cecchetti (OpenID Foundation)                    | Uses delegation metaphors to threat-model multi-agent permission delegation.                                    |
+| [Title not found](g1etzkqyh1i.md)                                                                         | Video Resource                                         | Session video record without summary content.                                                                   |
+| [Title not found](gpd4owmbmni.md)                                                                         | Video Resource                                         | Session video record without summary content.                                                                   |
+| [Title not found](hw668yuvkao.md)                                                                         | Video Resource                                         | Session video record without summary content.                                                                   |
+| [Title not found](ypn8gvndqg4.md)                                                                         | Video Resource                                         | Session video record without summary content.                                                                   |
+| [Title not found](zthbtfn8pby.md)                                                                         | Video Resource                                         | Session video record without summary content.                                                                   |
+| [Towards Building Safe & Secure Agentic AI](zrrvijvb4ay.md)                                               | Dawn Song & Matt White (Linux Foundation)              | Presents research frameworks for ensuring safety, alignment, and security in agentic AI.                        |
+| [UI in the Age of AI](byiyl20qazq.md)                                                                     | Adam Cowley (Neo4j)                                    | Discusses UI design shifts as non-technical users increasingly interact with AI graph tools.                    |
+| [URL Elicitation Deep Dive: Third-party OAuth Solved (and More!)](sxiw3xztvz0.md)                         | Nate Barbettini (Arcade.dev)                           | Introduces URL elicitation for handling OAuth and payments without exposing secrets to LLMs.                    |
+| [What if MCP was Symmetric?](jfwiwfw0nfs.md)                                                              | Jerome Swannack (Anthropic)                            | Proposes symmetric MCP where servers and clients interact bidirectionally for composable systems.               |
+| [When MCP Becomes a Product](rjowgzovw-u.md)                                                              | Gautam Baghel & Roy Derks (IBM & HashiCorp)            | Shares experience transitioning internal MCP demos into production product offerings.                           |
+| [When MCP Isn’t Enough: Product Decisions Behind Scalable Agent Systems](7q7e-ziocea.md)                  | Cansu Berkem (Datadog)                                 | Details turning agent prototypes into enterprise production products like Datadog Bits AI.                      |
+| [Your MCP Server Will Probably Be Abandoned...Or Not](062abr355-c.md)                                     | Lahari Chowtoori (AWS)                                 | Discusses community health, maintenance, and long-term sustainability across the MCP server ecosystem.          |
+| [YouTube Video Reference (9kwcnf9dnk4)](9kwcnf9dnk4.md)                                                   | Video Resource                                         | Reference notes for YouTube video session.                                                                      |
+
 ## Concepts
 
 - [Beyond the Sandbox: Security at the Host Layer - Lorenzo Verna & Pietro Valfrè, Denied](jtkkznut1fw.md) - The speakers discuss their innovative approach to behavioral authorization for AI agents, emphasizing the need for new security models as agents evolve from simple assistants to autonomous entities capable of real-world actions. Traditional...
