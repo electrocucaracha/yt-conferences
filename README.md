@@ -12,8 +12,6 @@
 [![Scc Code Badge](https://sloc.xyz/github/electrocucaracha/yt-conferences?category=code)](https://github.com/boyter/scc/)
 [![Scc COCOMO Badge](https://sloc.xyz/github/electrocucaracha/yt-conferences?category=cocomo)](https://github.com/boyter/scc/)
 
-## Overview
-
 YouTube Conference Knowledge is a curated, searchable collection of notes from
 technology conference videos.
 
@@ -38,6 +36,8 @@ The canonical collection lives in [`docs/`](docs/index.md), where content is
 grouped into navigable conference and subject areas.
 This structure supports both broad exploration by topic and focused reading of
 an individual talk.
+
+![Diagram](docs/assets/diagram.png)
 
 ## What This Offers
 
