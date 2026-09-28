@@ -21,7 +21,7 @@ fmt: cleanup
 	command -v yamlfmt > /dev/null || curl -s "https://i.jpillora.com/google/yamlfmt!!" | bash
 	yamlfmt -dstar **/*.{yaml,yml}
 	command -v prettier > /dev/null || npm install prettier
-	npx prettier . --write
+	npx prettier . --write > /dev/null 2>&1
 	uvx ruff format .
 	uvx black .
 	uvx isort .
