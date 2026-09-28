@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Perses Update - Augustin Husson, Maintainer"
-nav_order: 252
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Augusta, a perser, updates on the Pers project, now a CNCF sandbox since
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Additionally, Pers now supports connecting protected data sources and enforces c
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/81SMpKgJb3k/hqdefault.jpg)](https://www.youtube.com/watch?v=81SMpKgJb3k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=81SMpKgJb3k)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "MCP Gateways: The Control Plane for Agentic Integration - Alex Salazar, Arcade.dev"
-nav_order: 55
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker discusses the major challenges facing AI agents in enterprise
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The speaker demonstrates how this system works in practice, highlighting the imp
 |  17 | Author                                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/DxZ4mlSRcOc/hqdefault.jpg)](https://www.youtube.com/watch?v=DxZ4mlSRcOc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DxZ4mlSRcOc)

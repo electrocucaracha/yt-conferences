@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Welcome Back + Opening Remarks"
-nav_order: 133
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The final day of keynotes at CubeCon and Cloud Neton has begun, with
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The keynote lineup is impressive, starting with Abby Bankser, a principal engine
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cyg-RcFN6qs/hqdefault.jpg)](https://www.youtube.com/watch?v=cyg-RcFN6qs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cyg-RcFN6qs)

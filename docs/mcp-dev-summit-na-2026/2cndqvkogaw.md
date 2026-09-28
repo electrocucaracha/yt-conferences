@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Every API Is a Tool for Agents - Matt Carey, Cloudflare
-nav_order: 23
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Matt from Cloudflare discusses the evolution of enabling
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes with a discussion on the importance of standard protocols 
 |  19 | Future: More primitives for secure                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2cndQvkoGAw/hqdefault.jpg)](https://www.youtube.com/watch?v=2cndQvkoGAw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2cndQvkoGAw)

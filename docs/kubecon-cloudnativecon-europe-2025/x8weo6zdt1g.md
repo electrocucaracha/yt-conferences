@@ -1,9 +1,6 @@
 ---
-layout: default
 title: "Securing the Gateway: A Deep Dive Into Envoy Gateway's Advanced Security
   Pol... Huabing (Robin) Zhao"
-nav_order: 300
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, No, discusses advanced security policies for gateways, specifically
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They also discuss using GWay's API to manage gateway traffic and provide example
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/x8wEo6ZDT1g/hqdefault.jpg)](https://www.youtube.com/watch?v=x8wEo6ZDT1g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x8wEo6ZDT1g)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "How We Solved TLS at Scale: Self-Service, Multi-Tenant Cert-manager - Erik
   Godding Boye & Tim Ramlot"
-nav_order: 125
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The presentation discusses how Eric set up Search Manager, a CNCF graduated
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -44,5 +41,7 @@ Additionally, he used a custom monitoring solution to track certificate expirati
 |   9 | Reloader is used to watch config maps and secrets, triggering rolling updates when changes occur.                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gWgagjHtnlE/hqdefault.jpg)](https://www.youtube.com/watch?v=gWgagjHtnlE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gWgagjHtnlE)

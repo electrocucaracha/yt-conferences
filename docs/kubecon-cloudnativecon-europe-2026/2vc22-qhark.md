@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Agents as First-Class Users in Production - Mathias Biilmann, Co-Founder
   and CEO, Netlify"
-nav_order: 163
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Matt Bilman, CEO and co-founder of Netifi, introduces the company as
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Netifi is actively developing solutions tailored for agents and invites collabor
 |  18 | Matt invites those interested in building for agents to connect with him on social media or at the conference.                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2VC22_qHark/hqdefault.jpg)](https://www.youtube.com/watch?v=2VC22_qHark)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2VC22_qHark)

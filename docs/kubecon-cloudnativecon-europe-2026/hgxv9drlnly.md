@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From “No Time for GitOps” to Enterprise Adoption: Selling Flux... Lucas Hornung
   & Christian Matthaei"
-nav_order: 128
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Lucas Hornung and Christian Mate, members of the platform team at Chebo,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The team now fosters ongoing communication, documentation, and feedback loops, a
 |  19 | Recommended resources include books o                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HGxv9DrLnLY/hqdefault.jpg)](https://www.youtube.com/watch?v=HGxv9DrLnLY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HGxv9DrLnLY)

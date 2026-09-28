@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The DiRT on Chaos Engineering at Google • Jason Cahoon • GOTO 2021
-nav_order: 131
-parent: Developer Productivity
 type: Video Note
 description:
   As a Site Reliability Engineer at Google, Jason Kahu discusses chaos
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Google measures the effectiveness of Dirt tests by analyzing results and finding
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6I8Ag9mCEpY/hqdefault.jpg)](https://www.youtube.com/watch?v=6I8Ag9mCEpY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6I8Ag9mCEpY)

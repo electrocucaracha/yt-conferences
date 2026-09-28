@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Make GenAI Production-Ready With Kubernetes Patterns - Roland Huss, Red Hat
   & Bilgin Ibryam, Diagrid
-nav_order: 215
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, the speakers introduce themselves as experts in Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Finally, they discuss the retrieval augmented generation (RAG) pattern, demonstr
 |  20 | Image volume types (Kubernetes 1.35+): directly mount OCI im                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tLK5jyhQOgA/hqdefault.jpg)](https://www.youtube.com/watch?v=tLK5jyhQOgA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tLK5jyhQOgA)

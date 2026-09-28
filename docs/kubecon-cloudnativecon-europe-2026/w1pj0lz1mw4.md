@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Fluent Bit V5: Pushing the Limits of Observability at Scale - Eduardo Silva"
-nav_order: 112
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Eduardo presents the latest advancements in the Fluent Bit project, emphasizing
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Eduardo addresses community questions on integration, performance benchmarking, 
 |  21 | Vendor-neutral approach; integrates with OpenTelemetry Collector b                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/w1pj0Lz1mW4/hqdefault.jpg)](https://www.youtube.com/watch?v=w1pj0Lz1mW4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=w1pj0Lz1mW4)

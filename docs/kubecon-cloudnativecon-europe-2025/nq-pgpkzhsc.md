@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: You Can Score It! Shift Down to the Platform. Do Not
   Shift... Mathieu Benoit"
-nav_order: 272
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker represents the Score project, a CNCF initiative aiming to
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The Score file describes a workload's intent, environment variables, and resourc
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Nq_PgPKZHsc/hqdefault.jpg)](https://www.youtube.com/watch?v=Nq_PgPKZHsc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Nq_PgPKZHsc)

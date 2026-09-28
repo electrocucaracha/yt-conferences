@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | EnvoyCon: Inside Spotify’s Envoy Architecture: What
   We Le... Leonardo da Mata"
-nav_order: 59
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Leonardo Damata, an engineer at Spotify, shared insights from migrating
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Ultimately, the changes increased throughput to 4,500 requests per second per co
 |  17 | Side-by-side comparison and formalizing undocumented decisions were key to successful migration.                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CAn22mnA6kE/hqdefault.jpg)](https://www.youtube.com/watch?v=CAn22mnA6kE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CAn22mnA6kE)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Asynchronous Tool Calling with Nick Aldridge - Amazon Web Services"
-nav_order: 5
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   The speaker discusses challenges with the current synchronous tool-calling
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The speaker invites feedback on SEP 1391 and notes ongoing work to resolve nuanc
 |  20 | Links to SEP 1391, Discord, and Amazon's agent core are provided for further engagement.                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2Q6o1B-lCew/hqdefault.jpg)](https://www.youtube.com/watch?v=2Q6o1B-lCew)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2Q6o1B-lCew)

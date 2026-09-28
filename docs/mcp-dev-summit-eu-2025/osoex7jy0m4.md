@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Streams, Sessions, Stats Transport and Client Behaviour in Practice"
-nav_order: 25
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Sean Smith from Hugging Face introduces his work on the MCP server and
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Finally, Smith encourages participation in the MCP transports working group, men
 |  24 | Transports working group is considering making MCP stateless by                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OSoEX7jY0m4/hqdefault.jpg)](https://www.youtube.com/watch?v=OSoEX7jY0m4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OSoEX7jY0m4)

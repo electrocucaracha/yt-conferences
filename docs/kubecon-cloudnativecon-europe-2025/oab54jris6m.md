@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Quantum-Ready Kubernetes: How Do We Get There?"
-nav_order: 278
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The panel discussion focused on quantum computing and its integration
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The panelists also discussed the importance of prioritizing high-value data and 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OAb54JRIS6M/hqdefault.jpg)](https://www.youtube.com/watch?v=OAb54JRIS6M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OAb54JRIS6M)

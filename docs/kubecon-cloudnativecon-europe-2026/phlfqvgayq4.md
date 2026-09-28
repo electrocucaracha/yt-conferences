@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Let Your Network Speak! - Nadia Pinaeva, NVIDIA & Joel Takvorian, Red Hat
-nav_order: 201
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Nadia from NVIDIA and Joel from Red Hat introduce
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -64,5 +61,7 @@ The Q&A covers topics such as data retention (handled by external storage soluti
 |  30 | Demonstrates update                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PHLfqvgaYq4/hqdefault.jpg)](https://www.youtube.com/watch?v=PHLfqvgaYq4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PHLfqvgaYq4)

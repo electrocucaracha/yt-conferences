@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Kubewarden: Leveraging and Extending CEL for your
   Cluster... Robert Sirchia"
-nav_order: 244
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=l3mSvnpLGZY
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ It aims to protect clusters by providing insight and building modular solutions,
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/l3mSvnpLGZY/hqdefault.jpg)](https://www.youtube.com/watch?v=l3mSvnpLGZY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=l3mSvnpLGZY)

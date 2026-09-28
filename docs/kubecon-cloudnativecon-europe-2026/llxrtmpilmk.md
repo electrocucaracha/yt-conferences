@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Ctrl-X, Ctrl-V Your Pods: WG Checkpoint Restore in Kub... Peter H, Adrian
   R, Radostin S & Viktória S"
-nav_order: 80
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Razin, Peter, and Victoria introduce the Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ The session concludes with a call for community participation to help shape the 
 |  24 | Handling paused state, sidecars, init                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lLxrtmpIlMk/hqdefault.jpg)](https://www.youtube.com/watch?v=lLxrtmpIlMk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lLxrtmpIlMk)

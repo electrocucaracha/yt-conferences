@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Breaking Free From the Cloud: Banking on Self... Kārlis Akots Gribulis & Per
   Hedegaard Christiansen"
-nav_order: 30
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Popensson, is the head of container platform engineering
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Saxo Bank's experience suggests that on-premises Kubernetes may not be suitable 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Zfp94fOMcwE/hqdefault.jpg)](https://www.youtube.com/watch?v=Zfp94fOMcwE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Zfp94fOMcwE)

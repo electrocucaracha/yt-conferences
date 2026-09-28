@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Context Middleware for MCP: From Enterprise Needs To Protocol Extension -
   Peder Holdgaard Pedersen"
-nav_order: 12
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Peter, an MCP maintainer and developer at Saxo Bank, discusses the evolution
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Peter encourages community engagement with the proposal, emphasizing that standa
 |  21 | Use cases include PII redaction, auditing, API key validation, content guardrails, and inje Ratings (1-5): 4                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-X5lx3IOu7M/hqdefault.jpg)](https://www.youtube.com/watch?v=-X5lx3IOu7M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-X5lx3IOu7M)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Taming the AI Hydra: Real-World Lessons in Governin... Brian Fox, Sarah Evans
   & Christopher Robinson"
-nav_order: 302
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The panel discusses the complex challenges of AI governance, likening
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The panel concludes that organizations must remain flexible, proactive, and coll
 |  20 | Organizations must understand and control al                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YuMYeWwWLCw/hqdefault.jpg)](https://www.youtube.com/watch?v=YuMYeWwWLCw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YuMYeWwWLCw)

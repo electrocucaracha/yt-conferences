@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Cambia tu mente cambia tu vida | Luis Topete – Sesión 39
-nav_order: 6
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Luis Topete, conferencista y coach de mentalidad
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finalmente, enfatiza que el progreso y la acción consciente, junto con una ment
 |  19 | Cree, actúa y logra: cambiar tu mentalidad transforma tu realidad.                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/g-uQmWPhEt8/hqdefault.jpg)](https://www.youtube.com/watch?v=g-uQmWPhEt8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=g-uQmWPhEt8)

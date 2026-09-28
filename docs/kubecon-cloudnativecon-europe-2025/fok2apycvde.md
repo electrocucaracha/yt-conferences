@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Transforming your Application Behavior to Kubernetes
   Ob... Matthias Bertschy"
-nav_order: 265
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Matias, co-maintainer of Cubscape, discusses the evolution of their static
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ However, this expansion led to significant issues due to the large size of the d
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fok2apYcVdE/hqdefault.jpg)](https://www.youtube.com/watch?v=fok2apYcVdE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fok2apYcVdE)

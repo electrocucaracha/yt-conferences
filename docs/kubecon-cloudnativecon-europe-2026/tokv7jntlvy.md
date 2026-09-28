@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Istio Day: The Good, The Ugly, and The Bad... Alfonso
   Ming and Jorge Turrado"
-nav_order: 67
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Alonso and Jorge introduce their experiences transitioning from the traditional
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -64,5 +61,7 @@ Despite these challenges, the team found the operational and cost benefits worth
 |  29 | For restrictive egress policies, network policies are recommended over sidecar egress annotations.   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ToKv7JntLvY/hqdefault.jpg)](https://www.youtube.com/watch?v=ToKv7JntLvY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ToKv7JntLvY)

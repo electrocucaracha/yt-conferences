@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How Technical Problems Cause Organizational Friction • Adam Tornhill • GOTO
   2023
-nav_order: 52
-parent: Developer Productivity
 type: Video Note
 description:
   "The speaker discusses socio-technical smells, which are organizational
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They emphasize the importance of designing for social technical alignment, which
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jCmTry1T90I/hqdefault.jpg)](https://www.youtube.com/watch?v=jCmTry1T90I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jCmTry1T90I)

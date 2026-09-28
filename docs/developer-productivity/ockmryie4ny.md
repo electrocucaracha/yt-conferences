@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Solving the Problem of More Work than Time & Money • Liam McLennan • YOW! 2018
-nav_order: 124
-parent: Developer Productivity
 type: Video Note
 description:
   "The speaker discusses solving the problem of more work than time and
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ This approach aims to empower teams, move decision-making to competence, and mea
 |   3 | Continuously evaluating assumptions and adapting plans • Impact mapping is a technique for identifying key actors, impacts, and potential solutions to achieve goals. • Defining work as a challenge with constraints can empower teams and improve decision-making. • Measuring outcomes, not outputs, is crucial in agile product delivery. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OCKmryIE4nY/hqdefault.jpg)](https://www.youtube.com/watch?v=OCKmryIE4nY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OCKmryIE4nY)

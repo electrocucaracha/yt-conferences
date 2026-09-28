@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The 10x DevOps Engineer’s Toolkit: Argo CD + AI-Dr... Alexander Matyushentsev
   & Leonardo Luz Almeida"
-nav_order: 353
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation from the Argo maintainers track at KubeCon, Leonardo
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The team also discusses ongoing challenges, such as duplicating troubleshooting 
 |  20 | Real-world exam                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iC15zeOLZQA/hqdefault.jpg)](https://www.youtube.com/watch?v=iC15zeOLZQA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iC15zeOLZQA)

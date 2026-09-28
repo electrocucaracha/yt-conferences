@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: OpenFGA: Google Zanzibar Style Authorization Made
   Developer-Fri... Tyler Nix"
-nav_order: 234
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Tyler Nicks, a product manager at Octa, introduces Open FGA, a centralized,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Tyler invites interested developers to connect at the project pavilion and atten
 |  20 | Invitation to visit the Open FGA team at the project pavilion on Wednesday and attend a talk by Jose and Alice on Thursday.  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4xZqSO1OGSc/hqdefault.jpg)](https://www.youtube.com/watch?v=4xZqSO1OGSc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4xZqSO1OGSc)

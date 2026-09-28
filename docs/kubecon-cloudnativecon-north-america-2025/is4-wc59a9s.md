@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Talk To Your Dashboards: Using MCP and LLMs To Simplify Observab... Prashant
   Gupta & Raj Bhensadadia"
-nav_order: 299
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, Prashant and Raj, machine learning engineers at Apple,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The presenters conclude that MCP and LLMs make observability more accessible, co
 |  18 | Guardrails can be implemented with authentication tokens, role-based access, prompt validation, and explicit p                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iS4-WC59a9s/hqdefault.jpg)](https://www.youtube.com/watch?v=iS4-WC59a9s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iS4-WC59a9s)

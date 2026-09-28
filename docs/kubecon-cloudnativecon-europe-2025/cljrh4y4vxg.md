@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The GPUs on the Bus Go ‘Round and ‘Round - Natalie Bandel & Ryan Hallisey,
   NVIDIA
-nav_order: 334
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker from NVIDIA discusses their experience with device failures
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ They also propose starting a working group with Red Hat to explore how Kubernete
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cLJRh4y4vXg/hqdefault.jpg)](https://www.youtube.com/watch?v=cLJRh4y4vXg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cLJRh4y4vXg)

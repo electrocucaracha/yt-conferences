@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Intent Engineering: The Death of the Mono-Directional Prompt - Rizel Scarlett,
   Block, Inc."
-nav_order: 38
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker discusses the evolution of prompt engineering in AI, noting
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The talk concludes by emphasizing that while prompt engineering was foundational
 |  19 | Automated scans (e.g., GitHub Actions) can help detect prompt injection risks in contributed co                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/v2rlaPQnK4I/hqdefault.jpg)](https://www.youtube.com/watch?v=v2rlaPQnK4I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=v2rlaPQnK4I)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Day 1 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam
-nav_order: 85
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Uche welcomes viewers to the first day of KubeCon CloudNativeCon Europe
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -44,5 +41,7 @@ He feels privileged to attend and encourages continued progress in the cloud nat
 |  11 | Encouragement is given to keep cloud native moving forward.                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3GIFe0HbRSo/hqdefault.jpg)](https://www.youtube.com/watch?v=3GIFe0HbRSo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3GIFe0HbRSo)

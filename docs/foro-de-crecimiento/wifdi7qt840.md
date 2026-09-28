@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto #1 en Productividad: Por Qué Tu Cerebro No Está Rindiendo al Máximo
   | Nico Fernandez #51"
-nav_order: 30
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este video, se desmitifica la idea de que se necesitan 10,000 horas
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Finalmente, se destaca que la verdadera productividad no solo permite lograr má
 |  19 | El propósito y el “por qué” son claves para sostener la productividad.                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/WiFdI7qT840/hqdefault.jpg)](https://www.youtube.com/watch?v=WiFdI7qT840)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WiFdI7qT840)

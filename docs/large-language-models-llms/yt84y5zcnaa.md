@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 2 - Transformer-Based
   Models & Tricks
-nav_order: 2
-parent: Large Language Models Llms
 type: Video Note
 description:
   In this lecture, the instructors addressed logistical updates regarding
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concluded with discussions on model efficiency improvements through 
 |  15 | DistilBERT: Uses knowledge distillation to reduce mode                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/yT84Y5zCnaA/hqdefault.jpg)](https://www.youtube.com/watch?v=yT84Y5zCnaA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yT84Y5zCnaA)

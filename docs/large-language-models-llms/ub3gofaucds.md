@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 1 - Transformer
-nav_order: 1
-parent: Large Language Models Llms
 type: Video Note
 description:
   The transcript is from the introductory lecture of CME 295, a Stanford
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The instructors detail the self-attention mechanism, the structure of the transf
 |  24 | RNNs and LSTMs capture sequence/order but suffer from vanishing gradients and slow computation.                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Ub3GoFaUcds/hqdefault.jpg)](https://www.youtube.com/watch?v=Ub3GoFaUcds)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ub3GoFaUcds)

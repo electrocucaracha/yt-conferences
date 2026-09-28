@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Leveraging Internal Knowledge: Building AiKA at Spotify - Majd Salman & Jofre
   Mateu Matesanz"
-nav_order: 175
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Majid and Joffra, platform engineers at Spotify's platform developer
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Aika's capabilities are being expanded to include enhanced reasoning and agentic
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FEy2lhe6CM8/hqdefault.jpg)](https://www.youtube.com/watch?v=FEy2lhe6CM8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FEy2lhe6CM8)

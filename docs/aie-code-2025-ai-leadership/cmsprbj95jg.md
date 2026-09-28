@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "AIE CODE 2025: AI Leadership ft Anthropic, OpenAI, McKinsey, Bloomberg, Google
   Deepmind, and Tenex"
-nav_order: 1
-parent: Aie Code 2025 Ai Leadership
 type: Video Note
 description:
   The transcript details a full-day AI engineering summit featuring presentations,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ The event also explored the future of developer experience, compensation models,
 |  12 | The future of software development is being shaped now; organizations must experiment, share learnings, and adapt quickly to stay competitive.                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cMSprbJ95jg/hqdefault.jpg)](https://www.youtube.com/watch?v=cMSprbJ95jg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cMSprbJ95jg)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Managing Netflix’s Compute Infrastructure With Kubernetes and Dynamic... Charles
   Zheng & Nick Parker
-nav_order: 162
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Charles and Nick from Netflix's compute platform
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Throughout, they emphasize that following Kubernetes best practices and keeping 
 |  18 | Scaling up is triggered by reser                                                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vaTOiXR2KSM/hqdefault.jpg)](https://www.youtube.com/watch?v=vaTOiXR2KSM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vaTOiXR2KSM)

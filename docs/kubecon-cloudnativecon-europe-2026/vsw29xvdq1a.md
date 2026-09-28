@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Schema Inference and Automation: A New Era for Telemetry Mana... Nicolas Takashi
   & Arthur Silva Sens"
-nav_order: 328
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Arthur Silva Sense and Nico Takash introduce OpenTelemetry
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ They conclude by highlighting ongoing efforts to integrate schema awareness into
 |  18 | Process for adoption: infer schema from live telemetry, validate with live check, generate artifacts, and e                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vSW29xvdq1A/hqdefault.jpg)](https://www.youtube.com/watch?v=vSW29xvdq1A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vSW29xvdq1A)

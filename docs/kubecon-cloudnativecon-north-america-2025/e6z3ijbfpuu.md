@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: How We Used Data Structures When Contributing To the Kubernetes
   Proje... Arsh Sharma"
-nav_order: 150
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Arsh from Metalbear shares his journey into the Kubernetes ecosystem,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ He concludes by inviting the audience to connect with him and try out the tool.
 |  20 | Arsh invites attendees to connect via his site or visit booth 1560 for more information.                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/e6z3ijBfPUU/hqdefault.jpg)](https://www.youtube.com/watch?v=e6z3ijBfPUU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=e6z3ijBfPUU)

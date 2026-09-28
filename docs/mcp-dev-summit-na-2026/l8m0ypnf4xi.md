@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "From Cypher to Conversation: MCP at WestJet - Anton Lysov, WestJet"
-nav_order: 28
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker describes how WestJet manages its complex flight scheduling,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The solution is currently used internally, with considerations for security and 
 |  19 | The proxy layer handles authent                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/l8m0YpNf4XI/hqdefault.jpg)](https://www.youtube.com/watch?v=l8m0YpNf4XI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=l8m0YpNf4XI)

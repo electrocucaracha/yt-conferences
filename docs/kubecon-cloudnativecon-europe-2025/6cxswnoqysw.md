@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Empowering Data Protection for Stateful Applications
   on Kuberne... Mark Lavi"
-nav_order: 232
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Mark Lavy discusses the storage track data protection canister project,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The Canister framework aims to orchestrate and manage these concerns, providing 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6CXsWNOqYSw/hqdefault.jpg)](https://www.youtube.com/watch?v=6CXsWNOqYSw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6CXsWNOqYSw)

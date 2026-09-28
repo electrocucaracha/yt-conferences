@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Building MARVIN: What Teaching a Non-Technical Marketer To Use MCP Taught
   Me About... Sterling Chin"
-nav_order: 4
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Sterling, a founding developer relations and applied AI engineer at Ingest
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Sterling concludes by advocating for user-friendly design, better APIs, and empo
 |  22 | Marvin                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/g1zZXm_6Bx8/hqdefault.jpg)](https://www.youtube.com/watch?v=g1zZXm_6Bx8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=g1zZXm_6Bx8)

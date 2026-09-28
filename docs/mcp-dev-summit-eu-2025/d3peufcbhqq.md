@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] One Test a Day Keeps the Issues Away with Oleksandr Kotov - Grafana
   Labs"
-nav_order: 9
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Alexander introduces the importance of testing MCP servers, emphasizing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Finally, he highlights the ability to use K6 for both performance and functional
 |  19 | Tests can be configured to run continuously in CI; acting on test results is crucial for improvement                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/D3pEufcBHQQ/hqdefault.jpg)](https://www.youtube.com/watch?v=D3pEufcBHQQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=D3pEufcBHQQ)

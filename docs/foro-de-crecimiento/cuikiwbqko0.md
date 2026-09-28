@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en sueño: ¿estás durmiendo mal y no lo sabes? | Dr. Pablo Ferrero
   #48"
-nav_order: 47
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa entrevista, el Dr. Pablo Ferrero, especialista en medicina
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Finalmente, señala que mejorar el sueño puede ser más efectivo que los antide
 |  24 | Dormir bien es más efectivo que antidepresivos para el estado de ánimo.                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CUIKIwBqko0/hqdefault.jpg)](https://www.youtube.com/watch?v=CUIKIwBqko0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CUIKIwBqko0)

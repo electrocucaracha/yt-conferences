@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Enabling Agentic Cloud Workflows - Santhosh Misro & Mayur Deshpande, Google
-nav_order: 20
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this presentation, Santo and Mayor from Google Cloud Storage discuss
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The team also addresses challenges in productionizing these agents, including wo
 |  22 | Workflow optimization involved reducing and merging tools, with potential for dynamic skill-based workflows in the future. Ratings (1-5): 3 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9TkKmvgqHQo/hqdefault.jpg)](https://www.youtube.com/watch?v=9TkKmvgqHQo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9TkKmvgqHQo)

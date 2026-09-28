@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Kubewarden: The Universal Policy Engine For Kubernetes"
-nav_order: 225
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Robert introduces Kuborton, a universal policy engine for Kubernetes,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ Robert invites interested individuals to get involved with the project, mentioni
 |  16 | Announcement: new SBOM scanner coming in alpha soon                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Uy-PpGOMEcU/hqdefault.jpg)](https://www.youtube.com/watch?v=Uy-PpGOMEcU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Uy-PpGOMEcU)

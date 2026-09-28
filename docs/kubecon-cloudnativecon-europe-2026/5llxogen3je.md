@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Building Autonomous Networks for the AI Era - Gergely Csatari"
-nav_order: 165
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   G. Chhatari from Nokia explains that the company now focuses on building
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ He emphasizes the importance of community events for innovation and invites atte
 |  18 | KCDs are community-organized events supported by CNCF; schedule and ticket sales are open.                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5LlXOGeN3jE/hqdefault.jpg)](https://www.youtube.com/watch?v=5LlXOGeN3jE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5LlXOGeN3jE)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Incident Analysis Before Chaos Engineering • Nora Jones • GOTO 2021
-nav_order: 68
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker shares their journey through chaos engineering, highlighting
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The speaker emphasizes the need for a psychologically safe environment to facili
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CCXR1b0pdaQ/hqdefault.jpg)](https://www.youtube.com/watch?v=CCXR1b0pdaQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CCXR1b0pdaQ)

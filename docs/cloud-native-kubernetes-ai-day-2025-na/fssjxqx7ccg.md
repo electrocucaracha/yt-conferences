@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Wasm't That Easy: Securing MCP With Wasm Sandboxes - Jiaxiao Zhou, Microsoft
   & Taylor Thomas, Akuity"
-nav_order: 18
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   In this talk, Joe from Microsoft Azure and Taylor from Acuy discuss the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The presenters encourage the community to try out Waset, contribute to the Wasm 
 |  17 | Community involvement is encouraged; users can try Waset, contribute to the Wasm ecosystem, and join the MCP security group.                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fSSjxqx7cCg/hqdefault.jpg)](https://www.youtube.com/watch?v=fSSjxqx7cCg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fSSjxqx7cCg)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Simplifying Apache Kafka on Kubernetes With Strimzi - Paolo Patierno & Gantigmaa
   Selenge, Red Hat
-nav_order: 304
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=sLFmnCyZ89M
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -40,5 +37,7 @@ The project also aims to improve certificate management and is exploring the con
 |   9 | Stretch clusters are being discussed, but face challenges due to Kafka's sensitivity to latency.                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/sLFmnCyZ89M/hqdefault.jpg)](https://www.youtube.com/watch?v=sLFmnCyZ89M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sLFmnCyZ89M)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How the SIG-Multicluster API Specifications Are Used for Real World... August
   Simonelli & Ryan Zhang
-nav_order: 127
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The SIG multicluster API specifications are used for real-world multicluster
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ The two projects will demonstrate how to deploy workloads across multiple cluste
 |   9 | Both OCM and Kubby Fleet aim to provide a unified view of multicluster management and make it easier for projects to contribute and integrate with each other. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/I9GV4N23dvE/hqdefault.jpg)](https://www.youtube.com/watch?v=I9GV4N23dvE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=I9GV4N23dvE)

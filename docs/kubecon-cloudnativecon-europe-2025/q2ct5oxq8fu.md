@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Challenges of and Solutions for Migrating Spark From Legacy Hadoop Clu... Neha
   Singla & Rasik Pandey
-nav_order: 41
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Q2ct5OXQ8fU
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The team also discusses the importance of proper porting, shuffle tracking, and 
 |  27 | Key takeaways: + Assess current workload pattern before moving to Kubernetes. + Design a phase strategy and start with hybrid approach. + Optimize resource utilization. + Use unicorn scheduleuler for Spark workloads. + Implement proper portuling and comprehensive monitoring. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Q2ct5OXQ8fU/hqdefault.jpg)](https://www.youtube.com/watch?v=Q2ct5OXQ8fU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q2ct5OXQ8fU)

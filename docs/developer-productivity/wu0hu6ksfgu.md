@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Combining Chaos, Observability & Resilience to get Chaos Engineering • Yury
   Niño • GOTO 2021
-nav_order: 21
-parent: Developer Productivity
 type: Video Note
 description:
   Juli Nino, a Site Reliability Engineer at Adl Digital Labs, discusses
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ Juli Nino defines chaos engineering as the practice of experimenting with painle
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/WU0hu6KSFGU/hqdefault.jpg)](https://www.youtube.com/watch?v=WU0hu6KSFGU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WU0hu6KSFGU)

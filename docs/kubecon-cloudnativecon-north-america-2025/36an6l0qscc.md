@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Unlocking Financial Progress: Credit Karma's AI Assista... Raj Kiran Gupta
   Katakam & Sukanya Moorthy"
-nav_order: 333
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speakers, staff machine learning engineers at Credit Karma (part
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Key lessons include starting simple and evolving with scale, ruthlessly separati
 |  15 | Key lessons: Kubernetes acts as a universal ML platform; start simple and evolve with scale; separate business logic from model inference; generative AI requires orchestration of multiple guardrails per request; compliance and audit needs are higher for generative AI than traditional ML. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/36aN6L0qSCc/hqdefault.jpg)](https://www.youtube.com/watch?v=36aN6L0qSCc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=36aN6L0qSCc)

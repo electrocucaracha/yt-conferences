@@ -1,8 +1,5 @@
 ---
-layout: default
 title: OpenTelemetry Project Update
-nav_order: 212
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Open Telemetry project has made significant progress over the past
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The collector SIG is working on a new pipeline component, and the community is e
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nclJn1KEjis/hqdefault.jpg)](https://www.youtube.com/watch?v=nclJn1KEjis)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nclJn1KEjis)

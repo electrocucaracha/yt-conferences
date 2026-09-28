@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "eBPF and Wasm: Unifying Userspace Extensions With Bpftime - Yusheng Zheng,
   eunomia-bpf"
-nav_order: 377
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Jun, a PhD student and maintainer of open-source projects, discusses
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Jun proposes combining the strengths of EBPF verification and web assembly's int
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/W5C0O7vk78o/hqdefault.jpg)](https://www.youtube.com/watch?v=W5C0O7vk78o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=W5C0O7vk78o)

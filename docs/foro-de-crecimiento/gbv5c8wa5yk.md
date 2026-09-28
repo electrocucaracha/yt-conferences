@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "José Bobadilla: El poder del LIDERAZGO | sesión de crecimiento #9"
-nav_order: 51
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa conversación, José Bobadilla reflexiona sobre la importancia
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Finalmente, subraya que la felicidad y la trascendencia provienen de servir, apr
 |  20 | La educación debe centrarse en liderazgo, autoconocimiento, dinero, nutrición y felici                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Gbv5c8Wa5Yk/hqdefault.jpg)](https://www.youtube.com/watch?v=Gbv5c8Wa5Yk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Gbv5c8Wa5Yk)

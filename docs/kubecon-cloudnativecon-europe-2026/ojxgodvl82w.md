@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Multi-Cluster Configuration Management With KubeStellar
   - Andy Anderson"
-nav_order: 277
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker introduces Coupe Stellar Console in Amsterdam, highlighting
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The platform is community-driven, features a marketplace and knowledge base, and
 |  25 | White labeling is offered for en                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OjxgoDvl82w/hqdefault.jpg)](https://www.youtube.com/watch?v=OjxgoDvl82w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OjxgoDvl82w)

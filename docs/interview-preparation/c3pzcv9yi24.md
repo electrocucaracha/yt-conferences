@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How I Have Time For Everything (From A Principal At Amazon)
-nav_order: 8
-parent: Interview Preparation
 type: Video Note
 description:
   Managing time effectively. He advocates for focusing on one's highest
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ He advocates for focusing on one's highest priority task for 2-4 hours daily, av
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/c3pzcV9yi24/hqdefault.jpg)](https://www.youtube.com/watch?v=c3pzcV9yi24)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=c3pzcV9yi24)

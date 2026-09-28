@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Ultimate Container Challenge: An Interactive Trivia Game on OC... Aurélie
   Vache & Sherine Khoury"
-nav_order: 343
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video transcript discusses the Open Container Initiative (OCI) and
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ Additionally, they explain how to sign an image with cosign, which adds a new la
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QLHQP8-RVwE/hqdefault.jpg)](https://www.youtube.com/watch?v=QLHQP8-RVwE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QLHQP8-RVwE)

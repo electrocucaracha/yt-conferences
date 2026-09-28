@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Security Theater or Real Defense? Navigating... Rotem R, Constanze R, Megan
   W, Stefana M & Oshrat N
-nav_order: 276
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The panel discussion, moderated by Ora from Metalbear, explores the distinction
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The panel concludes on a hopeful note, citing increased industry investment in s
 |  15 | There is hope in industry trends: increased investment in security, AI automating compliance tasks, and new IDE                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jETmMin6-_M/hqdefault.jpg)](https://www.youtube.com/watch?v=jETmMin6-_M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jETmMin6-_M)

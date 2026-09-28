@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Quantum-Ready Kubernetes: How Do We Get There?"
-nav_order: 279
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=SsTUGO9YbnQ
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -29,5 +26,7 @@ They also noted that Kubernetes will play a critical role in managing these hybr
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SsTUGO9YbnQ/hqdefault.jpg)](https://www.youtube.com/watch?v=SsTUGO9YbnQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SsTUGO9YbnQ)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Empowering Federated Learning with Multi-Cluster Management
   for... Meng Yan"
-nav_order: 233
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "As a software engineer at Red Hat, Yam shares a user case involving
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ By leveraging OCM's native support for federated learning, Yam's team can integr
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/j7QfkNU8XM8/hqdefault.jpg)](https://www.youtube.com/watch?v=j7QfkNU8XM8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=j7QfkNU8XM8)

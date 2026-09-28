@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Intelligent Topology for AI Power: Network-Aware Scheduling Optimization With
   Volcano... Kevin Wang"
-nav_order: 107
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=KwPHDI4qusc
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Volcano's goal is to provide a more efficient and user-friendly way to manage Ku
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KwPHDI4qusc/hqdefault.jpg)](https://www.youtube.com/watch?v=KwPHDI4qusc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KwPHDI4qusc)

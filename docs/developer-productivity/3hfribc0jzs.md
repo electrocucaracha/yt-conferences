@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Transforming Developer Experience: A Tale of Recovery & Innovation • Michaela
   Greiler • GOTO 2024"
-nav_order: 141
-parent: Developer Productivity
 type: Video Note
 description:
   A software engineer, Rose, was working on a task when her colleague interrupted
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ Despite facing obstacles, including interruptions, system failures, unclear requ
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3HFRiBc0JZs/hqdefault.jpg)](https://www.youtube.com/watch?v=3HFRiBc0JZs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3HFRiBc0JZs)

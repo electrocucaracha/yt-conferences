@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Platform Engineering for Software Developers and Architects (Redux) - Daniel
   Bryant, Syntasso
-nav_order: 218
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The speaker emphasizes the importance of platform engineering in software
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The speaker also stresses the need to minimize cognitive load and build for prog
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fZ_ULsJ5WGA/hqdefault.jpg)](https://www.youtube.com/watch?v=fZ_ULsJ5WGA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fZ_ULsJ5WGA)

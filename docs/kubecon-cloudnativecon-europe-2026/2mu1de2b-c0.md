@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Shell Awakens: Cloud Native Workflows for Particle Ph... Raulian-Ionut
   Chiorescu & Hannes Hansen"
-nav_order: 367
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Hannes and Raul, computing engineers at CERN, present their
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The platform currently serves hundreds of users across multiple CERN experiments
 |  19 | Security: Falco for threat detection, Kyverno                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2MU1de2B_C0/hqdefault.jpg)](https://www.youtube.com/watch?v=2MU1de2B_C0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2MU1de2B_C0)

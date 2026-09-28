@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en negocios: No es falta de esfuerzo… es el juego que estás jugando
   | Carlos Castellanos"
-nav_order: 43
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Carlos Eduardo Castellanos, experto en negocios y
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ A través de analogías como el bonsái y la montaña, enfatiza la disciplina, e
 |  20 | Los grandes retos suelen ser internos; enfrentar los miedos es clave para avanzar.                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/98D-vaEuL4U/hqdefault.jpg)](https://www.youtube.com/watch?v=98D-vaEuL4U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=98D-vaEuL4U)

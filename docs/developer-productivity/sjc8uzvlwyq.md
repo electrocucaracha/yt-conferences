@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Doubling Engineering Productivity at eBay Through DevOps • Randy Shoup • YOW!
   2022
-nav_order: 34
-parent: Developer Productivity
 type: Video Note
 description:
   Randy Shapp, former eBay engineer, shares his experience of doubling
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ Despite ongoing challenges, the program has shown promising results, with improv
 |  13 | Future plans include rolling planning, small-batch development, fully automated test and deployment pipelines, and improved post-release iteration. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/sjc8UZvlWYQ/hqdefault.jpg)](https://www.youtube.com/watch?v=sjc8UZvlWYQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sjc8UZvlWYQ)

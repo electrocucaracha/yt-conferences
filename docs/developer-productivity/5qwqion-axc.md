@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "CI/CD Evolution: From Pipelines to AI-Powered DevOps • Olaf Molenveld & Julian
   Wood • GOTO 2025"
-nav_order: 14
-parent: Developer Productivity
 type: Video Note
 description:
   Olaf from CircleCI discussed the challenges of getting software into
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Additionally, Olaf touched on the future of AI-infused CI/CD, including natural 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5QWQioN-aXc/hqdefault.jpg)](https://www.youtube.com/watch?v=5QWQioN-aXc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5QWQioN-aXc)

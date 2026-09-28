@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "MCP at 18 Months: Protocols, Patterns, and What We Didn't See Coming - Shaun
   Smith, Hugging Face"
-nav_order: 61
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Sean Smith from Hugging Face discusses the evolution and impact of the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Ultimately, Smith concludes that MCP has matured into essential infrastructure, 
 |  21 | Open Responses API distinguishes between internal and external tools, supports free-form gra Ratings (1-5): 4           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/DW1hGJXrNdY/hqdefault.jpg)](https://www.youtube.com/watch?v=DW1hGJXrNdY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DW1hGJXrNdY)

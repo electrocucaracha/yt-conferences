@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Day-2 Reality Check: Taming Wasteful Telemetry - Juraci Paixão Kröhling &
   Elena Kovalenko"
-nav_order: 88
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In the final session of CubeCon, Edina and Jasi discussed the pervasive
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -69,5 +66,7 @@ They concluded by emphasizing the importance of responsible telemetry practices 
 |  33 | Project Explorer may help agents contextualize telemetry data                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cpB5NTtUdwQ/hqdefault.jpg)](https://www.youtube.com/watch?v=cpB5NTtUdwQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cpB5NTtUdwQ)

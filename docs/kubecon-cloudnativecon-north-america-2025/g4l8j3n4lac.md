@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   “Do You Even Merge?” - Welcome To Maintainers Life... Nitish Kumar, Verónica
   López & Lee Calcote
-nav_order: 349
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this CubeCon talk, maintainers Natesh, Veronica, and Lee discuss the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Ultimately, the talk encourages empathy and collaboration, reminding the communi
 |  17 | Relationsh                                                                                                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/g4L8J3N4lac/hqdefault.jpg)](https://www.youtube.com/watch?v=g4L8J3N4lac)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=g4L8J3N4lac)

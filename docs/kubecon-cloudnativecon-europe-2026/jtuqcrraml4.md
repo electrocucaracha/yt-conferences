@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Data on Kubernetes Day: Opening Remarks - Edith Puclla,
   Percona"
-nav_order: 55
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Edith Pukja, technology evangelist at Perona, welcomes attendees to Data
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -64,5 +61,7 @@ Additionally, there is a shift toward real-time and distributed systems, with ed
 |  29 | Report available for download via QR code                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JtUqcRRAml4/hqdefault.jpg)](https://www.youtube.com/watch?v=JtUqcRRAml4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JtUqcRRAml4)

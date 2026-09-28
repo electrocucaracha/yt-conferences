@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Getting up To Date With Docsy: The Ku... Natali Vlatko, Rey Lejano, Divya
   Mohan & Sayak Mukhopadhyay"
-nav_order: 90
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video features members of the Kubernetes SIG Docs team—Ray Laano,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ They also address questions about testing, noting that while build and deploymen
 |  26 | Testing:                                                                                                                                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lOQBleJBMdY/hqdefault.jpg)](https://www.youtube.com/watch?v=lOQBleJBMdY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lOQBleJBMdY)

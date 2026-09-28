@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en marca personal: Hacer esto te dará más dinero! | Humberto Gutiérrez
   #46"
-nav_order: 41
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este episodio se aborda la importancia de la marca personal como el
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ El episodio concluye motivando a la acción inmediata, resaltando que nadie se a
 |  26 | Si no haces nada, no pasa nada; apuesta por tu marca personal.                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/eSJTplPhYgc/hqdefault.jpg)](https://www.youtube.com/watch?v=eSJTplPhYgc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=eSJTplPhYgc)

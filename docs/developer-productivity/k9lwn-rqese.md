@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "REPLs All The Way Up: A Rubric For Better Feedback Loops • Avdi Grimm • GOTO
   2023"
-nav_order: 106
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=k9lwn-RqEsE
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ Avdi argues that Rebels can be applied at various levels, from individual lines 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/k9lwn-RqEsE/hqdefault.jpg)](https://www.youtube.com/watch?v=k9lwn-RqEsE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=k9lwn-RqEsE)

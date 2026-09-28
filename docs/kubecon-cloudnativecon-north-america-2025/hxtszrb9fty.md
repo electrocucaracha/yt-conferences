@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Safely Sourcing OSS - Beyond 0 CVEs - John Kjell, ControlPlane
-nav_order: 271
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker begins by sharing personal experiences and background in
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Ultimately, the speaker urges the audience to support open source communities, a
 |  18 | Q&A: Salsa build                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hxtSzRB9FtY/hqdefault.jpg)](https://www.youtube.com/watch?v=hxtSzRB9FtY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hxtSzRB9FtY)

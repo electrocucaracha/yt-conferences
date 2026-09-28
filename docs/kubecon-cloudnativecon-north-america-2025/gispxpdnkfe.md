@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   To InGate and Beyond Ingress-nginx! - James Strong, Isovalent @ Cisco & Marco
   Ebert, Giant Swarm
-nav_order: 319
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The talk provides an update on the Ingress EngineX project, highlighting
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The speakers expressed gratitude to the community and recommended that users beg
 |  15 | Attendees were invited to ask questions or seek support from SIG Network and security representatives.                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GISpxPdNKfE/hqdefault.jpg)](https://www.youtube.com/watch?v=GISpxPdNKfE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GISpxPdNKfE)

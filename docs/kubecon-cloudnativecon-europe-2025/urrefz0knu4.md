@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Consistent Volume Group Snapshots, Unraveling the Magic - Leonardo Cecchi,
   EDB & Xing Yang
-nav_order: 50
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Shining, a principal software engineer at EDB, introduces the concept
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -44,5 +41,7 @@ The feature is currently in beta and aims to be released as a general availabili
 |   9 | The demo showed how to use the feature with PostgreSQL, including backing up a database and restoring it quickly.                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/urRefZ0KnU4/hqdefault.jpg)](https://www.youtube.com/watch?v=urRefZ0KnU4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=urRefZ0KnU4)

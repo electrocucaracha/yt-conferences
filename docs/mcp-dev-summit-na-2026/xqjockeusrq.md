@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Evaluate What You Can't See: Measure the Probabilistic Nature of MCP - P.
   Patel & M.J. Rocabado"
-nav_order: 22
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Bromesh, CEO of MCP Jam, introduces a talk focused on the challenges
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The talk concludes by introducing MCP Jam’s new sandbox environments, which al
 |  17 | Flywheel: collect real user data, cluster insights, build e                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XqjOcKEUSRQ/hqdefault.jpg)](https://www.youtube.com/watch?v=XqjOcKEUSRQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XqjOcKEUSRQ)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Rearchitecting Compute at Coinbase: Migrating To Karpenter for Fast, Reliable
   Scali... Frances Chong"
-nav_order: 255
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Francis, a staff software engineer at Coinbase, discusses
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ While most workloads now run on Carpenter, some critical infrastructure remains 
 |  18 | Mixed instance                                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/06MmxgGbg6U/hqdefault.jpg)](https://www.youtube.com/watch?v=06MmxgGbg6U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=06MmxgGbg6U)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] Moving Past Simple MCP Tools to MCP Agents with Darren Shepherd
   - Obot AI"
-nav_order: 17
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Darren Shepard, chief architect at OOT, discusses the evolution from
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Shepard concludes by advocating for the adoption of agent-based MCP servers for 
 |  18 | Nanobot and its demo app are available at nanobot.ai and on GitHub.                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iRgMQmJwDNA/hqdefault.jpg)](https://www.youtube.com/watch?v=iRgMQmJwDNA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iRgMQmJwDNA)

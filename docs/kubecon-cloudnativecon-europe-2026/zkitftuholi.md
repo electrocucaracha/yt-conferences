@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Welcome + Opening Remarks - Jonathan Bryce & Chris Aniszczyk"
-nav_order: 186
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The opening keynote at KubeCon Amsterdam 2026 celebrated the event’s
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The keynote concluded by encouraging community participation, open source collab
 |  21 | Upcoming KubeCons: India (June), Japa                                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zKItfTuhOlI/hqdefault.jpg)](https://www.youtube.com/watch?v=zKItfTuhOlI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zKItfTuhOlI)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Trino and Data Governance on Kubernetes - Sung Yun & Aki Sukegawa, Bloomberg
-nav_order: 346
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=vCfehltPKxk
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -44,5 +41,7 @@ The platform is designed to support multi-tenancy, scalability, and security, wi
 |  15 | To address this, the team is working on introducing stability and addressing issues related to container lifecycle management when Trino goes down or data centers go down.                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vCfehltPKxk/hqdefault.jpg)](https://www.youtube.com/watch?v=vCfehltPKxk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vCfehltPKxk)

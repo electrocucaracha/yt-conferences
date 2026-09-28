@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Building & Operating a Large-scale HPC AI Cluster on Kubernetes - Kalyan Saladi
   & Chandan Avdhut
-nav_order: 32
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The presentation discusses building an AI HPC cluster on top of Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ They also discussed the challenges of scaling HPC workloads in Kubernetes and th
 |   9 | Potential for hybrid on-premises and public cloud environments.                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7KCBigZi_Rk/hqdefault.jpg)](https://www.youtube.com/watch?v=7KCBigZi_Rk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7KCBigZi_Rk)

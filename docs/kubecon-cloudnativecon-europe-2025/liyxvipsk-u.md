@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   TUF-en up Your Software Supply Chain - Marina Moore, Edera & Kairo De Araujo,
   Independent
-nav_order: 324
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Kaido and Marina discuss the software supply chain metadata distribution
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ The authors address questions about compatibility with SLSA (Software Landscapes
 |  10 | R stuff is a sister project to TUF that provides a generic format for attestations and can be used to verify the integrity of software.                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lIYXVIPsk_U/hqdefault.jpg)](https://www.youtube.com/watch?v=lIYXVIPsk_U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lIYXVIPsk_U)

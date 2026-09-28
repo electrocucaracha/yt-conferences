@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Taming the Complexity Beast... Moderated by Katie Norton, Alex Zenla, Jason
   Hall & Jon Ceanfaglione
-nav_order: 303
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In the panel "Taming the Complexity Beast," experts discuss how organizations
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ As organizations move toward AI and new technologies, the panel urges caution, s
 |  22 | Organizational structure (Conway's Law) influences technical architecture; solutions must be context-specific. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VWi105l6tzs/hqdefault.jpg)](https://www.youtube.com/watch?v=VWi105l6tzs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VWi105l6tzs)

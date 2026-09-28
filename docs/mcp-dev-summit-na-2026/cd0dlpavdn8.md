@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Durable, Asynchronous, and Tricky: Implementing MCP Tasks in Practice - Cornelia
   Davis, Temporal"
-nav_order: 18
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker introduces MCP tasks and the new asynchronous protocol, noting
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The talk concludes with enthusiasm for the new async protocol, while acknowledgi
 |  17 | Each line item payment is a child workflow for independent d                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CD0DlPaVdN8/hqdefault.jpg)](https://www.youtube.com/watch?v=CD0DlPaVdN8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CD0DlPaVdN8)

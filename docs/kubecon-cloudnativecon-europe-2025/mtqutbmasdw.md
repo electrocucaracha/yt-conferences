@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   '"Izzy Saves the Birthday" - A Story-Driven Live Demo Exploring the Ma... Lin
   Sun & Faseela Kundattil'
-nav_order: 1
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Facila, a member of the CNCF TOC and cloud native developer at Ericson,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ A live demo showcases the deployment of Easy Saves Birthday on a Kubernetes clus
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mtqUtbMaSDw/hqdefault.jpg)](https://www.youtube.com/watch?v=mtqUtbMaSDw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mtqUtbMaSDw)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Next Decoupling: From Monolithic Cluster, To Control-Pl... Justin Santa
   Barbara & Ciprian Hacman"
-nav_order: 314
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Cyprian Hackman from Microsoft and Justin Santa Barbara
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The session concludes with a Q&A addressing implementation details, security con
 |  16 | Security and permissions for node creation c                                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7czd6oZV3CY/hqdefault.jpg)](https://www.youtube.com/watch?v=7czd6oZV3CY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7czd6oZV3CY)

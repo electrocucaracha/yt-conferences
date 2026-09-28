@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "This Lying Has To Stop: Keeping AI Honest with OpenTelemetry - Whitney Lee,
   Datadog"
-nav_order: 17
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The speaker introduces Commit Story, an automated engineering journal
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The talk concludes by emphasizing the benefits of telemetry for debugging and sy
 |  16 | The session concluded with a Q&A about how telemetry data is queried and associated with commits.                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rwu7JXzbOQ8/hqdefault.jpg)](https://www.youtube.com/watch?v=rwu7JXzbOQ8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rwu7JXzbOQ8)

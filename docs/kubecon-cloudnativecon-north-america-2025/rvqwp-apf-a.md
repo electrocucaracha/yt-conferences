@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: A Cross-Industry Benchmarking Tutorial for Distributed LLM Inference...
   Multiple Speakers"
-nav_order: 323
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video presents a comprehensive tutorial on cross-industry benchmarking
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The discussion concludes with a call for community involvement and convergence t
 |  19 | Prefix cache-aware routing in LMD reduces latency spikes and improves cache hit ra                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RVQwP-apF-A/hqdefault.jpg)](https://www.youtube.com/watch?v=RVQwP-apF-A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RVQwP-apF-A)

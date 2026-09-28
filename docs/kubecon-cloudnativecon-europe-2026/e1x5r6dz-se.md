@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   A Unified Management and Control Plane for Cloud Native Robots Wi... Sitong
   Mao, Huan Wei & Yin Ding
-nav_order: 7
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation at KubeCon Europe 2026, Juan and Ding, both KubeEdge
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session concludes with a discussion on the technical architecture, real-worl
 |  19 | Design layers cloud-native orchestration over legacy systems; unified control plane for cloud manage                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/e1x5R6dZ-sE/hqdefault.jpg)](https://www.youtube.com/watch?v=e1x5R6dZ-sE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=e1x5R6dZ-sE)

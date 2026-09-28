@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Dapr in the AI Era: Orchestrating Complex Multi-agent Workflows With Automatic...
   Yaron Schneider"
-nav_order: 83
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Yaron Schneider, CTO and co-founder of Dapr Grid, introduces the Dapr
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ He also showcases multi-agent collaboration using Dapr’s pub/sub system and hi
 |  19 | Multi-agent collaboration is supported with simple pub/sub conf                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9gejXxl5JzE/hqdefault.jpg)](https://www.youtube.com/watch?v=9gejXxl5JzE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9gejXxl5JzE)

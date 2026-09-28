@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Modern Continuous Delivery • Ken Mugrage • GOTO 2019
-nav_order: 89
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the history of continuous delivery, starting from
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The speaker also shares lessons learned from other projects, including the impor
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wjF4X9t3FMk/hqdefault.jpg)](https://www.youtube.com/watch?v=wjF4X9t3FMk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wjF4X9t3FMk)

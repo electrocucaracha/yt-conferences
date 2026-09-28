@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Addressing Non-Deterministic Scheduling: Introducing... Ajay K, Sreeram V,
   Karthik N & Priyanka S"
-nav_order: 15
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation introduces the Node Readiness Controller (NRC), a new
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The team has also implemented security improvements, such as constrained imperso
 |  15 | Community involvement encouraged via GitHub, Slack, bi-weekly meetings, and project site.                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oPHayi9ouRI/hqdefault.jpg)](https://www.youtube.com/watch?v=oPHayi9ouRI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oPHayi9ouRI)

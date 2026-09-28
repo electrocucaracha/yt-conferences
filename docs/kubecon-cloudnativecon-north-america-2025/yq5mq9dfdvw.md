@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "State of NATS: Scale, Performance, and Flexibility - Byron Ruth, Synadia"
-nav_order: 291
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Byron Ruth, VP of Product and Engineering at Cadia and a longtime NATS
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ He highlights NATS...
 |   1 | Main points were not provided in the source note. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YQ5mQ9dfDVw/hqdefault.jpg)](https://www.youtube.com/watch?v=YQ5mQ9dfDVw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YQ5mQ9dfDVw)

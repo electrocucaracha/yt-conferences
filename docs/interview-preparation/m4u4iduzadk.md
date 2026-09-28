@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Psychology says you can land any job once you understand these 6 principles
-nav_order: 22
-parent: Interview Preparation
 type: Video Note
 description:
   Brilliant people get rejected and average candidates get offers despite
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Additionally, building a strong personal brand online and using techniques like 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/m4U4iDuZaDk/hqdefault.jpg)](https://www.youtube.com/watch?v=m4U4iDuZaDk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=m4U4iDuZaDk)

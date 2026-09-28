@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Awards Ceremony"
-nav_order: 164
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   George, a project maintainer emeritus, opened the event by emphasizing
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The event concluded with applause for all honorees and a celebration of the comm
 |  18 | Event concludes with thanks to everyone.                                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mqN8rmeMBwU/hqdefault.jpg)](https://www.youtube.com/watch?v=mqN8rmeMBwU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mqN8rmeMBwU)

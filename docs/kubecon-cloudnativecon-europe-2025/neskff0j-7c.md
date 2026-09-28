@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Closing Remarks"
-nav_order: 145
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker thanked all attendees for participating in the event, expressing
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ Additionally, they invited attendees to congratulate two new projects, CubeFS an
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nESkFf0j_7c/hqdefault.jpg)](https://www.youtube.com/watch?v=nESkFf0j_7c)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nESkFf0j_7c)

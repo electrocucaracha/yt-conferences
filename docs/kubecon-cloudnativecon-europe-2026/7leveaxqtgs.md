@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Ultimate Kubernetes Challenge: An Interactive Trivia Game - Aurélie Vache,
   OVHcloud"
-nav_order: 370
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description: Of course! Please provide the video transcript you would like summarized.
 resource: https://www.youtube.com/watch?v=7LeveaxQtGs
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -29,5 +26,7 @@ Please provide the video transcript you would like summarized.
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7LeveaxQtGs/hqdefault.jpg)](https://www.youtube.com/watch?v=7LeveaxQtGs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7LeveaxQtGs)

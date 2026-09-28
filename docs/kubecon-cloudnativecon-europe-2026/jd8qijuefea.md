@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How Statistical Offices Move to Cloud Native Technology - Frédéric Comte &
   Trygve Tatsuya Falch
-nav_order: 143
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speakers, representing Statistics Norway and the French national
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The speakers emphasize the importance of collaboration, guidance over abstractio
 |  18 | Onyxia is                                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JD8qIJuEfEA/hqdefault.jpg)](https://www.youtube.com/watch?v=JD8qIJuEfEA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JD8qIJuEfEA)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Accidental Platform Team: Kubernetes Operators at Swisscom - Fabian Schulz
   & Jelena Malic"
-nav_order: 354
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, the Swisscom team describes their journey from building
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ As a result, they reduced deployment times from days or weeks to hours, improved
 |  17 | Success attributed to empowering us                                                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OgE9X1uBfGo/hqdefault.jpg)](https://www.youtube.com/watch?v=OgE9X1uBfGo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OgE9X1uBfGo)

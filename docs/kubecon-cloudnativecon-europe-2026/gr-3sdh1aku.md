@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Modelpack: Standardizing The Packaging And Distribution
   Of... Andrew Block"
-nav_order: 276
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker introduces Model Pack, a vendor-neutral, open standards project
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The project is open source and community-driven, allowing users to publish, mana
 |  21 | Additional resources: model.org, github.com/modelpack, Model Pack kiosk, CNCF Slack channel.                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gR-3Sdh1AKU/hqdefault.jpg)](https://www.youtube.com/watch?v=gR-3Sdh1AKU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gR-3Sdh1AKU)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: What Can Crossplane Actually Do? A Real World Feel.
   Jonasz Łasut-Balcerzak"
-nav_order: 295
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Yonwas Baleshak from the Swiss insurance company Baloas discusses the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Real-world examples include managing DNS ownership, enhancing API gateways, and 
 |  16 | Abstracts platform complexity and provides guardrails for faster and safer developer workflows.                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/l1LICWLtXIE/hqdefault.jpg)](https://www.youtube.com/watch?v=l1LICWLtXIE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=l1LICWLtXIE)

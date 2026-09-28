@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Scaling MCP with Antje Barth from AWS"
-nav_order: 6
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Auntie, a principal developer advocate at AWS, discusses practical approaches
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The talk concludes with resources for further exploration, including code reposi
 |  18 | Links provided for code repository, strand agents, and a survey for $25 AWS credit.                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9T_BBseYmY8/hqdefault.jpg)](https://www.youtube.com/watch?v=9T_BBseYmY8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9T_BBseYmY8)

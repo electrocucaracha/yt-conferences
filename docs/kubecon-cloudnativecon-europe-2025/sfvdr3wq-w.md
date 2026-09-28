@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   SIG-Multicluster Intro and Deep... Jeremy Olmsted-Thompson, Laura Lorenz, Stephen
   Kitt & Ryan Zhang
-nav_order: 292
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The SIG Multicluster project aims to provide a standardized way for managing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ The SIG Multicluster team is working on integrating the multicluster services AP
 |   8 | There are plans for standardization in gateway and multicluster APIs.                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-SFVDr3wQ_w/hqdefault.jpg)](https://www.youtube.com/watch?v=-SFVDr3wQ_w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-SFVDr3wQ_w)

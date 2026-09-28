@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Hidden Costs of Poor Database Access • Denis Rosa • GOTO 2019
-nav_order: 134
-parent: Developer Productivity
 type: Video Note
 description:
   Denis, a developer advocate at Couchbase, discusses the hidden costs
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ This approach enables developers to write less verbose code and get rid of the o
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/t9b2TZiZUpM/hqdefault.jpg)](https://www.youtube.com/watch?v=t9b2TZiZUpM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=t9b2TZiZUpM)

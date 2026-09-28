@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Advancements in AI/ML Inference Workloads on Kubernetes From... Yuan Tang &
   Eduardo Arango Gutierrez
-nav_order: 14
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The working group serving aims to enhance Kubernetes controllers and
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ They have created a benchmark tool called inference perf to understand what impa
 |  13 | The working group is open to feedback and contributions from vendors and end users.                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/G8U141NkrDI/hqdefault.jpg)](https://www.youtube.com/watch?v=G8U141NkrDI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=G8U141NkrDI)

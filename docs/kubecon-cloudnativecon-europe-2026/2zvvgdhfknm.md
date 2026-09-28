@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From NLB Sprawl To Mesh Efficiency: How Skyscanner Handles 60M Reque... John
   Clark & Steven Thwaites"
-nav_order: 123
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, John from Skyscanner and Steven from Solo describe
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Throughout, Skyscanner emphasized gradual rollouts, custom solutions where neces
 |  18 | Ingress gateways and envoy filters remain supported; Lu                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2ZvvGdHfknM/hqdefault.jpg)](https://www.youtube.com/watch?v=2ZvvGdHfknM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2ZvvGdHfknM)

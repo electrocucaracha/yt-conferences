@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Introducing k8gb: Kubernetes Native Global Load Balancing
   Mad... Yury Tsarev"
-nav_order: 219
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Yuri, the founder and maintainer of KGB (Kubernetes Global Balancer),
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ The project is currently in the CNCF sandbox, has growing community adoption, an
 |  25 | Community engagement: site, GitHub, CNCF Slack, bi-weekly meetings, KubeCon kiosks, and contribution workshops. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4rpPTWIV5DA/hqdefault.jpg)](https://www.youtube.com/watch?v=4rpPTWIV5DA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4rpPTWIV5DA)

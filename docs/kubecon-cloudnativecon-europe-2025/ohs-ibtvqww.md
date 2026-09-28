@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: OpenFGA: The Cloud Native Way to Implement Fine Grained
   Aut... Andres Aguiar"
-nav_order: 250
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Andres Agar, a product manager at Octa, introduces Open FJ, an authorization
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The system is currently in the sandbox stage, maintained mostly by Octa with hel
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ohS-ibtvQWw/hqdefault.jpg)](https://www.youtube.com/watch?v=ohS-ibtvQWw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ohS-ibtvQWw)

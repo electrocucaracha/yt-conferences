@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Durable Execution in DevOps: How Uniphar Built Reliable Syst... Alice Gibbons
   & Vaclav (Oisin) Haken"
-nav_order: 97
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Alice Gibbons from DiGrid and Oshin from UniFar
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ They highlight the benefits of Dapper’s modularity, extensibility, and durabil
 |  18 | Lessons learned: parallelize subscriptions, run                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/REp5yMgy7UQ/hqdefault.jpg)](https://www.youtube.com/watch?v=REp5yMgy7UQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=REp5yMgy7UQ)

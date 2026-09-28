@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Workload Identity for Humans: A Twelve-Factor Approach - Vish Abrams, Heroku"
-nav_order: 374
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Vish Abrams, chief architect at Heroku, discusses workload identity,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The goal is to get community support before implementing it internally, ensuring
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dNb1m84Bp4c/hqdefault.jpg)](https://www.youtube.com/watch?v=dNb1m84Bp4c)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dNb1m84Bp4c)

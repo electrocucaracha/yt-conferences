@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Experto en Liderazgo: cómo convertirte en un LÍDER que INSPIRA | Luis Fallas"
-nav_order: 36
-parent: Foro De Crecimiento
 type: Video Note
 description:
   Luis Fallas, fundador y presidente del Centro de Superación Personal,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Finalmente, motiva a los oyentes a creer en sí mismos, rodearse de personas que
 |  23 | El éxito requiere esfuerzo, sudor y lágrimas; no existen atajos.                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JGA0nv3BYn0/hqdefault.jpg)](https://www.youtube.com/watch?v=JGA0nv3BYn0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JGA0nv3BYn0)

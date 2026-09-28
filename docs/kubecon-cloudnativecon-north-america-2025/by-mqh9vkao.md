@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "On the Origin of Platforms: Evolution of a Capital One Enterprise. Bradley
   Whitfield & Jacob Walden"
-nav_order: 185
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   "In this talk, Brad Whitfield and Jake Walden from Capital One describe
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The presenters stress that platform evolution is a gradual, ongoing process shap
 |  18 | Future focus: hub-and-spoke cluster management, centralized control planes, and                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BY-mQH9VKAo/hqdefault.jpg)](https://www.youtube.com/watch?v=BY-mQH9VKAo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BY-mQH9VKAo)

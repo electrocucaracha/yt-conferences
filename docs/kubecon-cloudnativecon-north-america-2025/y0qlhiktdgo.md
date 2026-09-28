@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "TikTok's IPv6 Journey To Cilium: Pitfalls and Lessons Learned - Giri Kuncoro
   & Joseph Pallamidessi"
-nav_order: 318
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, TikTok’s security engineering team detailed their two-year
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The team emphasized the value of open source collaboration, the importance of en
 |  19 | Migration from Calico to Cil                                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/y0qlhiKtDGo/hqdefault.jpg)](https://www.youtube.com/watch?v=y0qlhiKtDGo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=y0qlhiKtDGo)

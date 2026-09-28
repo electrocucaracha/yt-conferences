@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Three Shades of Isolation: A Multi-tenancy Fortress - Braulio Dumba & Paolo
   Dettori, IBM"
-nav_order: 371
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Paulo Detorii and his colleague from IBM Research
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The team plans to further evaluate their framework with additional workloads and
 |  20 | Pattern is based on open source; can                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/24E4LDWThAE/hqdefault.jpg)](https://www.youtube.com/watch?v=24E4LDWThAE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=24E4LDWThAE)

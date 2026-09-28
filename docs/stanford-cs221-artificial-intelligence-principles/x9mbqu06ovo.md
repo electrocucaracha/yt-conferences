@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 16: Logic II"
-nav_order: 7
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   In this lecture, the instructor introduces first order logic as a more
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The lecture concludes by noting that while first order logic is powerful, it can
 |  21 | Modus ponens is sound but not complete; comple                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/x9Mbqu06OVo/hqdefault.jpg)](https://www.youtube.com/watch?v=x9Mbqu06OVo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x9Mbqu06OVo)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] What are Profiles? A Proposed Foundational Feature of MCP Servers"
-nav_order: 6
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   The speaker introduces their background in standards development and
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ This approach supports both standard and custom profiles, allows SaaS providers 
 |  17 | Feedback and comments on the SE (Specification Enhancement) are encouraged.                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5HasfiWOB2g/hqdefault.jpg)](https://www.youtube.com/watch?v=5HasfiWOB2g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5HasfiWOB2g)

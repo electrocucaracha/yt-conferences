@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Sponsored Keynote: Anchoring Trust in the Age of AI - Yuan Tang & Anjali Telang"
-nav_order: 286
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The CNCF ecosystem has been instrumental in defining trust in computing
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Now, as AI becomes increasingly prevalent, Queser joins the ecosystem as an incu
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Sw5uT4VkCHA/hqdefault.jpg)](https://www.youtube.com/watch?v=Sw5uT4VkCHA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Sw5uT4VkCHA)

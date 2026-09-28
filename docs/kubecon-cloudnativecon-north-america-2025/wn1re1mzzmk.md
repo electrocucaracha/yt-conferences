@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Kubernetes at the Edge – Come See It in Action! - Xavier Avrillier & Antonia
   von den Driesch
-nav_order: 144
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Antonia and Savvi from Giantswarm introduce Kubernetes at the edge, explaining
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The session concludes with a Q&A covering KubeEdge’s applicability beyond IoT,
 |  16 | Edge Core is installed on edge devices using a token                                                                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Wn1rE1MzZmk/hqdefault.jpg)](https://www.youtube.com/watch?v=Wn1rE1MzZmk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Wn1rE1MzZmk)

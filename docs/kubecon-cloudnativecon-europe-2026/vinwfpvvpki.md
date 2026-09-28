@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Multi-Network Step-by-Step: Enabling SR-IOV Support From Kubernetes... Masaharu
   Kanda & Lionel Jouin"
-nav_order: 220
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation discusses the integration of SR-IOV (Single Root I/O
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The talk concludes with an overview of ongoing community efforts, available driv
 |  21 | CI driver calls CNI; can use any CNI.                                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vINwfpvvpKI/hqdefault.jpg)](https://www.youtube.com/watch?v=vINwfpvvpKI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vINwfpvvpKI)

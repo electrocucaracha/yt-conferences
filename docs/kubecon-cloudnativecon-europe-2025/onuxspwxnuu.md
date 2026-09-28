@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: CRI-O: Container Runtime Intensifies - Sascha Grunert,
   Maintainer"
-nav_order: 225
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Cryo, a lightweight container runtime built specifically for Kubernetes,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ This new feature allows for configuration distribution and stacking of container
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ONuxsPWXNUU/hqdefault.jpg)](https://www.youtube.com/watch?v=ONuxsPWXNUU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ONuxsPWXNUU)

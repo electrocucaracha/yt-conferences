@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Helm 4 Is Here. So, Now What? - Andrew Block, Red Hat; Scott Rigby, Replicated;
   Robert Sirchia, SUSE
-nav_order: 139
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation introduces Helm 4, the latest major release of the Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The presenters encourage community participation through reviewing and proposing
 |  19 | Information on developer meetings and tracking Helm v3 charts implementation is available on the Helm site.                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cmHFJikhmyY/hqdefault.jpg)](https://www.youtube.com/watch?v=cmHFJikhmyY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cmHFJikhmyY)

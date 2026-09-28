@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Public End User Technical Advisory Board (TAB) Town Hall
-nav_order: 247
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The End User Technical Advisory Board (TAB) aims to represent the end-user
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ By bridging the gap between project developers and end users, the TAB seeks to i
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/xpRZW4B85Eg/hqdefault.jpg)](https://www.youtube.com/watch?v=xpRZW4B85Eg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xpRZW4B85Eg)

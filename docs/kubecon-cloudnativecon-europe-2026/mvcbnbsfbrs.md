@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "API is the New SSH: Forging a Zero-Trust VM Platform on Kubernetes - Evangelista
   Tragni, Devoteam"
-nav_order: 11
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The session focused on running virtual machines (VMs) within Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concluded with a Q&A addressing issues like nested virtualization, I
 |  19 | Limitations: live migration fragility, storage requirements, Windows migration challenges, node lock-in with passthrough, need for custom disaster recovery, dashboard availability, MAC/IP binding |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mVcBnbSfBrs/hqdefault.jpg)](https://www.youtube.com/watch?v=mVcBnbSfBrs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mVcBnbSfBrs)

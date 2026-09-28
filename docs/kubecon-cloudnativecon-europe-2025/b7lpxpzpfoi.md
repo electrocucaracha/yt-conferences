@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: What's New in Istio? - Mitch Connors, Maintainer"
-nav_order: 267
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "Mitch Connors, a principal engineer at Microsoft, is giving a talk on
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Connors highlights the benefits of choosing ISTO for service mesh needs, includi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/B7lpXPZPFoI/hqdefault.jpg)](https://www.youtube.com/watch?v=B7lpXPZPFoI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=B7lpXPZPFoI)

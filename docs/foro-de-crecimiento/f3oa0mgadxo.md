@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Andes Survivor: What I Learned in the Mountains | Roberto Canessa #50"
-nav_order: 4
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Roberto Canessa relata su experiencia como sobreviviente
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Finalmente, Canessa considera que el milagro de los Andes es un legado del espí
 |  23 | El milagro de los Andes es un legado del espíritu humano y la capacidad de salir adelante.          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/f3Oa0MGadXo/hqdefault.jpg)](https://www.youtube.com/watch?v=f3Oa0MGadXo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=f3Oa0MGadXo)

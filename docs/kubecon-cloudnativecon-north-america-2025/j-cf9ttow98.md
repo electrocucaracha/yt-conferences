@@ -1,8 +1,5 @@
 ---
-layout: default
 title: It’s 2025; Why Are You OK With an Insecure Network? - Alex Leong, Buoyant
-nav_order: 112
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Alex Leong, a software engineer at Buoyant, discusses network security
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ He concludes that the best security solution is one that is used and maintained,
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/J_Cf9TTOW98/hqdefault.jpg)](https://www.youtube.com/watch?v=J_Cf9TTOW98)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=J_Cf9TTOW98)

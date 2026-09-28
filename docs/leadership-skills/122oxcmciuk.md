@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Influence Anybody to Do Anything in 5 Steps [Persuasion - Part 3 of 3]
-nav_order: 45
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ Doug encourages viewers to practice this framework in everyday situations to bui
 |  13 | Viewers are encouraged to comment with questions or scenarios for further guidance.                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/122oXcmciuk/hqdefault.jpg)](https://www.youtube.com/watch?v=122oXcmciuk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=122oXcmciuk)

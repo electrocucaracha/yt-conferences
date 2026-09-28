@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Hack Me If You Can: Learning Kubernetes Security Through a Role-P... Aoi Takahashi
   & Keita Mochizuki"
-nav_order: 135
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this roleplay-based presentation, Ai Takahashasi and Ka Mosuki introduce
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The presenters emphasize the importance of not blindly trusting AI-generated cod
 |  23 | Avoid unnecessary                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zFH3II2vdUo/hqdefault.jpg)](https://www.youtube.com/watch?v=zFH3II2vdUo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zFH3II2vdUo)

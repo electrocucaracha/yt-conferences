@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] Resources: Building the Next Wave of MCP Apps with Shaun Smith,
   LLMindset"
-nav_order: 5
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   The speaker discusses their experience integrating with MCP (Modular
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ They conclude by encouraging involvement in the MCP working group to further ref
 |  20 | Standardized URI schemes facilitate interoperability and richer user ex                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2Jy3z05MspY/hqdefault.jpg)](https://www.youtube.com/watch?v=2Jy3z05MspY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2Jy3z05MspY)

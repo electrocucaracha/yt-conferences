@@ -1,8 +1,5 @@
 ---
-layout: default
 title: What Are Your Salary Expectations? (Best Answer From A Former Recruiter)
-nav_order: 28
-parent: Interview Preparation
 type: Video Note
 description:
   Employers ask about salary expectations because they want to determine
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ To stay in control, be transparent and hold strong, using market research to inf
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jMFt93XPe1g/hqdefault.jpg)](https://www.youtube.com/watch?v=jMFt93XPe1g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jMFt93XPe1g)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: What's New in gRPC - Kevin Nilson & John Feig, Google
-nav_order: 399
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presenters provided an overview of recent developments in gRPC, highlighting
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Audience questions addressed topics such as replication, load balancing, and gat
 |  22 | No current roadma                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/P1YhVS4dhVk/hqdefault.jpg)](https://www.youtube.com/watch?v=P1YhVS4dhVk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=P1YhVS4dhVk)

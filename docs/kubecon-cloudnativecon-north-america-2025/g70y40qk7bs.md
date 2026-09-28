@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sync or Swim: Building Platforms You Can See - Heather Lee & Mike Cutsail,
   Apple"
-nav_order: 298
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Mike and Heather from Apple discuss the challenges and
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -70,5 +67,7 @@ They conclude that robust observability is essential for platform trust and effe
 |  34 | Consistent labeling (claim name, namespace, cluster) enable                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/g70y40Qk7bs/hqdefault.jpg)](https://www.youtube.com/watch?v=g70y40Qk7bs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=g70y40Qk7bs)

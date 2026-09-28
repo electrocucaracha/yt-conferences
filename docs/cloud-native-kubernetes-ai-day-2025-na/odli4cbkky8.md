@@ -1,8 +1,5 @@
 ---
-layout: default
 title: On-Call the Easy Way With Agents - Ryan Tay & Kartikeya Pharasi, Intuit
-nav_order: 10
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   In this talk, Karthik and Ryan from Intuit’s service mesh team discuss
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Currently in early deployment, the agent operates in a dry-run mode, with plans 
 |  18 | Example: agent parse                                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oDli4CBkky8/hqdefault.jpg)](https://www.youtube.com/watch?v=oDli4CBkky8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oDli4CBkky8)

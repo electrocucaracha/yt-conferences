@@ -1,8 +1,5 @@
 ---
-layout: default
 title: If I Were Looking For A Tech Job In 2025 I'd Do This
-nav_order: 18
-parent: Interview Preparation
 type: Video Note
 description:
   A recent graduate with a computer science degree is struggling to find
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ By staying organized and disciplined, Alice increases her chances of landing a j
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fOnUAAUXC1E/hqdefault.jpg)](https://www.youtube.com/watch?v=fOnUAAUXC1E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fOnUAAUXC1E)

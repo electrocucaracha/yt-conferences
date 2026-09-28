@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Panel: How Platforms Can Save Junior Engineers (and Thus... Jennifer R, Leena
   M, Molly C & Paula K"
-nav_order: 239
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The panel discussion centers on the importance of platform engineering
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Ultimately, they argue that investing in junior developers is essential for the 
 |  21 | Involving juniors in open source projects can benefit both organizations                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/q34LpvogwfM/hqdefault.jpg)](https://www.youtube.com/watch?v=q34LpvogwfM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=q34LpvogwfM)

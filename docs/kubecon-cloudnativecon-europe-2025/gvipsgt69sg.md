@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "K8s in Wonderland: Why? Many of Unknown Code in My Workload? - Hoon Jo, Megazone"
-nav_order: 136
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses Kubernetes, a container orchestration system, and
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The speaker emphasizes the importance of understanding Kubernetes concepts and r
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GvIPSgt69Sg/hqdefault.jpg)](https://www.youtube.com/watch?v=GvIPSgt69Sg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GvIPSgt69Sg)

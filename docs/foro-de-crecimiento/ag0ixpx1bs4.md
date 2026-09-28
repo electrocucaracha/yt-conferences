@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "How to Integrate Your Brain (Guided Practices) | Sandra Suter: Growth Session
   #2"
-nav_order: 49
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta charla, se explica cómo el cerebro humano está compuesto por
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ La práctica constante de estas técnicas permite crear nuevos hábitos saludabl
 |  18 | Integrar el cerebro implica incluir todos los procesos, incluso los dolorosos o incómodos. Ratings (1-5): 5                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/AG0iXpX1bs4/hqdefault.jpg)](https://www.youtube.com/watch?v=AG0iXpX1bs4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=AG0iXpX1bs4)

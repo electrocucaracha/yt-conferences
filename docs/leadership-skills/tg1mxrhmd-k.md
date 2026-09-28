@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Effective Delegation Strategies for Engineering Managers - 5 Step Framework
-nav_order: 12
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard addresses the common struggle engineering
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ He stresses the importance of communication, setting clear expectations, and bei
 |  10 | Constructive feedback is essential when mistakes occur during delegation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Tg1mXrhmd_k/hqdefault.jpg)](https://www.youtube.com/watch?v=Tg1mXrhmd_k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Tg1mXrhmd_k)

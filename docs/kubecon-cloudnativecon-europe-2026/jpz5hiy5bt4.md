@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: KubeEdge Everywhere: From Graduation To Global Adoption
   - Yue Bao"
-nav_order: 273
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Hin, a member of the technical steering committee for KubeEdge, introduces
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ The overarching goal is to make cloud-native technologies ubiquitous, and the co
 |  24 | Scenario: Multiple cloud-n                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jPz5hIy5Bt4/hqdefault.jpg)](https://www.youtube.com/watch?v=jPz5hIy5Bt4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jPz5hIy5Bt4)

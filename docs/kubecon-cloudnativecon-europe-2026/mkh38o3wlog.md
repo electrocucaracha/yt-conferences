@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Hacking GPU Observability: eBPF & Ephemeral Containers in Action on Kubernetes
   - Brandon Kang"
-nav_order: 136
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Brendan from Akami discusses the challenges of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Brendan also recommends using ephemeral containers for safe debugging in product
 |  19 | Open source tools                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mkH38O3wLog/hqdefault.jpg)](https://www.youtube.com/watch?v=mkH38O3wLog)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mkH38O3wLog)

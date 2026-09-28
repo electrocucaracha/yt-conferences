@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Metal To Apps: LinkedIn’s Kubernetes-based Compute Platform - Ahmet Alp
   Balkan & Ronak Nathani"
-nav_order: 105
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=dDkXFuy45EA
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ The company has successfully migrated over half its stateless fleet to Kubernete
 |  11 | The company uses in-house solutions instead of third-party tools like Vunder, choosing open-source components that meet their needs. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dDkXFuy45EA/hqdefault.jpg)](https://www.youtube.com/watch?v=dDkXFuy45EA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dDkXFuy45EA)

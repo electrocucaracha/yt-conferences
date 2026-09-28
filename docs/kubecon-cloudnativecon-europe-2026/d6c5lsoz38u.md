@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Inside Saxo Service Blueprint: Implementing Kubernetes Operators for Legacy
   Ent... Oskar Kristiansen"
-nav_order: 153
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Oscar Christensen, a senior enterprise platform engineer at Saxo Bank,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Transparency and developer experience are enhanced through integration with Back
 |  17 | Some resources (e.g., microservice DB access, DNS, certificates) are managed by dev teams using Helm charts and cloud-native too                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/D6c5lsOz38U/hqdefault.jpg)](https://www.youtube.com/watch?v=D6c5lsOz38U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=D6c5lsOz38U)

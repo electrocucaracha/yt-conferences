@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Managing a Million Infra Resources at Spotify: Designing the Platfo... Oliver
   Soell & Fredrik Sommar"
-nav_order: 163
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this KubeCon talk, Spotify engineers Frederick and Oliver discuss
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Through these improvements, Spotify aims to make resource management more scalab
 |  20 | Platform team supports other platfor                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Vg2FiJZReDg/hqdefault.jpg)](https://www.youtube.com/watch?v=Vg2FiJZReDg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Vg2FiJZReDg)

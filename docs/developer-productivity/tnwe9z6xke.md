@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How Work Works & Other Curiosities • James Lewis • GOTO 2023
-nav_order: 53
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses various topics, including the evolution of technology,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The speaker references various books and authors, including Martin Fowler, Dan N
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_TnWe9z6xkE/hqdefault.jpg)](https://www.youtube.com/watch?v=_TnWe9z6xkE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_TnWe9z6xkE)

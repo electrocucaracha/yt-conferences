@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Day 2 Highlight: KubeCon + CloudNativeCon Atlanta 2025"
-nav_order: 53
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker is excited to be at CubeCon CloudNative Con, emphasizing
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The speaker also thanks the CNCF for selecting their case study as a winner, hig
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gD7fZF3JDjU/hqdefault.jpg)](https://www.youtube.com/watch?v=gD7fZF3JDjU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gD7fZF3JDjU)

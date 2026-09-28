@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "OpenTelemetry Collector SIG: Project Updates - Jade G, Dmitrii A, Alex B,
   Evan B & Antoine T"
-nav_order: 232
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The OpenTelemetry Collector team provided a comprehensive update on the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Finally, they invited feedback and questions, noting ongoing discussions around 
 |  16 | Contrib repository has many components; efforts underway to raise the bar for new additions an                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0zwLl8QGOdM/hqdefault.jpg)](https://www.youtube.com/watch?v=0zwLl8QGOdM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0zwLl8QGOdM)

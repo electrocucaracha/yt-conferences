@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Road To Strimzi 1.0 - Jakub Scholz, Cloudera & Paolo Patierno, IBM
-nav_order: 365
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Paulo and Jakob, core maintainers of the StreamZ project, shared their
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concluded with an invitation to the community to participate in the 
 |  20 | Community engagement encouraged via site, GitHub, social media, YouTube, and community calls.                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1BtVSQ0t-CU/hqdefault.jpg)](https://www.youtube.com/watch?v=1BtVSQ0t-CU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1BtVSQ0t-CU)

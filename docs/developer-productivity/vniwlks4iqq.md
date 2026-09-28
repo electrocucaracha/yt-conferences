@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Signs, Signs, Everywhere a Sign • Andy Fleener • GOTO 2021
-nav_order: 114
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the concept of "weak signals" in the context of
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ By understanding how to identify and respond to weak signals, individuals can ga
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VNiWLKS4IqQ/hqdefault.jpg)](https://www.youtube.com/watch?v=VNiWLKS4IqQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VNiWLKS4IqQ)

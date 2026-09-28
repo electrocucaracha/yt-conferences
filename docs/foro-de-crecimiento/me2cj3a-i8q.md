@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Aprende a AUMENTAR tus VENTAS con Marca Personal | Julio iero - Sesión de
   Crecimiento #8"
-nav_order: 5
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este episodio del Foro de Crecimiento, Julio Yero comparte su experiencia
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finalmente, resalta que la riqueza es cuestión de simetría y plenitud, y que c
 |  19 | Vivir cada día como “un día menos” motiva a aprovechar el tiempo y perseguir los sueños.                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ME2Cj3A_I8Q/hqdefault.jpg)](https://www.youtube.com/watch?v=ME2Cj3A_I8Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ME2Cj3A_I8Q)

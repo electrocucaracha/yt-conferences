@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Panic To Peace: Making K8s Controller Observability Suck Less - Cat Morris
   & Derik Evangelista"
-nav_order: 86
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presenters discuss improving Kubernetes controller observability
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -64,5 +61,7 @@ The talk concludes with the concept of the "observability onion," emphasizing th
 |  28 | Layers: logs → status → events → metrics → traces → interfaces.                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1P76Roya9oQ/hqdefault.jpg)](https://www.youtube.com/watch?v=1P76Roya9oQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1P76Roya9oQ)

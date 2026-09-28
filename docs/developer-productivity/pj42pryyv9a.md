@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Making Chaos Engineering Boring: Debunking Myths Hampering Adoption • Miko
   Pawlikowski • GOTO 2021"
-nav_order: 84
-parent: Developer Productivity
 type: Video Note
 description:
   Mikhail Pavlikowski, author of the Chaos Engineering book, argues that
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ Pavlikowski concludes by promoting his book as a practical guide to chaos engine
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Pj42pryYv9A/hqdefault.jpg)](https://www.youtube.com/watch?v=Pj42pryYv9A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Pj42pryYv9A)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: No More Slop – swyx
-nav_order: 4
-parent: Aie Code 2025 Ai Leadership
 type: Video Note
 description:
   The speaker opens by expressing nervousness and asking for audience support,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The talk concludes with a rallying cry for the audience to reject slop in all fo
 |  20 | Audience encouraged to reject slop in code, releases, and engagement tactics                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/IoiHI7p12Ao/hqdefault.jpg)](https://www.youtube.com/watch?v=IoiHI7p12Ao)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IoiHI7p12Ao)

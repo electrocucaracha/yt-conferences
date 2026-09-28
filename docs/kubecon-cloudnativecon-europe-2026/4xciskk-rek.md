@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | EnvoyCon: External Processing, Internal Leverage: MCP
   Tool Calls... Jens Kat"
-nav_order: 57
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Jen Scott, a senior software engineer at ING, explains
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The solution is running in production at ING, and the team plans to open source 
 |  22 | API governance and marketplace ensure correct mapping and prevent unwanted cross-talk                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4XciSKk-Rek/hqdefault.jpg)](https://www.youtube.com/watch?v=4XciSKk-Rek)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4XciSKk-Rek)

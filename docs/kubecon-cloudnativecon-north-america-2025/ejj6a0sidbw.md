@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Spark on Kubernetes, a Practical Guide - Damon Cortesi, Airbnb
-nav_order: 284
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Damon Cortezy, a staff software engineer at Airbnb, discusses the company's
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They also leveraged Argo CD for deploying configurations stored in Git.
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ejJ6A0sIdbw/hqdefault.jpg)](https://www.youtube.com/watch?v=ejJ6A0sIdbw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ejJ6A0sIdbw)

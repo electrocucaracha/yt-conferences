@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes Infra SIG: Intro and Updates - Mahamed Ali, Arab Center for Research
   & Policy Studies"
-nav_order: 140
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Muhammad, a senior DevOps engineer and Kubernetes maintainer, provides
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Muhammad encourages interested individuals to join the SIG's Slack channel or me
 |  20 | SIG meets biweekly; contact via Kubernetes Slack in the Sikkate infra channel.                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1VMhhZQWFmM/hqdefault.jpg)](https://www.youtube.com/watch?v=1VMhhZQWFmM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1VMhhZQWFmM)

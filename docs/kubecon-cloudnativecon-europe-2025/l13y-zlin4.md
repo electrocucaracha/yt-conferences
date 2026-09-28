@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Unlocking the Future of Kubernetes Policy as Code With Kyverno - Vishal Choudhary
   & Frank Jogeleit
-nav_order: 359
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Kaberno, a CNCF incubating project, is a policy engine built for Kubernetes
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ These new policy types aim to simplify the API and improve performance while ret
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/L13y_-zLin4/hqdefault.jpg)](https://www.youtube.com/watch?v=L13y_-zLin4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=L13y_-zLin4)

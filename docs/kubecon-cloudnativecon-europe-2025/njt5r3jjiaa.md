@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   A Comparative Analysis of Kueue, Volcano, and YuniKorn - Wei Huang, Apple &
   Shiming Zhang, DaoCloud
-nav_order: 3
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The video discusses the comparison of three popular schedulers in Kubernetes:
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The presentation also showcases benchmarking results comparing the performance o
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/njT5r3JjIaA/hqdefault.jpg)](https://www.youtube.com/watch?v=njT5r3JjIaA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=njT5r3JjIaA)

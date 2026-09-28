@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Rage Against the Machine: Fighting AI Complexity With Kubernetes Simplicity
   - Paul Yu & Sachi Desai"
-nav_order: 253
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, the presenters discuss simplifying the integration of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The session concludes by emphasizing Kaido’s ability to consolidate disparate 
 |  21 | Inference gateway decouples data retrieval from inference logic, sup                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RsROxLzsAe8/hqdefault.jpg)](https://www.youtube.com/watch?v=RsROxLzsAe8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RsROxLzsAe8)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Dynamic Mocking for Event-Driven APIs: A Cloud Native Approa... Harshvardhan
   Parmar & Anushka Saxena"
-nav_order: 98
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker introduces the challenge of testing event-driven APIs, noting
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session concludes by inviting feedback and contributions to the Micros commu
 |  19 | Community is encouraged to contribute, provide feedback, and explore the Micros GitHub repository                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vS0AY3FJfcg/hqdefault.jpg)](https://www.youtube.com/watch?v=vS0AY3FJfcg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vS0AY3FJfcg)

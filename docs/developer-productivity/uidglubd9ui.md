@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Quantified Self: From Data to Actionable Dashboards • Felix Krause & Johan
   Abildskov • GOTO 2022"
-nav_order: 104
-parent: Developer Productivity
 type: Video Note
 description:
   Johan Abildskov, a software engineer at Uber, discussed his experience
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ Additionally, Johan discussed the need for engineers to reclaim their ability to
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/UidgLUbD9uI/hqdefault.jpg)](https://www.youtube.com/watch?v=UidgLUbD9uI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UidgLUbD9uI)

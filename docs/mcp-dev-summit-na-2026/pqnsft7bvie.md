@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Scopes To Intent: Reimagining Authorization for Autonomou... Andres Aguiar
   & Abhishek Hingnikar"
-nav_order: 30
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this presentation, Andreas from Opta and Abishek from Octa discuss
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The talk concludes by inviting further discussion and sharing resources for thos
 |  22 | Resources and demo code are av                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pQnsFT7BViE/hqdefault.jpg)](https://www.youtube.com/watch?v=pQnsFT7BViE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pQnsFT7BViE)

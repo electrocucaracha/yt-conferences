@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Shadow MCP: Finding the MCPs Nobody Approved - Aidan Sochowski & Alexander
   Frazer, Runlayer"
-nav_order: 82
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Alex and Aiden discuss the security challenges posed by
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ They conclude by noting that while technical solutions exist, the problem is com
 |  22 | Observe and classify all tools and client                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mpmV_t-i0K8/hqdefault.jpg)](https://www.youtube.com/watch?v=mpmV_t-i0K8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mpmV_t-i0K8)

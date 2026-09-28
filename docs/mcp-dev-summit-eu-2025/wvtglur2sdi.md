@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Why is MCP Auth Hard and What Are We Planning to Do About It"
-nav_order: 36
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   In this talk, Paul, a technical staff member at Anthropic and MCP core
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Paul concludes by inviting contributors to join the MCP O interest group to help
 |  18 | Recap: MCP OAuth is hard due to enabling general-purpose clients, implementation                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wvtGlur2SdI/hqdefault.jpg)](https://www.youtube.com/watch?v=wvtGlur2SdI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wvtGlur2SdI)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "REPITE estos MANTRAS todos los días y CAMBIA tu VIDA | Prem Dayal \U0001FAB7
   #14"
-nav_order: 64
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Prem Dayal, autor de "Me vale madres", explora la
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Finalmente, Dayal invita a integrar estas enseñanzas en la vida cotidiana y lab
 |  20 | Mejorar relaciones laborales y personales implica autenticidad, aceptación y ver más allá de la personalidad.                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RBf_48HVGbI/hqdefault.jpg)](https://www.youtube.com/watch?v=RBf_48HVGbI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RBf_48HVGbI)

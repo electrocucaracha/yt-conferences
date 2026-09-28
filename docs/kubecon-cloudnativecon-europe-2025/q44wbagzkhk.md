@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "gRPC: 5 Years Later, Is It Still Worth It? - Konstantin Ostrovsky, Torq.io"
-nav_order: 379
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Constantine, is the chief architect at Torque, a cybersecurity
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ Constantine also discusses the challenges of using gRPC, such as dependency mana
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/q44WBAGzKhk/hqdefault.jpg)](https://www.youtube.com/watch?v=q44WBAGzKhk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=q44WBAGzKhk)

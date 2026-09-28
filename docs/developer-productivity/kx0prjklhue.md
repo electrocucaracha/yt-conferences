@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Software Is Details • Kevlin Henney • GOTO 2020
-nav_order: 123
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker emphasizes the importance of paying attention to details
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ They argue that attention to details is crucial, as it can make or break a syste
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kX0prJklhUE/hqdefault.jpg)](https://www.youtube.com/watch?v=kX0prJklhUE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kX0prJklhUE)

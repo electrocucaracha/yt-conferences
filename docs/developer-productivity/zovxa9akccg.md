@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Calling Functions Across Languages • Richard Feldman • GOTO 2023
-nav_order: 15
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the challenges of calling functions across languages,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ The speaker also touches on the trade-offs involved, including potential overhea
 |  12 | The speaker highlights the benefits of incremental adoption, where a new language is introduced gradually into an existing codebase. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZOvxa9aKCCg/hqdefault.jpg)](https://www.youtube.com/watch?v=ZOvxa9aKCCg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZOvxa9aKCCg)

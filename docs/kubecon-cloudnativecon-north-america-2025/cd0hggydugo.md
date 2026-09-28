@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Know Before You Go! Speedrun Intro To Gateway API - Christine
   Kim"
-nav_order: 151
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Christine from Isovalent introduces the Gateway API as the successor
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Christine also recommends resources like the official guides, the ingress-to-gat
 |  19 | Contact Christine for questions                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Cd0hGGydUGo/hqdefault.jpg)](https://www.youtube.com/watch?v=Cd0hGGydUGo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Cd0hGGydUGo)

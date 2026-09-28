@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Deal with Software Complexity • Gail Murphy & Charles Humble • GOTO
   2024
-nav_order: 57
-parent: Developer Productivity
 type: Video Note
 description:
   Dr. Gail Murphy, a professor and vice president of research at the University
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ She also stressed the importance of modularization, cohesion, and coupling in so
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BvJ0XLyCQsw/hqdefault.jpg)](https://www.youtube.com/watch?v=BvJ0XLyCQsw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BvJ0XLyCQsw)

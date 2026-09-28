@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Scale Smarter Not Harder: How Extending Cluster Autoscaler Saves Mi... Rahul
   Rangith & Ben Hinthorne"
-nav_order: 296
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=CQ3Wxg4qNaQ
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ This approach has resulted in significant cost savings across dozens of clusters
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CQ3Wxg4qNaQ/hqdefault.jpg)](https://www.youtube.com/watch?v=CQ3Wxg4qNaQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CQ3Wxg4qNaQ)

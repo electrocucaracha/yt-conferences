@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Turbocharging Argo CD: Replacing Redis With Dragonfly for... Soumya Ghosh
   Dastidar & Justin Marquis"
-nav_order: 322
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Here is a summary of the video transcript in one paragraph.
 resource: https://www.youtube.com/watch?v=_cUyqF6fyQg
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The speaker concludes that Dragonfly is production-ready and compatible with all
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_cUyqF6fyQg/hqdefault.jpg)](https://www.youtube.com/watch?v=_cUyqF6fyQg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_cUyqF6fyQg)

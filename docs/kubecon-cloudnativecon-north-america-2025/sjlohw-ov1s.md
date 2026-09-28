@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Closing Remarks - Day 02"
-nav_order: 121
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video transcript highlights various activities and events taking
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ The video transcript highlights various activities and events taking place durin
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/sJlohW-ov1s/hqdefault.jpg)](https://www.youtube.com/watch?v=sJlohW-ov1s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sJlohW-ov1s)

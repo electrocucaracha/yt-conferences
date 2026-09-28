@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Pull Request Wars: The Flux Awakens - Ephemeral Kubernetes Environ... Matteo
   Bianchi & Stefan Prodan"
-nav_order: 303
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Mat Bankei and Stefan Prodan introduce a workflow
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ They conclude by sharing resources and best practices for adopting this workflow
 |  18 | All resources, documentation, and demo repos are available on                                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/uGhHeYZ4zGg/hqdefault.jpg)](https://www.youtube.com/watch?v=uGhHeYZ4zGg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uGhHeYZ4zGg)

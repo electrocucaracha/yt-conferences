@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes Security at Shopify Scale: Automating Security Across an Infrastr...
   Jie Wu & Pulkit Garg"
-nav_order: 195
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Jay and Pulkit from Shopify’s infrastructure security
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The team also uses OPA for policy enforcement beyond Kubernetes, and highlights 
 |  18 | Security is now built into the developer workflow, with continuous improvement                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fBEG2kag4Aw/hqdefault.jpg)](https://www.youtube.com/watch?v=fBEG2kag4Aw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fBEG2kag4Aw)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Bridge the Gap To OSS Adoption With Documentation: A Kubernetes Story - Natali
   Vlatko & Divya Mohan"
-nav_order: 31
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Kubernetes documentation team, led by Da Moan and Natalie Vlatco,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Additionally, they discussed the need for improvement in their API reference doc
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Q40yLLLIW9Q/hqdefault.jpg)](https://www.youtube.com/watch?v=Q40yLLLIW9Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q40yLLLIW9Q)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "GAMMA in Action: How Careem Migrated To Istio Without Downtime - Suren Raju
   & Sergey Marunich"
-nav_order: 88
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presentation details Kareem’s migration of its critical digital platform,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The migration was completed in six weeks across five clusters and 700 services w
 |  19 | Continuous improvement and upgrade procedures established for future migrations and revisions                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/igJXmbwMYAc/hqdefault.jpg)](https://www.youtube.com/watch?v=igJXmbwMYAc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=igJXmbwMYAc)

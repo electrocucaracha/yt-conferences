@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "10 Years of Cilium: Connecting, Securing... Bill Mulligan, Paul Arah, Neha
   Aggarwal, Satish Krishnan"
-nav_order: 1
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session began with an update on the Psyllium project, marking its
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session also reflected on Psyllium’s growth, its collaborative open-source
 |  18 | Active community engagemen                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mCKwX74xIs4/hqdefault.jpg)](https://www.youtube.com/watch?v=mCKwX74xIs4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mCKwX74xIs4)

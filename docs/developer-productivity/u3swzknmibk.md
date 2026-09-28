@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Reverse Software Entropy • Saleem Siddiqui • GOTO 2023
-nav_order: 64
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=U3sWzKnMIbk
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -28,5 +25,7 @@ By addressing these factors, developers can reduce the entropy in their systems 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/U3sWzKnMIbk/hqdefault.jpg)](https://www.youtube.com/watch?v=U3sWzKnMIbk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=U3sWzKnMIbk)

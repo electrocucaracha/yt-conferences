@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Building ChatGPT Apps: Principles for a New Kind of Interface - Elliot Garreffa,
   Ghost Team"
-nav_order: 3
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Elliot Graff, co-founder of Ghost Team, discusses key principles
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finally, he advises keeping apps simple and focused on refined intents, as those
 |  19 | Key takeaways: understand the model/server/widget relationship, start with intent, optimize tool descriptions, and test live.                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Km4ZZW0Aohc/hqdefault.jpg)](https://www.youtube.com/watch?v=Km4ZZW0Aohc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Km4ZZW0Aohc)

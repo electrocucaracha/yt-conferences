@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: youki: What’s New and What’s Next? - Yusuke Sakurai,
   Reviewer"
-nav_order: 301
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Yusuke Sakai, a maintainer of Yoki, provides an update on the project's
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ These efforts aim to make Yoki more practical, reliable, and accessible for broa
 |  20 | Plan to introduce deployment tooling similar to kata-deploy for easier and repeatable setup on Kubernetes.                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/L4AgLkGk_T8/hqdefault.jpg)](https://www.youtube.com/watch?v=L4AgLkGk_T8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=L4AgLkGk_T8)

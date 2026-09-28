@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Navigating the Rapid Evolution of Large Mod... Jiaxin Shan, Yuan Tang, Sergey
   Kanzhelev & Rita Zhang
-nav_order: 175
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session, led by members from Google, Red Hat, Bance, and Microsoft,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The group emphasized ongoing collaboration, the importance of transitioning to n
 |  20 | LMD: native Kubern                                                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bphNDWE8rGE/hqdefault.jpg)](https://www.youtube.com/watch?v=bphNDWE8rGE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bphNDWE8rGE)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   OpenFeature Update From the Maintainers - Thomas Poignant, Lukas Reining &
   Alexandra Oberaigner
-nav_order: 211
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Open Feature project is an open specification for a vendor-agnostic
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ The project also includes an open telemetry semantic convention, which provides 
 |  10 | The open feature remote evaluation protocol (offrep) is a new experimental version of the protocol.     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lEXm6k2wpG4/hqdefault.jpg)](https://www.youtube.com/watch?v=lEXm6k2wpG4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lEXm6k2wpG4)

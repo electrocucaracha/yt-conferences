@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Deep Dive: Handling Kubernetes Memory Pressure & Achievi... Ajay Sundar Karuppasamy,
   & Itamar Holder"
-nav_order: 56
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker, a software engineer at Google, discusses optimizing swap
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ They also discuss the limitations of Kubernetes eviction and recommend separatin
 |  11 | Cumulative eviction does not account for swap usage, which can lead to unexpected evictions.             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bFrEPfls5PQ/hqdefault.jpg)](https://www.youtube.com/watch?v=bFrEPfls5PQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bFrEPfls5PQ)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 3 - Transformers
   & Large Language Models
-nav_order: 3
-parent: Large Language Models Llms
 type: Video Note
 description:
   The lecture begins with announcements about slide availability and a
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Finally, the lecture explores efficiency techniques for inference, such as KV ca
 |  23 | Prompts typically include context, instructions, input, and con                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Q5baLehv5So/hqdefault.jpg)](https://www.youtube.com/watch?v=Q5baLehv5So)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q5baLehv5So)

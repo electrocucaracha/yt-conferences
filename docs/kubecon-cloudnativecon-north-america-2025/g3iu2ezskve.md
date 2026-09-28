@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: 5 Key Lessons From 8 Years of Building Kgateway -
   Yuval Kohavi"
-nav_order: 204
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Yuval Kohave, chief architect at Solo.io and K Gateway maintainer, shares
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ Finally, he stresses the need to define scalability goals early, rigorously test
 |  25 | Advice: define scale goals early, test against them, and set clear expectations with users.                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/G3Iu2ezSkVE/hqdefault.jpg)](https://www.youtube.com/watch?v=G3Iu2ezSkVE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=G3Iu2ezSkVE)

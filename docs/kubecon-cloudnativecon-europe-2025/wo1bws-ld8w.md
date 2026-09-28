@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Revolutionizing Legacy Migrations with Konveyor AI
   - Jonah Sussman"
-nav_order: 257
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Jonah Susman, a software engineer at Red Hat, introduces Conveyor AI,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The system provides a chat interface with reasoning behind its choices, allowing
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wO1bWs_LD8w/hqdefault.jpg)](https://www.youtube.com/watch?v=wO1bWs_LD8w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wO1bWs_LD8w)

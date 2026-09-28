@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Making Kubernetes for AI Optimized and Reproducible - Nathan Taber
   & Mark Chmarny"
-nav_order: 178
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Nathan Taber and Mark Smalley from Nvidia discuss their efforts to simplify
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Nvidia has seeded ACRE with recipes for H100 and GB200 accelerators on EKS and G
 |  18 | Recent contributions                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RsF1-Jt-2G8/hqdefault.jpg)](https://www.youtube.com/watch?v=RsF1-Jt-2G8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RsF1-Jt-2G8)

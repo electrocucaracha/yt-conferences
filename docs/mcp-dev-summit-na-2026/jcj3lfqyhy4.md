@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Session: Agents and MCP @ Google Scale - Alan Blount & Vaibhav Katkade,
   Google Cloud"
-nav_order: 84
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this presentation, Alan Blunt, a technical product manager at Google
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concludes with an invitation to further discussions and learning opp
 |  19 | Envoy proxy is extended to support MCP and agent protocols, enabling policy enforcement and security at the protocol                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jCJ3LfqyHy4/hqdefault.jpg)](https://www.youtube.com/watch?v=jCJ3LfqyHy4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jCJ3LfqyHy4)

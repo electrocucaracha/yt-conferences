@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] What MCP Middleware Could Look Like with Yoko Li from A16Z"
-nav_order: 3
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Yoko, a partner at Andre and Horwood and an active developer, introduces
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Yoko encourages open sourcing in this space to foster ecosystem growth and invit
 |  21 | Open sourcing middleware is encouraged to grow the ecosyst                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0WGZNE9FcAk/hqdefault.jpg)](https://www.youtube.com/watch?v=0WGZNE9FcAk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0WGZNE9FcAk)

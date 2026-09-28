@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Weaving a VEX Feed Through the Kubernetes Project - Adolfo García Veytia, Stacklok
-nav_order: 367
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Adulo Garcia, discusses building a VEX Kubernetes feed to
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The speaker demonstrates how Vexflow can be used to issue vex statements for a p
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oCbJdcy3zzA/hqdefault.jpg)](https://www.youtube.com/watch?v=oCbJdcy3zzA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oCbJdcy3zzA)

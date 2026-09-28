@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "How to Make the Impossible Possible: Fernando Anzures and the Formula for
   Connecting with the Gre..."
-nav_order: 50
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Fernando Anzures, emprendedor y fundador de Exma,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Finalmente, invita a mantener una actitud de aprendizaje constante y a buscar si
 |  17 | El crecimiento es un viaje interno y externo; hay que ser un estudiante eterno. Ratings (1-5): 3                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7lAOE_YE5eU/hqdefault.jpg)](https://www.youtube.com/watch?v=7lAOE_YE5eU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7lAOE_YE5eU)

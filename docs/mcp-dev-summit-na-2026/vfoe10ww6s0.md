@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Sponsored Session: Model Context Pragmatism - Jeremiah Lowin, Prefect"
-nav_order: 86
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Jeremiah, CEO of Prefect, discusses the evolution of FastMPP, an opinionated
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ He emphasizes the importance of pushing the ecosystem to support the full range 
 |  22 | Prefab code is converted to JSON, rendered as React apps, and sup                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vfOe10Ww6s0/hqdefault.jpg)](https://www.youtube.com/watch?v=vfOe10Ww6s0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vfOe10Ww6s0)

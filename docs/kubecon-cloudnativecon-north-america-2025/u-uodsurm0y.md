@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Perses: Update - Augustin Husson, Maintainer"
-nav_order: 236
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Augugusta, a maintainer of the Pers project, provides an update on its
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Additionally, the European Union is now funding Pers, and interested individuals
 |  17 | Official site: pers.dev, with documentation, installation instructions, and an online demo                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/u_uODSUrm0Y/hqdefault.jpg)](https://www.youtube.com/watch?v=u_uODSUrm0Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=u_uODSUrm0Y)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "AI Pipelines With OPEA: Best Practices for Cloud Native ML Operati... Ezequiel
   Lanza & Melissa McKay"
-nav_order: 12
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Melissa McKay, head of developer relations at JROG, introduces the Open
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ A demo showcases the project's capabilities, highlighting its potential to simpl
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6hWoA4jEk5M/hqdefault.jpg)](https://www.youtube.com/watch?v=6hWoA4jEk5M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6hWoA4jEk5M)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en Liderazgo: Cómo Multiplicar tu Influencia y tu Impacto! | Yamil
   Raidan"
-nav_order: 35
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Yamil Raidán, un líder empresarial con amplia experiencia
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finalmente, aconseja fomentar la autenticidad, el pensamiento crítico y la capa
 |  19 | Es importante soñar en grande y fomentar la autenticidad en los hijos.                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VqMPep1jjn0/hqdefault.jpg)](https://www.youtube.com/watch?v=VqMPep1jjn0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VqMPep1jjn0)

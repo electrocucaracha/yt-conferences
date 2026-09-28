@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Clients? Servers? Agents? The Beautiful Asymmetry of the MCP Spec - Rohit Ganguly,
   Descope
-nav_order: 8
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Rohit’s talk explores the asymmetry and evolving possibilities of the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -66,5 +63,7 @@ Ultimately, Rohit encourages experimentation with MCP’s flexible architecture,
 |  31 | Ent Ratings (1-5): 3                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GMQCXe1zrWY/hqdefault.jpg)](https://www.youtube.com/watch?v=GMQCXe1zrWY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GMQCXe1zrWY)

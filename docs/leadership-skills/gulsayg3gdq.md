@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How Women in STEM Can Navigate the Gender Gap to Advance Your Career TEDx Speaker
   Prashha Dutra
-nav_order: 17
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, confidence coach and TEDx speaker Prasha Dutra discusses
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Her main advice to women struggling in STEM is to seek help, invest in personal 
 |  16 | Prasha offers coaching, workshops, and a supportive community for women in S                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GulSaYG3gdQ/hqdefault.jpg)](https://www.youtube.com/watch?v=GulSaYG3gdQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GulSaYG3gdQ)

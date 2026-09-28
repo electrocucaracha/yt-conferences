@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Navigating the Gateway API Maze: 40+ Implementations, 55+ Features... Beka
   Modebadze & Christine Kim"
-nav_order: 222
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation, "Navigating the Gateway API Maze," discusses the evolution
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ In the Q&A, they clarify that Gateway API and Ingress can run in parallel, CRDs 
 |  18 | No current plans to bundle Gateway API CRDs with Kubernetes core;                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/aBoqH0wf4Yk/hqdefault.jpg)](https://www.youtube.com/watch?v=aBoqH0wf4Yk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aBoqH0wf4Yk)

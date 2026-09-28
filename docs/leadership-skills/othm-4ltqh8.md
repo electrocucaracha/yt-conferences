@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Quickly Build Relationships With Anyone | The Secret to Winning Friends,
   Influencing People
-nav_order: 30
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a structural engineer and manager, emphasizes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ He concludes by reminding viewers not to force conversations and to let relation
 |  18 | For introductions, refer to the recommended episode on making a positive first impression.                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Othm_4lTQh8/hqdefault.jpg)](https://www.youtube.com/watch?v=Othm_4lTQh8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Othm_4lTQh8)

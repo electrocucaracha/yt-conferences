@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Reflections on Context Engineering Via MCP Servers - Till Döhmen, MotherDuck
-nav_order: 77
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Till, from Mother Duck, discusses the company's development of a cloud
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finally, he notes that dives fill a gap between static dashboards and ad hoc bus
 |  20 | Automated evaluation of MCP servers is influenced by the specific agent ha                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BJYiOKgnKaQ/hqdefault.jpg)](https://www.youtube.com/watch?v=BJYiOKgnKaQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BJYiOKgnKaQ)

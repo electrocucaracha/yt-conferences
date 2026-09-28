@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Smarter Together: Orchestrating Multi-Agent AI Systems... Ana Maria Lopez
   Moreno & Sharon Camacho"
-nav_order: 283
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Sharon Camacho and Anna Lopez discuss the challenges
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The presenters also emphasize the importance of managing the lifecycle and versi
 |  21 | Importance of managing agent environments and data sources of                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JnybchLqKXc/hqdefault.jpg)](https://www.youtube.com/watch?v=JnybchLqKXc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JnybchLqKXc)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Influence Upward, Downward, and Cross Functionally at Work
-nav_order: 27
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, leadership coach Doug Howard introduces the AEC framework—Appreciate,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Finally, Convert focuses on aligning what you want with what the other person wa
 |  22 | Summary: Appreciate (give attention), Empathize (show understanding), Convert (align goals and build momentum with small asks). |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RJqwsjUFAq4/hqdefault.jpg)](https://www.youtube.com/watch?v=RJqwsjUFAq4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RJqwsjUFAq4)

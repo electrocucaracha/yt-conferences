@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Adopting a Fleet-first Mindset - Andy Beane, Spotify
-nav_order: 11
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker, an engineer at Spotify, discusses the challenges of managing
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Looking ahead, Spotify aims to further enhance fleet management with AI-driven a
 |  19 | Adoption of fleet management                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-E9ffAB3DoA/hqdefault.jpg)](https://www.youtube.com/watch?v=-E9ffAB3DoA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-E9ffAB3DoA)

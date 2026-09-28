@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Longhorn: Intro, Deep Dive and Q&A - Shuo Wu, SUSE"
-nav_order: 157
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=NhllqYL0eBg
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ The team plans to release additional features in upcoming versions, including su
 |  13 | Read-write mini feature has stability improvements planned, including NFSA stability.                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NhllqYL0eBg/hqdefault.jpg)](https://www.youtube.com/watch?v=NhllqYL0eBg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NhllqYL0eBg)

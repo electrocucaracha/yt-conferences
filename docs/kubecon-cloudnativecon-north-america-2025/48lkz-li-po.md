@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Threat Modeling Kubernetes: Fast, Practical, and LLM-Driven
   - Maxime Coquerel"
-nav_order: 153
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Maxim Cochril, a principal cloud security architect at
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ Cochril emphasizes that this solution serves as an assistant to cloud security a
 |  25 | Output                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/48LKZ-lI_po/hqdefault.jpg)](https://www.youtube.com/watch?v=48LKZ-lI_po)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=48LKZ-lI_po)

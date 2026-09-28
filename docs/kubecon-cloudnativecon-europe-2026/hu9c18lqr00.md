@@ -1,8 +1,5 @@
 ---
-layout: default
 title: DNS Tracing & Metrics Via eBPF in OpenTelemetry - Endre Sara & Nikola Grcevski
-nav_order: 82
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Nikola Grachevski and Andras Szabo present on DNS observability using
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The presenters emphasize OB’s security benefits, ease of deployment, and its a
 |  17 | Q&A covered permissions, multi-level DNS tracing, port configuration, project status, and trace correlation challenges.                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hu9c18lqR00/hqdefault.jpg)](https://www.youtube.com/watch?v=hu9c18lqR00)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hu9c18lqR00)

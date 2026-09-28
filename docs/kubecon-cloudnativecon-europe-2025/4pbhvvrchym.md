@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Balancing Cost and Efficiency: Day2 Optimization of Multi-Cluster AI Infrastructure
   - Kevin Wang"
-nav_order: 22
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Kevin Juan, a professional working on multiple projects at CNCF, will
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The goal is to balance control plan footprint with efficiency and throughput whi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4pBhVVrCHyM/hqdefault.jpg)](https://www.youtube.com/watch?v=4pBhVVrCHyM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4pBhVVrCHyM)

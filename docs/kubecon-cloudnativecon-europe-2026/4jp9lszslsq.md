@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: From Cloud Native to Accelerator Native: Kubernetes as
   the Distri... Jago Macleod"
-nav_order: 340
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   JGO Mloud, leader of Kubernetes at Google, discusses the rapid evolution
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Ultimately, he envisions Kubernetes evolving into the "nervous system" for auton
 |  17 | The vision for Kubernetes is shifting toward being the "nervous system" for autonomous infrastructure.                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4jP9lSZslSQ/hqdefault.jpg)](https://www.youtube.com/watch?v=4jP9lSZslSQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4jP9lSZslSQ)

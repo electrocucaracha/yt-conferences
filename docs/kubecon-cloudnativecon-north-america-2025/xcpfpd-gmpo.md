@@ -1,8 +1,5 @@
 ---
-layout: default
 title: People-first Path To Cell-based Architecture - Martin Jones & Asanka Abeysinghe
-nav_order: 197
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, the speakers discuss their transition of 60,000 users from
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The speakers also highlight how cell-based architecture facilitates integration 
 |  21 | One team can own multiple cells; one ce                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XCpfpD_gMpo/hqdefault.jpg)](https://www.youtube.com/watch?v=XCpfpD_gMpo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XCpfpD_gMpo)

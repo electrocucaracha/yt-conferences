@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Not Forking Around: Leveraging NRI To Extend Kubernetes at Scale - Johan Jensen
   & Wesley Bermbach"
-nav_order: 181
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Johan and Wesley, software engineers at Uber, discuss their work on migrating
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Ultimately, Uber is moving away from NRI, aiming to upstream necessary features 
 |  17 | NRI is powerful but                                                                                                                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/V0afXi4mOiU/hqdefault.jpg)](https://www.youtube.com/watch?v=V0afXi4mOiU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=V0afXi4mOiU)

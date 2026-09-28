@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Can We Please Stop Talking About Tech Debt? • Emily Rosengren • GOTO 2023
-nav_order: 16
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, Emily Rosengren, Director of Engineering at Granger, discusses
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ By shifting the way they think about this work, engineers can influence the dire
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/DvfMOJaIzhY/hqdefault.jpg)](https://www.youtube.com/watch?v=DvfMOJaIzhY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DvfMOJaIzhY)

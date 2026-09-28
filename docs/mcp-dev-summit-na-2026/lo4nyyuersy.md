@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Declarative MCP Servers for Secure, Specialized AI Agents - Josh Reini & Reetika
   Roy, Snowflake
-nav_order: 14
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this presentation, Josh and Ritika from Snowflake discuss the advantages
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The system enforces access controls at multiple layers—agent, server, tool, an
 |  20 | Arbback is generally applied at                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Lo4nyYuERsY/hqdefault.jpg)](https://www.youtube.com/watch?v=Lo4nyYuERsY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Lo4nyYuERsY)

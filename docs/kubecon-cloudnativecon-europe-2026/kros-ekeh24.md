@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Shared Service Blueprint: A Guide to Multi-Tenancy, Illustrated With KEDA
   - Aya Igarashi"
-nav_order: 366
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Aaya Garash, a software engineer at Preferred Networks, discusses the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ Garash concludes that while in-house components can be designed for multi-tenanc
 |  12 | Final architecture: one API service front door and shared admission webhook; per-tenant operator, metric server, and namespace reloader; router for API routing; network policies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/krOs-eKeH24/hqdefault.jpg)](https://www.youtube.com/watch?v=krOs-eKeH24)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=krOs-eKeH24)

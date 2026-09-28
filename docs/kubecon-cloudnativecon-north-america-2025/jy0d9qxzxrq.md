@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Debugging Your Cluster When It’s on Fire - Nikola Grcevski, Grafana Labs &
   Tyler Yahn, Splunk
-nav_order: 55
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Tyler Yan from Splunk and Mario Matias from Grafana
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concludes with practical details on OBI’s compatibility, supported
 |  17 | Community encouraged to try OBI, contribute, and join SIG meetings for support and development.                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Jy0d9QXZXrQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Jy0d9QXZXrQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Jy0d9QXZXrQ)

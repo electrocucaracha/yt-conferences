@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Policy Engines for Kubernetes: Picking One Without Losing Your Mind - Nabarun
   Pal, Broadcom"
-nav_order: 245
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Nabarun discusses the complexities of policy enforcement
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ He concludes that there is no universal best choice; teams should start simple, 
 |  17 | Kubewarden: Uses WebAssembly, supports multiple languages, high security, but has higher comple                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/y5rrfSZBm1A/hqdefault.jpg)](https://www.youtube.com/watch?v=y5rrfSZBm1A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=y5rrfSZBm1A)

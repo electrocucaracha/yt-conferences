@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Steal this LinkedIn strategy to get recruiters blowing up your inbox
-nav_order: 23
-parent: Interview Preparation
 type: Video Note
 description:
   A strategy for job seekers to attract recruiters and hiring managers
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -40,5 +37,7 @@ By following these three steps, job seekers can increase their chances of gettin
 |   8 | Call to action Ratings (1-5): 3                                                                                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/WH_2PNwkT3E/hqdefault.jpg)](https://www.youtube.com/watch?v=WH_2PNwkT3E&)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WH_2PNwkT3E&)

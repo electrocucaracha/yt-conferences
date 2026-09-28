@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Closing Remarks"
-nav_order: 144
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker thanks attendees for their participation in the keynote,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The speaker looks forward to future events, including those in Hong Kong, Tokyo,
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mynQyP2_17E/hqdefault.jpg)](https://www.youtube.com/watch?v=mynQyP2_17E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mynQyP2_17E)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   etcd V3.6.0 and etc... Benjamin Wang, Ivan Valdes Castillo, Siyuan Zhang, Arka
   Saha & Ciprian Hacman
-nav_order: 378
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The latest release of LCD 3.6.0 and LCD operator 0.1.0 introduce several
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ The LCD operator is also being developed with a focus on standardization and com
 |  10 | HCD database size limit: + Current default is 2 GB, but can be configured up to 8 GB + Limitation due to network bandwidth and internal cache |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_xoDbpm-Qks/hqdefault.jpg)](https://www.youtube.com/watch?v=_xoDbpm-Qks)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_xoDbpm-Qks)

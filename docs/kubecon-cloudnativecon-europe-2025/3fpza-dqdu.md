@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Jaeger V2: OpenTelemetry at the Core of Modern Distributed Tracing - Jonah
   Kowall, Paessler"
-nav_order: 134
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Jonah Cowell, a maintainer of the Jerger project, introduces himself
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The project has recently released version 2, which is built on top of OpenTeleme
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_3fpZA-DqDU/hqdefault.jpg)](https://www.youtube.com/watch?v=_3fpZA-DqDU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_3fpZA-DqDU)

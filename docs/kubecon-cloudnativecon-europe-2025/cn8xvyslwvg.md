@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "In the Eye of Falco: Tr... Luca Guerra, Jason Dellaluce, Aldo Lacuku, Leonardo
   Grasso, Aurélie Vache"
-nav_order: 131
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Falco is a cloud-native runtime security tool that detects security traits
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The tool can deliver alerts to over 50 destinations, including Slack, Kafka, and
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Cn8xvysLWVg/hqdefault.jpg)](https://www.youtube.com/watch?v=Cn8xvysLWVg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Cn8xvysLWVg)

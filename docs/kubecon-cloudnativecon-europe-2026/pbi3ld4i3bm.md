@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Scheduling at the Edge of Reason: Multi-Cluster AI
   & OCM - August Simonelli"
-nav_order: 290
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses the importance of multicluster management and introduces
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The speaker also notes the project’s application for incubation, the release o
 |  22 | Detailed demo of dynamic scoring with MCP is available at the project pavilion.                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Pbi3LD4I3BM/hqdefault.jpg)](https://www.youtube.com/watch?v=Pbi3LD4I3BM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Pbi3LD4I3BM)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Museum of Weird Bugs: Our Favorites From 8 Years of Service Mesh Debugging
   - Alex Leong, Buoyant"
-nav_order: 200
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Kcjh0-hXwWw
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -39,5 +36,7 @@ The third bug was a memory leak that required looking at deallocations in additi
 |   8 | Memory leaks can be caused by incorrect use of map keys, so it's essential to look at deallocations as well as allocations.                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Kcjh0-hXwWw/hqdefault.jpg)](https://www.youtube.com/watch?v=Kcjh0-hXwWw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Kcjh0-hXwWw)

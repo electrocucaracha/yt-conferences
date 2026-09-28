@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 6: Search II"
-nav_order: 17
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The transcript reviews the concept of search problems, emphasizing the
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The lecture concludes by summarizing that both UCS and A\* are exact algorithms 
 |  20 | Next topic: search with non-deterministic actions (Markov Decision Processes).                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4Iu4KPVbnAY/hqdefault.jpg)](https://www.youtube.com/watch?v=4Iu4KPVbnAY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4Iu4KPVbnAY)

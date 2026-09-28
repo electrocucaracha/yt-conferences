@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 10 - Post-training
   by Archit Sharma"
-nav_order: 12
-parent: Large Language Models Llms
 type: Video Note
 description:
   In this lecture, Archa Sharma, a Stanford PhD student, provides an overview
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ She concludes by emphasizing the importance of careful data curation and optimiz
 |  18 | RLHF and DPO improve model                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/35X6zlhoCy4/hqdefault.jpg)](https://www.youtube.com/watch?v=35X6zlhoCy4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=35X6zlhoCy4)

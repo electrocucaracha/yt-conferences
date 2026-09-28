@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: From Pilot to Production: Scaling and Optimizing Agen...
   Idit Levine & Keith Babo"
-nav_order: 342
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses the challenges AI developers face in moving from
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The speaker highlights the growing momentum in these open-source communities and
 |  21 | There has been significant community m                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/45rqVBAlHyQ/hqdefault.jpg)](https://www.youtube.com/watch?v=45rqVBAlHyQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=45rqVBAlHyQ)

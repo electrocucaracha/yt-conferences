@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Day 2 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam
-nav_order: 86
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   On the second day of KubeCon and CloudNativeCon in Amsterdam, participants
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -39,5 +36,7 @@ Attendees are encouraged to get involved, interact with project maintainers, and
 |   7 | Encouragement to participate, interact with maintainers, and enjoy the experience |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oXG3je4nYLk/hqdefault.jpg)](https://www.youtube.com/watch?v=oXG3je4nYLk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oXG3je4nYLk)

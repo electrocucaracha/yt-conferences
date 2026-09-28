@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "QEMU in the Fast Lane: Accelerating KubeVirt Networking With... Daniel Borkmann
   & Anton Protopopov"
-nav_order: 249
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The talk discusses accelerating virtual machine (VM) networking in Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The session concludes with a live demo, discussion of ongoing kernel development
 |  16 | VLANs, jumbo frames, and multiple VM interfaces are supported with a                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3X0X4az_E_4/hqdefault.jpg)](https://www.youtube.com/watch?v=3X0X4az_E_4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3X0X4az_E_4)

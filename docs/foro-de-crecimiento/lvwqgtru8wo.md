@@ -1,8 +1,5 @@
 ---
-layout: default
 title: La Guía de Liderazgo que Cambiará Tu Forma de Ver el Mundo (por Pablo Chalakani)
-nav_order: 53
-parent: Foro De Crecimiento
 type: Video Note
 description:
   El video explora la naturaleza del liderazgo, argumentando que un líder
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finalmente, se invita a ver el liderazgo como una habilidad que transforma no so
 |  18 | El verdadero objetivo de la vida es aprender a “nadar” (crecimiento interno), no solo a “correr” (logros externos).                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/LVwQgTRu8Wo/hqdefault.jpg)](https://www.youtube.com/watch?v=LVwQgTRu8Wo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LVwQgTRu8Wo)

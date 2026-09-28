@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 5 - LLM tuning
-nav_order: 5
-parent: Large Language Models Llms
 type: Video Note
 description:
   In this lecture, the instructor reviews the process of tuning large language
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Throughout, the lecture highlights the trade-offs, challenges, and practical con
 |  17 | PPO loss variants: PPO-Clip (limits update size                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PmW_TMQ3l0I/hqdefault.jpg)](https://www.youtube.com/watch?v=PmW_TMQ3l0I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PmW_TMQ3l0I)

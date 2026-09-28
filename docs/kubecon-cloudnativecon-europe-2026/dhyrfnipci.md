@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: From Complexity to Clarity: Engineering an Invisible Kubernetes
   - Jesse Butler"
-nav_order: 341
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses the foundational role of Kubernetes in managing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ These efforts demonstrate the power of community collaboration in advancing Kube
 |  21 | RBAC grants permissions but can't specify                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-DhYRFNipcI/hqdefault.jpg)](https://www.youtube.com/watch?v=-DhYRFNipcI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-DhYRFNipcI)

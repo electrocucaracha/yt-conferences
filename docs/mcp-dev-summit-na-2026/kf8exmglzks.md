@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The MCP Gateway Pattern: Aggregation, Composition, and Beyond - Juan Antonio
   Osorio, Stacklok"
-nav_order: 92
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker, Juan Antonio ("Oz"), introduces the topic of MCP gateways,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The talk concludes with an invitation to participate in a survey and a Q&A sessi
 |  18 | Survey available for feedback on composition and LLM/MCP customization us                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kF8EXMglZKs/hqdefault.jpg)](https://www.youtube.com/watch?v=kF8EXMglZKs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kF8EXMglZKs)

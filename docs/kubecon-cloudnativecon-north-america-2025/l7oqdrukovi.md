@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Journey of Deploying Backstage in a Large Organization - Mathieu Girard
   & Teddy Poingt, Beneva
-nav_order: 311
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presenters describe their experience deploying Backstage, an open-source
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Key takeaways highlight the importance of aligning with leadership priorities, a
 |  20 | Integrated with CI/CD, artifact repositories,                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/l7OQdrUkoVI/hqdefault.jpg)](https://www.youtube.com/watch?v=l7OQdrUkoVI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=l7OQdrUkoVI)

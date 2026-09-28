@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Generic or Specific? Making Sensible Software Design Decisions • Bert Jan Schrijver
   • GOTO 2023
-nav_order: 45
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses software design decisions, focusing on flexibility
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ They conclude by emphasizing the importance of adaptability and providing advice
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lh5qWwIj06s/hqdefault.jpg)](https://www.youtube.com/watch?v=lh5qWwIj06s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lh5qWwIj06s)

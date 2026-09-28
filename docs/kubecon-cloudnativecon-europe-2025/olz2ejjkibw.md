@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Kubernetes SIG Architecture Intro and Updates - John Belamaric, Google & Davanum
   Srinivas, AWS
-nav_order: 168
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The SIG Architecture discussion focuses on the role of architecture in
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The SIG has sub-projects, including conformance testing, enhancements, and produ
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oLZ2EjjKibw/hqdefault.jpg)](https://www.youtube.com/watch?v=oLZ2EjjKibw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oLZ2EjjKibw)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: From Cloud-Native Apps to Cloud-Native Platforms - Abby Bangser,
   Principal Engineer"
-nav_order: 172
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses the importance of platform engineering in enabling
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The talk concludes by inviting the community to contribute to the ongoing develo
 |  21 | Past lessons from platforms as a service and the 12-factor app can information                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8t0-5cvvMGM/hqdefault.jpg)](https://www.youtube.com/watch?v=8t0-5cvvMGM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8t0-5cvvMGM)

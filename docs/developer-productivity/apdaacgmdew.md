@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Five Lines of Codes • Christian Clausen • GOTO 2022
-nav_order: 44
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, a technical agile coach, shares his experience of transforming
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ By reducing cognitive overhead, eliminating waste, and prioritizing safety, the 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/APdaacGmDew/hqdefault.jpg)](https://www.youtube.com/watch?v=APdaacGmDew)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=APdaacGmDew)

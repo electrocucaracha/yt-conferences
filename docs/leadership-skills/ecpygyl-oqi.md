@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Quantify ROI on Personal Growth and Professional Development
-nav_order: 29
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard addresses the challenge of quantifying the
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ He also offers a free ROI calculator tool to simplify this evaluation, encouragi
 |  20 | Link to the free ROI calculator is provided in the episode description.                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ecpyGyl_oqI/hqdefault.jpg)](https://www.youtube.com/watch?v=ecpyGyl_oqI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ecpyGyl_oqI)

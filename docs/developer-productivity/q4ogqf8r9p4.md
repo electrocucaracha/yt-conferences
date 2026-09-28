@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Discontinuous Improvement • Kevlin Henney • YOW! 2020
-nav_order: 32
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the importance of embracing continuous improvement
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ They also highlight the importance of understanding the limits of knowledge and 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/q4oGqf8r9P4/hqdefault.jpg)](https://www.youtube.com/watch?v=q4oGqf8r9P4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=q4oGqf8r9P4)

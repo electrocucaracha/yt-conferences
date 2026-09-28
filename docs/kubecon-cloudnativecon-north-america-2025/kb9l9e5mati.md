@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: ModelPack: An Open Standard for Packaging, Distributing,
   and... Tao Peng"
-nav_order: 231
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Top from Mr introduces Model Bank, a new open-source project aimed at
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Interested users can find more information, documentation, and ways to get invol
 |  14 | A QR code links to the GitHub repository and Slack.                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kb9L9E5matI/hqdefault.jpg)](https://www.youtube.com/watch?v=kb9L9E5matI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kb9L9E5matI)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Beyond YAML: Visualising Kubernetes Ontologies With
   Meshery - Yash Sharma"
-nav_order: 207
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Yash, a maintainer of the CNCF sandbox project Meshery and a developer
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ He encourages users to try Meshery via canvas.new or play.meshery.io.
 |  19 | Encourages users to check out play.mish.io.                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nIorrrbnKqs/hqdefault.jpg)](https://www.youtube.com/watch?v=nIorrrbnKqs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nIorrrbnKqs)

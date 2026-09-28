@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to introduce yourself—and get hired | Rebecca Okamoto | TEDxNorthwesternU
-nav_order: 15
-parent: Interview Preparation
 type: Video Note
 description:
   The speaker shares their personal experience of how a simple change in
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The speaker then shares the "secret" of introducing oneself perfectly in 20 word
 |   3 | I'm on a mission to [ABC] to achieve [something my target audience values]. Ratings (1-5): 5 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/f_N3PGvnVKg/hqdefault.jpg)](https://www.youtube.com/watch?v=f_N3PGvnVKg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=f_N3PGvnVKg)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Invisible Guardrails: Enabling Developer Velocity W... James Elías Sigurðarson
   & Vignir Hafsteinsson"
-nav_order: 157
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, James and Vign from Asana describe their journey in building
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The team learned the importance of clear responsibility boundaries, early invest
 |  17 | All configuration changes go through GitOps pipelines; human actions ar                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mxjiSCnrb3c/hqdefault.jpg)](https://www.youtube.com/watch?v=mxjiSCnrb3c)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mxjiSCnrb3c)

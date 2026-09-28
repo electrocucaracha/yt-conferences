@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Rules of the Road for Shared GPUs: AI Inference Scheduling at Wayve
   - Mukund Muralikrishnan"
-nav_order: 182
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker from Wave discusses their work in developing end-to-end AI
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The speaker encourages attendees to learn more about Kueue at KubeCon and invite
 |  22 | Wave is hiring globally; speaker available at the Microsoft booth.                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/uZeHADfumCU/hqdefault.jpg)](https://www.youtube.com/watch?v=uZeHADfumCU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uZeHADfumCU)

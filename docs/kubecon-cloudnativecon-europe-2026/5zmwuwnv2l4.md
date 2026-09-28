@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Securing the AI/ML Lifecycle With MLSecOps: Open Source Best... Bahaulddin
   Shammary & Andrey Shorov"
-nav_order: 329
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Baja, a lead AI engineer at Openext, and Andre
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Key recommendations include automating security processes, embedding security ro
 |  15 | Most open source tools need ext                                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5ZmWuwnv2l4/hqdefault.jpg)](https://www.youtube.com/watch?v=5ZmWuwnv2l4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5ZmWuwnv2l4)

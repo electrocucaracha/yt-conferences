@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | EnvoyCon: Opening Remarks - Kateryna Nezdolii and Erica
   Hughberg"
-nav_order: 60
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speakers celebrate Envoy's 10-year anniversary at Envoy Con in the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The speakers emphasize the importance of community involvement and note that con
 |  16 | Expertise in C++ is no longer required to contribute to Envoy.                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/WQKAqV95ogU/hqdefault.jpg)](https://www.youtube.com/watch?v=WQKAqV95ogU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WQKAqV95ogU)

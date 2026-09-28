@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "More Nodes, More Problems: Solving Multi-Host GPU/TPU Scheduli... John Belamaric
   & Morten Torkildsen"
-nav_order: 198
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=YqIHESG0suI
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -38,5 +35,7 @@ The technology is being developed by the Kubernetes community, with ongoing work
 |   7 | The feature is still in development and has some limitations, but it is expected to improve the scalability and flexibility of Kubernetes.                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YqIHESG0suI/hqdefault.jpg)](https://www.youtube.com/watch?v=YqIHESG0suI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YqIHESG0suI)

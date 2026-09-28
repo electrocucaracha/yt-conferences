@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Domina el juego del dinero: educación financiera para la vida real || Manuel
   Ramos · Sesión 19"
-nav_order: 17
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, el experto financiero Manuel Ramos comparte estrategias
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Además, subraya la importancia de la asesoría profesional y de desarrollar bue
 |  21 | La libertad financiera se logra con ahorro, inversión y buena administración.                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cQAdvHCOyV8/hqdefault.jpg)](https://www.youtube.com/watch?v=cQAdvHCOyV8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cQAdvHCOyV8)

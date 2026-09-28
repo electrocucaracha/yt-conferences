@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   'Taming Complexity: Building Observable Workflows... Mauricio "Salaboy" Salatino
   & Kasper Borg Nissen'
-nav_order: 352
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, the presenters discuss the growing complexity of modern
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concludes with encouragement for continued community collaboration t
 |  17 | Observing agent reasoning and tool interactions is challenging; AI c                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XVEPKb0aCx8/hqdefault.jpg)](https://www.youtube.com/watch?v=XVEPKb0aCx8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XVEPKb0aCx8)

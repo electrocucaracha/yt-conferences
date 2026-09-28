@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From “It Works!” to “It’s Secure!”: Hardening Your First Kub... Paul Zerdilas-Herrera
   & Leon Schulze"
-nav_order: 127
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation at CubeCon, Paul from Nutanix and Leon from Palo
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The session concludes with the reminder that learning from mistakes—both one�
 |  21 | Real-world vulnerabilities (e.g., React to Shell) are exploited within                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oW946hLuKNc/hqdefault.jpg)](https://www.youtube.com/watch?v=oW946hLuKNc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oW946hLuKNc)

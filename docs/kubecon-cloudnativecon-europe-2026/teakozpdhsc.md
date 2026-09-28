@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Least-Privilege for AI: Authorizing Agents and MCP Tools with A... Luc Chmielowski
   & Nina Polshakova"
-nav_order: 199
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Nina Pushkova and Luke Miroski discuss the challenges of
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The presenters emphasize the importance of reusing existing cloud-native tools a
 |  15 | Policies can be fine-tuned per tool and metho                                                                                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tEAkoZpdhSc/hqdefault.jpg)](https://www.youtube.com/watch?v=tEAkoZpdhSc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tEAkoZpdhSc)

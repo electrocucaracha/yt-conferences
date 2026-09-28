@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   'Authz as a Dev Workflow: Architecting Better Cloud Native Apps - Dan "phrawzty"
   Maher, Cerbos'
-nav_order: 19
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Dan discusses the challenges of authorization in modern applications,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ He also discusses various tools and patterns, including OPA, Open FGA, Serbos, a
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/EBbuyn72jtw/hqdefault.jpg)](https://www.youtube.com/watch?v=EBbuyn72jtw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EBbuyn72jtw)

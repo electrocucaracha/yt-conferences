@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Command-line, The Underestimated Tool • Bert Jan Schrijver • GOTO 2021
-nav_order: 23
-parent: Developer Productivity
 type: Video Note
 description:
   Bertrand Schreifer, CTO at Open Value and an experienced Java developer
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finally, Schreifer advocates for teaching command line skills at universities, e
 |  19 | Command line skills help with debugging, scripting, and accessing remote/cloud environments.                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bWDuXAQJX8Y/hqdefault.jpg)](https://www.youtube.com/watch?v=bWDuXAQJX8Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bWDuXAQJX8Y)

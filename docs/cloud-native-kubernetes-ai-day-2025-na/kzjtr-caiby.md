@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Cloud Native + Kubernetes AI Day | Closing Remarks - Yuzhui Lui & Yuan Tang
-nav_order: 2
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The event concluded with expressions of gratitude to all attendees, platinum
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ The closing remarks ended with applause and well wishes for the remainder of the
 |  10 | Attendees encouraged to enjoy the rest of the week.                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kZJTR_CaIbY/hqdefault.jpg)](https://www.youtube.com/watch?v=kZJTR_CaIbY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kZJTR_CaIbY)

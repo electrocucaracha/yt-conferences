@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Spiderpool: Dynamic Topology-Aware RDMA Allocation
   For GPU... Weizhou Lan"
-nav_order: 237
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker discusses Sparo, a dynamic topology-aware RDMA allocation
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ It offers two allocation approaches: predefined resource allocation, which allow
 |  18 | Spot introduces new features for AI inference, especially with small modules                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fBE6UiLROWA/hqdefault.jpg)](https://www.youtube.com/watch?v=fBE6UiLROWA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fBE6UiLROWA)

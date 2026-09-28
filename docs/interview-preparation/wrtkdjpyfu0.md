@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Everything I Learned at MIT (That Made Me a Multimillionaire)
-nav_order: 6
-parent: Interview Preparation
 type: Video Note
 description:
   Five principles. The first principle is the importance of understanding
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Finally, the fifth principle highlights the value of collaboration and humility,
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/WrTKDJPyfU0/hqdefault.jpg)](https://www.youtube.com/watch?v=WrTKDJPyfU0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WrTKDJPyfU0)

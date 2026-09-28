@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Data on Kubernetes Day: From VMs to Ku... Gabriele
   Bartolini & Laurent Parodi"
-nav_order: 53
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video discusses the evolving role of database administrators (DBAs)
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concludes with a Q&A addressing high availability, failover, and per
 |  17 | Day 2 operations governed by strict guardrails, l                                                                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/m0LBKjlxrog/hqdefault.jpg)](https://www.youtube.com/watch?v=m0LBKjlxrog)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=m0LBKjlxrog)

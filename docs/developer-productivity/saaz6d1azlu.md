@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Tidy First? A Daily Exercise in Empirical Design • Kent Beck • GOTO 2024
-nav_order: 139
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, a software developer and author, discusses the importance
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ This approach enables designers to serve human relationships and economic realit
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Saaz6D1azlU/hqdefault.jpg)](https://www.youtube.com/watch?v=Saaz6D1azlU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Saaz6D1azlU)

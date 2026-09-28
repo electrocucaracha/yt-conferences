@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   What's Coming Next in Containerd 2.3? - Mike Brown, IBM & Krisztian Litkey,
   Intel
-nav_order: 397
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video features core maintainers and contributors of containerd discussing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The maintainers also discuss the move to a Kubernetes-like release cadence, the 
 |  15 | Validators and restrictors are being developed to ensure plugins do not perform unauthorized or unsafe actions, with collaboration from the Kubernetes kubelet team.                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_mg1LtSNVCg/hqdefault.jpg)](https://www.youtube.com/watch?v=_mg1LtSNVCg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_mg1LtSNVCg)

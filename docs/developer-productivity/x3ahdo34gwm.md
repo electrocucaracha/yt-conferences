@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Death Of The "Spotify Model" • Gijs Meijer & Marcin Pakulnicki • GOTO 2022
-nav_order: 25
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=X3AHdo34gWM
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -29,5 +26,7 @@ Additionally, Meyer emphasizes the importance of talent density, product thinkin
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/X3AHdo34gWM/hqdefault.jpg)](https://www.youtube.com/watch?v=X3AHdo34gWM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=X3AHdo34gWM)

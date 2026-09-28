@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Stateless: The Future of MCP Transports - Shaun Smith, Hugging Face & Kurtis
   Van Gent, Google"
-nav_order: 89
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this session, Sean from Hugging Face and Curtis from Google Cloud,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Throughout, they emphasize the importance of minimizing disruption for existing 
 |  16 | Community contributions and feedback have been crucial to protocol improvements.                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OguRYXwyR70/hqdefault.jpg)](https://www.youtube.com/watch?v=OguRYXwyR70)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OguRYXwyR70)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Empowering Accessibility Through Kubernetes: The Future of Real-Time
   Sign Langu... Rob Koch"
-nav_order: 149
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Rob Cotch, a deaf principal data engineer at Slalom, discusses the challenges
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The demo showcases the complexity of the project, including UI client, inference
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/UfYctUtDDfQ/hqdefault.jpg)](https://www.youtube.com/watch?v=UfYctUtDDfQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UfYctUtDDfQ)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 11: Games II"
-nav_order: 2
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture begins by reviewing two-player zero-sum games and the minmax
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finally, it covers non-zero-sum games and Nash equilibria, highlighting their ex
 |  18 | In nonzero sum games (e.g., Prisoner’s Dilemma), Nash equilibrium replace                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9CKRoKFdS5Y/hqdefault.jpg)](https://www.youtube.com/watch?v=9CKRoKFdS5Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9CKRoKFdS5Y)

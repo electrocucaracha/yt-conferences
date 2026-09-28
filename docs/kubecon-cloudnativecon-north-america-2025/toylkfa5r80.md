@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Apple Containerization: Secure, Private Containers on macOS - Madhu
   Venugopal, Apple"
-nav_order: 116
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Apple has introduced its containerization framework, enabling developers
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ By running each container in its own lightweight virtual machine, Apple aims to 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TOYlKfA5R80/hqdefault.jpg)](https://www.youtube.com/watch?v=TOYlKfA5R80)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TOYlKfA5R80)

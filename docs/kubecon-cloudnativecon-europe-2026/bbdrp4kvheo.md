@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Your Application, Batteries In... Brandt K, Austin A, William C,
   Merijn K & Jessica K-D"
-nav_order: 383
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video presents a tutorial session on Zarf, an open-source air gap
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Throughout, the presenters address audience questions on topics such as registry
 |  19 | Zarf can package and deploy any OCI artifact, with user respo                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BBdrp4KvhEo/hqdefault.jpg)](https://www.youtube.com/watch?v=BBdrp4KvhEo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BBdrp4KvhEo)

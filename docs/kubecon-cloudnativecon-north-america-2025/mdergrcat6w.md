@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Feature Flags Suck! - The Problems With Feature Flagging and How To Avoid Them
   - Pete Hodgson, PH1
-nav_order: 75
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=MDERgrcaT6w
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ To address this issue, Pete suggests implementing strategies such as identifying
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MDERgrcaT6w/hqdefault.jpg)](https://www.youtube.com/watch?v=MDERgrcaT6w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MDERgrcaT6w)

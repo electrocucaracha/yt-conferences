@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Quantum-Resistant Kubernetes: Realities, Risks & (Versioning) Pitfalls - Fabian
   Kammel, ControlPlane"
-nav_order: 250
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Fabian, a principal security consultant at Control Plane, introduces
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Fabian concludes by emphasizing the importance of staying informed, synchronizin
 |  18 | Postquantum crypto tra                                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3yOwAIpbuQ0/hqdefault.jpg)](https://www.youtube.com/watch?v=3yOwAIpbuQ0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3yOwAIpbuQ0)

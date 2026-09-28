@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | KubeVirt Summit: KubeVirt on GB200: Vi... Fan Zhang,
   Kevin Klues & Alay Patel"
-nav_order: 72
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Fan Fan Jang, Kevin Clues, and Ali Patel from Nvidia
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Finally, they address the unique challenges of orchestrating IMX daemons within 
 |  21 | For VMs, IMX daemon must run inside guest; challenges include                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jtnRFgu4tdI/hqdefault.jpg)](https://www.youtube.com/watch?v=jtnRFgu4tdI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jtnRFgu4tdI)

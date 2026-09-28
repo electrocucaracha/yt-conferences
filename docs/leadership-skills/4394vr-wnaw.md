@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Respond When a Top Performing Direct Report Resigns
-nav_order: 31
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a licensed engineer and leadership coach,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finally, he suggests that managers can sometimes attempt to convince valuable em
 |  20 | If desired, attempt to convince a valued employee to stay after they resign.                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4394Vr-wNaw/hqdefault.jpg)](https://www.youtube.com/watch?v=4394Vr-wNaw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4394Vr-wNaw)

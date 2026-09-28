@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How Green Is My OpenTelemetry Collector? - Nancy Chauhan, Student & Adriana
   Villela, Dynatrace
-nav_order: 117
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=ea2CKLX5vEs
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ Adriana also shares her experience as a CNCF ambassador and founder of Women in 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ea2CKLX5vEs/hqdefault.jpg)](https://www.youtube.com/watch?v=ea2CKLX5vEs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ea2CKLX5vEs)

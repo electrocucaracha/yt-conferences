@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Code Complete • Steve McConnell & Jeffrey van Gogh • GOTO 2023
-nav_order: 18
-parent: Developer Productivity
 type: Video Note
 description:
   Steve McConnell, author of "Code Complete," discusses his thoughts on
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ McConnell also highlights the value of peer review and collaboration in improvin
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/STpbPXW9-pA/hqdefault.jpg)](https://www.youtube.com/watch?v=STpbPXW9-pA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=STpbPXW9-pA)

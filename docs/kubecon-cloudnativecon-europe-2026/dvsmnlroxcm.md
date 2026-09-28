@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Bare Metal Provisioning With Tinkerbell - Jacob Weinstock,
   Maintainer"
-nav_order: 252
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Jacob Weintock, the core maintainer of the Tinkerbell project, introduces
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Upcoming enhancements include expanded data source support, new specifications, 
 |  20 | Upcoming sessions include a contributor meeting and a project booth for demos.                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/DvsMNlrOxcM/hqdefault.jpg)](https://www.youtube.com/watch?v=DvsMNlrOxcM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DvsMNlrOxcM)

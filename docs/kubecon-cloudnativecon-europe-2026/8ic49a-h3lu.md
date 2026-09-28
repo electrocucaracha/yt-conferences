@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: k0s - CNCF Sandbox Distro Updates - Jussi Nummelin,
   Maintainer"
-nav_order: 299
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Jussi, a core maintainer at Mirantis, introduces K0s, a lightweight Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Jussi encourages community involvement and invites attendees to visit their boot
 |  17 | K0s team will be present at the project pavilion booth during KubeCon.                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8iC49a-h3LU/hqdefault.jpg)](https://www.youtube.com/watch?v=8iC49a-h3LU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8iC49a-h3LU)

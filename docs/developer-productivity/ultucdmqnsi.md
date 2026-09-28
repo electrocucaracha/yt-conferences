@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Tools Spotify Uses to Onboard Engineers & Encourage Career Mobility • Helen
   Greul • GOTO 2023
-nav_order: 137
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, Helen, discusses the challenges of onboarding engineers
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ By empowering engineers with autonomy and providing tools like the skill exchang
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ulTUCDmqnsI/hqdefault.jpg)](https://www.youtube.com/watch?v=ulTUCDmqnsI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ulTUCDmqnsI)

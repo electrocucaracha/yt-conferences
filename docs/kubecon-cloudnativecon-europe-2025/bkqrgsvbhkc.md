@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Data Processing Efficiency: Optimizing Batch Workloads on Kubernetes With
   Custom... Hichem Kenniche"
-nav_order: 63
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, a data engineering expert, discusses their experience with
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The speaker emphasizes the importance of standardization and community adoption 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BkQRGsVBhkc/hqdefault.jpg)](https://www.youtube.com/watch?v=BkQRGsVBhkc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BkQRGsVBhkc)

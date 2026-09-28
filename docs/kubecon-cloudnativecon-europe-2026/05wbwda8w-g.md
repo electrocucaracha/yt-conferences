@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Rust Vs. Go: Building a Container Network Stack From Scratch - Matt Heon &
   Shivang K Raghuvanshi"
-nav_order: 313
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Matt Heon, principal engineer at Red Hat and core maintainer of Podman,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ In retrospect, the team is satisfied with the move to Rust, noting improved deve
 |  21 | Podman team is satisfied with Rust; developer AVA                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/05wBWDa8W-g/hqdefault.jpg)](https://www.youtube.com/watch?v=05wBWDa8W-g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=05wBWDa8W-g)

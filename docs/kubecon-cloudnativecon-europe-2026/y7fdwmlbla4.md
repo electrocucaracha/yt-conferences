@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Future of Kubernetes Scalability: Challenges of the GigaWatt... Maciek
   Różacki & Artur Rodrigues"
-nav_order: 358
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Arthur Rodriguez from Anthropic and Mati Kjatski from Google
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Looking ahead, they predict continued growth in cluster sizes, greater adoption 
 |  20 | Controller sharding and work queue partitioning                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Y7FDWmLbLa4/hqdefault.jpg)](https://www.youtube.com/watch?v=Y7FDWmLbLa4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Y7FDWmLbLa4)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Lessons Learned Building the Chrome DevTools MCP Server"
-nav_order: 22
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Jack, a member of the Google Chrome DevTools team, introduces the newly
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ He also notes the need to support richer outputs like images and to adapt to the
 |  18 | Users are encouraged to try the MCP server, provide feedback, and help improve the tool.                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lRYv4STCYAc/hqdefault.jpg)](https://www.youtube.com/watch?v=lRYv4STCYAc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lRYv4STCYAc)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Composable Platforms in the Wild: Patterns That Work (and Fail) - Daniel Bryant,
   Syntasso"
-nav_order: 43
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   "The speaker introduces the topic of composable platforms, emphasizing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The talk concludes by reinforcing the need for clear APIs, discoverable componen
 |  24 | Key takeaways: clear APIs, lifecycle management, correct abstractions, discover                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/05AxSXIQz6w/hqdefault.jpg)](https://www.youtube.com/watch?v=05AxSXIQz6w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=05AxSXIQz6w)

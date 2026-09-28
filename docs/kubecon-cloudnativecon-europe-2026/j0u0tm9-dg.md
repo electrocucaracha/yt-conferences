@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Next Chapter of Developer Experience: TAG De... Julien S, Graziano C,
   Mona B, Kevin D & Daniel O"
-nav_order: 364
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   "The TAG Developer Experience team discussed their ongoing efforts to
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concluded with invitations to join ongoing discussions, fill out sur
 |  16 | TAG Developer Experience invites feedback via surveys, bi-weekly meetings, and Slack channel.                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_j0u0tm9_dg/hqdefault.jpg)](https://www.youtube.com/watch?v=_j0u0tm9_dg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_j0u0tm9_dg)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "AI-Powered Cloud Native Modernization: From Real Challe... Savitha R, Daniel
   O, Kenneth K & Duncan D"
-nav_order: 10
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The panel discussion focused on the challenges and strategies of AI-powered
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Ultimately, while AI can automate repetitive tasks and assessments, successful m
 |  15 | AI can automate repetitive assessment and migration tasks, freeing developers for higher-value wor                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ztOeqNGaL3g/hqdefault.jpg)](https://www.youtube.com/watch?v=ztOeqNGaL3g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ztOeqNGaL3g)

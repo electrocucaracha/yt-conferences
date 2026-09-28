@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Lessons Applied Building a Next-generation AI Proxy - John Howard, Solo.io
-nav_order: 147
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   John Howard from Solo.io discusses the evolution of network proxies,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Performance benchmarks show significant improvements over Envoy-based solutions,
 |  16 | Built all processing natively in o                                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qa5vSE86z-s/hqdefault.jpg)](https://www.youtube.com/watch?v=qa5vSE86z-s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qa5vSE86z-s)

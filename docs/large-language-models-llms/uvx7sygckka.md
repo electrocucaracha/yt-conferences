@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 12 - Efficient Training,
   Shikhar Murty"
-nav_order: 10
-parent: Large Language Models Llms
 type: Video Note
 description:
   In this lecture, the instructor shifts focus from natural language processing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The session concludes with a review of communication strategies in FSDP (Fully S
 |  15 | LoRA applies low-rank updates to attention matrices; main hyperparameters are alpha, rank, and wh                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/UVX7SYGCKkA/hqdefault.jpg)](https://www.youtube.com/watch?v=UVX7SYGCKkA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UVX7SYGCKkA)

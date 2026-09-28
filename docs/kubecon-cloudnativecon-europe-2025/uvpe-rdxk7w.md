@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Hours To Minutes: The Evolution of Platform Engineering... Adrien Gillard
   & Christophe Furmaniak"
-nav_order: 104
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Decathan, a sports goods retailer, embarked on a journey into platform
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ They now focus on refining the link between their developer portal and platform 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/UVPe-rdxK7w/hqdefault.jpg)](https://www.youtube.com/watch?v=UVPe-rdxK7w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UVPe-rdxK7w)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "On-Prem Load Balancing Reimagined: Serving 20 Million QPS With Gateway API
   and Envoy... Isaac Wilson"
-nav_order: 186
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Isaac Wilson, an engineer at The Trade Desk, discussed the company’s
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ He also shared technical lessons learned, such as handling protocol defaults and
 |  17 | Overprovisi                                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kHChbblwVwk/hqdefault.jpg)](https://www.youtube.com/watch?v=kHChbblwVwk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kHChbblwVwk)

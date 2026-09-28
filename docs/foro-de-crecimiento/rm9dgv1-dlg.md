@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experta en voz: cómo hablar para que realmente te escuchen | Elisa Mass -
   Sesión 23"
-nav_order: 29
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, la especialista en voz Elisa Más explica cómo la
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ Además, se discuten las cualidades del sonido —intensidad, duración, timbre 
 |  15 | La voz tiene el poder de construir o destruir, transmitir emociones, crear mundos y dejar huella en la memoria.                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Rm9Dgv1_Dlg/hqdefault.jpg)](https://www.youtube.com/watch?v=Rm9Dgv1_Dlg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Rm9Dgv1_Dlg)

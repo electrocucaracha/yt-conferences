@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Remote Right: How to Thrive in a Post-Office World • Brendan O'Leary • GOTO
   2021"
-nav_order: 108
-parent: Developer Productivity
 type: Video Note
 description:
   Brendan, a GitLab employee, discusses the importance of knowing when
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ He also stresses the importance of defining values as leaders and relying on the
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/j62yCp_J-Zw/hqdefault.jpg)](https://www.youtube.com/watch?v=j62yCp_J-Zw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=j62yCp_J-Zw)

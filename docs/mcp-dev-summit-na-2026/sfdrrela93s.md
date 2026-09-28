@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Path to V2 for MCP SDKs - Max Isbey, Anthropic
-nav_order: 71
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Max, the maintainer of the Python MCP SDK, presents an overview of the
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The talk concludes with a Q&A addressing technical nuances of the new stateless 
 |  18 | Open questions remain about session removal, notifications, and agent chaining                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SfdRReLa93s/hqdefault.jpg)](https://www.youtube.com/watch?v=SfdRReLa93s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SfdRReLa93s)

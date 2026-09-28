@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SIG Scheduling Update: Transition From Pod To Workload Scheduling - Kensei
   Nakada & Maciej Skoczeń"
-nav_order: 320
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, the maintainers of SIG Scheduling discussed recent updates
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Updates on related subprojects like Queue and Descheduler were also provided, an
 |  19 | Community: seeki                                                                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-5TIJrVvmsQ/hqdefault.jpg)](https://www.youtube.com/watch?v=-5TIJrVvmsQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-5TIJrVvmsQ)

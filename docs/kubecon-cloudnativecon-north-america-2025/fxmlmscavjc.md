@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: From Cloud-Native to Agent-Native: Context Engineering
   for... I. Levine & K. Babo"
-nav_order: 288
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video transcript discusses the challenges of deploying agentic AI
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Additionally, the K agent project extends Kubernetes to provide context-aware ru
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FxMLmsCavjc/hqdefault.jpg)](https://www.youtube.com/watch?v=FxMLmsCavjc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FxMLmsCavjc)

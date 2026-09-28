@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Don't Panic! A Beginner's Guide To K8s Debugging - Ivan Porta & Phil Henderson,
   Buoyant
-nav_order: 63
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Phil Henderson and Ivan Pora present a beginner-friendly guide to troubleshooting
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Despite some live demo challenges, they encourage audience interaction and highl
 |  19 | Service mesh can                                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2fRRYcugOh4/hqdefault.jpg)](https://www.youtube.com/watch?v=2fRRYcugOh4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2fRRYcugOh4)

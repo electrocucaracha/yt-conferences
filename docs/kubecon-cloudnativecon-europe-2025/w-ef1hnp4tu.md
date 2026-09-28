@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: The Weight of Data: Rethinking Cloud-Native Systems f...
   V. Caldeira & H. Cummins"
-nav_order: 314
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses how the industry's fundamental shift occurred with
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The speaker notes that Kubernetes already provides strong primitives for managin
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/W_EF1HnP4tU/hqdefault.jpg)](https://www.youtube.com/watch?v=W_EF1HnP4tU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=W_EF1HnP4tU)

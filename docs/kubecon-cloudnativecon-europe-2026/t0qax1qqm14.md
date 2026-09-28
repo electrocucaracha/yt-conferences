@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Scaling Valkey the Right Way: Kubernetes at XL Scale - Sarthak Aggarwal &
   Madelyn Olson, AWS"
-nav_order: 326
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Maline Olsen and Sarthik from Amazon Elasticache discuss Valky, an open-source,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The session concludes by encouraging community involvement and highlighting Valk
 |  20 | Pubsub message overhead reduced from 2KB to 16 bytes with l                                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/t0qax1qQm14/hqdefault.jpg)](https://www.youtube.com/watch?v=t0qax1qQm14)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=t0qax1qQm14)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Storytelling Profesional: Así se Escriben Historias Memorables | Luis Eduardo
   Reyes – Sesión 21"
-nav_order: 67
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa entrevista, Luis Eduardo Reyes, reconocido productor,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Finalmente, resalta que el verdadero crecimiento creativo surge del trabajo cons
 |  20 | La vida tiene altibajos; el instinto de supervivencia y la pasión por el arte ayudan a seguir adelante.          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8PicygfjhEQ/hqdefault.jpg)](https://www.youtube.com/watch?v=8PicygfjhEQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8PicygfjhEQ)

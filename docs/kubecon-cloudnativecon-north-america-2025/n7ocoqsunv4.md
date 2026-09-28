@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Dapr: Start Building Distributed Applications With
   Ease Using... Marc Duiker"
-nav_order: 215
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Mark Derer, a community manager for the Deer project, introduces Deer,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Mark encourages viewers to explore case studies, participate in planning, and co
 |  22 | QR code shared for accessing slide deck, links, and connecting with Mark.                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/N7ocoqSUNV4/hqdefault.jpg)](https://www.youtube.com/watch?v=N7ocoqSUNV4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=N7ocoqSUNV4)

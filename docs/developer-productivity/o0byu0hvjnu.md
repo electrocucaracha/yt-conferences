@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Simplifying Dev Environments with the Right Tools • Christian Heilmann & Julian
   Wood • GOTO 2022
-nav_order: 117
-parent: Developer Productivity
 type: Video Note
 description:
   Chris Heilmann, a principal program manager for developer tools in Microsoft's
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Additionally, Chris discussed the need for accessible and user-friendly develope
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/o0bYu0HVjNU/hqdefault.jpg)](https://www.youtube.com/watch?v=o0bYu0HVjNU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=o0bYu0HVjNU)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "SIG API Machinery: Project Updates and Release Planning - Joe Betz, Google"
-nav_order: 285
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The SIG API Machinery is a broad cross-cutting Special Interest Group
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The SIG is actively seeking contributors to improve the toolset for making upgra
 |  19 | The SIG is actively looking for contributors and can be reached through Slack.                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VCmp--NcxeE/hqdefault.jpg)](https://www.youtube.com/watch?v=VCmp--NcxeE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VCmp--NcxeE)

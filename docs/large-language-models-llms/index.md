@@ -1,10 +1,3 @@
----
-layout: default
-title: "Large Language Models Llms"
-has_children: true
-nav_order: 10
----
-
 # Large Language Models Llms
 
 ## Executive Overview

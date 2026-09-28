@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "First Day Foresight: Anomaly Detection for Observability - Prashant Gupta
   & Kruthika Prasanna Simha"
-nav_order: 95
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=jiT7kGqcpR4
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -41,5 +38,7 @@ They also discuss the challenges of implementing deep learning models for anomal
 |  10 | Day-one anomaly detection can help reduce the number of failures that happen in production and improve overall system resilience. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jiT7kGqcpR4/hqdefault.jpg)](https://www.youtube.com/watch?v=jiT7kGqcpR4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jiT7kGqcpR4)

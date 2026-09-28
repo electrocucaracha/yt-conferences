@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   What Are The Most Important Skills for Engineers? | Advice from an Engineering
   Manager
-nav_order: 41
-parent: Leadership Skills
 type: Video Note
 description:
   Doug Howard, a licensed structural engineer and former engineering manager,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ Howard emphasizes that the most successful engineers are those who can lead cros
 |  14 | People skills are now more valuable than technical skills in the modern engineering workplace.                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/c7mPkEfScdU/hqdefault.jpg)](https://www.youtube.com/watch?v=c7mPkEfScdU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=c7mPkEfScdU)

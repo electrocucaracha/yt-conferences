@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Dungeons, Dragons & Developers • Matt Brunt • GOTO 2021
-nav_order: 35
-parent: Developer Productivity
 type: Video Note
 description:
   In a game of Dungeons & Dragons, a balanced party consists of characters
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ By sharing knowledge, taking breaks, and reflecting on past experiences, teams c
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kcSWsvvJ0fQ/hqdefault.jpg)](https://www.youtube.com/watch?v=kcSWsvvJ0fQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kcSWsvvJ0fQ)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: 3 Powerful Techniques That Will Improve Your Patience and Focus
-nav_order: 4
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ To develop patience, he recommends keeping an impatience journal to identify tri
 |  16 | A free 5-day memory manual for engineers is available via the video description.                                                                                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/P2z0Kaph9RQ/hqdefault.jpg)](https://www.youtube.com/watch?v=P2z0Kaph9RQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=P2z0Kaph9RQ)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Why Security of Kubernetes Comes Down to Linux Security - Marina Moore, Edera
-nav_order: 406
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Marina, head of research at ADA and co-chair of CNCF’s security group,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ She concludes by discussing emerging technologies aimed at stronger isolation, s
 |  17 | Understanding Linux kernel internals is crucial for contain                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gaNCXj2j-0Q/hqdefault.jpg)](https://www.youtube.com/watch?v=gaNCXj2j-0Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gaNCXj2j-0Q)

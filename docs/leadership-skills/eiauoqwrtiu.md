@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Deal with Difficult Employee as a New Manager | Advice for Engineering
   Leaders
-nav_order: 24
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard discusses the challenges new managers face
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ He advises managers to approach disagreements by seeking to understand the other
 |  18 | Keeping communication open and collaborative increases the chance of influencing change.                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/eiaUOqWRtiU/hqdefault.jpg)](https://www.youtube.com/watch?v=eiaUOqWRtiU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=eiaUOqWRtiU)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Building Resilient Cloud Native Infrastructur... Rafael B, Mario F, Saiyam
   P, Carolina V & Nabarun P
-nav_order: 31
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The final session at CubeCon North America 2025 focused on the work of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The session concluded with a call to action for broader participation, noting th
 |  15 | Stickers available for attendees; recognition for all types of contributions                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/I7TuNNsJSZc/hqdefault.jpg)](https://www.youtube.com/watch?v=I7TuNNsJSZc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=I7TuNNsJSZc)

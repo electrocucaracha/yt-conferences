@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Going Global: Lessons From Internationalizing... Severin Neumann
   & Tiffany Hrabusa"
-nav_order: 206
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Tiffany and Severin from the OpenTelemetry project discuss their approach
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ They highlight ongoing challenges such as permission management and repository o
 |  21 | Appreciation expressed for current and future localization contributors.                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MqbRvtJ7D-E/hqdefault.jpg)](https://www.youtube.com/watch?v=MqbRvtJ7D-E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MqbRvtJ7D-E)

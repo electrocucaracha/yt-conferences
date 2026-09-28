@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Observability Pipeline Query Languages: Present and the Future - Jacek Migdal,
   Quesma"
-nav_order: 208
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Yat Mindal discusses the evolution of observability pipeline query languages,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ He envisions a language that can be used across various data sources, including 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iiI91sUMtdg/hqdefault.jpg)](https://www.youtube.com/watch?v=iiI91sUMtdg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iiI91sUMtdg)

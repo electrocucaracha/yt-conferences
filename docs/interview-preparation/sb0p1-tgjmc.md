@@ -1,8 +1,5 @@
 ---
-layout: default
 title: I Did 850 Tech Interviews For Amazon And I Learned This
-nav_order: 17
-parent: Interview Preparation
 type: Video Note
 description:
   He emphasizes the importance of mental preparation for technical interviews,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ Lastly, he stresses the significance of balancing technical skills with behavior
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Sb0p1-TGjmc/hqdefault.jpg)](https://www.youtube.com/watch?v=Sb0p1-TGjmc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Sb0p1-TGjmc)

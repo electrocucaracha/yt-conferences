@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Keynote] MCP Project Update with David Soria Parra - Anthropic"
-nav_order: 23
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   David, co-creator of MCP and technical staff at Anthropic, provides an
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ He encourages further community involvement, emphasizes the need for better tool
 |  20 | MCPY project and extension patterns for specialized use cases are in developmen                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-OAebRdfUhI/hqdefault.jpg)](https://www.youtube.com/watch?v=-OAebRdfUhI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-OAebRdfUhI)

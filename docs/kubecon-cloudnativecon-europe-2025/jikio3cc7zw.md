@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Flux Ecosystem Evolution - Stefan Prodan, ControlPlane & Sanskar Jaiswal, Kong
-nav_order: 98
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses the Flux ecosystem, a tooling system built around
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ They also mention upcoming features, such as improved automatic upgrades and enh
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jikiO3CC7Zw/hqdefault.jpg)](https://www.youtube.com/watch?v=jikiO3CC7Zw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jikiO3CC7Zw)

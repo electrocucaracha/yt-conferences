@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Exploring NRI for Automated CA Trust Injection - Tsuzuki Tsuchiya & Kento Kubo,
   LY Corporation
-nav_order: 110
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Suzuit and Kent Kubo discuss the challenges of
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ While their approach simplifies certificate management and improves automation, 
 |  27 | Issues/future work: environment variables not set for kubectl exec, not available for read-                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6qvsce4t2_w/hqdefault.jpg)](https://www.youtube.com/watch?v=6qvsce4t2_w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6qvsce4t2_w)

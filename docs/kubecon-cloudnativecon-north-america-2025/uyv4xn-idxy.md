@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Welcome Back + Opening Remarks - Jorge Castro, Developer Relations,
   CNCF"
-nav_order: 134
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The CloudNative Computing Foundation, led by George Castro, is a multidisciplinary
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The foundation's projects depend on these users to drive innovation, influencing
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/uYv4Xn-iDXY/hqdefault.jpg)](https://www.youtube.com/watch?v=uYv4Xn-iDXY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uYv4Xn-iDXY)

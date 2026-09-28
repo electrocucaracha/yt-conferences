@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 14: Bayesian Networks and Learning"
-nav_order: 5
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture reviews Bayesian networks, which define joint probability
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concludes by emphasizing the importance of parameter sharing, smooth
 |  18 | EM alternates between estimating hidden                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4d9V6Sxa6gU/hqdefault.jpg)](https://www.youtube.com/watch?v=4d9V6Sxa6gU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4d9V6Sxa6gU)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "MCP Meets Java: Engineering the MCP Java SDK - Dariusz Jędrzejczyk, Broadcom"
-nav_order: 57
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Darius from Broadcom’s Spring OSS team discusses the development of the
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The SDK remains open to extension, supports pluggable JSON parsing, and aims to 
 |  22 | For retries/circuit breakers, use reactive operators or language constructs; circuit bre                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SeXqcwkLOrk/hqdefault.jpg)](https://www.youtube.com/watch?v=SeXqcwkLOrk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SeXqcwkLOrk)

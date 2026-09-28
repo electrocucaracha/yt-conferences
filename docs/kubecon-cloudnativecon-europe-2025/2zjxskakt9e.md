@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: ORAS: Create and Distribute a Multi-platform Image
   with Secu... Andrew Block"
-nav_order: 249
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Andrew Black, a distinguished architect at Red Hat, discusses the use
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ It also enables the creation of multi-platform images compatible with multiple a
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2zjxSKAkT9E/hqdefault.jpg)](https://www.youtube.com/watch?v=2zjxSKAkT9E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2zjxSKAkT9E)

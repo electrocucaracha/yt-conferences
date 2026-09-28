@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Navigating the Waters: Balancing Open Source Activities in Corporate... Kim
   McMahon & Amanda Katona"
-nav_order: 202
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The presentation discusses connecting open-source activities with corporate
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The presentation also highlights the user journey, which involves awareness, con
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Lkpjq4nybdE/hqdefault.jpg)](https://www.youtube.com/watch?v=Lkpjq4nybdE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Lkpjq4nybdE)

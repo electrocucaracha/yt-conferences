@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Contributing To Kubernetes in Its... Nabarun Pal, Mario Fahlandt, Madhav Jivrajani
   & Priyanka Saggu
-nav_order: 53
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The Kubernetes community has grown significantly over the past decade,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ These efforts aim to improve communication, streamline processes, and foster col
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ksKOPx99rIE/hqdefault.jpg)](https://www.youtube.com/watch?v=ksKOPx99rIE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ksKOPx99rIE)

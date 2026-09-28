@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lima Project Updates: Expanding the Focus To Hardening AI - Akihiro Suda,
   NTT & Anshuman Sahoo"
-nav_order: 211
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video features maintainers of the Lima project discussing recent
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Looking ahead, the team aims to further improve user experience, add more VM dri
 |  19 | Community: site, GitHub, Slack, X, Mastodon, monthly meeting                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Cb5gGTFS5M0/hqdefault.jpg)](https://www.youtube.com/watch?v=Cb5gGTFS5M0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Cb5gGTFS5M0)

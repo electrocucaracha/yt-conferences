@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Detect, Decide, Defend: Building Cloud Native Security That Fights Back -
   Matthias Bertschy, ARMO"
-nav_order: 91
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Matias, a Kubernetes security expert and CNCF project maintainer,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session concludes with a call to action for the community to work together o
 |  19 | Remediation should be triggered by correlated, high-conf                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5DxaxeWNkYY/hqdefault.jpg)](https://www.youtube.com/watch?v=5DxaxeWNkYY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5DxaxeWNkYY)

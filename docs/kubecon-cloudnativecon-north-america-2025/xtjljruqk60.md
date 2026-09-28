@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Scaling Generative AI: Building Production-Ready LLM Applications - Daniel
   Oh & Kevin Dubois, IBM"
-nav_order: 272
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, Daniel O and Kevin, both experienced Java developers
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ Finally, they introduce Open Data Hub as an opinionated platform for scaling AI 
 |  26 | Recommended workflow: local experimentation, production deployment                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XtJLJRUQk60/hqdefault.jpg)](https://www.youtube.com/watch?v=XtJLJRUQk60)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XtJLJRUQk60)

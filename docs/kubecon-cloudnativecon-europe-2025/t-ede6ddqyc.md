@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Graduated Project Updates - KubeCon + CloudNativeCon Europe 2025
-nav_order: 110
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video transcript discusses various projects related to Kubernetes,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Additionally, Fluent Bit and Rook were showcased, with Fluent Bit featuring impr
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/T_EDE6DDqYc/hqdefault.jpg)](https://www.youtube.com/watch?v=T_EDE6DDqYc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=T_EDE6DDqYc)

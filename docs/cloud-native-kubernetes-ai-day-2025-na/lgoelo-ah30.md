@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: Autoscaling GPU Clusters Anywhere — Hyperscalers, Neoclouds
   & Ba... Lukas Gentele"
-nav_order: 12
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The speaker discusses the challenges of providing Kubernetes access on
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The speaker invites attendees to learn more at their booth and participate in re
 |  19 | Invitation to visit the booth and join a happy hour event on AI and Kubernetes with Nvidia and JP Morgan.   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/LGOELO-ah30/hqdefault.jpg)](https://www.youtube.com/watch?v=LGOELO-ah30)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LGOELO-ah30)

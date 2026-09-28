@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Multi-Arch KubeVirt and CDI - C. A. Fillekes, WG Chair"
-nav_order: 246
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Cheryl Filicus, a Red Hat partner engineer at IBM Systems, discusses
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ This opens up possibilities for managing VMware virtual machines on other archit
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Je6GIoagHvU/hqdefault.jpg)](https://www.youtube.com/watch?v=Je6GIoagHvU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Je6GIoagHvU)

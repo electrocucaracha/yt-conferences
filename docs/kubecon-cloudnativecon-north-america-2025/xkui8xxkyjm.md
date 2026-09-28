@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Crossplane - The Cloud Native Framework for Platform Engineering - Jared Watts
   & Nic Cope, Upbound
-nav_order: 48
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this twice-annual update, Nick and Jared, maintainers of Crossplane,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concludes with a discussion of future plans, such as improving the p
 |  17 | Operations feature is alpha; enable via feature flag; functions for operations are organization-specific.                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XKUi8xxkyjM/hqdefault.jpg)](https://www.youtube.com/watch?v=XKUi8xxkyjM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XKUi8xxkyjM)

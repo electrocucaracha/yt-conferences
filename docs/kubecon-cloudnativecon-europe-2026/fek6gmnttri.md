@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: The CRA and What it Means for Open Source Communities - Greg Kroah-Hartman"
-nav_order: 183
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses the impact of the EU’s Cyber Resilience Act (CRA)
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The speaker reassures the audience that best practices, such as using security.t
 |  21 | OpenSSF offers a one-page summary and playbook for CRA                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FEk6gmnttRI/hqdefault.jpg)](https://www.youtube.com/watch?v=FEk6gmnttRI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FEk6gmnttRI)

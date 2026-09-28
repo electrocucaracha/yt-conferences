@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 6 - LLM Reasoning
-nav_order: 6
-parent: Large Language Models Llms
 type: Video Note
 description:
   In this lecture, the instructor introduces the concept of reasoning in
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The session concludes with a case study of DeepSeek's R1 model, outlining its mu
 |  16 | GRPO (Group Relative Policy Optimization): RL algorithm for reasoning models; computes advantage by comparing reward of a completion to group average, no v                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/k5Fh-UgTuCo/hqdefault.jpg)](https://www.youtube.com/watch?v=k5Fh-UgTuCo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=k5Fh-UgTuCo)

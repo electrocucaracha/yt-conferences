@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   JetBrains IDE Developer Productivity & Code Generation Support • Garth Gilmour
   • GOTO 2024
-nav_order: 74
-parent: Developer Productivity
 type: Video Note
 description:
   G Gilmore, a developer advocate at Jet Brain, discusses his experience
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ Gilmore emphasizes the importance of understanding the limitations of AI and usi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SKPZZ54DKSQ/hqdefault.jpg)](https://www.youtube.com/watch?v=SKPZZ54DKSQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SKPZZ54DKSQ)

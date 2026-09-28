@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "MCP Live: Streaming Context To AI Agents - Harshit Kohli, Amazon Web Services"
-nav_order: 56
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this presentation, Harshit Kohli from Amazon Web Services discusses
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The solution is designed to be flexible, decoupling the streaming platform from 
 |  21 | Kafka’s durability and replay features prevent data lo                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/V7JceTECVO0/hqdefault.jpg)](https://www.youtube.com/watch?v=V7JceTECVO0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=V7JceTECVO0)

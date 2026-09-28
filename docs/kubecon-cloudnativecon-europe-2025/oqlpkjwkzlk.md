@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Taming 50 Billion Time Series: Operating Global-Scale Prometheus Dep... Orcun
   Berkem & Alan Protasio"
-nav_order: 326
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses operating global-scale Prometheus deployments on
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The speaker emphasizes testing, including unit tests, acceptance tests, canary t
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OqLpKJwKZlk/hqdefault.jpg)](https://www.youtube.com/watch?v=OqLpKJwKZlk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OqLpKJwKZlk)

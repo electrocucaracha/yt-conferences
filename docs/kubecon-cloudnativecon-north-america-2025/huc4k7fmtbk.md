@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "In-Place Pod Resize in Kubernetes: Dynamic Resource Management Without...
   Tim Allclair & Mofi Rahman"
-nav_order: 102
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The talk discusses "In-Place Pod Resize" and its benefits for Kubernetes
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ The talk also touches on the upcoming features of VPA (Vertical Pod Autoscaler),
 |  12 | There is no plan to extend this feature to PVCs at this time.                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HuC4k7fmTBk/hqdefault.jpg)](https://www.youtube.com/watch?v=HuC4k7fmTBk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HuC4k7fmTBk)

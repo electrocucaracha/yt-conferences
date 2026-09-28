@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Scaling the Kubernetes Ecosystem: Uber's Approach to Cluster... Silvio Simunic
   & Vadim Plakhtinskii"
-nav_order: 327
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Vadim and Sylvia present how Uber manages its large-scale Kubernetes
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The team chose to build their own solution due to Uber’s unique requirements a
 |  18 | Controllers are custom-built and run on a separate, globally distrib                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/neexk5RZoyw/hqdefault.jpg)](https://www.youtube.com/watch?v=neexk5RZoyw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=neexk5RZoyw)

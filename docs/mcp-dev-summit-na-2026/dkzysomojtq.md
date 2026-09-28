@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes-Native Agent Discovery: A Unified Registry for MCP Servers and
   Skills - Carlos Santana"
-nav_order: 51
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Carlos Santana, a senior specialist solutions architect at AWS, discusses
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ Through YAML-based configurations and live demos, he shows how organizations can
 |  15 | Unified CRDs allow organizations to switch the                                                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/DKZYsomOjtQ/hqdefault.jpg)](https://www.youtube.com/watch?v=DKZYsomOjtQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DKZYsomOjtQ)

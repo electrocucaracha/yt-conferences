@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Multi-Cluster Wars: The Scheduler Awakens - Dejan Pejchev & Priyanka Ravi,
   G-Research"
-nav_order: 173
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Dan Pachev and Priyanka Ravi discuss the importance of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -71,5 +68,7 @@ The presenters emphasize that multicluster scheduling brings balance and efficie
 |  35 | CNCF sandbox project, high throughput/large scale                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/R0gDne5CuKs/hqdefault.jpg)](https://www.youtube.com/watch?v=R0gDne5CuKs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=R0gDne5CuKs)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Skills Vs. MCP Vs. Code Mode: Cutting Through the Hype (and the Rage) - Nikolay
   Rodionov, Alpic"
-nav_order: 83
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Nikolai Roda from Alpic discusses recent debates around MCP (Model Capability
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Roda concludes that MCP is not dead; rather, MCP, skills, and CLI each serve dif
 |  17 | MCP is not dead; it remains healthy and accessible, especially for non-technical users.                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/DoedEqfI6Hg/hqdefault.jpg)](https://www.youtube.com/watch?v=DoedEqfI6Hg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DoedEqfI6Hg)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Contributing To Kubernetes in an Age of AI - Mario F, Nabarun P, Priyanka S,
   Madhav J & Kaslin F
-nav_order: 46
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session, led by chairs and technical leads of the Kubernetes SIG
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finally, the session addressed the evolving use of AI tools in the project, emph
 |  16 | Contact SIG ContribEx via Slack or community channels for involvement or questions.                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/f_HhK9crJp0/hqdefault.jpg)](https://www.youtube.com/watch?v=f_HhK9crJp0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=f_HhK9crJp0)

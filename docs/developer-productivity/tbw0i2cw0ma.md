@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Software Engineering - Development in 100 Years Time • Dave Farley • GOTO 2020
-nav_order: 122
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the durability of certain ideas in software development,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Modularity, information hiding, separation of concerns, abstraction, and cohesio
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tBw0i2CW0mA/hqdefault.jpg)](https://www.youtube.com/watch?v=tBw0i2CW0mA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tBw0i2CW0mA)

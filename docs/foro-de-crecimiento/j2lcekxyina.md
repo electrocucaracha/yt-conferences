@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en negocios: las 5 etapas para construir una empresa! | Daniel Marcos
   #47"
-nav_order: 44
-parent: Foro De Crecimiento
 type: Video Note
 description:
   "En esta entrevista, Daniel Marcos, emprendedor y experto en escalamiento
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ Finalmente, recomienda tener un plan de vida personal, además del plan de negoc
 |  11 | Saber en qué etapa está la empresa y anticipar los retos de la siguiente etapa ayuda a tomar mejores decisiones y evitar errores costosos.                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/j2LcEkxyINA/hqdefault.jpg)](https://www.youtube.com/watch?v=j2LcEkxyINA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=j2LcEkxyINA)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Learn Kubernetes Best Practices With OpenCost - Matt
   Bolt , Maintainer"
-nav_order: 226
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Matt Bolt, a co-creator and maintainer of OpenCost, introduces the CNCF
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Recently, OpenCost integrated AI-driven analysis features, enabling users to rec
 |  15 | Attendees encouraged to scan the QR code for more information and to connect after the talk.                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/xzff3lWGnPQ/hqdefault.jpg)](https://www.youtube.com/watch?v=xzff3lWGnPQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xzff3lWGnPQ)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: End-to-End Security With gRPC in Kubernetes - Shiva & Abhishek Agrawal, Google
-nav_order: 69
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this CubeCon Atlanta session, Abhishek and Shiva from Google’s GPC
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The talk concludes with best practices for securing gRPC in Kubernetes, emphasiz
 |  19 | XDS APIs provide dynamic configur                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fhjiLyntYBg/hqdefault.jpg)](https://www.youtube.com/watch?v=fhjiLyntYBg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fhjiLyntYBg)

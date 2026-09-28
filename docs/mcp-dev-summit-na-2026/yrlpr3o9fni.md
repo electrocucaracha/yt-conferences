@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Demistifying Client ID Metadata Documents in MCP - Den Delimarsky, Anthropic
-nav_order: 15
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Dan from Anthropic discussed recent updates to the Model Context Protocol
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ SIMD is now the recommended method in the MCP specification, with DCR still supp
 |  25 | SIMD aims to simplify MCP client/server development and improve security.                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YRLPR3o9fnI/hqdefault.jpg)](https://www.youtube.com/watch?v=YRLPR3o9fnI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YRLPR3o9fnI)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Enterprise Is Ready for gRPC - Alex Van Boxel, Collibra
-nav_order: 305
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Alex, a principal architect at Calibra, discusses the benefits
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finally, Alex notes that adopting gRPC can help modularize monolithic systems an
 |  19 | Unified RPC/message                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mbnP3jSx6fw/hqdefault.jpg)](https://www.youtube.com/watch?v=mbnP3jSx6fw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mbnP3jSx6fw)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "To Swap or Not To Swap: Memory Management Design Patterns for AI Workloads
   in Kuber... Nic Vermande"
-nav_order: 373
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Nick from Scaleups discusses the complexities and trade-offs
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Ultimately, the decision to use swap depends on workload latency sensitivity and
 |  22 | Audit node memory, classify workloads by latency sensitivity, enable limited swap in                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Go3JMhvAhlc/hqdefault.jpg)](https://www.youtube.com/watch?v=Go3JMhvAhlc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Go3JMhvAhlc)

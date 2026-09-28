@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "1000 Clusters, 1 Brain: Salesforce’s Approach To Self-Healin... Vikram Venkataraman
   & Srikanth Rajan"
-nav_order: 2
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session, led by Vikramatraan from AWS and Shri Kant from Salesforce,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Early results show significant reductions in human toil and troubleshooting time
 |  17 | Multi-agent architecture includes manager, worker, and remediation agents, leveraging existing tools and runbook                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Y29VmBH-HA8/hqdefault.jpg)](https://www.youtube.com/watch?v=Y29VmBH-HA8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Y29VmBH-HA8)

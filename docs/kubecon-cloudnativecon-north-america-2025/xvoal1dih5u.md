@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Comms & Social Media - Why Does a Project Need It - Chris Short, CIQ & Kaslin
   Fields, Google
-nav_order: 40
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Chris Short and Kaslyn Fields discuss the evolution and
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Success is measured variably, often by follower growth and project-specific outc
 |  18 | Success is measured by follower count, engagement with specific projects (e.g., survey responses), and anecdotal feedback.                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XVoAl1dih5U/hqdefault.jpg)](https://www.youtube.com/watch?v=XVoAl1dih5U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XVoAl1dih5U)

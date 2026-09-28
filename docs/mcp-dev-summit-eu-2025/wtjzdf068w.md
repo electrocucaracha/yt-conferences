@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] Secure from Day One Building Production Ready MCP Servers with Nick
   Taylor - Pomerium"
-nav_order: 35
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Nick, a developer advocate at Primarium, presents on building production-ready
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -65,5 +62,7 @@ The approach offers centralized management of authentication, observability, and
 |  30 | Auditing and observability a                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_wtJzDf068w/hqdefault.jpg)](https://www.youtube.com/watch?v=_wtJzDf068w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_wtJzDf068w)

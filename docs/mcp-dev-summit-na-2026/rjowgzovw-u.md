@@ -1,8 +1,5 @@
 ---
-layout: default
 title: When MCP Becomes a Product - Gautam Baghel, HashiCorp & Roy Derks, IBM
-nav_order: 105
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this session, the speakers from IBM discussed their experiences transitioning
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ The session concluded with practical advice on maintaining consistency, enabling
 |  26 | Removing tools after GA is di                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RjOWGzovw_U/hqdefault.jpg)](https://www.youtube.com/watch?v=RjOWGzovw_U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RjOWGzovw_U)

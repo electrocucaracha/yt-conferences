@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Chaos to Control: A Prescription for Managing Apps on Private Cellular
   Networks - Luis Ariza"
-nav_order: 115
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Luis Arisa discusses the evolution of deploying private cellular networks,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ He concludes by answering questions about hardware needs and clarifying aspects 
 |  22 | Solution tested with real mobile phones and supports easy recon                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lceZtXmIGio/hqdefault.jpg)](https://www.youtube.com/watch?v=lceZtXmIGio)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lceZtXmIGio)

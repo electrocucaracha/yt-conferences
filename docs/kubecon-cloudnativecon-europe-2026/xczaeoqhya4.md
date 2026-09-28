@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Urunc: The New Kid In The Block Of Sandboxed Container...
   Charalampos Mainas"
-nav_order: 293
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Haralamus, also known as Bobby, introduces Uran C, a CNCF sandbox project
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Bobby invites interested users to connect at KubeCon, join community meetings, a
 |  16 | More information available on the site, GitHub repository, CNCF Slack workspace, and channel.                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XCzaeoqHya4/hqdefault.jpg)](https://www.youtube.com/watch?v=XCzaeoqHya4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XCzaeoqHya4)

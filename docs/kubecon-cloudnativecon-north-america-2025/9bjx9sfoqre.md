@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Anatomy of a Kubernetes Scheduler: Narrate Workloads Priority in Sequence
   - Hoon Jo, Megazone"
-nav_order: 18
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker introduces a beginner-level session focused on Kubernetes,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The speaker concludes by stressing that while AI can enhance productivity, a sol
 |  19 | Presentation materials and scenarios can be reused for team training or workshops.                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9BjX9SFOqRE/hqdefault.jpg)](https://www.youtube.com/watch?v=9BjX9SFOqRE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9BjX9SFOqRE)

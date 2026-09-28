@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Locking Down Ray Serve: How to Secure Ur ML Models? - Kateryna Hrytsaienko,
   Valtech"
-nav_order: 213
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Katina begins by sharing her personal experience with learning to secure
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ She concludes by recommending continuous monitoring tools like Prowler to detect
 |  16 | Ray tokens are not granular, not secure by default, and require additional proxies; not recommende                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FLTKUAcuFyc/hqdefault.jpg)](https://www.youtube.com/watch?v=FLTKUAcuFyc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FLTKUAcuFyc)

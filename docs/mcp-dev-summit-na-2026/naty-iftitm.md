@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Datadog Built 100 AI Agents. Here's What Broke.
-nav_order: 13
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   "The speaker discusses their experience building AI agents at Data Dog,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ They conclude by encouraging ongoing experimentation and adaptation as the field
 |  21 | Looking ahead: agents will learn on the job, become more independent, run longer, and support multimodal capabilities (e.g., computer vision) |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Naty_iFtITM/hqdefault.jpg)](https://www.youtube.com/watch?v=Naty_iFtITM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Naty_iFtITM)

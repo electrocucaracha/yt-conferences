@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)
-nav_order: 14
-parent: Large Language Models Llms
 type: Video Note
 description:
   "The lecture provides an overview of how large language models (LLMs)
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Throughout, the importance of practical considerations—especially data quality
 |  20 | Supervised fine-tuning (SFT) uses human-annotated question                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9vM4p9NN0Ts/hqdefault.jpg)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9vM4p9NN0Ts)

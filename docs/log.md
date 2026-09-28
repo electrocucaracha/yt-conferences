@@ -1,9 +1,3 @@
----
-layout: default
-title: Directory Update Log
-nav_exclude: true
----
-
 # Directory Update Log
 
 ## 2026-09-12

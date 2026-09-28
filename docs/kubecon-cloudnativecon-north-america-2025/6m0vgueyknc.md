@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Fluent Bit - Eduardo Silva, Maintainer"
-nav_order: 216
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker introduces Fluent Bit, a widely used, high-performance, low-resource
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The talk concludes with an invitation to the community to collect a new t-shirt 
 |  19 | New t-shirt design available for the Fluent Bit community at CubeCon and Observability Day.                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6m0vgUeYkNc/hqdefault.jpg)](https://www.youtube.com/watch?v=6m0vgUeYkNc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6m0vgUeYkNc)

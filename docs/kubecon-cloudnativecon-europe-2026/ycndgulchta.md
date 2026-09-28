@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cutting Metrics Traffic, Cutting Costs: The AZ-Aware Observe. Iris Dyrmishi
   & Rodrigo Fior Kuntzer"
-nav_order: 81
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Rodrigo and Iris, engineers at Miro, discuss their experience optimizing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The team provides a blueprint and resources for others to evaluate and implement
 |  15 | For targets without AZ metadata (                                                                                                                                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ycnDgULCHTA/hqdefault.jpg)](https://www.youtube.com/watch?v=ycnDgULCHTA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ycnDgULCHTA)

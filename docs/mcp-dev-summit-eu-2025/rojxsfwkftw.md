@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Highlights from MPC Dev Summit EU 2025 - London - 2 Oct 2025
-nav_order: 1
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   The speaker, a developer, expresses appreciation for the note-taking
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ They note that downstream applications, such as ChatGPT and various open-source 
 |  12 | Mentions MCP DevSummit.                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RoJXSFWKFTw/hqdefault.jpg)](https://www.youtube.com/watch?v=RoJXSFWKFTw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RoJXSFWKFTw)

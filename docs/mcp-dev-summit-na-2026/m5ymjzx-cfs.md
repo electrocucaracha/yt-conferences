@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Lessons Learned from Driving Enterprise MCP Adoption - Sheng Liang,
   CEO, Obot AI"
-nav_order: 43
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker reflects on the rapid growth of the MCP community since the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The talk concludes by noting that the architecture of MCP gateways and registrie
 |  22 | For more information, atte                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/m5yMJZX_cFs/hqdefault.jpg)](https://www.youtube.com/watch?v=m5yMJZX_cFs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=m5yMJZX_cFs)

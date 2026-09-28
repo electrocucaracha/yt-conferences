@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Full-Stack Observability on a Budget: A Guide to Strategic Sampling
   and Da... Pavol Loffay"
-nav_order: 381
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The tutorial builds on previous sessions about Kubernetes observability,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -63,5 +60,7 @@ The tutorial concludes with a mention of ongoing work to automate cost optimizat
 |  28 | Collector can perform                                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2iW0DMZqMMA/hqdefault.jpg)](https://www.youtube.com/watch?v=2iW0DMZqMMA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2iW0DMZqMMA)

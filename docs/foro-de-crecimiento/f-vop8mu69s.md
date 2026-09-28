@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Lourdes Enríquez: Build a Successful Character | Growth Session #1"
-nav_order: 56
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta conversación se abordan temas fundamentales para el desarrollo
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finalmente, se recomienda estudiar y trabajar antes de emprender para adquirir e
 |  18 | Apoyar a otros solo es efectivo si la persona está dispuesta y lo solicita; acompañar es más valioso que ayudar sin ser pedido. Ratings (1-5): 3                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/f_vOP8mU69s/hqdefault.jpg)](https://www.youtube.com/watch?v=f_vOP8mU69s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=f_vOP8mU69s)

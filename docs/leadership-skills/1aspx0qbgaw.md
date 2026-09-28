@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Best Way to Introduce Yourself In Any Setting | Follow This Simple 3 Step
   Formula!
-nav_order: 38
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a mentor and career coach for engineers,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Doug concludes by inviting viewers to reflect on their own challenges with intro
 |  21 | Use the formula to quickly craft introductions for interviews, meetings, or informal settings.                                                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1asPX0qBGAw/hqdefault.jpg)](https://www.youtube.com/watch?v=1asPX0qBGAw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1asPX0qBGAw)

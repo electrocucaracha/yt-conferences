@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Introducing TAG Workloads Foundat... Yuan Tang, Paco Xu, Alex Scammon, Rajas
   Kakodkar & Stephen Rust
-nav_order: 109
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Tag Workloads Foundation inaugural CubeCon session introduced the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The Q&A clarified that project involvement with tags is voluntary, and collabora
 |  20 | Meetings are held on the first Wednesday of every month; links to join are available via QR code.                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/AgeD4piXQaE/hqdefault.jpg)](https://www.youtube.com/watch?v=AgeD4piXQaE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=AgeD4piXQaE)

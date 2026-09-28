@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "What's New in Knative Eventing: Security, Discovery, Int... Pierangelo Di
   Pilato & Christoph Stäbler"
-nav_order: 369
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The presentation discusses various features and updates in KNative Eventing,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ Finally, the presentation touches on job sync, which enables offloading long-run
 |  10 | Label-based authorization (e.g., network policies) is not supported.                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6usWUdJMyHY/hqdefault.jpg)](https://www.youtube.com/watch?v=6usWUdJMyHY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6usWUdJMyHY)

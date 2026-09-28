@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Welcome + Opening Remarks - Chris Aniszczyk, CTO, Cloud Native Computing
   Foundation"
-nav_order: 157
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Cloud Native Computing Foundation (CNCF) has reached its 10-year
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The organization is celebrating its milestone with various announcements, includ
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/85MDID9Ju04/hqdefault.jpg)](https://www.youtube.com/watch?v=85MDID9Ju04)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=85MDID9Ju04)

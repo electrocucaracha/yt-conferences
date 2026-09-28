@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Live Demo Showcase"
-nav_order: 177
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video features presentations on three open-source projects. First,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ Each project invites further exploration and community engagement.
 |  15 | Project information and comm                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cTXlkhKXgyE/hqdefault.jpg)](https://www.youtube.com/watch?v=cTXlkhKXgyE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cTXlkhKXgyE)

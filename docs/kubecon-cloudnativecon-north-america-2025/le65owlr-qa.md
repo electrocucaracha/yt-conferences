@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Taming Telemetry at Scale: Platform Blueprints for Consistent Obser... Aakansha
   Priya & Marino Wijay"
-nav_order: 301
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The talk focuses on implementing telemetry and observability at scale,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The talk focuses on implementing telemetry and observability at scale, particula
 |   1 | Main points were not provided in the source note. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lE65oWLr-qA/hqdefault.jpg)](https://www.youtube.com/watch?v=lE65oWLr-qA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lE65oWLr-qA)

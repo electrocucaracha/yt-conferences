@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Read Complex Code? • Felienne Hermans • GOTO 2021
-nav_order: 63
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=az-MX_M11lg
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -29,5 +26,7 @@ Celina argues that learning to read code requires a similar approach to learning
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/az-MX_M11lg/hqdefault.jpg)](https://www.youtube.com/watch?v=az-MX_M11lg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=az-MX_M11lg)

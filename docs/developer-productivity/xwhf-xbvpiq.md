@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Getting Buy-In: Overcoming Larman's Law • Allen Holub • YOW! 2024"
-nav_order: 46
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the importance of creating a culture in large organizations
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ By experimenting and sharing knowledge, teams can overcome resistance from manag
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XwhF_xbVpIQ/hqdefault.jpg)](https://www.youtube.com/watch?v=XwhF_xbVpIQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XwhF_xbVpIQ)

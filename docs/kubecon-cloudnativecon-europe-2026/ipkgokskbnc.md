@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Enterprise Challenges with MCP Adoption - Christian Posta, Solo.io
-nav_order: 102
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Christian Posta, Global Field CTO at Solo.io, discusses the adoption
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Finally, he addresses the complexities of securely connecting to external SaaS M
 |  16 | Industry initiatives (e.g., JAT/JAG token exchange) for                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ipKgoKSkBnc/hqdefault.jpg)](https://www.youtube.com/watch?v=ipKgoKSkBnc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ipKgoKSkBnc)

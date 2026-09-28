@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Resource Fairness and Utilization for Heterogeneous Batch/M...
   Yuki Iwai & Gabe Saba"
-nav_order: 9
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   In this talk, Yuki from CyberAgent and Gabe from Google introduce Q,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The talk concludes with an explanation of how Q leverages historical usage snaps
 |  20 | Entry penalty addresses burs                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dKhF-hZi7CI/hqdefault.jpg)](https://www.youtube.com/watch?v=dKhF-hZi7CI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dKhF-hZi7CI)

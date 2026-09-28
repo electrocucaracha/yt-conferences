@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Alert Fatigue To Self-Healing: Building AI-Enabled Control Planes...
   Nuno Guedes & Yury Tsarev"
-nav_order: 114
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Nunu from Millennium BCP and Yuri from Abound discuss
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The presenters emphasize that this method improves efficiency, supports regulato
 |  21 | In multi-tenant environments, label changes are tracked; human intervention can im                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oGk8jVz3qZ4/hqdefault.jpg)](https://www.youtube.com/watch?v=oGk8jVz3qZ4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oGk8jVz3qZ4)

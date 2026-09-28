@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Demystifying Why the World Is Built on Kubernetes: Learning To Lev... Abby
   Bangser & Sebastien Blanc"
-nav_order: 72
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "Sebastian Blonde, a developer advocate for Port, introduced himself
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The presentation debunked myths about controllers and operators, emphasizing tha
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dVM20108SRc/hqdefault.jpg)](https://www.youtube.com/watch?v=dVM20108SRc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dVM20108SRc)

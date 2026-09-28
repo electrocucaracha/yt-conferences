@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Simplifying Cloud-Native Security: eBPF-Powered Encryption
   in... Muyang Tian"
-nav_order: 260
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 4 sentences.
 resource: https://www.youtube.com/watch?v=D7vwFFeEn00
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ Simplified testing shows a 30% throughput improvement compared to Envoy, with pl
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/D7vwFFeEn00/hqdefault.jpg)](https://www.youtube.com/watch?v=D7vwFFeEn00)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=D7vwFFeEn00)

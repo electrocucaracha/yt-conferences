@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Container Builds at Scale with Buildpacks - Joe Kutner,
   Maintainer"
-nav_order: 229
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Joe Cutner and Terrence Lee, co-founders of the Cloud Native Build Packs
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The project offers a CLI called "pack" for getting started, as well as pre-built
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gi3hZAFI0qs/hqdefault.jpg)](https://www.youtube.com/watch?v=gi3hZAFI0qs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gi3hZAFI0qs)

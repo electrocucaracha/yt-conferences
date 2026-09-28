@@ -1,8 +1,5 @@
 ---
-layout: default
 title: 5 Signs Your Interview Went Well (From a Former Recruiter)
-nav_order: 3
-parent: Interview Preparation
 type: Video Note
 description:
   "During an interview, candidates often look for subtle signs that indicate
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ These signs reveal emotional certainty, logical confidence, and commitment from 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-qR31MmbRb4/hqdefault.jpg)](https://www.youtube.com/watch?v=-qR31MmbRb4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-qR31MmbRb4)

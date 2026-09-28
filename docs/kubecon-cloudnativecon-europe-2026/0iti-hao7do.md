@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Blocking Vulnerable Workloads Out (And Catching What
   Got I... Alessio Greggi"
-nav_order: 254
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Alessio introduces a new integration for Cube Warden,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The workflow ensures that only images meeting the defined security criteria are 
 |  17 | Workflow: SBOM scanner scans registries, produces vulnerability reports, Cube Warden checks the image CV policy and vulnerability report when applying resources, and enforces the policy based on vulnerability counts. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0ItI-HaO7do/hqdefault.jpg)](https://www.youtube.com/watch?v=0ItI-HaO7do)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0ItI-HaO7do)

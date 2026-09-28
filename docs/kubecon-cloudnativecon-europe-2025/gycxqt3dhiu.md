@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How Do You Measure Devel... Jennifer Riggins, Cat Morris, Akshaya Aradhya,
   Laura Tacho & Helen Greul
-nav_order: 116
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The panel discussion on developer productivity focused on the challenges
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ They also discussed the value of qualitative data from developers themselves, as
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gycxQT3DHIU/hqdefault.jpg)](https://www.youtube.com/watch?v=gycxQT3DHIU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gycxQT3DHIU)

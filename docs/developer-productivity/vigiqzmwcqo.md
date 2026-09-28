@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The RAG Really Ties the App Together • Jeff Vestal • GOTO 2024
-nav_order: 136
-parent: Developer Productivity
 type: Video Note
 description:
   Jeff Esel, a professional at Elastic, introduces himself and explains
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ He also discusses the differences between dense and sparse vectors, including th
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vIGIQZmwcqo/hqdefault.jpg)](https://www.youtube.com/watch?v=vIGIQZmwcqo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vIGIQZmwcqo)

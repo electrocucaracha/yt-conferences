@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Emissary-ingress: Version 4 and What Comes Next - Flynn, Buoyant"
-nav_order: 99
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Flynn from Buoyant led a session discussing the release of Emissary 4.0.1,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concluded with a discussion on the project's transition from company
 |  18 | The session concluded with an invitation for questions and appreciation for attendees.                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/LIlW-iYpB1k/hqdefault.jpg)](https://www.youtube.com/watch?v=LIlW-iYpB1k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LIlW-iYpB1k)

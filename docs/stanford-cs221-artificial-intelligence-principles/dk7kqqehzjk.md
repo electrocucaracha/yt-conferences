@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 13: Bayesian Networks and Gibbs Sampling"
-nav_order: 4
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture continues the discussion on Bayesian networks, focusing on
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Next, the course will address learning the parameters of Bayesian networks.
 |  19 | Graph algorithms can determine (condit                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Dk7Kqqehzjk/hqdefault.jpg)](https://www.youtube.com/watch?v=Dk7Kqqehzjk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Dk7Kqqehzjk)

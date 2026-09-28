@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 8: Reinforcement Learning"
-nav_order: 19
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture begins by reviewing Markov Decision Processes (MDPs), which
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The key distinction is that model-based methods explicitly estimate the environm
 |  20 | Next top                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/34Hk2v2kwg4/hqdefault.jpg)](https://www.youtube.com/watch?v=34Hk2v2kwg4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=34Hk2v2kwg4)

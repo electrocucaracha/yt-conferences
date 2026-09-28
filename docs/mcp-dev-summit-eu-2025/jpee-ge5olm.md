@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Let's dream big for MCP Auth with Tobin South - WorkOS"
-nav_order: 19
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   The speaker, drawing on their background in AI security and experience
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The ultimate goal is to enable safe automation while maintaining robust security
 |  18 | Payment protocols and web identity offer partial solution                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jPee-GE5oLM/hqdefault.jpg)](https://www.youtube.com/watch?v=jPee-GE5oLM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jPee-GE5oLM)

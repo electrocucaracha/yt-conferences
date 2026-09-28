@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Combine Skills and MCP To Close the Context Gap - Pedro Rodrigues, Supabase
-nav_order: 11
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Pedro, an AI tooling engineer at Superbase, delivered a talk at the MCP
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Pedro concluded that the main challenge is context management rather than tool c
 |  22 | Key learnings: MCP alone insufficient; agents default to training data; skills guide agents to up-to-date docs and                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Rk9y-27dpko/hqdefault.jpg)](https://www.youtube.com/watch?v=Rk9y-27dpko)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Rk9y-27dpko)

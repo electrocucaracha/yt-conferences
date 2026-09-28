@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Productivity Panel • C. Majors, B. Böckeler, M. Greiler, D. Terhorst-North
   & J. Lewis • GOTO 2024
-nav_order: 100
-parent: Developer Productivity
 type: Video Note
 description:
   The discussion revolves around developer productivity, measuring it,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The conversation also touches on the future of AI in software development, with 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fgezCKfUfm8/hqdefault.jpg)](https://www.youtube.com/watch?v=fgezCKfUfm8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fgezCKfUfm8)

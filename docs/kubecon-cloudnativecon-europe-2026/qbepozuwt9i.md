@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Bringing Cloud Native PaaS To Space: Onboard Edge Computing f... Adele Karam
   Hankache & Sergiu Weisz"
-nav_order: 32
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation introduces the Orchid project, a European initiative
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The project is currently a demonstrator targeting low Earth orbit satellites, wi
 |  18 | Project aims for open-source                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QbEpoZuWT9I/hqdefault.jpg)](https://www.youtube.com/watch?v=QbEpoZuWT9I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QbEpoZuWT9I)

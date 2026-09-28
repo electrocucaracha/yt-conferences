@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "130 People – No Bosses: Too Good To Be True? in 4 Minutes • Helle Markmann
   • GOTO 2023"
-nav_order: 1
-parent: Developer Productivity
 type: Video Note
 description:
   Hill Marman, a computer scientist and project manager at Vertica, explains
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ This approach eliminates the need for traditional management, instead relying on
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fR12tWwTLHo/hqdefault.jpg)](https://www.youtube.com/watch?v=fR12tWwTLHo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fR12tWwTLHo)

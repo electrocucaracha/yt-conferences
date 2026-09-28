@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Platform Engineering as a (Community) Service • Nicki Watt • GOTO 2021
-nav_order: 97
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=4N2ywun-wTE
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -28,5 +25,7 @@ The platform engineering team should aim to be a role model and walk the talk by
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4N2ywun-wTE/hqdefault.jpg)](https://www.youtube.com/watch?v=4N2ywun-wTE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4N2ywun-wTE)

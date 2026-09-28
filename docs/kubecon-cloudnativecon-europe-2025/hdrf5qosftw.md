@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "OTel Me How To Get My Open Source Community Taken Seriously: Lessons... Reese
   Lee & Adriana Villela"
-nav_order: 206
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Open Telemetry project, a vendor-neutral open-source standard for
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Strategies for building a strong community include being responsive and transpar
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Hdrf5QosFTw/hqdefault.jpg)](https://www.youtube.com/watch?v=Hdrf5QosFTw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Hdrf5QosFTw)

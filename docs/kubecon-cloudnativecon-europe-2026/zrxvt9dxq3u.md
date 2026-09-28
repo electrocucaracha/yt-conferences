@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Projects to Products: The Sociotechnical Journey Behind Sony... Eugenia
   Bergman & Hagen Tonnies"
-nav_order: 125
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, the speakers from Sony PlayStation describe their journey
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Ultimately, aligning architectural, organizational, and feedback processes enabl
 |  18 | Shifted success metrics from project completio                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zrXvt9DXQ3U/hqdefault.jpg)](https://www.youtube.com/watch?v=zrXvt9DXQ3U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zrXvt9DXQ3U)

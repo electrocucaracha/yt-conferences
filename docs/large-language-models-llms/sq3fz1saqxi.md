@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 1: Overview
   and Tokenization"
-nav_order: 16
-parent: Large Language Models Llms
 type: Video Note
 description:
   The CS 336 course, "Language Models from Scratch," is designed to provide
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ While the course is demanding and not focused on the latest techniques or traini
 |  18 | Tokenization: overview of character, byte, word, and BPE (byte pair encod                                                                                                                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SQ3fZ1sAqXI/hqdefault.jpg)](https://www.youtube.com/watch?v=SQ3fZ1sAqXI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SQ3fZ1sAqXI)

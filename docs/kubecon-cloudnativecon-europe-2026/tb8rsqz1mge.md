@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: MCP Routing In Linkerd - Flynn, Technical Evangelist"
-nav_order: 275
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Flynn, a technical evangelist for the Linkerd project, discusses MCP
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Flynn concludes by mentioning the introduction of a new resource called MCP rout
 |  19 | Additional information is available about Linkerd on EKS and at the escape room party event.       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tb8rSQz1MGE/hqdefault.jpg)](https://www.youtube.com/watch?v=tb8rSQz1MGE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tb8rSQz1MGE)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: OpenFGA For Agents: Safe Delegation In 5 Minutes -
   Andres Aguiar, Maintainer"
-nav_order: 282
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Andreas, an OpenFGA maintainer, presents on behalf of Sedant, introducing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The presentation concludes with an invitation to further discussions and a menti
 |  18 | Mention of upcoming presentations and Open FGA integration with Envoy.                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1_w_ZRJ5lWk/hqdefault.jpg)](https://www.youtube.com/watch?v=1_w_ZRJ5lWk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1_w_ZRJ5lWk)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Developer Tools That Shouldn't Be Secrets • Christian Heilmann • GOTO 2022
-nav_order: 30
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker is a developer and program manager at Microsoft, discussing
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The speaker concludes by emphasizing that developer tools are not just for devel
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lz-nUdotdx4/hqdefault.jpg)](https://www.youtube.com/watch?v=lz-nUdotdx4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lz-nUdotdx4)

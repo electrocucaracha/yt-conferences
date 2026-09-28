@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Rook: Intro and Deep Dive With Ceph Storage - Artem Torubarov, Deepika Upadhyay
   & Niels de Vos"
-nav_order: 311
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presenters introduce Rook, an open-source operator that simplifies
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The talk also covers technical aspects of the Ceph CSI driver, including support
 |  14 | SE CSI driver: Container image with RBD, SEFS, NFS, NVMe backends; supports volume expansion, cloning, snapshotting, topology awareness, ephemeral volumes, PVC encryption, group snapshots, block metrics,         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ygE67l9b2Mc/hqdefault.jpg)](https://www.youtube.com/watch?v=ygE67l9b2Mc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ygE67l9b2Mc)

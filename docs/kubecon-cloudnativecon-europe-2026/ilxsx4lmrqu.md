@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Multi-Cluster Orchestration System: Karmada Updates
   A... Joe Nathan Abellard"
-nav_order: 278
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Joe, a senior software engineer at Bloomberg and core owner of the Kamada
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Joe invites attendees to learn more at upcoming Kamada talks and the project boo
 |  24 | Kamada project booth available for more information and discussions on multicluster orchestration.               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/IlXsx4lMrQU/hqdefault.jpg)](https://www.youtube.com/watch?v=IlXsx4lMrQU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IlXsx4lMrQU)

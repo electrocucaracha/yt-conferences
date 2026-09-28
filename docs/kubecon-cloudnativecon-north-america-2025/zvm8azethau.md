@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Confidential Observability on Kubernetes: Protecting Telemetry End-to-End-
   Jitendra Singh, Microsoft"
-nav_order: 44
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Jitendra Singh introduces the topic of confidential observability on
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Singh concludes by emphasizing that confidential observability is particularly v
 |  18 | Data outside secure boundaries cannot be accessed, ensuring end-to-                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZVM8azeTHAU/hqdefault.jpg)](https://www.youtube.com/watch?v=ZVM8azeTHAU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZVM8azeTHAU)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Dragonfly V2.4.0 - Intro, Updates, Data Distribution in AI Infrastructure -
   Wenbo Qi & Chenyu Zhang
-nav_order: 95
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Gio, the maintainer of Dronefly, introduces the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Gio also demonstrates how Dronefly, integrated with Harbor and Kubernetes, strea
 |  22 | Harbor provides versioning, RBAC, lifecycle management, sup                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zjCFSEVvaX4/hqdefault.jpg)](https://www.youtube.com/watch?v=zjCFSEVvaX4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zjCFSEVvaX4)

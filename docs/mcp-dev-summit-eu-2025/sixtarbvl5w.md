@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] MCP-UI: Next-gen Agentic Experiences"
-nav_order: 29
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   The speaker introduces MCPUI, an open protocol designed to address the
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The project is community-driven, with ongoing work on authentication, native cli
 |  17 | Future work includes authentication/authorization, supporting native clients, and abstract payloads for non-web e                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SIXTArBVL5w/hqdefault.jpg)](https://www.youtube.com/watch?v=SIXTArBVL5w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SIXTArBVL5w)

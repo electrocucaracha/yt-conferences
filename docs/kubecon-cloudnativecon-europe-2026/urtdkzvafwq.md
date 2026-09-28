@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | KubeVirt Summit: Achieving 10× Faster VM Migration
   to Kube... Ryosuke Tatsumi"
-nav_order: 69
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Ryosuke Tatsumi, chief researcher at Hitachi America, discusses the challenges
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ This pluggable architecture allows storage vendors to integrate their own logic,
 |  17 | Storage offload achieved up to 20x faster migration for 1TB VM (3 hours reduced to 10                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/uRTdkZVAfWQ/hqdefault.jpg)](https://www.youtube.com/watch?v=uRTdkZVAfWQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uRTdkZVAfWQ)

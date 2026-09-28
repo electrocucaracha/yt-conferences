@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Figure Out Your Career Path | Career Advice from Engineering Manager
-nav_order: 25
-parent: Leadership Skills
 type: Video Note
 description:
   "In this video, Doug Howard, an engineering manager, mentor, and coach,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ Doug emphasizes the importance of self-reflection, embracing discomfort, and bui
 |  12 | Building relationships and proactively seeking mentorship requires initiative and can be intimidating but is essential for career development.                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/v-t4quokDc8/hqdefault.jpg)](https://www.youtube.com/watch?v=v-t4quokDc8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=v-t4quokDc8)

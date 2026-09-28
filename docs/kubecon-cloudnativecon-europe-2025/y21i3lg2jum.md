@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Dapr in 2025: Durable Execution for AgenticAI System... Yaron Schneider, Diagrid
   & Roberto Rodriguez"
-nav_order: 60
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=y21i3lG2jUM
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ The speaker demonstrates how Dapper Agents can be used to build complex distribu
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/y21i3lG2jUM/hqdefault.jpg)](https://www.youtube.com/watch?v=y21i3lG2jUM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=y21i3lG2jUM)

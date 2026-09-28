@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Volcano: Orchestrating the Full AI Lifecycle – From Training To Inferen...
   Chen Zicong & Hajnal Máté"
-nav_order: 390
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation introduces Volcano, a unified batch scheduling platform
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The team emphasizes ongoing work to further integrate with cloud providers and o
 |  20 | Agent Cube: Ku                                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mzA0yuZ4QuY/hqdefault.jpg)](https://www.youtube.com/watch?v=mzA0yuZ4QuY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mzA0yuZ4QuY)

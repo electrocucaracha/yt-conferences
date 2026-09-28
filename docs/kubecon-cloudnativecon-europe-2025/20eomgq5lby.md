@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Rust Here, Rust There, Rust Everywhere! How a Crab Conquers
   the Cl... Sascha Grunert"
-nav_order: 182
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Sasha, discusses the use of Rust in cloud-native projects,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ To effectively utilize Rust, it's essential to consider its strengths, such as m
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/20eoMgq5lbY/hqdefault.jpg)](https://www.youtube.com/watch?v=20eoMgq5lbY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=20eoMgq5lbY)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 3: Learning II"
-nav_order: 14
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   In this lecture, the instructor builds on previous discussions of linear
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Finally, the instructor explains how to represent text inputs as tensors through
 |  21 | Bag-of-words representation averages token vectors, ignoring word or                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Mbe5ICIUw5Q/hqdefault.jpg)](https://www.youtube.com/watch?v=Mbe5ICIUw5Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Mbe5ICIUw5Q)

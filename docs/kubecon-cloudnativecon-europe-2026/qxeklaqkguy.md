@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "What Happens in Kubernetes SIG Scalability: Intro + DeepDive - Wojciech Tyczyński,
   Google"
-nav_order: 394
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Voytech Tachinski, a technical lead for the Kubernetes SIG Scalability,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Tachinski concludes by inviting community participation to help advance scalabil
 |  25 | Stale controller handling: ensures controllers operate on fresh enough state,                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QxeklaQkgUY/hqdefault.jpg)](https://www.youtube.com/watch?v=QxeklaQkgUY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QxeklaQkgUY)

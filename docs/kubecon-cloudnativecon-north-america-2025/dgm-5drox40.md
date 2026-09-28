@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Finally, a Cluster Inventory I Can USE! - Corentin Debains, Google & Ryan Zhang,
   Microsoft
-nav_order: 77
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Cluster Profile API is a community-driven, CRD-based namespace for
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ To further improve adoption, the community is seeking input on adding properties
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dgm_5DRox40/hqdefault.jpg)](https://www.youtube.com/watch?v=dgm_5DRox40)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dgm_5DRox40)

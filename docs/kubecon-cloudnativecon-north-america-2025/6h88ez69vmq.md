@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Models as Microservices, Platforms as Partners: Collaboratively Building ML
   Inf... Stephanie Pavlick"
-nav_order: 171
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Stephanie Pavick, a machine learning platform engineer at Hinge, presented
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Key lessons include starting with user pain points, baking reliability into defa
 |  22 | Embedding with product team                                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6H88ez69VmQ/hqdefault.jpg)](https://www.youtube.com/watch?v=6H88ez69VmQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6H88ez69VmQ)

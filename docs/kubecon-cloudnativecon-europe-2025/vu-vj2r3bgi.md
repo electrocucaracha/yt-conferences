@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Public End User Technical Advisory Board (TAB) Town Hall
-nav_order: 275
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The End User Technical Advisory Board (TAB) is a governance body of the
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Members, including Alorita Sharma, Joseph Sandal, Katie Gamji, Ricardo, and Ahme
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VU_vj2r3BgI/hqdefault.jpg)](https://www.youtube.com/watch?v=VU_vj2r3BgI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VU_vj2r3BgI)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Pipeline-Driven Organization • Roy Osherove • GOTO 2022
-nav_order: 135
-parent: Developer Productivity
 type: Video Note
 description:
   Roy Oshirov discusses the difference between waterfall pipelines and
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ This requires a cultural shift towards automation, continuous integration, and c
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zmA5fhV-FGk/hqdefault.jpg)](https://www.youtube.com/watch?v=zmA5fhV-FGk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zmA5fhV-FGk)

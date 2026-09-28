@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Threat Modeling Authorization in MCP - Sarah Cecchetti, OpenID Foundation
-nav_order: 95
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker, Sarah Jetty, discusses threat modeling and authorization
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The talk emphasizes the need for cryptographically verifiable credentials and se
 |  25 | Suggestion for third-party attestation of server metadata (no                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ADI8zrdmN_4/hqdefault.jpg)](https://www.youtube.com/watch?v=ADI8zrdmN_4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ADI8zrdmN_4)

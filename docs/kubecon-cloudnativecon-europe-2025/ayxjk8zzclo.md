@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Taming the Beast: Advanced Resource Management With Kubernetes - Lucy Sweet
   & Dawn Chen"
-nav_order: 327
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Lucy and Don Chen from Kubernetes discuss new features in Kubernetes,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Additionally, they discuss the future of Kubernetes, including the need for more
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/AYxjk8ZZclo/hqdefault.jpg)](https://www.youtube.com/watch?v=AYxjk8ZZclo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=AYxjk8ZZclo)

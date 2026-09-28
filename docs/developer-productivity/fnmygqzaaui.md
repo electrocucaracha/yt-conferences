@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Prioritizing Technical Debt as if Time and Money Matters • Adam Tornhill •
   GOTO 2020
-nav_order: 99
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses prioritizing technical depth in large-scale software
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ By applying behavioral code analysis techniques, developers can identify refacto
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FnmYGqZAAuI/hqdefault.jpg)](https://www.youtube.com/watch?v=FnmYGqZAAuI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FnmYGqZAAuI)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en programación mental: Cómo reprogramar tu mente y cambiar tu destino
   | Marcelo Yaguna"
-nav_order: 45
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este video, Marcelo Yaguna, empresario y conferencista, comparte su
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Finalmente, guía a la audiencia en un ejercicio de hipnosis para grabar en el s
 |  22 | La hipnosis ayuda a reprogramar el subconsciente y superar creencias limitantes.                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/k7BfbpP_Rkg/hqdefault.jpg)](https://www.youtube.com/watch?v=k7BfbpP_Rkg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=k7BfbpP_Rkg)

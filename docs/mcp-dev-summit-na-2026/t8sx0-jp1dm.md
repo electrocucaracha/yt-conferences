@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Chaos To Clarity: How MCP Transforms Incident Response - Sebastian Villanelo
   & Rocío Bayon"
-nav_order: 27
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The video discusses the challenges engineers face when responding to
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Ultimately, the presenters emphasize that MCP apps reduce burnout, speed up inci
 |  18 | Community participation is encouraged via documentation, live streams, and feedback.                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/T8sx0-JP1DM/hqdefault.jpg)](https://www.youtube.com/watch?v=T8sx0-JP1DM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=T8sx0-JP1DM)

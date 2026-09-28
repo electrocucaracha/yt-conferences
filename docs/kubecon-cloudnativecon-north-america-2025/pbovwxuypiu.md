@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: How One Line of Code Freed 30,000 CPU Cores: Deep-Diving Fluent Bit
   at Petabyte... F. Ponce"
-nav_order: 124
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Fabian, a member of OpenAI's applied observability team, discusses the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Disabling this feature resulted in a 50% drop in CPU usage across their heavily 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pbOvWxuYPIU/hqdefault.jpg)](https://www.youtube.com/watch?v=pbOvWxuYPIU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pbOvWxuYPIU)

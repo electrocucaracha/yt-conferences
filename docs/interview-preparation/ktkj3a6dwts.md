@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "How to show up in any room with a low heart rate: Silicon Valley’s missing
   etiquette playbook"
-nav_order: 16
-parent: Interview Preparation
 type: Video Note
 description:
   Sam Lesson emphasizes the importance of showing up with a low heart rate,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ The conversation is lighthearted and humorous, making etiquette accessible and e
 |  10 | Use humor to cut through the noise and make people feel at ease.                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KtKJ3A6DWTs/hqdefault.jpg)](https://www.youtube.com/watch?v=KtKJ3A6DWTs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KtKJ3A6DWTs)

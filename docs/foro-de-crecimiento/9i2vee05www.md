@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Esta conversación puede salvar tu relación – Chava Gutiérrez | Sesión 34
-nav_order: 27
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Chava Gutiérrez, terapeuta de parejas y autor, comparte
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finalmente, enfatiza que el bienestar familiar es la base para enfrentar los ret
 |  19 | Aprender y practicar estos principios requiere tiempo, conciencia y repetición.                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9i2veE05Www/hqdefault.jpg)](https://www.youtube.com/watch?v=9i2veE05Www)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9i2veE05Www)

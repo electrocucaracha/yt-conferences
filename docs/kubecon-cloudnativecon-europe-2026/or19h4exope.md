@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SIG API Machinery: SIG Updates and Deep Dive in the AI/ML Era - Stefan Schimanski,
   NVIDIA"
-nav_order: 315
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker provides an update on the SIG API Machinery, focusing on
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Users are advised to update both their Kubernetes clusters and client libraries 
 |  17 | To benefit from new features: update Kubernetes cluster and client-go to recent versions (1.35+).                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Or19H4ExOPE/hqdefault.jpg)](https://www.youtube.com/watch?v=Or19H4ExOPE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Or19H4ExOPE)

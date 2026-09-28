@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Virtualizing Large Scale GPU Cluster for Sovereign AI: Petasus AI Cloud Journey
   with Kube... Jian Li"
-nav_order: 387
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Jen, a principal engineer at SK Telecom, presents their
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Overall, SK Telecom’s solution demonstrates that large-scale GPU virtualizatio
 |  21 | Near bare-metal performance is achie                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/m1buNUEmXTg/hqdefault.jpg)](https://www.youtube.com/watch?v=m1buNUEmXTg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=m1buNUEmXTg)

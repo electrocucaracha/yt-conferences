@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "AI Agents & Platform Engineering: Efficiency Boost... Hasith K, Vincent C,
   Sara Q, Idit L & Carlos S"
-nav_order: 8
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The panel at CubeCon discussed the current state and challenges of integrating
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ They recommended leveraging open-source projects, establishing robust guardrails
 |  20 | Advice: treat AI as untrusted automation, apply guardrails, build trust gradually, and leverage community resources.                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Y0C8dIfIYAs/hqdefault.jpg)](https://www.youtube.com/watch?v=Y0C8dIfIYAs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Y0C8dIfIYAs)

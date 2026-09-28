@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en Inversiones: ¡Invertir es más importante que ganar más! | Alejandro
   Saracho"
-nav_order: 34
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este episodio del Foro de Crecimiento, se aborda el camino hacia la
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finalmente, se destaca que la meta no es dejar de trabajar, sino hacerlo por ele
 |  19 | El mapa de riqueza ayuda a diagnosticar tu situación: entradas, salidas, activos, pasivos, riqueza neta y flujo de efectivo. Ratings (1-5): 4                                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/sO0nPhISJw4/hqdefault.jpg)](https://www.youtube.com/watch?v=sO0nPhISJw4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sO0nPhISJw4)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Smooth Scaling With the OpAMP Supervisor: Managing Thousands of OpenTe...
   Evan Bradley & Andy Keller"
-nav_order: 307
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Open Agent Management Protocol (Opamp) is a network protocol for
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -44,5 +41,7 @@ Opamp has the potential to simplify fleet management by providing a standardized
 |   7 | Future plans include increasing stability, refactoring, and implementing collector upgrades, enhanced telemetry configuration, and support for Java SDK and Kubernetes.   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/g8rtqqNTL9Q/hqdefault.jpg)](https://www.youtube.com/watch?v=g8rtqqNTL9Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=g8rtqqNTL9Q)

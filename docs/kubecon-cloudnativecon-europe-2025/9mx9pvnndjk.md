@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: external-secrets: Zero Trust Secrets Management with
   ESO - Moritz Johner"
-nav_order: 273
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Morris Joner, one of the creators of External Secrets Operator (ESO),
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The operator runs periodically to reconcile the state of secrets in the vault, o
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9mX9PvNNDjk/hqdefault.jpg)](https://www.youtube.com/watch?v=9mX9PvNNDjk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9mX9PvNNDjk)

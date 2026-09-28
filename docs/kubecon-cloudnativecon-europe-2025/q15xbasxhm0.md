@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Encryption, Identities, and Everything in Between; Building Se... Lior Lieberman
   & Igor Velichkovich
-nav_order: 83
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Leo Lieberman, engineer lead at Google, and Igor Velichkovich, engineer
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ The duo introduce various solutions, including network policies, admin network p
 |   8 | Standardization of identity transmission is essential for improving security and scalability in Kubernetes networks.                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Q15XbASxHM0/hqdefault.jpg)](https://www.youtube.com/watch?v=Q15XbASxHM0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q15XbASxHM0)

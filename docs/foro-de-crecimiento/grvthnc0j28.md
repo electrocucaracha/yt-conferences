@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Entrenador de Perros: La guía completa para entrenar a tu perro | Darwin Angulo"
-nav_order: 24
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa entrevista, Darwin Angulo, instructor canino con más
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Finalmente, comparte técnicas para aprovechar el olfato del perro en juegos út
 |  25 | El adiestramiento exitoso requiere compromiso y participación activa del dueño.                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GRVTHNC0J28/hqdefault.jpg)](https://www.youtube.com/watch?v=GRVTHNC0J28)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GRVTHNC0J28)

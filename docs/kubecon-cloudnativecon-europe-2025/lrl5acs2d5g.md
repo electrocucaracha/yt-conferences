@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   AI Workload Preemption in a Multi-Cluster Scheduling System at Bloomberg -
   Leon Zhou & Wei-Cheng Lai
-nav_order: 13
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Bloomberg's AI workflow management system utilizes a multicluster Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ To balance platform efficiency with user experience, the system caches model che
 |   9 | Cost model and cost-effectiveness are tied to resource usage and budget management, with a focus on reducing waste and optimizing resource utilization.                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/LrL5AcS2d5g/hqdefault.jpg)](https://www.youtube.com/watch?v=LrL5AcS2d5g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LrL5AcS2d5g)

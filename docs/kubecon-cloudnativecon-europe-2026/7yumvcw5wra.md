@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Advanced Kyverno Patterns : Automating Platform Security and Ope... Frank
   Jogeleit & Johannes Sonner"
-nav_order: 16
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Frank and Johannes introduce Kyverno, a Kubernetes-native
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ They conclude with a roadmap update, mentioning improvements to the CLI, a new r
 |  22 | Emph                                                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7YuMvcW5wRA/hqdefault.jpg)](https://www.youtube.com/watch?v=7YuMvcW5wRA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7YuMvcW5wRA)

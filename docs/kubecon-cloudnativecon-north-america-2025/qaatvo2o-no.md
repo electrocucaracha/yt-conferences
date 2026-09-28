@@ -1,8 +1,5 @@
 ---
-layout: default
 title: AI-Assisted GitOps With Flux MCP Server - Stefan Prodan, ControlPlane
-nav_order: 7
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Stefan Pradan, a long-time Flux maintainer, discusses the
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Security considerations, fine-grained access controls, and upcoming features lik
 |  20 | Users are advised to use read-only mode, especially with production clusters.                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QAatvo2o-No/hqdefault.jpg)](https://www.youtube.com/watch?v=QAatvo2o-No)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QAatvo2o-No)

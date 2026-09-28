@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloudy With a Chance of Kubernetes: Going From One To Three... Laurent Bernaille
   & Maxime Visonneau"
-nav_order: 48
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Maxim Vizeno from DataDog's Infrastructure Engineering team discussed
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Despite the complexity, the team learned valuable lessons and is now exploring n
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iCAFXF5ECto/hqdefault.jpg)](https://www.youtube.com/watch?v=iCAFXF5ECto)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iCAFXF5ECto)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Crossplane - The Cloud Native Framework for Platform Engineering - Jared Watts
   & Adam Wolfe Gordon
-nav_order: 79
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Jared and Adam, core maintainers of the Crossplane project, introduce
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The session concludes with an invitation for community contributions and engagem
 |  20 | Resource metrics monitors enable custom metrics and labeling, with controls to a                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zu6V34BFksk/hqdefault.jpg)](https://www.youtube.com/watch?v=zu6V34BFksk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zu6V34BFksk)

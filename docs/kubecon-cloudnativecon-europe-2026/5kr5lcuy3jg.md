@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | CNCF Members: Leaving Your Ma... David Palilonis, Jake
   Pineda & Danielle Cook"
-nav_order: 41
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation, led by David from CNCF along with colleagues Jake and
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Danielle shared practical examples of translating CNCF engagement into metrics t
 |  19 | Recommendations: join CNCF Slack, explore contributor opportunities, attend working groups, join local meetups, submit case studies,                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5kr5lcUY3Jg/hqdefault.jpg)](https://www.youtube.com/watch?v=5kr5lcUY3Jg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5kr5lcUY3Jg)

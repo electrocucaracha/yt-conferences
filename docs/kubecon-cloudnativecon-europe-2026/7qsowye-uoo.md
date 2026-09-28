@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Generalizing Kubernetes Controller Sharding: Patterns That Wo... Motohiro
   Otsuka & Tomoyuki Nakamura"
-nav_order: 133
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Tommoakamra and Moto Hiroka discuss their experience
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The speakers conclude with five general principles for sharding: work within API
 |  17 | Fixes included adoption logic for orphan                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7qsOwyE_uOo/hqdefault.jpg)](https://www.youtube.com/watch?v=7qsOwyE_uOo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7qsOwyE_uOo)

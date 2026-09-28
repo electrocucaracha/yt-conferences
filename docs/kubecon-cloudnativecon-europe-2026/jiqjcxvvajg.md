@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   AI'm at the Gate! Introducing the AI Gateway Working G... Morgan Foster, Nir
   Rozenbaum & Shachar Tal
-nav_order: 9
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The talk introduces a new working group focused on developing an "AI
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ The group also discusses the need for new backend and egress gateway resources t
 |  14 | Need for backend resource to attach default policies, support both internal/external backends, an                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JiQJcXvvajg/hqdefault.jpg)](https://www.youtube.com/watch?v=JiQJcXvvajg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JiQJcXvvajg)

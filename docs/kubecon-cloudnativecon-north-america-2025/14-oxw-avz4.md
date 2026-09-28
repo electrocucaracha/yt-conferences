@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: Cloud Scale Enterprise AI: How Cohere Runs... Aanand Krishnan
   & Autumn Moulder"
-nav_order: 287
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Autumn Moulder and Anan Krishnan from Oracle discuss the need for a platform
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Oracle Cloud Infrastructure provides a managed platform on top of Kubernetes and
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/14_oXw-AVZ4/hqdefault.jpg)](https://www.youtube.com/watch?v=14_oXw-AVZ4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=14_oXw-AVZ4)

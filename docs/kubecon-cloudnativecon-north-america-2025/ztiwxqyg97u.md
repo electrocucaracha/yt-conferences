@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Good, the Bad, and the Ugly: Hacking 3 Cloud Native AI Service... Hillai
   Ben-Sasson & Nir Ohfeld"
-nav_order: 309
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, researchers from Whiz detailed their discovery of a critical
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The researchers emphasized the importance of layered security measures beyond co
 |  19 | Launched zeroday.cloud hacking competition with major cloud providers to improve open source cloud security.                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZTiWXqYg97U/hqdefault.jpg)](https://www.youtube.com/watch?v=ZTiWXqYg97U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZTiWXqYg97U)

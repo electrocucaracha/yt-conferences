@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Spin-Up, Test, Tear-Down: How Trivago Runs Developer Preview Environm... Armin
   Aminian & Jan Wozniak"
-nav_order: 339
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Armen, S, and Jan from Trivago discuss how they
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Their solution enables rapid, confident feature delivery, minimizes incidents, a
 |  19 | CI/CD is used for building, testing, and deploying previews to ensure parity with production processes.                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_stuEBA4nK0/hqdefault.jpg)](https://www.youtube.com/watch?v=_stuEBA4nK0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_stuEBA4nK0)

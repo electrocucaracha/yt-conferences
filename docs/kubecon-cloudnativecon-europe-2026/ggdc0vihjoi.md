@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Automating and Scaling of Threat Modelling for Cloud Native Archit... Hanna
   Papirna & Emma Yuan Fang
-nav_order: 23
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Emma and Hannah from EPAM Systems discuss the complexities of threat
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes by encouraging further discussion on advancing cloud-nativ
 |  18 | AI-assisted threat modeling demo using STRIDE GPT: generic prompts yield broad risks, block-focused prompts yield more actionable, specific                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GGdc0vihJOI/hqdefault.jpg)](https://www.youtube.com/watch?v=GGdc0vihJOI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GGdc0vihJOI)

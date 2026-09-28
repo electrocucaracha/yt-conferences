@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Flipping the Curve: A Platform Engineer's Guide to Unlocking the Silent 80%
   - Michael Reichenbach"
-nav_order: 111
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses the importance of platform engineering teams focusing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The speaker also addresses questions about balancing expert and general user nee
 |  18 | Track high-level metrics (e.g                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/xRpGhFihQpk/hqdefault.jpg)](https://www.youtube.com/watch?v=xRpGhFihQpk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xRpGhFihQpk)

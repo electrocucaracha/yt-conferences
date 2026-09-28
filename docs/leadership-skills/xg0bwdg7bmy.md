@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Top Delegation Challenges Engineering Managers and Tech Leaders Face and
   How to Overcome Them
-nav_order: 39
-parent: Leadership Skills
 type: Video Note
 description:
   The video emphasizes that the primary reason engineering managers and
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Howard concludes by encouraging leaders to proactively develop their delegation 
 |  25 | Overcoming these challenges requires proactively developing delegation skills, building trust, and recognizing the long-term benefits of empowering others. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/xG0Bwdg7BmY/hqdefault.jpg)](https://www.youtube.com/watch?v=xG0Bwdg7BmY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xG0Bwdg7BmY)

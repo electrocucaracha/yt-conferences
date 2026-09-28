@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sandbox Operator: Enabling Session-Aware, Efficient MCP Tool Execution...
   Mingshan Zhao & Zhen Zhang"
-nav_order: 324
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speakers, developers from Alibaba Cloud’s container service team,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The team emphasizes ongoing collaboration with the community to standardize sand
 |  19 | Pause/resume deletes idle pods                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vi_VhZLWs9k/hqdefault.jpg)](https://www.youtube.com/watch?v=vi_VhZLWs9k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vi_VhZLWs9k)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How To Break Multi-Tenancy Again and Again ...and What We Can Learn F... Lorin
   Lehawany & Sven Nobis
-nav_order: 146
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, security analysts Lauren Lehavani and Sven Nois from a
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The talk concludes by urging practitioners to thoroughly assess namespace-based 
 |  22 | Step 2:                                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PEU4uDzurvc/hqdefault.jpg)](https://www.youtube.com/watch?v=PEU4uDzurvc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PEU4uDzurvc)

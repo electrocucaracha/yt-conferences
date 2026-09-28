@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Looking Back to Look Forward • Adrian Hornsby • GOTO 2021
-nav_order: 83
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses chaos engineering, a process of stressing an application
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ They introduce the Fault Injection Simulator, a fully managed service that aims 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OHWKr4USyGg/hqdefault.jpg)](https://www.youtube.com/watch?v=OHWKr4USyGg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OHWKr4USyGg)

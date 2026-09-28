@@ -1,8 +1,5 @@
 ---
-layout: default
 title: You're Testing WHAT? • Gojko Adzic • GOTO 2021
-nav_order: 150
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses how advances in technology and cloud computing
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ Ultimately, they advocate for rethinking automation to optimize human time, faci
 |  16 | Focus on testing what the sys                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5_IW7npQk9k/hqdefault.jpg)](https://www.youtube.com/watch?v=5_IW7npQk9k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5_IW7npQk9k)

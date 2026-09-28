@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Amazing Code Reviews: Creating a Superhero Collective • Alejandro Lujan •
   GOTO 2019"
-nav_order: 8
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker shares their experience of struggling with code reviews during
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ By implementing these strategies, teams can move faster, build better things, an
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ly86Wq_E18o/hqdefault.jpg)](https://www.youtube.com/watch?v=ly86Wq_E18o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ly86Wq_E18o)

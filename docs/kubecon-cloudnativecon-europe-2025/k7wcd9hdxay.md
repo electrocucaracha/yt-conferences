@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Flux - What is it & What's New? - Tamao Nakahara,
   Community Maintainer"
-nav_order: 237
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Flux project is a graduated project in the Cloud Native Computing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ With its multi-tenancy, multicluster capabilities, and integration with Kubernet
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/k7Wcd9HdXAY/hqdefault.jpg)](https://www.youtube.com/watch?v=k7Wcd9HdXAY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=k7Wcd9HdXAY)

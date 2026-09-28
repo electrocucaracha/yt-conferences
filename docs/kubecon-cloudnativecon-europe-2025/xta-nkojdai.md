@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Open Policy Agent (OPA) Intro & Deep Dive - Charlie Egan & Anders Eknert, Styra
-nav_order: 209
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses Open Policy Agent (OPA) and its role in implementing
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ The presentation concludes with an overview of upcoming roadmap features, includ
 |  11 | The project is open-source and community-driven, with a focus on collaboration and feedback.                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XtA-NKoJDaI/hqdefault.jpg)](https://www.youtube.com/watch?v=XtA-NKoJDaI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XtA-NKoJDaI)

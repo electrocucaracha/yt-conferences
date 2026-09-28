@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: What's New in Kubernetes Storage - Xing Yang, Co-chair
   SIG Storage"
-nav_order: 269
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The speaker from VML by BCON in S Storage, Shinyang, discusses two exciting
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Additionally, Shinyang announces the removal of the deprecated Git repository en
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/v_PzG81D33I/hqdefault.jpg)](https://www.youtube.com/watch?v=v_PzG81D33I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=v_PzG81D33I)

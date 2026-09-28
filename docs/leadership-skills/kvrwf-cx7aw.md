@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Avoid the 4 Biggest Mistakes Every New Engineering Manager + Tech Leader
   Makes!
-nav_order: 20
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard addresses the four most common mistakes new
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Collectively, these points stress the significance of mindset shifts, effective 
 |  23 | Prevent burnout by maintaining a balanced and sustainable approach to leadership.                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kVRWF-cX7Aw/hqdefault.jpg)](https://www.youtube.com/watch?v=kVRWF-cX7Aw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kVRWF-cX7Aw)

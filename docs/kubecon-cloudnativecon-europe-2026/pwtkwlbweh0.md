@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Developer’s Nightmare: How To Survive Compliance Che... Alexandra Hou
   Aldershaab & Thomas Vitale"
-nav_order: 355
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Alexandra and Thomas discuss the challenges developers
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Ultimately, they advocate for embedding compliance into developer platforms, ena
 |  20 | Develop                                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PWtkwLbwEH0/hqdefault.jpg)](https://www.youtube.com/watch?v=PWtkwLbwEH0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PWtkwLbwEH0)

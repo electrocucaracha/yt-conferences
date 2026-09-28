@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Opening + Welcome - Jorge Castro, CNCF"
-nav_order: 251
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   George Castra, a CNCF staffer, welcomes attendees to the Project Lightning
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ The session features lightning talks every 7 minutes, allowing attendees to drop
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3Gm5QNXcp2g/hqdefault.jpg)](https://www.youtube.com/watch?v=3Gm5QNXcp2g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3Gm5QNXcp2g)

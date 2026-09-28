@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Spotify Plugins for Backstage: How Commercial & Open Source Go Hand-in-Hand
   • Joon Park • GOTO 2023"
-nav_order: 125
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=k86P2J0xBK8
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The company is continuously working to improve the plugin ecosystem and make it 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/k86P2J0xBK8/hqdefault.jpg)](https://www.youtube.com/watch?v=k86P2J0xBK8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=k86P2J0xBK8)

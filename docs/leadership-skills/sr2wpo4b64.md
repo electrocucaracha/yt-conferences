@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Deal With a Toxic Boss Without Quitting | Do These 3 Things | Advice
   from Engineering Manager
-nav_order: 23
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard discusses the detrimental effects of working
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ He concludes by encouraging viewers to watch his other content for specific tech
 |  16 | For more on setting boundaries, watch the referenced episode on the topic.                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_sr2wpO4b64/hqdefault.jpg)](https://www.youtube.com/watch?v=_sr2wpO4b64)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_sr2wpO4b64)

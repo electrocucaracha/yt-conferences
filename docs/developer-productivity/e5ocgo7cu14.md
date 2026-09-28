@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "130 People – No Bosses: Too Good To Be True? • Helle Markmann • GOTO 2023"
-nav_order: 2
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=E5oCgo7cu14
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -28,5 +25,7 @@ Helen also discusses the challenges of self-management, including dealing with i
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/E5oCgo7cu14/hqdefault.jpg)](https://www.youtube.com/watch?v=E5oCgo7cu14)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E5oCgo7cu14)

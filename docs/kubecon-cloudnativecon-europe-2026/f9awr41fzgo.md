@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Beyond Guardrails: Resource Lifecycle Automation With
   Kyverno - Ammar Yasser"
-nav_order: 253
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Luke Mowski, a maintainer for Keveno, presents on behalf of a colleague
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Luke emphasizes that Keveno is now a comprehensive platform automation tool, not
 |  16 | Invitation to Kanukon event for a deeper talk on the topic.                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/F9AwR41FzGo/hqdefault.jpg)](https://www.youtube.com/watch?v=F9AwR41FzGo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=F9AwR41FzGo)

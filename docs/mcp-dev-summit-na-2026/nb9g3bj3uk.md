@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Mix-Up Attacks in MCP: Multi-Issuer Confusion and Mitigations - Emily Lauber,
   Microsoft"
-nav_order: 66
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Emily Lober, a senior product manager at Microsoft, discusses the challenges
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ During the Q&A, she acknowledges that while resource and audience validation can
 |  17 | Call to action: MCP resources should carefully choose trusted authorization servers; clients and SDKs should support issuer validation; authorization s |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-nb9g3Bj3uk/hqdefault.jpg)](https://www.youtube.com/watch?v=-nb9g3Bj3uk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-nb9g3Bj3uk)

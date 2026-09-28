@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Kubernetes Data Protection WG Intro & Deep Dive - Dave Smith-Uchida, Veeam
-nav_order: 192
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The Kubernetes Data Protection Working Group session, led by Dave Smith
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The group is developing a white paper on best practices and invites community pa
 |  20 | Complex scenarios with operators calling other opera                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/grE_GMC3PlI/hqdefault.jpg)](https://www.youtube.com/watch?v=grE_GMC3PlI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=grE_GMC3PlI)

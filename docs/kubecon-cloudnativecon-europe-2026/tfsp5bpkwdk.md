@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The State of Backstage in 2026 - Ben Lambert & Patrik Oldsberg, Spotify
-nav_order: 368
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk at CubeCon EU, Ben and Patrick, maintainers of Backstage
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ They concluded with a roadmap focused on catalog model extensions, AI context in
 |  20 | Planned changes to release process: slowe                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tFsp5bpKwdk/hqdefault.jpg)](https://www.youtube.com/watch?v=tFsp5bpKwdk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tFsp5bpKwdk)

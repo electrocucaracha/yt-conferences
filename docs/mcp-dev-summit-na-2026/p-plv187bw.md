@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Welcome Remarks from the AAIF Governing Board Chair - David Nalley"
-nav_order: 50
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In less than four months since its launch, the Agentic AI Foundation
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The technical steering committee has introduced a formal project lifecycle, enab
 |  20 | Open source thrives on active participation; community involvement is encouraged.                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-P-pLV187Bw/hqdefault.jpg)](https://www.youtube.com/watch?v=-P-pLV187Bw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-P-pLV187Bw)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "CubeFS in Action: Empowering Users Through Case Studies - Leon Chang, OPPO"
-nav_order: 57
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Li Chong from OPPO introduces Kubas, a cloud-native storage system, and
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ Li will present three case studies: building AI storage, computing and storage s
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_rDE1PD5Z5I/hqdefault.jpg)](https://www.youtube.com/watch?v=_rDE1PD5Z5I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_rDE1PD5Z5I)

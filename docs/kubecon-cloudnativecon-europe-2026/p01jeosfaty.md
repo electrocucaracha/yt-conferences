@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Ping SRE? I Am the SRE! Awesome Fun I Had Drawing a Zine for Troubleshooting
   Kubern... René Dudfield
-nav_order: 242
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker introduces the concept of zines—small, DIY booklets often
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concludes with thanks and an invitation to explore zine-making furth
 |  20 | The talk concludes with thanks to the audience.                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/p01JEOSfaTY/hqdefault.jpg)](https://www.youtube.com/watch?v=p01JEOSfaTY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p01JEOSfaTY)

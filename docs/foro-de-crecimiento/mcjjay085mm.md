@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Como dar un salto cuántico | Mauricio Benoist - sesión 42
-nav_order: 10
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta conversación, Mauricio Benoist, experto en neurociencia y desarrollo
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finalmente, invita a abandonar la mentalidad de víctima y asumir el protagonism
 |  20 | La vida épica se basa en cinco libertades: conciencia, emocional, financiera, tiempo y geográfica.                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mcJJay085MM/hqdefault.jpg)](https://www.youtube.com/watch?v=mcJJay085MM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mcJJay085MM)

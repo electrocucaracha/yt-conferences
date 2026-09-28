@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Set Boundaries with Difficult People
-nav_order: 32
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, leadership coach Doug Howard addresses the growing issue
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ The video concludes with a recap of the five steps and encourages viewers to doc
 |  12 | Recap: Assess, plan/establish, communicate, reinforce, and seek support.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HtteVDf1yb4/hqdefault.jpg)](https://www.youtube.com/watch?v=HtteVDf1yb4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HtteVDf1yb4)

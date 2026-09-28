@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes and etcd: Common Pitfalls and How To Avoid Them - Arka Saha & Nabarun
   Pal, Broadcom"
-nav_order: 143
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session focused on common pitfalls and best practices for managing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Attendees were encouraged to consult the official etcd operational guide and use
 |  20 | Join the sig-etcd Slack channel and check the etcd-diagnosis                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wj9UQDcRSWA/hqdefault.jpg)](https://www.youtube.com/watch?v=wj9UQDcRSWA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wj9UQDcRSWA)

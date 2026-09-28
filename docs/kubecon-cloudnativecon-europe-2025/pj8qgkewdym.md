@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Sailing Multi-Host Inference with LWS - Kante Yin,
   Maintainer"
-nav_order: 258
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Kent, introduces himself as a software engineer from Dark
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ With its stable set foundation, Little Work Set offers various capacities, inclu
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PJ8qgKEwDyM/hqdefault.jpg)](https://www.youtube.com/watch?v=PJ8qgKEwDyM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PJ8qgKEwDyM)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Questions Not Asked: A Critical Retrospective on... Whitney L, Ram I Daniel
   B, Kunal K, Aditya S"
-nav_order: 316
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The panel discussion focused on the challenges of small teams and smaller
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The panelists also discussed the role of AI, observability, and developer experi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HsXHSDyO9HU/hqdefault.jpg)](https://www.youtube.com/watch?v=HsXHSDyO9HU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HsXHSDyO9HU)

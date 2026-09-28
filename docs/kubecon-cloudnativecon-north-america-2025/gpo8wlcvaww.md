@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   But What About Reliability? - The Multi-Million Dollar Kubernetes Cost Op...
   Zain Malik & Nibir Bora
-nav_order: 35
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Zan Malik and Nibir discuss the challenges organizations
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Their key lessons are that there is no silver bullet; success requires deep unde
 |  16 | Additional Q&A covered VPA recommender data sources, network cost optimization, min replicas defaults, pod sizing, custom eviction tooling, and multicluster resource recommendation management. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GPo8WLCvaWw/hqdefault.jpg)](https://www.youtube.com/watch?v=GPo8WLCvaWw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GPo8WLCvaWw)

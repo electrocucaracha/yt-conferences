@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Leveraging the Little Known Features of Artifact Hub - Matt Farina, SUSE
-nav_order: 176
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses ArtifactHub, a CNCF incubating project that allows
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They demonstrate how ArtifactHub can be used to automate tasks and integrate wit
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HEhnch8Wpj8/hqdefault.jpg)](https://www.youtube.com/watch?v=HEhnch8Wpj8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HEhnch8Wpj8)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes-Native ≠ Cloud Native: Avoiding Architecture Theater - Prerit Munjal,
   Groupon"
-nav_order: 197
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker, a senior technical product manager at Groupon, discusses
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Ultimately, he advocates for a pragmatic approach: focus on actual business need
 |  21 | 80% of incidents caused by operation                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/T1inWaulUyQ/hqdefault.jpg)](https://www.youtube.com/watch?v=T1inWaulUyQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=T1inWaulUyQ)

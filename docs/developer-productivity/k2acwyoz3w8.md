@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Help Your Boss Help You • Ken Kousen & Trisha Gee • GOTO 2021
-nav_order: 60
-parent: Developer Productivity
 type: Video Note
 description:
   Ken Kousen, a Java champion and author of "Help Your Boss Help You,"
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Kousen also discusses the challenges of being an employee, particularly when it 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/k2acwYoz3w8/hqdefault.jpg)](https://www.youtube.com/watch?v=k2acwYoz3w8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=k2acwYoz3w8)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Disaster Resilient Trino on Kubernetes: Multi-Cluster Setup With Karma...
   Sung Yun & Antoine Marthey"
-nav_order: 92
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, S and Antoine from Bloomberg detail the evolution
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The Q&A addressed deployment strategies, disaster recovery validation, integrati
 |  17 | Carmata is managed as a service at Bloomberg;                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vGjiXGdax98/hqdefault.jpg)](https://www.youtube.com/watch?v=vGjiXGdax98)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vGjiXGdax98)

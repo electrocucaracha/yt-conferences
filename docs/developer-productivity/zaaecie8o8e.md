@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Engineering for Software - How to Amplify Creativity • Dave Farley • YOW! 2022
-nav_order: 38
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the importance of adopting engineering principles
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ They argue that by adopting these principles, developers can create systems that
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZAAECIe8o8E/hqdefault.jpg)](https://www.youtube.com/watch?v=ZAAECIe8o8E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZAAECIe8o8E)

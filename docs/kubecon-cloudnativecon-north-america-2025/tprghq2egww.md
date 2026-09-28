@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Day 3 Highlight: KubeCon + CloudNativeCon Atlanta 2025"
-nav_order: 54
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker is excited to be at KubeCon CloudNative Con Atlanta on day
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The event has been made possible by sponsors, members, contributors, and staff, 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TprGhQ2EGww/hqdefault.jpg)](https://www.youtube.com/watch?v=TprGhQ2EGww)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TprGhQ2EGww)

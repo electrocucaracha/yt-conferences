@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Run Your Data Layer In K8s With Vitess - Matt Lord,
   Maintainer"
-nav_order: 287
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker introduces themselves as a test maintainer at Planet Scale
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ They emphasize the importance of automated recovery, mentioning VTORC for orches
 |  25 | Presenter encourages attendees to visit the booth for follow-up questions.                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/podkclpdT9E/hqdefault.jpg)](https://www.youtube.com/watch?v=podkclpdT9E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=podkclpdT9E)

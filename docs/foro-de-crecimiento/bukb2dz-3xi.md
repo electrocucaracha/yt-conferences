@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Técnicas de Ventas y PNL: La Psicología Secreta para Cerrar Más | Marcelo
   Yaguna | Sesión 38"
-nav_order: 73
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Marcelo Yaguna, empresario y coach, comparte cómo
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Finalmente, subraya que la educación continua, la resiliencia ante el rechazo y
 |  23 | Jamás rendirse y tomar acción es esencial para cambiar la vida.                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bukB2DZ-3XI/hqdefault.jpg)](https://www.youtube.com/watch?v=bukB2DZ-3XI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bukB2DZ-3XI)

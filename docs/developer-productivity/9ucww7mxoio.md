@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Experiment to Innovate • Anders Toxboe • GOTO 2019
-nav_order: 40
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the importance of experimentation in innovation,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Ultimately, the speaker's goal is to help "turret builders" (product developers)
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9UCww7mxOio/hqdefault.jpg)](https://www.youtube.com/watch?v=9UCww7mxOio)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9UCww7mxOio)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Don't Let Your Kubernetes Cluster Go Wild: Ensuring Etcd Reli... Arka Saha
   & Chun-Hung (Henry) Tseng"
-nav_order: 75
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The ATC (Aerospike Time-Series Database) team presents a robustness test
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The team plans to integrate anti-thesis integration to improve the test suite an
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/J93U9n_qxSI/hqdefault.jpg)](https://www.youtube.com/watch?v=J93U9n_qxSI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=J93U9n_qxSI)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Prometheus V3 One Year In: OpenMetrics 2.0 and More! - Jan Fajerski & Bartłomiej
   Płotka"
-nav_order: 302
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation provides an overview of recent developments and future
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes with a call for user feedback, ongoing work on metric sche
 |  18 | Community: new governance to ease contributor onbo                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6vE9b6StC0g/hqdefault.jpg)](https://www.youtube.com/watch?v=6vE9b6StC0g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6vE9b6StC0g)

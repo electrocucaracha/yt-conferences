@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Slinky Expanded: Slurm, Kubernetes, and DRA - Praveen Krishna, Google & Marlow
   Warnicke, SchedMD LLC"
-nav_order: 333
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Marlo Boricki from Nvidia and Pravin from Google present Slinky, a set
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The session concludes with a live demo, audience Q&A, and an invitation for feed
 |  21 | S                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Gy2_BwETo3M/hqdefault.jpg)](https://www.youtube.com/watch?v=Gy2_BwETo3M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Gy2_BwETo3M)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Making Platform Engineering Accessible: From Newcomer To Power... Luke Philips
   & Julia Furst Morgado"
-nav_order: 160
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Julia and Luke, both platform engineers from different backgrounds, discuss
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Ultimately, they conclude that platforms should be treated as products—iterati
 |  21 | Cultural challenges, such as rewarding shipping in isolation, ca                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1GdXF5fFjpY/hqdefault.jpg)](https://www.youtube.com/watch?v=1GdXF5fFjpY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1GdXF5fFjpY)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Stateful Superpowers: Explore High Performa... Alex Chircop, Chris Milsted
   & Alex Reid, Lori Lorusso"
-nav_order: 318
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=JtMYdR50-KU
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -38,5 +35,7 @@ They emphasize the importance of open-source solutions and collaboration among c
 |   7 | Operators can help manage scaling by identifying hotspots and distributing resources across the cluster.                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JtMYdR50-KU/hqdefault.jpg)](https://www.youtube.com/watch?v=JtMYdR50-KU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JtMYdR50-KU)

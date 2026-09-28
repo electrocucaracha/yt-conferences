@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Soñar Te Transforma – Lourdes Enríquez | Sesión 37
-nav_order: 66
-parent: Foro De Crecimiento
 type: Video Note
 description:
   El video explora la importancia de soñar como motor de transformación
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Finalmente, se invita a los espectadores a crear un “sueñógrafo” y a poner
 |  17 | El reto práctico es crear un “sueñógrafo” o cartelera de sueños para visualizar y motivar la acción.                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XBCX876DKtg/hqdefault.jpg)](https://www.youtube.com/watch?v=XBCX876DKtg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XBCX876DKtg)

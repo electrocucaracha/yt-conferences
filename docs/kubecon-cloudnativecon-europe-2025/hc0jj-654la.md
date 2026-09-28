@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Life (or Death) of a Kubernetes API Request, 2025 Edition - Abu Kashem
   & Stefan Schimanski
-nav_order: 337
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Hc0jj-654lA
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ The API server returns a successful response to the client, and if necessary, re
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Hc0jj-654lA/hqdefault.jpg)](https://www.youtube.com/watch?v=Hc0jj-654lA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Hc0jj-654lA)

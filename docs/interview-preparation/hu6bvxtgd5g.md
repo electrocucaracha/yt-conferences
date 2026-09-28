@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Don't Get Down-Leveled or How to Tell a Good Story (From a Principal at Amazon)
-nav_order: 4
-parent: Interview Preparation
 type: Video Note
 description:
   Down leveling occurs when companies extend an offer at a lower level
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ By doing so, candidates can make it easy for interviewers to assess their level 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hU6BVxtGd5g/hqdefault.jpg)](https://www.youtube.com/watch?v=hU6BVxtGd5g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hU6BVxtGd5g)

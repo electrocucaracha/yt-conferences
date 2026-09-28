@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Visualizing GitOps: A Tour of Flux UIs in the Open Source Ecosystem - Stefan
   Prodan, ControlPlane"
-nav_order: 388
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker provides an overview of recent developments in the Flux ecosystem,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Future plans include enhancing the developer experience and adding dedicated sup
 |  20 | Supports all CRDs with custom dashboards, workload views, and safe actions based on Kubernetes RBAC.                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pSfmhblzE-Y/hqdefault.jpg)](https://www.youtube.com/watch?v=pSfmhblzE-Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pSfmhblzE-Y)

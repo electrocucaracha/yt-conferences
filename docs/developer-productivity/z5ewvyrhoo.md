@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Software Design X-Rays Part 1/2 • Adam Tornhill & Sven Johann • GOTO 2021
-nav_order: 119
-parent: Developer Productivity
 type: Video Note
 description:
   Adam Tornhill, a programmer and psychologist, shares his insights on
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ These methods help organizations identify and address technical debt, improve ma
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-z5EWVyRhOo/hqdefault.jpg)](https://www.youtube.com/watch?v=-z5EWVyRhOo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-z5EWVyRhOo)

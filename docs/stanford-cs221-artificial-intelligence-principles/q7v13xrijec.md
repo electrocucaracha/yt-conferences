@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 15: Logic I"
-nav_order: 6
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture introduces logic as the final technical topic before moving
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finally, the lecture discusses satisfiability, model checking, and inference rul
 |  20 | Inference rules (e.g., modus ponens) allow deriving n                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Q7V13XriJEc/hqdefault.jpg)](https://www.youtube.com/watch?v=Q7V13XriJEc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q7V13XriJEc)

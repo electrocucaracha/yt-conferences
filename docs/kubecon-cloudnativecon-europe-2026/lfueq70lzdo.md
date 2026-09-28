@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Data on Kubernetes Day: Tuning Elastic on Kube... Luuk
   Stolk and Artur Gromek"
-nav_order: 56
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Arthur Groc and Luke Stalk from ING describe their experience
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The speakers emphasize the importance of context-aware testing and monitoring, n
 |  20 | Autojournal profile p                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/LFuEq70lZdo/hqdefault.jpg)](https://www.youtube.com/watch?v=LFuEq70lZdo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LFuEq70lZdo)

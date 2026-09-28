@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How Many Spark Applications Can Your Etcd Really Handle? - João Soares & João
   Azevedo, Feedzai
-nav_order: 141
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Jean Asveu and Jean Swage from FISA discuss their
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Their key lessons emphasize minimizing custom resource size, limiting status upd
 |  22 | High object churn in                                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jmz8c3oEmPY/hqdefault.jpg)](https://www.youtube.com/watch?v=jmz8c3oEmPY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jmz8c3oEmPY)

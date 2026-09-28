@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "De Cero a 32 Clínicas: El Éxito Empresarial de Jackie Nuñez | sesión de crecimiento
   #7"
-nav_order: 13
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Jacki Núñez comparte su inspiradora historia de emprendimiento
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Finalmente, aconseja a los emprendedores tener metas claras, perseverar ante las
 |  21 | El mensaje final: perseverancia, visión, claridad y no desanimarse ante las dificultades.                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vDO37nxW5OQ/hqdefault.jpg)](https://www.youtube.com/watch?v=vDO37nxW5OQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vDO37nxW5OQ)

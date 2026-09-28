@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Discover Cortex: High Scalability Metrics in 2026 - Friedrich Gonzalez & Charlie
   Le, Apple"
-nav_order: 93
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Charlie and Frederick, software engineers at Apple and maintainers of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -66,5 +63,7 @@ The session concluded with a Q&A addressing differences and shared features betw
 |  30 | Overrides API allows users t                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PCeS4YLKTwg/hqdefault.jpg)](https://www.youtube.com/watch?v=PCeS4YLKTwg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PCeS4YLKTwg)

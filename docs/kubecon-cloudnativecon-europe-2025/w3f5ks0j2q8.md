@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Scalable DNS With CoreDNS Plugins: A Deep Dive - Yong Tang, Ivanti & John
   Belamaric, Google"
-nav_order: 295
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Cord DNS project is a general-purpose DNS server that offers flexibility
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ This feature can help address the scaling limitations of Cord DNS, particularly 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/W3f5Ks0j2Q8/hqdefault.jpg)](https://www.youtube.com/watch?v=W3f5Ks0j2Q8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=W3f5Ks0j2Q8)

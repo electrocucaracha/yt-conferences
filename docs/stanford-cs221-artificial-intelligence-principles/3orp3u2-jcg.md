@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 17: Language Models"
-nav_order: 8
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture provides an overview of language models, emphasizing their
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Finally, it addresses the current landscape, where both closed and open-source l
 |  17 | LLMs are now primarily developed by organizations; open and closed mode                                                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3orP3u2-jcg/hqdefault.jpg)](https://www.youtube.com/watch?v=3orP3u2-jcg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3orP3u2-jcg)

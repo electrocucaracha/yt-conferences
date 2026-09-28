@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Cloud Native University: Introduction to GitOps - Chris
   Plank, NatWest"
-nav_order: 47
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Chris Plank, a CNCF platform engineering community leader and UK bank
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Plank concludes by recommending free Linux Foundation training resources and Flu
 |  20 | Chris prefers Flux over Argo.                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/v3SkICW7_aw/hqdefault.jpg)](https://www.youtube.com/watch?v=v3SkICW7_aw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=v3SkICW7_aw)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Typed Composition with MCP - Solomon Hykes from Dagger"
-nav_order: 4
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   The speaker, co-founder of Dagger.io, introduces their build engine designed
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The presentation concludes by emphasizing Dagger’s extensibility and the ongoi
 |  18 | Main discussion topics: obj                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1NFfkIEVJbQ/hqdefault.jpg)](https://www.youtube.com/watch?v=1NFfkIEVJbQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1NFfkIEVJbQ)

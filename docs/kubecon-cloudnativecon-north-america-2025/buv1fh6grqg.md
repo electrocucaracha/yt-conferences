@@ -1,8 +1,5 @@
 ---
-layout: default
 title: GitOps Without Variables - Brian Grant & Alexis Richardson, ConfigHub Inc.
-nav_order: 91
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Brian Grant, the original architect of Kubernetes, discusses the challenges
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ By separating data from programmatic logic, Config Hub enables more efficient an
 |   9 | The key takeaway is to separate data from programmatic changes, using a fully rendered, explicit configuration model.                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/buv1fh6grqg/hqdefault.jpg)](https://www.youtube.com/watch?v=buv1fh6grqg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=buv1fh6grqg)

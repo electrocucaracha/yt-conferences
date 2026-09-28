@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Invisible FinOps and Compliance: Shift Left With Cloud
   Custodian - Sonny Shi"
-nav_order: 220
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Sonia, head of product at Stacklet and maintainer of the Cloud Custodian
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Sonia advises starting with simple, sensible policies, socializing them within t
 |  22 | Invitation to check out Cloud Custodian, visit the booth at KubeCon, join the Slack channel, and attend bi-weekly community meetings. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PDkkn5ct_Ek/hqdefault.jpg)](https://www.youtube.com/watch?v=PDkkn5ct_Ek)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PDkkn5ct_Ek)

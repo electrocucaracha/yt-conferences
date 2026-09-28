@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Most Important Skill You Need for Persuading and Influencing People [Persuasion
   - Part 2 of 3]
-nav_order: 76
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ The episode is part two of a three-part series on persuasion, with further resou
 |  10 | The episode is part two of a three-part series on persuasion, with links to related episodes provided in the description.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Q1ARQB89n5k/hqdefault.jpg)](https://www.youtube.com/watch?v=Q1ARQB89n5k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q1ARQB89n5k)

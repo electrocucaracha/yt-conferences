@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: The Future of Cloud Native Is… Agentic - Lin Sun, Head of Open Source,
   Solo.io"
-nav_order: 185
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker recounts their experiences attending Cube Con, highlighting
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Concluding, the speaker emphasizes the importance of building and sharing more A
 |  21 | Encouraged building more MCP servers, AI agents, and skills, and sharing them openly to advance cloud native                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ttGYcUFCok0/hqdefault.jpg)](https://www.youtube.com/watch?v=ttGYcUFCok0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ttGYcUFCok0)

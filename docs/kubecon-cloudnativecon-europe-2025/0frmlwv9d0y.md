@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Kepler Project Updates - Sunyanan Choochotkaew, Maintainer"
-nav_order: 241
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Syan from IBM Research introduces the Kepler project, a research initiative
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ The team has been working on lightweight solutions, leveraging EVPF technologies
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0FrmlwV9D0Y/hqdefault.jpg)](https://www.youtube.com/watch?v=0FrmlwV9D0Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0FrmlwV9D0Y)

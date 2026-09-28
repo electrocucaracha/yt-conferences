@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Message In, Job Out: Build Event-Driven Workflows in Kubernetes Using... Colin
   Lacy & Grace Brickley"
-nav_order: 168
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Colin Lacy and Grace Brickley, software engineers
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The solution meets their non-functional requirements by minimizing compute costs
 |  23 | Demo: Fully automated onboarding workflow using NATS, CloudEvents, Speltos, and Kubernetes                                                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/IvvuZiTkGZU/hqdefault.jpg)](https://www.youtube.com/watch?v=IvvuZiTkGZU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IvvuZiTkGZU)

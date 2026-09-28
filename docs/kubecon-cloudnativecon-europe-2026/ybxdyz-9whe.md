@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble
   & Márk Sági-Kazár
-nav_order: 189
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Marcus Noble and Mark Shagi Kazar, both experienced Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Throughout, they invite the audience to share their own Kubernetes oddities and 
 |  19 | Additional resou                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ybxDYZ-9wHE/hqdefault.jpg)](https://www.youtube.com/watch?v=ybxDYZ-9wHE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ybxDYZ-9wHE)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Summarizing the Noise: LLM Observability With Open Data Hub,
   VLLM... Twinkll Sisodia"
-nav_order: 152
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Twinkle Sodia, a senior software engineer at Red Hat, presents an open-source
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The solution aims to simplify AI infrastructure monitoring, making insights acce
 |  16 | GitHub repository is available for those interested in contributing or exploring the project.                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QFH8nfWt8Es/hqdefault.jpg)](https://www.youtube.com/watch?v=QFH8nfWt8Es)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QFH8nfWt8Es)

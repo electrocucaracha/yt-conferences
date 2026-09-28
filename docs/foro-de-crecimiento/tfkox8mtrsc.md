@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Mentor de emprendedores: Tu vida en 5 años depende de lo que haces hoy | Theo
   Galan Jr."
-nav_order: 59
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Theo Galán Junior, empresario y conferencista internacional,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Finalmente, Theo subraya la importancia de soñar, servir a los demás y correr 
 |  21 | Lo importante es cómo se corre la carrera de la vida, con corazón, espíritu y mente dominada.              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TFKOX8mTRsc/hqdefault.jpg)](https://www.youtube.com/watch?v=TFKOX8mTRsc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TFKOX8mTRsc)

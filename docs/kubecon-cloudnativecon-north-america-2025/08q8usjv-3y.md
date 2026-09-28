@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Kubernetes SIG-Windows Updates - Mark Rossetti, Microsoft & Jose Valdes, Red
   Hat
-nav_order: 142
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Kubernetes SIG Windows project maintainer talk, led by Mark Rosetti
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The team emphasized the need for more community contributions, particularly to a
 |  19 | Request for feedback and use cases from the community;                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/08q8UsJV_3Y/hqdefault.jpg)](https://www.youtube.com/watch?v=08q8UsJV_3Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=08q8UsJV_3Y)

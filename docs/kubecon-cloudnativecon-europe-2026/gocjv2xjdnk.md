@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "KubeVirt's Evolution: Governance, Features, and Community Growth - Sreeja
   Varnam & Luboslav Pivarc"
-nav_order: 190
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Lo Slapage and Sria present on the evolution and management of the KubeVirt
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ They also discuss community practices, such as open meetings and distributing re
 |  21 | Project management is handled by maintainers and SIGs, with processes evol                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/goCjV2xJDnk/hqdefault.jpg)](https://www.youtube.com/watch?v=goCjV2xJDnk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=goCjV2xJDnk)

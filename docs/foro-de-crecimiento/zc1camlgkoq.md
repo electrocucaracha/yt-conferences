@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Domina el Escenario \U0001F3A4: Secretos para Hablar en Público | Paco Benitez
   sesión de crecimiento #6"
-nav_order: 16
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta conversación, Paco Benítez, coach de conferencistas, comparte
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Además, ofrece recomendaciones prácticas sobre lenguaje corporal, manejo de ne
 |  25 | El “por qué” es más importante que el “cómo”; tener un propósito genuino es esencial. Ratings (1-5): 4                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Zc1CaMlgKoQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Zc1CaMlgKoQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Zc1CaMlgKoQ)

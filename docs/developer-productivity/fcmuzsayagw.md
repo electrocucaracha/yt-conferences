@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How Microteams Change the Way We Collaborate. Again • Sander Hoogendoorn •
   GOTO 2021
-nav_order: 50
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the rapid pace of change in technology, citing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The speaker argues that traditional approaches like waterfall and scrum can be l
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fCMuzSAyAGw/hqdefault.jpg)](https://www.youtube.com/watch?v=fCMuzSAyAGw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fCMuzSAyAGw)

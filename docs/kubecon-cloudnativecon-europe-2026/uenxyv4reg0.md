@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How Will Customized Kubernetes Distributions Work... Michael M, Joel S, Bridget
   K, Jesse B & Bowei D
-nav_order: 147
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The panel discussed the concept of customized Kubernetes distributions,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Ultimately, the panel agreed that a minimal, standardized foundation for Kuberne
 |  23 | Minimal foundational distributions could                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/UeNxyv4REg0/hqdefault.jpg)](https://www.youtube.com/watch?v=UeNxyv4REg0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UeNxyv4REg0)

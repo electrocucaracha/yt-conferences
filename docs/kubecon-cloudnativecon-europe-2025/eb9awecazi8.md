@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Buildpacks: Pragmatic Solutions To Quick and Secure Image Builds - Juan Bustamante
   & Aidan Delaney"
-nav_order: 37
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Cloud Native Build Pack project allows users to transform application
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The build packs also offer features like rebase, dependency mirrors, and secure 
 |  17 | Key features of the cloud native build pack project: + Fast rebuilds due to small, focused layers. + Software bill of materials (SBOM) for secure image deployment. + Co-sign support for provenance certificates. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Eb9AweCazi8/hqdefault.jpg)](https://www.youtube.com/watch?v=Eb9AweCazi8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Eb9AweCazi8)

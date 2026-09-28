@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: When Falco Spots Trouble, The Shark Swims In - Gerald
   Combs"
-nav_order: 244
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Gerald Combmes, creator of Wireshark and a Falco maintainer, discusses
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Gerald concludes by encouraging further exploration of both tools and expressing
 |  19 | Gerald thanks the open source community for his career.                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/phndUkSlIvs/hqdefault.jpg)](https://www.youtube.com/watch?v=phndUkSlIvs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=phndUkSlIvs)

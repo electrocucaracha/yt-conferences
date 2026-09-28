@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Metal3.io’s Path to CNCF Incubation: Governance, Processes, and Comm... Kashif
   Khan & Dmitry Tantsur"
-nav_order: 218
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The talk details the journey of the metalcube.io project from CNCF sandbox
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The speakers highlight that CNCF readiness requires as much focus on governance 
 |  16 | Maintained a public list of adopters and integrations to                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/yKt6hUHzh2M/hqdefault.jpg)](https://www.youtube.com/watch?v=yKt6hUHzh2M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yKt6hUHzh2M)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Catch Up With Crossplane v2 - Scott Rosenberg, Contributor"
-nav_order: 209
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Scott Rosenberg introduces Crossplane v2, highlighting
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Additional improvements include better provider generation with upjet, Terraform
 |  21 | Documentation has been revamped for easier use.                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mr_zhO2lV2w/hqdefault.jpg)](https://www.youtube.com/watch?v=mr_zhO2lV2w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mr_zhO2lV2w)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Tool Abstraction Problem: Lessons Learned Building 1000+ MCP Tools - Sam
   Partee, Arcade.dev"
-nav_order: 94
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker discusses the concept of tool abstraction, drawing on extensive
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The talk concludes by urging ongoing attention to description quality and though
 |  17 | Descriptions are the key lever for tool effectiveness; continually optimize them.                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ddvDuSJgGZY/hqdefault.jpg)](https://www.youtube.com/watch?v=ddvDuSJgGZY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ddvDuSJgGZY)

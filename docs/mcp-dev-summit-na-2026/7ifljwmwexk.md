@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From One MCP Server To an Ecosystem: When MCP Stops Being a Server and Becomes
   a Pla... Vaibhav Tuple"
-nav_order: 29
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this session, the speaker from Equinix discusses the journey and challenges
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The talk concludes with key takeaways: confining domains, using tags and skills 
 |  24 | Breaking up mega MCP servers requires customer/agent workflow-centric domain define Ratings (1-5): 3                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7iFLJwMWEXk/hqdefault.jpg)](https://www.youtube.com/watch?v=7iFLJwMWEXk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7iFLJwMWEXk)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Ambient Global Compute: Orchestrating the Non-Elastic Cloud With Kubernetes
   - Jago Macleod, Google"
-nav_order: 14
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   JGO Mloud discusses the evolution of public cloud computing, highlighting
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Ultimately, while the cloud has not fully come "full circle," it now requires a 
 |  20 | New caching solutions (e.g., anywhere cache) improve data locality and utilization                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/r-UBNuWkUG8/hqdefault.jpg)](https://www.youtube.com/watch?v=r-UBNuWkUG8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r-UBNuWkUG8)

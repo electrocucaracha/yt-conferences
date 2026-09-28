@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: FluxCD - Gitops For All Sizes - Matheus Pimenta, Maintainer"
-nav_order: 263
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Matos Pimementa, a Flux maintainer at Control Plane, introduces Flux
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Pimementa concludes by inviting further discussion and highlighting ongoing impr
 |  22 | Plans for deeper trace correlation and visualization in the future.                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qln3o8Ol7pQ/hqdefault.jpg)](https://www.youtube.com/watch?v=qln3o8Ol7pQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qln3o8Ol7pQ)

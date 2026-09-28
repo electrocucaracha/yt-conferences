@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Resource Roulette: Winning the Kubernetes Allocation Game
   - Daniele Polencic"
-nav_order: 181
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Kubernetes' restore, requests, and limits are crucial concepts to understand
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ To mitigate this, tools like Horizontal Pod Autoscaler (HPA) and other machine l
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/f6gYxJOr0yQ/hqdefault.jpg)](https://www.youtube.com/watch?v=f6gYxJOr0yQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=f6gYxJOr0yQ)

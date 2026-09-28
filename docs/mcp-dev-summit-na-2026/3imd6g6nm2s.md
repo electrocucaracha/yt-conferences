@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Dynamic MCPs: Agentic Discovery, Configuration, and Management of MCP Workloads
   - Jim Clark, Docker"
-nav_order: 19
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Jim Clark discusses his experiences and insights on the evolution of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Throughout, Clark emphasizes the need for agents to efficiently select and confi
 |  21 | Security and curation are important for                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3imd6g6nM2s/hqdefault.jpg)](https://www.youtube.com/watch?v=3imd6g6nM2s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3imd6g6nM2s)

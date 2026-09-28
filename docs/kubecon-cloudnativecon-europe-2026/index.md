@@ -1,10 +1,3 @@
----
-layout: default
-title: "Kubecon Cloudnativecon Europe 2026"
-has_children: true
-nav_order: 8
----
-
 # Kubecon Cloudnativecon Europe 2026
 
 ## Executive Overview

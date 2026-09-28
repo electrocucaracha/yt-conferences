@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Introduction to OpenAPI • Lorna Jane Mitchell • GOTO 2019
-nav_order: 72
-parent: Developer Productivity
 type: Video Note
 description:
   Lorna, a developer advocate at Next MOU (now Vonage), discusses the importance
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ By leading with the spec, developers can ensure that their APIs are well-designe
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/s9u3mXQZbXI/hqdefault.jpg)](https://www.youtube.com/watch?v=s9u3mXQZbXI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=s9u3mXQZbXI)

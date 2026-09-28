@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Rock, Paper, Scissors! Build an AI-powered Interactive Game With
   Argo CD and Kubeflow"
-nav_order: 353
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker is introducing a game that uses a multi-user interface, where
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ After completing the game, participants are encouraged to rate the session, prov
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YvXCcSjXKEQ/hqdefault.jpg)](https://www.youtube.com/watch?v=YvXCcSjXKEQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YvXCcSjXKEQ)

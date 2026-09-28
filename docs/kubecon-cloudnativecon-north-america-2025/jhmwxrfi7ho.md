@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: What's New In Kubernetes Storage - Xing Yang"
-nav_order: 242
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this project lightning talk for SIG Storage, Shing Yang from VMware
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The talk concludes with an invitation for community involvement and information 
 |  16 | Community involvement is encouraged; related sessions and events are available at KubeCon.                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JhMwxRfi7Ho/hqdefault.jpg)](https://www.youtube.com/watch?v=JhMwxRfi7Ho)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JhMwxRfi7Ho)

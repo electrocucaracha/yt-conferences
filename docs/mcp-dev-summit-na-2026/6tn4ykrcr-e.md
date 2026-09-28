@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Boring Attack That Will Actually Get You - Craig Jellick, Obot AI
-nav_order: 91
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Craig Jelik, VP of Engineering at Obot, emphasizes the
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -73,5 +70,7 @@ The talk concludes with practical recommendations and resources for developers t
 |  39 | Use secure build pipelines, pin depend Ratings (1-5): 4                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6Tn4YKRcR-E/hqdefault.jpg)](https://www.youtube.com/watch?v=6Tn4YKRcR-E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6Tn4YKRcR-E)

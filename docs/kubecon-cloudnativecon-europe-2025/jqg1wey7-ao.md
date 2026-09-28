@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Mind the Gap: Bridging Cloud Native Innovation with Real-World Use"
-nav_order: 152
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   HSBC's Kubernetes journey began in 2018, with hundreds of clusters supporting
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -39,5 +36,7 @@ The company is now focusing on optimizing its core service and developing ways t
 |   7 | PCC ensures privacy and security at every step, using Swift's security properties and high-performance capabilities.                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JqG1wey7-Ao/hqdefault.jpg)](https://www.youtube.com/watch?v=JqG1wey7-Ao)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JqG1wey7-Ao)

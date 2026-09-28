@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "CafeGPT: Serving LLMs Like Coffee With Kubernetes - Madhav Jivrajani & Kartik
   Ramesh, UIUC"
-nav_order: 38
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Madav and Karthik introduce "Cafe GPT," using a coffee
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Ultimately, they reassure the audience that serving LLMs can be approachable and
 |  18 | Autos                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zMArlA0rPsM/hqdefault.jpg)](https://www.youtube.com/watch?v=zMArlA0rPsM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zMArlA0rPsM)

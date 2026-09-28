@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Apply Up for a Position One Level Higher in Engineering and Tech Nader
   Mowlaee Part 1 of 2
-nav_order: 19
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, the host welcomes engineering career coach Nader Malai
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Nader concludes by stressing the need for engineers to be strategic, adaptable, 
 |  15 | Part two will cover resume building, interview delivery, and LinkedIn optimization.                                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/E59RxG41Af0/hqdefault.jpg)](https://www.youtube.com/watch?v=E59RxG41Af0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E59RxG41Af0)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes Network Driver Unpacked: Modularity, Tra... Lionel J, Sebastian
   S, Antonio O & Sunyanan C"
-nav_order: 193
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this panel discussion, experts from Google, Red Hat, IBM, and Reddit
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The discussion concludes with insights into current and future driver availabili
 |  16 | Community is working on portabilit                                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/xJ9R7NNZMyQ/hqdefault.jpg)](https://www.youtube.com/watch?v=xJ9R7NNZMyQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xJ9R7NNZMyQ)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: OVN-Kubernetes: Scalable, Production-Grade Networking...
   Surya Seetharaman"
-nav_order: 233
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Surya, an engineer at Red Hat and maintainer of the OVN Kubernetes project,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Looking ahead, the project aims to add support for EVPN to extend network isolat
 |  17 | Community involvement: site QR code, CNCF Slack channel, alternate Monday community meetings, kiosk 15A at CubeCon.                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5SP7RS_DnIE/hqdefault.jpg)](https://www.youtube.com/watch?v=5SP7RS_DnIE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5SP7RS_DnIE)

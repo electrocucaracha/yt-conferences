@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Supercharge Cloud Native SQL Database With Object Storage: Scaling TiKV With
   S3 as... Jinpeng Zhang"
-nav_order: 295
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker discusses scaling databases with S3 at the backbone, focusing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -44,5 +41,7 @@ The speaker also highlights benefits such as reduced storage costs, centralized 
 |   9 | The speaker's team has found it straightforward to use Taqi across different cloud object stores like S3 and GCS.                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jDlAdMEMZgs/hqdefault.jpg)](https://www.youtube.com/watch?v=jDlAdMEMZgs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jDlAdMEMZgs)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native AI: Harness the Power of Advanced Scheduling for High-P... William
   Wang & Xuzheng Chang"
-nav_order: 44
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The presentation discusses the Volcano project, a cloud-native AI infrastructure
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Volcano is an open-source project with a growing community, and its future devel
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/yCyezOTVU_Y/hqdefault.jpg)](https://www.youtube.com/watch?v=yCyezOTVU_Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yCyezOTVU_Y)

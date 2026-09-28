@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Breaking the Monolith: Decomposing and Governing Giant LLM Jobs Across Clusters
   - Kevin Wang, Huawei"
-nav_order: 31
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Kevin Juan discusses his experience as a maintainer and member of the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Kevin highlights ongoing improvements, such as smarter job splitting policies an
 |  21 | Volcano Global manages global queue and prioritizes workloads; gang scheduling                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tCeWbdekqJE/hqdefault.jpg)](https://www.youtube.com/watch?v=tCeWbdekqJE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tCeWbdekqJE)

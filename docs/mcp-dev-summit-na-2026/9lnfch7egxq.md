@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Hooks, Not Hacks: Modular Enforcement for MCP Agents - Fred Araujo & Ian Molloy,
   IBM"
-nav_order: 33
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The video discusses the security challenges posed by autonomous agents,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The demo illustrates how CPax can enforce attribute-based policies, manage ident
 |  17 | Demo showed role-based redaction of sensitive data and prevention of unauthorized                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9lNFch7eGxQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9lNFch7eGxQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9lNFch7eGxQ)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Perses General Overview - Augustin Husson, Maintainer"
-nav_order: 285
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Augustin, a maintainer of Perses, introduces the project as a CNCF sandbox
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The community is growing, and interested users can connect via the official site
 |  21 | Encourages starring the project on GitHub.                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fZYp4btZaTg/hqdefault.jpg)](https://www.youtube.com/watch?v=fZYp4btZaTg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fZYp4btZaTg)

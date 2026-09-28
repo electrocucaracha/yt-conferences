@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: From Tokens To Partitions: Rethinking Data Distribution
   In... Daniel Blando"
-nav_order: 217
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Daniel, a maintainer of Cortex, discusses the challenges faced in scaling
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Daniel concludes by announcing the release of Cortex version 1, highlighting new
 |  19 | Community engagement is encouraged, with channels available for contact and a kiosk at the pavilion.                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hlDqFMdXPQ8/hqdefault.jpg)](https://www.youtube.com/watch?v=hlDqFMdXPQ8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hlDqFMdXPQ8)

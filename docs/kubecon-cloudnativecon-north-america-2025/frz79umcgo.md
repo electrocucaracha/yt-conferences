@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Efficient Kubernetes Autoscaling: News, Challenges, and Best Practi... Zbynek
   Roubalik & Jan Wozniak"
-nav_order: 67
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, Jan and Binak, both maintainers of KEDA (pronounced
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ The presenters conclude by inviting attendees to provide feedback and visit thei
 |  23 | Kify booth offers further discussion                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-frz79uMCgo/hqdefault.jpg)](https://www.youtube.com/watch?v=-frz79uMCgo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-frz79uMCgo)

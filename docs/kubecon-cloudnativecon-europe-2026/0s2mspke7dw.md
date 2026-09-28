@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Data on Kubernetes Day: KubeVirt Benchmar... Bhumitra
   Nagar & Dhruv Bhatnagar"
-nav_order: 54
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video discusses real-world challenges faced by organizations migrating
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The presenters demonstrate Wordbench’s capabilities, share customer use cases,
 |  16 | Wordbench is open source; contributions are welcome via wordbench.io.                                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0s2mSPkE7dw/hqdefault.jpg)](https://www.youtube.com/watch?v=0s2mSPkE7dw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0s2mSPkE7dw)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Optimize Sidecarless Service Mesh With A Brand-New
   Rust-Base... Zengzeng Yao"
-nav_order: 284
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Yaoenzen from Huawei introduces a new approach to optimizing service
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Benchmarks show Orion achieves 2–4 times higher throughput and significantly l
 |  16 | Invitation to join the Kmesh community.                                                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/knX673N1jKM/hqdefault.jpg)](https://www.youtube.com/watch?v=knX673N1jKM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=knX673N1jKM)

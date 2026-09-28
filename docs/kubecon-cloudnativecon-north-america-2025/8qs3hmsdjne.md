@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Making Application Rollouts Observable, Actionable and Boring - Vasudev Bongale,
   LinkedIn
-nav_order: 159
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Vasuv, a software engineer at LinkedIn, discusses how his team improved
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ As a result, rollouts have become predictable and routine, freeing engineers to 
 |  19 | Rollout success rate i                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8QS3hmsDjNE/hqdefault.jpg)](https://www.youtube.com/watch?v=8QS3hmsDjNE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8QS3hmsDjNE)

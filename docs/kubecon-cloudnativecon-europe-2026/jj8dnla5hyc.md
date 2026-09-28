@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Making Topology-Aware Scheduling Practical for AI Workloads: From Discovery
   to Simula... Weizhou Lan"
-nav_order: 216
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Wulan, a senior tech lead at docloud, discusses making
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ For validation and testing, he recommends simulation tools like Cork and Nvidia 
 |  17 | Topo                                                                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Jj8DNLA5hYc/hqdefault.jpg)](https://www.youtube.com/watch?v=Jj8DNLA5hYc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Jj8DNLA5hYc)

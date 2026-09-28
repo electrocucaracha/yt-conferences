@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From 60 Minutes To 60 Seconds: Production MCP Workflows for Healthcare Billing
   - Andrew Espira"
-nav_order: 25
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Andre Spira, co-founder of Custod, discusses the challenges in healthcare
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Spira also highlights ongoing efforts to enhance security, integrate payer rules
 |  25 | Web craw Ratings (1-5): 3                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1lOWizbNBSg/hqdefault.jpg)](https://www.youtube.com/watch?v=1lOWizbNBSg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1lOWizbNBSg)

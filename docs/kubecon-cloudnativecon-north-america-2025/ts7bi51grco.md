@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Meta’s Kubernetes-based Portable AI Research Environment - Shaun Hopper, Meta
   & Navarre Pratt
-nav_order: 169
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Navar Pratt from CoreWeave and Sean Hopper from Meta describe
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The presenters emphasize the benefits of container-based login environments, the
 |  17 | Observability includes full stack metrics, logs,                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ts7bI51gRCo/hqdefault.jpg)](https://www.youtube.com/watch?v=ts7bI51gRCo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ts7bI51gRCo)

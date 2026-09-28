@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Session: Performance at Enterprise Cloud Scale: Coupa’s Ku... Peter
   Irwin & Carl Baumcratz"
-nav_order: 346
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Peter from ScaleOps and Carl from Koopa discuss
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The partnership with ScaleOps continues to evolve, emphasizing ongoing cost avoi
 |  19 | Key takeaways: manual tuning doesn't scale, automation unlocks ROI, cross-functional alignment accelerates adoption, and automation frees teams for higher priorities. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/yV8_keBkCJo/hqdefault.jpg)](https://www.youtube.com/watch?v=yV8_keBkCJo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yV8_keBkCJo)

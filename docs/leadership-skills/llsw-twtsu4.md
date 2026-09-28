@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Engineer Career Coach Shares Secrets on How to Apply Up and Get Promoted Part
   2 of 2
-nav_order: 13
-parent: Leadership Skills
 type: Video Note
 description:
   The video provides comprehensive advice for professionals aiming to move
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finally, they stress the value of confidence, influence, and building authentic 
 |  19 | Confidence, alignment with company values, and clear communication of your impact are crucial for leveling up.           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/llSw-twtsU4/hqdefault.jpg)](https://www.youtube.com/watch?v=llSw-twtsU4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=llSw-twtsU4)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Building a Closed-Source AI DevTool for Open Source and Enterprise - Devin
   Stein, Dosu
-nav_order: 33
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Devin Stein, founder and CEO of DOSU, discusses the rationale and success
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Stein concludes that open source maintainers are receptive to closed source solu
 |  16 | Documentation is managed similarly to code, with versioning and integration into                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NWt6aXn6pDE/hqdefault.jpg)](https://www.youtube.com/watch?v=NWt6aXn6pDE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NWt6aXn6pDE)

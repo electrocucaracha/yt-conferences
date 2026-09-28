@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Will Low Code/No Code Kill Programming Jobs? • Dave Farley • GOTO 2022
-nav_order: 146
-parent: Developer Productivity
 type: Video Note
 description:
   Low-code solutions aim to simplify software development, but their limitations
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Professional developers need to recognize these limitations and continue to deve
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iD2GOvfJy28/hqdefault.jpg)](https://www.youtube.com/watch?v=iD2GOvfJy28)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iD2GOvfJy28)

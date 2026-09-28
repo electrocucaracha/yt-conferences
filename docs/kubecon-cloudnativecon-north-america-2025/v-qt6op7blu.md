@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Design Patterns for Consistent Centralized Authorization - José Padilla & Alice
   Gibbons
-nav_order: 59
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, Alice Gibbons from Diagrid and Jose Padija from Ozero
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ A live demo illustrates how Dapr workflows, combined with OpenFGA, can manage or
 |  19 | Per                                                                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/v-Qt6op7BLU/hqdefault.jpg)](https://www.youtube.com/watch?v=v-Qt6op7BLU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=v-Qt6op7BLU)

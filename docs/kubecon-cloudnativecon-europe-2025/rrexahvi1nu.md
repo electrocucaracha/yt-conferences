@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: What’s New in Kuma: Advanced Service Mesh Capabilities
   - Marcin Skalski"
-nav_order: 271
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Martin from Kong discusses the latest updates in Kuma, an envoy-based
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The new kind data plane simplifies configuration by allowing users to select wor
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rRExAhVI1nU/hqdefault.jpg)](https://www.youtube.com/watch?v=rRExAhVI1nU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rRExAhVI1nU)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: CNCF Sandbox Project K8Up Under The Hood - Aarno Aukia,
   Maintainer"
-nav_order: 255
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker, a maintainer of the KUP CNCF sandbox project, discusses
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The project, introduced at KubeCon Barcelona 2019, invites contributors from var
 |  21 | Invitation to connect via Slack or at the project pavilion at KubeCon                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NtXvB9gWTu8/hqdefault.jpg)](https://www.youtube.com/watch?v=NtXvB9gWTu8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NtXvB9gWTu8)

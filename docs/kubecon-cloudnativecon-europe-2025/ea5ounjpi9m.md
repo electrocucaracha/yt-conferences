@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Redesigning Ingress: Docker’s Transition To the Next-Gen Gate... Kateryna
   Nezdolii & Ryan Hristovski"
-nav_order: 281
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Katina Onesik and Ryan, an infrastructure engineer at Docker, presented
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ They are now planning to work on zone-aware routing, deprecating EngineX, and jo
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Ea5OuNjpi9M/hqdefault.jpg)](https://www.youtube.com/watch?v=Ea5OuNjpi9M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ea5OuNjpi9M)

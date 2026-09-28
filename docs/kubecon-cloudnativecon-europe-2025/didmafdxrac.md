@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Building a Ubiquitous Cloud Native: Beyond the Intersectionality"
-nav_order: 36
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Cloud Native Computing Foundation (CNCF) hosts community-driven meetups
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ By sharing best practices and resources, CNCF chapters can learn from each other
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/didMaFDxRAc/hqdefault.jpg)](https://www.youtube.com/watch?v=didMaFDxRAc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=didMaFDxRAc)

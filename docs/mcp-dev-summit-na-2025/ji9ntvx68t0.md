@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "MCP Registry: Designing For Server Discovery Tadas A. (PulseMCP) Alex H.(Block),
   and Toby P.(GitHub)"
-nav_order: 2
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   The video introduces the official MCP server registry, aiming to consolidate
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ The demo showcases the publishing process and how different clients can leverage
 |  27 | Emphasis on ongoing community inv                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jI9NTVX68T0/hqdefault.jpg)](https://www.youtube.com/watch?v=jI9NTVX68T0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jI9NTVX68T0)

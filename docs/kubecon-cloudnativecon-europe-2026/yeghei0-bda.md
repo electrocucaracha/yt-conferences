@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Intelligent Routing for Optimized Inference - Antonio Berben, Solo.io & Felipe
   Vicens, Telefonica
-nav_order: 155
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Philipe Visense from Telefonica and Antonio from
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The presenters also address challenges such as observability, geolocation, and z
 |  18 | Lessons: everything can be agentic; skills enable distributed agent workflows; context and obs                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/yeGhei0-bDA/hqdefault.jpg)](https://www.youtube.com/watch?v=yeGhei0-bDA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yeGhei0-bDA)

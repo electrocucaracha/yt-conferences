@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Kubestronaut To Production Hero: Turning Study Paths Into Real-W... David
   Pech & Pedro Célestin"
-nav_order: 84
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Pedro Celestan and David, both members of the first batch of "golden
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ They conclude that while CNCF certifications provide structure and credibility, 
 |  15 | Practical, hands-on experience                                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/WPMCfv43xLo/hqdefault.jpg)](https://www.youtube.com/watch?v=WPMCfv43xLo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WPMCfv43xLo)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Closing Remarks"
-nav_order: 143
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The first day of CubeCon CloudNative Con concluded with an amazing set
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The event also thanks sponsors, program committee members, and track chairs for 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/IGK7TZPuma4/hqdefault.jpg)](https://www.youtube.com/watch?v=IGK7TZPuma4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IGK7TZPuma4)

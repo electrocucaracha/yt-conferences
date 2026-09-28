@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Mastering Leadership Adaptability - The Key to Climbing the Career Ladder
-nav_order: 34
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, the host discusses the growing need for adaptability among
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Practical tips include proactively building cross-functional relationships, embr
 |  23 | Curiosity about diffe                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RwDsoWAUiSU/hqdefault.jpg)](https://www.youtube.com/watch?v=RwDsoWAUiSU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RwDsoWAUiSU)

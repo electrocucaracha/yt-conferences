@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Multi-cluster Orchestration System: Karmada Updates and Use Cas... Hongcai
   Ren & Joe Nathan Abellard"
-nav_order: 199
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Joe, a maintainer of the Commander project, presented an overview of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ The presentation concluded with an overview of the Kamada community's growth and
 |   7 | The community is focused on improving performance, scalability, and the Comma dashboard user experience.                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rbVV8WIJYww/hqdefault.jpg)](https://www.youtube.com/watch?v=rbVV8WIJYww)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rbVV8WIJYww)

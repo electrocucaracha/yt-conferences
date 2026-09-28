@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Feature Flag Driven Development: Seamlessly Integrate Feature Flags... Kris
   Coleman & Michael Beemer"
-nav_order: 74
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Chris Coleman from Testify SAC discussed feature flag-driven development,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ Future directions include adding generated aspects, local flag overrides, and su
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YjAgUlhBV90/hqdefault.jpg)](https://www.youtube.com/watch?v=YjAgUlhBV90)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YjAgUlhBV90)

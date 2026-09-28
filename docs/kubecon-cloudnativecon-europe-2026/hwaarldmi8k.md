@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | KubeVirt Summit: Breaking the Performance Barrier...
   Jian Li & Yves Weisser"
-nav_order: 70
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Jen from SK Telecom and Eve from NetApp discuss
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ A real-world use case demonstrates that offloading KV cache to storage via GDS a
 |  18 | GDS enables efficient KV cache offloading to storage, accelerating AI inference by av                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HWaaRLDmI8k/hqdefault.jpg)](https://www.youtube.com/watch?v=HWaaRLDmI8k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HWaaRLDmI8k)

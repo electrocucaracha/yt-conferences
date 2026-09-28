@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "An Open Source AI Compute Stack: Kubernetes + Ray + PyTorch + VLLM - Robert
   Nishihara, Anyscale"
-nav_order: 17
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Robert presents an overview of Ray, an open-source project developed
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ He also clarifies the complementary roles of Ray and Kubernetes, emphasizing tha
 |  21 | Kubernetes support for AI workloads is improving, including better accelerator support and topology-aware scheduling                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4o2amJxMHUc/hqdefault.jpg)](https://www.youtube.com/watch?v=4o2amJxMHUc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4o2amJxMHUc)

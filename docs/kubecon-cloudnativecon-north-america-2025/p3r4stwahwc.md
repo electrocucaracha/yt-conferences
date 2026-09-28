@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Real-World Strategies for Cutting Kubernetes Costs: Why One Size Doesn’t Fit
   All - Dolis Sharma"
-nav_order: 254
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker discusses real-world strategies for reducing Kubernetes cloud
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session concludes with a Q&A addressing policy enforcement and automation, a
 |  19 | Plans to create a public GitHub repository with example policies if there is community interest.                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/p3r4StwaHWc/hqdefault.jpg)](https://www.youtube.com/watch?v=p3r4StwaHWc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p3r4StwaHWc)

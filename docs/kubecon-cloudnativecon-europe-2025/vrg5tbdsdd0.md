@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Debugging Envoy Tunnels: A Deep Dive - Carlos Sanchez & Alexandra Stoica,
   Adobe"
-nav_order: 69
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Alexandra Stoka, is a site reliability engineer at Adobe
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ By increasing logging levels, checking certificates, and examining metrics, atte
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vrG5tBDsdd0/hqdefault.jpg)](https://www.youtube.com/watch?v=vrG5tBDsdd0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vrG5tBDsdd0)

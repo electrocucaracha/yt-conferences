@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Adapt, Include, Thrive: Disability-Informed Strategies for Cloud Native Resilience
   - Panel"
-nav_order: 9
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The panel discussion on cloud-native resilience and accessibility featured
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -38,5 +35,7 @@ Key takeaways included the importance of documenting context for asynchronous me
 |   3 | Ask team members what accommodations they need.                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7s2GUGvVUL4/hqdefault.jpg)](https://www.youtube.com/watch?v=7s2GUGvVUL4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7s2GUGvVUL4)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Crea Tu Mente Empresarial | Mauricio Correa #49"
-nav_order: 11
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Mauricio Correa, líder en la industria del network
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Finalmente, resalta que el éxito empresarial requiere claridad de metas, respon
 |  25 | Todo está en uno mismo: cuidar cuerpo, mente, espiritualidad y relaciones.                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BK_emVM8dqc/hqdefault.jpg)](https://www.youtube.com/watch?v=BK_emVM8dqc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BK_emVM8dqc)

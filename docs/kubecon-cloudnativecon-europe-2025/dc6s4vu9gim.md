@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Image Snapshotters for Efficient Container Execution in Particle P... Clemens
   Lange & Valentin Volkl
-nav_order: 130
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video discusses image snapshoters, specifically lazy pulling snapshoters,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The CVMFS snapshot, which uses a separate index artifact, addresses this issue b
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Dc6S4vU9GiM/hqdefault.jpg)](https://www.youtube.com/watch?v=Dc6S4vU9GiM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Dc6S4vU9GiM)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Privacy as Infrastructure: Declarative Data Protection of... Joaquin Rodriguez
   & Krishnendu Dasgupta"
-nav_order: 246
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Hain Rodriguez and Krishna Dazgupta Kish discuss
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The solution is designed for scalability and ease of deployment, with support fo
 |  17 | Threat patterns detected: Prompt i                                                                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mkAaguXm1ag/hqdefault.jpg)](https://www.youtube.com/watch?v=mkAaguXm1ag)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mkAaguXm1ag)

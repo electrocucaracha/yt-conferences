@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "GPUs on Kubernetes: What Actually Happens When You Request Nvidia... Gulcan
   Topcu & Daniele Polencic"
-nav_order: 130
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speakers introduce the complexities of using GPUs, particularly within
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The talk emphasizes that running GPUs in Kubernetes is fundamentally different f
 |  23 | GPU container                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nu6bLhuvlWM/hqdefault.jpg)](https://www.youtube.com/watch?v=nu6bLhuvlWM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nu6bLhuvlWM)

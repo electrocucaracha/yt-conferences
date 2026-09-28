@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Streamlined Efficiency: Unshackling Kubernetes Image Volumes for Rapid A...
   Esteban Rey & Yifan Yuan"
-nav_order: 319
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The presentation discusses how to speed up loading of large data sets
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ This allows for efficient loading of large data sets, including those with over 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XqL5lh32lr8/hqdefault.jpg)](https://www.youtube.com/watch?v=XqL5lh32lr8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XqL5lh32lr8)

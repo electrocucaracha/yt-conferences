@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "URL Elicitation Deep Dive: Third-party OAuth Solved (and More!) - Nate Barbettini,
   Arcade.dev"
-nav_order: 103
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Nate, a founding engineer at Arcade, introduces the concept
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Nate also addresses security considerations, such as phishing risks and the need
 |  19 | Security considerations: URLs should not expose sensitive parameters; provenance and trust of MCP set                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/sXIw3xZTVZ0/hqdefault.jpg)](https://www.youtube.com/watch?v=sXIw3xZTVZ0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sXIw3xZTVZ0)

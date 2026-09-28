@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Observing Chaos: Real-Time Monitoring of AI-Driven Kubernetes Destr... Josh
   Halley & Ricardo Aravena"
-nav_order: 226
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this CubeCon session, Josh Halley and Ricardo present their project
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The project was developed primarily by the two presenters, leveraging generative
 |  21 | Explored potential for team-based/co-op modes and security (red/blue team) ana                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KOM-PQNpcjk/hqdefault.jpg)](https://www.youtube.com/watch?v=KOM-PQNpcjk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KOM-PQNpcjk)

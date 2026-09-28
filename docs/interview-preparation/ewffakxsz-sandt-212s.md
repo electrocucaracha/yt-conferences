@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "You’re Not Behind (Yet): How to Learn AI in 17 Minutes"
-nav_order: 29
-parent: Interview Preparation
 type: Video Note
 description:
   The first step is learning "machine English," which involves understanding
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ By mastering machine English and using the aim framework, individuals can start 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/EWFFaKxsz_s/hqdefault.jpg)](https://www.youtube.com/watch?v=EWFFaKxsz_s&t=212s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EWFFaKxsz_s&t=212s)

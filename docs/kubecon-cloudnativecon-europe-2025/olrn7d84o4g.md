@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "A Practical Guide To Cloud Native Solutions: Demonstrating ROI and... Danielle
   Cook & Simon Forster"
-nav_order: 9
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video discusses the challenges of investing in cloud-native solutions,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The presenters also highlight the need for a business justification for cloud in
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OLrN7D84o4g/hqdefault.jpg)](https://www.youtube.com/watch?v=OLrN7D84o4g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OLrN7D84o4g)

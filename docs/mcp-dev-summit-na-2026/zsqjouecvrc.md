@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Enterprise MCP - The Data Plane for Autonomous Agents - Adam Seligman
   & Zayne Turner"
-nav_order: 42
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Adam Seligman and Zane Turner from Workato discuss the need for robust
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ The conversation invites the broader community to contribute to and evolve these
 |  12 | Invitation for industry collaboration and feedback to evolve these architectural principles.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zsQjoUECVRc/hqdefault.jpg)](https://www.youtube.com/watch?v=zsQjoUECVRc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zsQjoUECVRc)

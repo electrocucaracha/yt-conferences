@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Closing - Jeffrey Sica, CNCF"
-nav_order: 210
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker, representing the CNCF, announces the conclusion of the last
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ They also mention upcoming parties and wish everyone an enjoyable CubeCon before
 |  11 | Speaker wishes everyone a good CubeCon.                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NMO_u_1OHIE/hqdefault.jpg)](https://www.youtube.com/watch?v=NMO_u_1OHIE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NMO_u_1OHIE)

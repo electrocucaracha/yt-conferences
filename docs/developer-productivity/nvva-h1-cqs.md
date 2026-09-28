@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Prerequisites for Chaos Engineering • Courtney Nash • GOTO 2021
-nav_order: 98
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the prerequisites for chaos engineering, a practice
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The speaker also shares early research data from Varica, which found that many o
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nvVA_h1_cqs/hqdefault.jpg)](https://www.youtube.com/watch?v=nvVA_h1_cqs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nvVA_h1_cqs)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] MCP Registry: The Path To (De-)Centralizing Discovery"
-nav_order: 10
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   The video discusses the MCP registry, emphasizing its role in enabling
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ A live demo illustrates how publishing a server via CI/CD or command-line tools 
 |  23 | Contributions are                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dQnolGPNdQ4/hqdefault.jpg)](https://www.youtube.com/watch?v=dQnolGPNdQ4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dQnolGPNdQ4)

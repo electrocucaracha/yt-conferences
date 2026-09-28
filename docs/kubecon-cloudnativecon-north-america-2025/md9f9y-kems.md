@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Demonstration of Automatic Kubernetes Network Policies Generation - Boaz Michaely
   & Adi Sosnovich
-nav_order: 57
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Boaz from Red Hat and Adi from IBM Research discuss
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Audience questions address tool limitations, such as lack of support for CNI-spe
 |  23 | Combining an                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MD9f9Y-kems/hqdefault.jpg)](https://www.youtube.com/watch?v=MD9f9Y-kems)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MD9f9Y-kems)

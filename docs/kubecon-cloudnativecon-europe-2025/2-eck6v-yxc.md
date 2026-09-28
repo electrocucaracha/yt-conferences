@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How We Moved Spotify To a Proxyless gRPC Service Mesh - Erik Lindblad & Erica
   Manno, Spotify
-nav_order: 123
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Spotify's service discovery system, Nameless, was facing limitations
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ While there were challenges, including complexity and flaky bootstrapping logic,
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2_ECK6v_yXc/hqdefault.jpg)](https://www.youtube.com/watch?v=2_ECK6v_yXc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2_ECK6v_yXc)

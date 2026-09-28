@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Flip That Stack: Renovating Edge Infrastructure at the Home Depot - Dillon
   TenBrink, The Home Depot"
-nav_order: 79
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Dylan Timberink, a distinguished engineer at The Home Depot, shares insights
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Timberink also highlights ongoing challenges with storage solutions at the edge 
 |  17 | Managing the transformation timeline is critical—actively control migration                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/p5Vca4BoiJw/hqdefault.jpg)](https://www.youtube.com/watch?v=p5Vca4BoiJw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p5Vca4BoiJw)

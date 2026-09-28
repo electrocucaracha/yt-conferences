@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Resilient Multi-Cloud Strategies: Harnessing Kubernetes, Cluster API, and...
   T. Rahman & J. Mosquera"
-nav_order: 283
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=4DjydLH21nM
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ This architecture allows for greater scalability, flexibility, and reliability, 
 |  12 | Cell routing is based on analyzing customer traffic patterns and data types, and redirecting traffic to specific cells accordingly.                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4DjydLH21nM/hqdefault.jpg)](https://www.youtube.com/watch?v=4DjydLH21nM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4DjydLH21nM)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Future of Kubernetes Node Lifecycle - Lucy Sweet, Uber & Dawn Chen, Google
-nav_order: 357
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speakers discuss the evolution and future of Kubernetes node lifecycle
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The overarching goal is to abstract away node management complexities so users c
 |  27 | Ongoing efforts to improve node lifecycle, resource management, a                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-TlFdB7E-Bw/hqdefault.jpg)](https://www.youtube.com/watch?v=-TlFdB7E-Bw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-TlFdB7E-Bw)

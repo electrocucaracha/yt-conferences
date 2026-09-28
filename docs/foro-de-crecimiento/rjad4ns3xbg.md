@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Make your money work for you \U0001F4B0 Session #16 with Yoel Sardiñas"
-nav_order: 57
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este video, se aborda la importancia de tomar control personal sobre
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Además, recalca la importancia de ayudar a otros y de invertir al menos el 10% 
 |  22 | Ayudar a otros y compartir conocimiento genera más abundancia.                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rjad4nS3xBg/hqdefault.jpg)](https://www.youtube.com/watch?v=rjad4nS3xBg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rjad4nS3xBg)

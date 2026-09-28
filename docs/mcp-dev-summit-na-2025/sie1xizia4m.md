@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Please Make Jarvis So I Don't Have To with Kent C. Dodds from EpicAI.pro"
-nav_order: 17
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Katy Dods introduces herself as a teacher focused on building MCP servers
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Through practical examples, she illustrates how MCP could enable powerful, conte
 |  19 | Encourages building Jarvis-like assistants and offers to teach how on Epic AI Pro.                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/sie1xizIA4M/hqdefault.jpg)](https://www.youtube.com/watch?v=sie1xizIA4M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sie1xizIA4M)

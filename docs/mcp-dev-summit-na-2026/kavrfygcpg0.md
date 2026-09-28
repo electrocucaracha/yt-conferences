@@ -1,8 +1,5 @@
 ---
-layout: default
 title: MCP Creator Reveals the 2026 Roadmap for AI Agents
-nav_order: 54
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   David, a technical staff member at Anthropic and co-creator of MCP, discusses
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ David concludes by encouraging community feedback, stressing its importance in s
 |  18 | Emphasis on building better clients, addressing context bl Ratings (1-5): 3                                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kAVRFYgCPg0/hqdefault.jpg)](https://www.youtube.com/watch?v=kAVRFYgCPg0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kAVRFYgCPg0)

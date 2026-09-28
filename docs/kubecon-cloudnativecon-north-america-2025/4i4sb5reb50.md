@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Mapping the Next Phase: Updating the Cloud Native Ma... Danielle Cook, Simon
   Forster & Robert Glenn"
-nav_order: 165
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   "The Cloud Native Maturity Model is an evolving framework designed to
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The CNCF is seeking input from practitioners to further refine the model and ens
 |  16 | The CNCF is looking for help to continue evolving and developing the maturity model.                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4I4SB5rEb50/hqdefault.jpg)](https://www.youtube.com/watch?v=4I4SB5rEb50)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4I4SB5rEb50)

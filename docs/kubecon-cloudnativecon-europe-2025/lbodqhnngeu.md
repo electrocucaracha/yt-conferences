@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   SIG Network Intro and Updates - Dan Winship, Nadia Pinaeva, Bowei Du & Daman
   Arora
-nav_order: 289
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Sig Network, responsible for Kubernetes networking components, interfaces,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Additionally, updates are provided on Network Policy API, including admin networ
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lBOdQHNNgEU/hqdefault.jpg)](https://www.youtube.com/watch?v=lBOdQHNNgEU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lBOdQHNNgEU)

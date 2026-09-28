@@ -1,8 +1,5 @@
 ---
-layout: default
 title: What if MCP was Symmetric? - Jerome Swannack, Anthropic
-nav_order: 104
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Jerome introduces an idea to improve the MCP protocol by enabling more
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ He concludes that although this is a significant conceptual shift, it could unlo
 |  18 | Security concerns exist; permissions must be managed to prevent malicious access                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jFWIWfw0Nfs/hqdefault.jpg)](https://www.youtube.com/watch?v=jFWIWfw0Nfs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jFWIWfw0Nfs)

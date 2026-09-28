@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Hyperscale Uncertainty Principle: Debugging Tail Latency in a Trillion-Object...
   Yashraj Kakkad"
-nav_order: 360
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Yashraj Gakkad, a software engineer at Google Photos, discusses the challenges
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Gakkad concludes with key lessons: architect for the P99 tail, respect physical 
 |  18 | Evaluate ROI of preemptible compute; high retry rates can outweigh cost savings.                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hpFqElHNLaY/hqdefault.jpg)](https://www.youtube.com/watch?v=hpFqElHNLaY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hpFqElHNLaY)

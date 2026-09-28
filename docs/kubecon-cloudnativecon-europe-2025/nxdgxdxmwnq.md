@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Missing Metrics: Measuring Memory Interference in Cloud Native Systems
   - Jonathan Perry"
-nav_order: 338
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses "memory noisy neighbor," a phenomenon where one
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ The speaker also discusses building an open-source collector to measure and miti
 |  12 | Vertical scaling can help mitigate noisy neighbors, but may not be the most cost-effective solution.                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nXdGXdxmWNQ/hqdefault.jpg)](https://www.youtube.com/watch?v=nXdGXdxmWNQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nXdGXdxmWNQ)

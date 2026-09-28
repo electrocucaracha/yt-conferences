@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Opening/ Intro - Jorge Castro, CNCF"
-nav_order: 235
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   George Castra, a CNCF staffer, welcomes attendees to CubeCon, highlighting
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session concludes with encouragement for everyone to enjoy CubeCon and make 
 |  21 | Closing thanks and encouragement to enjoy CubeCon.                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qNvnvWK_o_g/hqdefault.jpg)](https://www.youtube.com/watch?v=qNvnvWK_o_g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qNvnvWK_o_g)

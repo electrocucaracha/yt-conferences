@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Straight Into the Deep End! Learning Kubernetes and Cloud Native From... Éamon
   Ryan & Ayah Elshaikh
-nav_order: 292
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Aean Ryan and Ya Alshik from Grafana Labs share their experiences
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ They conclude by recommending a practical, hands-on approach to certification pr
 |  16 | Effective learning methods included using K9s, hands-on experimentation in dev en                                                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Ctm0jjPZV1M/hqdefault.jpg)](https://www.youtube.com/watch?v=Ctm0jjPZV1M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ctm0jjPZV1M)

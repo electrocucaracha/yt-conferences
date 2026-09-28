@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Logs, Metrics, Traces and Mayhem: An Interactive Observability Adventure...
   Jay Clifford & Tom Glenn"
-nav_order: 189
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=D8r5j_R9QsA
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ He encourages attendees to join the Grafana community forum to ask questions and
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/D8r5j_R9QsA/hqdefault.jpg)](https://www.youtube.com/watch?v=D8r5j_R9QsA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=D8r5j_R9QsA)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   'Breaking Barriers: Bringing Application Developers Cl... Thomas Vitale & Mauricio
   "Salaboy" Salatino'
-nav_order: 29
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses developer experience in the context of Kubernetes,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ They also highlight the need for a more developer-centric approach within the CN
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nvKpg3JgSjs/hqdefault.jpg)](https://www.youtube.com/watch?v=nvKpg3JgSjs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nvKpg3JgSjs)

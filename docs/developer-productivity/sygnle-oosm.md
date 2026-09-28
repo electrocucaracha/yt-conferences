@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Zen of Programming • Sander Hoogendoorn • GOTO 2022
-nav_order: 138
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker shares a personal journey of over 44 years in programming,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Ultimately, the speaker encourages lifelong learning, taking small steps, and ma
 |  21 | Stresses the importance of having fun and maintaining work-life balance                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/syGnlE_oosM/hqdefault.jpg)](https://www.youtube.com/watch?v=syGnlE_oosM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=syGnlE_oosM)

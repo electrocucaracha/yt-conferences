@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The 5 Pillars of Collaborative Product Ownership • John Le Drew • GOTO 2019
-nav_order: 128
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, John LeDrew, discusses the five pillars of collaborative
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The pillars are: (1) Respect people, (2) Don't bring your team's solutions, (3) 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-1_3tyCpWbA/hqdefault.jpg)](https://www.youtube.com/watch?v=-1_3tyCpWbA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-1_3tyCpWbA)

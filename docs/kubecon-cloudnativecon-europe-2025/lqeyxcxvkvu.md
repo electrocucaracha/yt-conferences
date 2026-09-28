@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Redefining Access Control: Scaling Policy as Code for Humans and AI Agents
   - Raz Cohen, Permit.io"
-nav_order: 280
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Rasco Kuan, an entrepreneur from Israel, discusses the importance of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The key takeaway is that AI agents require strong identity and access controls, 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lQEYxCXVkVU/hqdefault.jpg)](https://www.youtube.com/watch?v=lQEYxCXVkVU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lQEYxCXVkVU)

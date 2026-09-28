@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: How Ubisoft Orchestrates Global Multiplayer Games with. Jean-François
   Hubert & Mark Mandel"
-nav_order: 175
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Jean-François, Software Development Director at Ubisoft, and Mark Mandel,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Agones has become widely adopted in the industry, with many contributors, and bo
 |  19 | Ubisoft encourages trying Rainbow Six Mobile and visiting their site for more information.                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MUOd6IoLC5Q/hqdefault.jpg)](https://www.youtube.com/watch?v=MUOd6IoLC5Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MUOd6IoLC5Q)

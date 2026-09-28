@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Small Steps Are the Fastest Way Forward: Life Beyond Agile & Scrum • Sander
   Hoogendoorn • GOTO 2023"
-nav_order: 118
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, a professional programmer, discusses the challenges of building
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The speaker also emphasizes the importance of continuous deployment, testing, an
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OzCE4m9ERvU/hqdefault.jpg)](https://www.youtube.com/watch?v=OzCE4m9ERvU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OzCE4m9ERvU)

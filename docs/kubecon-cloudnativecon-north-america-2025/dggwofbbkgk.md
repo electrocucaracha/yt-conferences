@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Next Generation Extension Management Using Kubernetes Image Volumes - Andrew
   L'Ecuyer, Snowflake
-nav_order: 176
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=dGGWoFBBkgk
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ This enables flexible deployment of Postgres extensions, reduces friction with t
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dGGWoFBBkgk/hqdefault.jpg)](https://www.youtube.com/watch?v=dGGWoFBBkgk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dGGWoFBBkgk)

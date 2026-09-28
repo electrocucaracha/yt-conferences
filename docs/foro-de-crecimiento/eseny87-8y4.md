@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en Trabajo en Equipo: Cómo decidir mejor y liderar equipos ganadores
   | Arturo Brizio"
-nav_order: 39
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Arturo Brizio, reconocido exárbitro mexicano de fútbol,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Finalmente, subraya que el liderazgo genuino se basa en el ejemplo y la capacida
 |  21 | La felicidad es una forma de viajar, no un                                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/EsEny87-8y4/hqdefault.jpg)](https://www.youtube.com/watch?v=EsEny87-8y4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EsEny87-8y4)

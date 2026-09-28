@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Panel: AI Infra Best Practices: Enterprise Do’s and Don’ts - Madhuri Yechuri
   & Andrew Leung"
-nav_order: 11
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The discussion centers on Uber’s extensive experience building and operating
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Key advice for enterprises is to carefully consider the placement of data lakes 
 |  17 | Architectural split between CPU a                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KETngElEQ_k/hqdefault.jpg)](https://www.youtube.com/watch?v=KETngElEQ_k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KETngElEQ_k)

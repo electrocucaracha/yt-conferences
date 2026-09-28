@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Not Yet Another Envoy Implementation - Exploring Kgateway To Write Your Own
   GatewayA... Ricardo Katz
-nav_order: 225
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Ricardo, a software engineer at Red Hat and Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The talk concludes with encouragement for others to experiment with these models
 |  21 | Implementation is not Gateway API conformance certified; passes                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9VqzQgin6vk/hqdefault.jpg)](https://www.youtube.com/watch?v=9VqzQgin6vk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9VqzQgin6vk)

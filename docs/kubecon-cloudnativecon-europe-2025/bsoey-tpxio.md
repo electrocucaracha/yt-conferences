@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Efficient Transparent Checkpointing of AI/ML Workloads in Kub... R. Stoyanov,
   A. Reber, V. Spišáková
-nav_order: 80
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The presentation discusses efficient transparent checkpointing for AI
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ This approach has been integrated into Kubernetes and has shown promising result
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BSoEY_tpxIo/hqdefault.jpg)](https://www.youtube.com/watch?v=BSoEY_tpxIo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BSoEY_tpxIo)

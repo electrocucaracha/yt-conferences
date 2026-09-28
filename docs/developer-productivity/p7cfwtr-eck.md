@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Expert Talk: How to Manage Complexity in Software • Hadi Hariri & Kevlin Henney
   • GOTO 2022"
-nav_order: 42
-parent: Developer Productivity
 type: Video Note
 description:
   Kevlin Henney is joined by Hadi Hariri from JetBrains to discuss developer
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ Hadi emphasizes the need for balance in software development, where abstraction 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/P7CfWtR-ECk/hqdefault.jpg)](https://www.youtube.com/watch?v=P7CfWtR-ECk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=P7CfWtR-ECk)

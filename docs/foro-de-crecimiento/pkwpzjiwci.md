@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "How to Grow Your Network Marketing | Lourdes Enriquez Growth Session #4"
-nav_order: 48
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa entrevista, Lourdes Enríquez comparte su experiencia
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Además, destaca que el crecimiento personal y profesional es un proceso constan
 |  23 | Compartir conocimiento y ayudar a otros da sentido y satisfacción personal. Ratings (1-5): 3                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-pkWpzjIWcI/hqdefault.jpg)](https://www.youtube.com/watch?v=-pkWpzjIWcI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-pkWpzjIWcI)

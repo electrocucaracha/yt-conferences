@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "MCP for Autonomous Storefronts: Building Self-Healing Agent Loops - Guilherme
   Rodrigues, decocms.com"
-nav_order: 62
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Guilherme Rodrigues, co-founder of Deco CMS, discusses the company's
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ He concludes by inviting the audience to explore Deco Studio, their platform for
 |  15 | Agentic workflows are best of                                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nctYH0NrXvM/hqdefault.jpg)](https://www.youtube.com/watch?v=nctYH0NrXvM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nctYH0NrXvM)

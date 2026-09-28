@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Audit-Ready Kubernetes: How Chase UK Leveraged Policy as Code for Co... Jim
   Bugwadia & Nischay Goyal"
-nav_order: 21
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video discusses how platform engineers can automate the process of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ The speakers also share key learnings, such as the importance of testing policie
 |  12 | Kverno supports use cases beyond security/compliance, including operations and optimization.                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/B01BQ60PLqM/hqdefault.jpg)](https://www.youtube.com/watch?v=B01BQ60PLqM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=B01BQ60PLqM)

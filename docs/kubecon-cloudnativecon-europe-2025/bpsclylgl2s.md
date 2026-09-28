@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Mastering Efficiency in Argo CD: Scaling Smarter, Not Costlier - Alexander
   Matyushentsev, Akuity"
-nav_order: 195
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses the cost of running Argo CD at scale, highlighting
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The speaker also emphasizes the importance of monitoring application resources a
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bpsclYlGl2s/hqdefault.jpg)](https://www.youtube.com/watch?v=bpsclYlGl2s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bpsclYlGl2s)

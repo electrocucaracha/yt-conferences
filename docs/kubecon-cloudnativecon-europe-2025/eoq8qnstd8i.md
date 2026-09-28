@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "The API Gateway Maturity Matrix: Where Do You Rank? - Joel Hans, ngrok"
-nav_order: 330
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a concise summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=EOQ8qNstD8I
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -28,5 +25,7 @@ The goal of the matrix is to provide a framework for self-assessment and explora
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/EOQ8qNstD8I/hqdefault.jpg)](https://www.youtube.com/watch?v=EOQ8qNstD8I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EOQ8qNstD8I)

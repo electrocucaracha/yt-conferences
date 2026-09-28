@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Give Constructive Feedback Without the Stress | Leadership Training
   for Engineers
-nav_order: 26
-parent: Leadership Skills
 type: Video Note
 description:
   The video discusses the challenges many leaders face when giving constructive
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ By following these steps, feedback becomes a collaborative and motivating experi
 |  17 | Empathizing and understanding others’ motivations makes the process easier and more effective.                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dSD-sWEtSbY/hqdefault.jpg)](https://www.youtube.com/watch?v=dSD-sWEtSbY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dSD-sWEtSbY)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Driving Innovation at Michelin: How We Scaled Cloud & On-Prem In...
   G. Quennesson & A. Pons"
-nav_order: 148
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Gabrielle Kenes from Michan Company, a leader in TI manufacturer, shared
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ After rebuilding their platform using only open-source software, they implemente
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lFaSEevdZvU/hqdefault.jpg)](https://www.youtube.com/watch?v=lFaSEevdZvU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lFaSEevdZvU)

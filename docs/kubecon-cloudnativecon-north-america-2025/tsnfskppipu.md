@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Integrating Data Center Observability Into Cloud Native Envi... Pedro Célestin
   & Julia Furst Morgado
-nav_order: 105
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Julia and Pedro discuss the challenges and solutions involved
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The key benefits include improved data ownership, flexibility in backend choice,
 |  23 | Recommendations for managing AWS log ingress costs: filter data, use hybrid storage, and leverage tools for telemetry insights.             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TsNfSKppiPU/hqdefault.jpg)](https://www.youtube.com/watch?v=TsNfSKppiPU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TsNfSKppiPU)

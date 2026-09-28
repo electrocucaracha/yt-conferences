@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Principios para hablar en público con Paco Benítez | sesión 43
-nav_order: 63
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa conversación, se destaca que no basta con ser talentoso;
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finalmente, se concluye que la práctica constante y la disposición a exponerse
 |  20 | Define tu “por qué” personal y de impacto en otros para comunicar con fuerza.                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/t_-neSPg2UA/hqdefault.jpg)](https://www.youtube.com/watch?v=t_-neSPg2UA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=t_-neSPg2UA)

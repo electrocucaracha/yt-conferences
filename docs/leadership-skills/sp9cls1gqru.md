@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Mastering Presentation Skills for Engineers and Tech Professionals Tips from
   Communication Expert
-nav_order: 35
-parent: Leadership Skills
 type: Video Note
 description:
   In this interview, presentation coach Christopher Chin discusses the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Chin also shares resources for improving presentation skills, including his onli
 |  17 | Connect with Christopher via LinkedIn, his site (thehiddenspeaker.com), or email (`info@thehiddenspeaker.com`).                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SP9ClS1gqRU/hqdefault.jpg)](https://www.youtube.com/watch?v=SP9ClS1gqRU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SP9ClS1gqRU)

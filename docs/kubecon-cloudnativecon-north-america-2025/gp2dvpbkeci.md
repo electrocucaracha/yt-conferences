@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Copacetic: Directly Patch Container Image Vulnerabilities
   - Jeremy Rickard"
-nav_order: 213
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Jeremy from Microsoft introduces Copaetic, a CNCF sandbox project designed
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Jeremy encourages interested users to join the community, explore the GitHub rep
 |  20 | The Copa GitHub repository is available for more information.                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gp2DVPBkECI/hqdefault.jpg)](https://www.youtube.com/watch?v=gp2DVPBkECI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gp2DVPBkECI)

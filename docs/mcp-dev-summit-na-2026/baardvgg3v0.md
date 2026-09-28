@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "MCPwned: Hacking MCP Servers With One Skeleton Key Vulnerability - Jonathan
   Leitschuh, Independent"
-nav_order: 64
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Jonathan Lechu, a software engineer and security researcher, presents
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ Lechu concludes by urging developers to properly configure their servers and not
 |  25 | Testing tip                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/baardVGG3v0/hqdefault.jpg)](https://www.youtube.com/watch?v=baardVGG3v0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=baardVGG3v0)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: OpenCost - Cost and Resource Management Deep Dive - Rajith Attapattu, Randoli
-nav_order: 230
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Rajit Tatawatu, founder and CTO of Randoli and maintainer of the OpenCost
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Rajit encourages community contributions, highlighting areas such as plugin deve
 |  25 | OpenCost uses public pricing by default; vendors can override; kubemodel aim                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QL3bpkNJRec/hqdefault.jpg)](https://www.youtube.com/watch?v=QL3bpkNJRec)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QL3bpkNJRec)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How To Prep For Tech Interviews While Working Full-Time
-nav_order: 11
-parent: Interview Preparation
 type: Video Note
 description:
   Preparing for interviews while holding a full-time job is a daunting
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Employ a "right-to-left" planning approach, working backwards from the interview
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-LBUjaNEHcs/hqdefault.jpg)](https://www.youtube.com/watch?v=-LBUjaNEHcs&t)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-LBUjaNEHcs&t)

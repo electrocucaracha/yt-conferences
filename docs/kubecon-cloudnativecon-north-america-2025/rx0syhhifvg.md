@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Best of KubeCon + CloudNativeCon!
-nav_order: 23
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Of course! Please provide the video transcript you would like summarized.
 resource: https://www.youtube.com/watch?v=RX0sYHHiFvg
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -27,5 +24,7 @@ Please provide the video transcript you would like summarized.
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RX0sYHHiFvg/hqdefault.jpg)](https://www.youtube.com/watch?v=RX0sYHHiFvg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RX0sYHHiFvg)

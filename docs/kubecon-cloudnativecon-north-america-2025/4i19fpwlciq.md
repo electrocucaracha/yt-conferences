@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Dapr in 2026: Durable Execution and Resilient Eventing for AI Agents - Yaron
   Schneider & Rajesh Iyer"
-nav_order: 50
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Ron Schneider, CTO and co-founder of DIG Grid, introduces Dapper as a
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Finally, he shares a case study from JP Morgan Chase, which chose Dapper for wor
 |  15 | Dapper Agents offers demos for secure, reliable multi-agent workflows, including Kubernetes deployments.                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4I19FPwLCIQ/hqdefault.jpg)](https://www.youtube.com/watch?v=4I19FPwLCIQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4I19FPwLCIQ)

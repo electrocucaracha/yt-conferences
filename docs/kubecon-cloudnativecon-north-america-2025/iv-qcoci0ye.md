@@ -1,8 +1,5 @@
 ---
-layout: default
 title: What’s New in Containerd 2.2 - Derek McGowan, Docker & Phil Estes, AWS
-nav_order: 340
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Phil Estus and Derek McGawan present updates on the containerd project,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes with a discussion on the shim's potential use cases and it
 |  19 | Features developed for one runtime                                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iV_qCOCi0yE/hqdefault.jpg)](https://www.youtube.com/watch?v=iV_qCOCi0yE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iV_qCOCi0yE)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Istio Day: Panel: Horrors and Successes of Running
   Istio in Production"
-nav_order: 65
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The panel, moderated by Yophikova, brought together end users from organizations
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ Audience questions and additional anecdotes further illustrated both the pitfall
 |  25 | Audience shared additional horror stories and praised Istio’s developer abstractions.                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-Z9zvo6leRY/hqdefault.jpg)](https://www.youtube.com/watch?v=-Z9zvo6leRY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-Z9zvo6leRY)

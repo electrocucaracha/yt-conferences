@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Code Mode Is Best Served in the Shell - Jan Curn, Apify
-nav_order: 9
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Yan, founder and CEO of Appify, discusses the challenges and solutions
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ He demonstrates MCPC’s capabilities and argues for making it the official shel
 |  18 | Appify plans to donate MCPC to the HTT foundation as an official she                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Z5C9LSpQrYw/hqdefault.jpg)](https://www.youtube.com/watch?v=Z5C9LSpQrYw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Z5C9LSpQrYw)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Closing Remarks - Day 01"
-nav_order: 120
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker thanked the audience for their support, expressing inspiration
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ The speaker also thanked sponsors, the Dancon scholarship fund, and the program 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/r9oos3aV6gM/hqdefault.jpg)](https://www.youtube.com/watch?v=r9oos3aV6gM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r9oos3aV6gM)

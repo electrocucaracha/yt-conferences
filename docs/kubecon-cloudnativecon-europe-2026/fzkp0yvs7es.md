@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Hills Are Alive with the Sound of Kubernetes - Stevie Caldwell, Fairwinds
-nav_order: 359
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Stevie Caldwell, a senior tech lead at Fairwinds, explores
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ The talk concludes by encouraging creative approaches to infrastructure, showing
 |  29 | The talk enc                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fzKp0YvS7Es/hqdefault.jpg)](https://www.youtube.com/watch?v=fzKp0YvS7Es)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fzKp0YvS7Es)

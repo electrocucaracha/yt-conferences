@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Get To Where You're Going With Kgateway - David Jumani,
   Maintainer"
-nav_order: 266
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   David, an engineer at Solo and maintainer of the K Gateway project, presents
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The project has seen significant growth, with over 170,000 downloads in the past
 |  21 | Community engagement: contract fest, kiosk, site, Slack, and community meetings.                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BjB-AIFiGqA/hqdefault.jpg)](https://www.youtube.com/watch?v=BjB-AIFiGqA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BjB-AIFiGqA)

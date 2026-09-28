@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Securing MCP at Scale: From Principles To Production - Peter Smulovics, Morgan
   Stanley"
-nav_order: 80
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker discusses key security challenges in using AI and MCP (Multi-Component
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ The future of secure MCP involves zero trust models, policy-as-code, AI firewall
 |  24 | Future trends: zero trust models, policy as code, AI firewalls,                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/E515s-EwF9M/hqdefault.jpg)](https://www.youtube.com/watch?v=E515s-EwF9M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E515s-EwF9M)

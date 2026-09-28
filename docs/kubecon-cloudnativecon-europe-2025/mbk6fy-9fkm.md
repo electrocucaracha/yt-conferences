@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Immediate and Lasting Benefits of TAG Security Assessments - Brandt Keller
   & Ben Hirschberg
-nav_order: 336
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The speaker, Brian Keller, discusses the importance of security assessments
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ He highlights the value of this process in identifying areas for improvement and
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Mbk6FY_9FKM/hqdefault.jpg)](https://www.youtube.com/watch?v=Mbk6FY_9FKM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Mbk6FY_9FKM)

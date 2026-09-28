@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 9 - Recap & Current
   Trends
-nav_order: 9
-parent: Large Language Models Llms
 type: Video Note
 description:
   In the final lecture of CM295, the instructors provided a comprehensive
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concluded with reflections on ongoing research challenges—such as 
 |  20 | Cross-pollination betwe                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Q86qzJ1K1Ss/hqdefault.jpg)](https://www.youtube.com/watch?v=Q86qzJ1K1Ss)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q86qzJ1K1Ss)

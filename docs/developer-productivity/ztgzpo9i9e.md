@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Moldable Development with Glamorous Toolkit • Tudor Girba • YOW! 2023
-nav_order: 92
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker introduces "moldable development," a new approach to programming
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Ultimately, the talk advocates for a shift in perspective: rather than relying o
 |  18 | Glamorous Toolkit is fre                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_ztGZpo9I9E/hqdefault.jpg)](https://www.youtube.com/watch?v=_ztGZpo9I9E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_ztGZpo9I9E)

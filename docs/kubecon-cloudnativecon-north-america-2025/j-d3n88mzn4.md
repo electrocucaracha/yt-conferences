@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: The Same Great OPA, Only Faster! - Philip Conrad,
   Maintainer"
-nav_order: 239
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Philip Conrad, a maintainer of the Open Policy Agent (OPA) project, presented
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Conrad encouraged users to upgrade to version 1.0, utilize tools like OPA format
 |  16 | OPA has a booth at kiosk 12A, a maintainer talk on Thursday, and an upcoming community survey.                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/j-d3n88MZn4/hqdefault.jpg)](https://www.youtube.com/watch?v=j-d3n88MZn4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=j-d3n88MZn4)

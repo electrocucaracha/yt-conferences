@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Starting and Scaling a Platform Engineering Team - Camille Fournier & Ian Nowland
-nav_order: 316
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Camille Fornier, co-author Ian Noland, and their platform engineering
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ They also discuss the importance of product thinking, stakeholder communication,
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9lPp-6nJ8bI/hqdefault.jpg)](https://www.youtube.com/watch?v=9lPp-6nJ8bI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9lPp-6nJ8bI)

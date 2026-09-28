@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Supply Chain Reaction: A Cautionary Tale in K8s Security - S. Potter
   & A.G. Veytia"
-nav_order: 128
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   A security expert, Stacey Butter, explains how a malicious payload was
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ Stacey invites viewers to join the OpenSSF community, contribute to its developm
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OdGxWBK8Jpc/hqdefault.jpg)](https://www.youtube.com/watch?v=OdGxWBK8Jpc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OdGxWBK8Jpc)

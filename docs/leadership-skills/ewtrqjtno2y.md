@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Overcoming Burnout in Engineering & Tech | Strategies to Thrive in Your Career
   and Wellbeing
-nav_order: 37
-parent: Leadership Skills
 type: Video Note
 description:
   In this episode, the host interviews Richard Donovan, a former software
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ He also highlights the importance of shifting perspectives when moving into lead
 |  19 | Transitioning to leadership requires shifting focus from personal productivity t                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ewTRQjtNo2Y/hqdefault.jpg)](https://www.youtube.com/watch?v=ewTRQjtNo2Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ewTRQjtNo2Y)

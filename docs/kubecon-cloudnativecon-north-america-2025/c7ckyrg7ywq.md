@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Predictive Scaling and Capacity Planning With Machine Learni... Artur
   Souza & Chunpeng Wang"
-nav_order: 126
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Amazon uses a combination of reactive and proactive scaling strategies
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Amazon also uses forecast logic to set expectations for future events, including
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/C7cKYRg7YwQ/hqdefault.jpg)](https://www.youtube.com/watch?v=C7cKYRg7YwQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=C7cKYRg7YwQ)

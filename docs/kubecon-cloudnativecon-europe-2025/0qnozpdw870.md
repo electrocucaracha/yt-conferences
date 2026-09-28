@@ -1,8 +1,5 @@
 ---
-layout: default
 title: What's New in gRPC - Kevin Nilson, Google
-nav_order: 370
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The gRPC project has seen significant growth, with 1.7 million downloads
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The gRPC team welcomes feedback and collaboration from the community, particular
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0qNOZpdW870/hqdefault.jpg)](https://www.youtube.com/watch?v=0qNOZpdW870)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0qNOZpdW870)

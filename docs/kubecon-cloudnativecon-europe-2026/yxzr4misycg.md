@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: From Learner To Contributor: A LFX Mentee’s Kubernetes Story
   - Lavish Pal"
-nav_order: 205
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this lightning talk, Lesh Pal shares his journey from a learner to
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ He concludes by inviting the audience to connect with him for further questions 
 |  17 | Invited audience to connect on LinkedIn and ask questions about open source contributions                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YxZR4mISycg/hqdefault.jpg)](https://www.youtube.com/watch?v=YxZR4mISycg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YxZR4mISycg)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Challenges in Delivering Unstructured Content Efficiently Over... Kailas Krivanka
   & Fernando Cerenza
-nav_order: 7
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this session, Fernando and Kyus from Box discuss their experience
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Ultimately, they stress the need to balance functionality and security, providin
 |  20 | Infinite exfiltration vectors exist; any state-chang Ratings (1-5): 3                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HrfaijVcOf8/hqdefault.jpg)](https://www.youtube.com/watch?v=HrfaijVcOf8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HrfaijVcOf8)

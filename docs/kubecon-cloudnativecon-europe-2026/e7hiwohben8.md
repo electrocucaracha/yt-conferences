@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "No Pain No Drain: Lessons From Node Drains at Scale - Ryan Hallisey & Natalie
   Bandel, NVIDIA"
-nav_order: 223
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Ryan Haly and Natalie Vanell from Nvidia describe their
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -64,5 +61,7 @@ They emphasize the importance of treating maintenance as a first-class lifecycle
 |  28 | Encourages community                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/E7HIwOHbeN8/hqdefault.jpg)](https://www.youtube.com/watch?v=E7HIwOHbeN8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E7HIwOHbeN8)

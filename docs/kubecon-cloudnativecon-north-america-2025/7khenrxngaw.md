@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Turn Up the Heat: Driving Cloud Native Innovation into Real-World
   Impact- Multiple Speakers"
-nav_order: 131
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Mora Kelly, director of engineering at Init, discussed the company's
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Lee Guang from Biden's infrastructure team introduced the open-source project AI
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7KHenRXNGAw/hqdefault.jpg)](https://www.youtube.com/watch?v=7KHenRXNGAw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7KHenRXNGAw)

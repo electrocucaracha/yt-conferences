@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "OpenAPI Meets Kubernetes: Auto-Generating CRDs and Oper... Sergiusz Urbaniak
   & Jose Vázquez González"
-nav_order: 229
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this CubeCon talk, Sergio and Jose from MongoDB discuss the challenges
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The approach streamlines operator development, ensures consistency, and supports
 |  19 | All tools are open source; feedback and collaboration are encouraged.                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2_nbkiI_UJU/hqdefault.jpg)](https://www.youtube.com/watch?v=2_nbkiI_UJU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2_nbkiI_UJU)

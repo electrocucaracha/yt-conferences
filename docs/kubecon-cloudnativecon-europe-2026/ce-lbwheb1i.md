@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "TAG Operational Resilience: Sustainability Month To... Mario F, Alolita S,
   Carol V, N Pal & Saiyam P"
-nav_order: 350
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The TAG Operational Resilience group, part of the CNCF, provided updates
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Participation is encouraged through bi-weekly meetings and Slack channels, with 
 |  17 | Non-code contributions are welcome, especi                                                                                                                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cE-lBwHeb1I/hqdefault.jpg)](https://www.youtube.com/watch?v=cE-lBwHeb1I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cE-lBwHeb1I)

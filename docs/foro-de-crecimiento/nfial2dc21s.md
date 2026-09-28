@@ -1,8 +1,5 @@
 ---
-layout: default
 title: El Éxito es una Habilidad que Se Aprende – Oscar Velasco | Sesión 27
-nav_order: 23
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Óscar Velasco, empresario, inversionista y autor,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finalmente, señala que el propósito general de la vida es agregar valor, apren
 |  18 | Frase final: “Lo mejor de ti mismo te ha llevado a donde estás ahora. Para estar mejor, tienes que ser un mejor tú.”                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NFiAL2Dc21s/hqdefault.jpg)](https://www.youtube.com/watch?v=NFiAL2Dc21s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NFiAL2Dc21s)

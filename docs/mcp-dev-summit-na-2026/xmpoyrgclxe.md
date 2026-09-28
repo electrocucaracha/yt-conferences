@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Session: The Self-Improving MCP Server: Agents in a Live Development
   Loop - Enrico Toniato"
-nav_order: 87
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker discusses the challenges of developing and maintaining MCP
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The speaker also highlights the open-source nature of their tools, ease of deplo
 |  22 | Dashboard allows specifying test flows and automated checks for MCP servers                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XMPoyrgClxE/hqdefault.jpg)](https://www.youtube.com/watch?v=XMPoyrgClxE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XMPoyrgClxE)

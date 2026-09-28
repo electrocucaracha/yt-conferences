@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Envoy Today: What’s New In Managing Cloud-Native And
   AI Workl... Karol Szwaj"
-nav_order: 258
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker celebrates the 10th anniversary of the Envoy project, highlighting
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The speaker invites attendees to learn more through a curated calendar of Envoy-
 |  15 | Speaker: Kosi, software engineer at Kubernatic and Envoy Gateway maintainer.                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/g3CHzGl2zS0/hqdefault.jpg)](https://www.youtube.com/watch?v=g3CHzGl2zS0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=g3CHzGl2zS0)

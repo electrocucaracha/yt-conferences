@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Enhancing Software Composition Analysis Resilience Against Contai... Agathe
   Blaise & Jacopo Bufalino
-nav_order: 86
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=G24upbAXVd8
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The goal is to find a balance between transparency and image size reduction.
 |  19 | A middle ground could be adding metadata to the image during build, providing transparency while reducing image size and vulnerabilities. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/G24upbAXVd8/hqdefault.jpg)](https://www.youtube.com/watch?v=G24upbAXVd8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=G24upbAXVd8)

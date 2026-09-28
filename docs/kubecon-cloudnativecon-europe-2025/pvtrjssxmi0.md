@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes Meets Climate Science: Building Large-scale Feature De... Armagan
   Karatosun & Roope Tervo"
-nav_order: 167
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Arman, introduces himself as an online cloud data access
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ The project involves integrating multiple tools, such as Jupyter Hub, Label Stud
 |  12 | The Earth system feature data database will be improved with more features and capabilities.                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pvTRjsSXMi0/hqdefault.jpg)](https://www.youtube.com/watch?v=pvTRjsSXMi0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pvTRjsSXMi0)

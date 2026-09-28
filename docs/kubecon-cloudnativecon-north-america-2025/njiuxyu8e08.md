@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: Accelerating Innovation: The Evolution of Kubernetes and
   the Road A... J. Macleod"
-nav_order: 285
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   JGO Mloud, lead open source Kubernetes at Google, gave an update on the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ Furthermore, framework orchestration improvements have been made, particularly w
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NjiUXyU8E08/hqdefault.jpg)](https://www.youtube.com/watch?v=NjiUXyU8E08)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NjiUXyU8E08)

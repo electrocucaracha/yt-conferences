@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Building HTTP API SDKs that Really Are a Kit • Darrel Miller • GOTO 2019
-nav_order: 13
-parent: Developer Productivity
 type: Video Note
 description:
   Darrell Miller, a Microsoft program manager, discusses building HTTP
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ By making SDKs optional and providing choices, Darrell hopes to encourage usage 
 |   9 | The Microsoft Graph team is working on making SDKs more accessible and flexible, with a focus on community engagement and feedback. Ratings (1-5): 2 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dzaVtAZBnsA/hqdefault.jpg)](https://www.youtube.com/watch?v=dzaVtAZBnsA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dzaVtAZBnsA)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en Neurociencia: ¡Tu sistema nervioso es la clave de tu éxito! | Marco
   Ratti #44"
-nav_order: 37
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta conversación, Marco Rati, neurocientífico y terapeuta, explica
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Finalmente, enfatiza que sanar el trauma no es olvidar el evento, sino desactiva
 |  20 | El liderazgo efectivo combina jerarquía funcional con vínculo humano simétrico.                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MRnjnxugrT0/hqdefault.jpg)](https://www.youtube.com/watch?v=MRnjnxugrT0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MRnjnxugrT0)

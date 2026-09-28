@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "AdminNetworkPolicy: From Alpha To Beta... Dan Winship, Surya Seetharaman,
   Nadia Pinaeva & Bowei Du"
-nav_order: 10
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video presents an overview of the evolution of Kubernetes cluster
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ They encourage community involvement and feedback as the API moves toward beta s
 |  18 | Discussion on potential for dynamic, programmable tiers in the future for more g                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SWf3Z3fV0ic/hqdefault.jpg)](https://www.youtube.com/watch?v=SWf3Z3fV0ic)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SWf3Z3fV0ic)

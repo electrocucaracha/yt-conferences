@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Visualizing Cloud Systems • Lynn Langit • GOTO 2019
-nav_order: 143
-parent: Developer Productivity
 type: Video Note
 description:
   As an independent cloud architect and developer, Lin Lang shared her
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ She also highlighted the need for reproducibility and usability across different
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HHitdmje1ok/hqdefault.jpg)](https://www.youtube.com/watch?v=HHitdmje1ok)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HHitdmje1ok)

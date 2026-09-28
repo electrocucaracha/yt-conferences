@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Wait! Can Your Pod Survive a Restart? - Aya Ozawa, CloudNatix Inc.
-nav_order: 363
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Ay Zawa, a member of technical staff at Crownatics, discusses the importance
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Additionally, he introduces the concept of port disruption budgets (PDBs) to lim
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/eO8szEGNwoo/hqdefault.jpg)](https://www.youtube.com/watch?v=eO8szEGNwoo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=eO8szEGNwoo)

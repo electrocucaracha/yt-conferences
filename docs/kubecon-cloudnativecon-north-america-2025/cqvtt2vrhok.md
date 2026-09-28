@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Welcome + Opening Remarks - Jonathan Bryce & Chris Aniszczyk"
-nav_order: 132
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=cQvtT2vRhok
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -38,5 +35,7 @@ The community also discussed the importance of merging cloud-native and AI techn
 |   9 | KubeCon will take place in five locations next year: Amsterdam, Mumbai, Yokohama, Shanghai, and Salt Lake City.                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cQvtT2vRhok/hqdefault.jpg)](https://www.youtube.com/watch?v=cQvtT2vRhok)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cQvtT2vRhok)

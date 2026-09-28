@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] Building a MCP Server for Agentic Commerce with Brenden Lane and
   Nitin Sharma from PayPal"
-nav_order: 22
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   In this presentation, Brendan and Nitten from PayPal introduce the MCP
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes with a discussion of emerging directions such as unified t
 |  17 | Emerging directions: unified tool registries, event-driven controls, privacy-preserving invocations, sta                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZKagb-ZkNnI/hqdefault.jpg)](https://www.youtube.com/watch?v=ZKagb-ZkNnI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZKagb-ZkNnI)

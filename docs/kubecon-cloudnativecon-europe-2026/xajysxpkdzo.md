@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Creepers to Clusters: Evolving Minecraft Into a Cloud Native... Jaden
   Walderich & Alex Mizerak"
-nav_order: 117
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Alex and Jaden, platform engineers at ZAX, shared the evolution of CubeCraft,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ By iterating on their design and focusing on CubeCraft as a flagship client, the
 |  18 | Current architecture: regional clusters, data clusters, 5,000 GraphQL queries/sec, 16TB player data daily, 1,600 online instance                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XAJySxpKdzo/hqdefault.jpg)](https://www.youtube.com/watch?v=XAJySxpKdzo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XAJySxpKdzo)

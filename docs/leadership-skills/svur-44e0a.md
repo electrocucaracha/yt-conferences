@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Convince Your Boss to Let You Work From Home in 5 Steps | Tips from
   an Engineering Manager
-nav_order: 21
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ He emphasizes the importance of preparation, quantifiable results, and persisten
 |  13 | For broader influence strategies, check out Doug’s additional content on persuasion.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_SvUr_44e0A/hqdefault.jpg)](https://www.youtube.com/watch?v=_SvUr_44e0A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_SvUr_44e0A)

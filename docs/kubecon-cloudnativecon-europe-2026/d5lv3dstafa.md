@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Closing Remarks"
-nav_order: 167
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker expresses gratitude to the keynote speakers, co-chairs, and
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The closing remarks encourage continued engagement at future CubeCon and Cloud N
 |  20 | Closing wishes for attendees to enjoy the rest of the event                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/D5Lv3dstAfA/hqdefault.jpg)](https://www.youtube.com/watch?v=D5Lv3dstAfA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=D5Lv3dstAfA)

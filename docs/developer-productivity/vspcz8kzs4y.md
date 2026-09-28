@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Make Sure You Work on the Most Important Thing Each Day • Bjorn Freeman-Benson
   • GOTO 2012
-nav_order: 62
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses personal productivity, particularly for developers
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ By doing so, developers can focus on the most important tasks first and avoid ge
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vspCZ8Kzs4Y/hqdefault.jpg)](https://www.youtube.com/watch?v=vspCZ8Kzs4Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vspCZ8Kzs4Y)

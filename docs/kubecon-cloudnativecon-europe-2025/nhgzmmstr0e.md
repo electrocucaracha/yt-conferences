@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Streamlined Efficiency: Unshackling Kubernetes Image Volumes for Rapid AI
   Model... E. Rey & Y. Yuan"
-nav_order: 320
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=nHGzMmstR0E
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ To address this, the authors propose a solution that uses an index file to store
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nHGzMmstR0E/hqdefault.jpg)](https://www.youtube.com/watch?v=nHGzMmstR0E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nHGzMmstR0E)

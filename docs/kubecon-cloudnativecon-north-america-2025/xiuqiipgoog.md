@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Optimizing Multi-Agent LLM Workloads With AMD GPUs and Kueue - Yuchen Fama,
   Jodie Su & Zhiming Shen
-nav_order: 193
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presentation, led by representatives from Cognality, AMD, and AXeller,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concluded with a Q&A clarifying that the approach generalizes to any
 |  18 | Fractional GPU solution ensures agents only allocate their assigned memory, prev                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XiuqiIpGoOg/hqdefault.jpg)](https://www.youtube.com/watch?v=XiuqiIpGoOg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XiuqiIpGoOg)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Building Scalable End-to-end Latency Metrics From Distributed Trace - Kusha
   Maharshi, Bloomberg
-nav_order: 32
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Kosha Mahersi, a senior software engineer at Bloomberg, presents how
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The talk concludes with a Q&A covering technical details like state management, 
 |  14 | Rules for matching can use                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6xxqm9LIhoU/hqdefault.jpg)](https://www.youtube.com/watch?v=6xxqm9LIhoU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6xxqm9LIhoU)

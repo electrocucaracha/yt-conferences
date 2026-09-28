@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Kubernetes WG Device Management - GPUs, TPUs, NICs and More With DRA - Kevin
   Klues & Patrick Ohly
-nav_order: 170
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Dynamic Resource Allocation (DRA) working group in Kubernetes aims
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The working group is actively seeking feedback and contributions from the commun
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Z_15EyXOnhU/hqdefault.jpg)](https://www.youtube.com/watch?v=Z_15EyXOnhU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Z_15EyXOnhU)

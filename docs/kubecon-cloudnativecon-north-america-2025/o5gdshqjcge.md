@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Retrofitting OTEL Collectors & Prometheus - How To Overcome Scale... Vijay
   Samuel & Sandeep Raveesh
-nav_order: 259
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Vijay Samuel and Sep from eBay’s reliability engineering
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The team also addresses questions about their custom ingest gateway, indexer TTL
 |  23 | System supports hori                                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/O5GdShQJCgE/hqdefault.jpg)](https://www.youtube.com/watch?v=O5GdShQJCgE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=O5GdShQJCgE)

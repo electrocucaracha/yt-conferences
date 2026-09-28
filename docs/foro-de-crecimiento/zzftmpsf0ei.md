@@ -1,8 +1,5 @@
 ---
-layout: default
 title: La Arquitectura de la Riqueza Personal | Jonathan Quiroz
-nav_order: 52
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Jonathan Quiroz, empresario e inversionista, comparte
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Finalmente, invita a soñar en grande, a no conformarse con la pobreza y a busca
 |  24 | La prosperidad es un proceso; hay que permanecer en el juego y no perder la fe.                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zzFtmpsf0eI/hqdefault.jpg)](https://www.youtube.com/watch?v=zzFtmpsf0eI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zzFtmpsf0eI)

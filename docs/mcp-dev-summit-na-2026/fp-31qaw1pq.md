@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Session: Future-Proofing AI Agents: The Strategic Role of MCP -
   Don Murray, Safe Software"
-nav_order: 85
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Don Murray from Safe Software discusses the strategic importance of MCP
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The presentation concludes with a live demo showing how AI can interact with MCP
 |  20 | Live demos available at booth D P8.                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Fp-31qAW1PQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Fp-31qAW1PQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Fp-31qAW1PQ)

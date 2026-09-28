@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Tutorial: Exploring Multi-Tenant Kubernetes APIs and Controllers With Kcp"
-nav_order: 350
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Fb_3dWJdY9I
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -38,5 +35,7 @@ Participants can try exercises from the documentation on their own and attend a 
 |   9 | Multicluster runtime is discussed as a future topic.                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Fb_3dWJdY9I/hqdefault.jpg)](https://www.youtube.com/watch?v=Fb_3dWJdY9I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Fb_3dWJdY9I)

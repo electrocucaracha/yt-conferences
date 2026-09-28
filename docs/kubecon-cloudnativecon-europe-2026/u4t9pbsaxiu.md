@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Vitess: More Data, No Problems - Matt Lord & Rohit Nayak, PlanetScale"
-nav_order: 389
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Matt and Rohit from PlanetScale discuss Vitess,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Vitess emphasizes principles of distributed computing such as isolation, redunda
 |  22 | Zero downtime upgrades for query serving layers and database                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/u4T9PbsaxIU/hqdefault.jpg)](https://www.youtube.com/watch?v=u4T9PbsaxIU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=u4T9PbsaxIU)

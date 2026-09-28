@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SIG Contributor Experience: Guiding C... Nabarun Pal, Priyanka Saggu, Arpit
   Agrawal & Mario Fahlandt"
-nav_order: 317
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The session featured the SIG Contributor Experience (SIG ContribEx) team,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The session concluded with information on how to get involved, join meetings, an
 |  21 | Communication channels: Kubernetes Slack, mailing lists, regular me                                                                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QU1Ysn8QnEc/hqdefault.jpg)](https://www.youtube.com/watch?v=QU1Ysn8QnEc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QU1Ysn8QnEc)

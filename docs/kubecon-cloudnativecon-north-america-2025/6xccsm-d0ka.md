@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "GitOps for AI Agents: Building Reliable AI Pipelines With Argo - Benji Kalman
   & Shiran Melamed"
-nav_order: 93
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video discusses the implementation of AI in production, specifically
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The speakers emphasize the importance of separating concerns between teams, usin
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6xcCsm-d0KA/hqdefault.jpg)](https://www.youtube.com/watch?v=6xcCsm-d0KA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6xcCsm-d0KA)

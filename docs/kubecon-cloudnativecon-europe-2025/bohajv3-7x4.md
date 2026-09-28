@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Lightning Talk: Extending Envoy With WebAssembly - Yuki Ito, newmo, Inc."
-nav_order: 177
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 4 sentences.
 resource: https://www.youtube.com/watch?v=bOhaJV3_7X4
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -29,5 +26,7 @@ Recently, Google Cloud has started supporting web assembly features for its appl
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bOhaJV3_7X4/hqdefault.jpg)](https://www.youtube.com/watch?v=bOhaJV3_7X4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bOhaJV3_7X4)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Mind the Topology: Smarter Scheduling for AI Workloads on
   Kubernetes - Roman Baron"
-nav_order: 7
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   Roman Baron, a senior software engineer at Nvidia and maintainer of Sky
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Roman concludes by inviting interested contributors to join the Kai community an
 |  20 | Prefill and decode groups can be placed in                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/o5i7pTWZjfo/hqdefault.jpg)](https://www.youtube.com/watch?v=o5i7pTWZjfo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=o5i7pTWZjfo)

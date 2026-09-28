@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Paying Engineers like Salespeople – Arman Hezarkhani, Tenex
-nav_order: 5
-parent: Aie Code 2025 Ai Leadership
 type: Video Note
 description:
   Arman, co-founder of 10X, discusses his company's unique approach to
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Arman acknowledges potential risks such as inflated story points and quality con
 |  21 | Encourages rethinking compensation to unlock team potential.                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4mRekpZpBZs/hqdefault.jpg)](https://www.youtube.com/watch?v=4mRekpZpBZs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4mRekpZpBZs)

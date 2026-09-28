@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Sponsored Keynote: Evolving the Kubernetes User Experience - Andrew Randall"
-nav_order: 308
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses the challenges of scaling Kubernetes adoption,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The goal is to create a seamless user experience that unlocks mass adoption, lev
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/d2szUE0jhX4/hqdefault.jpg)](https://www.youtube.com/watch?v=d2szUE0jhX4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=d2szUE0jhX4)

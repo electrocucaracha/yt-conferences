@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: The Kyverno Five: New Policy Types And What You Can
   Do... Cortney Nickerson"
-nav_order: 238
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Courtney Nickerson introduces Kyverno, a Kubernetes-native policy engine,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ The adoption of CEL aligns Kyverno with Kubernetes, resulting in improved perfor
 |  14 | Kyverno welcomes contributions and engagement at the project pavilion, kiosk 13b.                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1WvHD-ihyfI/hqdefault.jpg)](https://www.youtube.com/watch?v=1WvHD-ihyfI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1WvHD-ihyfI)

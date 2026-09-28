@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The OS Behind the Curtain: What Happens on Your Nodes When Things Happen in
   Your Clu... Joe Thompson"
-nav_order: 315
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Joe Thompson introduces himself and outlines his background in IT and
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The talk concludes with a brief demo, audience Q&A, and encouragement to explore
 |  16 | Emphasis: underlying technologies (IP tables, mounts, cgroups) are old and knowable; understanding them demystifies Kubernetes                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9KCXvQU10yY/hqdefault.jpg)](https://www.youtube.com/watch?v=9KCXvQU10yY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9KCXvQU10yY)

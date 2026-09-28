@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Production-Ready LLMs on Kubernetes: Patterns, Pitfalls, and Performa... Priya
   Samuel & Luke Marsden"
-nav_order: 220
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The presentation discusses running generative AI models on own infrastructure
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The speakers also discuss the importance of testing and evaluating AI models, as
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KIRUbaUjEKw/hqdefault.jpg)](https://www.youtube.com/watch?v=KIRUbaUjEKw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KIRUbaUjEKw)

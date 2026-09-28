@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Visualize And Manage Your Cloud-Native Infrastructure
   With Me... Yash Sharma"
-nav_order: 294
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Yash, a developer advocate at D Solution and maintainer
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ He invites attendees to connect for further discussion or contribution opportuni
 |  20 | Interested contributors are encouraged to reach out for support and mentorship.                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/69uYP-TW48s/hqdefault.jpg)](https://www.youtube.com/watch?v=69uYP-TW48s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=69uYP-TW48s)

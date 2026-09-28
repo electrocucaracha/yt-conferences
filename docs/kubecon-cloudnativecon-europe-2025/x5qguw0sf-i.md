@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Why Don’t We Have Both? Track Build- and Run-time Information for S... Jeff
   Mendoza & Ben Hirschberg
-nav_order: 373
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "Ben, a software engineer at Kusari, discusses two projects: Guac and
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Ben showcases how Guac can integrate with Cubescape's filtered sbomb objects to 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/x5qguW0SF_I/hqdefault.jpg)](https://www.youtube.com/watch?v=x5qguW0SF_I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x5qguW0SF_I)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Forest & The Desert Are Parallel Universes • Kent Beck • GOTO 2025
-nav_order: 133
-parent: Developer Productivity
 type: Video Note
 description:
   'The speaker discusses the difference between two approaches to software
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The speaker argues that these two approaches are fundamentally different and can
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/W7XL_LZgvKI/hqdefault.jpg)](https://www.youtube.com/watch?v=W7XL_LZgvKI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=W7XL_LZgvKI)

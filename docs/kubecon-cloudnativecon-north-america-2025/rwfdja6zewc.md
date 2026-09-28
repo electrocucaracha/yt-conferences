@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Gateway API: Table Stakes - Shane Utt, Candace Holman, Mike Morris, Lior Lieberman
   & Kellen Swain"
-nav_order: 89
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video presents an overview and update on the Gateway API, a next-generation
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Additionally, the talk covers related subprojects like the inference extension a
 |  17 | Agentic Networking aims to provide governance and connectivity for agentic AI workloads, support                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RWFDjA6ZeWc/hqdefault.jpg)](https://www.youtube.com/watch?v=RWFDjA6ZeWc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RWFDjA6ZeWc)

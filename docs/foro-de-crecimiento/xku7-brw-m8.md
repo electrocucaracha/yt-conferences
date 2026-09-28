@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Communication expert: The problem isn't your idea, it's how you communicate
   it | Paco Benítez"
-nav_order: 9
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este episodio, los anfitriones y el invitado Paco Benítez, reconocido
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Finalmente, animan a los oyentes a tomar acción y desarrollar sus habilidades d
 |  15 | Tomar acción es clave: el que mejor comunica, gana.                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XKU7_brW-m8/hqdefault.jpg)](https://www.youtube.com/watch?v=XKU7_brW-m8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XKU7_brW-m8)

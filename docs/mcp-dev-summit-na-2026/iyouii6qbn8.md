@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   If You Can Secure It Here, You Can Secure It Anywhere - Milan Williams & Katrina
   Liu, Semgrep
-nav_order: 36
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Milan Williams and Katrina from SGrip discuss their experience
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The presentation concludes with a demonstration of their tool in action and a re
 |  23 | Security e                                                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iYouIi6QBn8/hqdefault.jpg)](https://www.youtube.com/watch?v=iYouIi6QBn8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iYouIi6QBn8)

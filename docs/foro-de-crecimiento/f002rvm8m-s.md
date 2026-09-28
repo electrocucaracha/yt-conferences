@@ -1,8 +1,5 @@
 ---
-layout: default
 title: El Éxito en los Negocios Se Aprende – Carlo Ledezma | Sesión 28
-nav_order: 22
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Carlos Ledesma, economista y experto en ventas directas,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finalmente, sostiene que el cliente es el motor, combustible y meta de todo nego
 |  20 | El desarrollo personal y las creencias son clave para el éxito emprendedor; el activo más importante eres tú.                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/F002Rvm8M_s/hqdefault.jpg)](https://www.youtube.com/watch?v=F002Rvm8M_s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=F002Rvm8M_s)

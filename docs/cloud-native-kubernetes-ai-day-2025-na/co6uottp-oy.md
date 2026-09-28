@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: From Open Source to Real-World Scale - Aleksandr Patrushev,
   Nebius"
-nav_order: 14
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The speaker introduces Nibbus, a NASDAQ-listed, engineering-led company
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The speaker invites attendees to learn more, visit their booth, and try out thei
 |  19 | Attendees are invited to visit the Nibbus booth for more information or to test the platform with provided credits.                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Co6uOtTp_OY/hqdefault.jpg)](https://www.youtube.com/watch?v=Co6uOtTp_OY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Co6uOtTp_OY)

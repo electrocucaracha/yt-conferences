@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Cloud Native University: Kubernetes and the Answer
   is… 42! - Jan Stomphorst"
-nav_order: 48
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Yan Stoneport, a solutions architect at a Dutch
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -73,5 +70,7 @@ The talk concludes by stressing that production readiness requires attention to 
 |  37 | Define HPA (Horizontal Pod Autoscaler) an                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/U_7Reuwa3Uw/hqdefault.jpg)](https://www.youtube.com/watch?v=U_7Reuwa3Uw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=U_7Reuwa3Uw)

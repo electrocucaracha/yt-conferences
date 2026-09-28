@@ -1,9 +1,6 @@
 ---
-layout: default
 title: "Keynote: There's Nothing to Fear About the EU's New Cybersecurity Law -
   Greg Kroah-Hartman"
-nav_order: 130
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Cyber Resilience Act in the EU aims to regulate software used in
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The law has already gone into force in the EU but won't be enforced until next y
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GSbIp7OxBq4/hqdefault.jpg)](https://www.youtube.com/watch?v=GSbIp7OxBq4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GSbIp7OxBq4)

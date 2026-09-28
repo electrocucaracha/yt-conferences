@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: Cloud-Native GraphRAG: AI’s Logical Edge - Stephen Chin,
   Neo4j"
-nav_order: 13
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The speaker, who is VP at Neo Forj and content chair at the AI LFN Data
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The speaker then demonstrates how graph RAG, as part of the open platform for en
 |  17 | Demonstrated querying the graph for information.                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/flldXr68NsI/hqdefault.jpg)](https://www.youtube.com/watch?v=flldXr68NsI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=flldXr68NsI)

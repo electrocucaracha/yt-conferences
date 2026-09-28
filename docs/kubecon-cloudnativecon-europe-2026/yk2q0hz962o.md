@@ -1,8 +1,5 @@
 ---
-layout: default
 title: etcd 3.6 Updates and 3.7 Roadmap - Arka Saha, Broadcom & Josh Berkus, Red Hat
-nav_order: 408
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this SCD maintainer session, Josh Burkus and Shaha provided updates
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ Demonstrations showcased the SCD operator's new capabilities, such as certificat
 |  27 | Call for contributors in areas: performance engineering, Protobuff overhaul, raft co                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YK2Q0hz962o/hqdefault.jpg)](https://www.youtube.com/watch?v=YK2Q0hz962o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YK2Q0hz962o)

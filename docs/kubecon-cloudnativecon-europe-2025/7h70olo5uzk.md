@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Limitless Possibilities, Consistent Design: Crafting Dashboards... Nicolas
   Takashi & Antoine Thébaud"
-nav_order: 187
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=7h70Olo5Uzk
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ The project also focuses on "dashboard as code" initiatives, which enable users 
 |  13 | The project aims to allow external contributors to provide more panels and extend the UI framework.        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7h70Olo5Uzk/hqdefault.jpg)](https://www.youtube.com/watch?v=7h70Olo5Uzk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7h70Olo5Uzk)

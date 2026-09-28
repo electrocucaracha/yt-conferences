@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Red Vs. Blue: A Live Attacker-Defender Showdown in Kubernetes Securi... Lucy
   Sweet & Sandeep Kanabar"
-nav_order: 256
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this live "Red Versus Blue" Kubernetes security demo, Lucy and Sandeep
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The session concludes with a discussion on additional tools like admission webho
 |  23 | Beyond PSA: admission webhooks and validating admission policies can prevent bad pods                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/q6ckwAXeeew/hqdefault.jpg)](https://www.youtube.com/watch?v=q6ckwAXeeew)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=q6ckwAXeeew)

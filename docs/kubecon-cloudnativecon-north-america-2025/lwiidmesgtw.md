@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "KubeEdge DeepDive: Extending Kubernetes To the... Tina Tsou, Hongbing Zhang,
   Huan Wei & Yin Ding"
-nav_order: 136
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video features a deep dive into the KubeEdge project, presented by
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The Q&A addresses topics including deployment at scale, security, minimal resour
 |  17 | Partnerships span industry, academia, and research, with mentorship programs and active community engagement.                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/LwIiDmesgtw/hqdefault.jpg)](https://www.youtube.com/watch?v=LwIiDmesgtw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LwIiDmesgtw)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Expanding Crossplane’s Reach - Providers, Bridges,
   and Extend... Ariel Septon"
-nav_order: 235
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Ariel discusses the limitations of using infrastructure as code tools
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ To address this, Ariel created Provado HTTP, a tool that enables users to define
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8-ovtwX2l7k/hqdefault.jpg)](https://www.youtube.com/watch?v=8-ovtwX2l7k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8-ovtwX2l7k)

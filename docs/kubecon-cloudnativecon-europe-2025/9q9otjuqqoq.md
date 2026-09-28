@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Scheduling AI Workload Among Multiple Clusters - Josh
   Packer, Supporter"
-nav_order: 259
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Joshua Packer, a member of the Open Cluster Management steering committee,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Integrations with Q and federated learning enable the use of GPU resources and p
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9q9oTJUqQoQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9q9oTJUqQoQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9q9oTJUqQoQ)

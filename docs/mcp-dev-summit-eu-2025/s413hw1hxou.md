@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] MCP & Contextual Smart Tooling with Jason Kneen - BouncingFish"
-nav_order: 28
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Jason, an experienced developer in the MCP (Model Context Protocol) ecosystem,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Jason also describes advanced orchestration techniques, such as proxy servers an
 |  17 | Jason implemented systems to rotate between free models and providers, spreading rate limits and including local models.               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/s413Hw1HXoU/hqdefault.jpg)](https://www.youtube.com/watch?v=s413Hw1HXoU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=s413Hw1HXoU)

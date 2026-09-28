@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SIG Apps Updates: Building the Next Generation of Kubernetes Workloads...
   Maciej Szulik & Janet Kuo"
-nav_order: 316
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this SAPS talk, Janet and Mache, co-leads of SIG Apps, discuss recent
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concludes with an invitation for community contributions, especially
 |  18 | MCP Lifecycle Operator: new project for managing MCP server lifecycle in c                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/uj2WVzDndt4/hqdefault.jpg)](https://www.youtube.com/watch?v=uj2WVzDndt4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uj2WVzDndt4)

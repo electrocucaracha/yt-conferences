@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Konveyor: Mining Developer Wisdom to Modernize Legacy
   Apps... Jonah Sussman"
-nav_order: 223
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Jonah Susman introduces Conveyor, a tool designed to accelerate large-scale
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Overall, Conveyor aims to automate and expedite modernization efforts, and inter
 |  18 | Additional information and support available at kiosk 1A (Tuesday 10:45–3) and on Kubernetes Slack (conveyor dev). |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/urPCD5uMFk0/hqdefault.jpg)](https://www.youtube.com/watch?v=urPCD5uMFk0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=urPCD5uMFk0)

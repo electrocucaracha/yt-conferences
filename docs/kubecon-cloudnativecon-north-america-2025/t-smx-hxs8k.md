@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Harmonizing Your Platform Domain With Kubernetes and Custom Resource Definitions
   - Sebastien Blanc
-nav_order: 95
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Sebie, a developer advocate at Port, discusses the role
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The session concludes with an invitation to further discuss platform engineering
 |  21 | Multiple IDPs may exist in organizations;                                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/T_sMX_hxS8k/hqdefault.jpg)](https://www.youtube.com/watch?v=T_sMX_hxS8k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=T_sMX_hxS8k)

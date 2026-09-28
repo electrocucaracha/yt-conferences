@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Goose as a Proving Ground for New MCP Features, and How To Use Them - Alex
   Hancock, Block
-nav_order: 32
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker discusses bridging the gap between those with ideas for improving
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The speaker invites the community to contribute experimental ideas and implement
 |  19 | Goose currently lacks support for long-running tasks in the host UI but Ratings (1-5): 3                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0nNUor6GVbk/hqdefault.jpg)](https://www.youtube.com/watch?v=0nNUor6GVbk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0nNUor6GVbk)

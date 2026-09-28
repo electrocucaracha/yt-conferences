@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How We Tackle KubeVirt’s Growth and Scalability - Ľuboslav Pivarč, Red Hat
   & Alay Patel, NVIDIA
-nav_order: 126
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Cubert upstream CI system has undergone significant changes to improve
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Future work includes refining simulation tests to mimic real-world workloads and
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/xwGDxqI_3Nk/hqdefault.jpg)](https://www.youtube.com/watch?v=xwGDxqI_3Nk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xwGDxqI_3Nk)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "DevUX: Improving Developer-Designer Collaboration • Yu Ling Cheng & France
   Wang • GOTO 2019"
-nav_order: 27
-parent: Developer Productivity
 type: Video Note
 description:
   Julien, a developer, shares his experiences with collaboration between
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ By following these principles, teams can overcome common challenges and create h
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/uWIfnPc1wC0/hqdefault.jpg)](https://www.youtube.com/watch?v=uWIfnPc1wC0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uWIfnPc1wC0)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Intro to OAuth for MCP Servers with Aaron Parecki, Okta"
-nav_order: 15
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Aaron Pari from Octa discusses the complexities and evolution of OAuth,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Finally, he addresses enterprise scenarios, proposing a model where identity pro
 |  20 | Blog post available for more                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mYKMwZcGynw/hqdefault.jpg)](https://www.youtube.com/watch?v=mYKMwZcGynw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mYKMwZcGynw)

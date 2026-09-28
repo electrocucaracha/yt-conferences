@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Keynote] MCP201: The Protocol in Depth with David Soria Parra at Anthropic"
-nav_order: 7
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   In this talk, David, a technical staff member at Anthropic and co-creator
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ Finally, David touches on upcoming developments such as agent support, asynchron
 |  16 | Future directions: asynchronous task execution, user elicitation, official registry API, multi-modality, new SDKs (Ruby, Go), and open-source registries.                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/C_nqAWHsldo/hqdefault.jpg)](https://www.youtube.com/watch?v=C_nqAWHsldo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=C_nqAWHsldo)

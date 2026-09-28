@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: “Naming Things Is Hard”: A Guide to Naming Using Network Science
   - Nick Travaglini"
-nav_order: 210
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Nick, a senior technical customer success manager at Honeycomb.io,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ He encourages teams to consider this model when naming telemetry elements, while
 |  16 | Encouragement to try the approach and share results with the community.                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vU5v4_P13lE/hqdefault.jpg)](https://www.youtube.com/watch?v=vU5v4_P13lE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vU5v4_P13lE)

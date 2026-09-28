@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] Too Many Tools: Surviving the MCP Tool Overload with Shalev Shalit
   - Webrix"
-nav_order: 16
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   In this presentation, Shalev, co-founder and CEO of Webbricks, discusses
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -44,5 +41,7 @@ Shalev concludes by suggesting that the future lies in more sophisticated, capab
 |  10 | Encouragement to try toolkits and provide feedback.                                                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hJY04dV-o7U/hqdefault.jpg)](https://www.youtube.com/watch?v=hJY04dV-o7U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hJY04dV-o7U)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Michel Domit: Ser, Hacer y Tener | sesión 40"
-nav_order: 60
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta masterclass, Michelle Domit enfatiza la importancia de planear
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Finalmente, motiva a crear un plan de vida basado en el ser, el hacer y el tener
 |  22 | El plan de vida debe tene                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dX-5zXh76Tk/hqdefault.jpg)](https://www.youtube.com/watch?v=dX-5zXh76Tk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dX-5zXh76Tk)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Five Minutes by CloudNativePG River - Gabriele Quaresima,
   Contributor"
-nav_order: 261
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Gabriel Quarisima, a staff engineer and CloudNativePG contributor, introduces
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Gabriel invites the community to join CloudNativePG on various platforms and att
 |  20 | Two related talks are scheduled, including one on data sovereignty and another by Gabriel Bolini and Lauren Parody.                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Cwz7WAOtr6w/hqdefault.jpg)](https://www.youtube.com/watch?v=Cwz7WAOtr6w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Cwz7WAOtr6w)

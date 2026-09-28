@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   OSS = Open Source ... Strategy!? Google Is Doubling Down on K8s in the AI Era,
   and Yo... ago Macleod
-nav_order: 205
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The speaker discusses the evolution of Kubernetes, an open-source container
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They also discuss the importance of maintaining consistency across different fra
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-3NyXaVPGvo/hqdefault.jpg)](https://www.youtube.com/watch?v=-3NyXaVPGvo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-3NyXaVPGvo)

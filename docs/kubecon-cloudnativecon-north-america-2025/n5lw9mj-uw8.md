@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kyverno Everywhere: Simplifying Unified Policy as Code - Jim Bugwadia & Charles-Edouard
   Brétéché"
-nav_order: 145
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Kivero aims to simplify Kubernetes policy and governance by providing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The project continues to innovate with new features, improved modularity, and an
 |  17 | Community engagement and support are encouraged through events and project booths.                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/N5Lw9Mj_uW8/hqdefault.jpg)](https://www.youtube.com/watch?v=N5Lw9Mj_uW8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=N5Lw9Mj_uW8)

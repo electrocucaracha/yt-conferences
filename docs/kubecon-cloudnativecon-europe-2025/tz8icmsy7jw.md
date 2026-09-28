@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Dynamic Multi-Cluster Controllers With Controller-runtime - Marvin Beckers
   & Stefan Schimanski
-nav_order: 78
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Marvin Beckers, a team lead at Kubernetic, discusses writing dynamic
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ Marvin showcases the code and demonstrates how to build a multicluster controlle
 |  13 | There are plans to gather feedback from existing code bases and integrate with cluster profile provider on sig multicluster.      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Tz8IcMSY7jw/hqdefault.jpg)](https://www.youtube.com/watch?v=Tz8IcMSY7jw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Tz8IcMSY7jw)

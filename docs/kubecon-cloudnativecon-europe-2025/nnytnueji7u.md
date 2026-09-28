@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Workshop: Developing as a Team for Kubernetes With Nix an... Leigh
   Capili & Tanja Ulianova"
-nav_order: 354
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker is discussing the Nyx package manager, which allows for declarative
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ They also discuss the importance of GitOps and shifting it left to include machi
 |   9 | They demonstrate how to use this feature to manage flux instances and create a namespace for their app.                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NnYtnUeJi7U/hqdefault.jpg)](https://www.youtube.com/watch?v=NnYtnUeJi7U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NnYtnUeJi7U)

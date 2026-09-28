@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Live Kubernetes Debugging with the Elastic Stack • Philipp Krenn • GOTO 2019
-nav_order: 80
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses various tools and techniques for debugging and
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The speaker emphasizes the need for a unified platform that can bridge individua
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/LvhIMkr0rXg/hqdefault.jpg)](https://www.youtube.com/watch?v=LvhIMkr0rXg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LvhIMkr0rXg)

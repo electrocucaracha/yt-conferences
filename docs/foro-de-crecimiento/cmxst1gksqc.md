@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Ultimate Guide to Growing on Instagram and TikTok (and Making a Living
   from It) || Andrea Mex...
-nav_order: 69
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa conversación, se aborda la evolución y el impacto de
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ Finalmente, se reconoce que el camino implica retos como la crítica y la discip
 |  25 | El crecimiento personal y la orga                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cMxST1Gksqc/hqdefault.jpg)](https://www.youtube.com/watch?v=cMxST1Gksqc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cMxST1Gksqc)

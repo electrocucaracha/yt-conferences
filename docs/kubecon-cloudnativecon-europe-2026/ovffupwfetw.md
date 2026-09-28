@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Enriching Telemetry Signals Through Lookups in the OTel Collector - João Duarte,
   Elastic
-nav_order: 101
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Jan from Elastic discusses enriching telemetry signals
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concludes with a Q&A addressing extensibility and handling latency o
 |  19 | Q&A: Custom sources can be added externally; timeouts and negative caching help manage latency                                                                                                                                                                                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OVffupWFEtw/hqdefault.jpg)](https://www.youtube.com/watch?v=OVffupWFEtw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OVffupWFEtw)

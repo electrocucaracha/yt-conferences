@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Cómo Liberarte del Juicio, Perdonar y Crear Abundancia | Papá Jaime
-nav_order: 12
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Papá Jaime, reconocido líder humanista y nominado
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ Además, aborda temas como la espiritualidad práctica, la activación de la gl�
 |  15 | Mensaje final: nunca depositar la felicidad afuera, elegir desde el amor, nunca dejar de soñar y siempre hay luz al final de la alcantarilla.     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4ItxU-_S47U/hqdefault.jpg)](https://www.youtube.com/watch?v=4ItxU-_S47U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4ItxU-_S47U)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Rules Are Not Suggestions: A History of MCP Non-Compliance - Sterling Dreyer,
   Arcade.dev"
-nav_order: 78
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Serling, a founding engineer at Arcade, discussed his experience integrating
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Serling advocated for better promotion and expansion of MCP’s conformance test
 |  19 | Issues discussed were discovered during Arcade's MCP integration, not foundational to Arcade's creati                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/EcgYMY4eUTo/hqdefault.jpg)](https://www.youtube.com/watch?v=EcgYMY4eUTo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EcgYMY4eUTo)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "MCP: The Gateway to Real-Time Human–AI Collaboration in Jupyter at Scale -
   Jake Diamond-Reivich"
-nav_order: 63
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Jake from the Jupyter open source governing board introduces Jupyter
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Jake emphasizes the flexibility and security of running Jupyter locally, the eas
 |  23 | Jake is open to feedback and queues                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NPcY4ccny7E/hqdefault.jpg)](https://www.youtube.com/watch?v=NPcY4ccny7E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NPcY4ccny7E)

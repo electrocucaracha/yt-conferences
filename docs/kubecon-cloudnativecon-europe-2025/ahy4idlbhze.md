@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Building a Platform Framework: Lessons Learned From Developing a Multi-Cl...
   Cat Morris & Jake Klein"
-nav_order: 35
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speakers from Cintaso share their experience building a platform
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ The speakers emphasize the importance of understanding why you started building 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/AHY4IDlBhzE/hqdefault.jpg)](https://www.youtube.com/watch?v=AHY4IDlBhzE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=AHY4IDlBhzE)

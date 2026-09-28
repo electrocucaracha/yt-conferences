@@ -1,8 +1,5 @@
 ---
-layout: default
 title: If I Were Looking For A Tech Job in 2026
-nav_order: 19
-parent: Interview Preparation
 type: Video Note
 description:
   To stand out in the job market, one must shift their focus from showcasing
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ By taking the inconvenient path, individuals can create their own experience, bu
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hKpY693YUo8/hqdefault.jpg)](https://www.youtube.com/watch?v=hKpY693YUo8&t)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hKpY693YUo8&t)

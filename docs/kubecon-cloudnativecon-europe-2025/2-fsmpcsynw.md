@@ -1,8 +1,5 @@
 ---
-layout: default
 title: KubeCon FamilyFortune, Episode 2 - Tim Hockin, Google & Lucy Sweet, Uber
-nav_order: 160
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   In the Family Feud-style game show "Kubernetes Family Fortune," two teams,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ In the end, Team Spaces emerges victorious with 114 points, narrowly beating Tea
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2-fSMpCSYnw/hqdefault.jpg)](https://www.youtube.com/watch?v=2-fSMpCSYnw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2-fSMpCSYnw)

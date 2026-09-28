@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Estratega emocional: cómo dominar la depresión, la ansiedad y las adicciones
   | Manuel Salmun"
-nav_order: 28
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Manuel Salmón, experto en adicciones, ansiedad, depresión
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finalmente, advierte que no cambiar implica vivir una vida repetitiva y llena de
 |  18 | El costo de no cambiar es vivir una versión reciclada del pasado y experimentar arrepentimiento.                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/sVyqCC9bxt0/hqdefault.jpg)](https://www.youtube.com/watch?v=sVyqCC9bxt0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sVyqCC9bxt0)

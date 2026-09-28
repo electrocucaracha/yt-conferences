@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Rust Is the Language of AGI - Miley Fu, Second State
-nav_order: 263
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Miley Fu, a CNCF ambassador, presented on behalf of Michael about the
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Miley showcased the open-source Rascoder project, which enables agents to genera
 |  17 | Rascoder project: open source                                                                                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/u3iCjz7p8aE/hqdefault.jpg)](https://www.youtube.com/watch?v=u3iCjz7p8aE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=u3iCjz7p8aE)

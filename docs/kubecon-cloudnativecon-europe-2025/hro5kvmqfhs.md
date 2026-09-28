@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Can You Maintain 1000 Apps? WasmCloud & K8s: The Ultimate Golden Template
   - Liam Randall, Cosmonic"
-nav_order: 40
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Liam Randall, founder and CEO of Cosmonic, discusses platform engineering
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The technology has been adopted by tens of thousands of contributors and is used
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HrO5KVMQfHs/hqdefault.jpg)](https://www.youtube.com/watch?v=HrO5KVMQfHs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HrO5KVMQfHs)

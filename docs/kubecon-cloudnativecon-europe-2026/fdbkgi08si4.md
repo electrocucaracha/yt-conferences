@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Cloud Native University: AI + Kubernetes: What Beginners...
   Michael Forrester"
-nav_order: 44
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses the evolving landscape of AI workloads and Kubernetes,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The overall message is to stay calm, focus on learning a few new tools, and reco
 |  19 | Adapting to AI workloads mainly requires learning a few new tools and concepts; most existing knowledge is still applicable.                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FdBkGi08SI4/hqdefault.jpg)](https://www.youtube.com/watch?v=FdBkGi08SI4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FdBkGi08SI4)

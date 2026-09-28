@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: MCP @ Amazon Scale - James Hood, Principal Software Engineer, Amazon
   Web Services"
-nav_order: 44
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   James Hood, a senior principal engineer at Amazon, shares his journey
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Ultimately, Hood asserts that MCP is far from dead, and that combining various A
 |  20 | MCP is foundational to Amazon's A                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-1roGvApmOw/hqdefault.jpg)](https://www.youtube.com/watch?v=-1roGvApmOw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-1roGvApmOw)

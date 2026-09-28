@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Istio: Set Sailing With Istio Without Sidecars - Lin
   Sun"
-nav_order: 221
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker introduces Istio Ambient, a service mesh architecture that
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The speaker highlights the simplicity and efficiency of Ambient mode, emphasizin
 |  17 | Demo concludes with a summary of Ambient’s benefits and features.                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SwB7W8g9r6I/hqdefault.jpg)](https://www.youtube.com/watch?v=SwB7W8g9r6I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SwB7W8g9r6I)

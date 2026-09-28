@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 4: Learning III"
-nav_order: 15
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture introduces deep learning, beginning with a review of linear
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Throughout, the instructor emphasizes the modularity and flexibility of PyTorch,
 |  23 | Stochastic gradient descent (SGD) uses mini-batches for efficient training; optimizer is a                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/89NND-Ca0yY/hqdefault.jpg)](https://www.youtube.com/watch?v=89NND-Ca0yY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=89NND-Ca0yY)

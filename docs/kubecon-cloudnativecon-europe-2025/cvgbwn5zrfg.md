@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "IAM, Agent: Identity for Autonomous AI - Matthew Bates, Cofide"
-nav_order: 128
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Matt Bates, founder of Kofi, discusses workload identity and its importance
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The goal is to move from a model of implicit trust to one of fine-grained author
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CvGbwn5ZrFg/hqdefault.jpg)](https://www.youtube.com/watch?v=CvGbwn5ZrFg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CvGbwn5ZrFg)

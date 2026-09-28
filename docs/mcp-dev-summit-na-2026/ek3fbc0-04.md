@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "MCP Servers in the Wild: Managing Tool Complexity at Scale - Arnav Balyan,
   Concierge AI"
-nav_order: 58
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   "The speaker discusses strategies for managing MCP servers as tool complexity
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ The speaker also mentions emerging areas like generative UI and distribution cha
 |  15 | Concurge SDK is an open source project to help convert servers                                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Ek3FbC0__04/hqdefault.jpg)](https://www.youtube.com/watch?v=Ek3FbC0__04)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ek3FbC0__04)

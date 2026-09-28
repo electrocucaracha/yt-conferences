@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tailor Made: Dynamic Fine-Grained Authorization for API Traffic - Erica Hughberg
   & Andres Aguiar"
-nav_order: 351
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, the speakers discuss the challenges of implementing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The presenters emphasize the flexibility and creativity enabled by this approach
 |  17 | Presenters: Erica Hubber (Tetrate, Envoy AI Gateway maintainer) and Andreas (Okta, OpenFGA maintainer).                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/A1FXOwUmA6M/hqdefault.jpg)](https://www.youtube.com/watch?v=A1FXOwUmA6M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=A1FXOwUmA6M)

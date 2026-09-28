@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   OpenFeature Update From the Ma... Lukas Reining, André Silva, Thomas Poignant
   & Alexandra Oberaigner
-nav_order: 231
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The OpenFeature maintainers provided an update on the project's progress,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ They encouraged participation, highlighted educational resources, and addressed 
 |  17 | Community is growing, with over 120 cont                                                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9ebYq4cbjIY/hqdefault.jpg)](https://www.youtube.com/watch?v=9ebYq4cbjIY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9ebYq4cbjIY)

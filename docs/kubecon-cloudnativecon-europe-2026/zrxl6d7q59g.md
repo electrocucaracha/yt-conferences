@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Pay Less for More: A Practitioner's Playbook for Kubern... Malgorzata Widelicka
   & Lukasz Ogrodowczyk"
-nav_order: 240
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Ma Gojata and Gash, DevOps specialists at Roche, discuss their experiences
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes with key takeaways: customize configurations to workload n
 |  18 | Node churn (frequent node c                                                                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZRXl6d7Q59g/hqdefault.jpg)](https://www.youtube.com/watch?v=ZRXl6d7Q59g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZRXl6d7Q59g)

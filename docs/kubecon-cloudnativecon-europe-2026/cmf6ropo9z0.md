@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "In-place Updates with Cluster API: The Sweet Spot Between Immu... Fabrizio
   Pandini & Stefan Büringer"
-nav_order: 152
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The talk, led by Fabritz Pandini and Stefan Ginger, focuses on the introduction
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ The speakers emphasize that while in-place updates are useful for non-disruptive
 |  26 | System prefers in-place when allowed by user spec.                                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CMf6rOPo9Z0/hqdefault.jpg)](https://www.youtube.com/watch?v=CMf6rOPo9Z0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CMf6rOPo9Z0)

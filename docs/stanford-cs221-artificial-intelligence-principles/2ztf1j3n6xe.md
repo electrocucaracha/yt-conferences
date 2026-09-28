@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 7: Markov Decision Processes"
-nav_order: 18
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   In this lecture, the instructor introduces Markov Decision Processes
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The lecture concludes by emphasizing the structural similarities between these a
 |  17 | Next topic: reinforcement learning for unknown transitions and rewards.                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2ZtF1j3n6XE/hqdefault.jpg)](https://www.youtube.com/watch?v=2ZtF1j3n6XE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2ZtF1j3n6XE)

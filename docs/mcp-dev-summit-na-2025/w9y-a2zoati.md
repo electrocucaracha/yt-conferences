@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Securing MCP in an Agentic World with Arjun Sambamoorthy from Cisco"
-nav_order: 19
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Arjun, head of R&D for Cisco's AI security product, discusses the security
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ To mitigate these threats, Arjun recommends establishing a trusted MCP registry,
 |  25 | Centralized MCP register                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/W9y_a2ZOatI/hqdefault.jpg)](https://www.youtube.com/watch?v=W9y_a2ZOatI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=W9y_a2ZOatI)

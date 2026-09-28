@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Type-safe Feature Flagging in OpenFeature: Lessons Learned F... Michael Beemer
   & Florin-Mihai Anghel"
-nav_order: 355
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video discusses type-safe feature flagging in Open Feature, a CNCF
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The project invites feedback and contributions from the audience, with resources
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mewXGSwDCE4/hqdefault.jpg)](https://www.youtube.com/watch?v=mewXGSwDCE4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mewXGSwDCE4)

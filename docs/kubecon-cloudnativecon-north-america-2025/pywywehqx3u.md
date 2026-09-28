@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: CloudNativePG: Running Postgres The Kubernetes Way
   - Gabriele Bartolini"
-nav_order: 211
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Gabriel, a maintainer of CloudNativePG and a PostgreSQL contributor,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finally, he encourages attendees to join the community and support the projectâ€
 |  18 | Encourage                                                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pYwYwehQX3U/hqdefault.jpg)](https://www.youtube.com/watch?v=pYwYwehQX3U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pYwYwehQX3U)

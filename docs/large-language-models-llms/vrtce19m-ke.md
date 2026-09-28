@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Stanford Webinar - Large Language Models Get the Hype, but Compound Systems
   Are the Future of AI
-nav_order: 17
-parent: Large Language Models Llms
 type: Video Note
 description:
   The speaker emphasizes that while large language models (LLMs) receive
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The talk introduces the DSPy library as a tool for principled, modular AI system
 |  17 | Future progress                                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vRTcE19M-KE/hqdefault.jpg)](https://www.youtube.com/watch?v=vRTcE19M-KE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vRTcE19M-KE)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Beyond the Cloud: Managing Baremetal the Kubernetes Way Using Metal... Ádám
   Rozmán & Nicolas Belouin"
-nav_order: 27
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Adam Rosman from Ericsson and Nicolola Bulwa from
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The session concludes with a Q&A covering switch management integration, support
 |  20 | Bare metal op                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pThPIOZ7Nb0/hqdefault.jpg)](https://www.youtube.com/watch?v=pThPIOZ7Nb0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pThPIOZ7Nb0)

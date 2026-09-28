@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SPIFFE in Practice: Universal Identity for WebAssembly Workloads - Joonas
   Bergius & Colin Murphy"
-nav_order: 294
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Colin Murphy, a senior Rust engineer at Adobe, shares his experience
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ Colin emphasizes the importance of workload identity in the age of AI and machin
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/c0dEL_bBRVU/hqdefault.jpg)](https://www.youtube.com/watch?v=c0dEL_bBRVU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=c0dEL_bBRVU)

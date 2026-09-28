@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Beyond Operations: Scaling Platform Engineering in the CNCF Community
   - Abby Bangser"
-nav_order: 118
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   "The speaker discusses how software delivery changes require more from
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ They emphasize the need for organizations to adopt global principles and tactics
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gmAfYEPBYr0/hqdefault.jpg)](https://www.youtube.com/watch?v=gmAfYEPBYr0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gmAfYEPBYr0)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Expanding eBPF’s Reach: From Batteries-Included Auto-Instrumentation To E2E
   Observab... Dom Del Nano"
-nav_order: 89
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Dom Donano, CEO of Cosmic, discusses expanding EBPF's reach
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ DOM highlights Pixie's ability to process files, combine data from different sou
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/I236sjooftw/hqdefault.jpg)](https://www.youtube.com/watch?v=I236sjooftw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=I236sjooftw)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Fast and the Furious: CICD Pipeline for eBPF Programs at Meta S... Theophilus
   Benson & Prankur Gupta"
-nav_order: 73
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presentation discusses the challenges and solutions involved in building
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The speaker concludes that eBPF pipelines require tailored infrastructure and co
 |  20 | Observability: decoupled metric collection/export, external services for exporting BPF coun                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wXuykaYSFCQ/hqdefault.jpg)](https://www.youtube.com/watch?v=wXuykaYSFCQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wXuykaYSFCQ)

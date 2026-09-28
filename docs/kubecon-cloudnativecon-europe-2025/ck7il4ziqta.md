@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Chaos Engineering Practice Under Ultra-large-scale Cloud Native Edge Computing
   - Yue Bao & yue li
-nav_order: 42
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The presenter discusses the testing of large-scale edge computing using
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The test results show that Kubage can stably support 100,000 edge nodes online a
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CK7Il4ZiqTA/hqdefault.jpg)](https://www.youtube.com/watch?v=CK7Il4ZiqTA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CK7Il4ZiqTA)

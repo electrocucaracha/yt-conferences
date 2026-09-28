@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Introduction To Tag Infrastructure - Kashif Khan, Ericsson & Dylan Page, Lambda.ai
-nav_order: 156
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Dylan Paige and Kashif, co-chairs of the CNCF Technical Advisory Group
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ They also clarify that while reference architectures can be artifacts of TAGs, s
 |  16 | Reference                                                                                                                                                                                                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tAxTJoA5HW4/hqdefault.jpg)](https://www.youtube.com/watch?v=tAxTJoA5HW4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tAxTJoA5HW4)

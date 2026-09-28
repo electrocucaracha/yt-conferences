@@ -1,8 +1,5 @@
 ---
-layout: default
 title: MCP Developers Summit Highlights - May 23, 2025
-nav_order: 1
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   The speaker expresses enthusiasm about staying current with advancements
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -41,5 +38,7 @@ Overall, there is a strong sense of optimism about the future developments and c
 |   9 | Anticipation of increased collaboration and integration within the next six months |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RIiUnAmm_ZY/hqdefault.jpg)](https://www.youtube.com/watch?v=RIiUnAmm_ZY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RIiUnAmm_ZY)

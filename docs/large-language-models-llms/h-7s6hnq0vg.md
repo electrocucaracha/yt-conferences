@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 7 - Agentic LLMs
-nav_order: 7
-parent: Large Language Models Llms
 type: Video Note
 description:
   In this lecture, the instructors first recap previous discussions on
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes with a discussion on safety risks, mitigation strategies, 
 |  17 | Standardization efforts like MCP (Model Context Protoc                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/h-7S6HNq0Vg/hqdefault.jpg)](https://www.youtube.com/watch?v=h-7S6HNq0Vg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=h-7S6HNq0Vg)

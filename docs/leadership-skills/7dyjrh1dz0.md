@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Moving From Individual Contributor to Managing Remote Team of Engineers | Interview
   Vince Marvin
-nav_order: 36
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Vince Marvin discusses his recent promotion to his first
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ He advises aspiring leaders to seek out opportunities to lead projects, communic
 |  19 | Stresses the importance of stepping outside comfort zones to grow as a leader.                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_7DyjRH1DZ0/hqdefault.jpg)](https://www.youtube.com/watch?v=_7DyjRH1DZ0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_7DyjRH1DZ0)

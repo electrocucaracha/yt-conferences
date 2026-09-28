@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: Scaling Smarter: Simplifying Multicluster AI with KAITO
   and KubeFl... Jorge Palma"
-nav_order: 289
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker discusses the importance of using AI in a responsible and
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The speaker demonstrates this architecture using three Kubernetes clusters, show
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SHG6T-8HIX8/hqdefault.jpg)](https://www.youtube.com/watch?v=SHG6T-8HIX8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SHG6T-8HIX8)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes SIG Storage: Intro & Deep Dive - Xing Yang, VMware by Broadcom
   & Jan Šafránek, Red Hat"
-nav_order: 194
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The Kubernetes SIG Storage session, led by Shinang and Yan, provided
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ The session concluded with information on ongoing design efforts, such as expand
 |  25 | Slides and materials will be uploaded after the session                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/p17X_VnlpiY/hqdefault.jpg)](https://www.youtube.com/watch?v=p17X_VnlpiY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p17X_VnlpiY)

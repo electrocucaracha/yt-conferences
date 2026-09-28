@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Keynote] Revolutionizing Travel with AI How We Built the Turkish Airlines
   MCP"
-nav_order: 21
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   The speaker, delivering their first major international speech, introduces
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The speaker also mentions their open-source contributions, such as the Takeoff U
 |  25 | Emphasis on empowering people with the right tools to                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KWvkPFnHwlM/hqdefault.jpg)](https://www.youtube.com/watch?v=KWvkPFnHwlM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KWvkPFnHwlM)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Flux - The GitLess GitOps Edition - Stefan Prodan, ControlPlane & Dipti Pai,
   Microsoft
-nav_order: 81
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video features a discussion with Dipy, a Flux maintainer, about advancements
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concludes with highlights of new features in Flux 2.7, such as the s
 |  18 | Upcoming features: Helm 4 integration, Flux 2.8, and a new status page embedded in Flux Operator.                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TFv15d0iy8M/hqdefault.jpg)](https://www.youtube.com/watch?v=TFv15d0iy8M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TFv15d0iy8M)

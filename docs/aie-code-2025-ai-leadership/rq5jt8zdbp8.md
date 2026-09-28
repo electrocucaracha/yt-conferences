@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Welcome to AIE LEAD - Alex Lieberman, Tenex
-nav_order: 6
-parent: Aie Code 2025 Ai Leadership
 type: Video Note
 description:
   Alex Lieberman, co-founder of Morning Brew and now MC for the AI Engineer
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -44,5 +41,7 @@ He also acknowledges and thanks the event's sponsors, including Google DeepMind,
 |  11 | The event encourages active participation and excitement from attendees.                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RQ5Jt8zDBp8/hqdefault.jpg)](https://www.youtube.com/watch?v=RQ5Jt8zDBp8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RQ5Jt8zDBp8)

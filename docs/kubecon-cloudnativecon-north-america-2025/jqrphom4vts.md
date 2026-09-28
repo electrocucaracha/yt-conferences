@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Reimagining Insurance Infrastructure: CopperPoint's Cloud Native Blueprint
   - Sid Dixit & Sham Rao"
-nav_order: 257
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Sid Dixit and Shamar Rao from Copper Point Insurance
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The speakers recommend starting simple, empowering teams, avoiding vendor lock-i
 |  16 | Lessons learned: avoid overcomplicating with microservices, automate developer environments, use Linux and Visual Studio Code, and script everything (preferably                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jQRpHOm4Vts/hqdefault.jpg)](https://www.youtube.com/watch?v=jQRpHOm4Vts)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jQRpHOm4Vts)

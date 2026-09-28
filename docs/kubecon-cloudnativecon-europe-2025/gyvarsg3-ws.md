@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Science at Light Speed: Cloud Native Infrastructure for Astronomy
   Wor... Carolina Lindqvist"
-nav_order: 155
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: I'm ready to assist. Please provide the video transcript for me to summarize.
 resource: https://www.youtube.com/watch?v=GyvARSG3_ws
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -29,5 +26,7 @@ Please provide the video transcript for me to summarize.
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GyvARSG3_ws/hqdefault.jpg)](https://www.youtube.com/watch?v=GyvARSG3_ws)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GyvARSG3_ws)

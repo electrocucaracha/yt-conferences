@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Platform Mesh: Breaking API Lock-In for True Multi-Cloud Service... Mirza
   Kopic & Mangirdas Judeikis"
-nav_order: 244
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Ma Kopich from SAP and MJ from Clyiso introduce Platform Mesh, a toolkit
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The presenters emphasize the importance of abstraction layers and reusable APIs 
 |  17 | The team encourages feedback and questions, and invites attendees to visit their booth for more information.                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/43X0_U3cc-Y/hqdefault.jpg)](https://www.youtube.com/watch?v=43X0_U3cc-Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=43X0_U3cc-Y)

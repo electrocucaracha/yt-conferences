@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Cloud Native University: How Kube... Michael Forrester
   and Mumshad Mannambeth"
-nav_order: 46
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation discusses how Kubernetes governs itself, focusing on
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ To stay updated, the speakers recommend subscribing to resources like "Last Week
 |  22 | Community is open and supportive; all skill levels are encouraged to participate.                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_PzPt0dyPRU/hqdefault.jpg)](https://www.youtube.com/watch?v=_PzPt0dyPRU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_PzPt0dyPRU)

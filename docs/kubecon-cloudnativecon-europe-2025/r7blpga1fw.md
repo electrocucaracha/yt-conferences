@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: A Hitchhiker's Guide to the CNCF Landscape - Lori
   Larusso & Gerald Venzl"
-nav_order: 222
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Cloud Native Computing Foundation (CNCF) has grown significantly
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ By using this tool, users can find projects that meet their needs and contribute
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_r7blpGA1Fw/hqdefault.jpg)](https://www.youtube.com/watch?v=_r7blpGA1Fw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_r7blpGA1Fw)

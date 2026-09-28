@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Jenkins to Tekton: Our Journey Toward a Kubernetes-Native CI... Mustafa
   Barış Ege & Özge Aygül"
-nav_order: 120
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Ozge and Baris share their DevOps team's migration
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ They discuss technical and cultural lessons learned, including pipeline scheduli
 |  20 | Communication solved common package issues better than more YA                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/g7WXxziISCU/hqdefault.jpg)](https://www.youtube.com/watch?v=g7WXxziISCU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=g7WXxziISCU)

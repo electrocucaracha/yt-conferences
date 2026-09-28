@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Stateful Connections in Kubernetes: The Scaling Secrets Nobody... André Mocke
   & Rodrigo Fior Kuntzer"
-nav_order: 317
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Andre, introduces himself and Rodrigo, a visionary behind
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ They eventually defined scale-up policies and mitigated these problems, resultin
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/h1AyaAIf3HA/hqdefault.jpg)](https://www.youtube.com/watch?v=h1AyaAIf3HA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=h1AyaAIf3HA)

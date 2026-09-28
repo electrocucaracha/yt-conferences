@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Give Me 18 Minutes and I’ll Make you Dangerously Smart (with AI)
-nav_order: 7
-parent: Interview Preparation
 type: Video Note
 description:
   The top 1% of people use AI to enhance their intelligence by outsourcing
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The key principle behind this approach is to shift from convenience to resistanc
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/A8_nNYLTXEQ/hqdefault.jpg)](https://www.youtube.com/watch?v=A8_nNYLTXEQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=A8_nNYLTXEQ)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Continuous AI Conformance: The kOp... Arnaud Meukam, Janet Kuo, Justin Santa
   Barbara, Ciprian Hacman"
-nav_order: 78
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video features a panel of Kubernetes experts discussing the need
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Their approach emphasizes transparency, automation, and the development of a cen
 |  17 | Goal: upstream and standardize AI conformance tests for use by other t                                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hcwsA31ie3I/hqdefault.jpg)](https://www.youtube.com/watch?v=hcwsA31ie3I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hcwsA31ie3I)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Scaling Platform Engineering: Lessons From Europe’s Larges... Cat M, Stéphane
   C, Anna K & Gayathri T"
-nav_order: 325
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The panel discussion focused on the challenges and strategies involved
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ In closing, panelists advised focusing on user needs, recognizing and addressing
 |  24 | Adv                                                                                                                                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8JyvkE-8__8/hqdefault.jpg)](https://www.youtube.com/watch?v=8JyvkE-8__8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8JyvkE-8__8)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Explain How Kubernetes Works With GPU Like I’m 5 - Carlos Santana, AWS
-nav_order: 91
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Carlos Santana, a CNCF ambassador, shares his experience of learning
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ He emphasizes that while small devices like Jetsons can run models, they may not
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bQvrutQO3-c/hqdefault.jpg)](https://www.youtube.com/watch?v=bQvrutQO3-c)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bQvrutQO3-c)

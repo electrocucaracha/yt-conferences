@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Empowering AI-Driven Drug Discovery: Overcoming Challenges... Marius Tanawa
   Tsamo & Gustav Rasmussen"
-nav_order: 82
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Novanorisk, a pharmaceutical company, aims to extend Kubernetus with
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ By leveraging RunAI, Novanorisk aims to accelerate its research efforts and impr
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FC5TAGsBbRQ/hqdefault.jpg)](https://www.youtube.com/watch?v=FC5TAGsBbRQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FC5TAGsBbRQ)

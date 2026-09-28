@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Hidden Foundation: How Effective Data Management Determines AI System
   Success - Keith McClellan"
-nav_order: 16
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   Ke Mlan, Field CTO for Splunk, discusses the challenges and best practices
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Throughout, he stresses that AI projects should focus on delivering value, reduc
 |  24 | Propose                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FIdCXeTnFho/hqdefault.jpg)](https://www.youtube.com/watch?v=FIdCXeTnFho)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FIdCXeTnFho)

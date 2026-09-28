@@ -1,8 +1,5 @@
 ---
-layout: default
 title: AI-Powered Software Development From the Trenches • Henrik Kniberg • GOTO 2024
-nav_order: 7
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the hype surrounding AI, comparing it to the internet
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -39,5 +36,7 @@ The speaker concludes that while AI is not a replacement for human developers, i
 |   6 | Developers need to learn how to work with AI tools and understand their limitations in order to stay relevant in the industry.         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NYixq2MIRPU/hqdefault.jpg)](https://www.youtube.com/watch?v=NYixq2MIRPU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NYixq2MIRPU)

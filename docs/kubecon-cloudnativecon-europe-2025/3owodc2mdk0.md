@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Transparent, Infra-Level Checkpoint and Restore for Resil... Ganeshkumar Ashokavardhanan
   & Bernie Wu
-nav_order: 345
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Ganesh Woo, VP of Technology Partnerships at Meverge, discusses intralevel
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ He also highlights the importance of addressing security concerns and optimizing
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3oWODC2mdk0/hqdefault.jpg)](https://www.youtube.com/watch?v=3oWODC2mdk0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3oWODC2mdk0)

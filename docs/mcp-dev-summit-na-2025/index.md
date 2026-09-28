@@ -1,10 +1,3 @@
----
-layout: default
-title: "Mcp Dev Summit Na 2025"
-has_children: true
-nav_order: 13
----
-
 # Mcp Dev Summit Na 2025
 
 ## Executive Overview

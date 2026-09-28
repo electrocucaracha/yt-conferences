@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Beyond the Hype: What AI Actually Can (and Can't) Do • Jodie Burchell & Michelle
   Frost • GOTO 2026"
-nav_order: 11
-parent: Developer Productivity
 type: Video Note
 description:
   Jodie Virtual and Michelle Frost, AI advocates at Jet Brains, discuss
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Additionally, they discuss the benefits of LLMs in developer productivity, parti
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/p-R7Doigqzc/hqdefault.jpg)](https://www.youtube.com/watch?v=p-R7Doigqzc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p-R7Doigqzc)

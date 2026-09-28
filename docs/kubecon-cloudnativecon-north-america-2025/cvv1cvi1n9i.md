@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Myth of Portability: Why Your Cloud Native App Is Married To Your Provider
   - Corey Quinn"
-nav_order: 313
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Corey Quinn critiques the common practice of over-engineering
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Ultimately, Quinn advises choosing a primary cloud, leveraging managed services,
 |  17 | Optimize for reliability and team well-being, not theoretical portability.                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cvv1cVi1n9I/hqdefault.jpg)](https://www.youtube.com/watch?v=cvv1cVi1n9I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cvv1cVi1n9I)

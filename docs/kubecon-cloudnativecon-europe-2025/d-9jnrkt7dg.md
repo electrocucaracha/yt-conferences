@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Ensuring Quality in Kubernetes: The Graduation Process From Alpha T... Antonio
   Ojea & Benjamin Elder"
-nav_order: 87
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The Kubernetes project uses a feature gate process to manage the quality
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The project also uses testing infrastructure, including conformance tests, to en
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/d_9JNRkT7dg/hqdefault.jpg)](https://www.youtube.com/watch?v=d_9JNRkT7dg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=d_9JNRkT7dg)

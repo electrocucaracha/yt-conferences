@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "GPU Sharing at CERN: Cutting the Cake Without Losing a Slice! - Diana Gaponcic,
   CERN"
-nav_order: 107
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   I'm ready to assist you. Please provide the video transcript for me to
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ I will generate a concise and accurate summary within the 2000 character limit.
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_pgOuaYwvBQ/hqdefault.jpg)](https://www.youtube.com/watch?v=_pgOuaYwvBQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_pgOuaYwvBQ)

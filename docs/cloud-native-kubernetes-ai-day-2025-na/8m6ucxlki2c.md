@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   You Got a Match! LLM Prefix Aware Routing With Kubernetes - Ricardo Noriega
   & Cong Liu
-nav_order: 19
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The presentation discusses the Gateway API Inference Extension, a Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Benchmarks demonstrate significant improvements in cache hit rates, response tim
 |  18 | Estimated cache index uses req                                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8M6uCXlKI2c/hqdefault.jpg)](https://www.youtube.com/watch?v=8M6uCXlKI2c)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8M6uCXlKI2c)

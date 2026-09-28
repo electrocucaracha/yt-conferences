@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Building Scalable MCP Servers with Node with Matteo Colina - Platformatic.dev"
-nav_order: 12
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   The speaker introduces themselves as a Node.js developer and board member
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The presentation concludes with a demonstration of the system and an invitation 
 |  21 | Platformic builds enterprise Node.js systems and offers a free book on Node.js in the enterprise.                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ERESuo6n5ZQ/hqdefault.jpg)](https://www.youtube.com/watch?v=ERESuo6n5ZQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ERESuo6n5ZQ)

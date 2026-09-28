@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   'Capabilities, APIs, and Experiences: Blueprints To By... Kyle Penfound & Mauricio
   "Salaboy" Salatino'
-nav_order: 39
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Kyle discusses the challenges and strategies involved in
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Kyle demonstrates these ideas with a demo using Dagger and references the Kenoi 
 |  23 | Final points: focus on capabilities, use standard APIs, and                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tvgMu1yTo20/hqdefault.jpg)](https://www.youtube.com/watch?v=tvgMu1yTo20)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tvgMu1yTo20)

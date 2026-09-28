@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Open Policy Agent. (OPA) Intro & Deep Dive - Charlie Egan & Anders Eknert,
   Apple
-nav_order: 228
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speakers welcomed a full audience to the Open Maintainer track, introducing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ The session concluded with an invitation for questions and further engagement at
 |  24 | OCP (OPA Control Plane): centralized policy management, recent updates include AWS S3 support and Web       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TENlj4r6IXk/hqdefault.jpg)](https://www.youtube.com/watch?v=TENlj4r6IXk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TENlj4r6IXk)

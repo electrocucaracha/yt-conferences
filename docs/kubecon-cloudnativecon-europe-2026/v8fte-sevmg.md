@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Operators in Action: Making Kubernetes Work for You - Verena Traub, b'nerd
   GmbH"
-nav_order: 236
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   "The speaker begins by introducing themselves and their background, then
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The talk concludes with lessons learned about resource cleanup, testing, and deb
 |  22 | Cleaning up resources is complex; use finalizers and plan                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/V8fTE-SeVmg/hqdefault.jpg)](https://www.youtube.com/watch?v=V8fTE-SeVmg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=V8fTE-SeVmg)

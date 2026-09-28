@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "KEDA: Unlocking Advanced Event-Driven Scaling for Kubernetes - Zbynek Roubalik
   & Jorge Turrado"
-nav_order: 137
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=317rLOIKfDQ
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ The presentation also covered best practices for using KDA, such as using HPA sc
 |  13 | KDA is community-driven and supports integrating with various AWS services, including SQS.                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/317rLOIKfDQ/hqdefault.jpg)](https://www.youtube.com/watch?v=317rLOIKfDQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=317rLOIKfDQ)

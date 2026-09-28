@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Unlocking How To Efficiently, Flexibly, Manage and Schedule Seven AI Chi...
   Xiao Zhang & Mengxuan Li
-nav_order: 358
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The video discusses the challenges of managing heterogeneous AI chips
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ Hami supports multiple AI chips, including Nvidia, Accent, and Metex, and is des
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VAWw5CujiR8/hqdefault.jpg)](https://www.youtube.com/watch?v=VAWw5CujiR8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VAWw5CujiR8)

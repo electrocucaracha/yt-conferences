@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Confidential Platforms for Regulated Industries - William Rizzo, Mirantis
-nav_order: 77
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker describes an experiment initiated to maximize the utilization
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Future plans include integrating immutable operating systems with Chyros, truste
 |  21 | FiveSpot project enables time-based, g                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/id111CIDa6k/hqdefault.jpg)](https://www.youtube.com/watch?v=id111CIDa6k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=id111CIDa6k)

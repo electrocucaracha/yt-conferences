@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Cutting Through the Fog: Clarifying CRA Compliance in C... Eddie
   Knight & Michael Lieberman"
-nav_order: 147
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The European Union's Cyber Resilience Act (CRA) aims to protect consumers
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The Linux Foundation, CNCF, and OpenSSF are working together to make the legisla
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/A1HGYh0Wz9U/hqdefault.jpg)](https://www.youtube.com/watch?v=A1HGYh0Wz9U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=A1HGYh0Wz9U)

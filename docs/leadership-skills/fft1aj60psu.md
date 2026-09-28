@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Why Engineers Struggle with Confidence and Speaking Up At Work Improving Your
   Confidence
-nav_order: 44
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, John Chow, a perspective coach with an HR background in
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The conversation concludes with advice for engineers to invest in self-discovery
 |  17 | Open dialogue, collaboration, and challenging comfort zones are key to individual and collective advancement.                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FFt1aj60PsU/hqdefault.jpg)](https://www.youtube.com/watch?v=FFt1aj60PsU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FFt1aj60PsU)

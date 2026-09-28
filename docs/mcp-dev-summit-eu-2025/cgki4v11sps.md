@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Improving Agentic Search with MCP Sessions with Matt Dailey - Ref"
-nav_order: 8
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Matt from Ref introduces Ref, a startup offering an MTP server designed
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Matt concludes by encouraging attendees to connect with him, help promote Ref on
 |  17 | Action items: connect with Matt on s                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cGki4V11sPs/hqdefault.jpg)](https://www.youtube.com/watch?v=cGki4V11sPs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cGki4V11sPs)

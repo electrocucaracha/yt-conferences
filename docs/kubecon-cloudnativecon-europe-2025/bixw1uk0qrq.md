@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Testing AI Containers for Digital Twins in Science: A Cloud-HPC... Matteo
   Bunino & Diego Ciangottini"
-nav_order: 329
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The National Institute for Nuclear Physics in Italy, along with CERN's
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The system also includes features like reproducible results, composible software
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bIxw1uK0QRQ/hqdefault.jpg)](https://www.youtube.com/watch?v=bIxw1uK0QRQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bIxw1uK0QRQ)

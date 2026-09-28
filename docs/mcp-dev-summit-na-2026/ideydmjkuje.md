@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "MCP Vs CLIs: Why Agents Need Purpose-Built Interfaces - Sam Morrow, GitHub"
-nav_order: 60
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Sam, a developer involved with GitHub's MCP server and the MCP specification,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Ultimately, Sam concludes that MCP is not obsolete, and that the real question i
 |  20 | MCP uniquely distinguishes between user and agent, enabling user-facing                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ideYDMJKujE/hqdefault.jpg)](https://www.youtube.com/watch?v=ideYDMJKujE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ideYDMJKujE)

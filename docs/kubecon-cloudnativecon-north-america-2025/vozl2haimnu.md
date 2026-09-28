@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Progressive Configuration Delivery for Zero-Downtime Cloud Workloads - Yuxing
   Yuan & Hao Wu
-nav_order: 202
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presentation introduces a new approach to configuration management
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The team invites community contributions and outlines future enhancements, inclu
 |  22 | Mentioned future opportunity for package version management for GPU a                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vozl2HAiMNU/hqdefault.jpg)](https://www.youtube.com/watch?v=vozl2HAiMNU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vozl2HAiMNU)

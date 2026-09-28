@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: K3s Lightning Update - Manuel Build, Maintainer"
-nav_order: 271
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Manuel, a K3s maintainer, provides an update on recent and upcoming developments
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Looking ahead, priorities include simplifying Gateway API consumption, improving
 |  24 | Final requests: become an adopter and share how you use K3s with the team.                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ouMh2xk0XFI/hqdefault.jpg)](https://www.youtube.com/watch?v=ouMh2xk0XFI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ouMh2xk0XFI)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Build a European Cloud Orchestration Platform From With... Maximilian
   Techritz & Johannes Ott
-nav_order: 149
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Johannes and Max from SAP share their three-year
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ As a result, they have seen significant improvements in rollout speed and operat
 |  17 | Invitation to join community calls, access documentation, and participate in the proj                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hR8hFht9sFA/hqdefault.jpg)](https://www.youtube.com/watch?v=hR8hFht9sFA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hR8hFht9sFA)

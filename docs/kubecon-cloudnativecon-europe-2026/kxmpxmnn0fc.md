@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Agentic Networking: Securing AI Agents on Kubernetes - Haiyan Meng, Google
   & Evaline Ju, IBM"
-nav_order: 18
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Hayen from Google and Evelyn Ju from IBM introduce the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The session also discusses ongoing work on observability and tracing using OpenT
 |  25 | Telemetry policy proposal: Configure signals (traces, metrics, logs) acros                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KXmPxmNN0fc/hqdefault.jpg)](https://www.youtube.com/watch?v=KXmPxmNN0fc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KXmPxmNN0fc)

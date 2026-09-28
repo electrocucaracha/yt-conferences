@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Rook: Intro and... Travis Nielsen, Madhu Rajanna, Artem Torubarov, Deepika
   Upadhyay & Sebastien Han"
-nav_order: 284
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Rook is an open-source Kubernetes operator that automates self-storage
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ With Rook, users can enjoy scalability, high availability, and performance, whil
 |  11 | Seph performs better with many clients in a large cluster.                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/xGywrHPAMms/hqdefault.jpg)](https://www.youtube.com/watch?v=xGywrHPAMms)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xGywrHPAMms)

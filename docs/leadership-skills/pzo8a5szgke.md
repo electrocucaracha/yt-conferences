@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Influence Without Authority at Work [Persuasion - Part 1 of 3]
-nav_order: 75
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ Doug concludes that understanding others' motivations and framing requests from 
 |  13 | Further tips on developing influence skills will be covered in a follow-up video.                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pzo8a5sZGKE/hqdefault.jpg)](https://www.youtube.com/watch?v=pzo8a5sZGKE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pzo8a5sZGKE)

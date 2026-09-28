@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Rabobank’s Path to Secure, Fast Kubernetes Delivery - Beatrice Forslund & Koshin
   Verberne, Rabobank
-nav_order: 305
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Kosher Fern and Petris from Rabo Bank’s container
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The team emphasizes the importance of clear responsibilities, the right tooling,
 |  16 | Internal portal (Nexa, built                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cznwYOK3TtY/hqdefault.jpg)](https://www.youtube.com/watch?v=cznwYOK3TtY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cznwYOK3TtY)

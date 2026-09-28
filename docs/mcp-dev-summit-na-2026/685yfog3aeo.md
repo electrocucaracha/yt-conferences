@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   'Keynote: Context is More Than Tools - Why the "C" in MCP is More Relevant
   Than Ever - Ryan Cooke'
-nav_order: 41
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Ryan, an engineering lead at Work OS, discusses how his team leverages
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Ryan illustrates these concepts with examples from their internal applications, 
 |  17 | A                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/685yFOg3aEo/hqdefault.jpg)](https://www.youtube.com/watch?v=685yFOg3aEo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=685yFOg3aEo)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Prometheus 3.0 Speedrun - Ben Kochie, Maintainer"
-nav_order: 254
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Ben Koshi from the Prometheus team welcomes viewers to the Prometheus
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Prometheus 3.0 also introduces native histograms, improved remote write specs, a
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NRL-bSYVi7Q/hqdefault.jpg)](https://www.youtube.com/watch?v=NRL-bSYVi7Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NRL-bSYVi7Q)

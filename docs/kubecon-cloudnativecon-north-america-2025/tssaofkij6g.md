@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   You Deployed What?! Data-Driven Lessons on Unsafe Helm Chart Defaults - Yossi
   Weizman, Microsoft
-nav_order: 344
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Microsoft principal security researcher Yosi Wiseman discusses default
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Wiseman emphasizes the importance of understanding default configurations and us
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tssAofKij6g/hqdefault.jpg)](https://www.youtube.com/watch?v=tssAofKij6g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tssAofKij6g)

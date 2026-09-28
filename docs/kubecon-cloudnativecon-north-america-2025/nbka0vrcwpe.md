@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Future of Debugging Is No Debugging: Observability Is Dead - Jeremy Adams,
   Neo4j"
-nav_order: 307
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, Jeremy Adams welcomes a largely first-time KubeCon audience
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The talk concludes by encouraging attendees to embrace new tools and strategies 
 |  17 | AI can assist in understanding and                                                                                                                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nBka0VrCWpE/hqdefault.jpg)](https://www.youtube.com/watch?v=nBka0VrCWpE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nBka0VrCWpE)

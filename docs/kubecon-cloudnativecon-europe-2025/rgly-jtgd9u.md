@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Detect and Respond to Threats in Your Cloud Infrastructure
   Wi... Luca Guerra"
-nav_order: 231
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Luca, a maintainer of Falco, introduces the project as a graduated CNCF
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The project has evolved beyond its initial kernel-based approach, allowing users
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RGLy_JtGD9U/hqdefault.jpg)](https://www.youtube.com/watch?v=RGLy_JtGD9U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RGLy_JtGD9U)

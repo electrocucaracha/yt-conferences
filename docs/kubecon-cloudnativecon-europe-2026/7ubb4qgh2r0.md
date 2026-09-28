@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Amplifying End User Voices: Platform Architects on the... Rajas K, Zach S,
   Kevin K, Elias T & Dawn C"
-nav_order: 19
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The panel discussion brought together platform architects and engineers
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Looking ahead, the panelists predicted increased focus on confidential computing
 |  18 | Projects mentioned: Cluster API, Workloads Foundation, DRA, Crow, Carpenter, etcd diagnosis/recovery.                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7uBB4qgh2R0/hqdefault.jpg)](https://www.youtube.com/watch?v=7uBB4qgh2R0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7uBB4qgh2R0)

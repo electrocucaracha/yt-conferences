@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes SIG Storage: Intro & Deep Dive - Xing Yang, Michelle Au, Hemant
   Kumar"
-nav_order: 141
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session, led by members of SIG Storage from organizations like VMware,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ Attendees asked questions about advanced CSI driver use cases, storage class rec
 |  26 | Planned: Volume expansion via StatefulSet templates, consolidating CSI sidecars, improving volume health reporting, and discussing automa |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tGSEyEdh5ug/hqdefault.jpg)](https://www.youtube.com/watch?v=tGSEyEdh5ug)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tGSEyEdh5ug)

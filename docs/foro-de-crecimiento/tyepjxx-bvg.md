@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en comunicación: el error que te impide conectar con los demás – Santos
   Lever sesión #26"
-nav_order: 40
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Santos Lever, experto en comunicación, destaca la
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Finalmente, comparte estrategias para hablar en público y en redes sociales, an
 |  20 | Crear contenido deja legado e impacto más allá de los números de vistas.                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tyePJxx_BVg/hqdefault.jpg)](https://www.youtube.com/watch?v=tyePJxx_BVg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tyePJxx_BVg)

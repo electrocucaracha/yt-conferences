@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Simplifying Cloud Native App Testing Across Environments - Laurent Broudoux
   & Artur Ciocanu
-nav_order: 281
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video discusses the challenges of deploying cloud-native applications
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes by highlighting how these tools together streamline the de
 |  18 | Both Dapr and Micro have Test                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RvTEYp7QyzI/hqdefault.jpg)](https://www.youtube.com/watch?v=RvTEYp7QyzI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RvTEYp7QyzI)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Fusing FinOps, Forecasting, and Kubernetes at Scale - Ankur Singh & Satyam
   Bhardwaj
-nav_order: 129
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Ankur Singh from Red Hat and Satyam from Mirantis
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ A live demo showcases Auger’s architecture, custom resources, and its ability 
 |  18 | Project is open source                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/65TRuI5hvn4/hqdefault.jpg)](https://www.youtube.com/watch?v=65TRuI5hvn4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=65TRuI5hvn4)

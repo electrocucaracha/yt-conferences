@@ -1,8 +1,5 @@
 ---
-layout: default
 title: UI in the Age of AI - Adam Cowley, Neo4j
-nav_order: 102
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Adam Cowie discusses the evolving role of user interfaces
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Cowie also addresses the balance between guiding users through structured learni
 |  16 | Success is defined by users building something functional, regardless of the learning path taken.                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/byIYL20QazQ/hqdefault.jpg)](https://www.youtube.com/watch?v=byIYL20QazQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=byIYL20QazQ)

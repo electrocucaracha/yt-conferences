@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Schema To Insight: Architecting Production-Grade Database MCP Tools - Kurtis
   Van Gent & Wenxin Du"
-nav_order: 79
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this presentation, Curtis Vanent and Winenzu, maintainers of MCP core
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ A demo of a travel agent application illustrates these security measures in prac
 |  22 | Demo: travel agent ap                                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9u3ZLfqXYQU/hqdefault.jpg)](https://www.youtube.com/watch?v=9u3ZLfqXYQU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9u3ZLfqXYQU)

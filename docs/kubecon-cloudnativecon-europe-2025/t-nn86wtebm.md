@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Zero Trust at Shopify Scale: Automating MTLS Across Thousands of Serv... Dani
   Santos & Michelle Mali"
-nav_order: 376
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Shopify's journey with MTLS (Mutual Transport Layer Security) highlights
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Shopify also developed a custom tool to manage client certificates, leveraging P
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/T-nN86wTebM/hqdefault.jpg)](https://www.youtube.com/watch?v=T-nN86wTebM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=T-nN86wTebM)

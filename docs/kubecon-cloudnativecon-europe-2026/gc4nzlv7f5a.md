@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Buildpacks: Towards 1.0, AI and Other Things - Aidan Delaney, Bloomberg"
-nav_order: 36
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Aiden, a maintainer of the Buildpacks project, introduces
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The talk concludes with an invitation to contribute to the open-source project a
 |  20 | Build packs provide first-class SBOM and s                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Gc4NZlv7F5A/hqdefault.jpg)](https://www.youtube.com/watch?v=Gc4NZlv7F5A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Gc4NZlv7F5A)

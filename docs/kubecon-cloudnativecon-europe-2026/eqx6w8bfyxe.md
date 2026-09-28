@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Open Source To Enterprise Scale and Back: A Journey... Michael Kuhnt
   & Gabriel Adrian Samfira"
-nav_order: 124
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Michael from Mercedes-Benz Tech Innovation and Gabriel
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concluded with a live demo of Garm’s Kubernetes operator, showcasi
 |  17 | The talk concluded with an invitation to explore helpful links and a Q&A session.                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/eqX6w8bFyxE/hqdefault.jpg)](https://www.youtube.com/watch?v=eqX6w8bFyxE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=eqX6w8bFyxE)

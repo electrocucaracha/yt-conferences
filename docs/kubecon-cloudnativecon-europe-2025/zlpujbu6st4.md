@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Orchestrating AI Models in Kubernetes: Deploying Ollama as a Nati... Samuel
   Veloso & Lucas Fernández"
-nav_order: 216
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Samuel Beloso from Cast AI and Lucas from Red Hat discuss deploying Olama,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ They also demonstrate how to integrate this with QFlow, a CNCF project for ML wo
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zLpUJBU6sT4/hqdefault.jpg)](https://www.youtube.com/watch?v=zLpUJBU6sT4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zLpUJBU6sT4)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 4 - LLM Training
-nav_order: 4
-parent: Large Language Models Llms
 type: Video Note
 description:
   The lecture begins with logistics about the upcoming midterm and final
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The lecture concludes with efficient fine-tuning techniques like LoRA and quanti
 |  16 | Fine-tunin                                                                                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VlA_jt_3Qc4/hqdefault.jpg)](https://www.youtube.com/watch?v=VlA_jt_3Qc4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VlA_jt_3Qc4)

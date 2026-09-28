@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Set Your Developers Free: Fleet Management at Spotify - Stefan Särne, Spotify"
-nav_order: 301
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Stefan, a Spotify engineer, shares the story of how they handled a security
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The implementation has also led to increased efficiency and reduced the workload
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Zr7y27HpII4/hqdefault.jpg)](https://www.youtube.com/watch?v=Zr7y27HpII4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Zr7y27HpII4)

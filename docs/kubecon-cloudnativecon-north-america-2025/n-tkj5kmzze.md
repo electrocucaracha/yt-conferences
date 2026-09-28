@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Ultimate Container Challenge: An Interactive Trivia Game on Su... Aurélie
   Vache & Sherine Khoury"
-nav_order: 317
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   'The video presents the "Ultimate Kutan Challenge: Secret Chain Edition,"
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The presenters conclude by highlighting the evolving nature of supply chain secu
 |  20 | Tools used: Cosign, Notation, T                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/n_tkj5KmzzE/hqdefault.jpg)](https://www.youtube.com/watch?v=n_tkj5KmzzE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n_tkj5KmzzE)

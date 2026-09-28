@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Beauty of Simplicity - Making Your Own Technology • Yan Chernikov • YOW!
   2024
-nav_order: 129
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, Yan, discusses the importance of simplicity in technology
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ He also emphasizes the importance of making Simplicity Central to one's design a
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/30AOTkAgc_4/hqdefault.jpg)](https://www.youtube.com/watch?v=30AOTkAgc_4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=30AOTkAgc_4)

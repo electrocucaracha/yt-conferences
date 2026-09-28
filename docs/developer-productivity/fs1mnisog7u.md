@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Scaling Yourself • Scott Hanselman • GOTO 2012
-nav_order: 112
-parent: Developer Productivity
 type: Video Note
 description:
   Scott Hanselman, a software professional, shares his approach to scaling
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ By prioritizing goals, using tools like the Pomodoro Technique, and delegating o
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FS1mnISoG7U/hqdefault.jpg)](https://www.youtube.com/watch?v=FS1mnISoG7U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FS1mnISoG7U)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Essential Skills for Engineers to Thrive in the AI Era
-nav_order: 5
-parent: Interview Preparation
 type: Video Note
 description:
   To thrive in the AI era, engineers should prioritize core skills such
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ By balancing these skills with staying up-to-date with emerging tools and techno
 |   9 | Focus on learning the fundamentals of software engineering, AI, and machine learning, as well as soft skills like communication and teamwork. Ratings (1-5): 3                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/i2jA-57TQQ8/hqdefault.jpg)](https://www.youtube.com/watch?v=i2jA-57TQQ8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=i2jA-57TQQ8)

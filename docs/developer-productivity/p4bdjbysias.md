@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Digital Nudge • Fabio Pereira & Linda Rising • GOTO 2021
-nav_order: 31
-parent: Developer Productivity
 type: Video Note
 description:
   In this conversation, Linda Rising and Fabio Pereira discuss the influence
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Despite concerns, both express hope that increased awareness, ethical movements,
 |  19 | Hope lies in awareness, diversity, and striving for improvement.                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/P4BDJbYSIAs/hqdefault.jpg)](https://www.youtube.com/watch?v=P4BDJbYSIAs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=P4BDJbYSIAs)

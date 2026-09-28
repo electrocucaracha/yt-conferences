@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Your mood defines how you lead | Session 32 · Elena Espinal
-nav_order: 75
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Elena Espinal, pionera en coaching y experta en liderazgo,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Finalmente, invita a asumir la responsabilidad de las propias interpretaciones y
 |  18 | El amor entendido como espacio de aceptación y expresión es fundamental para el crecimiento personal y colectivo.                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Wc3LdIQKiyc/hqdefault.jpg)](https://www.youtube.com/watch?v=Wc3LdIQKiyc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Wc3LdIQKiyc)

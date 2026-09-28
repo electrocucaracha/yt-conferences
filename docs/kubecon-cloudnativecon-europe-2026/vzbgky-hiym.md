@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cert-manager – Project Update: Beyond 2026 - Tim Ramlot & Maël Valais, Palo
   Alto Networks"
-nav_order: 38
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation provides an overview of the cert-manager project, its
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -64,5 +61,7 @@ The team is also addressing migration challenges from Ingress to Gateway API, im
 |  29 | Renewal window support for certificate renewals during specific times                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vzBGkY_HIyM/hqdefault.jpg)](https://www.youtube.com/watch?v=vzBGkY_HIyM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vzBGkY_HIyM)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "UX Research Report: Prometheus and OTel's Resource Attributes. - Victoria
   Nduka & Amy Super"
-nav_order: 329
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presentation detailed a UX research project focused on how Prometheus
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The session concluded with resources for further engagement and an invitation fo
 |  19 | Stakeholders recognize philosophical and technical differences between Prometheus (focused on metrics) and OpenTelemetry (                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cSLXIAc020A/hqdefault.jpg)](https://www.youtube.com/watch?v=cSLXIAc020A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cSLXIAc020A)

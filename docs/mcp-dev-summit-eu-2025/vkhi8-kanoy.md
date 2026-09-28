@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Why Clients Matter: The Other Side of MCP"
-nav_order: 33
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Angie Jones, leading AI tools and enablement at Block, discusses the
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Ultimately, she asserts that openness is essential for progress in agentic AI, e
 |  23 | Developers and consumers should demand acce                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VkHi8-KANOY/hqdefault.jpg)](https://www.youtube.com/watch?v=VkHi8-KANOY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VkHi8-KANOY)

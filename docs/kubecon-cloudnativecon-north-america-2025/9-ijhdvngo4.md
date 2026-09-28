@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Mission Abort: Intercepting Dangerous Deletes Before Helm Hits Apply - Payal
   Godhani, Oracle"
-nav_order: 170
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   P Gdani from Oracle Cloud Infrastructure discusses the importance of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ By adopting this framework, Oracle has seen a significant decrease in 7-2 incide
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9-IJHdVNgO4/hqdefault.jpg)](https://www.youtube.com/watch?v=9-IJHdVNgO4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9-IJHdVNgO4)

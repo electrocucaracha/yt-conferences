@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Great Sidecar Debate - William Morgan, Buoyant
-nav_order: 335
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, William Morgan, CEO of Buoyant, discusses the concept of
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Ultimately, Linkerd continues to favor sidecars as the most suitable approach fo
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lVWUCUt6ZM8/hqdefault.jpg)](https://www.youtube.com/watch?v=lVWUCUt6ZM8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lVWUCUt6ZM8)

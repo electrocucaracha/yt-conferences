@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   One Controller to Rule Them All - Taming Multiple Orchestrator... Srikar Paruchuru
   & Egor Grishechko
-nav_order: 227
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Sri and Eager from Uber’s compute team in Amsterdam discussed their experience
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The team emphasized the importance of extensive integration testing to ensure a 
 |  18 | Developing even simple controller solutions at Uber's scale required signifi                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lVt510hb8kY/hqdefault.jpg)](https://www.youtube.com/watch?v=lVt510hb8kY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lVt510hb8kY)

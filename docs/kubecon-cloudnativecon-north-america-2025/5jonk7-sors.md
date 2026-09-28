@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Beyond the Cloud(s): Falco’s Ascent in Performance and... Leonardo Grasso
   & Leonardo Di Giovanna"
-nav_order: 25
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Lonardo Graaso and Leonardo de Joanna, both maintainers
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ The presenters also outline ongoing and future areas for performance and maintai
 |  27 | Community feedback encouraged via Slack, CNCF dev list, communit                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5JoNk7_Sors/hqdefault.jpg)](https://www.youtube.com/watch?v=5JoNk7_Sors)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5JoNk7_Sors)

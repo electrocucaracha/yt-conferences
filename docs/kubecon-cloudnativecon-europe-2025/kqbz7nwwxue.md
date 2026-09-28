@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   What's New With Kubectl and Kustomiz... Eddie Zaneski, Maciej Szulik, Marly
   Salazar & Yugo Kobayashi
-nav_order: 368
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The CLI SIG leads a discussion on cube control and customize, focusing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ Additionally, they touch on topics such as better integration with Helm, CRD sup
 |   8 | There is a need for volunteers to help maintain and improve the tools, including customize and cube control.            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KQBz7nwWxUE/hqdefault.jpg)](https://www.youtube.com/watch?v=KQBz7nwWxUE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KQBz7nwWxUE)

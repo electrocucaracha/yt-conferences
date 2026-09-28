@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SIG Security: Succession Pla ...Cailyn Edwards, Iain Smart, Rory McCune, Tabitha
   Sable & Mahé Tardy"
-nav_order: 291
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Kubernetes SIG security team aims to improve the project's security
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The team welcomes new contributors, offering support and guidance to help them g
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0p-sZT0LWOg/hqdefault.jpg)](https://www.youtube.com/watch?v=0p-sZT0LWOg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0p-sZT0LWOg)

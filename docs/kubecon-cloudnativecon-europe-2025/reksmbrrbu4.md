@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Longhorn: Intro, Deep Dive and Q&A - David Ko, SUSE"
-nav_order: 190
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, David Co., is the Engineering Director at SUSE and leads
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ David encourages the audience to contribute to the project by deploying Longhorn
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/REkSMbRrBU4/hqdefault.jpg)](https://www.youtube.com/watch?v=REkSMbRrBU4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=REkSMbRrBU4)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   etcd V3.6 and Beyond... Siyuan Zhang, Justin Santa Barbara, Wei Fu, Arka Saha
   & Ivan Valdes Castillo
-nav_order: 348
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The City CIG City team has announced several updates, including the passing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The City CIG City team also discussed their adoption of Kubernetes official imag
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tF7UOwhgetU/hqdefault.jpg)](https://www.youtube.com/watch?v=tF7UOwhgetU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tF7UOwhgetU)

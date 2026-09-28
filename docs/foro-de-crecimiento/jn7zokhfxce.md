@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Power of a Dream - Consuelo Hernandez | Session 30
-nav_order: 68
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Consuelo Hernández, empresaria, conferencista y experta
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Finalmente, Consuelo comparte su propio sueño de inspirar a las personas a sent
 |  26 | Consuelo se declara enamorada del alma humana y cree que somos misioneros voluntarios en esta vida.                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jn7ZokHfxcE/hqdefault.jpg)](https://www.youtube.com/watch?v=jn7ZokHfxcE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jn7ZokHfxcE)

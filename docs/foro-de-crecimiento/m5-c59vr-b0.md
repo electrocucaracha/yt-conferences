@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto en IA: Qué es la Inteligencia Artificial? Explicado Fácil y Rápido
   | Dr Fernando de la Peña"
-nav_order: 32
-parent: Foro De Crecimiento
 type: Video Note
 description:
   Fernando de la Peña, ingeniero mexicano y empresario, relata su trayectoria
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finalmente, subraya la importancia de dejar un legado tecnológico que beneficie
 |  17 | El objetivo es que la tecnología mejore la humanidad y deje un legado positivo.                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/m5-C59vR-B0/hqdefault.jpg)](https://www.youtube.com/watch?v=m5-C59vR-B0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=m5-C59vR-B0)

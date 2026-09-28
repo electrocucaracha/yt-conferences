@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SIG Cloud Provider Deep Dive: Expanding Our Miss... Bridget K, Michael M,
   Joel S, Walter F & Jesse B"
-nav_order: 266
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The SIG cloud provider deep dive discussed the future of Kubernetes cloud
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The conversation highlighted the need for faster development and testing, with C
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BcUWVmluRdw/hqdefault.jpg)](https://www.youtube.com/watch?v=BcUWVmluRdw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BcUWVmluRdw)

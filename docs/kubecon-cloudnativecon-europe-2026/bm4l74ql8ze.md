@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Redefining SLIs for LLM Inference: Managing Hybrid Cloud with. Christopher
   Nuland & Hilliary Lipsig"
-nav_order: 307
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Christopher Nuland and Hillary Lipig from Red Hat discuss redefining
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concludes with a discussion on the evolving landscape of LLMs versus
 |  19 | Debate on future trends: SLMs vs. larger models with mixture-of-experts; both have roles d                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BM4L74qL8zE/hqdefault.jpg)](https://www.youtube.com/watch?v=BM4L74qL8zE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BM4L74qL8zE)

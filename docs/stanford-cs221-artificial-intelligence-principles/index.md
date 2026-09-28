@@ -1,10 +1,3 @@
----
-layout: default
-title: "Stanford Cs221 Artificial Intelligence Principles"
-has_children: true
-nav_order: 15
----
-
 # Stanford Cs221 Artificial Intelligence Principles
 
 ## Executive Overview

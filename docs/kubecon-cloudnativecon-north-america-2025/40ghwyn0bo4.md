@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Fluent Bit: Smarter Telemetry Routing, Faster Pipelines - Eduardo Silva, Chronosphere"
-nav_order: 80
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Eduardo Silva, creator and maintainer of Fluent Bit, opened his conference
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ During the Q&A, Silva addressed questions about Fluent Bit's role as an aggregat
 |  23 | Fluent Bit works with AWS FireLe                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/40gHwYn0bo4/hqdefault.jpg)](https://www.youtube.com/watch?v=40gHwYn0bo4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=40gHwYn0bo4)

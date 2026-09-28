@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SIG-Node: Intro and Deep Dive - Peter Hunt, Red Hat; Sergey Kanzhelev, Google;
   Mrunal Patel, Red Hat"
-nav_order: 270
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session, led by Peter from Red Hat and Sergey from Google, provided
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -65,5 +62,7 @@ The session also covered recent deprecations, ongoing working groups (such as no
 |  29 | Sideca                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CgICiu2d8LI/hqdefault.jpg)](https://www.youtube.com/watch?v=CgICiu2d8LI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CgICiu2d8LI)

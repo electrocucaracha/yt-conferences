@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How Burnout Got Me Misdiagnosed with ADHD
-nav_order: 15
-parent: Leadership Skills
 type: Video Note
 description:
   In this episode, the speaker shares a personal story about being misdiagnosed
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The speaker emphasizes the importance of thorough diagnosis, self-reflection, an
 |  18 | Open to sharing more personal experiences if requested                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BSUkGJbSpFk/hqdefault.jpg)](https://www.youtube.com/watch?v=BSUkGJbSpFk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BSUkGJbSpFk)

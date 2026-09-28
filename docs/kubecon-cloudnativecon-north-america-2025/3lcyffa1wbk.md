@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Hidden Risks in AI/ML Supply Chains: How To Secure Your Workloads - Yash
   Pimple, Chainguard"
-nav_order: 310
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker discusses the hidden risks in the machine learning (ML) supply
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The session concludes with a demonstration of scanning and signing a model, and 
 |  23 | No existing tools for debugging ML models at the logic/weight level or certifying training datasets' et                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3lcyFfA1Wbk/hqdefault.jpg)](https://www.youtube.com/watch?v=3lcyFfA1Wbk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3lcyFfA1Wbk)

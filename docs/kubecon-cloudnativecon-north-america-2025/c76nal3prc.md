@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Routing Stateful AI Workloads in Kubernetes - Maroon Ayoub, IBM & Michey Mehta,
   Red Hat
-nav_order: 262
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Aruna Yub from IBM Research and Mishi Ma from Red Hat discuss
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The session concludes with a discussion of cache management strategies, offloadi
 |  16 | AI workloads are inherently stateful; effectiv                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-C76naL3PRc/hqdefault.jpg)](https://www.youtube.com/watch?v=-C76naL3PRc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-C76naL3PRc)

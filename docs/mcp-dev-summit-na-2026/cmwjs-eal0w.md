@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Session: Who's Driving? Delegation and the Confused Deput... Vitor
   Balocco & Alvaro Inckot"
-nav_order: 88
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker, a founding identity engineer at Run Layer, discusses the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -63,5 +60,7 @@ The talk concludes with practical recommendations: audit agent tokens for delega
 |  28 | Session grants bind credentials                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CmWJs_eAL0w/hqdefault.jpg)](https://www.youtube.com/watch?v=CmWJs_eAL0w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CmWJs_eAL0w)

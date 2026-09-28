@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Choose Your Own Adventure: AI Meets Internal Developer Platform - Whitney
   Lee & Viktor Farcic"
-nav_order: 39
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video discusses the evolution from traditional developer tooling
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The session concludes with a Q&A covering topics like implementing guardrails, c
 |  20 | Quality of tool/skill calls is hard to measure; user feedback and eval frameworks can help, but input/output is variable. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/k7ct4sW-97E/hqdefault.jpg)](https://www.youtube.com/watch?v=k7ct4sW-97E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=k7ct4sW-97E)

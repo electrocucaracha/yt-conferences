@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "High-Performance AI Workloads in KubeVirt VMs With NVIDIA GPUs: Ch... Ezra
   Silvera & Michael Hrivnak"
-nav_order: 97
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Ezra Syla and Michael Rivven from IBM and Red Hat, respectively, presented
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The main takeaway is that Kubert provides a stable solution for running AI workl
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/USMZRseAACQ/hqdefault.jpg)](https://www.youtube.com/watch?v=USMZRseAACQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=USMZRseAACQ)

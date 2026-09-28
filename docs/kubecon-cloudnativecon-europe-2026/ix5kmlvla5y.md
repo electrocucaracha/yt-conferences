@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Still Burning GPUs On Debugging? Scale AI In One Line
   - Anna Kramar"
-nav_order: 291
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Ana Kmer, a certified engineer at Red Hat and maintainer of the KFL SDK,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Ana also highlights the SDK's recent milestone of 140,000 downloads and invites 
 |  17 | Community engagement includes a site, blog post, Slack channel under CNCF, bi-weekly meetings, and maintainer sessions.                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Ix5kmLvlA5Y/hqdefault.jpg)](https://www.youtube.com/watch?v=Ix5kmLvlA5Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ix5kmLvlA5Y)

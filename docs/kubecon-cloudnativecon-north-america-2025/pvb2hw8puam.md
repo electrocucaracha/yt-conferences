@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Simplifying Advanced AI Model Serving on Kubernetes Using Helm... Ajay Vohra
   & Tianlu Caron Zhang
-nav_order: 280
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, Karen John from Apple and AJ Vora from AWS discuss the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes with a demo showing how AI can help generate Helm values f
 |  17 | Demo: Using AI to generate Helm values for new models, running a Jupyter notebook to deploy, and level                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PVB2hW8PuAM/hqdefault.jpg)](https://www.youtube.com/watch?v=PVB2hW8PuAM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PVB2hW8PuAM)

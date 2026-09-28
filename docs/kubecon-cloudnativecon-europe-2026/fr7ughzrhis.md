@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Opening/Intro - Robert Sirchia"
-nav_order: 283
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   "Robert welcomes attendees to the CNCF Project Lightning Talks at KubeCon
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The emphasis is on maintaining the schedule and fostering community engagement w
 |  18 | Speakers may use videos, but videos with audio may be difficult to accommodate. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fr7uGHZrHIs/hqdefault.jpg)](https://www.youtube.com/watch?v=fr7uGHZrHIs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fr7uGHZrHIs)

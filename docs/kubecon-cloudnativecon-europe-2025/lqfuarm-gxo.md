@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Navigating the Inevitable: Kubernetes Breaking Changes Behind the Scenes -
   Marko Mudrinić"
-nav_order: 201
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=lQFUarM_GXo
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ The Kubernetes community also offers various resources, including mailing lists 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lQFUarM_GXo/hqdefault.jpg)](https://www.youtube.com/watch?v=lQFUarM_GXo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lQFUarM_GXo)

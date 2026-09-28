@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Designing Platforms With Judgment: Agentic Flows With MCP - Shivay Lambda &
   Ekansh Gupta"
-nav_order: 60
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, Ianch and Shai discuss the evolution of platform engineering
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Despite these advancements, they caution that MCP is still maturing, with securi
 |  17 | Agent-to-agent (A2A) protocol complements MCP for agent communication and proactive workflows.                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nrNmqxbRzok/hqdefault.jpg)](https://www.youtube.com/watch?v=nrNmqxbRzok)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nrNmqxbRzok)

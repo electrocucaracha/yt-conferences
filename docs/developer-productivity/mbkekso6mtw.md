@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Why You Should Look Into Low Code • Christoph Windheuser • GOTO 2022
-nav_order: 145
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=MBKeKso6mtw
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ Ultimately, low-code is not a replacement for traditional coding skills, but rat
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MBKeKso6mtw/hqdefault.jpg)](https://www.youtube.com/watch?v=MBKeKso6mtw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MBKeKso6mtw)

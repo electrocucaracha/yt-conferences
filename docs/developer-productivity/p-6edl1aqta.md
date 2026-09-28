@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Working Effectively with Legacy Code • Michael Feathers & Christian Clausen
   • GOTO 2023
-nav_order: 148
-parent: Developer Productivity
 type: Video Note
 description:
   Christian Clausen, a technical agile coach and author, sat down with
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Michael also discussed the impact of AI on code quality and legacy code, stating
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/P_6eDL1aqtA/hqdefault.jpg)](https://www.youtube.com/watch?v=P_6eDL1aqtA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=P_6eDL1aqtA)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Rust in the Linux Kernel: A New Era for Cloud Native Performance
   and... Greg Kroah-Hartman"
-nav_order: 154
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Greg, a kernel maintainer, discusses the importance of C and Rust in
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ He believes that adopting Rust will make Linux maintenance easier, more efficien
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kQ4X6-mPHqw/hqdefault.jpg)](https://www.youtube.com/watch?v=kQ4X6-mPHqw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kQ4X6-mPHqw)

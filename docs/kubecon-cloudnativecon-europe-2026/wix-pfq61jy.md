@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Istio Day: Zero-Downtime Migration from ingress-nginx
   to Isti... Joe Abellard"
-nav_order: 68
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Joe, a senior software engineer at Bloomberg, presents on executing a
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ He concludes by discussing future plans to adopt the now-stable Gateway API for 
 |  16 | Routing semantics were preserved by configuring                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wix_PfQ61jY/hqdefault.jpg)](https://www.youtube.com/watch?v=wix_PfQ61jY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wix_PfQ61jY)

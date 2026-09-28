@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Especialista en Adolescencia: Cómo formar hijos preparados para la vida real
   | Ana María Arizti"
-nav_order: 25
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este video, Ana María Aristi, terapeuta gestal y especialista en la
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Finalmente, se subraya la importancia de que los padres trabajen en equipo, evit
 |  19 | Tener un proyecto de vida propio es importante, especialmente para las madres, cuando los hijos se van.               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oscNWClio7w/hqdefault.jpg)](https://www.youtube.com/watch?v=oscNWClio7w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oscNWClio7w)

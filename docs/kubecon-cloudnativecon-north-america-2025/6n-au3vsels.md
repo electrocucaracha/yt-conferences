@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Unlock the Future of Kubernetes and Accelerators With Dynamic Resource
   Alloc... Rey Lejano"
-nav_order: 328
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this tutorial, Ray Lano from Red Hat introduces dynamic resource allocation
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ The session concludes with discussion of upcoming DRA features, integration with
 |  24 | DRA is stable in Kubernetes 1.34; many new features in development (e.g., partitioning, access contr                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6n_AU3vSels/hqdefault.jpg)](https://www.youtube.com/watch?v=6n_AU3vSels)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6n_AU3vSels)

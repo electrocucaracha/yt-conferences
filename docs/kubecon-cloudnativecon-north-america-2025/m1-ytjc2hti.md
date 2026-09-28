@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Karmada in Action: Scaling AI Workloads Across Multi-Clus... Hongcai Ren,
   Tessa Pham & Wei-Cheng Lai"
-nav_order: 115
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Tessa Fam and Way Changai from Bloomberg discuss the challenges
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ They also answer audience questions about deployment best practices, interpreter
 |  17 | Clu                                                                                                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/M1-yTjC2hTI/hqdefault.jpg)](https://www.youtube.com/watch?v=M1-yTjC2hTI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=M1-yTjC2hTI)

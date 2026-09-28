@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | EnvoyCon: From ingress-nginx to Envoy Gateway at Zapier:
   The... Kalen Wessel"
-nav_order: 58
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Kayn Wessle, a senior site reliability engineer at Zapier, discusses
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Post-migration, Zapier achieved a unified edge view, improved operational consis
 |  16 | Retry behavior differences; added explicit retry block to ma                                                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kIj2U13VZJY/hqdefault.jpg)](https://www.youtube.com/watch?v=kIj2U13VZJY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kIj2U13VZJY)

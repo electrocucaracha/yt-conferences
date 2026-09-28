@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: High Availability With '503: Unavailable' - Robert-Jan Huijsman,
   Reboot"
-nav_order: 178
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses high availability in software systems, emphasizing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ By trusting clients to retry and ensuring safe retries through item potency, Reb
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0adVcinYGC8/hqdefault.jpg)](https://www.youtube.com/watch?v=0adVcinYGC8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0adVcinYGC8)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Day 3 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam
-nav_order: 87
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video reflects on an exciting week at KubeCon and CloudNativeCon
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -41,5 +38,7 @@ As the event concludes, viewers are thanked for their participation and encourag
 |   8 | Attendees are encouraged to keep CloudNative moving.                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HcgdLVxlui4/hqdefault.jpg)](https://www.youtube.com/watch?v=HcgdLVxlui4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HcgdLVxlui4)

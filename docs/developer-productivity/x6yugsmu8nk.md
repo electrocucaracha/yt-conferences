@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   I Don't Need Another Scrum Master, Get Me a Technical Coach! • Emily Bache
   • GOTO 2024
-nav_order: 65
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, Emily, discusses the importance of technical leadership
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ She emphasizes the need for democratizing technical coaching to make it more acc
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/x6yUGSmU8Nk/hqdefault.jpg)](https://www.youtube.com/watch?v=x6yUGSmU8Nk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x6yUGSmU8Nk)

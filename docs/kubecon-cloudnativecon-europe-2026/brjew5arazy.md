@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Avoiding CPU Throttling: How Go 1.25's Container-Aware Runtime
   Fix... Adarsh K Kumar"
-nav_order: 204
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Adash, a principal engineer at Rapido, discusses a throttling issue in
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ For those unable to upgrade to Go 1.25, Adash recommends using Uber's automaxpro
 |  21 | End of talk                                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BrjeW5ARaZY/hqdefault.jpg)](https://www.youtube.com/watch?v=BrjeW5ARaZY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BrjeW5ARaZY)

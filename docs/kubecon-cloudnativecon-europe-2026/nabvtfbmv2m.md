@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Lessons Learned Orchestrating Multi-Tenant GPUs on OpenShift AI with NVIDIA
   KAI (G/H2... Luca Berton
-nav_order: 200
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Luca Berton outlines a practical approach to building
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The platform supports different user personas—LLM Ops engineers, administrator
 |  18 | Per-tenant monitoring: chargeback, scheduler reports, GPU/hour visibility                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nABVTFBmV2M/hqdefault.jpg)](https://www.youtube.com/watch?v=nABVTFBmV2M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nABVTFBmV2M)

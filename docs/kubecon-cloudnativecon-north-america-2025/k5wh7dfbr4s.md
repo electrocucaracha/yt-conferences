@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Cloud Is Lying To You: What It Really Takes To Run On-Prem - Paris Nakita
   Kejser, Terma A/S"
-nav_order: 304
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Paris, an advanced platforms engineer at Turma, discusses his experience
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ In the Q&A, Paris addresses challenges like DDoS protection, storage replication
 |  19 | Essential base services: secrets management                                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/K5Wh7dfbr4s/hqdefault.jpg)](https://www.youtube.com/watch?v=K5Wh7dfbr4s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=K5Wh7dfbr4s)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Powering the European Space Agency’s Space Missions with Open Source
   So... Aaron Whitehouse"
-nav_order: 180
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The European Space Agency (ESA) has a long history of advancing space
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ By partnering with Canonical, ESA gains a unified service provider for its cloud
 |  16 | Canonical expresses pride in partnering with ESA to advance open source and infrastructure.                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3spacWa8YGo/hqdefault.jpg)](https://www.youtube.com/watch?v=3spacWa8YGo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3spacWa8YGo)

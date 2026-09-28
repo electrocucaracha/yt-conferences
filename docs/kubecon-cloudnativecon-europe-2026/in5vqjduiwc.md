@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Smoothed and Anchored Rate Calculation in PromQL - Björn Rabenstein, Grafana
   Labs
-nav_order: 335
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   "Bern from Kofana Labs discusses recent advancements in Prometheus rate
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Bern emphasizes that these changes were carefully considered to avoid user confu
 |  17 | Lessons learned: careful introduction of fundamental changes, use of feature flags, and importance of use                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iN5vQjDuiWc/hqdefault.jpg)](https://www.youtube.com/watch?v=iN5vQjDuiWc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iN5vQjDuiWc)

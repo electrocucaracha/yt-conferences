@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 20: Fireside Chat, Conclusion"
-nav_order: 12
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The fireside chat featured Percy, the instructor, discussing his journey
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The session concluded with practical advice on research involvement and reassura
 |  22 | Abili                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5u5I5jvWR5k/hqdefault.jpg)](https://www.youtube.com/watch?v=5u5I5jvWR5k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5u5I5jvWR5k)

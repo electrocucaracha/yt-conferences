@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From GitOps to AIOps: Evolving RBI's Kubernetes Platform with Cross... Gabor
   Horvath & Ewald Überall"
-nav_order: 118
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Gabbor War and Evadar from Raiffeisen Bank International
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ The presenters emphasize the importance of treating infrastructure and applicati
 |  13 | AI agent provides risk grading (small, medium, high) and remediation step                                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cqDVeqLvh00/hqdefault.jpg)](https://www.youtube.com/watch?v=cqDVeqLvh00)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cqDVeqLvh00)

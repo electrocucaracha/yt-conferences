@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Multi-cluster Orchestration System: Karmad... Hongcai Ren, Tessa Pham, Michas
   Szacillo & Zongqing Li"
-nav_order: 221
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The session introduces Karmada, a project designed to manage and schedule
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The community continues to grow, focusing on scalability, dashboard improvements
 |  15 | High-availability architecture: spreads applications across clusters, automatic traffic shift and HPA-based scaling on failure, federation layer can be unavailable for                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NY3O_0G90rg/hqdefault.jpg)](https://www.youtube.com/watch?v=NY3O_0G90rg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NY3O_0G90rg)

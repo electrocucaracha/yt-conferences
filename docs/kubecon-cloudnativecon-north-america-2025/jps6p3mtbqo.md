@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Securing Data Applications at Pinterest With Finer Grained Access Cont... Soam
   Acharya & William Tom
-nav_order: 275
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk at CubeCon, Pinterest’s data engineering team discusses
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The team emphasizes that their approach is designed for transparency and compati
 |  15 | Future plans: onboard all Spark/Flink jobs, expand to Ray/PyTo                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jPS6P3mTbqo/hqdefault.jpg)](https://www.youtube.com/watch?v=jPS6P3mTbqo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jPS6P3mTbqo)

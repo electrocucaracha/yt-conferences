@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Platform Engineering Loves Security: Shift Down To Your Platform... Maxime
   Coquerel & Mathieu Benoit"
-nav_order: 217
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Matthew Benois, Clative ambassador and customer success engineer at Humanit,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ By adopting a platform engineering mindset, organizations can empower developers
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Es3DBj2UgIE/hqdefault.jpg)](https://www.youtube.com/watch?v=Es3DBj2UgIE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Es3DBj2UgIE)

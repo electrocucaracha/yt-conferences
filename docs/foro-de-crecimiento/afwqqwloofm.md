@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Experto en riqueza: ¡No compres una casa! Haz esto mejor | Fernando Palacio"
-nav_order: 46
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa entrevista, Fernando Palacio, empresario y coach financiero,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Finalmente, anima a los emprendedores a destinar parte de sus ingresos a inversi
 |  18 | Recomiendan a los emprendedores invertir parte de sus ganancias en activos que generen tranquilidad y libertad                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/afWqQwLOOFM/hqdefault.jpg)](https://www.youtube.com/watch?v=afWqQwLOOFM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=afWqQwLOOFM)

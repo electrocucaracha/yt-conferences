@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How To Speak Like A Billion-Dollar CEO
-nav_order: 12
-parent: Interview Preparation
 type: Video Note
 description:
   "The 1% elite use specific communication skills to sound powerful in
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ The five key skills include: (1) not explaining every detail, instead focusing o
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cvIdPMmuptU/hqdefault.jpg)](https://www.youtube.com/watch?v=cvIdPMmuptU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cvIdPMmuptU)

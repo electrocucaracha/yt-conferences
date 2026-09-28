@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Closing - Robert Sirchia"
-nav_order: 256
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker expresses heartfelt gratitude to attendees and emphasizes
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -41,5 +38,7 @@ The remarks conclude with well wishes for a positive KubeCon experience, followe
 |   9 | Wished everyone a good KubeCon.                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1WELP5EHd2k/hqdefault.jpg)](https://www.youtube.com/watch?v=1WELP5EHd2k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1WELP5EHd2k)

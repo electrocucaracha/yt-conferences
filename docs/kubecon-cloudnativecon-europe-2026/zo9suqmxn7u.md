@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | EnvoyCon: The End of a De... Erica H, Kateryna N, Yan
   A, Rohit A & Leonardo M"
-nav_order: 61
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The panel discusses the evolution of Envoy, reflecting on its origins,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Looking ahead, the panel is optimistic about Envoy’s role in shaping networkin
 |  19 | The panel encouraged community involvement and highlighted the welcoming nature of the Envoy ecosystem.                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Zo9suQMXN7U/hqdefault.jpg)](https://www.youtube.com/watch?v=Zo9suQMXN7U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Zo9suQMXN7U)

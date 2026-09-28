@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Ghost in the Platform: How the Dutch Tax Authority Built a Servi... Jerry
   van Hulst, & Marcel Kerker"
-nav_order: 134
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation introduces the Coina platform, developed by the Dutch
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Looking ahead, the team aims to expand integrations, enhance automation with AI,
 |  20 | Key lessons: platform is an ec                                                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PUHAYSM_jGI/hqdefault.jpg)](https://www.youtube.com/watch?v=PUHAYSM_jGI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PUHAYSM_jGI)

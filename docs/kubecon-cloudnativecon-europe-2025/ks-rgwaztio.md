@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Prometheus Deep Dive: What’s New in v3.0 and Beyond - Saswata Mukherjee &
   Fiona Liao"
-nav_order: 274
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Fiona, introduces herself as a software engineer at Grafana
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Fiona invites the audience to contribute to these efforts and explore various ch
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KS_rGWazTio/hqdefault.jpg)](https://www.youtube.com/watch?v=KS_rGWazTio)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KS_rGWazTio)

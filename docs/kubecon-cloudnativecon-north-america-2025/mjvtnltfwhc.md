@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Achieving Peak Performance Through Hardware Alignment in DRA - Gaurav Ghildiyal
   & Byonggon Chun
-nav_order: 8
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, presenters Gorov from Google and Bang from Fluid Stack
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concludes with best practices for understanding hardware topology, b
 |  20 | Best practices: Know your hardware, identify bottlenecks, use                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MjVtNltfwhc/hqdefault.jpg)](https://www.youtube.com/watch?v=MjVtNltfwhc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MjVtNltfwhc)

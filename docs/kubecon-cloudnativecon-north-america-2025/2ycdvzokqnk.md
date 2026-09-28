@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "LLMs on Kubernetes: Squeeze 5x GPU Efficiency With Cache, Route, Repea...
   Yuhan Liu & Suraj Deshmukh"
-nav_order: 146
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Suraj from Microsoft and Yuan from the University of Chicago
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The talk also covers advanced techniques like KV cache-aware routing and prefill
 |  17 | LM Cache integration with SGLang                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2YCDvZokqnk/hqdefault.jpg)](https://www.youtube.com/watch?v=2YCDvZokqnk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2YCDvZokqnk)

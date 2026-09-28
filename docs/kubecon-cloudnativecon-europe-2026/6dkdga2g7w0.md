@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Laptop to Cluster: Running AI Workloads Seamlessly from Podman... Ashley
   Cui & Urvashi Mohnani"
-nav_order: 121
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Roishi Manani and Ashley from Red Hat discuss how to seamlessly
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -68,5 +65,7 @@ They also demonstrate how Quadlet can be used to manage these containers as syst
 |  33 | Resources and demo scripts provided at end                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6DkdGa2G7W0/hqdefault.jpg)](https://www.youtube.com/watch?v=6DkdGa2G7W0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6DkdGa2G7W0)

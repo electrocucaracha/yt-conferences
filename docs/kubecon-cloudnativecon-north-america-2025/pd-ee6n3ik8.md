@@ -1,8 +1,5 @@
 ---
-layout: default
 title: What's New in gRPC - Kevin Nilson, Google & Israel Shapiro, Broadcom
-nav_order: 339
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video features a panel of gRPC maintainers and contributors discussing
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session concludes with a Q&A addressing best practices for proto file sharin
 |  21 | Rust is now an officially supported gRPC language                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pd_eE6N3iK8/hqdefault.jpg)](https://www.youtube.com/watch?v=pd_eE6N3iK8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pd_eE6N3iK8)

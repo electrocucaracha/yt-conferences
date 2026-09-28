@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: AI on Kubernetes Without the Chaos: Building Reproducible ML Environment.
   Nourhan Mohamed"
-nav_order: 377
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Norhan Muhammad introduces a talk focused on achieving reproducible and
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The session concludes with key takeaways—pinning dependencies, tracking lineag
 |  24 | Valida                                                                                                                                                                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JA1rrdMLmew/hqdefault.jpg)](https://www.youtube.com/watch?v=JA1rrdMLmew)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JA1rrdMLmew)

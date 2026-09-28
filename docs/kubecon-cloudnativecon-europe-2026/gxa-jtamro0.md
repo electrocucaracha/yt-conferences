@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Non-Functional Requirements: Building Scalable, Resilient and
   Secure... Jakub Krzywda"
-nav_order: 40
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Yakub Shiva, a cloud native architect at Elasticis, discusses
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The talk concludes by stressing that leveraging cloud native platforms can great
 |  19 | Security: Platforms enforce hardened configurations and guardrails; developers follow best                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GXa_jTamRo0/hqdefault.jpg)](https://www.youtube.com/watch?v=GXa_jTamRo0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GXa_jTamRo0)

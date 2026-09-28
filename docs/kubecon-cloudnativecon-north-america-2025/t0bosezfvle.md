@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Let's Have Harbor Everywhere! - Orlin Vasilev, Maintainer/Community
   Manager"
-nav_order: 227
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Olen, the Harvard community maintainer, CNCF ambassador, and open source
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ He demonstrates Harbor running on ARM in his local K3S cluster and invites the c
 |  15 | Harbor 2.15 is running locally on ARM, thanks to Ronnie and the community.                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/t0boSezfVLE/hqdefault.jpg)](https://www.youtube.com/watch?v=t0boSezfVLE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=t0boSezfVLE)

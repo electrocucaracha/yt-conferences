@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: Universal Mesh: Simplifying Modern Connectivity - Frank
   Mancina, HAProxy"
-nav_order: 290
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Frank, VP of engineering at Haroxy Technologies, discusses the struggles
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Instead, he proposes the "universal mesh," a simpler, flexible, and more powerfu
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-GYAtgodO80/hqdefault.jpg)](https://www.youtube.com/watch?v=-GYAtgodO80)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-GYAtgodO80)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Yes You Can Run LLMs on Kubernetes - Abdel Sghiouar & Mofi Rahman, Google Cloud
-nav_order: 375
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker demonstrates how to deploy a large language model (LLM) on
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The speaker also highlights the importance of community involvement and open-sou
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/thCZDKZ1cAM/hqdefault.jpg)](https://www.youtube.com/watch?v=thCZDKZ1cAM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=thCZDKZ1cAM)

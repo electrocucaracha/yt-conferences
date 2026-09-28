@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Extending Kubernetes API: The Hidden Power of Aggregated Server Objects -
   Amir Malka, ARMO"
-nav_order: 72
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker, a software architect at Armo and core maintainer of the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ In the Q&A, he acknowledges the complexity and ongoing challenges of this approa
 |  22 | Added pagination                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ifwNDvRSQWU/hqdefault.jpg)](https://www.youtube.com/watch?v=ifwNDvRSQWU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ifwNDvRSQWU)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Vitess: Unlimited Database Scalability - Shlomi Noach,
   Maintainer"
-nav_order: 266
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Schlomi from Planet Scale introduces unlimited scaling in Vitess, an
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ It achieves scale through custom or configurable sharding keys, allowing users t
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ERztKTd-ckA/hqdefault.jpg)](https://www.youtube.com/watch?v=ERztKTd-ckA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ERztKTd-ckA)

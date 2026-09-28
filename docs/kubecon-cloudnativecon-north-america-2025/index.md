@@ -1,10 +1,3 @@
----
-layout: default
-title: "Kubecon Cloudnativecon North America 2025"
-has_children: true
-nav_order: 9
----
-
 # Kubecon Cloudnativecon North America 2025
 
 ## Executive Overview

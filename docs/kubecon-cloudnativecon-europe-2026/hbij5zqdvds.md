@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: How To Responsibly and Effectively Contribute To Open Source
   Using... Tyler Helmuth"
-nav_order: 207
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Tyler Helmouth, a software engineer at Honeycomb and maintainer of several
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Ultimately, he encourages contributors to use AI thoughtfully, remain engaged wi
 |  19 | AI tools are excellent tools but poor contributors; open source is about people and community.                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hBiJ5ZQDVds/hqdefault.jpg)](https://www.youtube.com/watch?v=hBiJ5ZQDVds)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hBiJ5ZQDVds)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Declarative Edge Kubernetes: Immutable Clusters with Talos + Zarf - Brandt
   Keller & Merijn Keppel"
-nav_order: 89
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Brent Keller and Marell discuss deploying and managing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The session concludes by reinforcing the benefits of declarative and immutable i
 |  22 | Demo showed successful ap                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6Ss9wMZhMJc/hqdefault.jpg)](https://www.youtube.com/watch?v=6Ss9wMZhMJc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6Ss9wMZhMJc)

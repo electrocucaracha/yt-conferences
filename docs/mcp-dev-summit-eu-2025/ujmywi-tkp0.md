@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] OAuth Everywhere: What I Learned Building MCP Clients, Servers,
   & the Gateway Between Them"
-nav_order: 31
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Donnie Adams, a software architect at OTO AI, discusses the team's experience
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The talk concludes with an invitation to explore OTO AI's open-source projects, 
 |  22 | New flow will allow clients to recover from insufficient scopes by prompting users to r                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/UjMYWi-tkP0/hqdefault.jpg)](https://www.youtube.com/watch?v=UjMYWi-tkP0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UjMYWi-tkP0)

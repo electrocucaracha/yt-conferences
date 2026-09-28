@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Tell Me About Yourself (Copy This Answer)
-nav_order: 25
-parent: Interview Preparation
 type: Video Note
 description:
   The most important question in an interview is not about your experience
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ By using a simple narrative structure, starting with your current role, adding a
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hg6HzvtZSR4/hqdefault.jpg)](https://www.youtube.com/watch?v=hg6HzvtZSR4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hg6HzvtZSR4)

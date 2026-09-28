@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Cloud Native Back to the Future: The Road Ahead - Jeremy Rickard
   & Alex Chircop"
-nav_order: 122
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Cloud Native Computing Foundation (CNCF) is celebrating its 10th
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The CNCF is restructuring its workgroups into initiatives and sub-projects, with
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GQtaggMzom4/hqdefault.jpg)](https://www.youtube.com/watch?v=GQtaggMzom4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GQtaggMzom4)

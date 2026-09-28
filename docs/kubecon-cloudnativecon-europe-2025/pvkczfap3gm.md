@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Kairos Timelapse: 12 Months of Open Source in 5 Minu...
   Dimitris Karakasilis"
-nav_order: 239
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Limitri Karakasilis, a maintainer of the Chyros project, defines a single-purpose
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The project also features peer-to-peer technology, remote key management, and sy
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PvKCzFaP3gM/hqdefault.jpg)](https://www.youtube.com/watch?v=PvKCzFaP3gM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PvKCzFaP3gM)

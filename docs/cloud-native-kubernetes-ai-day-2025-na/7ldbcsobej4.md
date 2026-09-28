@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: Kubernetes Challenges at Lambda - Andrew Godwin, Lambda
   Labs"
-nav_order: 15
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The speaker, Lambda’s lead software architect, provides an overview of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The speaker concludes by highlighting the ongoing complexity of GPU workloads co
 |  21 | Lambda is hiring for multiple positions.                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7ldbcSoBEJ4/hqdefault.jpg)](https://www.youtube.com/watch?v=7ldbcSoBEJ4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7ldbcSoBEJ4)

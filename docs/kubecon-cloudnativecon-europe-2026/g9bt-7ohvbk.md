@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Data on Kubernetes Day: From Billion... Victoriya Kalmanovich
   & Shahar Azulay"
-nav_order: 51
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Shahara Zilai and Vicki Kalmanovich discuss the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ This model leverages open-source databases like ClickHouse and VictoriaMetrics f
 |  19 | Bring Your Own Cloud (BYOC) for observability offers man                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/G9Bt-7OHVBk/hqdefault.jpg)](https://www.youtube.com/watch?v=G9Bt-7OHVBk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=G9Bt-7OHVBk)

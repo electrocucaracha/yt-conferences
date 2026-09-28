@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Interceptors for MCP: A Production-Tested Standard for Agentic Middl... Kurt
   Degiorgio & Cannis Chan"
-nav_order: 39
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this presentation, Kurt and Canis from Bloomberg introduce "interceptors,"
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ The presenters emphasize that interceptors provide a plug-and-play framework for
 |  23 | Mutators answer: "Make this safe," transforming data to comply with policies before crossing trust boundaries. Ratings (1-5): 4                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/z8s3fNjMtY0/hqdefault.jpg)](https://www.youtube.com/watch?v=z8s3fNjMtY0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=z8s3fNjMtY0)

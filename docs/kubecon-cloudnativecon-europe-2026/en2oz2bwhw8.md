@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "CRI-O: Faster Pulls, Better Metrics, and a Future Beyond Images - Sohan Kunkerkar
   & Ayato Tokubi"
-nav_order: 37
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this CubeCon session, San Kerkar and Ayatu Tokobi from Red Hat provide
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Finally, the session covers peer-to-peer image distribution using Spiegel, which
 |  20 | Integration with Cryo involves a blob cache layer for compressed layers and metadata tra                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/en2oz2BWHW8/hqdefault.jpg)](https://www.youtube.com/watch?v=en2oz2BWHW8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=en2oz2BWHW8)

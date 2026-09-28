@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Build, Operate, and Use a Multi-Tenant AI Cluster Base... C. Misale,
   O. Tardieu & D. Grove"
-nav_order: 349
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Ab7mRoJYsMo
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ The team demonstrates the platform's capabilities using various examples, includ
 |  15 | It has been tested on a 1200-GPU cluster with 20 teams, achieving high utilization rates while maintaining quotas for each team. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Ab7mRoJYsMo/hqdefault.jpg)](https://www.youtube.com/watch?v=Ab7mRoJYsMo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ab7mRoJYsMo)

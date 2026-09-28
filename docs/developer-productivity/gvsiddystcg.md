@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Expert Talk: Code Refactoring • Adam Tornhill & Christian Clausen • GOTO 2022"
-nav_order: 41
-parent: Developer Productivity
 type: Video Note
 description:
   Christian Clausen and Adam Tornhill discuss the social side of refactoring
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Clausen shares his experience with functional programming languages like Clojure
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gvsIddYsTcg/hqdefault.jpg)](https://www.youtube.com/watch?v=gvsIddYsTcg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gvsIddYsTcg)

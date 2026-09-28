@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Young? First-Gen? Female? New? Here’s Why You Belong Here
   Too - Jennifer Weir"
-nav_order: 155
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Jennifer Weir shares her journey as a young, first-generation female
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ She concludes by encouraging everyone to claim their place in the community, as 
 |  21 | Achieving this goal requires ongoing effort from everyone.                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fx-6ZSFfScI/hqdefault.jpg)](https://www.youtube.com/watch?v=fx-6ZSFfScI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fx-6ZSFfScI)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Scaling Shopify's Search: Enhancing Elasticsearch Resilience With Kubernetes
   and KE... Leila Vayghan"
-nav_order: 298
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=r59IfCSmUBQ
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ By separating real-time and reindexing workloads on different Kubernetes node po
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/r59IfCSmUBQ/hqdefault.jpg)](https://www.youtube.com/watch?v=r59IfCSmUBQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r59IfCSmUBQ)

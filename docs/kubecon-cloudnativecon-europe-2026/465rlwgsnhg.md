@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "When OTTL Goes Off the Rails: Debugging Transformations with. Edmo Vamerlatti
   Costa & Tyler Helmuth"
-nav_order: 402
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Tyler Helmouth and Aimo provide an intermediate-level
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Audience questions address topics like integrating OTTL into CI/CD pipelines and
 |  17 | OTTL transform processor is a                                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/465RlwgsNHg/hqdefault.jpg)](https://www.youtube.com/watch?v=465RlwgsNHg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=465RlwgsNHg)

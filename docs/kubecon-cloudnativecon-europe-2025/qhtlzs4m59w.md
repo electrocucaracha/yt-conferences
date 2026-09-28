@@ -1,8 +1,5 @@
 ---
-layout: default
 title: A Day in the Life of a Kubernetes Engineer
-nav_order: 4
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   A Kubernetes engineer is not a fixed role but rather a person who solves
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ To be effective, a Kubernetes engineer must consider both technical and business
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QhTlZs4m59w/hqdefault.jpg)](https://www.youtube.com/watch?v=QhTlZs4m59w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QhTlZs4m59w)

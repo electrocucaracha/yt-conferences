@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Cloud Native for Good - Faseela K, O. Mohsine, R. Machorro, B. Thomas,
   J. Workman"
-nav_order: 123
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The video transcript discusses how cloud-native technology is being used
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ They highlight how these technologies have enabled them to scale their operation
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TNl6ocszMyU/hqdefault.jpg)](https://www.youtube.com/watch?v=TNl6ocszMyU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TNl6ocszMyU)

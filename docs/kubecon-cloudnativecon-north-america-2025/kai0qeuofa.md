@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Node Manager - How Yahoo Manages Thousands of Nodes at Scale? - Payal Patel,
   Yahoo
-nav_order: 180
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Piyal Patel, a principal software development engineer at Yahoo, presents
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The session concludes with a Q&A covering technical details, open sourcing plans
 |  20 | Debugging relies on node agent logs, wh                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_kAI0qEuoFA/hqdefault.jpg)](https://www.youtube.com/watch?v=_kAI0qEuoFA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_kAI0qEuoFA)

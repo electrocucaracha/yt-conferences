@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: The Cloud (And Your $$$) is Not Infinite: Dyna... Corentin
   Debains & Laura Lorenz"
-nav_order: 312
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Kubernetes is evolving to address emerging AI and ML needs by introducing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The system now uses dynamic resource allocation, compute classes, and multiclust
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VLVSa6xD5tk/hqdefault.jpg)](https://www.youtube.com/watch?v=VLVSa6xD5tk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VLVSa6xD5tk)

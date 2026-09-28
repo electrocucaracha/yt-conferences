@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Lightning Talk: There Is a New Volume Type in Town! - Mario Loriedo, Red Hat"
-nav_order: 186
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Mario, a software engineer at Red Hat, discusses the introduction of
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The feature has been introduced as an alpha in Kubernetes 1.33 and will graduate
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zXIMJeJrnvI/hqdefault.jpg)](https://www.youtube.com/watch?v=zXIMJeJrnvI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zXIMJeJrnvI)

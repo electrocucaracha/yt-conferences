@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   C.A.L.L.I.N.G. Now I'm Calling You, Calling You Now - Mario Macías & Terra
   Tauri, Grafana Labs
-nav_order: 38
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Terara Tori, discusses the challenges of enriching Kubernetes
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ This solution is designed to be scalable and maintainable, with options for user
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2BIhTXQd0CI/hqdefault.jpg)](https://www.youtube.com/watch?v=2BIhTXQd0CI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2BIhTXQd0CI)

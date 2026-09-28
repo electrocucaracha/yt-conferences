@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Cloud Native Theater | Cloud Native University... Cansu Kavili Örnek and Anneli
   Sara Banderby
-nav_order: 42
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Jans Su, an architect with a platform engineering background, and Sarah,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ Finally, they recommend session topics for both data scientists and platform eng
 |  13 | Recommendation to collaborate across roles, ask questions, and network with others at CubeCon.                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Ocu4JRFrraQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Ocu4JRFrraQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ocu4JRFrraQ)

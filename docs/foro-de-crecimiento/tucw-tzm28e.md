@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "#1 Personal Branding Expert: How to Make Clients Seek You | Humberto Herrera"
-nav_order: 1
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este episodio del Foro de Crecimiento, Humberto Herrera, experto en
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -71,5 +68,7 @@ Finalmente, invita a los oyentes a definir y escribir cómo quieren vivir, resal
 |  38 | El éxito es vivir la vida en tus Ratings (1-5): 4                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Tucw-tzm28E/hqdefault.jpg)](https://www.youtube.com/watch?v=Tucw-tzm28E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Tucw-tzm28E)

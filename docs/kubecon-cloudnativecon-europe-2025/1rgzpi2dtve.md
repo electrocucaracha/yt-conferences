@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Why Allyship Matters and Your Role in Creating a More Diverse Cloud Native
   Community
-nav_order: 372
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The panel discussion on allyship and accessibility in the cloud-native
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The panelists also discussed the importance of inclusive events, providing resou
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1rgZPi2dTvE/hqdefault.jpg)](https://www.youtube.com/watch?v=1rgZPi2dTvE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1rgZPi2dTvE)

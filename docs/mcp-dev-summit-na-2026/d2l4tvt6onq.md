@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Mental Reset: How To Rethink Your User Flow in the Age of MCP & ChatGPT Apps
   - Erica Beavers, Alpic"
-nav_order: 65
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this presentation, Erica, co-founder of ALPIC, discusses effective
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ She concludes by inviting attendees to explore further resources and connect wit
 |  17 | Emphasis on treating MCP as                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/d2l4Tvt6onQ/hqdefault.jpg)](https://www.youtube.com/watch?v=d2l4Tvt6onQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=d2l4Tvt6onQ)

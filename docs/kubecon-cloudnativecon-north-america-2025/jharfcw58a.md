@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Benchmarking GenAI Foundation Model Inference Optimizations on Kubernetes -
   S.M. Varghese & B. Slabe
-nav_order: 22
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The talk "Benchmarking Foundation Models on Kubernetes" discusses the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ The talk highlights the importance of benchmarking and standardizing performance
 |  12 | The project aims to be the source of truth for inference benchmarking, welcoming new contributors.                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_JhARfcw58A/hqdefault.jpg)](https://www.youtube.com/watch?v=_JhARfcw58A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_JhARfcw58A)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "BoF | Beyond Nginx Ingress: Higress as the K8s Gateway for the AI Era"
-nav_order: 29
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Hushing from Alibaba Cloud introduces Higress, a new Kubernetes gateway
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The project is evolving to meet the needs of AI-native workloads, offering featu
 |  20 | Roadmap includes more Gateway API inference extension su                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FURcBVNuK0U/hqdefault.jpg)](https://www.youtube.com/watch?v=FURcBVNuK0U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FURcBVNuK0U)

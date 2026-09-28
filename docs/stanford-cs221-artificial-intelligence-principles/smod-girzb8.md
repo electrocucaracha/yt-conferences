@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 10: Games I"
-nav_order: 1
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   In this lecture, the focus is on games as state-based models, building
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concludes by highlighting the importance of understanding optimality
 |  19 | Alpha-beta pruning: speeds up minimax by pruning subtrees that cannot affect the outcome, based on bounds (alpha for max                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SMOD_GiRzb8/hqdefault.jpg)](https://www.youtube.com/watch?v=SMOD_GiRzb8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SMOD_GiRzb8)

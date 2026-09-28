@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "La mentalidad que me hizo millonario, venció mis miedos… y transformó mi cuerpo
   - #25 Rafael Coppola"
-nav_order: 54
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Rafael Cópola, piloto, empresario y conferencista,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ Además, resalta el valor de la marca personal, el aprendizaje continuo y el ayu
 |  14 | Recomienda pedir y confiar en Dios, mantener la humildad y nunca dejar de aprender ni de servir a los demás.                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FxItzze2q_M/hqdefault.jpg)](https://www.youtube.com/watch?v=FxItzze2q_M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FxItzze2q_M)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Google Sheets for Developers • Franziska Hinkelmann & Anu Srivastava • GOTO
   2019
-nav_order: 47
-parent: Developer Productivity
 type: Video Note
 description:
   Francisca Hinkleman, a senior engineer at Google, and Anu, another senior
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ The application generates reports automatically, saving time and effort for user
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/77toMO9-kQc/hqdefault.jpg)](https://www.youtube.com/watch?v=77toMO9-kQc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=77toMO9-kQc)

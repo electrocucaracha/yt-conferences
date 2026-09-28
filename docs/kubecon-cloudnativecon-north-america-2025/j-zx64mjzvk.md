@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Fix First, Investigate Later: When an eBPF Rollout Brought Down Our... Zain
   Malik & Grzegorz Głąb"
-nav_order: 78
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The team investigated a network outage caused by an EBPF rollout, which
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ They concluded that observability is essential for identifying performance issue
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/J-Zx64mJzVk/hqdefault.jpg)](https://www.youtube.com/watch?v=J-Zx64mJzVk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=J-Zx64mJzVk)

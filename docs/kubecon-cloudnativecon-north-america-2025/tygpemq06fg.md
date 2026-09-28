@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Modern PostgreSQL Authorization With Keycloak: Cloud Native... Yoshiyuki Tabata
   & Gabriele Bartolini"
-nav_order: 172
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presentation introduces a new collaboration between two CNCF projects—Keycloak,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ This approach externalizes identity and authorization, simplifies governance, an
 |  15 | Role mapping and authorization are managed centra                                                                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TYgPemq06fg/hqdefault.jpg)](https://www.youtube.com/watch?v=TYgPemq06fg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TYgPemq06fg)

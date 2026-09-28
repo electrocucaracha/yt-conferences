@@ -1,8 +1,5 @@
 ---
-layout: default
 title: SIG Scheduling Intro & Updates - Maciej Skoczeń, Google; Kensei Nakada, Tetrate.io
-nav_order: 290
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Google team is working on improving the performance and efficiency
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -41,5 +38,7 @@ The Scheduleuler simulator allows users to test custom plugins and configuration
 |   8 | The scheduleuler simulator can be connected to a real cluster, allowing users to test custom plugins and configurations. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZIk_EqI8rVA/hqdefault.jpg)](https://www.youtube.com/watch?v=ZIk_EqI8rVA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZIk_EqI8rVA)

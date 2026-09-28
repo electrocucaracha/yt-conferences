@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   'Tutorial: "Working Code Wins": Win Big With a Cloud Native Hackathon Start...
   P. Morton & A. Bangser'
-nav_order: 348
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Phil and Abby welcome to "Working Code Wins" at CubeCon, where they'll
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ Phil will share his experience with hackathons and how he learned Kubernetes and
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jid0uSnNku8/hqdefault.jpg)](https://www.youtube.com/watch?v=jid0uSnNku8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jid0uSnNku8)

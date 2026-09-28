@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Securing AI Workloads: Building Zero-Trust Architecture for LLM Appl... Rohit
   Ghumare & Joinal Ahmed"
-nav_order: 299
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses securing AI workloads, specifically LLM applications,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -65,5 +62,7 @@ They also showcase their own project, MCP server for Cube, which allows remote c
 |  31 | Zero-trust architecture for LLMs: + Access control and authentication + Input validation and threat detection + Runtime enforcement with OPA + Observability with tracing tools (e.g., LangChain, LangKit) + Data confidentiality and monitoring |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qXEvqZ_cY0o/hqdefault.jpg)](https://www.youtube.com/watch?v=qXEvqZ_cY0o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qXEvqZ_cY0o)

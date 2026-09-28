@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Future of Virtualization in Kubernetes: What's Next for KubeVirt - Vladik
   Romanovsky, Red Hat"
-nav_order: 308
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Vlatty Kromanski, a maintainer of the KubeVirt project, provided an update
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Looking ahead, the team is working on multiple hypervisor support, plugin mechan
 |  20 | Working on incremental backup with CBT, V                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/w0LPBf8H4xc/hqdefault.jpg)](https://www.youtube.com/watch?v=w0LPBf8H4xc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=w0LPBf8H4xc)

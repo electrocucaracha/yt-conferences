@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   ¿Por qué algunas personas impactan cuando hablan y otras no? Elisa Mass – Sesión
   33
-nav_order: 77
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este video, la especialista en voz Elisa Más explica que todos tienen
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Además, se ofrecen ejercicios prácticos para mejorar la voz y se responde a pr
 |  20 | Aceptar y amar la propia voz es fundamental para desarrollarla plenamente.                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_Pw0g9MPkb0/hqdefault.jpg)](https://www.youtube.com/watch?v=_Pw0g9MPkb0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_Pw0g9MPkb0)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: SIG-Windows Updates - Claudiu Belu, Cloudbase Solutions & JR Valdes, Red Hat
-nav_order: 322
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this SIG Windows maintainer track session, Claudia and Jar present
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The Q&A addresses deployment support across various cloud providers and emphasiz
 |  20 | Support available via Kubernetes S                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GCzF5h5BQl4/hqdefault.jpg)](https://www.youtube.com/watch?v=GCzF5h5BQl4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GCzF5h5BQl4)

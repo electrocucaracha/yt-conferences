@@ -1,11 +1,3 @@
----
-layout: default
-title: "Aie Code 2025 Ai Leadership"
-has_children: true
-nav_order: 2
-okf_version: "0.2"
----
-
 # Aie Code 2025 Ai Leadership
 
 ## Executive Overview

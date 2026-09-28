@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Expanding the Contributor Pipeline Through Inclusion
-nav_order: 90
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The panel discussion focused on inclusiveness in open-source projects,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Finally, the panel highlighted the importance of recognizing potential and overc
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RgzyEc8pPa8/hqdefault.jpg)](https://www.youtube.com/watch?v=RgzyEc8pPa8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RgzyEc8pPa8)

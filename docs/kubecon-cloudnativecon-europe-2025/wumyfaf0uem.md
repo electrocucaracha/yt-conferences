@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "KubeEdge DeepDive: Architecture, Use Cases, and Project Graduation Updates
   - Fei Xu & Hongbing Zhang"
-nav_order: 161
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Kubage project is a cloud-native edge computing platform that enables
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Additionally, Kubage provides a robust device management system through APIs, en
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/WuMyfaF0UeM/hqdefault.jpg)](https://www.youtube.com/watch?v=WuMyfaF0UeM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WuMyfaF0UeM)

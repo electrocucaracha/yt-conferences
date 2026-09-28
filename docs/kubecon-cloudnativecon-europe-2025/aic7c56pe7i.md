@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Beyond Security: Leveraging OPA for FinOps in Kubernetes - Sathish Kumar Venkatesan"
-nav_order: 26
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Satishh Kumar Wingen, a Canadian DevOps expert, discusses leveraging
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The expert demonstrates how to use OPA to create custom constraints and validate
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/aiC7C56pE7I/hqdefault.jpg)](https://www.youtube.com/watch?v=aiC7C56pE7I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aiC7C56pE7I)

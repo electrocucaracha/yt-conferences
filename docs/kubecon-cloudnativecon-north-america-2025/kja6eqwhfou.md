@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Manifesting Millions: No Luck Required, Just Tenacity - Emily Long, Edera"
-nav_order: 164
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker, a first-time founder with a background in tech and financial
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Ultimately, she stresses the importance of conviction, resilience, and self-beli
 |  22 | Back channeling i                                                                                                                                                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KjA6eQwhFoU/hqdefault.jpg)](https://www.youtube.com/watch?v=KjA6eQwhFoU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KjA6eQwhFoU)

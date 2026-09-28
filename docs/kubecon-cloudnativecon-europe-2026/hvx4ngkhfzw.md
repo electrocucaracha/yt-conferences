@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Envoy in the Era of Agentic Workloads - Yan Avlasov, Google & Erica Hughberg,
   Tetrate
-nav_order: 104
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Erica Huberg and Yan, both maintainers of the Envoy
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ They conclude by emphasizing Envoy’s adaptability, production maturity, and ac
 |  22 | Agent-to-agent (A2A) communication is emerging but not yet widespread.                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HvX4nGkhfZw/hqdefault.jpg)](https://www.youtube.com/watch?v=HvX4nGkhfZw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HvX4nGkhfZw)

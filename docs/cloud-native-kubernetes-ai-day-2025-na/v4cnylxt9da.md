@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "LMCache: Lower LLM Performance Costs in the Enterprise - Martin Hickey & Junchen
   Jiang"
-nav_order: 6
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The speakers at CubeCon Atlanta discuss the evolution of cloud infrastructure
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The talk concludes by emphasizing LM Cache’s role in addressing the challenges
 |  17 | Community encouraged to contribute, check documentation, and engage with the project.                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/V4CNYLxT9DA/hqdefault.jpg)](https://www.youtube.com/watch?v=V4CNYLxT9DA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=V4CNYLxT9DA)

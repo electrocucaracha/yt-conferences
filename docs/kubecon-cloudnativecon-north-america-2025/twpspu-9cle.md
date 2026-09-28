@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Unveiling Automation: How Mercantil Transformed Data Streaming With Strimzi,
   Argo... Marcelo Costa"
-nav_order: 335
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Marcelo Costa, Head of Data at Mechanu Bank in Brazil, discusses how
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ This transformation not only improved speed and reliability but also fostered co
 |  18 | Transitioned from manual, error-prone processes to automated, audi                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tWpspU_9ClE/hqdefault.jpg)](https://www.youtube.com/watch?v=tWpspU_9ClE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tWpspU_9ClE)

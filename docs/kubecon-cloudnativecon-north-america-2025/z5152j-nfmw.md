@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Shaping LTS Together: What We’ve Learned the... Nikhita R, Nikhila K, Micah
   H, Jeremy R & Aniket P"
-nav_order: 277
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The panel discussion focused on the challenges and lessons learned in
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The panel concluded that although the working group is ending, the demand for LT
 |  20 | LTS working group is winding down due to lack                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/z5152J_nFmw/hqdefault.jpg)](https://www.youtube.com/watch?v=z5152J_nFmw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=z5152J_nFmw)

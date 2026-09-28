@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "OpenTelemetry Logs Driving a Major Shift: Events, Richer Data, and Smarter
   Semantics - Robert Pająk"
-nav_order: 190
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Robert Pyong’s talk focuses on the evolving role of logs in OpenTelemetry,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ The Q&A addresses practical concerns such as batching Windows event logs, the ma
 |  25 | Enables integration with OS-native tracing systems (e.g., Linux user ev                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-j6bHtUV3IA/hqdefault.jpg)](https://www.youtube.com/watch?v=-j6bHtUV3IA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-j6bHtUV3IA)

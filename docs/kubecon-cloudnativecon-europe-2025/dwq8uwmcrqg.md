@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Adventures of Building a Platform as a Service for the Gover... H.K.
   Flaatten & A.F. Strand"
-nav_order: 140
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Adun, a Norwegian public sector professional, shares the story of building
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The Nice platform has become a success story, allowing developers to easily buil
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/DWq8UWmcRQg/hqdefault.jpg)](https://www.youtube.com/watch?v=DWq8UWmcRQg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DWq8UWmcRQg)

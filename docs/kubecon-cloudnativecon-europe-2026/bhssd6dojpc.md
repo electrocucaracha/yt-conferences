@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Gateway API: Bridging the Gap from Ingress t... Nick Y, James S, Katarzyna
   Ł, Rostislav B & Norwin S"
-nav_order: 131
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Mario Sabat and Maya from IBM Research discuss
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The team also highlights ongoing and future work, such as integrating agent sema
 |  19 | Local agentic                                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bHSsd6dojPc/hqdefault.jpg)](https://www.youtube.com/watch?v=bHSsd6dojPc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bHSsd6dojPc)

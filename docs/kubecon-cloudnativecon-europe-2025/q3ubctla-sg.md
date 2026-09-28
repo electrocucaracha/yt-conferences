@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Day 3 - KubeCon + CloudNativeCon 2025 Europe Highlights from London
-nav_order: 67
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   CubeCon 2025 was a wild ride, offering an incredible experience due to
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Attendees can expect knowledge, opportunities, connection, and friendships, maki
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/q3uBctLa_Sg/hqdefault.jpg)](https://www.youtube.com/watch?v=q3uBctLa_Sg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=q3uBctLa_Sg)

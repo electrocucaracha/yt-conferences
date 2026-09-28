@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 12: Bayesian Networks I"
-nav_order: 3
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture begins by reviewing key concepts in artificial intelligence,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concludes by emphasizing the interpretability, flexibility, and prac
 |  18 | Summary: Bayesian networks offer a structured way to define joint distributions and perform probabilistic inference; rejection sampling is a simple but inefficient inference method.                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ec2rCf4iIqU/hqdefault.jpg)](https://www.youtube.com/watch?v=ec2rCf4iIqU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ec2rCf4iIqU)

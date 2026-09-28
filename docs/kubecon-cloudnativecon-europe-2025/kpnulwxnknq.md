@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Failure Is Not an Option: Durable Execution + Dapr = \U0001F680 - Marc Duiker,
   Diagrid"
-nav_order: 94
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses the importance of durable execution and workflow
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ They also highlight four key considerations when working with workflows: determi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KPNuLwXNkNQ/hqdefault.jpg)](https://www.youtube.com/watch?v=KPNuLwXNkNQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KPNuLwXNkNQ)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Redis on EC2 to Valkey on Kubernetes: A Zero-Downtime Case Study - Joe Heyburn,
   Braze"
-nav_order: 308
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Joe Hayburn, a staff engineer at Braze, describes how his team migrated
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Looking ahead, Braze aims to optimize pod distribution, enable dynamic scaling, 
 |  16 | Current challenges: need for better pod distribution to avoid hot nodes, desire for dynamic scaling with Kubernetes vertical po                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rNZ6HLiFgYI/hqdefault.jpg)](https://www.youtube.com/watch?v=rNZ6HLiFgYI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rNZ6HLiFgYI)

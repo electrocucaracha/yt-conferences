@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Idle to Savings: Building a Global Scheduler for Cost‑Efficient Data
   P... Rainie Li & Ang Zhang"
-nav_order: 119
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Rainey, a senior engineering manager at Pinterest, outlines
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Solutions such as separating driver and executor node groups, implementing globa
 |  15 | Solutions for challenges include static node groups for Spark drivers, balancing disk size and IO throughput, global                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8P2y_gyHQA8/hqdefault.jpg)](https://www.youtube.com/watch?v=8P2y_gyHQA8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8P2y_gyHQA8)

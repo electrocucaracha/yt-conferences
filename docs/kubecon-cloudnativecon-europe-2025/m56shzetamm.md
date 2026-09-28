@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Beyond CloudEvents: Endpoints, Messages, Schemas – CNCF XRegistry - Manuel
   Ottlik, HDI Global SE"
-nav_order: 24
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=M56SHzETAmM
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The X Registry is currently in its RC1 stage, with plans for further development
 |  19 | Filed for CNCF sandbox application last month                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/M56SHzETAmM/hqdefault.jpg)](https://www.youtube.com/watch?v=M56SHzETAmM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=M56SHzETAmM)

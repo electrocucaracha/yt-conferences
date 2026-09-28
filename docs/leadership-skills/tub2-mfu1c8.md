@@ -1,8 +1,5 @@
 ---
-layout: default
 title: 10 Books Every Leader Must Read
-nav_order: 1
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a leadership mentor and coach, shares his
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -68,5 +65,7 @@ Throughout, Howard encourages leaders to continually learn and seek out new reso
 |  34 | 8. 21 Irrefutable                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tuB2_mFU1c8/hqdefault.jpg)](https://www.youtube.com/watch?v=tuB2_mFU1c8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tuB2_mFU1c8)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Building a Unified Control Plane for MCP Across Servers, Clients,
   and Teams - Cecilia Liu"
-nav_order: 40
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Cecilia, a product manager at Docker, shares real-world "horror stories"
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ Cecilia concludes by inviting attendees to learn more at Docker’s booth, reite
 |  25 | Recap: Need MCP gateway, sandbox, and easy deployment for secure AI agent operations.                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/En8TVF2H6g0/hqdefault.jpg)](https://www.youtube.com/watch?v=En8TVF2H6g0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=En8TVF2H6g0)

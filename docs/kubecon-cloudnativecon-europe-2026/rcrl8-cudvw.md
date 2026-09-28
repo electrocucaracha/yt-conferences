@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Instrumenting Kueue Scheduling for ML Training - Amy Chen, CoreWeave & Gabriel
   Saba, Google
-nav_order: 154
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Amy and Gabriel introduce Q, a batch job scheduler designed
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Finally, they recommend key metrics and dashboard features for monitoring Q’s 
 |  15 | Recommendations: mon                                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rcrl8-CudVw/hqdefault.jpg)](https://www.youtube.com/watch?v=rcrl8-CudVw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rcrl8-CudVw)

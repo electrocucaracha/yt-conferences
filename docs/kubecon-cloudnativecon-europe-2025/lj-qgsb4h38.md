@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Do Your Containers Even Lift – A Hardening Guide for K8s Containers - Cailyn
   Edwards & Daniel Murphy
-nav_order: 74
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The talk discusses the risks of containers and how to secure them. The
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The presenters emphasize the importance of making security a priority and encour
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lj_qgsb4h38/hqdefault.jpg)](https://www.youtube.com/watch?v=lj_qgsb4h38)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lj_qgsb4h38)

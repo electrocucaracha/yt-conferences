@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "MCP Apps Best Practices: Patterns and Pitfalls - Olivier Chafik & Anton Pidkuiko,
   Anthropic"
-nav_order: 53
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Olivier and Anton from Anthropic introduced MCP apps, describing them
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Audience questions addressed efficiency, data sharing between model and app, str
 |  23 | Encourageme                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Xh__6GtirHM/hqdefault.jpg)](https://www.youtube.com/watch?v=Xh__6GtirHM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Xh__6GtirHM)

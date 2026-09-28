@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Under the Hood of Vitess: Database Engineered for Scale and Resilien... Matt
   Lord & Florent Poinsard"
-nav_order: 331
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Florent and Matt, maintainers of the Vitess project and software engineers
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Real-world users such as Slack, GitHub, and Square rely on Vitess for high throu
 |  18 | Query consolidation and buffering during failove                                                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2B0FB0A_c_Q/hqdefault.jpg)](https://www.youtube.com/watch?v=2B0FB0A_c_Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2B0FB0A_c_Q)

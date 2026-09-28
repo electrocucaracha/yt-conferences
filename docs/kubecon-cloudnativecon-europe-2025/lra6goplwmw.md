@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Wasm Whiplash: WasmCloud's Wild Ride To Standards - Brooks Townsend, Cosmonic"
-nav_order: 366
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker is a senior software engineer at Cosmonic, discussing their
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ This shift allowed them to focus on innovation and differentiate their project, 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lrA6gOpLWMw/hqdefault.jpg)](https://www.youtube.com/watch?v=lrA6gOpLWMw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lrA6gOpLWMw)

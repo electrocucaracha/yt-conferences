@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Do You Trust Your PodDisruptionBudgets? You Shouldn’t! - Kārlis Akots Gribulis,
   Saxo Bank
-nav_order: 94
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Carlo Sakos Gribbles, a container platform engineer at Saxo Bank, discusses
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ He concludes by advising caution and awareness of PDB limitations, likening them
 |  23 | PDBs are useful but have limitations; do not blindly trust                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/yRc4yr7CQh4/hqdefault.jpg)](https://www.youtube.com/watch?v=yRc4yr7CQh4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yRc4yr7CQh4)

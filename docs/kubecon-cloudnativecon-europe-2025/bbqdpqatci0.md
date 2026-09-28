@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: LLM-Aware Load Balancing in Kubernetes: A New Era of Effici... Clayton
   Coleman, Jiaxin Shan"
-nav_order: 151
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Kubernetes gateway API inference extension project aims to enable
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ By leveraging Envoy's dynamic and extensible load balancer, the extension aims t
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BBqDpqATcI0/hqdefault.jpg)](https://www.youtube.com/watch?v=BBqDpqATcI0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BBqDpqATcI0)

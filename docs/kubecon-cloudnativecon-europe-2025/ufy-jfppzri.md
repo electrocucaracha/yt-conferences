@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Dancing With the Pods: Live Migration of a Database Fleet While Serving...
   Jayme Bird & Manish Gill"
-nav_order: 58
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses the migration of their company's database from
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ The migration was successful, with thousands of customers migrated without downt
 |   7 | Solutions included zone pinning, DNS resolution fixes, and a new disk type for storing system tables on S3. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ufY_JFPpzRI/hqdefault.jpg)](https://www.youtube.com/watch?v=ufY_JFPpzRI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ufY_JFPpzRI)

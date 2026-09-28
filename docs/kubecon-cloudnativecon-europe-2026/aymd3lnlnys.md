@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubeflow in Cloud Native AI: Orchestrati... Johnu G, Valentina S, Antonin
   S, Alexander P & Michael Z"
-nav_order: 191
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The session introduces Kubeflow as a comprehensive, cloud-native AI platform
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The session concludes with an invitation to join the Kubeflow community, access 
 |  15 | Upcoming features: reduced pod usage per component, n                                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/AYmD3LNlNYs/hqdefault.jpg)](https://www.youtube.com/watch?v=AYmD3LNlNYs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=AYmD3LNlNYs)

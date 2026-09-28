@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Day 1 Highlight: KubeCon + CloudNativeCon Atlanta 2025"
-nav_order: 52
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The CubeCon CloudNative Con kicked off in sunny Atlanta, welcoming approximately
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ The organizers express gratitude for being part of their community and look forw
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TT5FSW5vizM/hqdefault.jpg)](https://www.youtube.com/watch?v=TT5FSW5vizM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TT5FSW5vizM)

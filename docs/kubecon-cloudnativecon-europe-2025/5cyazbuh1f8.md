@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: API Management in the CRD World: What Linkerd Has
   Learned - Phil Henderson"
-nav_order: 224
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Phil Henderson, discusses API management in the CRD world
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The key takeaway is that APIs should be tailored for humans who need them, not j
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5CyAZBUH1f8/hqdefault.jpg)](https://www.youtube.com/watch?v=5CyAZBUH1f8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5CyAZBUH1f8)

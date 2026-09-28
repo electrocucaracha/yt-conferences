@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "A Bug’s-Eye View: Kubernetes SIG Security Explains It... Ian C, Tabitha S,
   Rory M, Iain S & Mahé T"
-nav_order: 5
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video features a Kubernetes SIG Security maintainer track talk, led
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The talk concluded with an invitation for new contributors of all backgrounds to
 |  19 | Contact via mailing list, Slack (#sig-security), or at conference booth.                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ujnqeWQZ17w/hqdefault.jpg)](https://www.youtube.com/watch?v=ujnqeWQZ17w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ujnqeWQZ17w)

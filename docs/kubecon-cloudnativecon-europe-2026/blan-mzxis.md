@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Hello World, Meet the Spanimals: Observability for Beginners - Tiffany Jernigan
   & Matthias Haeussler"
-nav_order: 138
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   "In this beginner-friendly talk on observability, Tiffany Jernigan and
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ The session concludes with a live demo, configuration examples, and encouragemen
 |  23 | Q&A and further resources offered at the end.                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_bLAN_mzxIs/hqdefault.jpg)](https://www.youtube.com/watch?v=_bLAN_mzxIs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_bLAN_mzxIs)

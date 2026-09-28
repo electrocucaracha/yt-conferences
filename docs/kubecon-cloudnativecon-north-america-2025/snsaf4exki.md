@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Monolith To Microservices: A Visual Journey for Beginners - P.H. Oliveira
   & H. Santana"
-nav_order: 85
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=-sNSaf4exkI
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ The speakers also address common challenges, including communication, observabil
 |  16 | Key takeaways: + Use domain-driven design to define boundaries and align technical and business teams + Apply the 12-factor app methodology for cloud-native applications + Consider synchronous or asynchronous requests based on business needs + Define clear boundaries and interfaces between microservices + Avoid complexity by operating at a high level of abstraction |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-sNSaf4exkI/hqdefault.jpg)](https://www.youtube.com/watch?v=-sNSaf4exkI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-sNSaf4exkI)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Deal with Hypergrowth • Lena Reinhard & Blake Walters • GOTO 2022
-nav_order: 56
-parent: Developer Productivity
 type: Video Note
 description:
   Blake Walters, Director of Engineering at CircleCI, and Lena Reinhard,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ Key takeaways include: (1) Hypergrowth is not just about scaling, but also about
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/E3tllzBipuA/hqdefault.jpg)](https://www.youtube.com/watch?v=E3tllzBipuA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E3tllzBipuA)

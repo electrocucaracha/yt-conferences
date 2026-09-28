@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Beyond Stateless: Distributed Transactions with Autoscaling and Consistency
   on K... Jumpei Nishitani"
-nav_order: 26
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this CubeCom session, Jere Nishani, a software engineer at Hitachi,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Through this design, Nishani demonstrates that it is possible to achieve both st
 |  21 | Coordinators are autoscaled independe                                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Lq-nQ8iTnrQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Lq-nQ8iTnrQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Lq-nQ8iTnrQ)

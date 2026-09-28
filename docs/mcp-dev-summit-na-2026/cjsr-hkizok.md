@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Deploying MCP at Scale Without Skipping Compliance - Becky Brooks, MCP Manager
   by Usercentrics
-nav_order: 16
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Becky, an MCP manager at Usercentrics, discusses the challenges
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Becky concludes by advocating for the use of MCP gateways to provide necessary g
 |  21 | MCP gatewa                                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cjsr-HKiZok/hqdefault.jpg)](https://www.youtube.com/watch?v=cjsr-HKiZok)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cjsr-HKiZok)

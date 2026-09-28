@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: MCP Apps: Extending the Frontier - Ido Salomon & Liad Yosef"
-nav_order: 45
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speakers introduce MCP apps, a rapidly evolving open standard that
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Looking ahead, the team is working on features like reusable views and greater i
 |  18 | MC                                                                                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/e6sspA7WpWc/hqdefault.jpg)](https://www.youtube.com/watch?v=e6sspA7WpWc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=e6sspA7WpWc)

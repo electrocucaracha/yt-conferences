@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Evolving OpenID Connect and Observability in Keycloak - Ryan Emerson & Takashi
   Norimatsu
-nav_order: 88
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Takashin Matsu from Hitachi Limited Japan, presented a two-part
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ He demonstrated the new troubleshooting dashboard and showed how it can help ide
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bC4xbBJs0CA/hqdefault.jpg)](https://www.youtube.com/watch?v=bC4xbBJs0CA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bC4xbBJs0CA)

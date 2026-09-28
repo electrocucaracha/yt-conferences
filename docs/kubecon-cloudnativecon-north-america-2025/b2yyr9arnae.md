@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Supercharge Your Canary Deployments With Argo Rollouts St... Kostis Kapelonis
   & Alexandre Gaudreault
-nav_order: 296
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Argo Rollouts has introduced a new feature called Canary Steps, which
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ With this feature, users can now focus on the core code of Argo Rollouts and cre
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/b2yYR9ARNaE/hqdefault.jpg)](https://www.youtube.com/watch?v=b2yYR9ARNaE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=b2yYR9ARNaE)

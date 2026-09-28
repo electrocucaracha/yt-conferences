@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The KEP Lifecycle: How the Release Team Guides Enhanceme... Kat C, Sreeram
   V, Rayan D & Subhasmita S"
-nav_order: 361
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video features a panel of Kubernetes release team members who explain
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session concludes with encouragement for new contributors to join the releas
 |  19 | KEPs are essential for tracking all updates, dep                                                                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4if9UBP-NKQ/hqdefault.jpg)](https://www.youtube.com/watch?v=4if9UBP-NKQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4if9UBP-NKQ)

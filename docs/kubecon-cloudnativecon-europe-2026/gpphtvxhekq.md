@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: How To Add A New Language Feature To OPA - Charlie
   Egan, Maintainer"
-nav_order: 269
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Charlie from the OPER project introduces their general-purpose policy
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ He also emphasizes the broader effort required to update the entire OPA ecosyste
 |  15 | Attendees are invited to visit the OPER kiosk, attend the maintainer track talk, and scan a QR code for more information.                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gPpHTVxHEKQ/hqdefault.jpg)](https://www.youtube.com/watch?v=gPpHTVxHEKQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gPpHTVxHEKQ)

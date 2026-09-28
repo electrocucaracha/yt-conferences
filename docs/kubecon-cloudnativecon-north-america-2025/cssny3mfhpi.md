@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Vitess: Unlimited Database Scalability - Matt Lord,
   Maintainer"
-nav_order: 240
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Matt Lord introduces Vitess, a CNCF project designed as
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Major companies like Slack, Square, Shopify, and GitHub use Vitess in production
 |  17 | Project maintainers are available at the project booth and more information can be found at vitess.io.                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CSSnY3MFhPI/hqdefault.jpg)](https://www.youtube.com/watch?v=CSSnY3MFhPI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CSSnY3MFhPI)

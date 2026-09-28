@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   SIG-Multicluster Intro and Deep Dive - Stephen Kitt, Pavanipriya Sajja & Jeremy
   Olmsted-Thompson
-nav_order: 269
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The SIG Multicluster session, led by Jeremy, Stephen, and Pawani Priya
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concluded with an invitation for community feedback and participatio
 |  20 | Five research areas: documentation gap, centralized monitoring, AI-driven automation, operational comp                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/u_WfTU3pL1o/hqdefault.jpg)](https://www.youtube.com/watch?v=u_WfTU3pL1o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=u_WfTU3pL1o)

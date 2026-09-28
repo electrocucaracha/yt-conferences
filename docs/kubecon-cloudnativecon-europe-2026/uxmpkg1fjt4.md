@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Strengthening CNCF Projects: Impact of Security... Eddie K, Bradley A, Justin
   C, Shuting Z & Orlin V"
-nav_order: 349
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this panel discussion, Eddie Knight introduces a session focused on
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Panelists advise maintainers to approach self-assessments honestly, learn from o
 |  21 | Joint assessments are more popular after self-assessment; projects see value in expert                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/UXmPKG1fJt4/hqdefault.jpg)](https://www.youtube.com/watch?v=UXmPKG1fJt4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UXmPKG1fJt4)

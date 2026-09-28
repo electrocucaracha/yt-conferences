@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "LLM Inference at Scale: Orchestrating Prefill-Decode Disaggregation - Zhonghu
   Xu"
-nav_order: 198
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Junhu from Haw Club discusses the challenges and solutions for orchestrating
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Casina enables flexible, efficient, and scalable deployment of disaggregated LM 
 |  18 | Casina router prov                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KtnD-wILqb0/hqdefault.jpg)](https://www.youtube.com/watch?v=KtnD-wILqb0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KtnD-wILqb0)

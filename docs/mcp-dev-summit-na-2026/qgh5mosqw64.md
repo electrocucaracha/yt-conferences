@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Seven Deadly Sins With MCP - Ricardo Ferreira, Redis
-nav_order: 93
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Ricardo Ferrer, leading the developer relations team at Radius, introduces
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ He concludes by inviting attendees to explore his related blog series and connec
 |  23 | Encouraged connecting on LinkedIn for further discussion.                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qgH5mOsQw64/hqdefault.jpg)](https://www.youtube.com/watch?v=qgH5mOsQw64)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qgH5mOsQw64)

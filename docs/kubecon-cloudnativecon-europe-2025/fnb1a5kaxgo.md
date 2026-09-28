@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From High Performance Computing To AI Workloads on Kubernetes: M... Andrey
   Velichkevich, & Yuki Iwai"
-nav_order: 103
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video transcript discusses the challenges of data scientists working
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The presenter demonstrates the trainer's capabilities using MLX and DeepSpeed fr
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Fnb1a5Kaxgo/hqdefault.jpg)](https://www.youtube.com/watch?v=Fnb1a5Kaxgo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Fnb1a5Kaxgo)

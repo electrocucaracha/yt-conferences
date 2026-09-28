@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Project Harbor Maintainers Update - Where Are We Heading? - Orlin Vasilev &
   Vadim Bauer
-nav_order: 203
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Harbor project has made significant progress over the past year,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ The community is encouraged to provide feedback and participate in the developme
 |   8 | The community is encouraged to provide feedback on the project through mailing lists or Slack channels.                                                                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PmBM9tEV_6U/hqdefault.jpg)](https://www.youtube.com/watch?v=PmBM9tEV_6U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PmBM9tEV_6U)

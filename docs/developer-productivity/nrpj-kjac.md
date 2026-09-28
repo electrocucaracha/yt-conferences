@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The End of Engineering's Blank Check • Laura Tacho & Charles Humble • GOTO
   2025
-nav_order: 132
-parent: Developer Productivity
 type: Video Note
 description:
   Laura Tacho, CTO at DX, discussed her role and experiences as a technical
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Laura also discussed the challenges of introducing metrics in organizations, suc
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-_nrpj_kJac/hqdefault.jpg)](https://www.youtube.com/watch?v=-_nrpj_kJac)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-_nrpj_kJac)

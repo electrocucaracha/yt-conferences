@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: Inference and Sovereign AI: Scaling Cloud-Nat... Karena
   Angell & Vincent Caldeira"
-nav_order: 343
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses the challenges and solutions involved in scaling
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ This modular stack transforms standard clusters into efficient, sovereign infere
 |  22 | Advanced state-aware scheduling maximizes GPU performance beyond simple round-robin scaling.                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Vn6gmvbOpNY/hqdefault.jpg)](https://www.youtube.com/watch?v=Vn6gmvbOpNY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Vn6gmvbOpNY)

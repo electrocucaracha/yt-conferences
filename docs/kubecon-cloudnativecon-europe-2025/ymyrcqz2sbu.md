@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: What's New in k8gb: CNCF's Multicluster Global Balancer
   - Bradley Andersen"
-nav_order: 270
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Bradley Anderson, a community manager at KGB, introduces the project
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ KGB has been around for five years, submitted its incubation app five months ago
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YMyrcqZ2sbU/hqdefault.jpg)](https://www.youtube.com/watch?v=YMyrcqZ2sbU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YMyrcqZ2sbU)

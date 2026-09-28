@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: PipeCDv1 Is Here! Leverage The Power Of Plugin Architecture
   - Khanh Tran"
-nav_order: 286
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Kang, a software engineer at Season and maintainer of the PICD project,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Kang encourages community involvement through meetings, documentation, and the c
 |  18 | Bi-weekly meetings and a booth are available for those interested in joining or discussing the PICD community.                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hO3xdy2fiK4/hqdefault.jpg)](https://www.youtube.com/watch?v=hO3xdy2fiK4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hO3xdy2fiK4)

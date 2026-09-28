@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Cloud Native University: Cloud Native vs. Platform
   Native vs... Ruckus Voxi"
-nav_order: 45
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses the evolving understanding of "cloud native," tracing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ However, simply running applications on managed cloud services does not make the
 |  24 | Cloud native requires DevOps, 12 factor principles, containers, orchestration, open                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tGyDxvxe_0o/hqdefault.jpg)](https://www.youtube.com/watch?v=tGyDxvxe_0o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tGyDxvxe_0o)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "No Shame, Just Pain: How We Migrated Away From Kubernetes. Jannis Relakis
   & Michael Seiwald-McCarty"
-nav_order: 224
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Janisle and Michael from Salonus detailed their company’s
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ Key lessons included minimizing scope changes, reducing environment-specific "sn
 |  14 | Key lessons: avoid changing too much at once, beware of scope creep, prioritize repeatability, adapt to ongoing changes, improve runbook                                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MNAcbHUBERU/hqdefault.jpg)](https://www.youtube.com/watch?v=MNAcbHUBERU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MNAcbHUBERU)

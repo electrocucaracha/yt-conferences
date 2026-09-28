@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Descifrando el Código de la Riqueza \U0001F4B0 | Camilo Pinto – Sesión 41"
-nav_order: 14
-parent: Foro De Crecimiento
 type: Video Note
 description:
   "En esta extensa conversación sobre finanzas personales, Camilo Pinto,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finalmente, subraya que el cambio de hábitos y creencias no solo impacta la vid
 |  19 | Buscar mentores y asesoría profe                                                                                                                                                                                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ziuLgG9NEoE/hqdefault.jpg)](https://www.youtube.com/watch?v=ziuLgG9NEoE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ziuLgG9NEoE)

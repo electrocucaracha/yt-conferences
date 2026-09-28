@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Keynote] Scaling Commerice Interactivity Lessons from Shopify's Implementation
   of MCP UI"
-nav_order: 30
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Samuel and Brett, engineers from Shopify, discuss the future of user
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ They also highlight the flexibility of MCP UI for styling and integration, discu
 |  20 | More information is available at mcpui.dev, with deep dive sessions and open invitations                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/T8bgEuOQbH4/hqdefault.jpg)](https://www.youtube.com/watch?v=T8bgEuOQbH4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=T8bgEuOQbH4)

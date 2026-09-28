@@ -1,8 +1,5 @@
 ---
-layout: default
 title: El Poder del Enfoque para Crear la Vida que Sueñas | Danny López - Sesión 22
-nav_order: 19
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta conversación, Dani López, empresario y conferencista, profundiza
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Finalmente, subraya que el verdadero logro no está solo en lo material, sino en
 |  18 | Rodearse de personas enfocadas y gestionar el entorno es fundamental para mantener el enfoque.                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/x1WwFZT02ZA/hqdefault.jpg)](https://www.youtube.com/watch?v=x1WwFZT02ZA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x1WwFZT02ZA)

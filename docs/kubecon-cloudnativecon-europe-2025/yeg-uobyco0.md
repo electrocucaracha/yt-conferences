@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "A Fork to Reckon With: Minimizing Friction When Adopting... Alexander Perlman
   & Narayanamurthi Mari"
-nav_order: 5
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses the importance of avoiding "NIH" (Not Invented
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ The speaker emphasizes the importance of closing gaps in upstream dependencies i
 |  11 | Wrapping should only be done if the cost is justified. Note: The response is within the 2000 character limit.                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/yeg-uoBYCO0/hqdefault.jpg)](https://www.youtube.com/watch?v=yeg-uoBYCO0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yeg-uoBYCO0)

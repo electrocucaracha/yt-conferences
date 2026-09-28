@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Data on Kubernetes Day: From PVC to Mount Point: Dissecting
   a... Vivek Singh"
-nav_order: 52
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Vivee, a software engineer at MongoDB, explains the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Throughout the workflow, Kubernetes itself does not directly interact with the C
 |  19 | Each step in the volume lifecycle is handled by a specific component, aiding in debugging if issues arise.                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MY-VaJVJmk0/hqdefault.jpg)](https://www.youtube.com/watch?v=MY-VaJVJmk0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MY-VaJVJmk0)

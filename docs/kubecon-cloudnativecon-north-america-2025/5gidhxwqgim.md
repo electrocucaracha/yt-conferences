@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Partitionable Devices: Putting the “Dynamic” Back in... Morten Jæger Torkildsen
   & Jan-Philip Gehrcke"
-nav_order: 195
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, Morton Torlson from Google and Yan Phillip from Nvidia
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Audience questions address the efficiency of MIG setup and the potential for sim
 |  18 | Partitionable devices may be applicable                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5GIDHxwQGiM/hqdefault.jpg)](https://www.youtube.com/watch?v=5GIDHxwQGiM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5GIDHxwQGiM)

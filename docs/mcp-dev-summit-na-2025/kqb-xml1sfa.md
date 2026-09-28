@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from
   LlamaIndex"
-nav_order: 14
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Lori, VP of Developer Relations at Llama Index, introduces a rapid overview
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ She concludes that while MCP currently meets most needs and has significant trac
 |  22 | MCP has the most adoptio                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kqB_xML1SfA/hqdefault.jpg)](https://www.youtube.com/watch?v=kqB_xML1SfA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kqB_xML1SfA)

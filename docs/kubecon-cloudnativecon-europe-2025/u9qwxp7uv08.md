@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes Backup Legitimized: CSI Changed Block Tracking Has Arrived- M.
   Lavi, C. Braganza, X. Yang"
-nav_order: 164
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=U9qwxp7Uv08
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -41,5 +38,7 @@ The feature has been implemented in the CSI specification and is now ready to sh
 |  11 | Snapshots are useful for achieving crash consistency at the lowest level, but may not be sufficient for application-level consistency.                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/U9qwxp7Uv08/hqdefault.jpg)](https://www.youtube.com/watch?v=U9qwxp7Uv08)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=U9qwxp7Uv08)

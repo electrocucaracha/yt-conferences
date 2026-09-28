@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Dispatch from the Future: building an AI-native Company – Dan Shipper, Every,
   AI & I"
-nav_order: 2
-parent: Aie Code 2025 Ai Leadership
 type: Video Note
 description:
   The speaker, as the final presenter of the day, discusses the evolving
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The talk concludes by underscoring the significant productivity gains and collab
 |  21 | Every offers a daily AI newsletter, app bundle, and training/consulting under one subscription.                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MGzymaYBiss/hqdefault.jpg)](https://www.youtube.com/watch?v=MGzymaYBiss)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MGzymaYBiss)

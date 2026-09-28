@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Why Is It So Hard to Run a 5G Core on Kubernetes—And What Needs... Joel Studler
   & Ashan Senevirathne
-nav_order: 404
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation discusses the challenges and progress of running 5G
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concludes by encouraging collaboration across operators, vendors, an
 |  18 | Standards bodies (3GPP, ETSI) are moving slowly but in the right direction.                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/duYk-FjcKAg/hqdefault.jpg)](https://www.youtube.com/watch?v=duYk-FjcKAg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=duYk-FjcKAg)

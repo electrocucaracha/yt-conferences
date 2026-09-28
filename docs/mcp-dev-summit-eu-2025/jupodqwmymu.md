@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] Beyond API Wrappers: Workflow-Based MCP Servers with Elicitation
   and Sampling"
-nav_order: 20
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   In this talk, Tom McLolin from Tomorrow AI discusses moving beyond the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ He concludes by emphasizing that effective workflows are discovered through clos
 |  21 | Final output is a fully rigged 3D asset, ready for further animation and integration into a game environment.                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JuPoDQwmYMU/hqdefault.jpg)](https://www.youtube.com/watch?v=JuPoDQwmYMU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JuPoDQwmYMU)

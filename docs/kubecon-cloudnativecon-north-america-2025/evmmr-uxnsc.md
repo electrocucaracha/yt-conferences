@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Backstage Celebrations: Stable Foundations and MCP Innovations - Ben Lambert
   & Patrik Oldsberg"
-nav_order: 21
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Backstage maintainer track talk discussed the project's updates,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -39,5 +36,7 @@ The MCP actions backend plug-in allows developers to consume these tools from wi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/evmmr-uxNsc/hqdefault.jpg)](https://www.youtube.com/watch?v=evmmr-uxNsc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=evmmr-uxNsc)

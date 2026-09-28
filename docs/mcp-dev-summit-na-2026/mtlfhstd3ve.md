@@ -1,9 +1,6 @@
 ---
-layout: default
 title: "If the LLM Can't Find You, You Don't Exist: Discoverability for MCP-Apps
   and Chat... Vincent McLeese"
-nav_order: 37
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Vitam, CTO and co-founder of Ghost Team, discusses the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ He concludes by encouraging developers to adopt a cycle of monitoring and improv
 |  20 | The process is similar to the evolution of                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mTlfhStD3VE/hqdefault.jpg)](https://www.youtube.com/watch?v=mTlfhStD3VE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mTlfhStD3VE)

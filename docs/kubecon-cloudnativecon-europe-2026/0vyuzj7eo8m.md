@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Next-Gen AI Orchestration With Volcano On Kubernetes
   - Zhonghu Xu"
-nav_order: 280
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker, a maintainer from Huawei Technology, introduces Volcano,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ The speaker concludes by encouraging collaboration on these initiatives.
 |  26 | Agent Cube: AI agent workload scheduling, built on SIG sandbox, plans for more native agent primitives, broader frame                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0vYUzJ7eO8M/hqdefault.jpg)](https://www.youtube.com/watch?v=0vYUzJ7eO8M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0vYUzJ7eO8M)

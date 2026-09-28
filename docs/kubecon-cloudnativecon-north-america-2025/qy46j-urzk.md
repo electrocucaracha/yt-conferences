@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Prepare for Disruptions: How We Upgrade the Whole ML Training Fleet Bi-week...
   Cong Gu & Ankit Goyal"
-nav_order: 201
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Monkit and Frank from LinkedIn’s AI Platforms team
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The team is also exploring elastic training to further reduce the need for job r
 |  17 | Periodic checkpointing is recommended due to hig                                                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qY46j--UrZk/hqdefault.jpg)](https://www.youtube.com/watch?v=qY46j--UrZk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qY46j--UrZk)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: 20 Quantum Cheat Codes That I Wish I Knew In My 20’s
-nav_order: 1
-parent: Interview Preparation
 type: Video Note
 description:
   They emphasize the importance of financial literacy, automation, and
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ Ultimately, they argue that true value is about what you bring to others and tha
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KEqmJ8pw1_4/hqdefault.jpg)](https://www.youtube.com/watch?v=KEqmJ8pw1_4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KEqmJ8pw1_4)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Operationalizing AI Workloads on Kubernetes With OpenKruise - Zhang Zhen &
   Vec Sun
-nav_order: 235
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   John from the OpenKruise community discusses the challenges and solutions
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ He notes that while image prewarming accelerates container readiness, it may inc
 |  19 | Commit operation saves container rootfs as ima                                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0JT8iDDS74k/hqdefault.jpg)](https://www.youtube.com/watch?v=0JT8iDDS74k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0JT8iDDS74k)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Logs to Decisions: Autonomous AI Agents for Real-Time Kubernetes Threat
   R... Willem Berroubache"
-nav_order: 122
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, William Burbash, a security architect at Orange in Paris,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ He concludes by stressing the importance of combining agentic AI for scalable, c
 |  18 | Risks include hallucination, cascading errors, model                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XiNsfhUxO2Y/hqdefault.jpg)](https://www.youtube.com/watch?v=XiNsfhUxO2Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XiNsfhUxO2Y)

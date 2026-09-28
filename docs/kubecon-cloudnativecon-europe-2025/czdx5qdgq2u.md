@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Generative AI Model Data Pre-Training on Kubernetes: A Use Case St... Alexey
   Roytman & Anish Asthana"
-nav_order: 108
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Anish Astana, an engineering manager at Red Hat's Open Shift AI group,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ Additionally, they introduced Data Preparation Kit (DPK), an open-source project
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/CzdX5qDgQ2U/hqdefault.jpg)](https://www.youtube.com/watch?v=CzdX5qDgQ2U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CzdX5qDgQ2U)

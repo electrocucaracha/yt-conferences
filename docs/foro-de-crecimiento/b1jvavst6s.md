@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Negociador de la policía: los secretos del lenguaje corporal para leer a cualquiera
   | Juan García"
-nav_order: 61
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa entrevista, Juan Manuel García, experto en ciencias del
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Además, enfatiza que la postura corporal puede influir en el estado mental y qu
 |  18 | No juzgar rápidamente; buscar comprender el porqué de las reacciones ajenas.                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_B1JVAVSt6s/hqdefault.jpg)](https://www.youtube.com/watch?v=_B1JVAVSt6s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_B1JVAVSt6s)

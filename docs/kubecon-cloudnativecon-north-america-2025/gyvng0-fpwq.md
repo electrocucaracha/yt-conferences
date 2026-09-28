@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Authenticating and Authorizing Every Connection at Uber - Yangmin Zhu & Matt
   Mathew, Uber
-nav_order: 19
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Uber’s engineering security team discusses their
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ Key lessons learned include the importance of leadership support, optimizing dev
 |  25 | Added delay before closing TCP connections on authorization denial to prevent client retr                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GYVNg0_FpwQ/hqdefault.jpg)](https://www.youtube.com/watch?v=GYVNg0_FpwQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GYVNg0_FpwQ)

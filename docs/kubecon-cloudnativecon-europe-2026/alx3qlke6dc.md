@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How Much Platform Is Enough Platform? - John Keates, Wehkamp Retail Group
-nav_order: 142
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   John, a platform engineer at the VA retail group, shares the company's
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ John concludes that while the ideal platform remains aspirational, incremental i
 |  19 | There’s always a new bottleneck to solve, even as previous                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/aLx3QlKE6Dc/hqdefault.jpg)](https://www.youtube.com/watch?v=aLx3QlKE6Dc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aLx3QlKE6Dc)

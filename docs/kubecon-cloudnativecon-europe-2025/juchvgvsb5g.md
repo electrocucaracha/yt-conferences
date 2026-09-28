@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: 221B Cloud Native Street - Ricardo Rocha & Katie Gamanji"
-nav_order: 138
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Cloud Native Computing Foundation (CNCF) Technical Oversight Committee
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The committee also aims to cover gaps in the ecosystem, including multicluster m
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jUChVGvSB5g/hqdefault.jpg)](https://www.youtube.com/watch?v=jUChVGvSB5g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jUChVGvSB5g)

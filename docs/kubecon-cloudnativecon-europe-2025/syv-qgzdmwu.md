@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Hot Takes: Kubernetes Paintainers Bring the Heat"
-nav_order: 115
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video is an episode of "Hot Takes," a panel discussion show where
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The hosts share their personal experiences and offer advice to aspiring contribu
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/syV-QGZDmWU/hqdefault.jpg)](https://www.youtube.com/watch?v=syV-QGZDmWU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=syV-QGZDmWU)

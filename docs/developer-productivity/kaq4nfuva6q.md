@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Enhancing Productivity with Tools, Aesthetics & AI • Cassidy Williams & Ben
   Hong • GOTO 2024
-nav_order: 39
-parent: Developer Productivity
 type: Video Note
 description:
   Cassidy Williams, a productivity expert, discusses her favorite tools
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ They also discuss the importance of human connection in job applications, highli
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kAq4nFuVa6Q/hqdefault.jpg)](https://www.youtube.com/watch?v=kAq4nFuVa6Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kAq4nFuVa6Q)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 2: Learning I"
-nav_order: 13
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture covers the concepts of tensors, the einsum function, computation
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Throughout, the importance of gradients for guiding parameter updates and the ge
 |  17 | Summarized the machine learning workflow: define hypothesis class, loss function, and optimization algorithm.                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ypZJaTqrNdk/hqdefault.jpg)](https://www.youtube.com/watch?v=ypZJaTqrNdk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ypZJaTqrNdk)

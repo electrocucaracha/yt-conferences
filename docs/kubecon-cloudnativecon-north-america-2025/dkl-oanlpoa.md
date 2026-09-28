@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Kubernetes Data Protection WG Intro & Deep Dive - Dave Smith-Uchida, Veeam
-nav_order: 138
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session, led by Shing Yang and Dave Smith, provided an update on
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The group encourages community involvement through meetings, mailing lists, and 
 |  20 | Data protection strategies: stateless (low cost/impact), backup/restore (medium), replication with cold copy (low RTO, higher c                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dKl_OaNlpOA/hqdefault.jpg)](https://www.youtube.com/watch?v=dKl_OaNlpOA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dKl_OaNlpOA)

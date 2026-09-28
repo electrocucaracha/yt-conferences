@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Jaeger V2: The Maintainers' Guide To OpenTelemetry-Native Tracing - Pavol
   Loffay, Red Hat"
-nav_order: 160
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Pavle, a maintainer of the Jaeger project, introduces
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session concludes with a discussion of the roadmap, including plans for AI-a
 |  19 | Roadmap: AI assistant in UI, observability for GenAI workloads, collaboration encouraged via GitH                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gH_JzIXFshI/hqdefault.jpg)](https://www.youtube.com/watch?v=gH_JzIXFshI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gH_JzIXFshI)

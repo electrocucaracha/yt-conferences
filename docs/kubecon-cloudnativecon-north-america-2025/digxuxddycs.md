@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Platform Engineering: Day Zero, The Origin Story - Murriel McCabe, Google"
-nav_order: 200
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker, an engineering manager at Google Cloud, introduces the concept
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finally, they emphasize ongoing communication, user adoption strategies, and con
 |  19 | Build                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dIgxuxdDYCs/hqdefault.jpg)](https://www.youtube.com/watch?v=dIgxuxdDYCs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dIgxuxdDYCs)

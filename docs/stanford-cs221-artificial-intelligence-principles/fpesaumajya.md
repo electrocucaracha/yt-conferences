@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 5: Search I"
-nav_order: 16
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture begins by reviewing the basics of machine learning, emphasizing
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ The lecture begins by reviewing the basics of machine learning, emphasizing the 
 |   1 | Main points were not provided in the source note. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fPESauMaJYA/hqdefault.jpg)](https://www.youtube.com/watch?v=fPESauMaJYA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fPESauMaJYA)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Quarkus in Action • Martin Stefanko, Jan Martiska & Holly Cummins • GOTO 2025
-nav_order: 105
-parent: Developer Productivity
 type: Video Note
 description:
   The speakers, Martin Safenko and Yan, discuss their experience writing
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They provide advice on when to use JVM versus native compilation, highlighting t
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/j0h7wu7gjoU/hqdefault.jpg)](https://www.youtube.com/watch?v=j0h7wu7gjoU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=j0h7wu7gjoU)

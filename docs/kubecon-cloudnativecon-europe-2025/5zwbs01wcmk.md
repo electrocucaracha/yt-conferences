@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Containerd: Project Update and Deep Dive - M. Pavlenko, A. Suda, L. Brehm,
   S. Karp, J. Zhou"
-nav_order: 52
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=5ZWbS01wCMk
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The team also talked about their involvement in other projects, such as Kubernet
 |  23 | Kubernetes integration: + Containerd is adopted by well-known enterprise distributions of Kubernetes + Containerd is integrated with Kubernetes manager services and ecosystem |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5ZWbS01wCMk/hqdefault.jpg)](https://www.youtube.com/watch?v=5ZWbS01wCMk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5ZWbS01wCMk)

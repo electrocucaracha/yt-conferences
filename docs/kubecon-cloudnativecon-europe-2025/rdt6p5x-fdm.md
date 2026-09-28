@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SIG Docs and You: Modernizing API Reference Generation - Kat Cosgrove & Xander
   Grzywinski"
-nav_order: 287
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The current process for generating API reference docs for Kubernetes
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The SIG Docs technical leads aim to improve this process by making it more acces
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RdT6P5x_fDM/hqdefault.jpg)](https://www.youtube.com/watch?v=RdT6P5x_fDM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RdT6P5x_fDM)

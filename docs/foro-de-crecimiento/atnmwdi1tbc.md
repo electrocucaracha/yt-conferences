@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Especialista en longevidad: hábitos para vivir más y mejor | Alejandra silva
   #15 \U0001F9EC"
-nav_order: 26
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, la experta en longevidad y nutrición Alejandra Silva
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Además, señala que no es necesario tener abundancia financiera para cuidar la 
 |  18 | Invertir en salud es más económico que gastar en enfermedad.                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/atNmWDi1TBc/hqdefault.jpg)](https://www.youtube.com/watch?v=atNmWDi1TBc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=atNmWDi1TBc)

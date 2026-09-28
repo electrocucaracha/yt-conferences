@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Just Do It: OpAMP - Panos Tsilopoulos & Bob Johnson, Nike, Inc."
-nav_order: 114
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Panos and Bob from Nike discuss their experience
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ They address questions about deployment strategies, security, configuration mana
 |  18 | Agent upgrades via OpAMP are tested offline before fleet-wide deployment due to p                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/J68ThM9DqQ0/hqdefault.jpg)](https://www.youtube.com/watch?v=J68ThM9DqQ0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=J68ThM9DqQ0)

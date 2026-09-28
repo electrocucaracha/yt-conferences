@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Putting the XP in Scrum • Roy Osherove • GOTO 2021
-nav_order: 103
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=JtvSp3BPG8I
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ The speaker emphasizes the importance of leadership skills, communication, and c
 |  15 | The speaker recommends learning about elastic leadership, pipeline-driven organizations, and XP.                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JtvSp3BPG8I/hqdefault.jpg)](https://www.youtube.com/watch?v=JtvSp3BPG8I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JtvSp3BPG8I)

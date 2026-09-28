@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Demystifying the Kubernetes Network Stack (From Pod to Pod) - Simone Rodigari,
   Microsoft
-nav_order: 90
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Simone Rodigari, a software engineer at Microsoft, presents an overview
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ He demonstrates packet tracing and debugging techniques using Linux tools and hi
 |  20 | Key takeaways: Kubernetes networking relies on Linux namespaces and veth, service                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fj5UQ0WBmAg/hqdefault.jpg)](https://www.youtube.com/watch?v=fj5UQ0WBmAg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fj5UQ0WBmAg)

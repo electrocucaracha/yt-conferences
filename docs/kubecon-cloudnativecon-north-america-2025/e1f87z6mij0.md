@@ -1,8 +1,5 @@
 ---
-layout: default
 title: I’ve Got 99 Problems and They’re All Controllers - Tim Goodwin, UC Santa Cruz
-nav_order: 113
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Tim Goodwin, a PhD student at UC Santa Cruz, discusses the challenges
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The tool is open source but research-grade, and Tim encourages practitioners to 
 |  16 | Faithful API server simulation is a challenge; ongoing improvements t                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/E1f87Z6mij0/hqdefault.jpg)](https://www.youtube.com/watch?v=E1f87Z6mij0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E1f87Z6mij0)

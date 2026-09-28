@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Investigation & Creation of Software • Jessica Kerr • GOTO 2020
-nav_order: 73
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, a developer, shares their experience with learning CSS by
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They also highlight the value of community-driven knowledge sharing and the need
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/S-LWg-tHboY/hqdefault.jpg)](https://www.youtube.com/watch?v=S-LWg-tHboY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=S-LWg-tHboY)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   In AI We Trust? Securing the Future, One Agent... Lin S, Yuval K, Hannah F,
   Andrew M & Ricardo A
-nav_order: 101
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The panel at CubeCon, moderated by Lensa from solo.io, focused on the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Audience engagement brought further questions about formalizing security standar
 |  17 | Audience engagement encouraged; open standards and governance frameworks highlighted as                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/AWajuymQH-A/hqdefault.jpg)](https://www.youtube.com/watch?v=AWajuymQH-A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=AWajuymQH-A)

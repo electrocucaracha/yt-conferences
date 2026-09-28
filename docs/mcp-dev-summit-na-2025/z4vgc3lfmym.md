@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] Next Generation Agent Architectures with MCP with Darren Shepherd
   from Acorn Labs"
-nav_order: 21
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   The speaker, a co-founder at Acorn Labs with a background in automation
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ He concludes that with MCP, building agents is becoming much easier for traditio
 |  21 | Nanobot tool is available at nanobot.ai for experimentation.                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/z4vgc3lFMYM/hqdefault.jpg)](https://www.youtube.com/watch?v=z4vgc3lFMYM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=z4vgc3lFMYM)

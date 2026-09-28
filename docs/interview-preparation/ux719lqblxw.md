@@ -1,8 +1,5 @@
 ---
-layout: default
 title: 3 Career Killers for Software Engineers (from a Principal at Amazon)
-nav_order: 2
-parent: Interview Preparation
 type: Video Note
 description:
   Three crucial mistakes he made in his career that can be avoided with
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ By avoiding these mistakes and adopting a more thoughtful approach, individuals 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/uX719LQBLXw/hqdefault.jpg)](https://www.youtube.com/watch?v=uX719LQBLXw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uX719LQBLXw)

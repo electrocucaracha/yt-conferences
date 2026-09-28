@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "OpenTelemetry Logs Driving a Major Shift: Events, Richer Data, and Smarter
   Semantics - Robert Pająk"
-nav_order: 233
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker, Robert Pajonk, introduces updates to logging in OpenTelemetry,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ Pajonk highlights the importance of following OpenTelemetry's semantic conventio
 |  26 | Semantic conventions include registries of cross-cutting, signal-specific, and domain-speci                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/aoEe2FDnnDk/hqdefault.jpg)](https://www.youtube.com/watch?v=aoEe2FDnnDk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aoEe2FDnnDk)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Uncharted Waters: Dynamic Resource Allocation for Networking - Miguel Duarte
   Barroso & Lionel Jouin"
-nav_order: 356
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The presentation discusses dynamic resource allocation for networking
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ A demo is shown, where 15 pods are scheduled to request a specific MAC address i
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PgCaIyeRn6Y/hqdefault.jpg)](https://www.youtube.com/watch?v=PgCaIyeRn6Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PgCaIyeRn6Y)

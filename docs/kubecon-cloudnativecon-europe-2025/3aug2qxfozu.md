@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cortex: Insights, U... Friedrich Gonzalez, Daniel Sabsay, Charlie Le, Alolita
   Sharma & Daniel Blando"
-nav_order: 55
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Alolita Sharma from Apple introduces Cortex, a highly scalable and horizontally
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -44,5 +41,7 @@ Frederick Gonzalez from Adobe announces the project's road map, which includes g
 |  10 | The project has a GitHub repository where users can contribute and report issues.                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3aUg2qxfoZU/hqdefault.jpg)](https://www.youtube.com/watch?v=3aUg2qxfoZU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3aUg2qxfoZU)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Green AI in Cloud Native Ecosystems: Strategies for Sustainability... Vincent
   Caldeira & Tamar Eilam"
-nav_order: 111
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speakers, Vincent (CTO Asia Pacific at Red Hat) and Tamar (IBM Research),
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The speakers propose various techniques to optimize AI inference, including mode
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/fznzH-gf9h8/hqdefault.jpg)](https://www.youtube.com/watch?v=fznzH-gf9h8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fznzH-gf9h8)

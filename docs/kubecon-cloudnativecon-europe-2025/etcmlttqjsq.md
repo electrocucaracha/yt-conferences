@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Trust No One: Secure Storage With Confidential Containers - Aurélien Bombo,
   Microsoft"
-nav_order: 347
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Aurelian Bombo from Microsoft discusses confidential computing, a future
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ The presentation concludes that confidential computing is crucial for protecting
 |  10 | Performance issues may arise from the encryption layer and bootstrapping process.                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/etCmLttqJsQ/hqdefault.jpg)](https://www.youtube.com/watch?v=etCmLttqJsQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=etCmLttqJsQ)

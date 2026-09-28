@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes and AI To Protect Our Forests: A Cloud Native Infrastructure for
   Wildf... Andrea Giardini"
-nav_order: 171
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Andre Jardini, an SRE at Overstory, discussed how his company uses Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ With the help of Kubernetes and cloud-native solutions, Overstory aims to improv
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1rtyQaTfbdM/hqdefault.jpg)](https://www.youtube.com/watch?v=1rtyQaTfbdM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1rtyQaTfbdM)

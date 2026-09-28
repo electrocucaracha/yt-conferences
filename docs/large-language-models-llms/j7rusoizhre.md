@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 7 - Attention, Final Projects
   and LLM Intro"
-nav_order: 11
-parent: Large Language Models Llms
 type: Video Note
 description:
   The lecture begins by discussing the evaluation of machine translation
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes with guidance on final projects, emphasizing the importanc
 |  17 | Project proposal requires a critical review of a research                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/J7ruSOIzhrE/hqdefault.jpg)](https://www.youtube.com/watch?v=J7ruSOIzhrE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=J7ruSOIzhrE)

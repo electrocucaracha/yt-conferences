@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Title not found
-nav_order: 18
-parent: Large Language Models Llms
 type: Video Note
 description: Of course! Please provide the video transcript you would like summarized.
 resource: https://www.youtube.com/watch?v=ebnX5Ur1hBk
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -27,5 +24,7 @@ Please provide the video transcript you would like summarized.
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ebnX5Ur1hBk/hqdefault.jpg)](https://www.youtube.com/watch?v=ebnX5Ur1hBk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ebnX5Ur1hBk)

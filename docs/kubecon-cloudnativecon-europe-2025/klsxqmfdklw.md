@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Managing Data at Scale: Best Practices and Evolution of SIG-Apps - Maciej
   Szulik & Janet Kuo"
-nav_order: 193
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Mache, introduces the SIG Apps group and explains their
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ Additionally, the SIG Apps group is working on architecture node autoscaling and
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KlsxQMfdKLw/hqdefault.jpg)](https://www.youtube.com/watch?v=KlsxQMfdKLw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KlsxQMfdKLw)

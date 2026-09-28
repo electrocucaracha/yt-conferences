@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Using MCP for Skills Orchestration and Enterprise Integration - Jacob
   Wilson"
-nav_order: 49
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Jake Wilson, a partner at PwC’s analytics practice, discusses how modern
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Overall, the approach streamlines procurement, reduces friction for end users, a
 |  18 | Emphasizes real-world enterprise transformation using MCPs and agent skills orchestration.                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/30WU_6_wplc/hqdefault.jpg)](https://www.youtube.com/watch?v=30WU_6_wplc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=30WU_6_wplc)

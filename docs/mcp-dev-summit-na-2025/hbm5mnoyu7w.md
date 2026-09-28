@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Generating Use Case Specific MCP Servers with Josh Dzielak at Postman"
-nav_order: 10
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Josh Jelik, a staff engineer at Postman, introduces himself and shares
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Despite a minor issue with coin price retrieval, the demo illustrates the ease a
 |  26 | Encouraged attendees to apply for engineering roles at Postman, especially with MCP experience.                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HbM5Mnoyu7w/hqdefault.jpg)](https://www.youtube.com/watch?v=HbM5Mnoyu7w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HbM5Mnoyu7w)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Optimizing Training Performance for Large Language Model(LLM) in Kubernetes
   - Klaus Ma & Peng Gu
-nav_order: 215
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Claus from Nvidia, co-founder of Volcano, introduced the work on optimizing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The team plans to add support for this feature internally and evolve it rapidly 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JXcQcofGzrA/hqdefault.jpg)](https://www.youtube.com/watch?v=JXcQcofGzrA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JXcQcofGzrA)

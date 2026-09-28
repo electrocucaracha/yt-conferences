@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Shipping Secure, Reusable, and Composable Infrastructure as Code... Feynman
   Zhou & Katherine Pitz
-nav_order: 279
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Feman from Microsoft Azure and Katie Pittz from
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The presentation also highlights how ORAS and OCI artifacts support secure, flex
 |  17 | Workflow: service engineers select p                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/u4zinRUhtw8/hqdefault.jpg)](https://www.youtube.com/watch?v=u4zinRUhtw8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=u4zinRUhtw8)

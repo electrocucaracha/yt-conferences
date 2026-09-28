@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Instrumentation Score: The Difference Between Telemetr... Juraci Paixão Kröhling
   & Michele Mancioppi"
-nav_order: 104
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Judas, Mikuel, and Julie introduce the concept
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ They also highlight the importance of semantic conventions in standardizing tele
 |  24 | Use Instrumentation Score as                                                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kdzeUiMI_t4/hqdefault.jpg)](https://www.youtube.com/watch?v=kdzeUiMI_t4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kdzeUiMI_t4)

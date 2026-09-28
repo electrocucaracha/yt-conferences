@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Transforming Programming • Pragmatic Dave Thomas • YOW! 2018
-nav_order: 142
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses their approach to coding, focusing on making code
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They advocate for simplicity, cohesion, and minimizing coupling, while encouragi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Nbdjzd22Z3A/hqdefault.jpg)](https://www.youtube.com/watch?v=Nbdjzd22Z3A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Nbdjzd22Z3A)

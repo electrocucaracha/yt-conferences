@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "El Arte de AMARTE: Aprende a Vivir SIN CULPA - Eugenio Cobo sesión de crecimiento
   #5"
-nav_order: 18
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta conversación, Eugenio Cobo, reconocido actor, productor y director
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Finalmente, invita a la autoaceptación, a soltar los apegos negativos y a avanz
 |  20 | Los pensamientos negativos pueden afectar la salud física; es importante soltar y vivir el presente. Ratings (1-5): 3                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GbBEpAZfc9s/hqdefault.jpg)](https://www.youtube.com/watch?v=GbBEpAZfc9s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GbBEpAZfc9s)

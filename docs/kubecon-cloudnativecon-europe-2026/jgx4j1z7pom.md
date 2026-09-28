@@ -1,8 +1,5 @@
 ---
-layout: default
 title: What LLMs Do, and Don't, Know About Securing Kubernetes - Rory McCune, Datadog
-nav_order: 395
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   "The speaker presents an in-depth exploration of how large language models
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ Overall, while LLMs can be useful for mainstream Kubernetes security tasks with 
 |  13 | LLMs/agents are useful but require caution, validation, and isolation to avoid security risks and unexpected failures.                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jgx4J1z7POM/hqdefault.jpg)](https://www.youtube.com/watch?v=jgx4J1z7POM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jgx4J1z7POM)

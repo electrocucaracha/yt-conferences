@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "35 AÑOS de EXPERIENCIA en Redes de Mercadeo Resumidos en 1 HORA | Sesión #11
   con Lourdes Enríquez \U0001F680"
-nav_order: 3
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Lourdes Enríquez comparte su experiencia de más de
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Finalmente, recomienda planificar el tiempo equilibrando capacitación, ventas y
 |  17 | Integrar a la familia en el negocio puede potenciar el crecimiento y la satisfacción personal.                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qE6ps3l642s/hqdefault.jpg)](https://www.youtube.com/watch?v=qE6ps3l642s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qE6ps3l642s)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Evolution of Platform APIs in the Age of LLMs - Mauricio "Salaboy" Salatino
   & Viktor Farcic
-nav_order: 306
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker discusses the challenges and considerations of integrating
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ The talk concludes by noting that AI is most valuable for creative, non-determin
 |  25 | AI s                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/aOMcUwR4PN4/hqdefault.jpg)](https://www.youtube.com/watch?v=aOMcUwR4PN4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aOMcUwR4PN4)

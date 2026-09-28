@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Deploying Lightweight AI Agents at the Healthcare Edge With K8s + Ollama -
   Gary Arora & Samarth Shah
-nav_order: 58
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Gary Aurora and Samarth Sha, architects specializing in cloud and AI
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ While demonstrated in healthcare, they note this architecture’s applicability 
 |  17 | The trend is toward hybrid architectures, balancing local and cloud AI for                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/IdAvZKQots0/hqdefault.jpg)](https://www.youtube.com/watch?v=IdAvZKQots0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IdAvZKQots0)

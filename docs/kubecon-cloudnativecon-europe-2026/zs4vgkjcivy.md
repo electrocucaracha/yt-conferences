@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Closing Remarks"
-nav_order: 169
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker thanks attendees for participating in the keynotes and expresses
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ The speaker concludes by thanking everyone again and inviting them to return the
 |  11 | Announcement of a final set of keynotes with live demos scheduled for tomorrow.                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Zs4VGKjcIvY/hqdefault.jpg)](https://www.youtube.com/watch?v=Zs4VGKjcIvY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Zs4VGKjcIvY)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Habits of Efficient Developers • Daniel Lebrero Berna • GOTO 2020
-nav_order: 48
-parent: Developer Productivity
 type: Video Note
 description:
   "The speaker, Daniel, emphasizes the importance of being efficient as
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ To combat this, Daniel suggests disabling notifications, using email sparingly, 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZlnSxlF9V_c/hqdefault.jpg)](https://www.youtube.com/watch?v=ZlnSxlF9V_c)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZlnSxlF9V_c)

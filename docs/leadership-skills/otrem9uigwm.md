@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Bridging the Gap with Gen Z - 9 Keys to Effective Leadership
-nav_order: 11
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, leadership coach Doug Howard addresses the challenges
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -41,5 +38,7 @@ He stresses the importance of empathy, influence, and finding common ground to m
 |   9 | Nine areas to bridge the gap with Gen Z: 1. Digital natives: Grew up with technology; managers should leverage tech for collaboration and encourage soft skills development. 2. Short attention spans: Used to bite-sized content; communicate with clarity and brevity, encourage questions for more detail, and use empathic listening. 3. Adaptability: Gen Z expects change; managers should encourage flexibility and be open-minded. 4. Self-learning: Gen Z prefers to find information independently; provide guidance, mentorship, and checkpoints. 5. Feedback seekers: Desire instant feedback but may not ask for it; foster a feedback-rich culture and model openness to feedback. 6. Goal-oriented: Ambitious with unique goals; managers should understand individual aspirations and align them with team objectives. 7. Recognition and rewards: Crave recognition and praise; acknowledge both achievements and effort. 8. Diverse mindsets: Value inclusivity and diversity; managers should demonstrate inclusive behavior and create supportive policies. 9. Sustainability: Care deeply about enviro |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OtReM9UigwM/hqdefault.jpg)](https://www.youtube.com/watch?v=OtReM9UigwM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OtReM9UigwM)

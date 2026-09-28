@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Operating MCP in the Enterprise: From Protocol To Production - Amar Deep Singh
   & Neelabh Tripathi"
-nav_order: 70
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Amardep Singh and Nilab, experienced IT and engineering architects, discuss
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ They conclude that, due to the probabilistic and evolving nature of AI agents, m
 |  20 | Maintaining state and session is a challenge when moving from la Ratings (1-5): 3                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0dOYliqioxY/hqdefault.jpg)](https://www.youtube.com/watch?v=0dOYliqioxY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0dOYliqioxY)

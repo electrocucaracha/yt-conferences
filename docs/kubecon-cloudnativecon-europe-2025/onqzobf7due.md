@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   A Practical Guide To Benchmarking AI and GPU Workloads in Kubernetes - Yuan
   Chen & Chen Wang
-nav_order: 8
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Yen Chen from Nvidia introduces the use of the Nvidia DJX cloud to build
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Chen also highlights the importance of monitoring tools like Nvidia SMI and GPU 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OnqzoBf7dUE/hqdefault.jpg)](https://www.youtube.com/watch?v=OnqzoBf7dUE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OnqzoBf7dUE)

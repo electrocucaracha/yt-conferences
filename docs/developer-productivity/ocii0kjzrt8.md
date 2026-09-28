@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How to Build an Inclusive Distributed Team • Adam Schuck • YOW! 2018
-nav_order: 55
-parent: Developer Productivity
 type: Video Note
 description:
   As the Director of Engineering at Canva, Michelle shares her experiences
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ She also discusses the benefits of post-commit code review, transparency, and pr
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oCii0KJZRt8/hqdefault.jpg)](https://www.youtube.com/watch?v=oCii0KJZRt8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oCii0KJZRt8)

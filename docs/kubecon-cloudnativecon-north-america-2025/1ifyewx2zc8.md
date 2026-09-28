@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: The Community-Driven Evolution of the Kubernetes Network Dri... Lionel
   Jouin & Antonio Ojea"
-nav_order: 129
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Lionel from Red Hat and Antonio from Google share a story about the evolution
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ A demo showcases how a pod can request specific network resources via the array,
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1iFYEWx2zC8/hqdefault.jpg)](https://www.youtube.com/watch?v=1iFYEWx2zC8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1iFYEWx2zC8)

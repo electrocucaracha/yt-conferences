@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Collisions in the Dark: Illuminating the 95% of Kubeflow You Can't... Amine
   Lahouel & Laura Llinares"
-nav_order: 76
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Amin and Lara, engineers at CERN, present their work on
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The talk concludes by emphasizing the value of transparency, sustainability, and
 |  18 | Dashboards: user workloa                                                                                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/AsPCWEBiR6g/hqdefault.jpg)](https://www.youtube.com/watch?v=AsPCWEBiR6g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=AsPCWEBiR6g)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Securing the MCP Ecosystem: Production Patterns for Transparency... Lisa Tagliaferri
   & Trevor Dunlap"
-nav_order: 81
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this presentation, Lisa and Trevor from Changuard discuss the evolving
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Both emphasize the importance of minimal base images, signed and regularly rebui
 |  24 | Provenance trac Ratings (1-5): 3                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8eGmT6fZfGk/hqdefault.jpg)](https://www.youtube.com/watch?v=8eGmT6fZfGk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8eGmT6fZfGk)

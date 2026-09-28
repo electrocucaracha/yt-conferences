@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Securing AI Agent Infrastructure: AuthN/AuthZ Patterns for MCP and A2A - Yoshiyuki
   Tabata"
-nav_order: 274
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Yoshik Tabata’s session focuses on securing AI agent infrastructure through
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The session concludes with a Q&A discussing challenges in enterprise scenarios, 
 |  15 | Five key IAM principles: mutual TLS, OAuth token exchange, OIDC client authentication with SPIFFE, OAuth access token validation, PDP-based authorization.                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/S6qF0N5D1tM/hqdefault.jpg)](https://www.youtube.com/watch?v=S6qF0N5D1tM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=S6qF0N5D1tM)

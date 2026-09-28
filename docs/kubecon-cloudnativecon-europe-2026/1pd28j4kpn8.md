@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Real-World Supply-Chain Security - Alex Leong, Buoyant
-nav_order: 306
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Alex Leong, a software engineer at Buoyant and long-time contributor
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session concludes with audience questions about tooling, policy enforcement,
 |  20 | Future supply chain transparency ma                                                                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1Pd28J4kpN8/hqdefault.jpg)](https://www.youtube.com/watch?v=1Pd28J4kpN8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1Pd28J4kpN8)

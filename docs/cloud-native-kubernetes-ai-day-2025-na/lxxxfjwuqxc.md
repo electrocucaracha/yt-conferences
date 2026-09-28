@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Cloud Native + Kubernetes AI Day | Welcome + Opening Remarks - Ricardo Rocha
   & Rajas Kakodkar
-nav_order: 3
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The speakers, Ricardo from CERN and Rajas from Broadcom, welcomed attendees
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The introduction concluded with reminders for speakers about logistics and an an
 |  23 | Event will start with the first talk in five minutes                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lxxXFjwUQxc/hqdefault.jpg)](https://www.youtube.com/watch?v=lxxXFjwUQxc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lxxXFjwUQxc)

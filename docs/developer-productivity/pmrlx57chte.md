@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Software Design X-Rays Part 2/2 • Adam Tornhill & Sven Johann • GOTO 2021
-nav_order: 120
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=PmRLX57ChTE
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -28,5 +25,7 @@ By using behavioral code analysis tools like CodeScene, developers can gain visi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PmRLX57ChTE/hqdefault.jpg)](https://www.youtube.com/watch?v=PmRLX57ChTE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PmRLX57ChTE)

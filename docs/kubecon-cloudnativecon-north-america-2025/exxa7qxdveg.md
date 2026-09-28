@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes IP Management: From Core Concepts To Strategic Solutions - Ivy
   Zhuang & Whitney Jenkins"
-nav_order: 139
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Whitney Jenkins and Ivy from Google discuss Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The session also covers improved observability tools, such as the GKE IP masquer
 |  20 | Documentation and blog posts are AVA                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/EXxa7Qxdveg/hqdefault.jpg)](https://www.youtube.com/watch?v=EXxa7Qxdveg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EXxa7Qxdveg)

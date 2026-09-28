@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Freedom Through Boundaries: Building Configurations That Age Well - Bogdan
   Stancu, Adobe"
-nav_order: 113
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Bogdan, from Adobe's observability team, discusses the importance of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ In the Q&A, he emphasizes the need to justify the cost of good practices through
 |  25 | Saying "no" to user requests requires clear explanations and boundaries.                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/H1g0jnmjJN8/hqdefault.jpg)](https://www.youtube.com/watch?v=H1g0jnmjJN8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=H1g0jnmjJN8)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "CRI-O: Thriving in a Changing World, One Container at a Time - Ayato Tokubi
   & Sohan Kunkerkar"
-nav_order: 37
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presenters, San Kerkar and Ayatkobi from Red Hat, discuss the past
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ The session concludes with a look at Cryo’s roadmap, including expanded artifa
 |  24 | Supports version control, caching, and garbage                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OjIZ-TH-4FA/hqdefault.jpg)](https://www.youtube.com/watch?v=OjIZ-TH-4FA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OjIZ-TH-4FA)

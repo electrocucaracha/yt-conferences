@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: One-To-Many: Enabling MCP, Agents, and Intelligent Systems... Ola
   Hungerford & Sandeep Bhat"
-nav_order: 47
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Ola Hungerford and Sandeep from Nordstrom’s AI Enablement team discuss
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The team also highlights the value of open experimentation, feedback loops throu
 |  22 | Visibility and feedback loops (documentation, forums, office hours) are crucial                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4RMvn__d8uY/hqdefault.jpg)](https://www.youtube.com/watch?v=4RMvn__d8uY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4RMvn__d8uY)

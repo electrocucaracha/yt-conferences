@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Building Cloud Native Culture in a Bank: With Open Source as a... Marcy Paramonova
   & Stéphane Cusin"
-nav_order: 33
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Marcen and Stefan, DevOps engineers at a Swiss
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Ultimately, they emphasize that technical change alone is insufficient; delibera
 |  20 | 1,700+ on-premises Kubernetes clusters (mostly single-node per app), 20                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/K5KVMdQTJc8/hqdefault.jpg)](https://www.youtube.com/watch?v=K5KVMdQTJc8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=K5KVMdQTJc8)

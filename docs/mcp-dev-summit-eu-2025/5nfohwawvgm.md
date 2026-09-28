@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] From Embeddings to Edges: A Graph Based Approach to Tool Selection"
-nav_order: 7
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   The speaker discusses challenges in tool call selection within MCP (Multi-Connector
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ By bootstrapping a knowledge graph of tools using LLMs and leveraging algorithms
 |  23 | Emphasizes the potential and flexibility of graph-based tool call selection.                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5nFOhwAwVGM/hqdefault.jpg)](https://www.youtube.com/watch?v=5nFOhwAwVGM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5nFOhwAwVGM)

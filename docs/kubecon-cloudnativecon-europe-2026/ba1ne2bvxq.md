@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Cloud Native in Europe: Regulation, Sovereignty, and the Future of
   Open Collab... Jan Melen"
-nav_order: 170
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses how the concept of digital sovereignty, particularly
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Ultimately, the speaker urges that digital sovereignty should focus on sovereign
 |  18 | Everyone has a critical role in supporting open source projects as they adapt to regulatory and economic changes while keepi                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_ba1NE2bvXQ/hqdefault.jpg)](https://www.youtube.com/watch?v=_ba1NE2bvXQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_ba1NE2bvXQ)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Building Intelligent Apps with RAG on Kube... Cedric C, Natale V,
   Christopher N & Legare K"
-nav_order: 379
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The workshop introduces participants to building Retrieval-Augmented
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ All workshop materials and instructions are available online, and participants a
 |  21 | Feedback and contributions to the workshop are encouraged via GitHub.                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/x3tS2SzpA1c/hqdefault.jpg)](https://www.youtube.com/watch?v=x3tS2SzpA1c)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x3tS2SzpA1c)

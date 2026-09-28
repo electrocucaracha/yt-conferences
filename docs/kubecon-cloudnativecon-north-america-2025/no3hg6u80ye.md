@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Strengthening Supply Chain for Kubernetes: Cross-Cloud SLSA Attestation...
   Feynman Zhou & Dahu Kuang"
-nav_order: 294
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Feman from Microsoft Azure and Dahu from Alibaba Cloud introduced the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ A live demo illustrated how these tools block non-compliant images and admit onl
 |  17 | Only images compliant with required SLSA levels (e.g., Level 2 or 3) are admitt                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/no3Hg6u80YE/hqdefault.jpg)](https://www.youtube.com/watch?v=no3Hg6u80YE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=no3Hg6u80YE)

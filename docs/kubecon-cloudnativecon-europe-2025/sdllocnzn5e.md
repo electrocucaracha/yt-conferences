@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Defusing the Kubernetes API Performance Minefield - Madhav Jivrajani & Marek
   Siarkowicz
-nav_order: 71
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Marik Sharkovich, SIG lead of ATC and contributor to API machinery, discusses
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ These features aim to improve performance by reducing allocations and making it 
 |   9 | The custom JSON encoder implementation stitches objects together, detecting the object type and fields before encoding.                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SdLLOcNZN5E/hqdefault.jpg)](https://www.youtube.com/watch?v=SdLLOcNZN5E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SdLLOcNZN5E)

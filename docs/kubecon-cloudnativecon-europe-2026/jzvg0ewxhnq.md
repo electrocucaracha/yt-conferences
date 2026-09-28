@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: From Inference to Agents: Where Op... Jonathan Bryce, Brian Stevens,
   Mark Collier & Lin Sun"
-nav_order: 173
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The panel discussion brings together leaders from across the AI and open
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The panel concludes by celebrating open source’s leadership in this technologi
 |  21 | Collaboration is seen as the secret weapon and critical for continued                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JzvG0eWxHnQ/hqdefault.jpg)](https://www.youtube.com/watch?v=JzvG0eWxHnQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JzvG0eWxHnQ)

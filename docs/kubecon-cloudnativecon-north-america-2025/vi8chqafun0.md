@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Slurm Bridge: Slurm Scheduling Superpowers in Kubernetes - Alan Mutschelknaus
   & Tim Wickberg"
-nav_order: 282
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Tim Wber and Alan Moouse introduce the Slurm Bridge,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The team discusses the technical challenges of mapping Kubernetes multi-node wor
 |  18 | Slurm Bridge positions Slurm as the top-level scheduler across converged infrastructure, differing from other projects like Flux.               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Vi8chqAFuN0/hqdefault.jpg)](https://www.youtube.com/watch?v=Vi8chqAFuN0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Vi8chqAFuN0)

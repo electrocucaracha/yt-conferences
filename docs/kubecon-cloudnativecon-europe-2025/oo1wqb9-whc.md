@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Multi-Cluster Configuration Management with KubeStellar
   - Andy Anderson"
-nav_order: 247
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Andy Anderson from IBM Red Hat introduced Coupellar, a tool to manage
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ This allows for disconnected operations by creating a control plane within anoth
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oo1wqb9_Whc/hqdefault.jpg)](https://www.youtube.com/watch?v=oo1wqb9_Whc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oo1wqb9_Whc)

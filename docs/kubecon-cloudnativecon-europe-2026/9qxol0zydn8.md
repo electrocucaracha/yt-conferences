@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Orchestrating Document Data Extraction with Dapr Agents - Fabian
   Steinbach"
-nav_order: 179
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Fabian, a software architect at Zeiss, explains the challenges of extracting
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ As a result, Zeiss was able to move from prototype to production in two months w
 |  14 | Achieved recognition results comparable to specialized machine learning systems.                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9QXoL0ZYDn8/hqdefault.jpg)](https://www.youtube.com/watch?v=9QXoL0ZYDn8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9QXoL0ZYDn8)

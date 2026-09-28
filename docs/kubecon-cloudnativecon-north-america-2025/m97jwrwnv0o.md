@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Untangling CSI: Powering Persistent Storage for KubeVirt - Brenda McLaren
   & Chris Keller, Red Hat"
-nav_order: 334
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Brendan McLaren and Chris Keller from Red Hat discuss
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Looking ahead, they mention upcoming enhancements like change block tracking and
 |  17 | Key CSI capabilities                                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/m97jWRWNv0o/hqdefault.jpg)](https://www.youtube.com/watch?v=m97jWRWNv0o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=m97jWRWNv0o)

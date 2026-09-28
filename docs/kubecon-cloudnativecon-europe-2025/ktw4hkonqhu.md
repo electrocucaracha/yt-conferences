@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Conveying the Importance of Platform as a Product in the Cloud Native Ecosystem
-nav_order: 54
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video transcript discusses the importance of platform as a product
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Ultimately, platforms are about providing the right tools to the right people to
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KtW4HkonQHU/hqdefault.jpg)](https://www.youtube.com/watch?v=KtW4HkonQHU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KtW4HkonQHU)

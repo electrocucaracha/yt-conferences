@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Kueue: Save Some QPS for the Rest of Us! How To Manage 100k
   Updates Pe... P. Bundyra"
-nav_order: 179
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Google engineers have been developing Q, a cloud-native queuing system
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Instead, they used the Kubernetes API aggregation layer to store the order of wo
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/njNXlZNT3dw/hqdefault.jpg)](https://www.youtube.com/watch?v=njNXlZNT3dw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=njNXlZNT3dw)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Managing Data at Scale: Best Practices and Evolution of SIG-Apps - Maciej
   Szulik & Janet Kuo"
-nav_order: 161
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The SIG Apps team from Kubernetes discussed best practices for managing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The team also discussed the need for improved stateful set handling and introduc
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9xpp3wvoSDg/hqdefault.jpg)](https://www.youtube.com/watch?v=9xpp3wvoSDg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9xpp3wvoSDg)

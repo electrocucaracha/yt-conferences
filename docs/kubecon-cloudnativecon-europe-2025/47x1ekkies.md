@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: Redefining MLOps at Scale on Top of Kubernetes - Randy
   Bias, Mirantis"
-nav_order: 311
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses the challenges of managing exponentially growing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ With Cordant, AI inference engines can be deployed anywhere in the world in minu
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_47X1eKkiEs/hqdefault.jpg)](https://www.youtube.com/watch?v=_47X1eKkiEs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_47X1eKkiEs)

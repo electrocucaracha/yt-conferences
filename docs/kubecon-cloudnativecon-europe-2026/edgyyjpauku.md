@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Advancing Kubernetes AI Conformance: Current State and Road... Yuan Tang,
   Mario Fahlandt & Janet Kuo"
-nav_order: 17
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The Kubernetes AI Conformance program, led by representatives from Google,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The overarching goal is to enable interoperability and portability of AI workloa
 |  19 | Meetings are bi-weekly, with communication via mailing list and Slack                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/EdgyyJpauKU/hqdefault.jpg)](https://www.youtube.com/watch?v=EdgyyJpauKU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EdgyyJpauKU)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Build Your Internal Developer Platform With the Experts: A Hands-On...
   Multiple Speakers"
-nav_order: 324
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   'The workshop introduces participants to building an internal developer
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ The workshop concludes by emphasizing the power of combining these open-source p
 |  23 | Policy-as-code: declarative, human-readable, version-controlled, automates enforcement for security, operati                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/eqxKB6Gq7oc/hqdefault.jpg)](https://www.youtube.com/watch?v=eqxKB6Gq7oc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=eqxKB6Gq7oc)

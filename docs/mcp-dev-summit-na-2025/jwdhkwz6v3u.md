@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Building Protected MCP Servers with MCP - Den Delimarsky from Microsoft"
-nav_order: 13
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   The speaker, a Microsoft engineer, introduces a new draft authorization
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The speaker concludes by highlighting that the SDK is designed to be accessible 
 |  19 | No need for dynamic client registration if client is already registered with the identity prov                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jwDHkWZ6V3U/hqdefault.jpg)](https://www.youtube.com/watch?v=jwDHkWZ6V3U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jwDHkWZ6V3U)

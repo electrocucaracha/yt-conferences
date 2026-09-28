@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Data Gravity and Kubernetes: Managing Large-Scale Data Ingest... Abhishek
   Bhattacharjee & Arya Soni"
-nav_order: 62
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses data gravity, a concept where accumulated data
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Additionally, they suggest using PV volumes and CSI storage to enhance storage s
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4Pei4LMigQE/hqdefault.jpg)](https://www.youtube.com/watch?v=4Pei4LMigQE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4Pei4LMigQE)

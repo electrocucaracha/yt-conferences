@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How To Supercharge AI/ML Observability With OpenTelemetry and Fluent Bit -
   Celalettin Calis
-nav_order: 122
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses supercharging AIM ML observability using open telemetry
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ They demonstrate how Fluent Bit can collect, transform, enrich, and deliver data
 |   2 | Fluent Bit: end-to-end observability pipeline with lightweight architecture and powerful transformation capabilities. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/DVFQ20OrEFk/hqdefault.jpg)](https://www.youtube.com/watch?v=DVFQ20OrEFk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DVFQ20OrEFk)

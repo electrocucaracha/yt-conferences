@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Why Engineers Struggle With Soft Skills | How to Improve Your Communication!
-nav_order: 43
-parent: Leadership Skills
 type: Video Note
 description:
   Doug Howard, a licensed structural engineer and engineering manager,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The episode concludes with an invitation to subscribe for deeper insights on int
 |  17 | Becoming aware of these differences is the first step to improving people skills.                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4ZEWk8vPAuk/hqdefault.jpg)](https://www.youtube.com/watch?v=4ZEWk8vPAuk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4ZEWk8vPAuk)

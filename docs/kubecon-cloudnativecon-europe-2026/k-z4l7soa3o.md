@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: How To Run Kubernetes Pods On My Slurm-Based HPC Center
   - Diego Ciangottini"
-nav_order: 270
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker, a researcher at the National Institute of Nuclear Physics
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The speaker invites interested participants to see a live demonstration at the k
 |  17 | Live demonstrations are available at the kiosk on Wednesday from 10 to 1:30.                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/K-Z4l7SOa3o/hqdefault.jpg)](https://www.youtube.com/watch?v=K-Z4l7SOa3o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=K-Z4l7SOa3o)

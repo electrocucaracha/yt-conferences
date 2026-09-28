@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Improve Your Listening Skills by the End of This Video | Leadership Training
   for Engineering Manager
-nav_order: 33
-parent: Leadership Skills
 type: Video Note
 description:
   "The video emphasizes the importance of listening skills for effective
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The video concludes with a practical exercise to demonstrate improved listening 
 |  21 | Additional resources and episodes are available for improving patience, focus, and ensuring others listen to you.                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iPJZUm6oHXs/hqdefault.jpg)](https://www.youtube.com/watch?v=iPJZUm6oHXs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iPJZUm6oHXs)

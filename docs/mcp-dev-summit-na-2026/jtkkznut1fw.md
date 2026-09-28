@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Beyond the Sandbox: Security at the Host Layer - Lorenzo Verna & Pietro Valfrè,
   Denied"
-nav_order: 1
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speakers discuss their innovative approach to behavioral authorization
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The system also provides audit trails and policy recommendations, allowing for i
 |  20 | Open to feedback and early user onboarding; integrations and SDKs are available and open source                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jTkKzNUT1fw/hqdefault.jpg)](https://www.youtube.com/watch?v=jTkKzNUT1fw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jTkKzNUT1fw)

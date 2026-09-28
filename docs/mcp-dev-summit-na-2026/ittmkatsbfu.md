@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Opening Remarks - Jim Zemlin"
-nav_order: 48
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The third MCP DevSummit opened in New York with excitement over the event’s
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Additionally, it was announced that Masin Gilbert, with a background in neural n
 |  17 | Masin Gilbert has a PhD in neural networks, MBA from Wharton, and recent experience building AI solutions at Google                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iTtMKaTsBFU/hqdefault.jpg)](https://www.youtube.com/watch?v=iTtMKaTsBFU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iTtMKaTsBFU)

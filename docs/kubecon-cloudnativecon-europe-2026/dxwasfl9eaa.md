@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Route, Serve, Adapt, Repeat: Adaptive Routing for AI Inference Workl... Nir
   Rozenbaum & Kellen Swain"
-nav_order: 312
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Kellen, a software engineer at Google, introduces adaptive
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Initial benchmarks show that adaptive routing mitigates hot node issues and main
 |  19 | Adaptive routing is fully async,                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/DxWAsFl9EAA/hqdefault.jpg)](https://www.youtube.com/watch?v=DxWAsFl9EAA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DxWAsFl9EAA)

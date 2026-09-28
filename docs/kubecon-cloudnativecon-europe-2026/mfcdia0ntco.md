@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   What's New With Kubectl and Kustomize … and How You... Marly S, Yugo K, Eddie
   Z, Maciej S & Arda G
-nav_order: 398
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The video features a panel of Kubernetes SIG CLI maintainers discussing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The session closes with a lighthearted discussion on the pronunciation of "kubec
 |  21 | All pronunciations of ku                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mfcdIa0NtCo/hqdefault.jpg)](https://www.youtube.com/watch?v=mfcdIa0NtCo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mfcdIa0NtCo)

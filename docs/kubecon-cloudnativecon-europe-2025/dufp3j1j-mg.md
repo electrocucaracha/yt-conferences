@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Scaling GPU Clusters Without Melting Down! - Alay Patel & Ryan Hallisey, NVIDIA
-nav_order: 297
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   NVIDIA engineers Ryan Haly and Olay Patel discuss their experiment to
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The team used Quark, a Kubernetes simulation tool, to scale test their control p
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dUfp3j1j-mg/hqdefault.jpg)](https://www.youtube.com/watch?v=dUfp3j1j-mg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dUfp3j1j-mg)

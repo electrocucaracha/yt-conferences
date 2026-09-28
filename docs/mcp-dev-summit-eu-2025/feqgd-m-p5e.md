@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Multi-Agent Multi-User Collab thru MCP: Enabling Asynchronous Human-Agent
   Agent-Human Workflows"
-nav_order: 2
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   In this presentation, Andrew Culverson and Mun Burid introduce MAMU,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The demo showcases how agents can coordinate tasks, access resources, and escala
 |  17 | MAMU is an early prototype with more features planned and a newsletter available for updates.                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FEqgD_m-p5E/hqdefault.jpg)](https://www.youtube.com/watch?v=FEqgD_m-p5E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FEqgD_m-p5E)

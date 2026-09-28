@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Moving Spotify’s Infrastructure Management Up the Stack from Kubebu... Alexander
   Buck & Tomas Aschan
-nav_order: 219
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Thomas and Alex from Spotify discuss their efforts to simplify
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concludes with a Q&A covering technical details, comparisons to tool
 |  16 | Future challenges include scaling, observability, fault toleranc                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/W-_kJEX-_RY/hqdefault.jpg)](https://www.youtube.com/watch?v=W-_kJEX-_RY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=W-_kJEX-_RY)

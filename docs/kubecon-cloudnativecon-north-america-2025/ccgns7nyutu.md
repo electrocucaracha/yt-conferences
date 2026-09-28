@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "OTel+K8s= ❤️: An Introduction To OpenTelemetry for Kubernetes... Christos
   Markou & Jacob Aronoff"
-nav_order: 182
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presentation introduces OpenTelemetry (OTEL) and its integration
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Operational considerations such as resource planning, configuration management, 
 |  20 | Helm charts: Four available (collector, operator, demo, kubestack); support for presets (e.g., log collection, K                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cCGNs7nyutU/hqdefault.jpg)](https://www.youtube.com/watch?v=cCGNs7nyutU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cCGNs7nyutU)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Was Leslie Lamport Right? - Sarah Christoff, Edera & Nic Jackson, Hashicorp
-nav_order: 364
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=4FgccXDdzYA
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -29,5 +26,7 @@ His work has had a significant impact on the field of computer science, and his 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4FgccXDdzYA/hqdefault.jpg)](https://www.youtube.com/watch?v=4FgccXDdzYA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4FgccXDdzYA)

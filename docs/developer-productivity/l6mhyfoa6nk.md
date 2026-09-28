@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Infobesity - How to Cope with the Overload of Information • Fabio Pereira •
   GOTO 2023
-nav_order: 69
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the concept of "infobesity," which refers to the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The speaker emphasizes the importance of learning and acting on new knowledge, r
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/l6MHyfOA6nk/hqdefault.jpg)](https://www.youtube.com/watch?v=l6MHyfOA6nk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=l6MHyfOA6nk)

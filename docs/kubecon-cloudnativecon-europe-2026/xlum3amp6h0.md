@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Optimizing LLM Inference for the Rest of Us - Abdel Sghiouar, Google
-nav_order: 238
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Abdel, a developer advocate at Google, discusses strategies
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Throughout, Abdel emphasizes that optimizing LLMs on Kubernetes is a multi-dimen
 |  21 | Accelerator management: device plugins assign GPUs, but lack spe                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/xLum3amp6h0/hqdefault.jpg)](https://www.youtube.com/watch?v=xLum3amp6h0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xLum3amp6h0)

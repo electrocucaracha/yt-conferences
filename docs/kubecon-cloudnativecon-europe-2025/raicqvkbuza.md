@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Automating Kubernetes Cluster Updates: Achieving Z... Haitao Zhang, Ling Ling,
   Wei Jiang & Baofa Fan"
-nav_order: 20
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "The speaker discusses the challenges of updating Kubernetes clusters,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -40,5 +37,7 @@ The speaker concludes that cloud providers like Cloud AI are working to extend k
 |   4 | Difficulty rolling back updates if something goes wrong mid-update. • Automation of Kubernetes updates can make the process seamless with zero downtime. • Two strategies for updating nodes: rowing update and kipanda. • Rowing update involves upgrading one node at a time, deleting the old node, and creating a new one. • Kipanda provides a feature called draft to automate node upgrades. • Kipanda also allows node pool construction, node class definition, and node claim management. • Cloud provider integration is available for some providers, but not all. • Capanda has limitations, including no gradual update control, no built-in fallback strategy, and potential disruptions during node migrations. • Extending Capanda's features includes intelligent node selection, sport automation with advanced interruption prediction, and cost savings without compromising reliability. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rAIcQvKBuZA/hqdefault.jpg)](https://www.youtube.com/watch?v=rAIcQvKBuZA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rAIcQvKBuZA)

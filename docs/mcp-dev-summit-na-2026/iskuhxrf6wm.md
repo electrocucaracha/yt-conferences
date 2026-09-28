@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Call Now, Fetch Later: MCP Tasks and SEP-1686 - Adam Azzam, Prefect"
-nav_order: 6
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Adam from Prefect discusses SEP 1686, which addresses task
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ While this approach is a workaround rather than an ideal solution, it allows for
 |  18 | This approach is a workaround for lack of native client support for                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/isKuHXRf6wM/hqdefault.jpg)](https://www.youtube.com/watch?v=isKuHXRf6wM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=isKuHXRf6wM)

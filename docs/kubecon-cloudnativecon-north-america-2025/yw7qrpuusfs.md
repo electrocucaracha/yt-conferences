@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SIG API Machinery and AI: What Comes Next? - Joe Betz, Google & David Eads,
   Red Hat"
-nav_order: 264
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presentation discusses using AI to interact with Kubernetes, focusing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -38,5 +35,7 @@ The speakers also explore the challenges of creating a filtered list of resource
 |   3 | Tracking sensitive resources and marking them as such • The problem of ensuring that AI systems don't get too much access to sensitive data is discussed. • A potential solution involves having a way for users to request only the necessary information, with options for filtering by namespace or other criteria. • The idea of attenuation (limiting the lifespan of a token) is proposed as a way to improve security and auditing. • The importance of auditability and logging is emphasized. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/yW7QRpUUSFs/hqdefault.jpg)](https://www.youtube.com/watch?v=yW7QRpUUSFs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yW7QRpUUSFs)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Embedded Application Development (for Web Developers) • Devon Estes • GOTO
   2019
-nav_order: 37
-parent: Developer Productivity
 type: Video Note
 description:
   As a freelancer, Devon has worked on various web development projects,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ He recommended using Rust or higher-level languages, auditing dependencies for s
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rZuUGHCeBf8/hqdefault.jpg)](https://www.youtube.com/watch?v=rZuUGHCeBf8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rZuUGHCeBf8)

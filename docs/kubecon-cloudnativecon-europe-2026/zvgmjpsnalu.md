@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Harbor Project - The Maintainers Session - Yan Wang, Broadcom & Vadim Bauer,
   8gears
-nav_order: 137
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Vadim Bower and Yan, maintainers of Harbor, provided updates on the Harbor
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ The session concluded with survey results showing Harbor’s growing adoption an
 |  24 | CNCF survey shows Harbor is widely adopted in produc                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zVgMJPSNaLU/hqdefault.jpg)](https://www.youtube.com/watch?v=zVgMJPSNaLU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zVgMJPSNaLU)

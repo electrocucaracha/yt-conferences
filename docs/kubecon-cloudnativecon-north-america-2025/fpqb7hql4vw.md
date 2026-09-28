@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The Missing Manual for Open Source Community Sustainability - Taylor Dolezal
   & Erica Hughberg
-nav_order: 312
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   "The transcript captures an interactive workshop focused on building
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Ultimately, the session underscores that community is not just an add-on to open
 |  20 | Encourage questions and conversations, including private outreach                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FPQB7hQL4Vw/hqdefault.jpg)](https://www.youtube.com/watch?v=FPQB7hQL4Vw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FPQB7hQL4Vw)

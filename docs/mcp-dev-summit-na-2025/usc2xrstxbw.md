@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] Pragmatic Scaling of Enterprise GenAI with MCP with Sambhav Kothari
   at Bloomberg"
-nav_order: 18
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Sambukqari, head of AI productivity at Bloomberg, discusses the company's
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ While this shift brought new challenges in tool management and governance, Bloom
 |  18 | Over 9,000 engineers can now contribute to GenAI dev                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/usc2XRStxbw/hqdefault.jpg)](https://www.youtube.com/watch?v=usc2XRStxbw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=usc2XRStxbw)

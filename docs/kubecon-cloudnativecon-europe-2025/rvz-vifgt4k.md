@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Strengthening Auth in Kubernetes: Image Pulling, DRA Admin Access. Rita Zhang
   & Stanislav Láznička"
-nav_order: 321
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Microsoft engineer Rita discusses updates in SIG O for a and authorization,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -40,5 +37,7 @@ The team also plans to introduce additional features in future releases, includi
 |   6 | Demos: + DRAM admin access feature + Secret pull images demo + Cluster trust bundle demo                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rVz-vIFGT4k/hqdefault.jpg)](https://www.youtube.com/watch?v=rVz-vIFGT4k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rVz-vIFGT4k)

@@ -1,9 +1,6 @@
 ---
-layout: default
 title: "Lightning Talk: My Job Says 'Running' but Nothing's Running: Kubernetes
   Status Reality... Ron Kahn"
-nav_order: 8
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   "Ron, a senior software developer at Nvidia, discusses a common issue
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Ron recommends performing thorough pre-flight checks for connectivity and GPU co
 |  18 | Recognize and address the gap between infrastructure status and actual application reality.                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/AHjZvT3vpAc/hqdefault.jpg)](https://www.youtube.com/watch?v=AHjZvT3vpAc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=AHjZvT3vpAc)

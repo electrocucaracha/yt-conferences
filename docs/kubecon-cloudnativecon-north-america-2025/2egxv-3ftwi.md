@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   What's New With Kubectl and Kustomize... Marly Salazar, Arda Guclu, Maciej
   Szulik & Eddie Zaneski
-nav_order: 338
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Kubernetes SIG CLI is responsible for developing and maintaining
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The group is seeking feedback from users on various aspects of their tools, incl
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2EGxV-3fTwI/hqdefault.jpg)](https://www.youtube.com/watch?v=2EGxV-3fTwI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2EGxV-3fTwI)

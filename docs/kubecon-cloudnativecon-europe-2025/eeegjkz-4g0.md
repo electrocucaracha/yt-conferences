@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Making the Leap: What Gateway API Needs To Support Ingress-NGINX Users - Rob
   Scott & James Strong"
-nav_order: 192
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Kubernetes SIG Network project aims to standardize on Gateway API
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ The project aims to make the migration process smoother by providing a better ex
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/EeegJKZ_4g0/hqdefault.jpg)](https://www.youtube.com/watch?v=EeegJKZ_4g0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EeegJKZ_4g0)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Building the Next Generation of Multi-Cluster with Gateway API - Mike Morris
   & Alan Grosskurth
-nav_order: 35
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Mike from Microsoft and Alan from Google discuss the evolution
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ The session concludes with a call for collaboration in working groups to refine 
 |  14 | Goal: integrate with existing Kubernetes/Gateway API, make service components atomic/composable, solve high-priority problems quickly via Gateway API experimental channel, a                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oRbdcHgHPbo/hqdefault.jpg)](https://www.youtube.com/watch?v=oRbdcHgHPbo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oRbdcHgHPbo)

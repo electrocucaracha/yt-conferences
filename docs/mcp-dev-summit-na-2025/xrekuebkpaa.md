@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Multi Agent Collaboration in MCP with Nicholas Aldridge from AWS"
-nav_order: 20
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Nick Aldridge, a principal engineer at AWS, shares his frustrating experience
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Aldridge encourages the community to contribute to MCP’s development and provi
 |  19 | Concluded that MCP supports agent-to-agent co                                                                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XreKuebKpaA/hqdefault.jpg)](https://www.youtube.com/watch?v=XreKuebKpaA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XreKuebKpaA)

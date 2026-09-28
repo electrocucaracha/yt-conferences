@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   El método para entender cómo piensa y actúa cualquier persona | Rodrigo García
   Platas
-nav_order: 21
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Rodrigo García Platas, psicopedagogo y experto en
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Finalmente, destaca la importancia de reconocer y respetar las diferencias entre
 |  14 | Entender el biotipo propio y de otros ayuda en relaciones, ventas y autoconocimiento.                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/e6djUoDbFro/hqdefault.jpg)](https://www.youtube.com/watch?v=e6djUoDbFro)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=e6djUoDbFro)

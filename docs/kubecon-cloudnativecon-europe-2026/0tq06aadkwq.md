@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Signed, Sealed, Delivered: Why Reverse Proxies Outperform VPNs - Peter O'Neill
   & Boris Kurktchiev"
-nav_order: 331
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Boris and Peter discuss the limitations of traditional
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ While acknowledging that VPNs still have a role, they argue that organizations m
 |  21 | The demo and code are availab                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0tq06AAdKWQ/hqdefault.jpg)](https://www.youtube.com/watch?v=0tq06AAdKWQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0tq06AAdKWQ)

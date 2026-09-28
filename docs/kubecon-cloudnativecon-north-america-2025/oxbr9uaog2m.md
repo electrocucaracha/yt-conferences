@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Bringing Agentic AI To Cloud Native With Kagent -
   Eitan Yarmush"
-nav_order: 208
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   "Eton Yarmish, an architect at solo.io and maintainer of K agent, introduces
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ The project is new but gaining traction, with some companies already running it 
 |  13 | The speaker invites attendees to visit the Solo IO booth for more information and discussion.                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oXBr9UAOG2M/hqdefault.jpg)](https://www.youtube.com/watch?v=oXBr9UAOG2M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oXBr9UAOG2M)

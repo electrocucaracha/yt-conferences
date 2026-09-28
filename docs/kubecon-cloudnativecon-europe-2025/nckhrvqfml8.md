@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Reliable K8s Resource Submission & Bookkeeping - Tiancheng Yin & Yao Lin, Bloomberg
-nav_order: 282
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Yaoin, introduces themselves as part of the workflow orchestration
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The system also includes a syncing service for deployables and a consumer servic
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NCkHrvqFMl8/hqdefault.jpg)](https://www.youtube.com/watch?v=NCkHrvqFMl8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NCkHrvqFMl8)

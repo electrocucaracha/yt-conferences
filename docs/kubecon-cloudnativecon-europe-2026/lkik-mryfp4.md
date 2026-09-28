@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Argo CD Source Hydrator: Rendered Manifests Made Easy!
   - Michael Crenshaw"
-nav_order: 250
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Michael Crenshaw, a senior staff software engineer at Intuit and lead
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ Additionally, the hydrate two capability allows pushing hydrated manifests to a 
 |  14 | He requests users to fill out an annual Argo CD user survey via a QR code to help prioritize project improvements.                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Lkik-mrYfP4/hqdefault.jpg)](https://www.youtube.com/watch?v=Lkik-mrYfP4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Lkik-mrYfP4)

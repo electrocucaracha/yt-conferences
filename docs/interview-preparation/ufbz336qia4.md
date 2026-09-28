@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The One Thing You Should Never Tell a Recruiter...
-nav_order: 26
-parent: Interview Preparation
 type: Video Note
 description:
   When a recruiter asks about your job search, they're not just looking
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ To protect yourself without sounding awkward or paranoid, consider responding wi
 |   2 | Reverse psychology (e.g., "Would you rather hold off on this one?"). Ratings (1-5): 3                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ufBZ336qia4/hqdefault.jpg)](https://www.youtube.com/watch?v=ufBZ336qia4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ufBZ336qia4)

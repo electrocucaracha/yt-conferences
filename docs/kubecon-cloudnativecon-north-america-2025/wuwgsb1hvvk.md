@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: A Hitchhiker's Guide to... Katherine Druckman, Gerald
   Venzl & Lori Lorusso"
-nav_order: 206
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session of Project Lightning Talks, Katherine Duckman and Lori
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The session concludes with a reminder to leverage available resources, contribut
 |  24 | Present                                                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wUWGSB1HvVk/hqdefault.jpg)](https://www.youtube.com/watch?v=wUWGSB1HvVk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wUWGSB1HvVk)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Strengthening Kubernetes Trust: SIG Auth's Latest Se... Anish R, Mo K, Stanislav
   L, Rita Z & Peter E"
-nav_order: 293
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The SIGOT deep dive session covered numerous updates and features in
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concluded with a Q&A addressing implementation details and security 
 |  15 | Credential plugin policy and allow list in cli                                                                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SqdD9waaeno/hqdefault.jpg)](https://www.youtube.com/watch?v=SqdD9waaeno)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SqdD9waaeno)

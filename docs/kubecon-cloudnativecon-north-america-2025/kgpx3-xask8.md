@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Designing for Observability: From Noise To Insight - Andrea Chomiak, Dash0"
-nav_order: 61
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In her first CubeCon talk, Andrea Homc emphasizes the importance of usability
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Ultimately, she stresses that good design is essential for making complex system
 |  20 | Designing observability tools is about making complex systems usable under pressure, not just aesthetics.                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KGPX3-xasK8/hqdefault.jpg)](https://www.youtube.com/watch?v=KGPX3-xasK8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KGPX3-xasK8)

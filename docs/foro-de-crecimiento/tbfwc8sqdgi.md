@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Si Te Sientes Solo, Esto es Para Ti | Sebastián Struck – Sesión 36
-nav_order: 65
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Sebastián Struck, creador de Maestría Emocional,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Finalmente, resalta que la calidad de las relaciones humanas, más que la cantid
 |  19 | Las conversaciones profundas y la vulnerabilidad son esenciales para crear conexiones significativas.                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TBfWc8SqDgI/hqdefault.jpg)](https://www.youtube.com/watch?v=TBfWc8SqDgI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TBfWc8SqDgI)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Platform Engineering in Action: Test-Driven Development App... Charles-Edouard
   Brétéché & Sara Qasmi"
-nav_order: 199
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this session, the speakers discuss the often-overlooked importance
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The key takeaway is that TDD is not just for application development but is also
 |  18 | Documentation and further resources are available on GitHub.                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/p2QPtjHp77I/hqdefault.jpg)](https://www.youtube.com/watch?v=p2QPtjHp77I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p2QPtjHp77I)

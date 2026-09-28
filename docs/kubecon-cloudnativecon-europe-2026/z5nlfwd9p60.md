@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Container2Wasm: Running Containers On Wasm Environments
   - Kohei Tokunaga"
-nav_order: 257
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Koh Tokunaga from NT Inc. presented recent updates on the Container to
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Attendees interested in further details about C2W’s QEMU integration and brows
 |  16 | Invitation to visit the kiosk on Tuesday and Thursday for more information about container2wasm, QEMU integration, and LLM agent in the browser.                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/z5NlfWd9p60/hqdefault.jpg)](https://www.youtube.com/watch?v=z5NlfWd9p60)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=z5NlfWd9p60)

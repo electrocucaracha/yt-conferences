@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Enterprise-Scale Migrations Using Agentic Workflows with Human-in... Alvaro
   Saurin & Jose M Navarro
-nav_order: 103
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Albert Saurin and Jose Manuel Navaro, senior software engineers at Adobe,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The team found that LLMs excelled at generating code but struggled with direct c
 |  22 | Migration tran                                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/m6jAXyS9_Ek/hqdefault.jpg)](https://www.youtube.com/watch?v=m6jAXyS9_Ek)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=m6jAXyS9_Ek)

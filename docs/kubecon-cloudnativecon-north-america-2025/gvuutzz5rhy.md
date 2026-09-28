@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Getting (and Staying) up To Speed on DRA With the DRA Example
   Driver - Jon Huhn"
-nav_order: 148
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   John Hune, a software engineer at Microsoft, introduces dynamic resource
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ John encourages feedback and contributions to the example driver to help demonst
 |  20 | Feedback and feature requests for                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GVuutzZ5rHY/hqdefault.jpg)](https://www.youtube.com/watch?v=GVuutzZ5rHY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GVuutzZ5rHY)

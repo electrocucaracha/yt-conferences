@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Vitess: Schema Changes at Scale - Rohit Nayak & Shlomi Noach, PlanetScale"
-nav_order: 361
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video transcript discusses Vitess, an open-source project that enables
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The system also includes features such as online schema change mechanisms, repli
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Zbi46yTlSVo/hqdefault.jpg)](https://www.youtube.com/watch?v=Zbi46yTlSVo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Zbi46yTlSVo)

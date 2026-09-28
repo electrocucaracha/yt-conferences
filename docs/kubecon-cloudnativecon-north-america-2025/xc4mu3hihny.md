@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Upgrade Nightmare To Uptime Dream: The Cloud Provider's Playbook for... Yuchen
   Zhou & Uttam Kumar"
-nav_order: 336
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Utam Kumar from Salesforce and a representative
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Both organizations stress the importance of comprehensive testing, customer coll
 |  16 | Add-on upgrades are tested with each minor version; GKE bundles and tests 100+ add-ons                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/xc4MU3HiHnY/hqdefault.jpg)](https://www.youtube.com/watch?v=xc4MU3HiHnY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xc4MU3HiHnY)

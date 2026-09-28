@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Code Mode Without the Code - Bob Dickinson, TeamSpark
-nav_order: 10
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Bob Dickinson introduces MCP Graph, a no-code, open-source
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The solution is complemented by a visualization tool (MCP Graph UX) and is desig
 |  18 | MCP Graph, MCP Graph UX, and MCP                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tTCnNsaPX5Q/hqdefault.jpg)](https://www.youtube.com/watch?v=tTCnNsaPX5Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tTCnNsaPX5Q)

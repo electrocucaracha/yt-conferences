@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Improving Business Resiliency with Chaos Engineering • Olga Hall • GOTO 2021
-nav_order: 66
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, a practitioner in chaos engineering, discusses building
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The speaker highlights the need for a culture shift, emphasizing that resilience
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6NIh-GsO1Kg/hqdefault.jpg)](https://www.youtube.com/watch?v=6NIh-GsO1Kg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6NIh-GsO1Kg)

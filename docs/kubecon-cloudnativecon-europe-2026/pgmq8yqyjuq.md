@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Banking on Reliability: Cloud Native SRE Practices in Financial Services -
   Clément Nussbaumer"
-nav_order: 24
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker, a systems engineer at Post Finance, a major Swiss bank,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The speaker concludes by emphasizing the value of SLOs, open-source collaboratio
 |  19 | Key t                                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pgmQ8YqyjUQ/hqdefault.jpg)](https://www.youtube.com/watch?v=pgmQ8YqyjUQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pgmQ8YqyjUQ)

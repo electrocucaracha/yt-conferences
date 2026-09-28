@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: OpenCost: Cost And Resource Management - Rajith Attapattu,
   Maintainer"
-nav_order: 281
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker introduces the OpenCost project, a vendor-neutral CNCF incubating
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ A brief demo highlights OpenCost’s API-driven capabilities and emphasizes the 
 |  26 | Main value lies in the model, APIs, and MCP server.                                                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/w-_PJXitKI8/hqdefault.jpg)](https://www.youtube.com/watch?v=w-_PJXitKI8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=w-_PJXitKI8)

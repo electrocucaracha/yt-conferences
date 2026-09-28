@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Performance Tuning Java Apps for Kubernetes: From Startup Time To Conta...
   Ryan Jarvinen & Daniel Oh"
-nav_order: 198
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Daniel from Red Hat IBM and Ryan Jarvin discuss
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ They conclude that Java remains a viable and competitive choice for cloud-native
 |  22 | Use Kubernetes startup probes for sl                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7sF5fiPtd24/hqdefault.jpg)](https://www.youtube.com/watch?v=7sF5fiPtd24)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7sF5fiPtd24)

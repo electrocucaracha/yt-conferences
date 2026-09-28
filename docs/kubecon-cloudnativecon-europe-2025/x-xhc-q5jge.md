@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Kubernetes SIG Storage: Intro & Deep Dive - Xing Yang, VMware by Broadcom
   & Jan Šafránek, Red Hat"
-nav_order: 169
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The six storage group, led by Yan Shafranic and Shinyang, is a loose
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The group welcomes contributors and has resources available for those interested
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/X_xHC_Q5jGE/hqdefault.jpg)](https://www.youtube.com/watch?v=X_xHC_Q5jGE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=X_xHC_Q5jGE)

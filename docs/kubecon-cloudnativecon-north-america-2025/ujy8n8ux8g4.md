@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "AI Inference Without Boundaries: Dynamic Routing With Multi-Cluster In...
   Rob Scott & Daneyon Hansen"
-nav_order: 5
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this KubeCon talk, Rob Scott from Google and Damian Hansen from Solo
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The session concludes with an invitation for community feedback and participatio
 |  21 | Endpoint picker is designe                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/UJy8n8uX8G4/hqdefault.jpg)](https://www.youtube.com/watch?v=UJy8n8uX8G4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UJy8n8uX8G4)

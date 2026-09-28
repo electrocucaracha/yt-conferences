@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Log Analytics: Understanding Complex Systems at Scale • Kresten Krab Thorup
   • GOTO 2020"
-nav_order: 82
-parent: Developer Productivity
 type: Video Note
 description:
   Kristen, CTO at Humio, discusses log analytics and its importance in
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ By leveraging log analytics, developers can gain valuable insights into their sy
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SK_cTsLrAMA/hqdefault.jpg)](https://www.youtube.com/watch?v=SK_cTsLrAMA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SK_cTsLrAMA)

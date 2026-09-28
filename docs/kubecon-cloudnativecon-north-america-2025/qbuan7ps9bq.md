@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Lightning Talk: Graceful Controller Operations - Jeffrey Ying, Google"
-nav_order: 149
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Jeffrey, a software engineer at Google, discusses graceful controller
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ With the update in version 1.35, the kube-controller-manager now supports gracef
 |  21 | Developers are encouraged to adopt this pattern for building better, more graceful controllers.                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qbuAn7pS9bQ/hqdefault.jpg)](https://www.youtube.com/watch?v=qbuAn7pS9bQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qbuAn7pS9bQ)

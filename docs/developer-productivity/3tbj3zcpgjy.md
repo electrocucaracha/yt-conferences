@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Modern Platform Engineering: 9 Secrets of Generative Teams • Liz Fong-Jones
   • GOTO 2023"
-nav_order: 90
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker discusses the importance of creating a generative culture
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ They argue that platform engineering should not just be another rename of operat
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3tBj3ZCPGJY/hqdefault.jpg)](https://www.youtube.com/watch?v=3tBj3ZCPGJY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3tBj3ZCPGJY)

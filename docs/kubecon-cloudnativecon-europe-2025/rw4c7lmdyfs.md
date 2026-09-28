@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How To Rename Metrics Without Impacting Somebody’s Observabili... Bartłomiej
   Płotka & Arianna Vespri
-nav_order: 121
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video discusses the challenges of renaming metrics in a system, particularly
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ The speakers demonstrate how this approach enables efficient and flexible renami
 |  12 | The ecosystem needs to work together to improve the seamless renames in Prometheus.            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Rw4c7lmdyFs/hqdefault.jpg)](https://www.youtube.com/watch?v=Rw4c7lmdyFs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Rw4c7lmdyFs)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] Scaling MCP Observability: How Natoma Monitors Thousands of MCP
   Servers"
-nav_order: 4
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Capil, a software engineer at Numa Labs, discusses the observability
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The talk concludes with a demonstration of their activity dashboard and server s
 |  24 | Request flow: client POST → OAuth/DCR → policy enfo                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/09OrzbZC3AU/hqdefault.jpg)](https://www.youtube.com/watch?v=09OrzbZC3AU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=09OrzbZC3AU)

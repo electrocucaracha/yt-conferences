@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Day 0 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam
-nav_order: 84
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   CubeCon CloudNative Con Europe has returned to Amsterdam, welcoming attendees
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ The message concludes with an enthusiastic call to action: "Let's get it."
 |   5 | Expressions of excitement: "Let's get it."                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/hpwJs1DJAo4/hqdefault.jpg)](https://www.youtube.com/watch?v=hpwJs1DJAo4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hpwJs1DJAo4)

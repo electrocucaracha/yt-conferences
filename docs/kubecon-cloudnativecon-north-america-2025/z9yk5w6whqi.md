@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Help! My LLM Is a Resource Hog: How We Tamed Inference With Kubernetes...
   Aditya Soni & Hrittik Roy"
-nav_order: 96
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker, Sunni, discusses the challenges of inference in Large Language
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ They also discuss the importance of distributed inference across different geol 
 |  10 | Distributed inference across geol locations and providers poses challenges such as distributed attention kernels, KV caching, and cross-node communication. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/z9yK5W6whQI/hqdefault.jpg)](https://www.youtube.com/watch?v=z9yK5W6whQI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=z9yK5W6whQI)

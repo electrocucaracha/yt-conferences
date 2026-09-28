@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Enforce VIP Access Only Through Node Attestation - Alice Frosi & Jakob Naucke,
   Red Hat
-nav_order: 100
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Alicha Frosi and Jacob N. from Reddit present on confidential computing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The session concludes with a discussion of current challenges, such as trust in 
 |  20 | Operator orchestrates confidential clusters, deploys secure infrast                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3H3n-tZYmlY/hqdefault.jpg)](https://www.youtube.com/watch?v=3H3n-tZYmlY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3H3n-tZYmlY)

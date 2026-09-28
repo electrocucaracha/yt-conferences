@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Experto en mentalidad: Los 7 pasos para cambiar tu vida | Luis Topete"
-nav_order: 42
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este video, Luis Topete, empresario y coach de alto rendimiento, comparte
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ A lo largo del video, se proponen ejercicios prácticos para aplicar cada paso, 
 |  12 | Recomendación: escribir metas, hábitos y acciones concretas; visualizar el éxito regularmente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rU99ce2tAuc/hqdefault.jpg)](https://www.youtube.com/watch?v=rU99ce2tAuc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rU99ce2tAuc)

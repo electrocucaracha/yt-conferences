@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Experto en Ingresos: El Mercado No Paga Esfuerzo, Paga Habilidades"
-nav_order: 33
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa conversación, Mauricio Benoist, rector de la Universidad
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ A lo largo del diálogo, se enfatiza la importancia de delegar tareas operativas
 |  17 | Honrar la palabra, tanto hacia otros como hacia uno mismo, es fundamental para la autoestima y el éxito.                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3cUqPgq04K0/hqdefault.jpg)](https://www.youtube.com/watch?v=3cUqPgq04K0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3cUqPgq04K0)

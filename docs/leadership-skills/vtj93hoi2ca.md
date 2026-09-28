@@ -1,8 +1,5 @@
 ---
-layout: default
 title: 7 Steps to Recover from Burnout
-nav_order: 7
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ He stresses the importance of taking action promptly to break the burnout cycle 
 |  10 | Viewers are encouraged to share their own burnout recovery suggestions in the comments.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vTJ93HOI2cA/hqdefault.jpg)](https://www.youtube.com/watch?v=vTJ93HOI2cA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vTJ93HOI2cA)

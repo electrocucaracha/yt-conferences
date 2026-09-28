@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Snapshots Gone Wild: Taming Multi-PVC Chaos with VolumeGroupSna... Shubham
   Pampattiwar & Scott Seago"
-nav_order: 336
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Shuan Pampachar and Scott Sego from Red Hat discuss the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The session concludes with key takeaways: atomic snapshots are essential for mul
 |  17 | Key takeaways: use VGS for multi-volume apps, label PVCs, VGS is transient, test with multiple CSI drivers.                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pLmRkRO6O6E/hqdefault.jpg)](https://www.youtube.com/watch?v=pLmRkRO6O6E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pLmRkRO6O6E)

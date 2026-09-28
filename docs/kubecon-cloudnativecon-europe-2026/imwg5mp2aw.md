@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Namespace Multi-Tenancy, But All The Problems Related
   To It - Hristo Hristov"
-nav_order: 279
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Christopher, a maintainer of the CNCF sandbox project Capsule, discusses
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Capsule is open for collaboration, offers enterprise support through partners, a
 |  22 | Community can connect via Kubernetes Slack (/capsule), projectcapsule.dev, and GitHub.                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-imwG5MP2aw/hqdefault.jpg)](https://www.youtube.com/watch?v=-imwG5MP2aw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-imwG5MP2aw)

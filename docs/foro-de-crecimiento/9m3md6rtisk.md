@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Experto #1 en sueño: las causas reales del insomnio y cómo solucionarlo |
   Eduard Estivill"
-nav_order: 31
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa entrevista, el experto en sueño Edward Stevil, con más
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Finalmente, destaca que todos los órganos del cuerpo se benefician de un buen d
 |  25 | Dormimos un tercio de la vida para estar despiertos los otros dos tercios.                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9m3Md6RtIsk/hqdefault.jpg)](https://www.youtube.com/watch?v=9m3Md6RtIsk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9m3Md6RtIsk)

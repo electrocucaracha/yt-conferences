@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   A Journey To Modernizing a Regulated Cloud Control Plane - Pranita Praveen
   & Steven Borrelli
-nav_order: 7
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=TELnK0PrKHU
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ McQuaryy aims to continue improving the control plane with features like composi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TELnK0PrKHU/hqdefault.jpg)](https://www.youtube.com/watch?v=TELnK0PrKHU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TELnK0PrKHU)

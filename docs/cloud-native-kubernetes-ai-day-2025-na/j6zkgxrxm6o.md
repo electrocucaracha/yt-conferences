@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Fit-to-Serve: How a New DRA Capability for Dynamic Device... Sunyanan Choochotkaew
   & Tatsuhiro Chiba"
-nav_order: 4
-parent: Cloud Native Kubernetes Ai Day 2025 Na
 type: Video Note
 description:
   The presentation discusses optimizing distributed AI model inference
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The talk concludes by encouraging feedback and further exploration of these feat
 |  15 | Demo shows DRA allocating GPU resources to small, medium, and large models based on defined capa                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/j6zkGxrxm6o/hqdefault.jpg)](https://www.youtube.com/watch?v=j6zkGxrxm6o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=j6zkGxrxm6o)

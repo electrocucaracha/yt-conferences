@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: AI Enabled Observability Explainers - We Actually Did Something With
   AI! - Vijay Samuel"
-nav_order: 139
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Vijay Samuel, a principal MTS architect at eBay, discusses AI-enabled
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ These explainers are designed to be modular and can be combined to create more c
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/j0AqGpC_pp4/hqdefault.jpg)](https://www.youtube.com/watch?v=j0AqGpC_pp4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=j0AqGpC_pp4)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Share With Care: Efficient Device Sharing With Guaranteed... Sunyanan Choochotkaew
   & John Belamaric"
-nav_order: 278
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   John Bellame and Syan introduce a new alpha feature in Kubernetes called
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ A live demo illustrates how these features work in practice, and the presenters 
 |  18 | Scheduler handles accounting of                                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/L1NRskjrvDo/hqdefault.jpg)](https://www.youtube.com/watch?v=L1NRskjrvDo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=L1NRskjrvDo)

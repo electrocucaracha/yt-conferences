@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Effortless User Onboarding with MCP with Pedro Rodrigues - SingleStore"
-nav_order: 24
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Pedro, a software engineer at Single Store (formerly MemSQL), discusses
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Future plans include making documentation more LLM-friendly, expanding resource 
 |  16 | Lessons learned: define concrete use cases for onboarding, adapt documentation for LLMs (convert HTML to Markdown), and run MCP server remotely for better analytics and |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OjglGeBvDBs/hqdefault.jpg)](https://www.youtube.com/watch?v=OjglGeBvDBs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OjglGeBvDBs)

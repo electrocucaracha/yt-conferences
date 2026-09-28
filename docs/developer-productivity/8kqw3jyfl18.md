@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Developer Productivity with Spotify Backstage in 5 Minutes • Lee Mills • GOTO
   2023
-nav_order: 29
-parent: Developer Productivity
 type: Video Note
 description:
   As a software engineering manager at Spotify, Lee explains the purpose
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ It's an extensible platform with experts owning plugins and tools, offering feat
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8kqw3JYFL18/hqdefault.jpg)](https://www.youtube.com/watch?v=8kqw3JYFL18)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8kqw3JYFL18)

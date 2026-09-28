@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Essential Resources for gRPC Development - Jung-Yu
   (Gina) Yeh, Maintainer"
-nav_order: 234
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Gina Y, a JRPC maintainer, shares essential resources for JRPC development,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ To facilitate learning, Gina mentions comprehensive documentation, YouTube chann
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/okapmNodLB0/hqdefault.jpg)](https://www.youtube.com/watch?v=okapmNodLB0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=okapmNodLB0)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Static Tokens to Attestation: The Evoluti... Ciprian H, Jack Francis
   M, Josephine P, & Justin B"
-nav_order: 126
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The panel discusses the ongoing challenges of secure node joining in
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Ultimately, the panel agrees on the need for an open, standardized, and low-effo
 |  22 | Bare metal and low-cost VPS environments present unique challenges due to l                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MIO3tDk0GnI/hqdefault.jpg)](https://www.youtube.com/watch?v=MIO3tDk0GnI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MIO3tDk0GnI)

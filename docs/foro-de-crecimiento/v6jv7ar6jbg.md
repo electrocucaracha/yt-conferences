@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Therapist Reveals the Secret to Starting a Business as a Couple (Without Destroying
   the Relations...
-nav_order: 70
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa entrevista, Chava Gutiérrez, experto en terapia de pareja,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Finalmente, subraya que el éxito en pareja y en los negocios depende de tener o
 |  23 | Rutinas para crecer juntos: compartir tiempo de calidad, evitar pantallas, rituales semanales, cuidar la re                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/v6Jv7Ar6jbg/hqdefault.jpg)](https://www.youtube.com/watch?v=v6Jv7Ar6jbg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=v6Jv7Ar6jbg)

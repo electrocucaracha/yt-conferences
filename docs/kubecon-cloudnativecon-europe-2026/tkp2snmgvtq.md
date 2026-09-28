@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Fourth Pillar Arrives: OpenTelemetry Profiling Alpha in A... Felix Geisendörfer
   & Florian Lehner"
-nav_order: 356
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation introduces the alpha release of OpenTelemetry profiling,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The talk concludes with a discussion of ongoing and future work, including broad
 |  18 | Community contributions and feedback are encouraged; blog post and documentation available.                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TKp2snmgvtQ/hqdefault.jpg)](https://www.youtube.com/watch?v=TKp2snmgvtQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TKp2snmgvtQ)

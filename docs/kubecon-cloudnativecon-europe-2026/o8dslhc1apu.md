@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: What's New And Exciting In Kagent? - Peter Jausovec,
   Maintainer"
-nav_order: 297
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Peter, a maintainer from Solo, introduces K agent, an open-source framework
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Peter invites viewers to try K agent, join the community, and attend their upcom
 |  24 | Upcoming talk at Contrifest, G107, 2:30 p.m.                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/O8DslhC1ApU/hqdefault.jpg)](https://www.youtube.com/watch?v=O8DslhC1ApU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=O8DslhC1ApU)

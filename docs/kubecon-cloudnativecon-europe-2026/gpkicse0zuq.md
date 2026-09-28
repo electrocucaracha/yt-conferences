@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Sponsored Keynote: Universal Mesh: Connect and Secure Everything - Baptiste
   Assmann"
-nav_order: 345
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses the challenges of managing evolving IT infrastructures
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The universal mesh leverages existing components and widely adopted technologies
 |  16 | Using widely adopted protocols and technologies enables scalability and sustained company growth.           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gPkiCse0ZUQ/hqdefault.jpg)](https://www.youtube.com/watch?v=gPkiCse0ZUQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gPkiCse0ZUQ)

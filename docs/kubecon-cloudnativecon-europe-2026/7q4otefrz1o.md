@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Sovereign Identities for Your Cloud Native Architecture... Alexander Schwartz
   & Sebastian Łaskawiec
-nav_order: 338
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk at KubeCon, Alexander Schwarz and Sebastian Wascavis discuss
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The session concludes with a Q&A covering advanced configurations, multi-cluster
 |  21 | Keycloak 26.6 release: full support for JWT authorization grant, federated client authentication, workflows, organization groups, rolling                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7q4oTEfrz1o/hqdefault.jpg)](https://www.youtube.com/watch?v=7q4oTEfrz1o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7q4oTEfrz1o)

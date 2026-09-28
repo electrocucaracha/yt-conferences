@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "When DNS Blinks: Scaling and Hardening CoreDNS in Critical Cloud Infra...
   Yong Tang & John Belamaric"
-nav_order: 400
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Yan Tang and John Palmer from Google discuss the evolution
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concludes with a discussion on managing multi-tenant environments, r
 |  17 | Be aware of cloud provider limits on packets per                                                                                                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/9UIPskZ07dY/hqdefault.jpg)](https://www.youtube.com/watch?v=9UIPskZ07dY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9UIPskZ07dY)

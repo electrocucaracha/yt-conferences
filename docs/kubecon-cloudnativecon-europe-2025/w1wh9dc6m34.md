@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   A Practical Guide To Kubernetes Policy as Code - Jim Bugwadia, Rita Zhang,
   Andy Suderman & Joe Betz
-nav_order: 10
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Kubernetes policy as code guide focuses on using code to manage and
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ The tools are designed to work together to provide a comprehensive policy as cod
 |   8 | Kivero is a project that aims to simplify policy management for Kubernetes, making it available to non-Kubernetes environments and providing standard lifecycle management wherever possible.                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/w1wh9dc6m34/hqdefault.jpg)](https://www.youtube.com/watch?v=w1wh9dc6m34)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=w1wh9dc6m34)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "El experto que está ayudando a cientos de empresas a crecer en 2026 | Rafa
   Rojas #45"
-nav_order: 20
-parent: Foro De Crecimiento
 type: Video Note
 description:
   "En este video se aborda por qué el 68% de los emprendimientos en México
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ A través de un ejemplo práctico, se explica cómo aplicar estos ejes en un neg
 |  15 | Disfrutar los logros y aprender de los fracasos es parte del camino emprendedor.                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Ca5Wk63G4Pk/hqdefault.jpg)](https://www.youtube.com/watch?v=Ca5Wk63G4Pk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ca5Wk63G4Pk)

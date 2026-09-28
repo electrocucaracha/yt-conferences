@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Day 1 - KubeCon + CloudNativeCon 2025 Europe Highlights from London
-nav_order: 65
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The CubeCon Cloud Native Con 2025 keynotes kicked off, highlighting 10
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ This certification program provided a clear path for learning, enabling individu
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pWBbX6pOyPg/hqdefault.jpg)](https://www.youtube.com/watch?v=pWBbX6pOyPg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pWBbX6pOyPg)

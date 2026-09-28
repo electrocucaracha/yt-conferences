@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Fluent Bit V5 - Eduardo Silva, Maintainer"
-nav_order: 262
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Eduardo Silva introduces himself and the Fluent Bit project, explaining
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Performance benchmarks show Fluent Bit V5 outperforms previous versions and othe
 |  19 | Invitation to visit the Fluent Bit kiosk, chat with maintainers, get t-shirts, and attend extra presentations.                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BwpXIkXOLOU/hqdefault.jpg)](https://www.youtube.com/watch?v=BwpXIkXOLOU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BwpXIkXOLOU)

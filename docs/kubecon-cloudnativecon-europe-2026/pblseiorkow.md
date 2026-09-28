@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: 10 Years of Building Platforms in the Public Sector - Hans
   Kristian Flaatten"
-nav_order: 203
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Hans Christian from the Norwegian Labor and Welfare Administration (NAV)
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ While operational maturity improved, measurement of platform success remained a 
 |  15 | Announcement of a Kubernetes-based conference in Norway seeking speakers.                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pBlSeiorkow/hqdefault.jpg)](https://www.youtube.com/watch?v=pBlSeiorkow)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pBlSeiorkow)

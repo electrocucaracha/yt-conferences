@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Mastering the Linux Command Line • Bert Jan Schrijver • GOTO 2019
-nav_order: 87
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, Rachel, discusses her experiences with Linux and shares
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Additionally, she demonstrates how to create shell scripts, use functions, and t
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qmh7Uppd3x0/hqdefault.jpg)](https://www.youtube.com/watch?v=qmh7Uppd3x0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qmh7Uppd3x0)

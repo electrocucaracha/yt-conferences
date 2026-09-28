@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Putting the Single Back in Single Sign-On: Cross-App Access for MCP - Paul
   Carleton & Max Gerber"
-nav_order: 75
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this presentation, Paul Carlton and Max Gerber discuss the challenges
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The talk concludes by emphasizing that XAA reduces friction, enhances security a
 |  18 | Progressive adoption improves the experience as more servers support XAA. Ratings (1-5): 4                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HRrzzORvy84/hqdefault.jpg)](https://www.youtube.com/watch?v=HRrzzORvy84)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HRrzzORvy84)

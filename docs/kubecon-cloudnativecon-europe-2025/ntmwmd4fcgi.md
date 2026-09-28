@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Unleashing the Power of Init Containers: Reducing Database Management To...
   Muhammad Junaid Muzammil"
-nav_order: 357
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   "Muhammad, a tech lead in Yelp's database reliability engineering group,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ This approach enabled seamless upgrades and automated restore processes, showcas
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nTmwmd4fcGI/hqdefault.jpg)](https://www.youtube.com/watch?v=nTmwmd4fcGI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nTmwmd4fcGI)

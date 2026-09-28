@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Evicted! All the Ways Kubernetes Kills Your Pods (and How To Avoid Them) -
   Ahmet Alp Balkan
-nav_order: 70
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this CubeCon presentation, Amad Al Palkin, who leads Kubernetes infrastructure
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The talk concludes with practical advice on disaster recovery drills, adjusting 
 |  23 | Recommendations: adjust eviction thresholds, perform disaster rec                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jVwXcuNEDYE/hqdefault.jpg)](https://www.youtube.com/watch?v=jVwXcuNEDYE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jVwXcuNEDYE)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Thousands of Virtual Kubelets: 1-to-1 Mapping a Supercomputer To Kubernetes
   With... Dennis Marttinen"
-nav_order: 344
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Deness, a security and cloud computing master student, discussed bridging
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ The goal is to unite the communities from both HPC and cloud ecosystems, making 
 |  10 | A sbatch wrapper could create job sets that can be scheduled by Q, allowing users to integrate their AI training and inference backends with HPC ecosystems.           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QbR908kgk1Y/hqdefault.jpg)](https://www.youtube.com/watch?v=QbR908kgk1Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QbR908kgk1Y)

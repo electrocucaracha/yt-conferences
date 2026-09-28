@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Optimizing Metrics Collection & Serving When Autoscaling LLM Workloads - Vincent
   Hou & Jiří Kremser
-nav_order: 213
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Vincent Ho, discusses the challenges of autoscaling large
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ The speaker also discusses the importance of data locality and the use of machin
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lefjb4Vnd8k/hqdefault.jpg)](https://www.youtube.com/watch?v=lefjb4Vnd8k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lefjb4Vnd8k)

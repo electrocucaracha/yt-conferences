@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Leveling up with Radius: Custom Resources and Headlamp Integration for R...
   Nuno Guedes & Will Tsai"
-nav_order: 202
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Will, a principal product manager at Microsoft Azure’s open source incubations
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The team also integrates Radius with familiar tools like Headlamp for day-two op
 |  15 | Radius acts as                                                                                                                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MTFkMRngf3M/hqdefault.jpg)](https://www.youtube.com/watch?v=MTFkMRngf3M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MTFkMRngf3M)

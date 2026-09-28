@@ -1,8 +1,5 @@
 ---
-layout: default
 title: 10 keys to designing your life and creating abundance | Sergio Fernández
-nav_order: 2
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Sergio Fernández, experto en desarrollo personal
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Finalmente, resalta el poder de la trascendencia, entendida como poner los propi
 |  21 | Las relaciones, fa                                                                                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/IRXK0FbtT4U/hqdefault.jpg)](https://www.youtube.com/watch?v=IRXK0FbtT4U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IRXK0FbtT4U)

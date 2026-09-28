@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Smart Routing at Scale: How Spotify’s XDS Control Plane Cut 75%... Yannick
   Epstein & Anya Hristova"
-nav_order: 334
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this CubeCon presentation, Ana Christoa and Yanikai from Spotify describe
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The result was a significant reduction in cross-zone traffic and costs, with the
 |  18 | The improved algorithm is now widely deployed at Spotify, providing ro                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oFdW1yAoaHc/hqdefault.jpg)](https://www.youtube.com/watch?v=oFdW1yAoaHc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oFdW1yAoaHc)

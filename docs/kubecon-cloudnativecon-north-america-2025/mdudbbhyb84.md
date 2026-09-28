@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Pull To Predict: Accelerating AI Model Deployment on Kubernetes - Lucas
   Duarte & Tiago Reichert"
-nav_order: 87
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=MdudBbHyb84
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ The duo presented various techniques, including using multi-stage builds, Sochi 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/MdudBbHyb84/hqdefault.jpg)](https://www.youtube.com/watch?v=MdudBbHyb84)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MdudBbHyb84)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "My MCP Server Code Works, but the Agent Fails: The Case for MCP-specify...
   Calum Murray & Wesley Chun"
-nav_order: 67
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk, Wesley and Callum introduce MCP Checker, an open-source
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ The session concludes with an invitation for feedback and collaboration, highlig
 |  14 | MCP checker caught dangerous behaviors, such as agents deleting resources after failed updates, which would be missed by only checking fin                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/r_otBm1fZmM/hqdefault.jpg)](https://www.youtube.com/watch?v=r_otBm1fZmM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r_otBm1fZmM)

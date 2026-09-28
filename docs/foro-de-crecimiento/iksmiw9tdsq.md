@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Lessons on self-love that no one taught you | Consuelo Hernández
-nav_order: 55
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Consuelo Hernández, experta en desarrollo humano,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ Finalmente, comparte su sueño de que la humanidad experimente un momento de amo
 |  27 | El sueño de                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iKsMIw9tDsQ/hqdefault.jpg)](https://www.youtube.com/watch?v=iKsMIw9tDsQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iKsMIw9tDsQ)

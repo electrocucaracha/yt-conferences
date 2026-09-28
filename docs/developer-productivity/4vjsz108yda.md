@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Developer Productivity at a Developer Productivity Startup • Robert-Jan Huijsman
   • GOTO 2025
-nav_order: 28
-parent: Developer Productivity
 type: Video Note
 description: Of course! Please provide the video transcript you would like summarized.
 resource: https://www.youtube.com/watch?v=4vjSz108YdA
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -29,5 +26,7 @@ Please provide the video transcript you would like summarized.
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4vjSz108YdA/hqdefault.jpg)](https://www.youtube.com/watch?v=4vjSz108YdA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4vjSz108YdA)

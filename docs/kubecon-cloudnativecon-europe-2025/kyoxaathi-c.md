@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Dashboards & Dragons: Crafting SLOs To Tame the AI Platform Cha... Alexa Griffith
   & Ankita Chaudhari"
-nav_order: 61
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Alexa Griffith and Ankita from Bloomberg discuss the challenges of managing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ They stress the importance of correlating logs and traces, setting smart achieva
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/KyoxaAtHi-c/hqdefault.jpg)](https://www.youtube.com/watch?v=KyoxaAtHi-c)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KyoxaAtHi-c)

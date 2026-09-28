@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Motivate an Underperforming Direct Report in 1 Conversation | Leadership
   Training
-nav_order: 28
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard addresses the challenge of helping a younger
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Doug emphasizes that using influence and aligning feedback with an employee’s 
 |  21 | Present feedback in terms of what the employee wants, then connect it to organizational needs.                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/z6fhcABl1CQ/hqdefault.jpg)](https://www.youtube.com/watch?v=z6fhcABl1CQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=z6fhcABl1CQ)

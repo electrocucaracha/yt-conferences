@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Cloud Native University: A Simple and Practical Guide
   to Obser... Diana Todea"
-nav_order: 43
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker, an OpenTelemetry contributor and cloud native community
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ They advocate for structured logging, early instrumentation, and thoughtful aler
 |  27 | Ideas include classifying metrics by user level (beginner, intermedi                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nNDNw84Uuqg/hqdefault.jpg)](https://www.youtube.com/watch?v=nNDNw84Uuqg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nNDNw84Uuqg)

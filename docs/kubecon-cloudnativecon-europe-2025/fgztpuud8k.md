@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Dapr + Score: Mixing the Perfect Cocktail for an Enhanced Develop... Mathieu
   Benoit & Kendall Roden"
-nav_order: 59
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Kendall Rhoden, a product manager at Diagrid, introduces Dapper and Score,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The combination of Dapper and Score enables developers to focus on writing code 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-fGztPUuD8k/hqdefault.jpg)](https://www.youtube.com/watch?v=-fGztPUuD8k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-fGztPUuD8k)

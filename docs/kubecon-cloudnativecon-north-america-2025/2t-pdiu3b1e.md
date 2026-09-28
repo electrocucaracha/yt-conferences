@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Harmonizing Strategy and Engineering: Lessons Learnt in Building. S. Chandrasekaran
   & K. Klymkovska"
-nav_order: 94
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Shri and Kate, senior product manager and engineer at Spotify respectively,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ They learned that building a successful product requires intentional alignment b
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2t_Pdiu3B1E/hqdefault.jpg)](https://www.youtube.com/watch?v=2t_Pdiu3B1E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2t_Pdiu3B1E)

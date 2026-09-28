@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Breaking the Bad Leadership Cycle in Engineering and Tech
-nav_order: 10
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a former director of engineering, discusses
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ This cycle results in high turnover, burnout, stifled innovation, and financial 
 |  17 | The speaker advocates for leadership training tailored to engineers to break the bad leadership cycle.                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_JCEJlCrYp0/hqdefault.jpg)](https://www.youtube.com/watch?v=_JCEJlCrYp0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_JCEJlCrYp0)

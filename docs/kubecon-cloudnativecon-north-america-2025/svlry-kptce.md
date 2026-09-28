@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Your Kubernetes Playbook at Your Fingertips: Advanced Troubleshooti... David
   vonThenen & Yash Sharma"
-nav_order: 345
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speakers introduced a session focused on integrating AI with Kubernetes
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ During the Q&A, they addressed extending the approach to broader documentation, 
 |  16 | Q&A covers: combining MCP, KGPT, and RAG for self-service portals; differences between RAG and direct Markdown reference; LLM performance/latency; human-in-the-loop for remediation; and rationale for using embeddings over large context windows. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SVLrY-KpTcE/hqdefault.jpg)](https://www.youtube.com/watch?v=SVLrY-KpTcE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SVLrY-KpTcE)

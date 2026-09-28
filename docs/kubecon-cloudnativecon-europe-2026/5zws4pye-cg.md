@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Build Your Cloud Native Balance Sheet - Danielle Cook, Akamai & Simon
   Forster, Stackegy
-nav_order: 148
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Simon Forester and Danielle Cook discuss the concept
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ They encourage attendees to start simple balance sheet reviews involving finance
 |  19 | Invitation to join the Carter Graphos working group for ongoing collaboration                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/5ZwS4PYe-Cg/hqdefault.jpg)](https://www.youtube.com/watch?v=5ZwS4PYe-Cg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5ZwS4PYe-Cg)

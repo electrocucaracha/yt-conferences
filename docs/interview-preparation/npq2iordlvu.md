@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How To Learn So Fast It’s Almost Unfair
-nav_order: 9
-parent: Interview Preparation
 type: Video Note
 description:
   Learning how to learn faster than others. The key to success lies in
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ By applying these techniques, individuals can break out of the ordinary and achi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/npQ2IORdlvU/hqdefault.jpg)](https://www.youtube.com/watch?v=npQ2IORdlvU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=npQ2IORdlvU)

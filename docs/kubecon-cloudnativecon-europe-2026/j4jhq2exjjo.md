@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Translating Ebpf Into Business Value: Lessons From
   The Cili... Bill Mulligan"
-nav_order: 292
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker reflects on their long experience with CubeCon and the evolution
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The speaker stresses that the true goal of open source projects is not just wide
 |  22 | The approach demonstrates connecting user needs to business outcomes.                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/J4jHq2ExjJo/hqdefault.jpg)](https://www.youtube.com/watch?v=J4jHq2ExjJo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=J4jHq2ExjJo)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Using eBPF for Non-invasive, Performant, Instant Network Monitoring - Mario
   Macías & Marc Tudurí
-nav_order: 360
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Mark Tudori and Mario Matias from Graphana Labs presented on using EVPF
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ By leveraging EVPF, Graphana Labs aims to provide a comprehensive platform for n
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HV3Nb_wUro4/hqdefault.jpg)](https://www.youtube.com/watch?v=HV3Nb_wUro4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HV3Nb_wUro4)

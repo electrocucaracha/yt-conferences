@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "10 Years of Cilium: Connecting, Securing, and Simplifying the... Bill M, Paul
   A, Marcelo M & Neha A"
-nav_order: 2
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The session marked the 10th anniversary of Cilium, a CNI project that
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The session concluded with community updates, new resources, and an invitation f
 |  16 | Invitation to join the community, attend meetings, and contribute.                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/EN_77SkK5jg/hqdefault.jpg)](https://www.youtube.com/watch?v=EN_77SkK5jg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EN_77SkK5jg)

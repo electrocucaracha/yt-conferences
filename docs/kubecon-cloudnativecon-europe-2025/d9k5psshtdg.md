@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Extending Kubernetes for AI | Lessons Learned From Platform... - Susan, Lucy,
   Andrea, Etienne, Tim
-nav_order: 93
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The panel discussion focuses on extending Kubernetes for AI workloads,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ They share their strategies for making compute choices, including using speciali
 |   7 | The panelists discuss compute choices, including using specialized compute like GPUs and TPUs, and collocation to improve resource overcommitting.                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/d9K5PSsHtDg/hqdefault.jpg)](https://www.youtube.com/watch?v=d9K5PSsHtDg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=d9K5PSsHtDg)

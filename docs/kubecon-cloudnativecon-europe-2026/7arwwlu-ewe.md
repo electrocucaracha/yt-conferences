@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Right-sized Access Control & Pull with Proof - Stanislav Láznička & Lucas Käldström
-nav_order: 310
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Stlaznichka and Lucas Chastra discuss recent enhancements
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ This unified approach aims to make Kubernetes authorization more flexible and ex
 |  19 | Unified policy model using conditions (expressed in CEL, Cedar, OPA, etc.) for mor                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7aRWwlU_ewE/hqdefault.jpg)](https://www.youtube.com/watch?v=7aRWwlU_ewE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7aRWwlU_ewE)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "We Deleted Our Observability Stack and Rebuilt It With OTEL: 12 Engine...
   Yash Sharma & Kunju Perath"
-nav_order: 393
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Yash and Kunju from DigitalOcean discuss the evolution
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -63,5 +60,7 @@ The team emphasized the importance of understanding new telemetry formats, monit
 |  27 | Presentation handled via Grafana dashboards; O                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Z0oum6Eh1is/hqdefault.jpg)](https://www.youtube.com/watch?v=Z0oum6Eh1is)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Z0oum6Eh1is)

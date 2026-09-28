@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Optimizing Error Recovery for Cost-Ef... Radostin Stoyanov, Andrey Velichkevich
   & Viktória Spišáková
-nav_order: 237
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation discusses research on optimizing error recovery for
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The team demonstrates how their approach allows for suspending and resuming dist
 |  19 | Checkpoints saved as archives, convert                                                                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/pvonHzx-z0o/hqdefault.jpg)](https://www.youtube.com/watch?v=pvonHzx-z0o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pvonHzx-z0o)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Don't Write Controllers Like Charlie Don't Does: Avoiding Common Kubernetes
   Controller... Nick Young"
-nav_order: 76
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=tnSraS9JqZ8
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ Nick also recommends using frameworks like Controller Runtime to simplify the pr
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tnSraS9JqZ8/hqdefault.jpg)](https://www.youtube.com/watch?v=tnSraS9JqZ8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tnSraS9JqZ8)

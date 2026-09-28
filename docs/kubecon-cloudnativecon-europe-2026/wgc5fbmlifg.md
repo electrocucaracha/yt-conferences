@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: KRafting the Cloud: Building a Free, Open, and Accessible
   Cloud - Alex Bissessur"
-nav_order: 208
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Alex discusses the challenges of cloud infrastructure in Mauritius, where
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The project is available on GitHub and aims to empower others to deploy similar 
 |  19 | Project available on GitHub and craftcloud.dev                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wgc5fBmlIFg/hqdefault.jpg)](https://www.youtube.com/watch?v=wgc5fBmlIFg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wgc5fBmlIFg)

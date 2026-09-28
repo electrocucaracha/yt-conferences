@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Building AI/ML Pipelines on Kubernetes - Susan Wu, Ian Chakares, Lu Qiu, Anant
   Vyas & Lucy Sweet
-nav_order: 29
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The panel discussion, led by Susan Wu and featuring experts from Google,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Overall, the session emphasized Kubernetes’ rapid adaptation to AI/ML needs an
 |  14 | Networking challenges for agents include authentication, authorization, observability, and managing state and logging                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jnCZ1T4nPLE/hqdefault.jpg)](https://www.youtube.com/watch?v=jnCZ1T4nPLE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jnCZ1T4nPLE)

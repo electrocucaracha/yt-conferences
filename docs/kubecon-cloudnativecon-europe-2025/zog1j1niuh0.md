@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From Chaos To Control: Migrating Access Control... Jo Guerreiro & Poovamraj
   Thanganadar Thiagarajan"
-nav_order: 102
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Graphana team, led by Joe, shared their experience migrating to Open
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The Graphana DSkit toolkit enabled packaging and deployment of the authorization
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZOG1J1Niuh0/hqdefault.jpg)](https://www.youtube.com/watch?v=ZOG1J1Niuh0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZOG1J1Niuh0)

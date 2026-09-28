@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Cloud Native Communities in Action: How Japan Shaped Its Path To KubeCon"
-nav_order: 45
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Japanese community has made significant progress in adopting cloud-native
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ With support from organizations like CNCF and Linux Foundation, CNCJ is poised t
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wb8K3RV6Sbw/hqdefault.jpg)](https://www.youtube.com/watch?v=wb8K3RV6Sbw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wb8K3RV6Sbw)

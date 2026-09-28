@@ -1,8 +1,5 @@
 ---
-layout: default
-title: Home
-nav_order: 1
-okf_version: "0.2"
+okf_version: "v0.2"
 ---
 
 # Conference Knowledge Collections

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Are You Feeling Stuck in Your Career? Escape Your Comfort Zone Part 1 of 2
-nav_order: 9
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and career
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Howard concludes by promising practical strategies for stepping outside the comf
 |  19 | Practical exercises to leave the comfort zone will be provided in part two o                                                                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RlX50BuiX3A/hqdefault.jpg)](https://www.youtube.com/watch?v=RlX50BuiX3A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RlX50BuiX3A)

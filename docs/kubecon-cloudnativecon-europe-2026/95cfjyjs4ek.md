@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Virtual Power Plants (VPP): How They Work and What They Are - LeRenzo Malcom
   & Mario Flores, Enpal"
-nav_order: 386
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this KubeCon presentation, Lorenzo and Mario from Enpal explain the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The presenters also discuss regulatory, technical, and market considerations, an
 |  18 | Security: IoT devices authenticate via EMQX with username/password; future improvements                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/95cFjYJS4ek/hqdefault.jpg)](https://www.youtube.com/watch?v=95cFjYJS4ek)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=95cFjYJS4ek)

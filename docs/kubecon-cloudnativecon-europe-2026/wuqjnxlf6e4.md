@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Finally Incubated! What Comes Next For Metal3?- Ádám
   Rozmán, Maintainer"
-nav_order: 260
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Adam Rosman presents an update on the Metal Cubed project, which aims
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ The project continues to grow, maintaining regular community meetings and engage
 |  25 | More information is available via the provided QR code and at the P21B kiosk.                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wuQJNxLF6E4/hqdefault.jpg)](https://www.youtube.com/watch?v=wuQJNxLF6E4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wuQJNxLF6E4)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How I Moved from Manager to Director Without Even Asking for the Promotion
-nav_order: 16
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard shares his personal experience of advancing
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ He concludes by highlighting a simple three-step framework for influencing decis
 |  19 | Key takeaways: focus on the true decision-maker, build relationships through appreciation, influence through incremental asks, and demonstrate readiness for the next role. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/XGQgvd9Y5Zk/hqdefault.jpg)](https://www.youtube.com/watch?v=XGQgvd9Y5Zk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XGQgvd9Y5Zk)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Inference Awakens: Tools for the Age of GenAI - Alexa Griffith, Bloomberg
   & Erica Hughberg, Tetrate"
-nav_order: 103
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The transcript features a lively, cinematic-themed discussion about the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -49,5 +46,7 @@ The talk encourages collaboration within the open-source community, inviting par
 |  15 | Contact information and hiring opportunities at Bloomberg and Tetrate were shared, with encouragement to join the open-source alliance.                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nlTk5q3MPZ4/hqdefault.jpg)](https://www.youtube.com/watch?v=nlTk5q3MPZ4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nlTk5q3MPZ4)

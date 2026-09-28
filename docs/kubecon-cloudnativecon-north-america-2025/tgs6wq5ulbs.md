@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Return of the Mesh: Gateway API's Epic Quest for Unity - Henrik Rexed, Dynatrace"
-nav_order: 260
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker, Henrik Cruxed, introduces a comparative analysis of service
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The speaker concludes that combining Ambient with KGateway provides a strong bal
 |  21 | Observability: all solutions support OpenTelemetry; Kuma and Istio/Ambient have smoother integration                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tgs6Wq5UlBs/hqdefault.jpg)](https://www.youtube.com/watch?v=tgs6Wq5UlBs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tgs6Wq5UlBs)

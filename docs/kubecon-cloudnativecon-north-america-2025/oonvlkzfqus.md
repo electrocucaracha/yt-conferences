@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Community Capital: Making OSS and Businesses Successful Together - Liz Rice,
   Isovalent at Cisco"
-nav_order: 41
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Liz, an engineer at ISVent and long-time CNCF participant, discusses
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Ultimately, Liz argues that aligning the interests of vendors, maintainers, and 
 |  23 | Maintainers are not obliged to accept contributions or do work for others                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/OoNvlkZFQUs/hqdefault.jpg)](https://www.youtube.com/watch?v=OoNvlkZFQUs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OoNvlkZFQUs)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | EnvoyCon: The Next Generation of Envoy Extensibility:
   Dynami... Rohit Agrawal"
-nav_order: 63
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Rohit Agarval, a software engineer at Databricks and Envoy maintainer,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ In the Q&A, Rohit addresses language preferences, future contribution models, an
 |  19 | Possible shift from C++ extensions to dynamic modules for                                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ScMu2-ILhvg/hqdefault.jpg)](https://www.youtube.com/watch?v=ScMu2-ILhvg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ScMu2-ILhvg)

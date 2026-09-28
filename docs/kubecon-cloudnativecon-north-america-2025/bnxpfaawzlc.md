@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: Maximum Acceleration: Cloud Native at the Speed of AI - Joseph Sandoval,
   Adobe"
-nav_order: 125
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker reflects on the evolution of the cloud-native community,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ They stress that the community's alignment, curiosity, and momentum are key to a
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BnXPfaAwzlc/hqdefault.jpg)](https://www.youtube.com/watch?v=BnXPfaAwzlc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BnXPfaAwzlc)

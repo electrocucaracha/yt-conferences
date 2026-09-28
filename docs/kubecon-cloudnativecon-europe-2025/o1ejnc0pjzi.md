@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Solving Real-World Edge Challenges With K0s, NATS, and Raspberry
   Pi Clu... P. Ramhit"
-nav_order: 185
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Prashant, senior DevOps at Morantis, presented a real-world case study
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ They leveraged Mirantis' open-source project KS (Kubernetes Single Binary) for s
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/O1EJnC0pjZI/hqdefault.jpg)](https://www.youtube.com/watch?v=O1EJnC0pjZI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=O1EJnC0pjZI)

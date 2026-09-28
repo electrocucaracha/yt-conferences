@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Final Boss Fights - What Zynga Monitors When Game Teams Per... Molly S, Krunal
   S, Steve P & Justin S
-nav_order: 76
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Zinga team from Take Two Interactive discussed their approach to
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -37,5 +34,7 @@ The team's favorite aspect of KubeCon was the opportunity to connect with others
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Bjphxuoia3U/hqdefault.jpg)](https://www.youtube.com/watch?v=Bjphxuoia3U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Bjphxuoia3U)

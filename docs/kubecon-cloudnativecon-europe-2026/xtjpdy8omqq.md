@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   An Immersive and Visual Journey Into Kubernetes Networking - Benoit Entzmann,
   Feesh
-nav_order: 20
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker, Benoman, a DevSecOps consultant with extensive networking
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ Throughout, Benoman emphasizes the importance of understanding packet flow and t
 |  26 | Cysto CNI and Z tunnel co                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Xtjpdy8OmQQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Xtjpdy8OmQQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Xtjpdy8OmQQ)

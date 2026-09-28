@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Beyond the Operators: The Full Strimzi Ecosystem for Kafka on... Paolo Patierno
   & Michael Morris"
-nav_order: 27
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session introduces StreamZ, a CNCF incubating project for running
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The presenters emphasize community contributions and encourage engagement with t
 |  18 | All components are open source and available under the Strimzi orga                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mYt9C0YQxDY/hqdefault.jpg)](https://www.youtube.com/watch?v=mYt9C0YQxDY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mYt9C0YQxDY)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How to Convince a Top Performing Employee to Stay After Resigning | Advice
   for Engineering Man
-nav_order: 22
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard shares his experience as an engineering manager
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ This approach emphasizes empathy, mentorship, and maintaining positive relations
 |  13 | Introduced a six-step framework for convincing top performers to stay: 1. Break the tension by celebrating the offer with them. 2. Show appreciation for their work with specific examples. 3. Ask questions about the new opportunity as a mentor. 4. Give them something to reconsider based on their goals and the new role. 5. Ask them to sleep on the decision before involving HR. 6. Accept their decision and maintain a positive relationship regardless of the outcome. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kNDmRP6Zg68/hqdefault.jpg)](https://www.youtube.com/watch?v=kNDmRP6Zg68)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kNDmRP6Zg68)

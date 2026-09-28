@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | EnvoyCon: Zone Aware Routing With Per-Locality Load
   Awareness- Isaac Wilson"
-nav_order: 64
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Isaac from The Trade Desk discusses challenges and solutions related
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Isaac highlights the benefits of dynamic modules for extending Envoy without cus
 |  17 | Migration from HAProxy to Envoy was motivated by the desire for Kubernetes-native load balanc                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZTacKbmGfMI/hqdefault.jpg)](https://www.youtube.com/watch?v=ZTacKbmGfMI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZTacKbmGfMI)

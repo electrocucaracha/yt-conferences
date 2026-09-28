@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Guiding Kubernetes: The Steering Committee's Role in Project Evo... Maciej
   Szulik & Stephen Augustus"
-nav_order: 112
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Kubernetes steering committee is a governing body responsible for
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ These groups work together to ensure the smooth operation of Kubernetes, with a 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZManfhV6DZU/hqdefault.jpg)](https://www.youtube.com/watch?v=ZManfhV6DZU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZManfhV6DZU)

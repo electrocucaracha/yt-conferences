@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Open Source Malware or a Vulnerability?... Brian Fox, Madelein van der Hout
   & Santiago Torres-Arias
-nav_order: 210
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   A panel discussion on software supply chain attacks and vulnerabilities
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The panel highlighted the need for collaboration, information sharing, and the d
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kyLdmGYZ6BQ/hqdefault.jpg)](https://www.youtube.com/watch?v=kyLdmGYZ6BQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kyLdmGYZ6BQ)

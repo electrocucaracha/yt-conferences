@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Maximizing the Launch Reliability: Ensuring Stable Application Lift-off and
   Orbi... Hiroshi Hayakawa"
-nav_order: 167
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Hiroshi, a product owner at LY Corporation’s private cloud division,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The session concludes with a summary of best practices and an invitation for com
 |  20 | The "impress port resize" feature allows changing resource allocations without restarting                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vTmImF_mibY/hqdefault.jpg)](https://www.youtube.com/watch?v=vTmImF_mibY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vTmImF_mibY)

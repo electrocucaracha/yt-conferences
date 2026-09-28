@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Towards Building Safe & Secure Agentic AI - Dawn Song & Matt White
-nav_order: 101
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Matt White, Global CTO of AI at the Linux Foundation, presents on building
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ To address these challenges, White recommends a defense-in-depth approach, inclu
 |  14 | Exploitation capabilities of AI models are rapidly increasing                                                                                                                                                                                                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zRRvijVb4AY/hqdefault.jpg)](https://www.youtube.com/watch?v=zRRvijVb4AY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zRRvijVb4AY)

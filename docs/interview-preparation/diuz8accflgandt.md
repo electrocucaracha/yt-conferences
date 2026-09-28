@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "How to Master Behavioral Interviews \U0001F3A4 — with Austen McDonald"
-nav_order: 14
-parent: Interview Preparation
 type: Video Note
 description:
   Austin McDonald, former hiring committee chair at Meta and author of
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Additionally, recruiters can assess a candidate's experience with AI by evaluati
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dIUZ8AcCfLg/hqdefault.jpg)](https://www.youtube.com/watch?v=dIUZ8AcCfLg&t)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dIUZ8AcCfLg&t)

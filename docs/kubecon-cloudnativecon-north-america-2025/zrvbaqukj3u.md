@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Awards Ceremony"
-nav_order: 117
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Community Awards ceremony recognized outstanding contributions to
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The ceremony celebrated the community's playful nature and the value of individu
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zrvBaqUKJ3U/hqdefault.jpg)](https://www.youtube.com/watch?v=zrvBaqUKJ3U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zrvBaqUKJ3U)

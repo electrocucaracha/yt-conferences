@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "No Joke: Two Security Maintainers Walk Into a Cluster - Jackie Maertens &
   Nilekh Chaudhari"
-nav_order: 177
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Jackie Martins and Nilik, both senior software engineers
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Throughout, they provide demos, share common misconfigurations, and encourage in
 |  23 | Restrict namespace sharing, privilege escalation, Linux capabilities, volume types, hostport access, pr                                                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HwS5UKD8dVM/hqdefault.jpg)](https://www.youtube.com/watch?v=HwS5UKD8dVM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HwS5UKD8dVM)

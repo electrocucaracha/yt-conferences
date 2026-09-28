@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Missing Half of Performance Profiling: Understanding Memory in Cloud Native
   System... Dom Delnano"
-nav_order: 363
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker introduces the topic of memory profiling in cloud-native
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Finally, they emphasize that as AI and cloud architectures evolve to include mor
 |  16 | Allocation sampling and in-use profiling are low overhead and widely support                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rTkrS46meSM/hqdefault.jpg)](https://www.youtube.com/watch?v=rTkrS46meSM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rTkrS46meSM)

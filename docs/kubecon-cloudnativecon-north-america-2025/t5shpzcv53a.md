@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tuning GenAI Workloads on Kubernetes: What Actually Works (and Wha... Ishaan
   Sehgal & Brian Lockwood"
-nav_order: 321
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this presentation, Ean and Brian discuss optimizing generative AI
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The session concludes with a discussion on future developments for Skyhook and t
 |  16 | Future plans for Skyhook include deployment start                                                                                                                                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/t5shPzCV53A/hqdefault.jpg)](https://www.youtube.com/watch?v=t5shPzCV53A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=t5shPzCV53A)

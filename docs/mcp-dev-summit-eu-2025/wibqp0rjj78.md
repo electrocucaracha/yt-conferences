@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Hidden powers of MCP Gateways: Solving OAuth and Analytics Challenges"
-nav_order: 34
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   Philip Mlinsy, co-founder of Glass Cube, shares the story behind building
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ He concludes by discussing future plans for deeper IDP integration, enhanced blo
 |  15 | Future plans include onboarding more users, decoupling from DEX, integrating directly with enterprise I                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wIbQp0rJj78/hqdefault.jpg)](https://www.youtube.com/watch?v=wIbQp0rJj78)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wIbQp0rJj78)

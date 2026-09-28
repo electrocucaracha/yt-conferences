@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: A Curator’s Guide to the CNCF Landscape - Katherine
   Druckman"
-nav_order: 248
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Kathern Duckman welcomes newcomers to the CNCF (Cloud Native
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Finally, she invites participants to connect with her and the broader community 
 |  21 | Encouragement to join the CNCF community a                                                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Fh7s04iwOog/hqdefault.jpg)](https://www.youtube.com/watch?v=Fh7s04iwOog)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Fh7s04iwOog)

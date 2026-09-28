@@ -1,8 +1,5 @@
 ---
-layout: default
 title: How To Gateway With Ingress - 140 Days InGate - Marco Ebert & James Strong
-nav_order: 120
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Ingress Engine X project has been facing several security vulnerabilities,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The maintainers are seeking feedback from the community on which features should
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zTLbnstVjHc/hqdefault.jpg)](https://www.youtube.com/watch?v=zTLbnstVjHc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zTLbnstVjHc)

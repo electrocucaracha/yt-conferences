@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "MCP Traffic Handling at Scale: Stateless Design, Proxies, and the Roa... Erica
   Hughberg & Boteng Yao"
-nav_order: 59
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speakers discuss the continued relevance and challenges of running
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The speakers encourage community involvement, noting that collaboration across c
 |  19 | Envoy is critical infrastructure at Google and widely used across cloud services.                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vmlyP862lB8/hqdefault.jpg)](https://www.youtube.com/watch?v=vmlyP862lB8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vmlyP862lB8)

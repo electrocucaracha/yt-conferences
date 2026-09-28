@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Evolution or Revolution: Istio as the Network Platform for Cloud Nat... Mitch
   Connors & Daniel Grimm"
-nav_order: 105
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this STO maintainer track talk, presenters Mitch Connors and Daniel
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The presenters emphasize the project’s ongoing health, steady contributor enga
 |  19 | East-west gateways are currently the scalable solution for multicluster MTLS.                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4K6s5y8HoBc/hqdefault.jpg)](https://www.youtube.com/watch?v=4K6s5y8HoBc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4K6s5y8HoBc)

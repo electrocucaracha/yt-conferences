@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Orchestrating Your Data Pipelines with Apache Airflow • Ricardo Sueiras • GOTO
   2022
-nav_order: 96
-parent: Developer Productivity
 type: Video Note
 description:
   Ricardo Suarez, a developer advocate at AWS, discusses the problem of
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -38,5 +35,7 @@ The demo showcases creating a simple workflow to retrieve data from the internet
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YPQ65budGnI/hqdefault.jpg)](https://www.youtube.com/watch?v=YPQ65budGnI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YPQ65budGnI)

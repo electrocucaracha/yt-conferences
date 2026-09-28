@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Expert Talk: Scaling Down Complexity in Software • James Lewis & Kevlin Henney
   • GOTO 2022"
-nav_order: 43
-parent: Developer Productivity
 type: Video Note
 description:
   Kevlin Henney is in conversation with James Lewis, technical director
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The conversation touches on topics like fractal dimensions, self-similarity, and
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/miYyinA-Nxc/hqdefault.jpg)](https://www.youtube.com/watch?v=miYyinA-Nxc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=miYyinA-Nxc)

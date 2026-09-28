@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Dolor crónico, masa muscular y los secretos de la longevidad | Alan Abruch
-nav_order: 15
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este episodio, se aborda la importancia fundamental del ejercicio
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Finalmente, se ofrecen ejercicios prácticos de pausas activas para romper el se
 |  18 | Encontrar una ancla emocional o un “por qué” es clave para mantener hábitos saludables a largo plazo.                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/A0zCfoZxthc/hqdefault.jpg)](https://www.youtube.com/watch?v=A0zCfoZxthc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=A0zCfoZxthc)

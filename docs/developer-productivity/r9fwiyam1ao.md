@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "No Return: Beyond Transactions in Code and Life • Avdi Grimm • GOTO 2020"
-nav_order: 95
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker reflects on their journey from learning object-oriented programming
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ They propose adopting a narrative perspective, focusing on direction and becomin
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/R9FwIYAM1ao/hqdefault.jpg)](https://www.youtube.com/watch?v=R9FwIYAM1ao)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=R9FwIYAM1ao)

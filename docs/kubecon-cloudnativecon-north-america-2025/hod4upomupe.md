@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Unleash the Power of Inplace Pod Resource Resizing for Startup and Cost...
   Zhang Zhen & Yuxing Yuan
-nav_order: 332
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   J from Alibaba Cloud, maintainer of the OpenKruise project, introduces
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ He concludes with future plans for integrating AVPA with event-driven autoscalin
 |  17 | JVM tuning guidelines provided for effective in-place re                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Hod4UPoMUPE/hqdefault.jpg)](https://www.youtube.com/watch?v=Hod4UPoMUPE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Hod4UPoMUPE)

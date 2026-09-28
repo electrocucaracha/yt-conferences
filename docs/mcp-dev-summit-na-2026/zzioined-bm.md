@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "OCI Images as MCP Packaging: Supply Chain Security for AI Tools - Juan Antonio
   Osorio, Stacklok"
-nav_order: 68
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The speaker, Juan Antonio (Oz), discusses the importance of using OCI
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ While OCI images are not a complete solution to all security challenges, they pr
 |  23 | Recommendations: run vulnerability scanners, use cosign, validate sources, establish policies, and stay informed.                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zzIoinEd_bM/hqdefault.jpg)](https://www.youtube.com/watch?v=zzIoinEd_bM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zzIoinEd_bM)

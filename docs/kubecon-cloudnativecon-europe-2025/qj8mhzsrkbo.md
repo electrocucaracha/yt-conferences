@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Lightning Talk: Scheduling Success: Precision Updates for Continuous Manufacturing
   Op... J.C. Orozco"
-nav_order: 184
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Juan Rosco, a DevOps manager at Bosch Connected Industry, discussed the
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ To address this issue, Rosco's team implemented a solution using cron jobs, pipe
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QJ8MHzSRkbo/hqdefault.jpg)](https://www.youtube.com/watch?v=QJ8MHzSRkbo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QJ8MHzSRkbo)

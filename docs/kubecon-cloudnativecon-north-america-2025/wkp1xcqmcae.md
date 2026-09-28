@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Introducing Helm 4 - Matt Farina & Robert Sirchia, SUSE
-nav_order: 108
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presenters introduced Helm 4, assuring the audience that existing
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -61,5 +58,7 @@ They encouraged community involvement through contributions, feedback, and parti
 |  28 | Attendees invited to contribute and ask questions.                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/wkP1xCQMCaE/hqdefault.jpg)](https://www.youtube.com/watch?v=wkP1xCQMCaE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wkP1xCQMCaE)

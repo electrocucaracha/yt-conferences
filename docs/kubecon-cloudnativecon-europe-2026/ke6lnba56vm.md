@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Evolving KServe: The Unified Model Inference Platform
   For Both... Yuan Tang"
-nav_order: 259
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Yantan, a senior principal software engineer at Red Hat and project lead
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Yantan encourages community participation through bi-weekly meetings, dedicated 
 |  21 | Maintainer session on Thursday and project booth available Tuesday, Wednesday, and Thursday (mainly mornings, sometimes early afternoon)                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kE6lNBA56vM/hqdefault.jpg)](https://www.youtube.com/watch?v=kE6lNBA56vM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kE6lNBA56vM)

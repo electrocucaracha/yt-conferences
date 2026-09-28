@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Keynote: The Observability Platform Engineering Advantage: From Zero-Code
   to M... Kasper Borg Nissen"
-nav_order: 156
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses the shift towards coalition, standardization, and
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They also showcase Percy's, another CNCF project, which provides an open dashboa
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tSBfDzStoYE/hqdefault.jpg)](https://www.youtube.com/watch?v=tSBfDzStoYE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tSBfDzStoYE)

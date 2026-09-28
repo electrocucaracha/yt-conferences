@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: A Curator’s Guide to the CNCF Landsca... Katherine
   Druckman and Lori Lorusso"
-nav_order: 247
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Lori and her co-host, dressed as famous artists,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The session concludes with an invitation to connect with the presenters for furt
 |  21 | Presenters are available for questions after the session.                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/NP2gGXIRcRw/hqdefault.jpg)](https://www.youtube.com/watch?v=NP2gGXIRcRw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NP2gGXIRcRw)

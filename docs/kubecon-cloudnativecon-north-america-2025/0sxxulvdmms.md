@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Making Kubescape Storage Scale From Small and Mid-Size
   To... Ben Hirschberg"
-nav_order: 229
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Ben, CTO and co-founder of Armo and a maintainer of the CNCF project
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ Ben concludes by inviting attendees interested in Kubernetes security to connect
 |  18 | Invited attendees to visit the project pavilion and connect with the team.                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0SxXulvdMMs/hqdefault.jpg)](https://www.youtube.com/watch?v=0SxXulvdMMs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0SxXulvdMMs)

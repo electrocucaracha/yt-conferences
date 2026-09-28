@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Towards Building an Open Source AI Reference Stack for EU Sov... Madhav Bhargava
   & Sanjay Chatterjee
-nav_order: 375
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this talk, Sanji Chari from Nvidia and Madav Bharu from SAP discuss
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They outline the evolving.
 |   1 | Main points were not provided in the source note. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/WdcIOOyJaDI/hqdefault.jpg)](https://www.youtube.com/watch?v=WdcIOOyJaDI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WdcIOOyJaDI)

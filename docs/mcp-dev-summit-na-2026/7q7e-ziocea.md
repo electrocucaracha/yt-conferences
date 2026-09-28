@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "When MCP Isn’t Enough: Product Decisions Behind Scalable Agent Systems - Cansu
   Berkem, Datadog"
-nav_order: 106
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this session, John Su, Product Director at Datadog, discusses the
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Continuous feedback loops, careful experimentation with new models, and combinin
 |  22 | Key learnings: carefully shape autonomy, use flexible reasoning, surface uncerta Ratings (1-5): 4                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7q7e_zioCEA/hqdefault.jpg)](https://www.youtube.com/watch?v=7q7e_zioCEA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7q7e_zioCEA)

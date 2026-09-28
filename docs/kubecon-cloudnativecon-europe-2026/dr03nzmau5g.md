@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Istio Day: Running State of the Art Inference... Jackie
   Maertens and Nili Guy"
-nav_order: 66
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Nili from IBM and Jackie from Microsoft discuss
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Additionally, they describe innovations such as disaggregating prefill and decod
 |  15 | Both LMD and Istio projects are open source and welcome community contributions.                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/dr03NZmau5g/hqdefault.jpg)](https://www.youtube.com/watch?v=dr03NZmau5g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dr03NZmau5g)

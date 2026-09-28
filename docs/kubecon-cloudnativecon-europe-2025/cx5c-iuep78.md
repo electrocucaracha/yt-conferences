@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Spiderpool Updates For AI Workloads: DRA, NRI, and
   RDMA Obser... Weizhou Lan"
-nav_order: 261
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Wizo L from Dolot discusses the latest updates on the SPAR project, an
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ This implementation allows for future range network scheduling strategies using 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Cx5c-IueP78/hqdefault.jpg)](https://www.youtube.com/watch?v=Cx5c-IueP78)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Cx5c-IueP78)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 11 - Benchmarking
   by Yann Dubois"
-nav_order: 13
-parent: Large Language Models Llms
 type: Video Note
 description:
   In this lecture, Yan, a third-year PhD student, discusses the importance
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ He concludes by urging practitioners to critically examine outputs rather than r
 |  17 | Challenges: consistency issues, contamination/overfitting, monoculture (English foc                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TO0CqzqiArM/hqdefault.jpg)](https://www.youtube.com/watch?v=TO0CqzqiArM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TO0CqzqiArM)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Patch Me If You Can: Tackling Outdated Addons Before They Become... Stevie
   Caldwell & Andy Suderman"
-nav_order: 196
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Stevie Caldwell and Andy from Fairwinds discuss the critical
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ They conclude by encouraging regular research, staged testing, and frequent upgr
 |  20 | Budget constraints limit access to some solutions; the problem remains ongoing.                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/2SoLCWl800w/hqdefault.jpg)](https://www.youtube.com/watch?v=2SoLCWl800w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2SoLCWl800w)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "[Session] Do You Need an AI Gateway with Ignasi Barrera - Tetrate"
-nav_order: 18
-parent: Mcp Dev Summit Eu 2025
 type: Video Note
 description:
   The session discusses the growing need for AI gateways amid the rapid
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ A demonstration shows how using such a gateway can streamline tool selection, re
 |  18 | Demonstration showed configuring agent profiles, limiting tool exposure                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JBeHnvunf2M/hqdefault.jpg)](https://www.youtube.com/watch?v=JBeHnvunf2M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JBeHnvunf2M)

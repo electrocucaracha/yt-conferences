@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Intelligent LLM Routing: A New Paradigm for Multi-Model AI Orchestration...
   Chen Wang & Huamin Chen"
-nav_order: 106
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session introduces an open-source project called VM Semantic Router,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The system is implemented as a Rust core with Go integration, supports CNCF obse
 |  25 | Semantic cache reduces cache miss penalty from 30ms t                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/DIwlL5Z8v1o/hqdefault.jpg)](https://www.youtube.com/watch?v=DIwlL5Z8v1o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DIwlL5Z8v1o)

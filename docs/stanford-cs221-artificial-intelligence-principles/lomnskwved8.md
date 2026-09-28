@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 9: Policy Gradient"
-nav_order: 20
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   The lecture continues the discussion on reinforcement learning (RL),
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ Techniques for variance reduction, such as using baselines, are discussed to imp
 |  24 | REINFORCE algorithm: sample rollouts, weight up                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lOMNskWVeD8/hqdefault.jpg)](https://www.youtube.com/watch?v=lOMNskWVeD8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lOMNskWVeD8)

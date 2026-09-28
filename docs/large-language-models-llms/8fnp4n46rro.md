@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 8 - LLM Evaluation
-nav_order: 8
-parent: Large Language Models Llms
 type: Video Note
 description:
   In this lecture on LLM evaluation, the instructor emphasizes the importance
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ Finally, it surveys benchmark types—knowledge, reasoning, coding, safety, and 
 |  14 | Agentic workflow evaluation: identify failu                                                                                                                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8fNP4N46RRo/hqdefault.jpg)](https://www.youtube.com/watch?v=8fNP4N46RRo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8fNP4N46RRo)

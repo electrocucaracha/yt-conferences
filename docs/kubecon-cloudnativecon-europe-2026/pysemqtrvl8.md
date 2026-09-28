@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Accelerating Thanos at Scale: Faster and Cheaper Queries With Parquet - Giedrius
   Statkevičius"
-nav_order: 13
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker discusses efforts to accelerate Thanos at scale by adopting
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The speaker encourages community contributions and assures that ongoing enhancem
 |  20 | Roadmap: improvements will come via the Parquet Go library; migration to mai                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PySEmqtrvL8/hqdefault.jpg)](https://www.youtube.com/watch?v=PySEmqtrvL8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PySEmqtrvL8)

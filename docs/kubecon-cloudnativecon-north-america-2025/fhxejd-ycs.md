@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Taming Rollout Risks in Distributed Web Apps: A Location-Aware Gradual Deployment...
   Angela Victorio"
-nav_order: 300
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Angela Victoria, a technical lead at JP Morgan Chase and former American
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Angela concludes by addressing questions about rollout timing and visibility, no
 |  20 | Encourages making deployment data visible to developers.                                                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/-fhXEJD-ycs/hqdefault.jpg)](https://www.youtube.com/watch?v=-fhXEJD-ycs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-fhXEJD-ycs)

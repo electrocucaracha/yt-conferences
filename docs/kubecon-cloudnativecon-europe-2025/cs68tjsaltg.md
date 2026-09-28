@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Maturing Bare Metal Provisioning With Metal3 - Ádám
   Rozmán, Maintainer"
-nav_order: 245
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Adam Rosman, a maintainer of the Meta Cube project, discussed the maturity
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The project has also addressed security issues and introduced new features such 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/cs68TjSAlTg/hqdefault.jpg)](https://www.youtube.com/watch?v=cs68TjSAlTg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cs68TjSAlTg)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Instantly Better Presentations • Damian Conway • YOW! 2014
-nav_order: 70
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker emphasizes the importance of effective communication in presentation
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ By applying these strategies, presenters can improve their communication skills,
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JB87qJGSvuk/hqdefault.jpg)](https://www.youtube.com/watch?v=JB87qJGSvuk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JB87qJGSvuk)

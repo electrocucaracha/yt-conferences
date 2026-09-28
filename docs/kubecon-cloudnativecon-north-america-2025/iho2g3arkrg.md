@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Closing Remarks"
-nav_order: 119
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The conference has come to a close, with a special thank you to the speakers,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ The conference will return next year with events planned in Europe, India, Japan
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/IHO2g3arKRg/hqdefault.jpg)](https://www.youtube.com/watch?v=IHO2g3arKRg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IHO2g3arKRg)

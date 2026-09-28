@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Linkerd Update: Gateway API, Client-Specific Policy, Federated Services, Multicluster...
   Alex Leong"
-nav_order: 188
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Linkerd project has made significant progress over the past year,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ With a roadmap focused on further improving performance, security, and usability
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/aYGGnDDGX-Q/hqdefault.jpg)](https://www.youtube.com/watch?v=aYGGnDDGX-Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aYGGnDDGX-Q)

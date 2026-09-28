@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Patterns for Building MCP-powered Agent Systems - Jiquan Ngiam, MintMCP
-nav_order: 72
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   In this talk at the MTB DevSummit, Chanam (JQ) shares his experiences
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -32,5 +29,7 @@ He describes how agents h...
 |   1 | Main points were not provided in the source note. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VKj3Zt8gx0Y/hqdefault.jpg)](https://www.youtube.com/watch?v=VKj3Zt8gx0Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VKj3Zt8gx0Y)

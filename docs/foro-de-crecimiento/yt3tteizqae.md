@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Masculinidad, Feminidad y el Caos de los Roles Modernos | Rodrigo García Platas
-nav_order: 58
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta extensa conversación con Rodrigo García Platas, psicopedagogo
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Finalmente, se abordan las necesidades fundamentales en las relaciones: las muje
 |  18 | La analogía azteca: el hombre es maíz, la mujer frijol; sólo juntos funcionan plenamente.                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YT3TteIZqaE/hqdefault.jpg)](https://www.youtube.com/watch?v=YT3TteIZqaE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YT3TteIZqaE)

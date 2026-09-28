@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Using Buildpacks To Boost Developer Productivity - Joe Kutner, Salesforce &
   Joey Brown, Heroku
-nav_order: 337
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Joey Brown and Joe Cutner discuss how standardizing application
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The speakers emphasize that standardization through buildpacks benefits both pla
 |  22 | Buildpacks reduce the need for developers to manage system-level concerns, lettin                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GeO8qCPlJC8/hqdefault.jpg)](https://www.youtube.com/watch?v=GeO8qCPlJC8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GeO8qCPlJC8)

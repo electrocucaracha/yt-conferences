@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   A Journey To Zero-Downtime Upgrades With Keycloak - Martin Bartoš, Ryan Emerson,
   IBM
-nav_order: 3
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=x3e1wqWTbUs
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -40,5 +37,7 @@ This solution is currently being refined and tested, with plans to improve horiz
 |   9 | There is no standard way to do blue-green deployments with Keycloak clustering, and it's not recommended due to the complexity of the system.              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/x3e1wqWTbUs/hqdefault.jpg)](https://www.youtube.com/watch?v=x3e1wqWTbUs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x3e1wqWTbUs)

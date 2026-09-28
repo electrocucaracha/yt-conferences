@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Anatomy of a Meltdown: A Deep-Dive into MCP via Selective Sabotage - Joey
   Stout, Spacelift"
-nav_order: 90
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   "Joey Stout, a solutions architect at Spacelift, presents an interactive
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The talk concludes with a Q&A, emphasizing that MCP’s effectiveness relies on 
 |  17 | Audience Q&A covered tool availability, open sourcing, and MCP protocol basics.                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/IvemlFwwl0I/hqdefault.jpg)](https://www.youtube.com/watch?v=IvemlFwwl0I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IvemlFwwl0I)

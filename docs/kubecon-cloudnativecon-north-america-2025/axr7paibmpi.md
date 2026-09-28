@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How Comcast Leverages Radius in Their Internal Developer Platform - Nick Beenham
   & Jonathan Smith
-nav_order: 99
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Nick Beam, a distinguished engineer at Comcast, and Jonathan Smith from
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The speakers highlight the value of open-source community engagement, the ease o
 |  17 | Lessons learned: start small,                                                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/axR7paIbmPI/hqdefault.jpg)](https://www.youtube.com/watch?v=axR7paIbmPI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=axR7paIbmPI)

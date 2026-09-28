@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Superpowers for Humans of Kubernetes: How K8sGPT Is Transforming Enter...
   Alex Jones & Anais Urlichs"
-nav_order: 322
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, Alex Jones, introduces Kate's GBT (Generalized Behavioral
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The tool aims to create zero-touch environments, reducing human interaction in c
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/EXtCejkOJB0/hqdefault.jpg)](https://www.youtube.com/watch?v=EXtCejkOJB0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EXtCejkOJB0)

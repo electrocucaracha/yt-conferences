@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Here’s Why You’re Struggling to Advance in Your Engineering Career | You’re
   Missing These Skills!
-nav_order: 14
-parent: Leadership Skills
 type: Video Note
 description:
   Doug Howard, a licensed engineer and manager with 15 years of experience,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Doug concludes by inviting viewers to subscribe for more strategies on building 
 |  15 | Doug offers step-by-step strategies for engineers to improve social skills and advance their careers.                                   |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Ls_Oq67XjXk/hqdefault.jpg)](https://www.youtube.com/watch?v=Ls_Oq67XjXk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ls_Oq67XjXk)

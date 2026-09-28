@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Into the Shopfloor: Moving Manufacturing Execution System... Manuel Peuster
   & Andrei Traian Cucuruzac"
-nav_order: 132
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Bosch Connected Industry, a software provider within Bosch, has successfully
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ By adopting Kubernetes, Bosch has improved its ability to scale and maintain its
 |  10 | The company plans to use Kubernetes for all MES functionality in the future.                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/GgxRHpQIEfg/hqdefault.jpg)](https://www.youtube.com/watch?v=GgxRHpQIEfg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GgxRHpQIEfg)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Keynote: Welcome Back + Opening Remarks - Jorge Castro"
-nav_order: 187
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker welcomes attendees to the third day of the event, acknowledging
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -42,5 +39,7 @@ The session is set to begin with the introduction of the TOC and TAD.
 |   9 | Introduction of the TOC and TAD to start the session.                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/etJmn2vM4ZE/hqdefault.jpg)](https://www.youtube.com/watch?v=etJmn2vM4ZE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=etJmn2vM4ZE)

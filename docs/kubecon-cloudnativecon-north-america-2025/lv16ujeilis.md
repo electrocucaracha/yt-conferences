@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Knative Project Update - Dave Protasowski, Independent
-nav_order: 135
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   "Dave, a full-time Knative maintainer and serving lead, provides an update
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -64,5 +61,7 @@ The presentation concludes with project updates, including Knative’s recent gr
 |  31 | Community: Slack, mailing list, kative.dev for involvemen                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lV16ujEiLIs/hqdefault.jpg)](https://www.youtube.com/watch?v=lV16ujEiLIs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lV16ujEiLIs)

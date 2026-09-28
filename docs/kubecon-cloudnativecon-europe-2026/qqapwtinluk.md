@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Serverless GPUs in Production: How Cerebrium Built a Globally... Dave Protasowski
   & Elijah Roussos"
-nav_order: 330
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The talk discusses how Cerebrum leverages Knative to deliver serverless
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session concludes with updates on Knative’s roadmap and encourages communi
 |  18 | Future considerations: GPU-aware routing, KV caching, continuous batching                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/QqApwTinlUk/hqdefault.jpg)](https://www.youtube.com/watch?v=QqApwTinlUk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QqApwTinlUk)

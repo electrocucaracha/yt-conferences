@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Helm 4 You - Matt Farina, SUSE & Andrew Block, Red Hat
-nav_order: 114
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Helm 4 is the latest version of the popular Kubernetes package manager,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -45,5 +42,7 @@ Helm 3 will remain supported for a period of time, but its retirement timeline h
 |  12 | The community is encouraged to provide feedback and contribute to the development of Helm 4.            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rdTPbm9f_fc/hqdefault.jpg)](https://www.youtube.com/watch?v=rdTPbm9f_fc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rdTPbm9f_fc)

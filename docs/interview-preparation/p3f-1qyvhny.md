@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Success Is Hard Until You Build Systems Like This
-nav_order: 24
-parent: Interview Preparation
 type: Video Note
 description:
   To reach the top 1%, one must design systems that do the hard work for
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ By outsourcing decisions and implementing simple systems, individuals can tap in
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/p3F-1QyvHnY/hqdefault.jpg)](https://www.youtube.com/watch?v=p3F-1QyvHnY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p3F-1QyvHnY)

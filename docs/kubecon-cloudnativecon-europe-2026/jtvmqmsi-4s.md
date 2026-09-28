@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Stop Flying Blind: Real-Time, Enforceable Cluster-Wide Quotas with Ky... Mariam
   Fahmy & Adam Crowder"
-nav_order: 348
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, Adam Crowder from AWS and Mariam Fahmy from Cloudflare
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ The session concludes with a Q&A addressing label trust, Crow’s maturity, and 
 |  22 | Crow is actively developed, stable, and used in production, thou                                                                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JtVMQmsI-4s/hqdefault.jpg)](https://www.youtube.com/watch?v=JtVMQmsI-4s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JtVMQmsI-4s)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "SB\U0001F4A3\U0001F4A3M: Making SBOMs Play Together - Jacopo Bufalino, CNAM
   & Agathe Blaise, Thales SIX GTS France"
-nav_order: 314
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation explores the interoperability challenges of Software
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -62,5 +59,7 @@ They concluded by recommending that vendors and tool developers collaborate to d
 |  26 | Most tools cannot process SBOMs from other tools; interoperability is                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/lbPX-WYTjNc/hqdefault.jpg)](https://www.youtube.com/watch?v=lbPX-WYTjNc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lbPX-WYTjNc)

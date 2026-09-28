@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "From the Observability TAG: Designing a Common Query... lolita Sharma, Pereira
   Braga & Chris Larsen"
-nav_order: 106
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The Observability Tag, in collaboration with Google, aims to standardize
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The collaboration between Google and CNCF aims to align research, unify syntax, 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1iWD14xvBQA/hqdefault.jpg)](https://www.youtube.com/watch?v=1iWD14xvBQA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1iWD14xvBQA)

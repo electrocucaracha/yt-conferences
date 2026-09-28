@@ -1,8 +1,5 @@
 ---
-layout: default
 title: It Took Me 40 Years To Learn What I’ll Tell You In 13 Minutes
-nav_order: 20
-parent: Interview Preparation
 type: Video Note
 description:
   He reveals the reason for their stagnation was not due to their skills,
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ By adopting a "high agency" mindset, individuals can break free from limitations
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/oLzj67H-OHo/hqdefault.jpg)](https://www.youtube.com/watch?v=oLzj67H-OHo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oLzj67H-OHo)

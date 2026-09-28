@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Evolving KServe: The Unified Model Inference Platform for Both Predic... Filippe
   Spolti & JooHoo Lee"
-nav_order: 107
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Phillip and Julie, senior engineers at Red Hat, introduce KServe, an
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session concludes with an invitation to join the project and a group selfie 
 |  19 | KServe is open source, with increasing community contributions and resources available on GitHub.                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/nI9VOG8I5HE/hqdefault.jpg)](https://www.youtube.com/watch?v=nI9VOG8I5HE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nI9VOG8I5HE)

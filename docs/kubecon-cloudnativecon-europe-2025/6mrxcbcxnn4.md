@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Crossplane Intro and Deep Dive - The Cloud Native Control Plane Framework -
   Jared Watts & Nic Cope
-nav_order: 56
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Jared and Nick from the Crossplane project discuss the latest updates
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Additionally, they discuss the importance of community contributions and invite 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6MrXcbcxnN4/hqdefault.jpg)](https://www.youtube.com/watch?v=6MrXcbcxnN4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6MrXcbcxnN4)

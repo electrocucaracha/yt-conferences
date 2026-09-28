@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Offline, Not Off-Limits: Edge Fleet Management With Argo CD - Alexander Matyushentsev,
   Akuity"
-nav_order: 184
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, Alexander Matense, co-creator of Argo CD, discusses strategies
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The Q&A session covered topics like compliance, group promotion strategies, upgr
 |  16 | For airgapped environments, each cluster uses a local Git repository; multiple upstream repos must be                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rUy7c6OpjMk/hqdefault.jpg)](https://www.youtube.com/watch?v=rUy7c6OpjMk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rUy7c6OpjMk)

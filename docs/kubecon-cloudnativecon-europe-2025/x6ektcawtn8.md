@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Asimov's Zeroth Law of Robotics: Observability for AI - Nicole van der Hoeven,
   Grafana Labs"
-nav_order: 17
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Nicole Vanderhovven, a senior developer advocate at Graphfana Labs, discusses
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ She also highlights the importance of testing AI systems using tools like K6, wh
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/x6EKTCAWtn8/hqdefault.jpg)](https://www.youtube.com/watch?v=x6EKTCAWtn8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x6EKTCAWtn8)

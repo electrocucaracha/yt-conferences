@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   9 Lessons Learned from Deploying GenAI at Scale • Garth Gilmour & Stuart Greenlees
   • GOTO 2025
-nav_order: 5
-parent: Developer Productivity
 type: Video Note
 description:
   Stuart, a leader at Liberty Mutual, shares his experience with deploying
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Additionally, he notes that scaling Gen AI is a significant challenge, and that 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/tRL2sRDg_DA/hqdefault.jpg)](https://www.youtube.com/watch?v=tRL2sRDg_DA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tRL2sRDg_DA)

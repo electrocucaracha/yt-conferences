@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Package Management for Your Clust... Jordan Keister, Rashmi Gottipati, Joe
   Lanford & Attila Mészáros
-nav_order: 194
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Operator Life Cycle Manager (OLM) is a project under the Cloud Native
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ However, limitations include eventual consistency in caches and the need for opt
 |  21 | Kubernetes will have comparable resource versions in the next version, making it easier to use optimistic locking.                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/HrwHh5Yh6AM/hqdefault.jpg)](https://www.youtube.com/watch?v=HrwHh5Yh6AM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HrwHh5Yh6AM)

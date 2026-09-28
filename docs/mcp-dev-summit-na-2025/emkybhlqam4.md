@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] MCP Project Update with Jerome Swannack, Member of Technical Staff
   at Anthropic"
-nav_order: 8
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Jerome Swanik, a member of the core engineering team at Anthropic, introduces
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ He also highlights ongoing efforts to foster the developer ecosystem, improve di
 |  19 | Governance: aiming for open, community-driven project; exploring transition to                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/eMKyBHlqAm4/hqdefault.jpg)](https://www.youtube.com/watch?v=eMKyBHlqAm4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=eMKyBHlqAm4)

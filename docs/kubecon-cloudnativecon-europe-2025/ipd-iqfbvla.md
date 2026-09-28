@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Dapr: Start Building Distributed Applications with
   Ease Using... Marc Duiker"
-nav_order: 230
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=iPd-IQfbVLA
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ Additionally, the CNCF has announced Deer Agents, an open-source framework for b
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iPd-IQfbVLA/hqdefault.jpg)](https://www.youtube.com/watch?v=iPd-IQfbVLA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iPd-IQfbVLA)

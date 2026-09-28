@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Maximizing Global Potential: Cost-Op... Wei Jiang, Jingkang Jiang, Michael
   McCune & Praseeda Sathaye"
-nav_order: 166
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session discusses strategies for cost-optimized, resilient GPU workload
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ The Q&A highlights ongoing challenges in networking, security, and authenticatio
 |  19 | Current limitations: complex setup,                                                                                                                                                                       |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/VrXt_T8DkIo/hqdefault.jpg)](https://www.youtube.com/watch?v=VrXt_T8DkIo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VrXt_T8DkIo)

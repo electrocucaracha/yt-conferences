@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Where’s All My Memory Gone? Mapping K8s Memory Metrics To Physical Resources
   - Mahé Tardy
-nav_order: 371
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses mapping Kubernetes memory usage to physical resources.
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -46,5 +43,7 @@ The speaker also touches on the concept of virtual memory, how Linux overcommits
 |  11 | The container memory working set bytes provides a good enough uristic for actual memory use.             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zLHdgl2qxbg/hqdefault.jpg)](https://www.youtube.com/watch?v=zLHdgl2qxbg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zLHdgl2qxbg)

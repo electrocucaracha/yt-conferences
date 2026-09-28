@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Security Chaos Engineering: From Theory to Practice • Jamie Dicken • GOTO
   2021"
-nav_order: 113
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, Jamie Dicken, discusses how applying chaos engineering principles
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ Dicken shares his experience implementing continuous verification and validation
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jgZAfgDWkOw/hqdefault.jpg)](https://www.youtube.com/watch?v=jgZAfgDWkOw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jgZAfgDWkOw)

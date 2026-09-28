@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "¿Estás respirando mal? \U0001F92F La forma correcta de respirar || Esteban
   Jaramillo #17"
-nav_order: 76
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Esteban Jaramillo, especialista en respiración y
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ Explica que la hiperventilación crónica, común...
 |   1 | Main points were not provided in the source note. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/1R1p8OHckAA/hqdefault.jpg)](https://www.youtube.com/watch?v=1R1p8OHckAA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1R1p8OHckAA)

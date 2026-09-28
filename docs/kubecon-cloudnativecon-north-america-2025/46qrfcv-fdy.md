@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Beyond the Dashboard: Modern Observability... Danielle C, Whitney L, Stevie
   C, Khallai T & Payal B"
-nav_order: 26
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The session explores modern observability in platform engineering, emphasizing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Looking ahead, the group expresses excitement about open telemetry’s growing a
 |  17 | Trends: Growing adoption of OpenTelemetry, standardization of metrics, shift toward machi                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/46qRFcv_FDY/hqdefault.jpg)](https://www.youtube.com/watch?v=46qRFcv_FDY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=46qRFcv_FDY)

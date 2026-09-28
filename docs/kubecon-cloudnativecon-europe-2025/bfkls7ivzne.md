@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Mind Your Pod's Business: Netwo... Surya Seetharaman, Miguel Duarte
   Barroso & Keith Burdis"
-nav_order: 352
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker discusses network segmentation in Kubernetes, highlighting
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -50,5 +47,7 @@ They conclude by highlighting the availability of UDNS in Kubernetes 1.32 and en
 |  15 | Custom resource definitions can be used to delete finalizers.                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/bFKls7IvzNE/hqdefault.jpg)](https://www.youtube.com/watch?v=bFKls7IvzNE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bFKls7IvzNE)

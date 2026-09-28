@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Streamlining Large-Scale Java Development Using Error Prone • Sander Mak •
   GOTO 2022
-nav_order: 127
-parent: Developer Productivity
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=C5MBsKZHqrY
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -40,5 +37,7 @@ By automating these tasks, the team was able to improve code quality, reduce err
 |   9 | The tool can be integrated with CI/CD pipelines to automate the process of applying refaster rules and checking for errors. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/C5MBsKZHqrY/hqdefault.jpg)](https://www.youtube.com/watch?v=C5MBsKZHqrY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=C5MBsKZHqrY)

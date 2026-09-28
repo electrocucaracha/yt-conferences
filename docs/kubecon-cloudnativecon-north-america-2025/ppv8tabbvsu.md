@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Linkerd, mTLS, and Bungled Bundles - Flynn, Technical
   Evangelist"
-nav_order: 228
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Flynn from the Linkerd project discusses the challenges of managing MTLS
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ He concludes by encouraging collaboration to improve integration and invites fee
 |  16 | Flynn is available for further discussion on Slack or at the Linkerd kiosk.                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/PpV8tAbBvsU/hqdefault.jpg)](https://www.youtube.com/watch?v=PpV8tAbBvsU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PpV8tAbBvsU)

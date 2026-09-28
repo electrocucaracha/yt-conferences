@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "One Dozen To One Thousand Clusters: How Argo Kept up as We Scaled - Jérémy
   Albuixech & Kahou Lei"
-nav_order: 187
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Kahal and Jeremy, engineers at Octa, discuss how their Ozero platform
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Throughout, they emphasize the importance of stability, automation, and incremen
 |  16 | UI and scaling challenges: slow/unusable UI at scale, misleading app statuses, co                                                                                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/4yVSqDJm5RI/hqdefault.jpg)](https://www.youtube.com/watch?v=4yVSqDJm5RI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4yVSqDJm5RI)

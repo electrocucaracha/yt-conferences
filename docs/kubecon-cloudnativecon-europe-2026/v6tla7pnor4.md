@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: From Idle to Ideal: Cross‑Cluster GPU Sharing with
   CoHDI - Takao Indoh"
-nav_order: 265
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Taka Indoor from Fujitsu presents a solution for maximizing GPU utilization
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Kodi integrates with the Kubernetes scheduler, and the team has released version
 |  21 | More information is available at the project pavilion or via the QR code for code, docs, and joining the project. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/v6TlA7PNOR4/hqdefault.jpg)](https://www.youtube.com/watch?v=v6TlA7PNOR4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=v6TlA7PNOR4)

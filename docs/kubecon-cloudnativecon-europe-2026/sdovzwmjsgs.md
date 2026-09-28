@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "How Telemetry Data Moves: Lessons From Building a High-Performance Open Source
   Agent - Eduardo Silva"
-nav_order: 144
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, Eduardo discusses the fundamental concepts of how data
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ The talk concludes by encouraging developers to anticipate bottlenecks, design f
 |  21 | Project principles: high performance, low resource usage, broad ecosystem support, vendor neutrality                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/SdovZWMJsgs/hqdefault.jpg)](https://www.youtube.com/watch?v=SdovZWMJsgs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SdovZWMJsgs)

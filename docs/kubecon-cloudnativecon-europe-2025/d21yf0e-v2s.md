@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Mind the Gap: Bridging Supply Chain Policy With Git-less GitOps... Michael
   Lieberman & Andrew Martin"
-nav_order: 196
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The video discusses the Cyber Resilience Act (CRA) and its implications
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ They introduce Guac (the Graph for Understanding Artifact Composition), an open-
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/D21yF0E-v2s/hqdefault.jpg)](https://www.youtube.com/watch?v=D21yF0E-v2s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=D21yF0E-v2s)

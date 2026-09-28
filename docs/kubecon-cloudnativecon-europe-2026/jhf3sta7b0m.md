@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Cloud Native University: Platform Engineering - About
   Tools... Max Körbächer"
-nav_order: 50
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Max, an open source community leader and author on platform engineering,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Ultimately, Max argues that shifting from infrastructure to product thinking, fo
 |  21 | Focus on outcomes (developer happiness                                                                                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jhF3sTA7B0M/hqdefault.jpg)](https://www.youtube.com/watch?v=jhF3sTA7B0M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jhF3sTA7B0M)

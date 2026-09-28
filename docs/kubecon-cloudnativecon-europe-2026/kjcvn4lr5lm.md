@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cloud Native Theater | Cloud Native University: Kubernetes: The API of Everything
   - Tibo Beijen"
-nav_order: 49
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Tibayian, an experienced Kubernetes professional at DPG Media, introduces
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -47,5 +44,7 @@ He concludes by encouraging attendees to view Kubernetes primarily as an extensi
 |  12 | The key takeaway is to view Kubernetes as an extensible API platform capable of orchestrating a wide range of resources, not just containers.                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/kJCvn4LR5lM/hqdefault.jpg)](https://www.youtube.com/watch?v=kJCvn4LR5lM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kJCvn4LR5lM)

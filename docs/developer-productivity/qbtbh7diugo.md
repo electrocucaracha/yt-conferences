@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Simplicity • Pragmatic Dave Thomas & Sarah Taraporewalla • GOTO 2025
-nav_order: 116
-parent: Developer Productivity
 type: Video Note
 description:
   Dave Thomas, co-founder of The Pragmatic Programmer, discusses his new
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ He also stresses the importance of empathy and transparency in personal interact
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qbtbh7dIUgo/hqdefault.jpg)](https://www.youtube.com/watch?v=qbtbh7dIUgo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qbtbh7dIUgo)

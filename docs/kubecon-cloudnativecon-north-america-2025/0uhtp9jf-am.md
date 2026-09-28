@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Surviving to Thriving: Building an Open Source Business in the Era of Rugpulls...
   Michael Lieberman"
-nav_order: 297
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Mike, CTO and co-founder of Kusari, shares his journey from early experiences
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ Mike concludes with advice for startups: participate actively in open source, do
 |  17 | Open source reputation builds connections, part                                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/0uHtp9jF_aM/hqdefault.jpg)](https://www.youtube.com/watch?v=0uHtp9jF_aM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0uHtp9jF_aM)

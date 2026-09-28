@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Ulysses’ Odyssey Through Platform Engineering - William Rizzo, Mirantis
-nav_order: 330
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this talk, William Ritzo draws parallels between the challenges faced
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ He concludes by advocating for iterative development, strong collaboration betwe
 |  18 | Encouragement to join community groups like Deep Roots and Merge Forward for underrepresented groups.                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/v9mBzrPLvNc/hqdefault.jpg)](https://www.youtube.com/watch?v=v9mBzrPLvNc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=v9mBzrPLvNc)

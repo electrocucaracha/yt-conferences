@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   A Huge Cluster or Multi-Clusters? Identifying the Bottleneck - Paco Xu & Saiyam
   Pathak
-nav_order: 6
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   'The video discusses the challenges of managing large Kubernetes clusters,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -33,5 +30,7 @@ The speakers also introduce vCluster, an open-source project that enables the cr
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6l5zCt5QsdY/hqdefault.jpg)](https://www.youtube.com/watch?v=6l5zCt5QsdY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6l5zCt5QsdY)

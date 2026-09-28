@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Tu mente ya decidió cuánto dinero puedes tener | Tony Velasco – Sesión 35
-nav_order: 72
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En este video, se aborda cómo los problemas financieros son en realidad
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ Finalmente, se resalta la importancia de tener un sueño claro, comprometerse al
 |  18 | La disciplina y la acción constante son esenciales para transformar las finanzas.                                                                                                                                                                                                                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mcmnRA276Sw/hqdefault.jpg)](https://www.youtube.com/watch?v=mcmnRA276Sw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mcmnRA276Sw)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   OpenTelemetry Project Update and 'Ask the Experts' - Pablo B, Juraci P, Marylia
   G & Severin N
-nav_order: 234
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The OpenTelemetry product update session covered several major advancements
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -54,5 +51,7 @@ The session also emphasized community involvement, new SIGs (special interest gr
 |  19 | Community contributions and feedback are welcomed, especially for demo updates and stability efforts.                                                                               |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/mvSGusgcVuw/hqdefault.jpg)](https://www.youtube.com/watch?v=mvSGusgcVuw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mvSGusgcVuw)

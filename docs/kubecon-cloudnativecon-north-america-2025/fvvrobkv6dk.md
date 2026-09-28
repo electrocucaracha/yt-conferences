@@ -1,8 +1,5 @@
 ---
-layout: default
 title: An Introduction to Capture The Flag
-nav_order: 15
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Fabian and John from Control Plane introduce an upcoming Capture the
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ Participants are encouraged to be resourceful, ask questions, and use the provid
 |  22 | Organizers are available for questions                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/FvvroBKV6dk/hqdefault.jpg)](https://www.youtube.com/watch?v=FvvroBKV6dk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FvvroBKV6dk)

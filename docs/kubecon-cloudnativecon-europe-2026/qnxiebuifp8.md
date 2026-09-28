@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "The Symbiosis of Storage and Workloads: Longhorn for Hyperconverged Bl...
   Jinhong Kim & Jangseon Ryu"
-nav_order: 369
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this presentation, the speakers from Naver, a leading South Korean
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ To address this, they developed a custom scheduler that considers both storage c
 |  17 | Key takeaways: consider                                                                                                                                                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/qNxIebuifp8/hqdefault.jpg)](https://www.youtube.com/watch?v=qNxIebuifp8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qNxIebuifp8)

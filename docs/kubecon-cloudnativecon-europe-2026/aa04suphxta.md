@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "What Survived Production: Operating Game Backends at Million-Player Scale
   - Berkay Uckac"
-nav_order: 396
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   At CubeCon 2026 in Amsterdam, Barai shared insights from three years
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ Barai highlighted the importance of a decision journal for tracking architectura
 |  23 | Scaling: built proactive autoscaling tool for predictable player                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Aa04SuPhxtA/hqdefault.jpg)](https://www.youtube.com/watch?v=Aa04SuPhxtA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Aa04SuPhxtA)

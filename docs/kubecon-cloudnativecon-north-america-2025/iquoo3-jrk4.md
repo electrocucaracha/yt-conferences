@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Quorum-Based Consistency for Cluster Changes With CloudNati... Jeremy Schneider
   & Gabriele Bartolini
-nav_order: 251
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=iQUOO3-JRK4
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ The talk also covers the challenges of managing complex topologies with multiple
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/iQUOO3-JRK4/hqdefault.jpg)](https://www.youtube.com/watch?v=iQUOO3-JRK4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iQUOO3-JRK4)

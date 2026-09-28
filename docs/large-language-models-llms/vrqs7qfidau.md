@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Stanford CS25: V5 I On the Biology of a Large Language Model, Josh Batson
   of Anthropic"
-nav_order: 15
-parent: Large Language Models Llms
 type: Video Note
 description:
   Joshua Batson from Anthropic presents an overview of his team's work
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ The talk also addresses challenges like hallucinations and the limitations of cu
 |  21 | Limitations: attent                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/vRQs7qfIDaU/hqdefault.jpg)](https://www.youtube.com/watch?v=vRQs7qfIDaU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vRQs7qfIDaU)

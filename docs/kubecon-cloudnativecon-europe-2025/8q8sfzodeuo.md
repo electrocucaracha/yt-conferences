@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Hacking up a Storm With Kubernetes - Rory McCune, Datadog; Marion
   McCune & Iain Smart"
-nav_order: 351
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The tutorial demonstrated how to bypass Kubernetes security controls
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ The presenter emphasized the need for careful permission management, minimal acc
 |   8 | The tutorial is available on the speaker's blog and on the Kubernetes Slack channel.                                            |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8Q8sFzODEUo/hqdefault.jpg)](https://www.youtube.com/watch?v=8Q8sFzODEUo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8Q8sFzODEUo)

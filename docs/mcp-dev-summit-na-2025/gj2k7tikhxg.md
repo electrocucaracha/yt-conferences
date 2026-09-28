@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "[Session] Building and Deploying Remote MCP Servers with Dina Kozlov from
   Cloudflare"
-nav_order: 9
-parent: Mcp Dev Summit Na 2025
 type: Video Note
 description:
   Dina Coslov, a product manager at Cloudflare, shares her experience working
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -56,5 +53,7 @@ She concludes by promising to share her Best Reads MCP server code on GitHub, in
 |  21 | Example code and Best Reads MCP server will be posted on GitHub for others to use.                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gJ2K7tIKhxg/hqdefault.jpg)](https://www.youtube.com/watch?v=gJ2K7tIKhxg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gJ2K7tIKhxg)

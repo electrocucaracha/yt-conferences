@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "When Multitenancy Goes Wrong: A Deep Dive Into Kcp’s First CVE - Marvin Beckers,
   ClickHouse"
-nav_order: 401
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Marvin Beckers, a maintainer of the CNCF sandbox project KCP, discusses
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Beckers emphasizes the importance of maintaining a robust security process, tran
 |  21 | Future improvements include building a trusted v                                                                                             |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6pFY8lrTOKw/hqdefault.jpg)](https://www.youtube.com/watch?v=6pFY8lrTOKw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6pFY8lrTOKw)

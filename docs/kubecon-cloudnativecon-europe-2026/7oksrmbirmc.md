@@ -1,9 +1,6 @@
 ---
-layout: default
 title: "Cloud Native Theater | EnvoyCon: The Future of AI Traffic: What's New in
   Envoy AI Tra... Xiaolin Lin"
-nav_order: 62
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Shins from the AI traffic team at Boomber presented on the future of
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -58,5 +55,7 @@ During the Q&A, a question about listener sets in Envoy Gateway was raised, with
 |  22 | New APIs: response API for agentic workf                                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/7OkSrMBirmc/hqdefault.jpg)](https://www.youtube.com/watch?v=7OkSrMBirmc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7OkSrMBirmc)

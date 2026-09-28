@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Time Management Tips for Engineering Managers and Tech Leaders!
-nav_order: 40
-parent: Leadership Skills
 type: Video Note
 description:
   The video discusses why engineering managers and technical leaders often
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The speaker emphasizes the importance of delegation and encourages viewers to co
 |  19 | Challenge yourself to think creatively about offloading work and improving time management.                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/LLnafEp7Bl8/hqdefault.jpg)](https://www.youtube.com/watch?v=LLnafEp7Bl8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LLnafEp7Bl8)

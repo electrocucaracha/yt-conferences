@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "WG-Batch Updates: What’s New and What Is Next? - Yuki Iwai, CyberAgent, Inc.
   & Kevin Hannon, Red Hat"
-nav_order: 391
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The presentation provides an update from the Kubernetes Batch Working
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -59,5 +56,7 @@ The team is also working on workload-aware scheduling and gang scheduling APIs t
 |  22 | Supports min count, status, re                                                                                                                                                        |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/H_dfPaDpHHQ/hqdefault.jpg)](https://www.youtube.com/watch?v=H_dfPaDpHHQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=H_dfPaDpHHQ)

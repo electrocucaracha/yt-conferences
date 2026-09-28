@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Building a Workflow Engine on MCP: Orchestrating Processes With Tasks - Donnie
   Adams, Obot AI"
-nav_order: 5
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   Donnie Adams, a software architect at OOT and former high school math
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -57,5 +54,7 @@ Adams concludes by sharing a demo of a simple workflow engine he built-in Gleam,
 |  21 | Chat application provided 80% of needed workflow functi                                                                                                |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/f8vPMlm0MaI/hqdefault.jpg)](https://www.youtube.com/watch?v=f8vPMlm0MaI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=f8vPMlm0MaI)

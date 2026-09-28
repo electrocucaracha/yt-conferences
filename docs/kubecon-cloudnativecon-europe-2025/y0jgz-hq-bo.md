@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Extending Kubernetes Resource Model (KRM) Beyond Kubernetes Work... Mangirdas
   Judeikis & Nabarun Pal
-nav_order: 92
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The speaker, MJ, introduces himself as a maintainer at KCP (Kubernetes
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The speaker demonstrates how KCP enables building platforms, such as database-as
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/y0JgZ-hQ-Bo/hqdefault.jpg)](https://www.youtube.com/watch?v=y0JgZ-hQ-Bo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=y0JgZ-hQ-Bo)

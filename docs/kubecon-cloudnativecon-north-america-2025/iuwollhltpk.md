@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Public Technical Oversight Committee (TOC) Meeting - Moderated by Bob Killen,
   CNCF
-nav_order: 248
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The Technical Oversight Committee (TOC) of the Cloud Native Computing
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ The TOC also emphasizes the importance of predictability, coaching, and guidance
 |   8 | Feedback is encouraged through public meetings, Slack channels, and the maintainers-circle channel.                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/IuWOlLhLTPk/hqdefault.jpg)](https://www.youtube.com/watch?v=IuWOlLhLTPk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IuWOlLhLTPk)

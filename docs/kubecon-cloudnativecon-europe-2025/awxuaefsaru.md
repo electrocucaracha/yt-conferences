@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "WG-Batch Updates: What’s New and What Is Next? - Marcin Wielgus, Google"
-nav_order: 362
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The batch working group aims to enhance Kubernetes support for high-performance
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -43,5 +40,7 @@ These tools aim to provide a cohesive ecosystem for batch workloads in Kubernete
 |  10 | K-Jobs are reusable job templates stored in the API server with a command-line interface that transforms them into full YAML files for execution. |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/aWxuaEFSarU/hqdefault.jpg)](https://www.youtube.com/watch?v=aWxuaEFSarU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aWxuaEFSarU)

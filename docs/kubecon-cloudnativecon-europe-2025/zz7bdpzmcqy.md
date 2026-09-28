@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How We Progressively Deliver Changes To Kubernetes Using Canary Deployments
   and Feature... Bob Walker
-nav_order: 124
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=zZ7bDPZMCqY
@@ -15,7 +12,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -30,5 +27,7 @@ To address this, they adopted a trunk-based development lifecycle, leveraging op
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/zZ7bDPZMCqY/hqdefault.jpg)](https://www.youtube.com/watch?v=zZ7bDPZMCqY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zZ7bDPZMCqY)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Zero Downtime Migration of Monolith To K8s Using Sidecar and Contai... Deepak
   Kosaraju & James Dabbs
-nav_order: 346
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   James and Deepak from Procore shared their experience migrating a large,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ The team also contributed improvements back to open-source projects and encourag
 |  17 | Use Argo Rollouts for canary                                                                                                                                                                                                                 |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jR6Oex3wFCE/hqdefault.jpg)](https://www.youtube.com/watch?v=jR6Oex3wFCE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jR6Oex3wFCE)

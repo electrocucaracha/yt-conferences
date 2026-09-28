@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   The State of Prometheus and OpenTelemetry Interoperability - Arthur Sens &
   Juraj Michálek
-nav_order: 342
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   The discussion centered around Prometheus and Open Telemetry interoperability,
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The team is also exploring ways to enhance resource attributes handling, includi
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/JFS0lSfHtMI/hqdefault.jpg)](https://www.youtube.com/watch?v=JFS0lSfHtMI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JFS0lSfHtMI)

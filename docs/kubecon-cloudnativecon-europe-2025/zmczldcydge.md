@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   How Millennium Bcp Leverages Radius To Empower Developer + Operator... Nuno
   Guedes & Jonathan Smith
-nav_order: 118
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   Millennium BCP leverages Radius to empower developer and operator collaboration
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ By adopting Radius, companies can avoid redundancy and get value from collaborat
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ZmcZlDCYDgE/hqdefault.jpg)](https://www.youtube.com/watch?v=ZmcZlDCYDgE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZmcZlDCYDgE)

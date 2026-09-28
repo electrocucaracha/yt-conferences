@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Unifying Inner & Outer Loops To Bridge the Gaps Between Devs... Laurent Broudoux
   & Mathieu Benoit
-nav_order: 384
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this session, the presenters address the common challenge of ensuring
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -52,5 +49,7 @@ The approach also supports automated contract testing to ensure API compliance, 
 |  17 | The approach bridges the gap between local and production environments, reduces configuration dri                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Y_jfBWbBTZQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Y_jfBWbBTZQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Y_jfBWbBTZQ)

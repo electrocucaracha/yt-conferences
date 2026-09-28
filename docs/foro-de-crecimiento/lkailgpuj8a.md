@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Cofundador de Rappi: Cómo se construye un negocio millonario desde cero |
   Andrés Bilbao"
-nav_order: 8
-parent: Foro De Crecimiento
 type: Video Note
 description:
   En esta entrevista, Andrés Bilbao, cofundador de Rappi y primer unicornio
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Finalmente, aconseja reclutar personas mejores que uno mismo y fomentar equipos 
 |  20 | El impacto es lo más importante: generar empleo, romper creencias limitantes y ayu                                                    |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/LkaIlgpUJ8A/hqdefault.jpg)](https://www.youtube.com/watch?v=LkaIlgpUJ8A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LkaIlgpUJ8A)

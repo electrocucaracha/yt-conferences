@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Project Lightning Talk: Harbor Update - Prasanth Baskar, Maintainer"
-nav_order: 268
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Prashant, a core contributor to Harbor, provided updates on the project,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ Prashant also acknowledged key contributors, especially those who advanced from 
 |  28 | Encouragement to join meetings, communicate use cases, and visit the booth.                                              |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/jJVZrXuJZ4Q/hqdefault.jpg)](https://www.youtube.com/watch?v=jJVZrXuJZ4Q)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jJVZrXuJZ4Q)

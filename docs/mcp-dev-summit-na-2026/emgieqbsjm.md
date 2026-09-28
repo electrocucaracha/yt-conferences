@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Bridging Kernel Space and AI: Building an MCP Server for Linux Scheduler Observabil...
   Daniel Hodges"
-nav_order: 2
-parent: Mcp Dev Summit Na 2026
 type: Video Note
 description:
   The talk discusses building powerful analysis tools using BPF (Berkeley
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -60,5 +57,7 @@ The speaker concludes by emphasizing best practices for MCP tool development, su
 |  25 | BPF                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_eMGiEQbSjM/hqdefault.jpg)](https://www.youtube.com/watch?v=_eMGiEQbSjM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_eMGiEQbSjM)

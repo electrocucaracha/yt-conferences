@@ -1,8 +1,5 @@
 ---
-layout: default
 title: The Next Generation of DaemonSet Autoscaling - Adam Bernot & Bryan Boreham
-nav_order: 340
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=yQQU8vDhj0o
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -29,5 +26,7 @@ By using the VPA with a customized scope, such as instance type or node pool, us
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/yQQU8vDhj0o/hqdefault.jpg)](https://www.youtube.com/watch?v=yQQU8vDhj0o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yQQU8vDhj0o)

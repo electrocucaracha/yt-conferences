@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   7 Reasons Engineering Managers and Tech Leaders Get Stuck in Their Career Without
   Advancing
-nav_order: 6
-parent: Leadership Skills
 type: Video Note
 description:
   In this video, Doug Howard, a former director of engineering, discusses
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ He shares personal experiences and practical tips for overcoming these challenge
 |  21 | Key skills needed: influencing others, building relationships, communicating effectively, and setting boundaries.                           |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/TOez7q_Zcvw/hqdefault.jpg)](https://www.youtube.com/watch?v=TOez7q_Zcvw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TOez7q_Zcvw)

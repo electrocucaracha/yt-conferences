@@ -1,8 +1,5 @@
 ---
-layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 1: Course Overview and AI Foundations"
-nav_order: 11
-parent: Stanford Cs221 Artificial Intelligence Principles
 type: Video Note
 description:
   In this introductory lecture for Stanford's CS221 course on artificial
@@ -17,7 +14,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The session concludes with practical demonstrations of tensor operations using n
 |  17 | M                                                                                                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/yaLEGZuIIgE/hqdefault.jpg)](https://www.youtube.com/watch?v=yaLEGZuIIgE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yaLEGZuIIgE)

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Kick-starting "Inventing the Future" • Allen Wirfs-Brock • YOW! 2019
-nav_order: 75
-parent: Developer Productivity
 type: Video Note
 description:
   The speaker, a technical leader with experience in large and small companies,
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ They share examples of how this approach was applied in the development of the D
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RLkjsiCavSg/hqdefault.jpg)](https://www.youtube.com/watch?v=RLkjsiCavSg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RLkjsiCavSg)

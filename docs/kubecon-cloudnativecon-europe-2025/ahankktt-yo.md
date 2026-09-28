@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Building a 5* Kubernetes Hotel - Dean Fuller & Rachael Wonnacott
-nav_order: 34
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=ahANKkTT-yo
@@ -13,7 +10,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -38,5 +35,7 @@ The organization has learned that they cannot abstract infrastructure away from 
 |   9 | An enablement function within the organization helps guide developers to use new practices and provides feedback on the effectiveness of the platform.                                                                          |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/ahANKkTT-yo/hqdefault.jpg)](https://www.youtube.com/watch?v=ahANKkTT-yo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ahANKkTT-yo)

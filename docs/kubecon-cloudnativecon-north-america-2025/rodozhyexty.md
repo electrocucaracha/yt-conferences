@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Scaling and Securing CoreDNS: Performance and Resilience - Yong Tang & John
   Belamaric"
-nav_order: 273
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker, Yan Tong, introduces himself as the maintainer of the Cords
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ He invites audience members to contribute to the project by coding, adding a sta
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/RodoZHYEXTY/hqdefault.jpg)](https://www.youtube.com/watch?v=RodoZHYEXTY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RodoZHYEXTY)

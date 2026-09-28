@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: Intelligent Failure: Using AI To Push Your Cluster To the Br...
   James Ilse & Michael Levan"
-nav_order: 327
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   In this tutorial, James Isles and Michael Leavon from Solo discuss practical
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -55,5 +52,7 @@ Throughout, they stress the need for careful permission management, community-dr
 |  20 | Prompt guards in agent gateway can block dang                                                                                                                                         |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/gFBhVarWL1k/hqdefault.jpg)](https://www.youtube.com/watch?v=gFBhVarWL1k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gFBhVarWL1k)

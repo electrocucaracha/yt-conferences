@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Konveyor AI for Every Language and the Future of App
   Moderniza... Shaaf Syed"
-nav_order: 272
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   Sha discusses the challenges of modernizing legacy enterprise applications,
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -53,5 +50,7 @@ Sha concludes by demonstrating how the tool can convert outdated code, like RMI 
 |  17 | Conveyor offers a kiosk for further questions and provides a QR code for the community project.                                  |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/6FNR4jGox9w/hqdefault.jpg)](https://www.youtube.com/watch?v=6FNR4jGox9w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6FNR4jGox9w)

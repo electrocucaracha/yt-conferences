@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: Argo Workflows 4, What's New And What's Next - Alan
   Clucas, Lead"
-nav_order: 251
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   The speaker introduces Argo Workflows, a Kubernetes-native batch processing
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -48,5 +45,7 @@ The speaker invites attendees to visit their booth for further discussion.
 |  13 | Speaker is available for questions at the Pipkit booth (494) in the project pavilion on the Argo stand.                                      |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/YbW24qbJ78I/hqdefault.jpg)](https://www.youtube.com/watch?v=YbW24qbJ78I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YbW24qbJ78I)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Effortlessly Build High-Performance AI/ML Processing Pipelines Within the ML
   Life... Kazuki Yamamoto
-nav_order: 68
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   Yamamoto, a researcher at LT Corporation in Japan, presented a photo
@@ -19,7 +16,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -35,5 +32,7 @@ The concept of processing pipeline is rooted in data-centric approach, allowing 
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/8s87fSa_Qmw/hqdefault.jpg)](https://www.youtube.com/watch?v=8s87fSa_Qmw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8s87fSa_Qmw)

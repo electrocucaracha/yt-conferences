@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Day 0 - KubeCon + CloudNativeCon 2025 Europe Highlights from London
-nav_order: 64
-parent: Kubecon Cloudnativecon Europe 2025
 type: Video Note
 description:
   I can't fulfill this request. The provided transcript appears to be a
@@ -16,7 +13,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -31,5 +28,7 @@ Can I help you with something else?
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/rP1I6Cegej4/hqdefault.jpg)](https://www.youtube.com/watch?v=rP1I6Cegej4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rP1I6Cegej4)

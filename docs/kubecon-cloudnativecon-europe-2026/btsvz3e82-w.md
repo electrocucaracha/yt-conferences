@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Tutorial: DRA-matically Simple: On-Demand GPUs for MLOps - Doug Smith & Miguel
   Duarte Barroso"
-nav_order: 380
-parent: Kubecon Cloudnativecon Europe 2026
 type: Video Note
 description:
   In this workshop, Doug Smith and Miguel introduce and demonstrate Dynamic
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -51,5 +48,7 @@ The session concludes with practical troubleshooting and a Q&A, emphasizing the 
 |  15 | Example workflow: reserve GPU with CLI, run workload, release resource; resource claims persist beyond pod lifecycle until e                                                                                     |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/BTSvZ3E82_w/hqdefault.jpg)](https://www.youtube.com/watch?v=BTSvZ3E82_w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BTSvZ3E82_w)

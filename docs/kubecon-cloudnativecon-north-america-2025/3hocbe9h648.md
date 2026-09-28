@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   "Project Lightning Talk: WasmEdge: What's New In WasmEdge? - Miley Fu, Second
   State"
-nav_order: 241
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The speaker discusses the CNCF project, which uses WebAssembly for AI
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -34,5 +31,7 @@ The project is fully open-source and built with Rust, allowing users to assemble
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/3hOcBe9H648/hqdefault.jpg)](https://www.youtube.com/watch?v=3hOcBe9H648)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3hOcBe9H648)

@@ -1,10 +1,7 @@
 ---
-layout: default
 title:
   Optimized Scheduling for Big Data Workloads - The Why, What... Rahul Sharma
   & Wilfred Spiegelenburg
-nav_order: 192
-parent: Kubecon Cloudnativecon North America 2025
 type: Video Note
 description:
   The presentation discusses optimizing scheduling for large-scale big
@@ -18,7 +15,7 @@ tags:
 status: stable
 generated:
   by: process:yt-conferences-okf
-  at: 2026-09-12 00:00:00+00:00
+  at: "2026-09-12T00:00:00+00:00"
 ---
 
 # Summary
@@ -36,5 +33,7 @@ The presentation concludes by highlighting the need for community-driven develop
 | --: | ---------- |
 
 # Video
+
+[![Video thumbnail](https://img.youtube.com/vi/_W83GgQof70/hqdefault.jpg)](https://www.youtube.com/watch?v=_W83GgQof70)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_W83GgQof70)
