@@ -9,6 +9,60 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.2.8] - 2026-09-27
+
+### Changed
+
+- Updated the ai-prepare-commit-msg pre-commit hook to v19.0.0, integrating the latest features and fixes for improved commit message preparation and better tooling support. [fa575063](https://github.com/electrocucaracha/yt-conferences/commit/fa575063939116b65031703533fc164f4a9de772)
+
+## [3.2.7] - 2026-09-27
+
+### Changed
+
+- Simplified the documentation workflow by transitioning to Kiso for site generation and validation, enabling standardized tooling and improved local preview capabilities. [517f5da5](https://github.com/electrocucaracha/yt-conferences/commit/517f5da5584284ec8c17c262af9fcdebf544eab2)
+
+## [3.2.6] - 2026-09-27
+
+### Changed
+
+- Simplified the scheduled versions update workflow to reuse a shared workflow from electrocucaracha/gh-workflows, enabling consistency across repositories and concurrent updates without overlapping runs. [933bfb1c](https://github.com/electrocucaracha/yt-conferences/commit/933bfb1c71f281a3d8c94fe5d811a35908d99465)
+
+## [3.2.5] - 2026-09-27
+
+### Changed
+
+- Simplified the documentation for several sessions by introducing video thumbnails and a consistent timestamp format, resulting in an improved user experience. [406516cd](https://github.com/electrocucaracha/yt-conferences/commit/406516cdcf53a5908792e7633a84e00805d56cde)
+
+## [3.2.4] - 2026-09-27
+
+### Fixed
+
+- Stabilized the fmt target's verbosity by suppressing prettier command output during execution. [d123da67](https://github.com/electrocucaracha/yt-conferences/commit/d123da67f02afe087789bf923a7e282201960b43)
+
+## [3.2.3] - 2026-09-27
+
+### Changed
+
+- Upgraded setup-uv and ai-prepare-commit-msg dependencies to v10.2.0 and v18.1.0 respectively, enabling improved features and bugfixes in the build and docs workflows with no breaking changes. [d063a4ac](https://github.com/electrocucaracha/yt-conferences/commit/d063a4ac07ce1ce2ab71ce77a41cac5b8f4bc8f8)
+
+## [3.2.2] - 2026-09-18
+
+### Changed
+
+- Updated the ai-prepare-commit-msg pre-commit hook to version 17.0.1 to incorporate the latest features and bugfixes, keeping development tools current and aligned with upstream updates. [a180d6cc](https://github.com/electrocucaracha/yt-conferences/commit/a180d6cc90a063d992ddfc1ef1a872e7e93b3e32)
+
+## [3.2.1] - 2026-09-18
+
+### Changed
+
+- Excluded node_modules/ and package*.json files from version control to prevent repository noise and reduce unnecessary tracking. [85540ba2](https://github.com/electrocucaracha/yt-conferences/commit/85540ba2526a45c0aadc4ebdf10ced28c37bc709)
+
+## [3.2.0] - 2026-09-15
+
+### Added
+
+- Enabled clearer tracking of project evolution for users and maintainers by introducing a structured changelog following Keep a Changelog and Semantic Versioning conventions, which records notable changes, features, and fixes for each release. [3a5d67d8](https://github.com/electrocucaracha/yt-conferences/commit/3a5d67d855b57c5efc4d203d1ef42a83f04c14d2)
+
 ## [3.1.3] - 2026-09-14
 
 ### Changed
