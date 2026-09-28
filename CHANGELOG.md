@@ -55,7 +55,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Excluded node_modules/ and package*.json files from version control to prevent repository noise and reduce unnecessary tracking. [85540ba2](https://github.com/electrocucaracha/yt-conferences/commit/85540ba2526a45c0aadc4ebdf10ced28c37bc709)
+- Excluded node_modules/ and package\*.json files from version control to prevent repository noise and reduce unnecessary tracking. [85540ba2](https://github.com/electrocucaracha/yt-conferences/commit/85540ba2526a45c0aadc4ebdf10ced28c37bc709)
 
 ## [3.2.0] - 2026-09-15
 
