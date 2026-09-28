@@ -48,6 +48,4 @@ He concludes by inviting the audience to explore Deco Studio, their platform for
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/nctYH0NrXvM/hqdefault.jpg)](https://www.youtube.com/watch?v=nctYH0NrXvM)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=nctYH0NrXvM)
+This video is no longer available on YouTube.

@@ -52,6 +52,4 @@ The speaker invites the community to contribute experimental ideas and implement
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/0nNUor6GVbk/hqdefault.jpg)](https://www.youtube.com/watch?v=0nNUor6GVbk)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=0nNUor6GVbk)
+This video is no longer available on YouTube.

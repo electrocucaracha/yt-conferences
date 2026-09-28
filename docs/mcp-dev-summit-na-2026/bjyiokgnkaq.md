@@ -52,6 +52,4 @@ Finally, he notes that dives fill a gap between static dashboards and ad hoc bus
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/BJYiOKgnKaQ/hqdefault.jpg)](https://www.youtube.com/watch?v=BJYiOKgnKaQ)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=BJYiOKgnKaQ)
+This video is no longer available on YouTube.

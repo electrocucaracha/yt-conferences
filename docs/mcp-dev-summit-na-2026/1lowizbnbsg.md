@@ -58,6 +58,4 @@ Spira also highlights ongoing efforts to enhance security, integrate payer rules
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/1lOWizbNBSg/hqdefault.jpg)](https://www.youtube.com/watch?v=1lOWizbNBSg)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=1lOWizbNBSg)
+This video is no longer available on YouTube.

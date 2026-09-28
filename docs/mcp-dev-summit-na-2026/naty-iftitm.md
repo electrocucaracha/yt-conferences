@@ -53,6 +53,4 @@ They conclude by encouraging ongoing experimentation and adaptation as the field
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Naty_iFtITM/hqdefault.jpg)](https://www.youtube.com/watch?v=Naty_iFtITM)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=Naty_iFtITM)
+This video is no longer available on YouTube.

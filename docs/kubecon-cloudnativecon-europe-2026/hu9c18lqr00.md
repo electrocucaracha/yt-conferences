@@ -49,6 +49,4 @@ The presenters emphasize OB’s security benefits, ease of deployment, and its a
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/hu9c18lqR00/hqdefault.jpg)](https://www.youtube.com/watch?v=hu9c18lqR00)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=hu9c18lqR00)
+This video is no longer available on YouTube.

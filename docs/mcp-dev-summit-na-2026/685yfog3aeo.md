@@ -51,6 +51,4 @@ Ryan illustrates these concepts with examples from their internal applications, 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/685yFOg3aEo/hqdefault.jpg)](https://www.youtube.com/watch?v=685yFOg3aEo)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=685yFOg3aEo)
+This video is no longer available on YouTube.

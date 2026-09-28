@@ -49,6 +49,4 @@ While this approach is a workaround rather than an ideal solution, it allows for
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/isKuHXRf6wM/hqdefault.jpg)](https://www.youtube.com/watch?v=isKuHXRf6wM)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=isKuHXRf6wM)
+This video is no longer available on YouTube.

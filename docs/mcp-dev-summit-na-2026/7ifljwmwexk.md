@@ -58,6 +58,4 @@ The talk concludes with key takeaways: confining domains, using tags and skills 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/7iFLJwMWEXk/hqdefault.jpg)](https://www.youtube.com/watch?v=7iFLJwMWEXk)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=7iFLJwMWEXk)
+This video is no longer available on YouTube.

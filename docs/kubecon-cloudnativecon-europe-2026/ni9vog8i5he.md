@@ -52,6 +52,4 @@ The session concludes with an invitation to join the project and a group selfie 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/nI9VOG8I5HE/hqdefault.jpg)](https://www.youtube.com/watch?v=nI9VOG8I5HE)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=nI9VOG8I5HE)
+This video is no longer available on YouTube.

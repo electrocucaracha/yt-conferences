@@ -53,6 +53,4 @@ He concludes by recommending MCP for enterprises due to its security, while advi
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/1HhfFkFQrn8/hqdefault.jpg)](https://www.youtube.com/watch?v=1HhfFkFQrn8)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=1HhfFkFQrn8)
+This video is no longer available on YouTube.

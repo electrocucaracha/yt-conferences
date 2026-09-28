@@ -51,6 +51,4 @@ The session concludes with a discussion on the importance of standard protocols 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/2cndQvkoGAw/hqdefault.jpg)](https://www.youtube.com/watch?v=2cndQvkoGAw)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=2cndQvkoGAw)
+This video is no longer available on YouTube.

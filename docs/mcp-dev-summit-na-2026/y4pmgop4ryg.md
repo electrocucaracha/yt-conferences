@@ -52,6 +52,4 @@ The session concludes with a discussion on potential improvements and the import
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Y4pmgoP4ryg/hqdefault.jpg)](https://www.youtube.com/watch?v=Y4pmgoP4ryg)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=Y4pmgoP4ryg)
+This video is no longer available on YouTube.

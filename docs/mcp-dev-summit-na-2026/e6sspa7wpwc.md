@@ -50,6 +50,4 @@ Looking ahead, the team is working on features like reusable views and greater i
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/e6sspA7WpWc/hqdefault.jpg)](https://www.youtube.com/watch?v=e6sspA7WpWc)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=e6sspA7WpWc)
+This video is no longer available on YouTube.

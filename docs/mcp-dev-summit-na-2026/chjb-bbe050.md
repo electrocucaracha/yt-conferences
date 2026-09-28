@@ -51,6 +51,4 @@ The talk emphasizes the importance of designing agent experiences that empower u
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/chJb_BbE050/hqdefault.jpg)](https://www.youtube.com/watch?v=chJb_BbE050)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=chJb_BbE050)
+This video is no longer available on YouTube.

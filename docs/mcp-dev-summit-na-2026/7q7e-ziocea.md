@@ -56,6 +56,4 @@ Continuous feedback loops, careful experimentation with new models, and combinin
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/7q7e_zioCEA/hqdefault.jpg)](https://www.youtube.com/watch?v=7q7e_zioCEA)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=7q7e_zioCEA)
+This video is no longer available on YouTube.

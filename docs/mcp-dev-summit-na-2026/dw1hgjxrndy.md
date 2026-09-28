@@ -55,6 +55,4 @@ Ultimately, Smith concludes that MCP has matured into essential infrastructure, 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/DW1hGJXrNdY/hqdefault.jpg)](https://www.youtube.com/watch?v=DW1hGJXrNdY)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=DW1hGJXrNdY)
+This video is no longer available on YouTube.

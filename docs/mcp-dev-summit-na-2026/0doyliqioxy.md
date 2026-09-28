@@ -53,6 +53,4 @@ They conclude that, due to the probabilistic and evolving nature of AI agents, m
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/0dOYliqioxY/hqdefault.jpg)](https://www.youtube.com/watch?v=0dOYliqioxY)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=0dOYliqioxY)
+This video is no longer available on YouTube.

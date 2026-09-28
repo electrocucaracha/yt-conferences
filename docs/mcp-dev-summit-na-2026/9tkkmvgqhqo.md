@@ -54,6 +54,4 @@ The team also addresses challenges in productionizing these agents, including wo
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/9TkKmvgqHQo/hqdefault.jpg)](https://www.youtube.com/watch?v=9TkKmvgqHQo)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=9TkKmvgqHQo)
+This video is no longer available on YouTube.

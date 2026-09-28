@@ -51,6 +51,4 @@ The talk concludes by introducing MCP Jam’s new sandbox environments, which al
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/XqjOcKEUSRQ/hqdefault.jpg)](https://www.youtube.com/watch?v=XqjOcKEUSRQ)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=XqjOcKEUSRQ)
+This video is no longer available on YouTube.

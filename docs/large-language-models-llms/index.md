@@ -84,7 +84,6 @@ To deploy reliable AI solutions, leaders must focus on data curation, systems ef
 | Talk Title                                                                                               | Speaker & Organization  | Core Thesis & Strategic Insight                                                                                                     |
 | :------------------------------------------------------------------------------------------------------- | :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
 | [Stanford CS25: V5 I On the Biology of a Large Language Model, Josh Batson of Anthropic](vrqs7qfidau.md) | Josh Batson (Anthropic) | Demonstrates mechanistic interpretability using sparse autoencoders (dictionary learning) to discover concept features inside LLMs. |
-| [Title not found](ebnx5ur1hbk.md)                                                                        | N/A                     | Placeholder note for unsummarized video transcript.                                                                                 |
 
 ## Concepts
 
@@ -105,4 +104,3 @@ To deploy reliable AI solutions, leaders must focus on data curation, systems ef
 - [Stanford CS25: V5 I On the Biology of a Large Language Model, Josh Batson of Anthropic](vrqs7qfidau.md) - Joshua Batson from Anthropic presents an overview of his team's work on mechanistic interpretability of large language models, focusing on understanding their internal "biology." He explains that, rather than simply pattern-matching or using...
 - [Stanford CS336 Language Modeling from Scratch \| Spring 2025 \| Lecture 1: Overview and Tokenization](sq3fz1saqxi.md) - The CS 336 course, "Language Models from Scratch," is designed to provide students with a comprehensive, hands-on understanding of the entire language modeling pipeline, from data processing and tokenization to model architecture, training...
 - [Stanford Webinar - Large Language Models Get the Hype, but Compound Systems Are the Future of AI](vrtce19m-ke.md) - The speaker emphasizes that while large language models (LLMs) receive most of the attention in AI, real progress and practical deployment rely on viewing AI as compound systems—integrations of models, prompts, sampling methods, and externa...
-- [Title not found](ebnx5ur1hbk.md) - Of course! Please provide the video transcript you would like summarized.

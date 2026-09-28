@@ -54,6 +54,4 @@ The system enforces access controls at multiple layers—agent, server, tool, an
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Lo4nyYuERsY/hqdefault.jpg)](https://www.youtube.com/watch?v=Lo4nyYuERsY)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=Lo4nyYuERsY)
+This video is no longer available on YouTube.

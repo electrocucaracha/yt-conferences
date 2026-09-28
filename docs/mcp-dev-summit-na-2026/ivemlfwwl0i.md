@@ -51,6 +51,4 @@ The talk concludes with a Q&A, emphasizing that MCP’s effectiveness relies on 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/IvemlFwwl0I/hqdefault.jpg)](https://www.youtube.com/watch?v=IvemlFwwl0I)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=IvemlFwwl0I)
+This video is no longer available on YouTube.

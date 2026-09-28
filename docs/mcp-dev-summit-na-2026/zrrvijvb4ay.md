@@ -45,6 +45,4 @@ To address these challenges, White recommends a defense-in-depth approach, inclu
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/zRRvijVb4AY/hqdefault.jpg)](https://www.youtube.com/watch?v=zRRvijVb4AY)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=zRRvijVb4AY)
+This video is no longer available on YouTube.

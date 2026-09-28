@@ -54,6 +54,4 @@ Ultimately, they stress the need to balance functionality and security, providin
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/HrfaijVcOf8/hqdefault.jpg)](https://www.youtube.com/watch?v=HrfaijVcOf8)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=HrfaijVcOf8)
+This video is no longer available on YouTube.

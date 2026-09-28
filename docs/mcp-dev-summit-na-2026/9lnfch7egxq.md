@@ -50,6 +50,4 @@ The demo illustrates how CPax can enforce attribute-based policies, manage ident
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/9lNFch7eGxQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9lNFch7eGxQ)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=9lNFch7eGxQ)
+This video is no longer available on YouTube.
