@@ -11,6 +11,7 @@ Normalize OKF concept document formatting for consistency and readability.
 This formatter improves:
   - Summary sections: Splits long paragraphs into semantic sentences (one per line)
     for easier diffs, version control tracking, and readability
+  - Video sections: Adds a clickable YouTube thumbnail derived from the resource URL
   - Consistent file encoding and trailing whitespace handling
 
 Run as: make fmt (as part of the broader format pipeline)
@@ -26,6 +27,51 @@ from pathlib import Path
 import click
 
 ROOT = Path(__file__).resolve().parents[1] / "docs"
+VIDEO_ID_PATTERN = re.compile(r"[?&]v=([A-Za-z0-9_-]{11})")
+THUMBNAIL_PATTERN = re.compile(r"^\[!\[Video thumbnail\]\(.*\n\n", re.MULTILINE)
+
+
+def add_video_thumbnail(text: str, frontmatter: str) -> str:
+    """
+    Return the document with a clickable YouTube thumbnail under '# Video'.
+
+    The thumbnail URL is derived from the video id in the frontmatter 'resource'
+    field. Documents without a YouTube resource or without a Video section are
+    returned unchanged. Any previously generated thumbnail is replaced, which
+    keeps the function idempotent.
+
+    Args:
+        text: Full Markdown document content.
+        frontmatter: The frontmatter block of the document.
+
+    Returns:
+        str: The document content, with the thumbnail inserted when applicable.
+
+    Examples:
+        >>> doc = '# Video\\n\\n[Watch on YouTube](https://youtu.be/x)\\n'
+        >>> out = add_video_thumbnail(doc, 'resource: https://y.com/watch?v=abcdefghijk\\n')
+        >>> 'img.youtube.com/vi/abcdefghijk/hqdefault.jpg' in out
+        True
+        >>> add_video_thumbnail(out, 'resource: https://y.com/watch?v=abcdefghijk\\n') == out
+        True
+        >>> add_video_thumbnail(doc, 'type: test\\n') == doc
+        True
+    """
+    resource = re.search(r"^resource: (\S+)\s*$", frontmatter, re.MULTILINE)
+    if not resource:
+        return text
+    video_id = VIDEO_ID_PATTERN.search(resource.group(1))
+    if not video_id:
+        return text
+    thumbnail = (
+        f"[![Video thumbnail]"
+        f"(https://img.youtube.com/vi/{video_id.group(1)}/hqdefault.jpg)]"
+        f"({resource.group(1)})"
+    )
+    text = THUMBNAIL_PATTERN.sub("", text)
+    return re.sub(
+        r"^# Video\n\n", f"# Video\n\n{thumbnail}\n\n", text, flags=re.MULTILINE
+    )
 
 
 def format_concept(path: Path) -> None:
@@ -111,11 +157,14 @@ def format_concept(path: Path) -> None:
     end = text.find("\n---", 4)
     if end == -1:
         return
+    text = add_video_thumbnail(text, text[4:end])
+    end = text.find("\n---", 4)
     body = text[end + 4 :].strip()
     existing_summary = re.search(
         r"^# Summary\s*\n\n(.*?)(?=\n# Main Points)", body, re.MULTILINE | re.DOTALL
     )
     if not existing_summary:
+        path.write_text(text, encoding="utf-8")
         return
     summary_lines = [
         sentence.strip()

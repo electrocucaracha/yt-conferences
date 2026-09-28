@@ -1,0 +1,8 @@
+site:
+  baseUrl: https://electrocucaracha.github.io/yt-conferences/
+  name: YouTube Conference Knowledge
+  language: en
+  title: Conference Knowledge Collections
+  description: Structured notes distilled from conference and course recordings.
+theme:
+  name: corporate

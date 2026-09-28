@@ -7,7 +7,7 @@
 # http://www.apache.org/licenses/LICENSE-2.0
 ##############################################################################
 
-.PHONY: fmt check qmd-setup qmd-update qmd-embed qmd-check qmd-mcp clean
+.PHONY: fmt check build preview qmd-setup qmd-update qmd-embed qmd-check qmd-mcp clean
 DOCKER_CMD ?= $(shell which docker 2> /dev/null || which podman 2> /dev/null || echo docker)
 
 cleanup:
@@ -28,9 +28,17 @@ fmt: cleanup
 	uv run --script scripts/format_okf.py
 
 check:
-	uv run --script scripts/check_okf.py
+	bash scripts/run_kiso.sh
 
-qmd-setup: format
+build:
+	bash scripts/run_kiso.sh build --destination=public
+
+preview: PORT ?= 8099
+preview:
+	bash scripts/run_kiso.sh build --destination=public --profile local
+	python3 -m http.server $(PORT) --directory public
+
+qmd-setup: fmt
 	bash scripts/configure_qmd.sh
 
 qmd-update:

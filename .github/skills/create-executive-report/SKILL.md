@@ -54,16 +54,12 @@ Synthesize the aggregated knowledge into the following structured sections:
 
 Create or update `README.md` in the target conference folder with the synthesized content.
 
-The generated `README.md` MUST include YAML frontmatter with OKF v0.2 and GitHub Pages (Jekyll / Just the Docs) metadata at the top:
+The generated `README.md` MUST include OKF v0.2 YAML frontmatter at the top:
 
 ```yaml
 ---
-layout: default
 title: "Executive Report: <Conference Title>"
-parent: "<Conference Title>"
-nav_order: 1
 type: "Executive Report"
-okf_version: "0.2"
 description: "Executive report and summary of the <Conference Title> conference."
 tags:
   - <conference-folder-name>
