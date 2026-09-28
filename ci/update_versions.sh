@@ -73,10 +73,12 @@ update_github_actions() {
 			continue
 		fi
 
-		commit_hash="$(git ls-remote "https://github.com/${action}" |
-			grep 'refs/tags/[v]\?[0-9][0-9\.]*$' |
-			sed 's|refs/tags/||' |
-			sort -u -k2 -V |
+		# Peeled (^{}) entries follow annotated tags, so the commit SHA wins.
+		commit_hash="$(git ls-remote --tags "https://github.com/${action}" |
+			grep -E 'refs/tags/v?[0-9][0-9.]*(\^\{\})?$' |
+			sed -e 's|refs/tags/||' -e 's|\^{}$||' |
+			awk '{ hash[$2] = $1 } END { for (tag in hash) print hash[tag], tag }' |
+			sort -k2 -V |
 			tail -1 |
 			awk '{ printf "%s # %s\n", $1, $2 }')"
 		if [[ -z ${commit_hash} ]]; then

@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - "master"
+      - "main"
 permissions:
   contents: read
 concurrency:
@@ -36,7 +36,7 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
       - name: Build with Kiso
-        uses: oak-invest/kiso/applications/kiso-cli-action@ec529f0c6493a64456b7d5a99dfe622300c20f2b # v0.2.5
+        uses: oak-invest/kiso/applications/kiso-cli-action@98547118c2ec850c46dd60bbfcf296c4e5a37680 # v0.2.5
         with:
           command: build
           source: docs
