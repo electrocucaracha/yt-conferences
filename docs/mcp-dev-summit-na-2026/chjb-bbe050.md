@@ -5,7 +5,6 @@ description:
   The speakers discuss how modern agent interfaces, particularly in VS
   Code, are moving beyond simple text-based interactions to provide richer, more interactive
   experiences through the MCP (Multi-Client Protocol). They highlight the "missing...
-resource: https://www.youtube.com/watch?v=chJb_BbE050
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -52,3 +51,5 @@ The talk emphasizes the importance of designing agent experiences that empower u
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=chJb_BbE050 -->

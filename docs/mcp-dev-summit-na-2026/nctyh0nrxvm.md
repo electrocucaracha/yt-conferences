@@ -7,7 +7,6 @@ description:
   Guilherme Rodrigues, co-founder of Deco CMS, discusses the company's
   journey in building MCPs (Multi-Channel Platforms) to enable autonomous storefronts
   for high-volume e-commerce sites. Deco centralizes tools and infrastructure, integrates...
-resource: https://www.youtube.com/watch?v=nctYH0NrXvM
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -49,3 +48,5 @@ He concludes by inviting the audience to explore Deco Studio, their platform for
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=nctYH0NrXvM -->

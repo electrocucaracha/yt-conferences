@@ -6,7 +6,6 @@ description:
   extending the traditional MCP (Message Control Protocol) request-response model
   to a real-time, streaming architecture for AI agents. By integrating event sources
   like l...
-resource: https://www.youtube.com/watch?v=V7JceTECVO0
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -54,3 +53,5 @@ The solution is designed to be flexible, decoupling the streaming platform from 
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=V7JceTECVO0 -->

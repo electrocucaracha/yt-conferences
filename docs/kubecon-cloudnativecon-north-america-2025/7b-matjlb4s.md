@@ -7,7 +7,6 @@ description:
   Nikun Goyel and Adidi Gupta discuss the challenges of serverless GPU
   workloads, focusing on the significant cold start latency that makes real-time inference
   difficult. They explain that while serverless computing ideally offers zero infras...
-resource: https://www.youtube.com/watch?v=7b-mAtJLb4s
 tags:
   - kubecon-cloudnativecon-north-america-2025
   - video
@@ -54,3 +53,5 @@ The session concludes with a Q&A addressing motivators for serverless inference 
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=7b-mAtJLb4s -->

@@ -7,7 +7,6 @@ description:
   Nick Aldridge, a former AWS principal engineer and current startup founder,
   reflects on the evolution of agent interactions since the first MCP summit. He describes
   how early language models enabled basic chat and Q&A, leading to more compl...
-resource: https://www.youtube.com/watch?v=1HhfFkFQrn8
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -54,3 +53,5 @@ He concludes by recommending MCP for enterprises due to its security, while advi
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=1HhfFkFQrn8 -->

@@ -8,7 +8,6 @@ description:
   of evaluating and improving user value in MCP server development, emphasizing the
   importance of understanding the "XY problem," where developers often address assumed
   solu...
-resource: https://www.youtube.com/watch?v=XqjOcKEUSRQ
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -52,3 +51,5 @@ The talk concludes by introducing MCP Jam’s new sandbox environments, which al
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=XqjOcKEUSRQ -->

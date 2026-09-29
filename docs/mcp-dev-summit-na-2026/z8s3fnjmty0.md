@@ -8,7 +8,6 @@ description:
   a proposed extension to the Model Context Protocol (MCP) designed to address the
   need for standardized context governance in agentic AI systems, particularly in
   h...
-resource: https://www.youtube.com/watch?v=z8s3fNjMtY0
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -58,3 +57,5 @@ The presenters emphasize that interceptors provide a plug-and-play framework for
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=z8s3fNjMtY0 -->

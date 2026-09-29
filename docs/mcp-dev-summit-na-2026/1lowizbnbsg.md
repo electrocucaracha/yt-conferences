@@ -7,7 +7,6 @@ description:
   Andre Spira, co-founder of Custod, discusses the challenges in healthcare
   billing, emphasizing that the main issue is not data availability but the lack of
   an orchestration layer to streamline information for billers and providers. He expla...
-resource: https://www.youtube.com/watch?v=1lOWizbNBSg
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -59,3 +58,5 @@ Spira also highlights ongoing efforts to enhance security, integrate payer rules
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=1lOWizbNBSg -->

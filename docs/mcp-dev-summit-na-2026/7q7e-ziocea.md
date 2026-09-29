@@ -8,7 +8,6 @@ description:
   journey of turning AI agent prototypes into production-ready products, focusing
   on the development and deployment of Datadog’s Bits AI agent for on-call engineers.
   He emph...
-resource: https://www.youtube.com/watch?v=7q7e_zioCEA
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -57,3 +56,5 @@ Continuous feedback loops, careful experimentation with new models, and combinin
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=7q7e_zioCEA -->

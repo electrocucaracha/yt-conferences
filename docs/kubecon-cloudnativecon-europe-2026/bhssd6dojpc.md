@@ -7,7 +7,6 @@ description:
   In this presentation, Mario Sabat and Maya from IBM Research discuss
   their work on securing agentic applications at the platform level, focusing on challenges
   that arise when agents, rather than users, interact with enterprise systems. They...
-resource: https://www.youtube.com/watch?v=bHSsd6dojPc
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video
@@ -53,3 +52,5 @@ The team also highlights ongoing and future work, such as integrating agent sema
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=bHSsd6dojPc -->

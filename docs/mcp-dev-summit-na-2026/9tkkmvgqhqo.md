@@ -6,7 +6,6 @@ description:
   the development of the Storage Intelligence MCP server, which aims to bridge AI
   agents and cloud storage to enable autonomous, goal-driven storage management. They
   desc...
-resource: https://www.youtube.com/watch?v=9TkKmvgqHQo
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -55,3 +54,5 @@ The team also addresses challenges in productionizing these agents, including wo
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=9TkKmvgqHQo -->

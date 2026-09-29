@@ -7,7 +7,6 @@ description:
   In this session, the speaker from Equinix discusses the journey and challenges
   of scaling MCP servers within a large digital infrastructure company. Initially,
   Equinix started with a single MCP server to automate infrastructure tasks like p...
-resource: https://www.youtube.com/watch?v=7iFLJwMWEXk
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -59,3 +58,5 @@ The talk concludes with key takeaways: confining domains, using tags and skills 
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=7iFLJwMWEXk -->

@@ -7,7 +7,6 @@ description:
   Amardep Singh and Nilab, experienced IT and engineering architects, discuss
   the challenges and considerations of moving AI protocols, particularly large language
   models (LLMs) and agentic frameworks, from experimentation to production in en...
-resource: https://www.youtube.com/watch?v=0dOYliqioxY
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -54,3 +53,5 @@ They conclude that, due to the probabilistic and evolving nature of AI agents, m
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=0dOYliqioxY -->

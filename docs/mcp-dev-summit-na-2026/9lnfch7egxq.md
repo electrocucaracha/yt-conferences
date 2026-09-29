@@ -7,7 +7,6 @@ description:
   The video discusses the security challenges posed by autonomous agents,
   emphasizing that agents themselves—rather than just users—should be treated as potential
   insider threats within organizations. Traditional approaches, such as adding mo...
-resource: https://www.youtube.com/watch?v=9lNFch7eGxQ
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -51,3 +50,5 @@ The demo illustrates how CPax can enforce attribute-based policies, manage ident
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=9lNFch7eGxQ -->

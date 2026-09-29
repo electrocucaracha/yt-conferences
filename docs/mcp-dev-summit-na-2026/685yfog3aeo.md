@@ -8,7 +8,6 @@ description:
   MCP concepts and protocol primitives to enhance the effectiveness of internal agents.
   Rather than focusing solely on authentication, he explains their development of
   a "...
-resource: https://www.youtube.com/watch?v=685yFOg3aEo
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -52,3 +51,5 @@ Ryan illustrates these concepts with examples from their internal applications, 
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=685yFOg3aEo -->

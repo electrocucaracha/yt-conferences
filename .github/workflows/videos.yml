@@ -1,0 +1,51 @@
+# SPDX-license-identifier: Apache-2.0
+##############################################################################
+# Copyright (c) 2026
+# All rights reserved. This program and the accompanying materials
+# are made available under the terms of the Apache License, Version 2.0
+# which accompanies this distribution, and is available at
+# http://www.apache.org/licenses/LICENSE-2.0
+##############################################################################
+name: "Maintenance: Scheduled YouTube Video Availability Check"
+# yamllint disable-line rule:truthy
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+permissions: read-all
+concurrency:
+  group: scheduled-video-check
+  cancel-in-progress: true
+jobs:
+  check-videos:
+    name: Unlink Unavailable YouTube Videos
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    env:
+      BRANCH: chore/unavailable-videos
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+      - name: Check video availability
+        run: python3 scripts/check_videos.py --attempts 3 --delay 30
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+        run: |
+          if git diff --quiet -- docs; then
+            echo "All videos are available."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$BRANCH"
+          git commit -am "chore(docs): unlink unavailable YouTube videos"
+          git push --force origin "$BRANCH"
+          if [[ -z "$(gh pr list --head "$BRANCH" --state open --json number --jq '.[].number')" ]]; then
+            gh pr create --base main --head "$BRANCH" \
+              --title "chore(docs): unlink unavailable YouTube videos" \
+              --body "Automated weekly check found YouTube videos that returned 404 after several attempts. Their links were replaced with an unavailability notice."
+          fi

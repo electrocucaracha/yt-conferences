@@ -5,7 +5,6 @@ description:
   Matt White, Global CTO of AI at the Linux Foundation, presents on building
   safe and secure agentic AI, drawing on Professor Dawn Song’s research at UC Berkeley.
   He explains that agentic AI fundamentally changes the risk landscape compared t...
-resource: https://www.youtube.com/watch?v=zRRvijVb4AY
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -46,3 +45,5 @@ To address these challenges, White recommends a defense-in-depth approach, inclu
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=zRRvijVb4AY -->

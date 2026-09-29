@@ -6,7 +6,6 @@ description:
   agents to interact with APIs, focusing on the challenges of scaling tool access
   for agents due to large API specifications that exceed model context windows. He
   outlines...
-resource: https://www.youtube.com/watch?v=2cndQvkoGAw
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -52,3 +51,5 @@ The session concludes with a discussion on the importance of standard protocols 
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=2cndQvkoGAw -->

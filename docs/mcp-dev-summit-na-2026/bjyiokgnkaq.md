@@ -6,7 +6,6 @@ description:
   data warehouse built on DuckDB, emphasizing its compute isolation model that ensures
   each user has a dedicated compute instance, thus preventing inefficient queries
   from...
-resource: https://www.youtube.com/watch?v=BJYiOKgnKaQ
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -53,3 +52,5 @@ Finally, he notes that dives fill a gap between static dashboards and ad hoc bus
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=BJYiOKgnKaQ -->

@@ -5,7 +5,6 @@ description:
   In this talk, Adam from Prefect discusses SEP 1686, which addresses task
   execution and orchestration in the MCP ecosystem. He explains the historical challenges
   of building resilient, reliable task orchestration, such as the risks of colloc...
-resource: https://www.youtube.com/watch?v=isKuHXRf6wM
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -50,3 +49,5 @@ While this approach is a workaround rather than an ideal solution, it allows for
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=isKuHXRf6wM -->

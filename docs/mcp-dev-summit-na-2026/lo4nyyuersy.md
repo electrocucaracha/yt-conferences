@@ -8,7 +8,6 @@ description:
   of building specialized agents and MCP servers over using monolithic agents with
   broad tool access. They demonstrate how monolithic agents, which have access to
   man...
-resource: https://www.youtube.com/watch?v=Lo4nyYuERsY
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -55,3 +54,5 @@ The system enforces access controls at multiple layers—agent, server, tool, an
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=Lo4nyYuERsY -->

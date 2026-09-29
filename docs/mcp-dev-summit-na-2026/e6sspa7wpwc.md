@@ -6,7 +6,6 @@ description:
   enables rich, interactive user interfaces to replace traditional walls of text in
   applications like ChatGPT, VS Code, and cloud platforms. In just four months, MCP
   apps...
-resource: https://www.youtube.com/watch?v=e6sspA7WpWc
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -51,3 +50,5 @@ Looking ahead, the team is working on features like reusable views and greater i
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=e6sspA7WpWc -->

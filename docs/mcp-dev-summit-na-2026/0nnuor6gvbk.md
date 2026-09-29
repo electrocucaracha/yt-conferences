@@ -7,7 +7,6 @@ description:
   The speaker discusses bridging the gap between those with ideas for improving
   MCP or agents and those able to test and implement these ideas at scale. They introduce
   Goose, an open-source agent project originating at Block and now governed...
-resource: https://www.youtube.com/watch?v=0nNUor6GVbk
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -53,3 +52,5 @@ The speaker invites the community to contribute experimental ideas and implement
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=0nNUor6GVbk -->

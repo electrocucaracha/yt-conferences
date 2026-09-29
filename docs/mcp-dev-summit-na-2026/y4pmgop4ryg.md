@@ -6,7 +6,6 @@ description:
   recent MCP (Modular Component Platform) talks, particularly the integration of agent
   skills with MCP servers and the use of gateway products. He explains the challenges
   o...
-resource: https://www.youtube.com/watch?v=Y4pmgoP4ryg
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -53,3 +52,5 @@ The session concludes with a discussion on potential improvements and the import
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=Y4pmgoP4ryg -->

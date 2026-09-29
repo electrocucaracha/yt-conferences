@@ -6,7 +6,6 @@ description:
   highlighting the development of the first hundred agents and strategies for scaling
   to thousands. They describe three main focus areas: AI agents for Data Dog, Data
   Dog..."
-resource: https://www.youtube.com/watch?v=Naty_iFtITM
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -54,3 +53,5 @@ They conclude by encouraging ongoing experimentation and adaptation as the field
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=Naty_iFtITM -->

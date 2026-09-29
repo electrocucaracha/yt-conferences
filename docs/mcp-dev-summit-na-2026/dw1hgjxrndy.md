@@ -8,7 +8,6 @@ description:
   MCP server and related agent technologies. He reflects on the initial limitations
   of MCP, such as the lack of agentic CLIs, transport solutions, and long-running
   model c...
-resource: https://www.youtube.com/watch?v=DW1hGJXrNdY
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -56,3 +55,5 @@ Ultimately, Smith concludes that MCP has matured into essential infrastructure, 
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=DW1hGJXrNdY -->

@@ -6,7 +6,6 @@ description:
   the OpenTelemetry BPF (OB) Instrumentation project, which leverages eBPF technology
   for low-overhead, kernel-level monitoring of DNS activity in Linux environments.
   They...
-resource: https://www.youtube.com/watch?v=hu9c18lqR00
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video
@@ -50,3 +49,5 @@ The presenters emphasize OB’s security benefits, ease of deployment, and its a
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=hu9c18lqR00 -->

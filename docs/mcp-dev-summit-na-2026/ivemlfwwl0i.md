@@ -8,7 +8,6 @@ description:
   talk on the anatomy of a meltdown, focusing on the Model Context Protocol (MCP)
   and its six core components: notifications, subscriptions, resources, prompts, tools,
   an..."
-resource: https://www.youtube.com/watch?v=IvemlFwwl0I
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -52,3 +51,5 @@ The talk concludes with a Q&A, emphasizing that MCP’s effectiveness relies on 
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=IvemlFwwl0I -->

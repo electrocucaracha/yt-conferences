@@ -8,7 +8,6 @@ description:
   building the MCP server, focusing on the challenges of moving files and integrating
   AI agents with Box’s intelligent content platform. They explain that Box stores
   vast am...
-resource: https://www.youtube.com/watch?v=HrfaijVcOf8
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -55,3 +54,5 @@ Ultimately, they stress the need to balance functionality and security, providin
 # Video
 
 This video is no longer available on YouTube.
+
+<!-- resource: https://www.youtube.com/watch?v=HrfaijVcOf8 -->
