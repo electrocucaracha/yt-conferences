@@ -61,6 +61,7 @@ def unlink_video(path: Path, text: str, url: str) -> None:
 
 
 def main() -> int:
+    """Scan notes and unlink YouTube videos that are no longer available."""
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[1])
     parser.add_argument("--root", type=Path, default=ROOT)
     parser.add_argument("--attempts", type=int, default=3)
