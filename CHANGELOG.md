@@ -67,7 +67,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Escaped the asterisk in package*.json filenames to prevent Markdown formatting issues and improve changelog readability. [201b2699](https://github.com/electrocucaracha/yt-conferences/commit/201b26996cdf42ba7f247f3afaca8b0385946f35)
+- Escaped the asterisk in `package*.json` filenames to prevent Markdown formatting issues and improve changelog readability. [201b2699](https://github.com/electrocucaracha/yt-conferences/commit/201b26996cdf42ba7f247f3afaca8b0385946f35)
 
 ## [3.3.2] - 2026-09-27
 
@@ -133,7 +133,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Excluded node_modules/ and package\*.json files from version control to prevent repository noise and reduce unnecessary tracking. [85540ba2](https://github.com/electrocucaracha/yt-conferences/commit/85540ba2526a45c0aadc4ebdf10ced28c37bc709)
+- Excluded `node_modules/` and `package*.json` files from version control to prevent repository noise and reduce unnecessary tracking. [85540ba2](https://github.com/electrocucaracha/yt-conferences/commit/85540ba2526a45c0aadc4ebdf10ced28c37bc709)
 
 ## [3.2.0] - 2026-09-15
 
@@ -235,7 +235,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- configure_qmd.sh can now be directly invoked without manual permission changes. [24777751](https://github.com/electrocucaracha/yt-conferences/commit/24777751b598771d3b37a986832a952d49b50ef6)
+- `configure_qmd.sh` can now be directly invoked without manual permission changes. [24777751](https://github.com/electrocucaracha/yt-conferences/commit/24777751b598771d3b37a986832a952d49b50ef6)
 
 ## [1.1.0] - 2026-09-12
 
