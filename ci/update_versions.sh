@@ -90,10 +90,13 @@ update_github_actions() {
 		# shellcheck disable=SC2016
 		find .github/workflows -type f \( -name '*.yml' -o -name '*.yaml' \) -print0 |
 			xargs -0 perl -0pi -e \
-				's|uses: \Q$ENV{ACTION}\E\@.*|uses: $ENV{ACTION}\@$ENV{COMMIT_HASH}|g'
-	done < <(grep -rhoE 'uses: [A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+@[^[:space:]]+' \
+				's|uses: \Q$ENV{ACTION}\E(/[^\@\s]+)?\@.*|uses: $ENV{ACTION}${1}\@$ENV{COMMIT_HASH}|g'
+	# Reusable workflows and sub-actions (owner/repo/path@ref) share the repo tags.
+	done < <(grep -rhoE \
+		'uses: [A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+(/[^@[:space:]]+)?@[^[:space:]]+' \
 		.github/workflows |
 		sed 's/^uses: //; s/@.*//' |
+		cut -d/ -f1-2 |
 		sort -u)
 }
 
