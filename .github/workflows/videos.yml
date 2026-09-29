@@ -28,7 +28,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          token: ${{ secrets.WORKFLOW_TOKEN }}
+          persist-credentials: false
       - name: Check video availability
         run: python3 scripts/check_videos.py --attempts 3 --delay 30
       - name: Open pull request
@@ -43,7 +43,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git switch -c "$BRANCH"
           git commit -am "chore(docs): unlink unavailable YouTube videos"
-          git push --force origin "$BRANCH"
+          git push --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "$BRANCH"
           if [[ -z "$(gh pr list --head "$BRANCH" --state open --json number --jq '.[].number')" ]]; then
             gh pr create --base main --head "$BRANCH" \
               --title "chore(docs): unlink unavailable YouTube videos" \
