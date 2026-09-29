@@ -9,6 +9,84 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [4.1.2] - 2026-09-29
+
+### Changed
+
+- Upgraded the reusable workflow to version v9.3.3 to leverage recent bugfixes and workflow enhancements from the upstream repository. [2aa3a7d8](https://github.com/electrocucaracha/yt-conferences/commit/2aa3a7d8e83976ec4071e6ee4e0bd2bdc38c91d2)
+
+## [4.1.1] - 2026-09-29
+
+### Changed
+
+- clarified the context of reusable workflows and sub-actions sharing repository tags by repositioning the relevant comment above the commit hash lookup. [25aed81e](https://github.com/electrocucaracha/yt-conferences/commit/25aed81e9dffc2c8701919b02637e6f0f19bbb0b)
+
+## [4.1.0] - 2026-09-28
+
+### Added
+
+- Enabled improved documentation for the main function by adding a docstring describing its purpose. [c132fa5e](https://github.com/electrocucaracha/yt-conferences/commit/c132fa5e1ab96e96e573236a8f2f6e95013a996f)
+
+## [4.0.5] - 2026-09-28
+
+### Fixed
+
+- The GitHub Actions update process has been stabilized to correctly version reusable workflows and composite actions residing in subfolders. [802a40de](https://github.com/electrocucaracha/yt-conferences/commit/802a40ded06da682b890cb87404b4bb98c9af75c)
+
+## [4.0.4] - 2026-09-28
+
+### Changed
+
+- Updated the link checker in the documentation workflow to version 2.9.0, enabling improved link detection and bugfixes. [d028ec38](https://github.com/electrocucaracha/yt-conferences/commit/d028ec3869304b5efd0b70e723d95f11447bd12d)
+
+## [4.0.3] - 2026-09-28
+
+### Changed
+
+- Optimized GitHub Actions workflow token handling to prevent default token usage for subsequent Git commands and introduced a personal access token for authentication in the push step. [8192e3d7](https://github.com/electrocucaracha/yt-conferences/commit/8192e3d73d3719bf792fae4e8236d326ba30f053)
+
+## [4.0.2] - 2026-09-28
+
+### Changed
+
+- Optimized the pre-commit workflow by upgrading the ai-prepare-commit-msg hook to v19.2.4, ensuring the latest improvements and fixes are incorporated into commit message preparation functionality and compatibility. [fc909b68](https://github.com/electrocucaracha/yt-conferences/commit/fc909b6855de5c4971eb227e206863e8bfcc491f)
+
+## [4.0.1] - 2026-09-28
+
+### Changed
+
+- Automatically updated Markdown notes now reflect the unavailability of YouTube videos, reducing manual maintenance and ensuring documentation remains current for users. [a24697dd](https://github.com/electrocucaracha/yt-conferences/commit/a24697dd85dc0e47feb952d3678941a83590585f)
+
+## [4.0.0] - 2026-09-28
+
+### Removed
+
+- Stabilized documentation by removing unavailable and placeholder content, including talks, sessions, and videos no longer available or missing, which reduces confusion and improves overall documentation integrity. [e002195d](https://github.com/electrocucaracha/yt-conferences/commit/e002195db729ab6017160b29c6c9c6e85aa7b0d3)
+
+## [3.3.3] - 2026-09-27
+
+### Changed
+
+- Escaped the asterisk in package*.json filenames to prevent Markdown formatting issues and improve changelog readability. [201b2699](https://github.com/electrocucaracha/yt-conferences/commit/201b26996cdf42ba7f247f3afaca8b0385946f35)
+
+## [3.3.2] - 2026-09-27
+
+### Changed
+
+- Modernized GitHub Pages and documentation workflows to use the "main" branch and specified target files for the link checker, ensuring consistency and reproducibility. [3278feb4](https://github.com/electrocucaracha/yt-conferences/commit/3278feb4c5c83b1c106deb30011c0bfd208c2eb4)
+
+## [3.3.1] - 2026-09-27
+
+### Fixed
+
+- Stabilized documentation rendering by escaping pipe characters in Markdown link titles, allowing for consistent display of literal pipe characters without unintended table formatting. [9860ff60](https://github.com/electrocucaracha/yt-conferences/commit/9860ff60663e3952b1f61eb91f8674d573cc9c70)
+
+## [3.3.0] - 2026-09-27
+
+### Added
+
+- Enabled documentation workflow automation through the transition to Kiso in version 3.2.7, and included dependency upgrades and user experience enhancements in versions 3.2.0 through 3.2.8. [159dd861](https://github.com/electrocucaracha/yt-conferences/commit/159dd8618a4958f1466292b1f8d2455f2532b039)
+
 ## [3.2.8] - 2026-09-27
 
 ### Changed
