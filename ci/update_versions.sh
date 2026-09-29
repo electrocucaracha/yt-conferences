@@ -73,6 +73,7 @@ update_github_actions() {
 			continue
 		fi
 
+		# Reusable workflows and sub-actions (owner/repo/path@ref) share the repo tags.
 		# Peeled (^{}) entries follow annotated tags, so the commit SHA wins.
 		commit_hash="$(git ls-remote --tags "https://github.com/${action}" |
 			grep -E 'refs/tags/v?[0-9][0-9.]*(\^\{\})?$' |
@@ -91,7 +92,6 @@ update_github_actions() {
 		find .github/workflows -type f \( -name '*.yml' -o -name '*.yaml' \) -print0 |
 			xargs -0 perl -0pi -e \
 				's|uses: \Q$ENV{ACTION}\E(/[^\@\s]+)?\@.*|uses: $ENV{ACTION}${1}\@$ENV{COMMIT_HASH}|g'
-	# Reusable workflows and sub-actions (owner/repo/path@ref) share the repo tags.
 	done < <(grep -rhoE \
 		'uses: [A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+(/[^@[:space:]]+)?@[^[:space:]]+' \
 		.github/workflows |
