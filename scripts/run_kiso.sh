@@ -14,7 +14,7 @@
 
 set -euo pipefail
 
-readonly KISO_VERSION="${KISO_VERSION:-v0.2.5}"
+readonly KISO_VERSION="${KISO_VERSION:-v0.2.6}"
 readonly KISO_CACHE_DIR="${KISO_CACHE_DIR:-${XDG_CACHE_HOME:-${HOME}/.cache}/kiso/${KISO_VERSION}}"
 readonly KISO_BASE_URL="https://github.com/oak-invest/kiso/releases/download"
 

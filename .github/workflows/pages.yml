@@ -36,7 +36,7 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
       - name: Build with Kiso
-        uses: oak-invest/kiso/applications/kiso-cli-action@98547118c2ec850c46dd60bbfcf296c4e5a37680 # v0.2.5
+        uses: oak-invest/kiso/applications/kiso-cli-action@7a70ad70bb079a217d830f8f8f47dfe56b4fa979 # v0.2.6
         with:
           command: build
           source: docs
