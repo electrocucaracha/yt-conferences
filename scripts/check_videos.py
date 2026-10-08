@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Detect YouTube videos that are no longer available and unlink them from notes.
 
