@@ -1,3 +1,4 @@
 {
+  "minTokens": 100,
   "minLines": 10
 }
