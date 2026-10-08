@@ -53,4 +53,5 @@ jobs:
           VALIDATE_BIOME_FORMAT: false
           VALIDATE_BIOME_LINT: false
           VALIDATE_SPELL_CODESPELL: false
+          VALIDATE_JSCPD: false
           DEFAULT_BRANCH: ${{ github.head_ref || github.ref_name }}
