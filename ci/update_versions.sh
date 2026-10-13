@@ -87,39 +87,8 @@ update_kiso_version() {
 # @noargs
 # @exitcode 0 If all updatable actions were processed.
 update_github_actions() {
-	local action
-	local commit_hash
-
-	while IFS= read -r action; do
-		if [[ -z ${action} ]] || is_pinned_action "${action}"; then
-			continue
-		fi
-
-		# Reusable workflows and sub-actions (owner/repo/path@ref) share the repo tags.
-		# Peeled (^{}) entries follow annotated tags, so the commit SHA wins.
-		commit_hash="$(git ls-remote --tags "https://github.com/${action}" |
-			grep -E 'refs/tags/v?[0-9][0-9.]*(\^\{\})?$' |
-			sed -e 's|refs/tags/||' -e 's|\^{}$||' |
-			awk '{ hash[$2] = $1 } END { for (tag in hash) print hash[tag], tag }' |
-			sort -k2 -V |
-			tail -1 |
-			awk '{ printf "%s # %s\n", $1, $2 }')"
-		if [[ -z ${commit_hash} ]]; then
-			continue
-		fi
-
-		export ACTION="${action}"
-		export COMMIT_HASH="${commit_hash}"
-		# shellcheck disable=SC2016
-		find .github/workflows -type f \( -name '*.yml' -o -name '*.yaml' \) -print0 |
-			xargs -0 perl -0pi -e \
-				's|uses: \Q$ENV{ACTION}\E(/[^\@\s]+)?\@.*|uses: $ENV{ACTION}${1}\@$ENV{COMMIT_HASH}|g'
-	done < <(grep -rhoE \
-		'uses: [A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+(/[^@[:space:]]+)?@[^[:space:]]+' \
-		.github/workflows |
-		sed 's/^uses: //; s/@.*//' |
-		cut -d/ -f1-2 |
-		sort -u)
+	ensure_uvx
+	uv run --no-project --with git+https://github.com/electrocucaracha/gh-updater.git gh-updater .
 }
 
 main() {
