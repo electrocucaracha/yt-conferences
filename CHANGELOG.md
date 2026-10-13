@@ -9,6 +9,66 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.2.1] - 2026-10-13
+
+### Changed
+
+- Updated GitHub Actions and pre-commit dependencies to improve reliability and maintainability, replacing manual version update logic with the gh-updater tool. [e51a32c8](https://github.com/electrocucaracha/yt-conferences/commit/e51a32c8faec603dcc8ed4d9e368671301b197b3)
+
+## [5.2.0] - 2026-10-08
+
+### Added
+
+- Enabled JSCPD validation to be skipped in the GitHub Actions linter workflow, allowing for faster lint checks and avoiding potential failures due to duplicate code detection. [d0a9eb60](https://github.com/electrocucaracha/yt-conferences/commit/d0a9eb60f443369ada5c5326bc2d9bc1b415ea9e)
+
+## [5.1.0] - 2026-10-08
+
+### Added
+
+- Optimized copypaste detection to focus on larger code blocks by increasing the minimum token threshold to 100, reducing false positives and improving the accuracy of duplication reports. [fec317f9](https://github.com/electrocucaracha/yt-conferences/commit/fec317f976cbff9dfc2e1077927e78309cd188ed)
+
+## [5.0.0] - 2026-10-08
+
+### Removed
+
+- Simplified the check_videos.py script to no longer be executable as a standalone script, aligning with the project's usage patterns and preventing accidental execution. [2bf0f798](https://github.com/electrocucaracha/yt-conferences/commit/2bf0f798e5a794574709a7c2ae36382540fa6b47)
+
+## [4.3.1] - 2026-10-08
+
+### Changed
+
+- Enabled direct command-line invocation of the scripts/format_okf.py utility, improving usability for users who run it as a standalone script. [a8c1db34](https://github.com/electrocucaracha/yt-conferences/commit/a8c1db3496d597624a2330e9f2f3833302892bec)
+
+## [4.3.0] - 2026-10-08
+
+### Added
+
+- Enabled code duplication detection with a minimum threshold of 10 lines, reducing noise from smaller matches and aiding in the identification of significant duplicate code blocks. [b8423d80](https://github.com/electrocucaracha/yt-conferences/commit/b8423d8034d104e07af578177e28a47cc2c7ae8b)
+
+## [4.2.3] - 2026-10-07
+
+### Changed
+
+- Stabilized automation workflows by updating multiple tools to their latest versions, incorporating super-linter v9.0.0, kiso-cli-action v0.2.6, gh-workflows update.yml v9.4.1, and ai-prepare-commit-msg v19.10.0, ensuring the project benefits from the latest fixes and features provided by upstream. [9b9a0f1e](https://github.com/electrocucaracha/yt-conferences/commit/9b9a0f1e7b830574240da6d501e1e39e05e3f50f)
+
+## [4.2.2] - 2026-10-07
+
+### Changed
+
+- Automatically updates the Kiso CLI version in scripts to the latest release tag from the official repository. [366b4bc2](https://github.com/electrocucaracha/yt-conferences/commit/366b4bc2d07529d65f4603abeea347b1431e49cc)
+
+## [4.2.1] - 2026-09-29
+
+### Changed
+
+- Improved the readability of several changelog entries by rendering filenames as inline code, making them easier to identify in Markdown. [35076000](https://github.com/electrocucaracha/yt-conferences/commit/35076000bfdc3a3ad8dcf946b4e2861a9fa34ea9)
+
+## [4.2.0] - 2026-09-29
+
+### Added
+
+- Enabled detailed changelog entries for versions 3.3.0 through 4.1.2, accurately documenting recent releases and their impact on features, workflows, and documentation. [00682ae2](https://github.com/electrocucaracha/yt-conferences/commit/00682ae2fb97a9df3cbb8a84e5e767ae3b2d767e)
+
 ## [4.1.2] - 2026-09-29
 
 ### Changed
