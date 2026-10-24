@@ -46,10 +46,12 @@ an individual talk.
   leadership, and other areas of modern technology.
 - **Efficient understanding**: Read a short summary and key takeaways before
   deciding whether a full talk is relevant to your work or interests.
+- **In-page playback**: Watch talks in the portal through privacy-enhanced YouTube players, with original YouTube links available when embedding is restricted.
 - **Structured knowledge**: Use consistent notes that combine descriptive
   metadata, a summary, key takeaways, the original video, and its transcript.
 - **Progressive discovery**: Move from the collection index to a subject or
   conference directory, then to an individual talk without losing context.
+  Previous and Next links follow the collection index order, with a direct link back to the collection.
 - **Semantic search**: Find related ideas by meaning and intent, not only by
   exact keyword matches.
 - **Knowledge reuse**: Return to the collection as a reference for research,
