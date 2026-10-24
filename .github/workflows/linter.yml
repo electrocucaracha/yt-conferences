@@ -33,25 +33,19 @@ jobs:
         run: scc --format wide
   check-super-linter:
     name: Check syntax (super-linter)
-    runs-on: ubuntu-latest
     permissions:
       contents: read
-    steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          fetch-depth: 0
-          persist-credentials: false
-      - name: Run super-linter validation
-        uses: super-linter/super-linter@2da136927bd4a73596db63044b504547c62cb854 # v9.0.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LINTER_RULES_PATH: .github/linters
-          SAVE_SUPER_LINTER_OUTPUT: true
-          KUBERNETES_KUBECONFORM_OPTIONS: "-ignore-missing-schemas"
-          # yamllint disable-line rule:line-length
-          FILTER_REGEX_EXCLUDE: "(^|/)(\\.venv|\\.tox|node_modules|dist|build|htmlcov|\\.pytest_cache|\\.ruff_cache|\\.mypy_cache|\\.qmd)(/|$)"
-          VALIDATE_BIOME_FORMAT: false
-          VALIDATE_BIOME_LINT: false
-          VALIDATE_SPELL_CODESPELL: false
-          VALIDATE_JSCPD: false
-          DEFAULT_BRANCH: ${{ github.head_ref || github.ref_name }}
+      models: read
+      issues: write
+    uses: electrocucaracha/gh-workflows/.github/workflows/linter.yml@e171e202dcee30a16fc1b8fb67f22c2e9ea3a06d # v12.0.1
+    with:
+      validate_overrides: |-
+        {
+          "VALIDATE_BIOME_FORMAT": false,
+          "VALIDATE_PRE_COMMIT": false,
+          "EDITORCONFIG_FILE_NAME": ".editorconfig-checker.json",
+          "PYTHON_ISORT_CONFIG_FILE": "pyproject.toml",
+          "PYTHON_RUFF_FORMAT_CONFIG_FILE": "pyproject.toml"
+        }
+    secrets:
+      COPILOT_TOKEN: ${{ secrets.COPILOT_TOKEN }}
