@@ -32,10 +32,12 @@ check:
 
 build:
 	bash scripts/run_kiso.sh build --destination=public
+	python3 scripts/style_site.py public
 
 preview: PORT ?= 8099
 preview:
 	bash scripts/run_kiso.sh build --destination=public --profile local
+	python3 scripts/style_site.py public
 	python3 -m http.server $(PORT) --directory public
 
 qmd-setup: fmt
