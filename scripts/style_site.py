@@ -32,9 +32,7 @@ class CollectionLinksParser(HTMLParser):
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         attributes = dict(attrs)
         if tag == "article":
-            self.in_article = "kiso-content" in (
-                attributes.get("class") or ""
-            ).split()
+            self.in_article = "kiso-content" in (attributes.get("class") or "").split()
         if tag == "a" and self.in_article:
             href = attributes.get("href") or ""
             if (
@@ -70,14 +68,14 @@ def collection_navigation(destination: Path) -> dict[Path, str]:
                 href, title = links[position - 1]
                 items.append(
                     f'<a rel="prev" href="{escape(href, quote=True)}">'
-                    f'<span>Previous</span>{escape(title)}</a>'
+                    f"<span>Previous</span>{escape(title)}</a>"
                 )
             items.append('<a href="index.html">Back to collection</a>')
             if position + 1 < len(links):
                 href, title = links[position + 1]
                 items.append(
                     f'<a rel="next" href="{escape(href, quote=True)}">'
-                    f'<span>Next</span>{escape(title)}</a>'
+                    f"<span>Next</span>{escape(title)}</a>"
                 )
             navigation[index.parent / filename] = (
                 '\n<nav class="kiso-page-navigation" aria-label="Talk navigation">'
@@ -147,8 +145,10 @@ def write_llms(destination: Path) -> None:
         "",
         "## Start Here",
         "",
-        f"- [Collection index]({urljoin(html_parser.llms_url, 'index.md')}): "
-        "Browse all conferences and topics.",
+        (
+            f"- [Collection index]({urljoin(html_parser.llms_url, 'index.md')}): "
+            "Browse all conferences and topics."
+        ),
         "",
         "## Collections",
         "",
@@ -172,8 +172,10 @@ def write_llms(destination: Path) -> None:
             "",
             "## Optional",
             "",
-            f"- [Change log]({urljoin(html_parser.llms_url, 'log.md')}): "
-            "Collection update history.",
+            (
+                f"- [Change log]({urljoin(html_parser.llms_url, 'log.md')}): "
+                "Collection update history."
+            ),
             "",
         ]
     )

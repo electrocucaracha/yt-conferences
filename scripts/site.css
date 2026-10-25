@@ -179,10 +179,6 @@ main > section a {
   line-height: 1.8;
 }
 
-.kiso-content a:hover {
-  color: #104c3b;
-}
-
 .kiso-content img {
   max-width: 100%;
   height: auto;
@@ -215,6 +211,10 @@ main > section a {
   font-size: 0.9rem;
   line-height: 1.5;
   overflow-wrap: anywhere;
+}
+
+.kiso-content a:hover {
+  color: #104c3b;
 }
 
 .kiso-page-navigation a:hover {

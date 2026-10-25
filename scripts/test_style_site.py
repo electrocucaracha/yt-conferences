@@ -11,6 +11,7 @@ class PageNavigationTests(unittest.TestCase):
     """Check collection order, boundaries, and safe link rendering."""
 
     def test_collection_navigation(self) -> None:
+        """Verify links follow collection order and omit invalid targets."""
         with TemporaryDirectory() as directory:
             destination = Path(directory)
             collection = destination / "conference"
@@ -39,20 +40,20 @@ class PageNavigationTests(unittest.TestCase):
             self.assertIn("B &amp; first", middle)
             self.assertIn('rel="next" href="c.html"', middle)
             self.assertNotIn('rel="next"', last)
-            for bar in navigation.values():
-                self.assertIn('href="index.html"', bar)
-                self.assertIn('aria-label="Talk navigation"', bar)
-                self.assertEqual(PAGE_NAVIGATION.sub("", bar), "")
+            for navigation_bar in navigation.values():
+                self.assertIn('href="index.html"', navigation_bar)
+                self.assertIn('aria-label="Talk navigation"', navigation_bar)
+                self.assertEqual(PAGE_NAVIGATION.sub("", navigation_bar), "")
 
 
 class VideoPlayerTests(unittest.TestCase):
     """Check video replacement without changing other content."""
 
     def test_player_preserves_fallback_and_is_idempotent(self) -> None:
+        """Verify embedded players preserve fallback links and are idempotent."""
         video_id = "FlTb383gXbU"
         fallback = (
-            f'<a href="https://www.youtube.com/watch?v={video_id}">'
-            "Watch on YouTube</a>"
+            f'<a href="https://www.youtube.com/watch?v={video_id}">Watch on YouTube</a>'
         )
         original = (
             f'<p><a href="https://www.youtube.com/watch?v={video_id}">'
@@ -63,7 +64,9 @@ class VideoPlayerTests(unittest.TestCase):
 
         result = embed_videos(original)
 
-        self.assertIn(f'src="https://www.youtube-nocookie.com/embed/{video_id}"', result)
+        self.assertIn(
+            f'src="https://www.youtube-nocookie.com/embed/{video_id}"', result
+        )
         self.assertIn('title="YouTube video player"', result)
         self.assertIn('loading="lazy"', result)
         self.assertIn("allowfullscreen", result)
@@ -73,15 +76,20 @@ class VideoPlayerTests(unittest.TestCase):
         self.assertEqual(embed_videos(result), result)
 
     def test_other_links_and_images_are_unchanged(self) -> None:
+        """Leave non-matching links and images unchanged."""
         for html in (
             '<a href="https://www.youtube.com/watch?v=FlTb383gXbU">Recording</a>',
             '<img src="diagram.png" alt="Diagram">',
-            '<a href="https://example.com/watch?v=FlTb383gXbU">'
-            '<img src="https://img.youtube.com/vi/FlTb383gXbU/hqdefault.jpg"'
-            ' alt="Video thumbnail"></a>',
-            '<a href="https://www.youtube.com/watch?v=FlTb383gXbU">'
-            '<img src="https://img.youtube.com/vi/AAAAAAAAAAA/hqdefault.jpg"'
-            ' alt="Video thumbnail"></a>',
+            (
+                '<a href="https://example.com/watch?v=FlTb383gXbU">'
+                '<img src="https://img.youtube.com/vi/FlTb383gXbU/hqdefault.jpg"'
+                ' alt="Video thumbnail"></a>'
+            ),
+            (
+                '<a href="https://www.youtube.com/watch?v=FlTb383gXbU">'
+                '<img src="https://img.youtube.com/vi/AAAAAAAAAAA/hqdefault.jpg"'
+                ' alt="Video thumbnail"></a>'
+            ),
         ):
             with self.subTest(html=html):
                 self.assertEqual(embed_videos(html), html)
