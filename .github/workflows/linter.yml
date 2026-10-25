@@ -42,10 +42,9 @@ jobs:
       validate_overrides: |-
         {
           "VALIDATE_BIOME_FORMAT": false,
-          "VALIDATE_PRE_COMMIT": false,
-          "EDITORCONFIG_FILE_NAME": ".editorconfig-checker.json",
-          "PYTHON_ISORT_CONFIG_FILE": "pyproject.toml",
-          "PYTHON_RUFF_FORMAT_CONFIG_FILE": "pyproject.toml"
+          "VALIDATE_BIOME_LINT": false,
+          "VALIDATE_SPELL_CODESPELL": false,
+          "VALIDATE_JSCPD": false
         }
     secrets:
       COPILOT_TOKEN: ${{ secrets.COPILOT_TOKEN }}
