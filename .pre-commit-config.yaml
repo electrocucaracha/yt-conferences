@@ -19,6 +19,8 @@ repos:
     rev: v0.49.1
     hooks:
       - id: markdownlint
+        # Isolate npm from runner versions with broken --allow-git=root handling.
+        language_version: "24.22.1"
         files: \.(md|mdown|markdown)$
   - repo: https://github.com/google/yamlfmt
     rev: v0.21.0
