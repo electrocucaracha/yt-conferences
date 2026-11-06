@@ -9,6 +9,132 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.9.0] - 2026-11-06
+
+### Added
+
+- Enhanced the documentation set with comprehensive video notes for all sessions from the MCP Dev Summit North America 2026, covering key topics such as MCP adoption, security, agent orchestration, evaluation frameworks, middleware, supply chain security, and best practices for enterprise integration. [a1443724](https://github.com/electrocucaracha/yt-conferences/commit/a1443724ec49397b70fac2ac0eb0edd535ec3c47)
+
+## [5.8.2] - 2026-11-06
+
+### Changed
+
+- Enabled isolated site build checks to verify build success without modifying or polluting the public output directory. [dcc0a0ff](https://github.com/electrocucaracha/yt-conferences/commit/dcc0a0ffbd183512ce42594af8da82be525e6b08)
+
+## [5.8.1] - 2026-11-06
+
+### Fixed
+
+- Resolved the okf_version frontmatter to use numeric version format, ensuring consistency with standard version formatting and avoiding potential parsing errors and improving clarity for documentation tools. [53d10a4f](https://github.com/electrocucaracha/yt-conferences/commit/53d10a4fc876d44e9aaaa84db1e2f0c9b8d1d2bc)
+
+## [5.8.0] - 2026-11-06
+
+### Added
+
+- Enabled automatic code review requests for all pull requests, with @electrocucaracha designated as the default maintainer. [2e0e0d1e](https://github.com/electrocucaracha/yt-conferences/commit/2e0e0d1e7891a57a55bbec0001c08c7eb9ed9155)
+
+## [5.7.5] - 2026-11-06
+
+### Changed
+
+- Upgraded versions files to latest versions, ensuring improved compatibility with newer dependencies and workflows. [2f7831aa](https://github.com/electrocucaracha/yt-conferences/commit/2f7831aa5f464cc8a96392f47d6ae032f353080b)
+
+## [5.7.4] - 2026-11-06
+
+### Changed
+
+- Updated several dependencies to their latest versions, including the gh-workflows, kiso-cli-action, and ai-prepare-commit-msg hook. [57e97926](https://github.com/electrocucaracha/yt-conferences/commit/57e979262564556e4567aad3cd061dddc2f235be)
+
+## [5.7.3] - 2026-10-30
+
+### Changed
+
+- Upgraded dependent workflows and tools to the latest available versions, ensuring compatibility and continuous integration and testing. [e82f9655](https://github.com/electrocucaracha/yt-conferences/commit/e82f9655383d961470db78226f3e414d58eea40d)
+
+## [5.7.2] - 2026-10-30
+
+### Changed
+
+- Updated the dependencies to use version v12.1.1 of electrocucaracha/gh-workflows, version v0.50.0 of markdownlint-cli, and version v20.10.5 of ai-prepare-commit-msg. [4d2f1044](https://github.com/electrocucaracha/yt-conferences/commit/4d2f1044b4adeec14866b9c90b204cbd1da9e938)
+
+## [5.7.1] - 2026-10-24
+
+### Changed
+
+- Simplified linter configuration discovery and automatic detection by moving configuration files to the project root. [73f97678](https://github.com/electrocucaracha/yt-conferences/commit/73f976786067fea948bc7dfae8271eab6b3e80a0)
+
+## [5.7.0] - 2026-10-24
+
+### Added
+
+- Resolved issues with markdownlint pre-commit hook runs by isolating npm from problematic runner versions with a pinned node version of 24.22.1. [7252d92f](https://github.com/electrocucaracha/yt-conferences/commit/7252d92fca596d918956773a418cdc4291bec6b8)
+
+## [5.6.2] - 2026-10-24
+
+### Changed
+
+- Stabilized multi-line string construction in style_site.py and related test files, clarified unittest docstrings and variable naming in test_style_site.py, and resolved style specificity issues in site.css without altering appearance. [59772f4e](https://github.com/electrocucaracha/yt-conferences/commit/59772f4e356b1d3c8d24707a7d9d68e2088d6050)
+
+## [5.6.1] - 2026-10-24
+
+### Changed
+
+- Simplified the linter workflow to accurately reflect the current set of validation tools, removing unnecessary checks and aligning the CI process with the intended coverage. [265af1b7](https://github.com/electrocucaracha/yt-conferences/commit/265af1b7da9732ae07d78186f28f42ef8a06471c)
+
+## [5.6.0] - 2026-10-24
+
+### Added
+
+- Enabled in-page YouTube playback on the site build, introduced structured navigation for collection pages, and improved build robustness with added regression tests. [1e9716c5](https://github.com/electrocucaracha/yt-conferences/commit/1e9716c50499c688794d9913d4a12f06ce5b4f29)
+
+## [5.5.0] - 2026-10-24
+
+### Added
+
+- Optimized content presentation with responsive styles, enabling embedded videos to maintain a 16:9 aspect ratio and page navigation to adapt to varying screen sizes through a flexible layout. [2139c6b0](https://github.com/electrocucaracha/yt-conferences/commit/2139c6b0fd888ec22a9277094283a65cb028851a)
+
+## [5.4.2] - 2026-10-24
+
+### Changed
+
+- Simplified the CI linter configuration by replacing the 'check-super-linter' job with a reusable workflow from electrocucaracha/gh-workflows, which reduces boilerplate and ensures consistent linter execution across projects, and also adds overrides for specific validator settings and updates permissions and secret usage accordingly. [3b8f7287](https://github.com/electrocucaracha/yt-conferences/commit/3b8f7287c65b7dd5a109a93658e3359f95a9fb4a)
+
+## [5.4.1] - 2026-10-23
+
+### Changed
+
+- Updated the referenced reusable workflow to v12.1.1 to incorporate recent improvements and fixes, maintaining compatibility and benefiting from upstream enhancements without introducing any breaking behavior or migration requirements. [596f6c5d](https://github.com/electrocucaracha/yt-conferences/commit/596f6c5de4c5e4f7245bbb8adfb654b3dbc4ad4e)
+
+## [5.4.0] - 2026-10-23
+
+### Added
+
+- Enabled one-click Markdown downloads and improved documentation layout for users and LLM consumers through the integration of custom site styling and Markdown features. [b333b1aa](https://github.com/electrocucaracha/yt-conferences/commit/b333b1aa2308923c6dccfacbd47f841a81a1210b)
+
+## [5.3.3] - 2026-10-23
+
+### Changed
+
+- Upgraded several dependencies in the project's workflows and configuration files to their latest versions, including the GitHub Actions workflow and pre-commit configuration. [be2c6724](https://github.com/electrocucaracha/yt-conferences/commit/be2c6724cdac63aa92e3a95bf7f48530f64ae31d)
+
+## [5.3.2] - 2026-10-23
+
+### Changed
+
+- Updated dependent workflows and pre-commit hooks to new versions, requiring users to update their workflow configuration to v12.0.1 and v20.3.7 respectively, which may bring bugfixes and improvements. [08cbb4af](https://github.com/electrocucaracha/yt-conferences/commit/08cbb4afbf61da158b002ac4e6ddaf628bb037ef)
+
+## [5.3.1] - 2026-10-16
+
+### Changed
+
+- The pre-commit configuration now uses a newer version of the ai-prepare-commit-msg hook, specifically v20.3.4, replacing the previous version v20.0.3, which may require users to take migration steps. [0e992325](https://github.com/electrocucaracha/yt-conferences/commit/0e992325cf3ea3dd98fd78556ee12423fd5465ad)
+
+## [5.3.0] - 2026-10-13
+
+### Added
+
+- Optimized automation workflows and introduced detailed changelog entries for versions 4.2.0 through 5.2.1, significantly enhancing the project's release history and supporting traceability for future development. [952b3af8](https://github.com/electrocucaracha/yt-conferences/commit/952b3af89f2662d6abe93d710593857b0727fd9c)
+
 ## [5.2.1] - 2026-10-13
 
 ### Changed
