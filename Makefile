@@ -7,7 +7,7 @@
 # http://www.apache.org/licenses/LICENSE-2.0
 ##############################################################################
 
-.PHONY: fmt check build preview qmd-setup qmd-update qmd-embed qmd-check qmd-mcp clean
+.PHONY: fmt check validate build preview qmd-setup qmd-update qmd-embed qmd-check qmd-mcp clean
 DOCKER_CMD ?= $(shell which docker 2> /dev/null || which podman 2> /dev/null || echo docker)
 
 cleanup:
@@ -29,6 +29,11 @@ fmt: cleanup
 
 check:
 	bash scripts/run_kiso.sh
+
+validate: check
+	@destination=$$(mktemp -d) && \
+		trap 'rm -rf "$$destination"' EXIT && \
+		bash scripts/run_kiso.sh build --destination="$$destination"
 
 build:
 	bash scripts/run_kiso.sh build --destination=public
