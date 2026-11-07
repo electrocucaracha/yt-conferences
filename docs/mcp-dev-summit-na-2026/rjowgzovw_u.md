@@ -56,6 +56,6 @@ The session concluded with practical advice on maintaining consistency, enabling
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/RjOWGzovw_U/hqdefault.jpg)]("https://www.youtube.com/watch?v=RjOWGzovw_U")
+[![Video thumbnail](https://img.youtube.com/vi/RjOWGzovw_U/hqdefault.jpg)](https://www.youtube.com/watch?v=RjOWGzovw_U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RjOWGzovw_U)

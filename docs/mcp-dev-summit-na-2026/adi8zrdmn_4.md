@@ -54,6 +54,6 @@ The talk emphasizes the need for cryptographically verifiable credentials and se
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/ADI8zrdmN_4/hqdefault.jpg)]("https://www.youtube.com/watch?v=ADI8zrdmN_4")
+[![Video thumbnail](https://img.youtube.com/vi/ADI8zrdmN_4/hqdefault.jpg)](https://www.youtube.com/watch?v=ADI8zrdmN_4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ADI8zrdmN_4)

@@ -274,3 +274,29 @@ Keynotes and technical sessions demonstrated how MCP has grown into an industry 
 - [When MCP Becomes a Product - Gautam Baghel, HashiCorp & Roy Derks, IBM](rjowgzovw-u.md) - In this session, the speakers from IBM discussed their experiences transitioning MCP (Model Control Plane) servers from internal demos to production-ready products. They highlighted the evolution of MCP from a niche advantage to an industry...
 - [When MCP Isn’t Enough: Product Decisions Behind Scalable Agent Systems - Cansu Berkem, Datadog](7q7e-ziocea.md) - In this session, John Su, Product Director at Datadog, discusses the journey of turning AI agent prototypes into production-ready products, focusing on the development and deployment of Datadog’s Bits AI agent for on-call engineers. He emph...
 - [Your MCP Server Will Probably Be Abandoned...Or Not - Lahari Chowtoori, Amazon Web Services, Inc.](062abr355-c.md) - In this talk, Lhari Chowi, an open source TPM at AWS, discusses the rapid growth and current state of the MCP server ecosystem. MCP has evolved from a niche protocol to a sprawling ecosystem with tens of thousands of servers, registries, an...
+
+### Additional Talk Notes
+
+- [Bridging Kernel Space and AI: Building an MCP Server for Linux Scheduler Observability - Daniel Hodges](_emgieqbsjm.md)
+- [Building MARVIN: What Teaching a Non-Technical Marketer To Use MCP Taught Me About... Sterling Chin](g1zzxm_6bx8.md)
+- [Context Middleware for MCP: From Enterprise Needs To Protocol Extension - Peder Holdgaard Pedersen](-x5lx3iou7m.md)
+- [Enterprise-Ready MCP: Security Patterns and the "4-Legged" Identity Challenge - Paulina Xu](pjpocx9_kt8.md)
+- [From Benchmarks To Business Value: Building a Use-Case Specific Agent - Gaurav Saxena & Matvey Kukuy](o7l6_myoct0.md)
+- [Keynote: MCP @ Amazon Scale - James Hood, Principal Software Engineer, Amazon Web Services](-1rogvapmow.md)
+- [Keynote: Lessons Learned from Driving Enterprise MCP Adoption - Sheng Liang, CEO, Obot AI](m5ymjzx_cfs.md)
+- [Keynote: One-To-Many: Enabling MCP, Agents, and Intelligent Systems... Ola Hungerford & Sandeep Bhat](4rmvn__d8uy.md)
+- [Keynote: Using MCP for Skills Orchestration and Enterprise Integration - Jacob Wilson](30wu_6_wplc.md)
+- [Keynote: Welcome Remarks from the AAIF Governing Board Chair - David Nalley](-p-plv187bw.md)
+- [MCP Apps Best Practices: Patterns and Pitfalls - Olivier Chafik & Anton Pidkuiko, Anthropic](xh__6gtirhm.md)
+- [MCP Servers in the Wild: Managing Tool Complexity at Scale - Arnav Balyan, Concierge AI](ek3fbc0__04.md)
+- [Mix-Up Attacks in MCP: Multi-Issuer Confusion and Mitigations - Emily Lauber, Microsoft](-nb9g3bj3uk.md)
+- [My MCP Server Code Works, but the Agent Fails: The Case for MCP-specify... Calum Murray & Wesley Chun](r_otbm1fzmm.md)
+- [Shadow MCP: Finding the MCPs Nobody Approved - Aidan Sochowski & Alexander Frazer, Runlayer](mpmv_t-i0k8.md)
+- [Sponsored Session: Who's Driving? Delegation and the Confused Deputy - Vitor Balocco & Alvaro Inckot](cmwjs_eal0w.md)
+- [Threat Modeling Authorization in MCP - Sarah Cecchetti, OpenID Foundation](adi8zrdmn_4.md)
+- [When MCP Becomes a Product - Gautam Baghel, HashiCorp & Roy Derks, IBM](rjowgzovw_u.md)
+- [Untitled video note (7q7e_ziocea)](7q7e_ziocea.md)
+- [Untitled video note (chjb_bbe050)](chjb_bbe050.md)
+- [Untitled video note (gpd4owmbmni)](gpd4owmbmni.md)
+- [Untitled video note (zthbtfn8pby)](zthbtfn8pby.md)
+- [OCI Images as MCP Packaging: Supply Chain Security for AI Tools - Juan Antonio Osorio, Stacklok](zzioined_bm.md)

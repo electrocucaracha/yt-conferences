@@ -44,6 +44,6 @@ The session concludes with an invitation for feedback and collaboration, highlig
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/r_otBm1fZmM/hqdefault.jpg)]("https://www.youtube.com/watch?v=r_otBm1fZmM")
+[![Video thumbnail](https://img.youtube.com/vi/r_otBm1fZmM/hqdefault.jpg)](https://www.youtube.com/watch?v=r_otBm1fZmM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r_otBm1fZmM)

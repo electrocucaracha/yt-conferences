@@ -44,6 +44,6 @@ The presenters invite the community to contribute to their open-source efforts a
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/o7L6_MyOCt0/hqdefault.jpg)]("https://www.youtube.com/watch?v=o7L6_MyOCt0")
+[![Video thumbnail](https://img.youtube.com/vi/o7L6_MyOCt0/hqdefault.jpg)](https://www.youtube.com/watch?v=o7L6_MyOCt0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=o7L6_MyOCt0)

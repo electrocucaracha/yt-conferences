@@ -53,6 +53,6 @@ While OCI images are not a complete solution to all security challenges, they pr
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/zzIoinEd_bM/hqdefault.jpg)]("https://www.youtube.com/watch?v=zzIoinEd_bM")
+[![Video thumbnail](https://img.youtube.com/vi/zzIoinEd_bM/hqdefault.jpg)](https://www.youtube.com/watch?v=zzIoinEd_bM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zzIoinEd_bM)

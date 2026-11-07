@@ -53,6 +53,6 @@ They conclude by noting that while technical solutions exist, the problem is com
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/mpmV_t-i0K8/hqdefault.jpg)]("https://www.youtube.com/watch?v=mpmV_t-i0K8")
+[![Video thumbnail](https://img.youtube.com/vi/mpmV_t-i0K8/hqdefault.jpg)](https://www.youtube.com/watch?v=mpmV_t-i0K8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mpmV_t-i0K8)

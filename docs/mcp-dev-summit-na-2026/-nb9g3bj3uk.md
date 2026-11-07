@@ -47,6 +47,6 @@ During the Q&A, she acknowledges that while resource and audience validation can
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/-nb9g3Bj3uk/hqdefault.jpg)]("https://www.youtube.com/watch?v=-nb9g3Bj3uk")
+[![Video thumbnail](https://img.youtube.com/vi/-nb9g3Bj3uk/hqdefault.jpg)](https://www.youtube.com/watch?v=-nb9g3Bj3uk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-nb9g3Bj3uk)

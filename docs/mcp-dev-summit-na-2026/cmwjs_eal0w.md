@@ -58,6 +58,6 @@ The talk concludes with practical recommendations: audit agent tokens for delega
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/CmWJs_eAL0w/hqdefault.jpg)]("https://www.youtube.com/watch?v=CmWJs_eAL0w")
+[![Video thumbnail](https://img.youtube.com/vi/CmWJs_eAL0w/hqdefault.jpg)](https://www.youtube.com/watch?v=CmWJs_eAL0w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CmWJs_eAL0w)

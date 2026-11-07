@@ -55,6 +55,6 @@ The speaker concludes by emphasizing best practices for MCP tool development, su
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/_eMGiEQbSjM/hqdefault.jpg)]("https://www.youtube.com/watch?v=_eMGiEQbSjM")
+[![Video thumbnail](https://img.youtube.com/vi/_eMGiEQbSjM/hqdefault.jpg)](https://www.youtube.com/watch?v=_eMGiEQbSjM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_eMGiEQbSjM)

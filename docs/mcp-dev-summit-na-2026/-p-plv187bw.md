@@ -50,6 +50,6 @@ The technical steering committee has introduced a formal project lifecycle, enab
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/-P-pLV187Bw/hqdefault.jpg)]("https://www.youtube.com/watch?v=-P-pLV187Bw")
+[![Video thumbnail](https://img.youtube.com/vi/-P-pLV187Bw/hqdefault.jpg)](https://www.youtube.com/watch?v=-P-pLV187Bw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-P-pLV187Bw)

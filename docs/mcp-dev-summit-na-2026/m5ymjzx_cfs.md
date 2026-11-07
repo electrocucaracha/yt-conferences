@@ -52,6 +52,6 @@ The talk concludes by noting that the architecture of MCP gateways and registrie
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/m5yMJZX_cFs/hqdefault.jpg)]("https://www.youtube.com/watch?v=m5yMJZX_cFs")
+[![Video thumbnail](https://img.youtube.com/vi/m5yMJZX_cFs/hqdefault.jpg)](https://www.youtube.com/watch?v=m5yMJZX_cFs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=m5yMJZX_cFs)

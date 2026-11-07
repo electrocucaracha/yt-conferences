@@ -48,6 +48,6 @@ Overall, the approach streamlines procurement, reduces friction for end users, a
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/30WU_6_wplc/hqdefault.jpg)]("https://www.youtube.com/watch?v=30WU_6_wplc")
+[![Video thumbnail](https://img.youtube.com/vi/30WU_6_wplc/hqdefault.jpg)](https://www.youtube.com/watch?v=30WU_6_wplc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=30WU_6_wplc)

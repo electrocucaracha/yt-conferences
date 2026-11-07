@@ -44,6 +44,6 @@ The speaker also mentions emerging areas like generative UI and distribution cha
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Ek3FbC0__04/hqdefault.jpg)]("https://www.youtube.com/watch?v=Ek3FbC0__04")
+[![Video thumbnail](https://img.youtube.com/vi/Ek3FbC0__04/hqdefault.jpg)](https://www.youtube.com/watch?v=Ek3FbC0__04)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ek3FbC0__04)

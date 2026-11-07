@@ -51,6 +51,6 @@ The team also highlights the value of open experimentation, feedback loops throu
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/4RMvn__d8uY/hqdefault.jpg)]("https://www.youtube.com/watch?v=4RMvn__d8uY")
+[![Video thumbnail](https://img.youtube.com/vi/4RMvn__d8uY/hqdefault.jpg)](https://www.youtube.com/watch?v=4RMvn__d8uY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4RMvn__d8uY)

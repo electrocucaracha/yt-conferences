@@ -4,7 +4,6 @@ title: Title not found
 parent: MCP Dev Summit NA 2026
 type: Video Note
 description: _Not available yet._
-resource: "https://www.youtube.com/watch?v=chJb_BbE050"
 tags:
   - mcp-dev-summit-na-2026
   - video
@@ -27,6 +26,6 @@ _Not available yet._
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/chJb_BbE050/hqdefault.jpg)]("https://www.youtube.com/watch?v=chJb_BbE050")
+This video is no longer available on YouTube.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=chJb_BbE050)
+<!-- resource: https://www.youtube.com/watch?v=chJb_BbE050 -->

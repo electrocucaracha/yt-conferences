@@ -51,6 +51,6 @@ Peter encourages community engagement with the proposal, emphasizing that standa
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/-X5lx3IOu7M/hqdefault.jpg)]("https://www.youtube.com/watch?v=-X5lx3IOu7M")
+[![Video thumbnail](https://img.youtube.com/vi/-X5lx3IOu7M/hqdefault.jpg)](https://www.youtube.com/watch?v=-X5lx3IOu7M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-X5lx3IOu7M)

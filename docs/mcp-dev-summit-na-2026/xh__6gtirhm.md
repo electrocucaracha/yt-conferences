@@ -53,6 +53,6 @@ Audience questions addressed efficiency, data sharing between model and app, str
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Xh__6GtirHM/hqdefault.jpg)]("https://www.youtube.com/watch?v=Xh__6GtirHM")
+[![Video thumbnail](https://img.youtube.com/vi/Xh__6GtirHM/hqdefault.jpg)](https://www.youtube.com/watch?v=Xh__6GtirHM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Xh__6GtirHM)

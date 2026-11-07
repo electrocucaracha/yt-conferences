@@ -50,6 +50,6 @@ Ultimately, Hood asserts that MCP is far from dead, and that combining various A
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/-1roGvApmOw/hqdefault.jpg)]("https://www.youtube.com/watch?v=-1roGvApmOw")
+[![Video thumbnail](https://img.youtube.com/vi/-1roGvApmOw/hqdefault.jpg)](https://www.youtube.com/watch?v=-1roGvApmOw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-1roGvApmOw)
