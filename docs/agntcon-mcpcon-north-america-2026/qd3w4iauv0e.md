@@ -51,6 +51,6 @@ Concluye pidiendo a los mantenedores de MCP que implementen comunicaciones estil
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/qd3W4iAUv0E/hqdefault.jpg)]("https://www.youtube.com/watch?v=qd3W4iAUv0E")
+[![Video thumbnail](https://img.youtube.com/vi/qd3W4iAUv0E/hqdefault.jpg)](https://www.youtube.com/watch?v=qd3W4iAUv0E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qd3W4iAUv0E)

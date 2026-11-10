@@ -45,6 +45,6 @@ The recommended adoption process involves capturing traces, applying determinist
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/6D_xl5Tlr6w/hqdefault.jpg)]("https://www.youtube.com/watch?v=6D_xl5Tlr6w")
+[![Video thumbnail](https://img.youtube.com/vi/6D_xl5Tlr6w/hqdefault.jpg)](https://www.youtube.com/watch?v=6D_xl5Tlr6w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6D_xl5Tlr6w)

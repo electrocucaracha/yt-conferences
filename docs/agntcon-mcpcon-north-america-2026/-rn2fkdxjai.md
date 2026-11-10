@@ -41,6 +41,6 @@ Paul encourages others to tackle interdisciplinary problems by using AI to build
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/-rn2FkdXJaI/hqdefault.jpg)]("https://www.youtube.com/watch?v=-rn2FkdXJaI")
+[![Video thumbnail](https://img.youtube.com/vi/-rn2FkdXJaI/hqdefault.jpg)](https://www.youtube.com/watch?v=-rn2FkdXJaI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-rn2FkdXJaI)

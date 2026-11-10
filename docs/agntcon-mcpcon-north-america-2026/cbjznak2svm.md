@@ -41,6 +41,6 @@ By enforcing these guardrails at the gateway level and providing a robust audit 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/CBjzNAK2SVM/hqdefault.jpg)]("https://www.youtube.com/watch?v=CBjzNAK2SVM")
+[![Video thumbnail](https://img.youtube.com/vi/CBjzNAK2SVM/hqdefault.jpg)](https://www.youtube.com/watch?v=CBjzNAK2SVM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CBjzNAK2SVM)

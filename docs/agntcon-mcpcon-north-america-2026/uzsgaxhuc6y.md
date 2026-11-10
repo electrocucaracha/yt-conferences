@@ -47,6 +47,6 @@ The presentation concludes by emphasizing that replacing LLM calls with determin
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/UZsgAXhuc6Y/hqdefault.jpg)]("https://www.youtube.com/watch?v=UZsgAXhuc6Y")
+[![Video thumbnail](https://img.youtube.com/vi/UZsgAXhuc6Y/hqdefault.jpg)](https://www.youtube.com/watch?v=UZsgAXhuc6Y)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UZsgAXhuc6Y)

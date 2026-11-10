@@ -44,6 +44,6 @@ By integrating this spec-based architecture with AWS Agent Core, the company has
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/nNPi4-QtIF4/hqdefault.jpg)]("https://www.youtube.com/watch?v=nNPi4-QtIF4")
+[![Video thumbnail](https://img.youtube.com/vi/nNPi4-QtIF4/hqdefault.jpg)](https://www.youtube.com/watch?v=nNPi4-QtIF4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nNPi4-QtIF4)

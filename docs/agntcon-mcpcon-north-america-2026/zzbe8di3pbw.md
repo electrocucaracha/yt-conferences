@@ -43,6 +43,6 @@ Ultimately, the presentation concludes that GraphRAG provides the necessary cont
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/ZZBe8DI3Pbw/hqdefault.jpg)]("https://www.youtube.com/watch?v=ZZBe8DI3Pbw")
+[![Video thumbnail](https://img.youtube.com/vi/ZZBe8DI3Pbw/hqdefault.jpg)](https://www.youtube.com/watch?v=ZZBe8DI3Pbw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZZBe8DI3Pbw)

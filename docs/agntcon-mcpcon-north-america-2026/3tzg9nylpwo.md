@@ -51,6 +51,6 @@ The speakers conclude that dashboards are not dead but have evolved into an agen
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/3TzG9NYlpwo/hqdefault.jpg)]("https://www.youtube.com/watch?v=3TzG9NYlpwo")
+[![Video thumbnail](https://img.youtube.com/vi/3TzG9NYlpwo/hqdefault.jpg)](https://www.youtube.com/watch?v=3TzG9NYlpwo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3TzG9NYlpwo)

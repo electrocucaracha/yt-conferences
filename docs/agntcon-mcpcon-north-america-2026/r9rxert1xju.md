@@ -50,6 +50,6 @@ The session concludes with a Q&A covering advanced topics like agent-to-agent co
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/R9RxerT1xJU/hqdefault.jpg)]("https://www.youtube.com/watch?v=R9RxerT1xJU")
+[![Video thumbnail](https://img.youtube.com/vi/R9RxerT1xJU/hqdefault.jpg)](https://www.youtube.com/watch?v=R9RxerT1xJU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=R9RxerT1xJU)

@@ -46,6 +46,6 @@ Vstorm está desarrollando Agentic OS, un entorno de código abierto que incorpo
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/nuSYKTrgQdc/hqdefault.jpg)]("https://www.youtube.com/watch?v=nuSYKTrgQdc")
+[![Video thumbnail](https://img.youtube.com/vi/nuSYKTrgQdc/hqdefault.jpg)](https://www.youtube.com/watch?v=nuSYKTrgQdc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nuSYKTrgQdc)

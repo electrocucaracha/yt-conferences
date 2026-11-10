@@ -47,6 +47,6 @@ Looking ahead, the team plans to explore content negotiation, Web MCP for guided
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/efMAwbrUbZc/hqdefault.jpg)]("https://www.youtube.com/watch?v=efMAwbrUbZc")
+[![Video thumbnail](https://img.youtube.com/vi/efMAwbrUbZc/hqdefault.jpg)](https://www.youtube.com/watch?v=efMAwbrUbZc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=efMAwbrUbZc)

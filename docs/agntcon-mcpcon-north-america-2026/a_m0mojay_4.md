@@ -42,6 +42,6 @@ Additionally, Anthropic emphasizes the importance of integrating enterprise mana
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/a_m0mOJAy_4/hqdefault.jpg)]("https://www.youtube.com/watch?v=a_m0mOJAy_4")
+[![Video thumbnail](https://img.youtube.com/vi/a_m0mOJAy_4/hqdefault.jpg)](https://www.youtube.com/watch?v=a_m0mOJAy_4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=a_m0mOJAy_4)

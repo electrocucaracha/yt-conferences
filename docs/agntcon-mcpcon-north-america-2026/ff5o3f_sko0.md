@@ -49,6 +49,6 @@ By using Era to create disjoint training and testing datasets, developers can ef
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/ff5o3F_SKO0/hqdefault.jpg)]("https://www.youtube.com/watch?v=ff5o3F_SKO0")
+[![Video thumbnail](https://img.youtube.com/vi/ff5o3F_SKO0/hqdefault.jpg)](https://www.youtube.com/watch?v=ff5o3F_SKO0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ff5o3F_SKO0)

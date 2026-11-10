@@ -44,6 +44,6 @@ His company, Standard Agents, aims to create an open-source specification and ru
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/wIPr9GmLRaQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=wIPr9GmLRaQ")
+[![Video thumbnail](https://img.youtube.com/vi/wIPr9GmLRaQ/hqdefault.jpg)](https://www.youtube.com/watch?v=wIPr9GmLRaQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wIPr9GmLRaQ)

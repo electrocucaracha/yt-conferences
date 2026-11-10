@@ -46,6 +46,6 @@ Parker emphasizes that optimizing response formats—such as using ASCII art cha
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/YF3SxZAtK3o/hqdefault.jpg)]("https://www.youtube.com/watch?v=YF3SxZAtK3o")
+[![Video thumbnail](https://img.youtube.com/vi/YF3SxZAtK3o/hqdefault.jpg)](https://www.youtube.com/watch?v=YF3SxZAtK3o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YF3SxZAtK3o)

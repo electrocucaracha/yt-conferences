@@ -44,6 +44,6 @@ Key lessons from the project emphasize the necessity of continuous stakeholder a
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/9vF4j63OHmo/hqdefault.jpg)]("https://www.youtube.com/watch?v=9vF4j63OHmo")
+[![Video thumbnail](https://img.youtube.com/vi/9vF4j63OHmo/hqdefault.jpg)](https://www.youtube.com/watch?v=9vF4j63OHmo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9vF4j63OHmo)

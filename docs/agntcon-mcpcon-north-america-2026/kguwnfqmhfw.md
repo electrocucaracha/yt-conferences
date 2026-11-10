@@ -53,6 +53,6 @@ The speaker concluded by urging the community to actively participate in this hi
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/KGuwNfQMHfw/hqdefault.jpg)]("https://www.youtube.com/watch?v=KGuwNfQMHfw")
+[![Video thumbnail](https://img.youtube.com/vi/KGuwNfQMHfw/hqdefault.jpg)](https://www.youtube.com/watch?v=KGuwNfQMHfw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KGuwNfQMHfw)

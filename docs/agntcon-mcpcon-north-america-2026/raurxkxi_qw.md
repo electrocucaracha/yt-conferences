@@ -42,6 +42,6 @@ JR concludes by inviting the audience to explore the "State of Tokenomics" surve
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/RAUrxkxI_Qw/hqdefault.jpg)]("https://www.youtube.com/watch?v=RAUrxkxI_Qw")
+[![Video thumbnail](https://img.youtube.com/vi/RAUrxkxI_Qw/hqdefault.jpg)](https://www.youtube.com/watch?v=RAUrxkxI_Qw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RAUrxkxI_Qw)

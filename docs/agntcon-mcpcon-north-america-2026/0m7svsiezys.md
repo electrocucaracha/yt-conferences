@@ -57,6 +57,6 @@ Ultimately, he concludes that agent reliability is an architectural property, re
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/0m7SvSIeZYs/hqdefault.jpg)]("https://www.youtube.com/watch?v=0m7SvSIeZYs")
+[![Video thumbnail](https://img.youtube.com/vi/0m7SvSIeZYs/hqdefault.jpg)](https://www.youtube.com/watch?v=0m7SvSIeZYs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0m7SvSIeZYs)

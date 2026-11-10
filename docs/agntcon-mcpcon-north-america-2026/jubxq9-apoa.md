@@ -44,6 +44,6 @@ The system supports both static catalogs and dynamic registries, allowing enterp
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/JUBXq9-apOA/hqdefault.jpg)]("https://www.youtube.com/watch?v=JUBXq9-apOA")
+[![Video thumbnail](https://img.youtube.com/vi/JUBXq9-apOA/hqdefault.jpg)](https://www.youtube.com/watch?v=JUBXq9-apOA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JUBXq9-apOA)

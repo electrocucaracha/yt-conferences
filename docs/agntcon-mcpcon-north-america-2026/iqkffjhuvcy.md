@@ -46,6 +46,6 @@ The session concludes with the release of a white paper demonstrating that Armâ€
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/iqkFFjhUVcY/hqdefault.jpg)]("https://www.youtube.com/watch?v=iqkFFjhUVcY")
+[![Video thumbnail](https://img.youtube.com/vi/iqkFFjhUVcY/hqdefault.jpg)](https://www.youtube.com/watch?v=iqkFFjhUVcY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iqkFFjhUVcY)

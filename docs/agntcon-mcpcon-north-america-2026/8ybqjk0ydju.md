@@ -49,6 +49,6 @@ Kozuka concludes by recommending that organizations start by implementing user i
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/8Ybqjk0ydjU/hqdefault.jpg)]("https://www.youtube.com/watch?v=8Ybqjk0ydjU")
+[![Video thumbnail](https://img.youtube.com/vi/8Ybqjk0ydjU/hqdefault.jpg)](https://www.youtube.com/watch?v=8Ybqjk0ydjU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8Ybqjk0ydjU)

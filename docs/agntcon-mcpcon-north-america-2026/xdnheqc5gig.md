@@ -63,6 +63,6 @@ Finally, she outlines a phased approach to autonomy, starting with observation a
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/xDnheQC5GIg/hqdefault.jpg)]("https://www.youtube.com/watch?v=xDnheQC5GIg")
+[![Video thumbnail](https://img.youtube.com/vi/xDnheQC5GIg/hqdefault.jpg)](https://www.youtube.com/watch?v=xDnheQC5GIg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xDnheQC5GIg)

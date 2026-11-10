@@ -45,6 +45,6 @@ Finally, he emphasizes that the final stage involves constrained optimization to
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/-n7Lq3bwudg/hqdefault.jpg)]("https://www.youtube.com/watch?v=-n7Lq3bwudg")
+[![Video thumbnail](https://img.youtube.com/vi/-n7Lq3bwudg/hqdefault.jpg)](https://www.youtube.com/watch?v=-n7Lq3bwudg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-n7Lq3bwudg)

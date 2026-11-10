@@ -43,6 +43,6 @@ The presentation concludes with three key rules for secure AI integration: expos
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/v1FKGB05h48/hqdefault.jpg)]("https://www.youtube.com/watch?v=v1FKGB05h48")
+[![Video thumbnail](https://img.youtube.com/vi/v1FKGB05h48/hqdefault.jpg)](https://www.youtube.com/watch?v=v1FKGB05h48)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=v1FKGB05h48)

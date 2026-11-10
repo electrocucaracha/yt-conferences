@@ -42,6 +42,6 @@ This automated approach resulted in an 80% reduction in delivery time for the in
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/DQuw4OfmEck/hqdefault.jpg)]("https://www.youtube.com/watch?v=DQuw4OfmEck")
+[![Video thumbnail](https://img.youtube.com/vi/DQuw4OfmEck/hqdefault.jpg)](https://www.youtube.com/watch?v=DQuw4OfmEck)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DQuw4OfmEck)

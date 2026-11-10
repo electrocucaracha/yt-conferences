@@ -55,6 +55,6 @@ Finally, he emphasizes the importance of narrowly scoping tokens to limit the bl
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/OE93ZpILb3k/hqdefault.jpg)]("https://www.youtube.com/watch?v=OE93ZpILb3k")
+[![Video thumbnail](https://img.youtube.com/vi/OE93ZpILb3k/hqdefault.jpg)](https://www.youtube.com/watch?v=OE93ZpILb3k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OE93ZpILb3k)

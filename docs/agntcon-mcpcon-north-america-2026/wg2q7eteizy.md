@@ -72,6 +72,6 @@ To address these threats, Snyk introduces "Agent Scan," a tool that uses a fine-
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/wG2Q7etEIZY/hqdefault.jpg)]("https://www.youtube.com/watch?v=wG2Q7etEIZY")
+[![Video thumbnail](https://img.youtube.com/vi/wG2Q7etEIZY/hqdefault.jpg)](https://www.youtube.com/watch?v=wG2Q7etEIZY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wG2Q7etEIZY)

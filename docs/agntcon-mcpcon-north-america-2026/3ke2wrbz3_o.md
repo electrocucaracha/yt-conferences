@@ -47,6 +47,6 @@ The core takeaway is that effective agentic security requires centralized govern
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/3Ke2wRBz3_o/hqdefault.jpg)]("https://www.youtube.com/watch?v=3Ke2wRBz3_o")
+[![Video thumbnail](https://img.youtube.com/vi/3Ke2wRBz3_o/hqdefault.jpg)](https://www.youtube.com/watch?v=3Ke2wRBz3_o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3Ke2wRBz3_o)

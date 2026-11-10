@@ -48,6 +48,6 @@ Finally, they outlined the roadmap for a new Buzz architecture that shifts from 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/ZnNeO4_dt28/hqdefault.jpg)]("https://www.youtube.com/watch?v=ZnNeO4_dt28")
+[![Video thumbnail](https://img.youtube.com/vi/ZnNeO4_dt28/hqdefault.jpg)](https://www.youtube.com/watch?v=ZnNeO4_dt28)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZnNeO4_dt28)

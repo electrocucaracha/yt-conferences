@@ -52,6 +52,6 @@ The presentation concludes with key takeaways emphasizing the importance of deta
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/ovEpyYxKJPg/hqdefault.jpg)]("https://www.youtube.com/watch?v=ovEpyYxKJPg")
+[![Video thumbnail](https://img.youtube.com/vi/ovEpyYxKJPg/hqdefault.jpg)](https://www.youtube.com/watch?v=ovEpyYxKJPg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ovEpyYxKJPg)

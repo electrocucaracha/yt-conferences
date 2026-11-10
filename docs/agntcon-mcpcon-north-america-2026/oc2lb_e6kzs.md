@@ -59,6 +59,6 @@ The talk concludes by highlighting emerging standards for discovery and payments
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/OC2LB_E6kzs/hqdefault.jpg)]("https://www.youtube.com/watch?v=OC2LB_E6kzs")
+[![Video thumbnail](https://img.youtube.com/vi/OC2LB_E6kzs/hqdefault.jpg)](https://www.youtube.com/watch?v=OC2LB_E6kzs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OC2LB_E6kzs)

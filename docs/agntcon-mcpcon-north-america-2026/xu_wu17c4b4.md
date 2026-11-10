@@ -45,6 +45,6 @@ Ultimately, this approach results in cleaner, more organized code where each ope
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Xu_wu17C4b4/hqdefault.jpg)]("https://www.youtube.com/watch?v=Xu_wu17C4b4")
+[![Video thumbnail](https://img.youtube.com/vi/Xu_wu17C4b4/hqdefault.jpg)](https://www.youtube.com/watch?v=Xu_wu17C4b4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Xu_wu17C4b4)

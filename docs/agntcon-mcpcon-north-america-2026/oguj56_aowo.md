@@ -45,6 +45,6 @@ The session concludes with a promotion of a free, hands-on course where users ca
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/oGuj56_aOWo/hqdefault.jpg)]("https://www.youtube.com/watch?v=oGuj56_aOWo")
+[![Video thumbnail](https://img.youtube.com/vi/oGuj56_aOWo/hqdefault.jpg)](https://www.youtube.com/watch?v=oGuj56_aOWo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oGuj56_aOWo)

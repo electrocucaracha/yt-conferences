@@ -53,6 +53,6 @@ This strategy ensures that agents operate within defined boundaries, preventing 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/5YilRs9LDxI/hqdefault.jpg)]("https://www.youtube.com/watch?v=5YilRs9LDxI")
+[![Video thumbnail](https://img.youtube.com/vi/5YilRs9LDxI/hqdefault.jpg)](https://www.youtube.com/watch?v=5YilRs9LDxI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5YilRs9LDxI)

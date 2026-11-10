@@ -65,6 +65,6 @@ The presentation concludes with key takeaways emphasizing the importance of sepa
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/EXGVtB2E_5s/hqdefault.jpg)]("https://www.youtube.com/watch?v=EXGVtB2E_5s")
+[![Video thumbnail](https://img.youtube.com/vi/EXGVtB2E_5s/hqdefault.jpg)](https://www.youtube.com/watch?v=EXGVtB2E_5s)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EXGVtB2E_5s)

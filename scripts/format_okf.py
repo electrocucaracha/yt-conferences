@@ -52,21 +52,29 @@ def add_video_thumbnail(text: str, frontmatter: str) -> str:
         >>> out = add_video_thumbnail(doc, 'resource: https://y.com/watch?v=abcdefghijk\\n')
         >>> 'img.youtube.com/vi/abcdefghijk/hqdefault.jpg' in out
         True
+        >>> out = add_video_thumbnail(doc, 'resource: "https://y.com/watch?v=abcdefghijk"\\n')
+        >>> '](https://y.com/watch?v=abcdefghijk)' in out
+        True
         >>> add_video_thumbnail(out, 'resource: https://y.com/watch?v=abcdefghijk\\n') == out
         True
         >>> add_video_thumbnail(doc, 'type: test\\n') == doc
         True
     """
-    resource = re.search(r"^resource: (\S+)\s*$", frontmatter, re.MULTILINE)
+    resource = re.search(
+        r"""^resource:\s*(?:"([^"]+)"|'([^']+)'|(\S+))\s*$""",
+        frontmatter,
+        re.MULTILINE,
+    )
     if not resource:
         return text
-    video_id = VIDEO_ID_PATTERN.search(resource.group(1))
+    resource_url = resource.group(1) or resource.group(2) or resource.group(3)
+    video_id = VIDEO_ID_PATTERN.search(resource_url)
     if not video_id:
         return text
     thumbnail = (
         f"[![Video thumbnail]"
         f"(https://img.youtube.com/vi/{video_id.group(1)}/hqdefault.jpg)]"
-        f"({resource.group(1)})"
+        f"({resource_url})"
     )
     text = THUMBNAIL_PATTERN.sub("", text)
     return re.sub(

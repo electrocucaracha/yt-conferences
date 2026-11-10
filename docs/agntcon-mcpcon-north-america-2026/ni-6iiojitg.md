@@ -42,6 +42,6 @@ By implementing this delegated authorization model, organizations can achieve a 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/NI-6iiojItg/hqdefault.jpg)]("https://www.youtube.com/watch?v=NI-6iiojItg")
+[![Video thumbnail](https://img.youtube.com/vi/NI-6iiojItg/hqdefault.jpg)](https://www.youtube.com/watch?v=NI-6iiojItg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NI-6iiojItg)

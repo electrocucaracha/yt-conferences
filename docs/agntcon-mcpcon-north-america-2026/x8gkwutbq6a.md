@@ -48,6 +48,6 @@ Ultimately, the presentation emphasizes that the future of AI infrastructure lie
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/x8gkwutBq6A/hqdefault.jpg)]("https://www.youtube.com/watch?v=x8gkwutBq6A")
+[![Video thumbnail](https://img.youtube.com/vi/x8gkwutBq6A/hqdefault.jpg)](https://www.youtube.com/watch?v=x8gkwutBq6A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x8gkwutBq6A)

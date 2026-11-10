@@ -43,6 +43,6 @@ By structurally separating permissions and sanitizing data outputs, organization
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/vsP9-DCOokU/hqdefault.jpg)]("https://www.youtube.com/watch?v=vsP9-DCOokU")
+[![Video thumbnail](https://img.youtube.com/vi/vsP9-DCOokU/hqdefault.jpg)](https://www.youtube.com/watch?v=vsP9-DCOokU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vsP9-DCOokU)

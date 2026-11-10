@@ -42,6 +42,6 @@ By centralizing control at this gateway, companies can make trust irrelevant, en
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/s7J2inKm69g/hqdefault.jpg)]("https://www.youtube.com/watch?v=s7J2inKm69g")
+[![Video thumbnail](https://img.youtube.com/vi/s7J2inKm69g/hqdefault.jpg)](https://www.youtube.com/watch?v=s7J2inKm69g)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=s7J2inKm69g)

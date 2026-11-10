@@ -49,6 +49,6 @@ By leveraging existing technologies like MCP and ROS, Device Connect aims to unl
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/7-1R77IkbmQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=7-1R77IkbmQ")
+[![Video thumbnail](https://img.youtube.com/vi/7-1R77IkbmQ/hqdefault.jpg)](https://www.youtube.com/watch?v=7-1R77IkbmQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7-1R77IkbmQ)

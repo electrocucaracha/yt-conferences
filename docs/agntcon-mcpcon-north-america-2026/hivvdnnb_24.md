@@ -49,6 +49,6 @@ The talk highlights the growing scale of secret leaks in public repositories and
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/HIVVDNNb_24/hqdefault.jpg)]("https://www.youtube.com/watch?v=HIVVDNNb_24")
+[![Video thumbnail](https://img.youtube.com/vi/HIVVDNNb_24/hqdefault.jpg)](https://www.youtube.com/watch?v=HIVVDNNb_24)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HIVVDNNb_24)

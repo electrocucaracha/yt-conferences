@@ -44,6 +44,6 @@ Finally, she addresses scalability challenges associated with client-side pollin
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/4v-tltNKHPA/hqdefault.jpg)]("https://www.youtube.com/watch?v=4v-tltNKHPA")
+[![Video thumbnail](https://img.youtube.com/vi/4v-tltNKHPA/hqdefault.jpg)](https://www.youtube.com/watch?v=4v-tltNKHPA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4v-tltNKHPA)

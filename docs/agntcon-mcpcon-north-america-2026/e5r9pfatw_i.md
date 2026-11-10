@@ -45,6 +45,6 @@ Despite significant network connectivity issues during the live demo, the instru
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/E5r9PfAtw_I/hqdefault.jpg)]("https://www.youtube.com/watch?v=E5r9PfAtw_I")
+[![Video thumbnail](https://img.youtube.com/vi/E5r9PfAtw_I/hqdefault.jpg)](https://www.youtube.com/watch?v=E5r9PfAtw_I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E5r9PfAtw_I)

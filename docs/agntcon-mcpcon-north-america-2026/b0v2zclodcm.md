@@ -45,6 +45,6 @@ These advancements aim to make it easy for developers to implement secure practi
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/b0v2zCLOdcM/hqdefault.jpg)]("https://www.youtube.com/watch?v=b0v2zCLOdcM")
+[![Video thumbnail](https://img.youtube.com/vi/b0v2zCLOdcM/hqdefault.jpg)](https://www.youtube.com/watch?v=b0v2zCLOdcM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=b0v2zCLOdcM)

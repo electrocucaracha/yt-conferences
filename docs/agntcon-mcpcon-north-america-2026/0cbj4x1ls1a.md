@@ -43,6 +43,6 @@ Finalmente, comparten lecciones aprendidas sobre optimización de tokens, selecc
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/0cBJ4X1LS1A/hqdefault.jpg)]("https://www.youtube.com/watch?v=0cBJ4X1LS1A")
+[![Video thumbnail](https://img.youtube.com/vi/0cBJ4X1LS1A/hqdefault.jpg)](https://www.youtube.com/watch?v=0cBJ4X1LS1A)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0cBJ4X1LS1A)

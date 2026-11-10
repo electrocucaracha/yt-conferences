@@ -43,6 +43,6 @@ Additionally, Buzz introduces a plugin architecture that allows users to customi
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/x36AsK1UvTQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=x36AsK1UvTQ")
+[![Video thumbnail](https://img.youtube.com/vi/x36AsK1UvTQ/hqdefault.jpg)](https://www.youtube.com/watch?v=x36AsK1UvTQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x36AsK1UvTQ)

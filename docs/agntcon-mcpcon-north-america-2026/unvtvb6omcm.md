@@ -48,6 +48,6 @@ Finally, he shares his experience scaling the "IMAXing" ticket monitoring servic
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/UnVtvB6OMcM/hqdefault.jpg)]("https://www.youtube.com/watch?v=UnVtvB6OMcM")
+[![Video thumbnail](https://img.youtube.com/vi/UnVtvB6OMcM/hqdefault.jpg)](https://www.youtube.com/watch?v=UnVtvB6OMcM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UnVtvB6OMcM)

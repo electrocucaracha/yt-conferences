@@ -48,6 +48,6 @@ Ultimately, the speaker emphasizes that effective AI engineering requires balanc
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/btuLWMpzwtI/hqdefault.jpg)]("https://www.youtube.com/watch?v=btuLWMpzwtI")
+[![Video thumbnail](https://img.youtube.com/vi/btuLWMpzwtI/hqdefault.jpg)](https://www.youtube.com/watch?v=btuLWMpzwtI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=btuLWMpzwtI)

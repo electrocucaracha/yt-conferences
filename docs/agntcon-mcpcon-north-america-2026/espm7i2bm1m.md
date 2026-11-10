@@ -43,6 +43,6 @@ Finally, he addresses "click-through fatigue" in enterprise environments by intr
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/eSPm7I2bm1M/hqdefault.jpg)]("https://www.youtube.com/watch?v=eSPm7I2bm1M")
+[![Video thumbnail](https://img.youtube.com/vi/eSPm7I2bm1M/hqdefault.jpg)](https://www.youtube.com/watch?v=eSPm7I2bm1M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=eSPm7I2bm1M)

@@ -45,6 +45,6 @@ Adams concludes that this graph-based knowledge layer provides the necessary mem
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/uBNBDNaCuqQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=uBNBDNaCuqQ")
+[![Video thumbnail](https://img.youtube.com/vi/uBNBDNaCuqQ/hqdefault.jpg)](https://www.youtube.com/watch?v=uBNBDNaCuqQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uBNBDNaCuqQ)

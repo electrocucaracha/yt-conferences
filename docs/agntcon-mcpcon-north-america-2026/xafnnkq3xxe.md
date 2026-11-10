@@ -52,6 +52,6 @@ Looking ahead, FINRA plans to enhance agent context, implement centralized polic
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/xaFnnKq3xxE/hqdefault.jpg)]("https://www.youtube.com/watch?v=xaFnnKq3xxE")
+[![Video thumbnail](https://img.youtube.com/vi/xaFnnKq3xxE/hqdefault.jpg)](https://www.youtube.com/watch?v=xaFnnKq3xxE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xaFnnKq3xxE)

@@ -45,6 +45,6 @@ Although this method introduces trade-offs such as increased upfront setup work 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/ukItLVv2rCc/hqdefault.jpg)]("https://www.youtube.com/watch?v=ukItLVv2rCc")
+[![Video thumbnail](https://img.youtube.com/vi/ukItLVv2rCc/hqdefault.jpg)](https://www.youtube.com/watch?v=ukItLVv2rCc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ukItLVv2rCc)

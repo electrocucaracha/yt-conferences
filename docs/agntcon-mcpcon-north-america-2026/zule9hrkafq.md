@@ -45,6 +45,6 @@ Song concludes by emphasizing the need to automate verifiable code generation, s
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/zUle9hrkafQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=zUle9hrkafQ")
+[![Video thumbnail](https://img.youtube.com/vi/zUle9hrkafQ/hqdefault.jpg)](https://www.youtube.com/watch?v=zUle9hrkafQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zUle9hrkafQ)

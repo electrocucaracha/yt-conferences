@@ -46,6 +46,6 @@ Finally, the speaker stresses the importance of proper versioning and authentica
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/AWFL0irpOQM/hqdefault.jpg)]("https://www.youtube.com/watch?v=AWFL0irpOQM")
+[![Video thumbnail](https://img.youtube.com/vi/AWFL0irpOQM/hqdefault.jpg)](https://www.youtube.com/watch?v=AWFL0irpOQM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=AWFL0irpOQM)

@@ -47,6 +47,6 @@ Additionally, the presenters demonstrated advanced security features, including 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/US_aAT7-mUE/hqdefault.jpg)]("https://www.youtube.com/watch?v=US_aAT7-mUE")
+[![Video thumbnail](https://img.youtube.com/vi/US_aAT7-mUE/hqdefault.jpg)](https://www.youtube.com/watch?v=US_aAT7-mUE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=US_aAT7-mUE)

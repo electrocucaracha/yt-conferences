@@ -44,6 +44,6 @@ While acknowledging current limitations such as uneven DNSSEC deployment and the
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/8iv1NuwOHSc/hqdefault.jpg)]("https://www.youtube.com/watch?v=8iv1NuwOHSc")
+[![Video thumbnail](https://img.youtube.com/vi/8iv1NuwOHSc/hqdefault.jpg)](https://www.youtube.com/watch?v=8iv1NuwOHSc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8iv1NuwOHSc)

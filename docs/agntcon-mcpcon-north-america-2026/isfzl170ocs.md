@@ -47,6 +47,6 @@ Lee concluded by inviting the community to contribute to the project and noting 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/ISFzl170ocs/hqdefault.jpg)]("https://www.youtube.com/watch?v=ISFzl170ocs")
+[![Video thumbnail](https://img.youtube.com/vi/ISFzl170ocs/hqdefault.jpg)](https://www.youtube.com/watch?v=ISFzl170ocs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ISFzl170ocs)

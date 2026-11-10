@@ -55,6 +55,6 @@ She concludes by inviting the community to participate in the tasks and events w
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/h4ZvZpkdslc/hqdefault.jpg)]("https://www.youtube.com/watch?v=h4ZvZpkdslc")
+[![Video thumbnail](https://img.youtube.com/vi/h4ZvZpkdslc/hqdefault.jpg)](https://www.youtube.com/watch?v=h4ZvZpkdslc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=h4ZvZpkdslc)

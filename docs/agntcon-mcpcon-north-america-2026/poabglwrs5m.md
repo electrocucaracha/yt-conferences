@@ -45,6 +45,6 @@ This approach ensures that AI-generated code strictly adheres to the team’s es
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/POAbGlwrS5M/hqdefault.jpg)]("https://www.youtube.com/watch?v=POAbGlwrS5M")
+[![Video thumbnail](https://img.youtube.com/vi/POAbGlwrS5M/hqdefault.jpg)](https://www.youtube.com/watch?v=POAbGlwrS5M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=POAbGlwrS5M)

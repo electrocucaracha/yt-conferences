@@ -54,6 +54,6 @@ Finally, the speaker outlines critical security considerations for implementing 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/uJ_YscSjBXI/hqdefault.jpg)]("https://www.youtube.com/watch?v=uJ_YscSjBXI")
+[![Video thumbnail](https://img.youtube.com/vi/uJ_YscSjBXI/hqdefault.jpg)](https://www.youtube.com/watch?v=uJ_YscSjBXI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uJ_YscSjBXI)

@@ -54,6 +54,6 @@ The session concludes with a live demonstration of an agent executing a financia
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/t3ptdhYCbWg/hqdefault.jpg)]("https://www.youtube.com/watch?v=t3ptdhYCbWg")
+[![Video thumbnail](https://img.youtube.com/vi/t3ptdhYCbWg/hqdefault.jpg)](https://www.youtube.com/watch?v=t3ptdhYCbWg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=t3ptdhYCbWg)

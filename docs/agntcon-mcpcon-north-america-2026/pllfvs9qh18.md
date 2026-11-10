@@ -48,6 +48,6 @@ The company offers both open-source tools and commercial products like Beads Tea
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/plLfvs9QH18/hqdefault.jpg)]("https://www.youtube.com/watch?v=plLfvs9QH18")
+[![Video thumbnail](https://img.youtube.com/vi/plLfvs9QH18/hqdefault.jpg)](https://www.youtube.com/watch?v=plLfvs9QH18)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=plLfvs9QH18)

@@ -56,6 +56,6 @@ The session concludes with a discussion on the importance of A2A for interoperab
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/qoCn-lbQwCY/hqdefault.jpg)]("https://www.youtube.com/watch?v=qoCn-lbQwCY")
+[![Video thumbnail](https://img.youtube.com/vi/qoCn-lbQwCY/hqdefault.jpg)](https://www.youtube.com/watch?v=qoCn-lbQwCY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qoCn-lbQwCY)

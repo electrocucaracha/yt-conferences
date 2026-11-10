@@ -46,6 +46,6 @@ She concludes by distinguishing WebMCP from server-side MCP, emphasizing that th
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/8IwsoNrZW1U/hqdefault.jpg)]("https://www.youtube.com/watch?v=8IwsoNrZW1U")
+[![Video thumbnail](https://img.youtube.com/vi/8IwsoNrZW1U/hqdefault.jpg)](https://www.youtube.com/watch?v=8IwsoNrZW1U)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8IwsoNrZW1U)

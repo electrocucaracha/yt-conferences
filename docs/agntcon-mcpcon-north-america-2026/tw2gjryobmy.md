@@ -50,6 +50,6 @@ The results showed that while models alone were vulnerable to human-authored att
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Tw2gjRyoBMY/hqdefault.jpg)]("https://www.youtube.com/watch?v=Tw2gjRyoBMY")
+[![Video thumbnail](https://img.youtube.com/vi/Tw2gjRyoBMY/hqdefault.jpg)](https://www.youtube.com/watch?v=Tw2gjRyoBMY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Tw2gjRyoBMY)

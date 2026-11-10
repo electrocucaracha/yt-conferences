@@ -47,6 +47,6 @@ Greenwich demonstrates this capability with a live example where an agent autono
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/p7y0PAAQrts/hqdefault.jpg)]("https://www.youtube.com/watch?v=p7y0PAAQrts")
+[![Video thumbnail](https://img.youtube.com/vi/p7y0PAAQrts/hqdefault.jpg)](https://www.youtube.com/watch?v=p7y0PAAQrts)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p7y0PAAQrts)

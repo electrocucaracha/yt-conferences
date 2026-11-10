@@ -47,6 +47,6 @@ To address these challenges, she urges organizations to budget for review and me
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/W-9xslRp2oo/hqdefault.jpg)]("https://www.youtube.com/watch?v=W-9xslRp2oo")
+[![Video thumbnail](https://img.youtube.com/vi/W-9xslRp2oo/hqdefault.jpg)](https://www.youtube.com/watch?v=W-9xslRp2oo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=W-9xslRp2oo)

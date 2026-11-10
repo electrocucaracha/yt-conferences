@@ -46,6 +46,6 @@ She concludes by suggesting future improvements, such as developing universal pr
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/39It_-bjhtw/hqdefault.jpg)]("https://www.youtube.com/watch?v=39It_-bjhtw")
+[![Video thumbnail](https://img.youtube.com/vi/39It_-bjhtw/hqdefault.jpg)](https://www.youtube.com/watch?v=39It_-bjhtw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=39It_-bjhtw)

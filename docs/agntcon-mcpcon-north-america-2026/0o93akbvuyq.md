@@ -45,6 +45,6 @@ The speaker concludes that while current agents struggle with efficiency and tru
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/0o93aKBvuYQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=0o93aKBvuYQ")
+[![Video thumbnail](https://img.youtube.com/vi/0o93aKBvuYQ/hqdefault.jpg)](https://www.youtube.com/watch?v=0o93aKBvuYQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0o93aKBvuYQ)

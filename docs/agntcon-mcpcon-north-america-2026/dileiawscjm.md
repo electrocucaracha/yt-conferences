@@ -45,6 +45,6 @@ Ultimately, this approach enables a "cheap by default, frontier by exception" st
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/DilEiawSCjM/hqdefault.jpg)]("https://www.youtube.com/watch?v=DilEiawSCjM")
+[![Video thumbnail](https://img.youtube.com/vi/DilEiawSCjM/hqdefault.jpg)](https://www.youtube.com/watch?v=DilEiawSCjM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DilEiawSCjM)

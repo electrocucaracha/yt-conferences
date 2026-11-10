@@ -47,6 +47,6 @@ Nolan invita a profesionales de cualquier sector a participar en el comité sin 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/kOItZdwge2o/hqdefault.jpg)]("https://www.youtube.com/watch?v=kOItZdwge2o")
+[![Video thumbnail](https://img.youtube.com/vi/kOItZdwge2o/hqdefault.jpg)](https://www.youtube.com/watch?v=kOItZdwge2o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kOItZdwge2o)

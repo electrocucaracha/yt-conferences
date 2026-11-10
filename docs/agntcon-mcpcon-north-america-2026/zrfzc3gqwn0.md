@@ -47,6 +47,6 @@ The team emphasized the framework’s extensibility to other protocols like Kube
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/ZRFzc3gqwn0/hqdefault.jpg)]("https://www.youtube.com/watch?v=ZRFzc3gqwn0")
+[![Video thumbnail](https://img.youtube.com/vi/ZRFzc3gqwn0/hqdefault.jpg)](https://www.youtube.com/watch?v=ZRFzc3gqwn0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZRFzc3gqwn0)

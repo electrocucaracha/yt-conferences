@@ -48,6 +48,6 @@ Ultimately, the speaker stresses that human ownership of code and active verific
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/zY3kZTVN6V8/hqdefault.jpg)]("https://www.youtube.com/watch?v=zY3kZTVN6V8")
+[![Video thumbnail](https://img.youtube.com/vi/zY3kZTVN6V8/hqdefault.jpg)](https://www.youtube.com/watch?v=zY3kZTVN6V8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zY3kZTVN6V8)

@@ -49,6 +49,6 @@ Developers are encouraged to adopt these technologies now to prepare for a futur
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/8qhbtkc-Gpc/hqdefault.jpg)]("https://www.youtube.com/watch?v=8qhbtkc-Gpc")
+[![Video thumbnail](https://img.youtube.com/vi/8qhbtkc-Gpc/hqdefault.jpg)](https://www.youtube.com/watch?v=8qhbtkc-Gpc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8qhbtkc-Gpc)

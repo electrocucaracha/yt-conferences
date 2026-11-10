@@ -51,6 +51,6 @@ He encourages individuals and organizations from diverse sectors to actively joi
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/zFGLlvNm1HQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=zFGLlvNm1HQ")
+[![Video thumbnail](https://img.youtube.com/vi/zFGLlvNm1HQ/hqdefault.jpg)](https://www.youtube.com/watch?v=zFGLlvNm1HQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zFGLlvNm1HQ)

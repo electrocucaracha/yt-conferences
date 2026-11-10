@@ -56,6 +56,6 @@ By implementing these mechanisms, organizations can ensure that agents only prov
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/fFKtjp6neI0/hqdefault.jpg)]("https://www.youtube.com/watch?v=fFKtjp6neI0")
+[![Video thumbnail](https://img.youtube.com/vi/fFKtjp6neI0/hqdefault.jpg)](https://www.youtube.com/watch?v=fFKtjp6neI0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fFKtjp6neI0)

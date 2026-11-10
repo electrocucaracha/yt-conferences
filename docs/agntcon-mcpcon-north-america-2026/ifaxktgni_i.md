@@ -46,6 +46,6 @@ The speakers urge industry participants to actively engage in IETF working group
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/IfAxktGni_I/hqdefault.jpg)]("https://www.youtube.com/watch?v=IfAxktGni_I")
+[![Video thumbnail](https://img.youtube.com/vi/IfAxktGni_I/hqdefault.jpg)](https://www.youtube.com/watch?v=IfAxktGni_I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IfAxktGni_I)

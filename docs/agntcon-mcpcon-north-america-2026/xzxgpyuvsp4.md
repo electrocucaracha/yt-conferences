@@ -45,6 +45,6 @@ Ultimately, the goal is to move away from micromanaging chat windows toward a sy
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/xZXGPyUVSp4/hqdefault.jpg)]("https://www.youtube.com/watch?v=xZXGPyUVSp4")
+[![Video thumbnail](https://img.youtube.com/vi/xZXGPyUVSp4/hqdefault.jpg)](https://www.youtube.com/watch?v=xZXGPyUVSp4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xZXGPyUVSp4)

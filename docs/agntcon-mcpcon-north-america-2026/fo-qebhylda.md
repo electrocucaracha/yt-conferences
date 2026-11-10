@@ -54,6 +54,6 @@ He emphasizes that unlike generic API calls, Proof’s system provides a root of
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/fo-QeBhyLDA/hqdefault.jpg)]("https://www.youtube.com/watch?v=fo-QeBhyLDA")
+[![Video thumbnail](https://img.youtube.com/vi/fo-QeBhyLDA/hqdefault.jpg)](https://www.youtube.com/watch?v=fo-QeBhyLDA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fo-QeBhyLDA)

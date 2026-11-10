@@ -51,6 +51,6 @@ Finally, they invite the audience to engage with the OpenSSF community and atten
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/rzqtARYkM_w/hqdefault.jpg)]("https://www.youtube.com/watch?v=rzqtARYkM_w")
+[![Video thumbnail](https://img.youtube.com/vi/rzqtARYkM_w/hqdefault.jpg)](https://www.youtube.com/watch?v=rzqtARYkM_w)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rzqtARYkM_w)

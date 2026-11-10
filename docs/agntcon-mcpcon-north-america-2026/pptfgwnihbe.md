@@ -45,6 +45,6 @@ Finally, he provides specific diagnostic tests for each failure mode, emphasizin
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/PpTfGwnIhBE/hqdefault.jpg)]("https://www.youtube.com/watch?v=PpTfGwnIhBE")
+[![Video thumbnail](https://img.youtube.com/vi/PpTfGwnIhBE/hqdefault.jpg)](https://www.youtube.com/watch?v=PpTfGwnIhBE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PpTfGwnIhBE)

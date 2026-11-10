@@ -46,6 +46,6 @@ Ultimately, the consensus suggests that while the headless future is inevitable,
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/gEiM4HBtPAU/hqdefault.jpg)]("https://www.youtube.com/watch?v=gEiM4HBtPAU")
+[![Video thumbnail](https://img.youtube.com/vi/gEiM4HBtPAU/hqdefault.jpg)](https://www.youtube.com/watch?v=gEiM4HBtPAU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gEiM4HBtPAU)

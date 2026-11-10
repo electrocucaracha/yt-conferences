@@ -1,12 +1,3 @@
----
-layout: default
-title: AGNTCon + MCPCon North America 2026
-has_children: true
-nav_order: 2
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PLFBM09st9BIg"
----
-
 # AGNTCon + MCPCon North America 2026
 
 ## Executive Overview

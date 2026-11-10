@@ -56,6 +56,6 @@ While this solution effectively secures intra-organizational agent chains by kee
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/mqz8iS4NrNw/hqdefault.jpg)]("https://www.youtube.com/watch?v=mqz8iS4NrNw")
+[![Video thumbnail](https://img.youtube.com/vi/mqz8iS4NrNw/hqdefault.jpg)](https://www.youtube.com/watch?v=mqz8iS4NrNw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mqz8iS4NrNw)

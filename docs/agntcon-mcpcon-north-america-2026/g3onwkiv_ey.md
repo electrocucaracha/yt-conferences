@@ -37,6 +37,6 @@ Shifting focus to the conference agenda, the speaker highlights the dual nature 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/g3ONwKIv_EY/hqdefault.jpg)]("https://www.youtube.com/watch?v=g3ONwKIv_EY")
+[![Video thumbnail](https://img.youtube.com/vi/g3ONwKIv_EY/hqdefault.jpg)](https://www.youtube.com/watch?v=g3ONwKIv_EY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=g3ONwKIv_EY)

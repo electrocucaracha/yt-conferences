@@ -44,6 +44,6 @@ This approach allows auditors to prove the authenticity of specific agent action
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/QggeA4MBfr0/hqdefault.jpg)]("https://www.youtube.com/watch?v=QggeA4MBfr0")
+[![Video thumbnail](https://img.youtube.com/vi/QggeA4MBfr0/hqdefault.jpg)](https://www.youtube.com/watch?v=QggeA4MBfr0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QggeA4MBfr0)

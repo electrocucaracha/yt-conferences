@@ -45,6 +45,6 @@ He recommends using open-source tools like Dapr to implement these distributed, 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/qGG4QzZ_Hzk/hqdefault.jpg)]("https://www.youtube.com/watch?v=qGG4QzZ_Hzk")
+[![Video thumbnail](https://img.youtube.com/vi/qGG4QzZ_Hzk/hqdefault.jpg)](https://www.youtube.com/watch?v=qGG4QzZ_Hzk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qGG4QzZ_Hzk)

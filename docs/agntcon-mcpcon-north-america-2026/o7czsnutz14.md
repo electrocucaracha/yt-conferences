@@ -74,6 +74,6 @@ Finally, she highlights the importance of measuring long-term customer sentiment
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/O7czSnUtZ14/hqdefault.jpg)]("https://www.youtube.com/watch?v=O7czSnUtZ14")
+[![Video thumbnail](https://img.youtube.com/vi/O7czSnUtZ14/hqdefault.jpg)](https://www.youtube.com/watch?v=O7czSnUtZ14)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=O7czSnUtZ14)

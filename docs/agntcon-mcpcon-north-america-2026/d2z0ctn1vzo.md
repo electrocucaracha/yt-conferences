@@ -47,6 +47,6 @@ Key design principles include prioritizing read operations for verification, imp
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/D2Z0CtN1vZo/hqdefault.jpg)]("https://www.youtube.com/watch?v=D2Z0CtN1vZo")
+[![Video thumbnail](https://img.youtube.com/vi/D2Z0CtN1vZo/hqdefault.jpg)](https://www.youtube.com/watch?v=D2Z0CtN1vZo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=D2Z0CtN1vZo)

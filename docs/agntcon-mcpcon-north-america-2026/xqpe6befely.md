@@ -43,6 +43,6 @@ The methodology is available on GitHub as a set of Markdown principles and antip
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/XQpE6BefELY/hqdefault.jpg)]("https://www.youtube.com/watch?v=XQpE6BefELY")
+[![Video thumbnail](https://img.youtube.com/vi/XQpE6BefELY/hqdefault.jpg)](https://www.youtube.com/watch?v=XQpE6BefELY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XQpE6BefELY)

@@ -45,6 +45,6 @@ He concludes by urging the audience to demand open protocols, contribute to the 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/xVbKsutYF1I/hqdefault.jpg)]("https://www.youtube.com/watch?v=xVbKsutYF1I")
+[![Video thumbnail](https://img.youtube.com/vi/xVbKsutYF1I/hqdefault.jpg)](https://www.youtube.com/watch?v=xVbKsutYF1I)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xVbKsutYF1I)

@@ -42,6 +42,6 @@ Finally, he highlights OpenAI’s commitment to the MCP standard, noting support
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/LDMzI0jGDb0/hqdefault.jpg)]("https://www.youtube.com/watch?v=LDMzI0jGDb0")
+[![Video thumbnail](https://img.youtube.com/vi/LDMzI0jGDb0/hqdefault.jpg)](https://www.youtube.com/watch?v=LDMzI0jGDb0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LDMzI0jGDb0)

@@ -47,6 +47,6 @@ The solution is designed to be decentralized and interoperable, supporting proto
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Fo0Qi6NqAeE/hqdefault.jpg)]("https://www.youtube.com/watch?v=Fo0Qi6NqAeE")
+[![Video thumbnail](https://img.youtube.com/vi/Fo0Qi6NqAeE/hqdefault.jpg)](https://www.youtube.com/watch?v=Fo0Qi6NqAeE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Fo0Qi6NqAeE)

@@ -48,6 +48,6 @@ Ultimately, he urges developers to remain actively involved in the review proces
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/ZobgRrhgmCM/hqdefault.jpg)]("https://www.youtube.com/watch?v=ZobgRrhgmCM")
+[![Video thumbnail](https://img.youtube.com/vi/ZobgRrhgmCM/hqdefault.jpg)](https://www.youtube.com/watch?v=ZobgRrhgmCM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZobgRrhgmCM)

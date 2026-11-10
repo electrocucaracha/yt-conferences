@@ -40,6 +40,6 @@ Finally, the host announces future conference dates for 2027, with events schedu
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/IxUZWZHzZjQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=IxUZWZHzZjQ")
+[![Video thumbnail](https://img.youtube.com/vi/IxUZWZHzZjQ/hqdefault.jpg)](https://www.youtube.com/watch?v=IxUZWZHzZjQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IxUZWZHzZjQ)

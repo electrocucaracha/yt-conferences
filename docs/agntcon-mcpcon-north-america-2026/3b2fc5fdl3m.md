@@ -47,6 +47,6 @@ Finally, the workshop incorporates Model Context Protocol (MCP) servers to provi
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/3b2FC5FdL3M/hqdefault.jpg)]("https://www.youtube.com/watch?v=3b2FC5FdL3M")
+[![Video thumbnail](https://img.youtube.com/vi/3b2FC5FdL3M/hqdefault.jpg)](https://www.youtube.com/watch?v=3b2FC5FdL3M)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3b2FC5FdL3M)

@@ -45,6 +45,6 @@ Finally, Hefner advises that successful standardization requires early and conti
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/wz9xCv_UHts/hqdefault.jpg)]("https://www.youtube.com/watch?v=wz9xCv_UHts")
+[![Video thumbnail](https://img.youtube.com/vi/wz9xCv_UHts/hqdefault.jpg)](https://www.youtube.com/watch?v=wz9xCv_UHts)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wz9xCv_UHts)

@@ -43,6 +43,6 @@ El proyecto incluye características como catálogos federados para empresas y m
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Ro2EpOIYRQA/hqdefault.jpg)]("https://www.youtube.com/watch?v=Ro2EpOIYRQA")
+[![Video thumbnail](https://img.youtube.com/vi/Ro2EpOIYRQA/hqdefault.jpg)](https://www.youtube.com/watch?v=Ro2EpOIYRQA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Ro2EpOIYRQA)

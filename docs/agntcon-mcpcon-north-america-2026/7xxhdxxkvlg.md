@@ -45,6 +45,6 @@ Ultimately, the vision is not to replace developers with agents, but to empower 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/7XXHDXxkvLg/hqdefault.jpg)]("https://www.youtube.com/watch?v=7XXHDXxkvLg")
+[![Video thumbnail](https://img.youtube.com/vi/7XXHDXxkvLg/hqdefault.jpg)](https://www.youtube.com/watch?v=7XXHDXxkvLg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7XXHDXxkvLg)

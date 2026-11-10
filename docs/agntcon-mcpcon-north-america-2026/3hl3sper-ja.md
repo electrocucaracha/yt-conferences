@@ -54,6 +54,6 @@ She demonstrates that adding guardrails significantly enhances the performance o
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/3Hl3Sper-jA/hqdefault.jpg)]("https://www.youtube.com/watch?v=3Hl3Sper-jA")
+[![Video thumbnail](https://img.youtube.com/vi/3Hl3Sper-jA/hqdefault.jpg)](https://www.youtube.com/watch?v=3Hl3Sper-jA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3Hl3Sper-jA)

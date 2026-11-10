@@ -46,6 +46,6 @@ Ultimately, he advises building robust guardrails around the "black box" of AI m
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/R5xD9csdGyQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=R5xD9csdGyQ")
+[![Video thumbnail](https://img.youtube.com/vi/R5xD9csdGyQ/hqdefault.jpg)](https://www.youtube.com/watch?v=R5xD9csdGyQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=R5xD9csdGyQ)

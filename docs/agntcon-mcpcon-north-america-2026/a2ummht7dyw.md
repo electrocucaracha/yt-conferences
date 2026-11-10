@@ -47,6 +47,6 @@ The presentation concludes with a strategic roadmap for enterprises, emphasizing
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/A2uMmhT7dyw/hqdefault.jpg)]("https://www.youtube.com/watch?v=A2uMmhT7dyw")
+[![Video thumbnail](https://img.youtube.com/vi/A2uMmhT7dyw/hqdefault.jpg)](https://www.youtube.com/watch?v=A2uMmhT7dyw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=A2uMmhT7dyw)

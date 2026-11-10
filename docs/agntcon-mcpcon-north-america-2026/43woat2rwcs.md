@@ -45,6 +45,6 @@ Ultimately, the goal is to design AI systems that prioritize human flourishing a
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/43WOAT2rwCs/hqdefault.jpg)]("https://www.youtube.com/watch?v=43WOAT2rwCs")
+[![Video thumbnail](https://img.youtube.com/vi/43WOAT2rwCs/hqdefault.jpg)](https://www.youtube.com/watch?v=43WOAT2rwCs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=43WOAT2rwCs)

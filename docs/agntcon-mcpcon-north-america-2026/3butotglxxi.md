@@ -47,6 +47,6 @@ The specification is available under the Apache 2.0 license on GitHub, offering 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/3BUTOTGlxxI/hqdefault.jpg)]("https://www.youtube.com/watch?v=3BUTOTGlxxI")
+[![Video thumbnail](https://img.youtube.com/vi/3BUTOTGlxxI/hqdefault.jpg)](https://www.youtube.com/watch?v=3BUTOTGlxxI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3BUTOTGlxxI)

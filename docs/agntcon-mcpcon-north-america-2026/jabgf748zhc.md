@@ -42,6 +42,6 @@ Additionally, the speaker showcases advanced features such as semantic routing, 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/jABgf748zHc/hqdefault.jpg)]("https://www.youtube.com/watch?v=jABgf748zHc")
+[![Video thumbnail](https://img.youtube.com/vi/jABgf748zHc/hqdefault.jpg)](https://www.youtube.com/watch?v=jABgf748zHc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jABgf748zHc)

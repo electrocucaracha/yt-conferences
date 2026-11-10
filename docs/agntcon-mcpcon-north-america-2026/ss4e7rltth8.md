@@ -41,6 +41,6 @@ Agent Shield employs a continuous pipeline to discover services, map lateral mov
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/SS4e7RLtTH8/hqdefault.jpg)]("https://www.youtube.com/watch?v=SS4e7RLtTH8")
+[![Video thumbnail](https://img.youtube.com/vi/SS4e7RLtTH8/hqdefault.jpg)](https://www.youtube.com/watch?v=SS4e7RLtTH8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SS4e7RLtTH8)

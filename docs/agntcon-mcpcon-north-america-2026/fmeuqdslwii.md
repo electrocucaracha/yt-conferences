@@ -47,6 +47,6 @@ Finally, he highlights MCP Jam as an open-source platform that uses agent person
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/FmeuQdSLWiI/hqdefault.jpg)]("https://www.youtube.com/watch?v=FmeuQdSLWiI")
+[![Video thumbnail](https://img.youtube.com/vi/FmeuQdSLWiI/hqdefault.jpg)](https://www.youtube.com/watch?v=FmeuQdSLWiI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FmeuQdSLWiI)

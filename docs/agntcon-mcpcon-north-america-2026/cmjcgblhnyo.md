@@ -45,6 +45,6 @@ Additionally, the speaker advises that agents should always keep the caller in c
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/cmJcGbLhNyo/hqdefault.jpg)]("https://www.youtube.com/watch?v=cmJcGbLhNyo")
+[![Video thumbnail](https://img.youtube.com/vi/cmJcGbLhNyo/hqdefault.jpg)](https://www.youtube.com/watch?v=cmJcGbLhNyo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cmJcGbLhNyo)

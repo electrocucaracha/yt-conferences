@@ -44,6 +44,6 @@ By identifying, formalizing, and enforcing these cross-cutting properties throug
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/fbse-wWIjGQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=fbse-wWIjGQ")
+[![Video thumbnail](https://img.youtube.com/vi/fbse-wWIjGQ/hqdefault.jpg)](https://www.youtube.com/watch?v=fbse-wWIjGQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fbse-wWIjGQ)

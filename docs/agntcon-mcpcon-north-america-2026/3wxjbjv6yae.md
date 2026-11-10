@@ -46,6 +46,6 @@ Roberts emphasizes that this granular observability is critical for business-cri
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/3wXJbjV6YAE/hqdefault.jpg)]("https://www.youtube.com/watch?v=3wXJbjV6YAE")
+[![Video thumbnail](https://img.youtube.com/vi/3wXJbjV6YAE/hqdefault.jpg)](https://www.youtube.com/watch?v=3wXJbjV6YAE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3wXJbjV6YAE)

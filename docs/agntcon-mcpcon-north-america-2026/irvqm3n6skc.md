@@ -43,6 +43,6 @@ Looking ahead, UCP is expanding beyond shopping into new verticals such as lodgi
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/IRVqm3N6SKc/hqdefault.jpg)]("https://www.youtube.com/watch?v=IRVqm3N6SKc")
+[![Video thumbnail](https://img.youtube.com/vi/IRVqm3N6SKc/hqdefault.jpg)](https://www.youtube.com/watch?v=IRVqm3N6SKc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IRVqm3N6SKc)

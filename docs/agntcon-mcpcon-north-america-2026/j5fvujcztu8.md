@@ -44,6 +44,6 @@ This live demonstration showcases multiple agents autonomously contributing to a
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/j5fVujCZtu8/hqdefault.jpg)]("https://www.youtube.com/watch?v=j5fVujCZtu8")
+[![Video thumbnail](https://img.youtube.com/vi/j5fVujCZtu8/hqdefault.jpg)](https://www.youtube.com/watch?v=j5fVujCZtu8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=j5fVujCZtu8)

@@ -42,6 +42,6 @@ Finally, they advocate for using evaluation frameworks and session tracking to c
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/3ZagKglGbkk/hqdefault.jpg)]("https://www.youtube.com/watch?v=3ZagKglGbkk")
+[![Video thumbnail](https://img.youtube.com/vi/3ZagKglGbkk/hqdefault.jpg)](https://www.youtube.com/watch?v=3ZagKglGbkk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3ZagKglGbkk)

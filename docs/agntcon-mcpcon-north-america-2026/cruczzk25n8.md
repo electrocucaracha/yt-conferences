@@ -53,6 +53,6 @@ Ultimately, the speaker argues that proper architectural governance, rather than
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/CrucZZk25n8/hqdefault.jpg)]("https://www.youtube.com/watch?v=CrucZZk25n8")
+[![Video thumbnail](https://img.youtube.com/vi/CrucZZk25n8/hqdefault.jpg)](https://www.youtube.com/watch?v=CrucZZk25n8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CrucZZk25n8)

@@ -44,6 +44,6 @@ Indukwe demonstrates this workflow using an authentication logging task, showing
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/7exa4ZcZM_c/hqdefault.jpg)]("https://www.youtube.com/watch?v=7exa4ZcZM_c")
+[![Video thumbnail](https://img.youtube.com/vi/7exa4ZcZM_c/hqdefault.jpg)](https://www.youtube.com/watch?v=7exa4ZcZM_c)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7exa4ZcZM_c)

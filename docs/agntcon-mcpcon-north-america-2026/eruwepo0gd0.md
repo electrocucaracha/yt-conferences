@@ -50,6 +50,6 @@ The session concludes by emphasizing the potential of these frameworks to redefi
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/eruWepO0gD0/hqdefault.jpg)]("https://www.youtube.com/watch?v=eruWepO0gD0")
+[![Video thumbnail](https://img.youtube.com/vi/eruWepO0gD0/hqdefault.jpg)](https://www.youtube.com/watch?v=eruWepO0gD0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=eruWepO0gD0)

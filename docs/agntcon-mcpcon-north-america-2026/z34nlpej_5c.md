@@ -46,6 +46,6 @@ Agentree is open-source, built on standard HTTP infrastructure for easy integrat
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/z34nlPEJ_5c/hqdefault.jpg)]("https://www.youtube.com/watch?v=z34nlPEJ_5c")
+[![Video thumbnail](https://img.youtube.com/vi/z34nlPEJ_5c/hqdefault.jpg)](https://www.youtube.com/watch?v=z34nlPEJ_5c)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=z34nlPEJ_5c)

@@ -42,6 +42,6 @@ He concludes by advising developers not to rely solely on MCP conformance tests,
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/mF_pCrFvGY0/hqdefault.jpg)]("https://www.youtube.com/watch?v=mF_pCrFvGY0")
+[![Video thumbnail](https://img.youtube.com/vi/mF_pCrFvGY0/hqdefault.jpg)](https://www.youtube.com/watch?v=mF_pCrFvGY0)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mF_pCrFvGY0)

@@ -59,6 +59,6 @@ This design ensures that even if an agent is tricked, deterministic code checks 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/WRnh_fAWhyY/hqdefault.jpg)]("https://www.youtube.com/watch?v=WRnh_fAWhyY")
+[![Video thumbnail](https://img.youtube.com/vi/WRnh_fAWhyY/hqdefault.jpg)](https://www.youtube.com/watch?v=WRnh_fAWhyY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WRnh_fAWhyY)

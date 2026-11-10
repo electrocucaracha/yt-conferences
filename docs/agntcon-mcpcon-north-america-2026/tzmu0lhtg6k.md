@@ -45,6 +45,6 @@ Ultimately, this infrastructure supports diverse user interfaces, from tradition
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/TZMu0LhTG6k/hqdefault.jpg)]("https://www.youtube.com/watch?v=TZMu0LhTG6k")
+[![Video thumbnail](https://img.youtube.com/vi/TZMu0LhTG6k/hqdefault.jpg)](https://www.youtube.com/watch?v=TZMu0LhTG6k)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TZMu0LhTG6k)

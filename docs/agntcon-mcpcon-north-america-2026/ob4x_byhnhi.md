@@ -44,6 +44,6 @@ This multi-tiered approach, which combines semantic routing with traditional egr
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/OB4x_byHNhI/hqdefault.jpg)]("https://www.youtube.com/watch?v=OB4x_byHNhI")
+[![Video thumbnail](https://img.youtube.com/vi/OB4x_byHNhI/hqdefault.jpg)](https://www.youtube.com/watch?v=OB4x_byHNhI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OB4x_byHNhI)

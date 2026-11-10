@@ -47,6 +47,6 @@ While the project remains experimental and assumes trusted agents, it offers a p
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/lJVWCQt7Tho/hqdefault.jpg)]("https://www.youtube.com/watch?v=lJVWCQt7Tho")
+[![Video thumbnail](https://img.youtube.com/vi/lJVWCQt7Tho/hqdefault.jpg)](https://www.youtube.com/watch?v=lJVWCQt7Tho)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lJVWCQt7Tho)

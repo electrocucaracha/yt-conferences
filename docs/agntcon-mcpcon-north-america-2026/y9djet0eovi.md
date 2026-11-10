@@ -54,6 +54,6 @@ The core takeaway is that evaluation is an ongoing operation rather than a one-t
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/y9dJET0EOvI/hqdefault.jpg)]("https://www.youtube.com/watch?v=y9dJET0EOvI")
+[![Video thumbnail](https://img.youtube.com/vi/y9dJET0EOvI/hqdefault.jpg)](https://www.youtube.com/watch?v=y9dJET0EOvI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=y9dJET0EOvI)

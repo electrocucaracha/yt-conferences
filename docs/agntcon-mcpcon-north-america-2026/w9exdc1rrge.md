@@ -46,6 +46,6 @@ To succeed, builders must protect their unique signal by defining clear, honest 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/w9EXDc1rrGE/hqdefault.jpg)]("https://www.youtube.com/watch?v=w9EXDc1rrGE")
+[![Video thumbnail](https://img.youtube.com/vi/w9EXDc1rrGE/hqdefault.jpg)](https://www.youtube.com/watch?v=w9EXDc1rrGE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=w9EXDc1rrGE)

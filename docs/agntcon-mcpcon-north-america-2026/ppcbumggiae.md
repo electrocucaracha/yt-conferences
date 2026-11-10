@@ -48,6 +48,6 @@ Furthermore, it emphasizes the necessity of strict runtime behavior monitoring a
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/PPcbuMGGiAE/hqdefault.jpg)]("https://www.youtube.com/watch?v=PPcbuMGGiAE")
+[![Video thumbnail](https://img.youtube.com/vi/PPcbuMGGiAE/hqdefault.jpg)](https://www.youtube.com/watch?v=PPcbuMGGiAE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=PPcbuMGGiAE)

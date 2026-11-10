@@ -53,6 +53,6 @@ Finally, they preview upcoming features in A2A 1.1, including a more granular ta
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/-jBG0cIMiuY/hqdefault.jpg)]("https://www.youtube.com/watch?v=-jBG0cIMiuY")
+[![Video thumbnail](https://img.youtube.com/vi/-jBG0cIMiuY/hqdefault.jpg)](https://www.youtube.com/watch?v=-jBG0cIMiuY)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-jBG0cIMiuY)

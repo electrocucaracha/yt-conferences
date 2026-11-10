@@ -45,6 +45,6 @@ Finally, the presentation advises treating `agents.md` with the same rigor as co
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/jKbuqKv-M1E/hqdefault.jpg)]("https://www.youtube.com/watch?v=jKbuqKv-M1E")
+[![Video thumbnail](https://img.youtube.com/vi/jKbuqKv-M1E/hqdefault.jpg)](https://www.youtube.com/watch?v=jKbuqKv-M1E)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jKbuqKv-M1E)

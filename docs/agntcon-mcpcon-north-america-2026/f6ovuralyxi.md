@@ -40,6 +40,6 @@ Finally, he emphasizes the importance of aligning agents with broader business c
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/f6OVURAlYXI/hqdefault.jpg)]("https://www.youtube.com/watch?v=f6OVURAlYXI")
+[![Video thumbnail](https://img.youtube.com/vi/f6OVURAlYXI/hqdefault.jpg)](https://www.youtube.com/watch?v=f6OVURAlYXI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=f6OVURAlYXI)

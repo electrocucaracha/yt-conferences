@@ -57,6 +57,6 @@ The talk concludes with practical advice on implementing the router to centraliz
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/rQ8KaTQk4Mc/hqdefault.jpg)]("https://www.youtube.com/watch?v=rQ8KaTQk4Mc")
+[![Video thumbnail](https://img.youtube.com/vi/rQ8KaTQk4Mc/hqdefault.jpg)](https://www.youtube.com/watch?v=rQ8KaTQk4Mc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rQ8KaTQk4Mc)

@@ -47,6 +47,6 @@ Finally, they call for a collaborative ecosystem where OS vendors, AI gateways, 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/QcRXgSNsgb4/hqdefault.jpg)]("https://www.youtube.com/watch?v=QcRXgSNsgb4")
+[![Video thumbnail](https://img.youtube.com/vi/QcRXgSNsgb4/hqdefault.jpg)](https://www.youtube.com/watch?v=QcRXgSNsgb4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QcRXgSNsgb4)

@@ -43,6 +43,6 @@ The speaker concludes by recommending best practices for enterprise resilience, 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/7vnPC2dtgNc/hqdefault.jpg)]("https://www.youtube.com/watch?v=7vnPC2dtgNc")
+[![Video thumbnail](https://img.youtube.com/vi/7vnPC2dtgNc/hqdefault.jpg)](https://www.youtube.com/watch?v=7vnPC2dtgNc)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7vnPC2dtgNc)

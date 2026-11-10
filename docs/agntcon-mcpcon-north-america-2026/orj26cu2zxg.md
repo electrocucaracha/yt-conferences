@@ -46,6 +46,6 @@ The speakers emphasize that while configuration-driven UIs are not new, the inte
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/orJ26CU2zxg/hqdefault.jpg)]("https://www.youtube.com/watch?v=orJ26CU2zxg")
+[![Video thumbnail](https://img.youtube.com/vi/orJ26CU2zxg/hqdefault.jpg)](https://www.youtube.com/watch?v=orJ26CU2zxg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=orJ26CU2zxg)

@@ -48,6 +48,6 @@ Ultimately, the goal is to close the widening gap between product and engineerin
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/mkoN1DMoUTU/hqdefault.jpg)]("https://www.youtube.com/watch?v=mkoN1DMoUTU")
+[![Video thumbnail](https://img.youtube.com/vi/mkoN1DMoUTU/hqdefault.jpg)](https://www.youtube.com/watch?v=mkoN1DMoUTU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=mkoN1DMoUTU)

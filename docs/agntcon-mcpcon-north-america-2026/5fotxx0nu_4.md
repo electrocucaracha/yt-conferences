@@ -48,6 +48,6 @@ This approach reduces the success rate of malicious silent attacks from 89% to 3
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/5FotXX0NU_4/hqdefault.jpg)]("https://www.youtube.com/watch?v=5FotXX0NU_4")
+[![Video thumbnail](https://img.youtube.com/vi/5FotXX0NU_4/hqdefault.jpg)](https://www.youtube.com/watch?v=5FotXX0NU_4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5FotXX0NU_4)

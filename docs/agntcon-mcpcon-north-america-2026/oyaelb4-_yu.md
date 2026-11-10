@@ -41,6 +41,6 @@ The presentation concludes by highlighting that Pi supports diverse transformer-
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/OYAeLb4-_YU/hqdefault.jpg)]("https://www.youtube.com/watch?v=OYAeLb4-_YU")
+[![Video thumbnail](https://img.youtube.com/vi/OYAeLb4-_YU/hqdefault.jpg)](https://www.youtube.com/watch?v=OYAeLb4-_YU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OYAeLb4-_YU)

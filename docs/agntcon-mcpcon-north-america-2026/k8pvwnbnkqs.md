@@ -45,6 +45,6 @@ As an IETF standard that is not exclusive to MCP, ID Jag is already supported by
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/k8PVWNbnKQs/hqdefault.jpg)]("https://www.youtube.com/watch?v=k8PVWNbnKQs")
+[![Video thumbnail](https://img.youtube.com/vi/k8PVWNbnKQs/hqdefault.jpg)](https://www.youtube.com/watch?v=k8PVWNbnKQs)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=k8PVWNbnKQs)

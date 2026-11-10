@@ -47,6 +47,6 @@ By treating MCP as a standard distribution layer, Nimble Brain allows businesses
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/XErnMwNF4oI/hqdefault.jpg)]("https://www.youtube.com/watch?v=XErnMwNF4oI")
+[![Video thumbnail](https://img.youtube.com/vi/XErnMwNF4oI/hqdefault.jpg)](https://www.youtube.com/watch?v=XErnMwNF4oI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XErnMwNF4oI)

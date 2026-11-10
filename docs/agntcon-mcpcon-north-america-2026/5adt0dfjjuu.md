@@ -42,6 +42,6 @@ Finally, the highest honor, the 2026 Keystone Award, was bestowed upon Dan Kille
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/5adt0DFJjUU/hqdefault.jpg)]("https://www.youtube.com/watch?v=5adt0DFJjUU")
+[![Video thumbnail](https://img.youtube.com/vi/5adt0DFJjUU/hqdefault.jpg)](https://www.youtube.com/watch?v=5adt0DFJjUU)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5adt0DFJjUU)

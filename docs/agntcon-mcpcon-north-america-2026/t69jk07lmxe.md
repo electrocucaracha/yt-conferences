@@ -49,6 +49,6 @@ Finally, the same scoring criteria used for offline testing are reused for conti
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/t69jk07lMxE/hqdefault.jpg)]("https://www.youtube.com/watch?v=t69jk07lMxE")
+[![Video thumbnail](https://img.youtube.com/vi/t69jk07lMxE/hqdefault.jpg)](https://www.youtube.com/watch?v=t69jk07lMxE)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=t69jk07lMxE)

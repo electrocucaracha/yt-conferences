@@ -50,6 +50,6 @@ Additionally, developers must manage the model’s context budget, handle varyin
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/98lX-rnv1Do/hqdefault.jpg)]("https://www.youtube.com/watch?v=98lX-rnv1Do")
+[![Video thumbnail](https://img.youtube.com/vi/98lX-rnv1Do/hqdefault.jpg)](https://www.youtube.com/watch?v=98lX-rnv1Do)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=98lX-rnv1Do)

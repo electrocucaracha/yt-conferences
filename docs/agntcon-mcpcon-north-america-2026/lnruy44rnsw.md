@@ -44,6 +44,6 @@ Ultimately, this method provides a robust foundation for human-agent collaborati
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/lnRUY44RNSw/hqdefault.jpg)]("https://www.youtube.com/watch?v=lnRUY44RNSw")
+[![Video thumbnail](https://img.youtube.com/vi/lnRUY44RNSw/hqdefault.jpg)](https://www.youtube.com/watch?v=lnRUY44RNSw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=lnRUY44RNSw)

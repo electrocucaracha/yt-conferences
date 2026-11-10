@@ -42,6 +42,6 @@ Ultimately, this system reduces the severity of incidents and integrates feedbac
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/qgA9xm4GuS4/hqdefault.jpg)]("https://www.youtube.com/watch?v=qgA9xm4GuS4")
+[![Video thumbnail](https://img.youtube.com/vi/qgA9xm4GuS4/hqdefault.jpg)](https://www.youtube.com/watch?v=qgA9xm4GuS4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qgA9xm4GuS4)

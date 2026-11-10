@@ -47,6 +47,6 @@ However, Brown highlights the challenge of "comprehension debt," where the sheer
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/UKuYBrJVsz8/hqdefault.jpg)]("https://www.youtube.com/watch?v=UKuYBrJVsz8")
+[![Video thumbnail](https://img.youtube.com/vi/UKuYBrJVsz8/hqdefault.jpg)](https://www.youtube.com/watch?v=UKuYBrJVsz8)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UKuYBrJVsz8)

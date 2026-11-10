@@ -43,6 +43,6 @@ The speaker cited examples from Uber and Shopify, noting that Shopify’s contin
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Bu5VGq-kWAk/hqdefault.jpg)]("https://www.youtube.com/watch?v=Bu5VGq-kWAk")
+[![Video thumbnail](https://img.youtube.com/vi/Bu5VGq-kWAk/hqdefault.jpg)](https://www.youtube.com/watch?v=Bu5VGq-kWAk)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Bu5VGq-kWAk)

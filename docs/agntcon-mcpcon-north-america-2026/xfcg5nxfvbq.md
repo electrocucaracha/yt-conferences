@@ -44,6 +44,6 @@ This approach ensures that agents make informed decisions based on real-world se
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/XFCG5nXfvBQ/hqdefault.jpg)]("https://www.youtube.com/watch?v=XFCG5nXfvBQ")
+[![Video thumbnail](https://img.youtube.com/vi/XFCG5nXfvBQ/hqdefault.jpg)](https://www.youtube.com/watch?v=XFCG5nXfvBQ)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XFCG5nXfvBQ)

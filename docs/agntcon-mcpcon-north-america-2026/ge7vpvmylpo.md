@@ -52,6 +52,6 @@ Ultimately, the speaker argues that continuous evaluation and cross-platform tes
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/gE7VpVmyLpo/hqdefault.jpg)]("https://www.youtube.com/watch?v=gE7VpVmyLpo")
+[![Video thumbnail](https://img.youtube.com/vi/gE7VpVmyLpo/hqdefault.jpg)](https://www.youtube.com/watch?v=gE7VpVmyLpo)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gE7VpVmyLpo)

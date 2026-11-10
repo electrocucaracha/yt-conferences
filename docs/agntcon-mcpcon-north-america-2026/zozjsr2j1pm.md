@@ -65,6 +65,6 @@ Finally, they address the critical importance of monitoring and log correlation 
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Zozjsr2j1pM/hqdefault.jpg)]("https://www.youtube.com/watch?v=Zozjsr2j1pM")
+[![Video thumbnail](https://img.youtube.com/vi/Zozjsr2j1pM/hqdefault.jpg)](https://www.youtube.com/watch?v=Zozjsr2j1pM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Zozjsr2j1pM)

@@ -42,6 +42,6 @@ Ultimately, the presentation argues that while no single solution is perfect, co
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/cjdDDq7bfYw/hqdefault.jpg)]("https://www.youtube.com/watch?v=cjdDDq7bfYw")
+[![Video thumbnail](https://img.youtube.com/vi/cjdDDq7bfYw/hqdefault.jpg)](https://www.youtube.com/watch?v=cjdDDq7bfYw)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cjdDDq7bfYw)

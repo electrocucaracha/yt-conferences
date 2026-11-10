@@ -47,6 +47,6 @@ Finally, he introduces an ongoing initiative within the OWASP GenAI Security Pro
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/OUhHjBS-XAA/hqdefault.jpg)]("https://www.youtube.com/watch?v=OUhHjBS-XAA")
+[![Video thumbnail](https://img.youtube.com/vi/OUhHjBS-XAA/hqdefault.jpg)](https://www.youtube.com/watch?v=OUhHjBS-XAA)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OUhHjBS-XAA)

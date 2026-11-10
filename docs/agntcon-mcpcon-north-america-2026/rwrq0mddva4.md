@@ -43,6 +43,6 @@ By combining the procedural guidance of skills with the historical context provi
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/rWrQ0MddvA4/hqdefault.jpg)]("https://www.youtube.com/watch?v=rWrQ0MddvA4")
+[![Video thumbnail](https://img.youtube.com/vi/rWrQ0MddvA4/hqdefault.jpg)](https://www.youtube.com/watch?v=rWrQ0MddvA4)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rWrQ0MddvA4)

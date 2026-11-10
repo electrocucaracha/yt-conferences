@@ -50,6 +50,6 @@ This approach aims to create a more immersive, model-aware experience where user
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/Biw8telskYM/hqdefault.jpg)]("https://www.youtube.com/watch?v=Biw8telskYM")
+[![Video thumbnail](https://img.youtube.com/vi/Biw8telskYM/hqdefault.jpg)](https://www.youtube.com/watch?v=Biw8telskYM)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Biw8telskYM)

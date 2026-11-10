@@ -45,6 +45,6 @@ Ultimately, the goal is to achieve a state of high trust and high cognitive dept
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/uUKOXTKf5RI/hqdefault.jpg)]("https://www.youtube.com/watch?v=uUKOXTKf5RI")
+[![Video thumbnail](https://img.youtube.com/vi/uUKOXTKf5RI/hqdefault.jpg)](https://www.youtube.com/watch?v=uUKOXTKf5RI)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uUKOXTKf5RI)
