@@ -5,7 +5,6 @@ nav_order: 138
 parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Sudheera Vanguri from Arm presents a comprehensive overview of agentic AI, arguing that it is becoming the defining workload of the current generation by abstracting application complexity and driv..."
-resource: "https://www.youtube.com/watch?v=iqkFFjhUVcY"
 tags:
   - agntcon-mcpcon-north-america-2026
   - video
@@ -46,6 +45,6 @@ The session concludes with the release of a white paper demonstrating that Armâ€
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/iqkFFjhUVcY/hqdefault.jpg)](https://www.youtube.com/watch?v=iqkFFjhUVcY)
+This video is no longer available on YouTube.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=iqkFFjhUVcY)
+<!-- resource: https://www.youtube.com/watch?v=iqkFFjhUVcY -->

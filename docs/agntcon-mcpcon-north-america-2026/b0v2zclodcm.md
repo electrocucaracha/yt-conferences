@@ -5,7 +5,6 @@ nav_order: 61
 parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Dan, a lead maintainer of the Model Context Protocol (MCP), reflects on the evolution of MCP security over the past two years, emphasizing a shift from delegating authorization to developers toward..."
-resource: "https://www.youtube.com/watch?v=b0v2zCLOdcM"
 tags:
   - agntcon-mcpcon-north-america-2026
   - video
@@ -45,6 +44,6 @@ These advancements aim to make it easy for developers to implement secure practi
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/b0v2zCLOdcM/hqdefault.jpg)](https://www.youtube.com/watch?v=b0v2zCLOdcM)
+This video is no longer available on YouTube.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=b0v2zCLOdcM)
+<!-- resource: https://www.youtube.com/watch?v=b0v2zCLOdcM -->

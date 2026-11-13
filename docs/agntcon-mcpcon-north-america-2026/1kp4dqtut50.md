@@ -5,7 +5,6 @@ nav_order: 96
 parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Laurie Voss, Head of Developer Relations at Arise AI, presents a data-driven approach to evaluating AI agents, arguing against "vibes-based" shipping in favor of rigorous testing.'
-resource: "https://www.youtube.com/watch?v=1kP4dQtUT50"
 tags:
   - agntcon-mcpcon-north-america-2026
   - video
@@ -62,6 +61,6 @@ Ultimately, the goal is to create a closed-loop system where evaluation feedback
 
 # Video
 
-[![Video thumbnail](https://img.youtube.com/vi/1kP4dQtUT50/hqdefault.jpg)](https://www.youtube.com/watch?v=1kP4dQtUT50)
+This video is no longer available on YouTube.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=1kP4dQtUT50)
+<!-- resource: https://www.youtube.com/watch?v=1kP4dQtUT50 -->
