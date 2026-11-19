@@ -1,0 +1,10 @@
+model = "ollama/llama3.2"
+api_base = "http://localhost:11434"
+language = "en"
+workers = 1
+
+# Add one named entry per public YouTube playlist.
+# [playlists.conference]
+# url = "https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID"
+
+[playlists]

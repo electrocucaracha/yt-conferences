@@ -1,0 +1,12 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+*.log
+.qmd/
+public/
+.DS_Store
+.wibey-test/
+.mypy_cache/
+.ruff_cache/

@@ -1,0 +1,25 @@
+{
+  "template": "https://github.com/electrocucaracha/yt-summarizer-template",
+  "commit": "1d67e6778f419459e05b45c5fbcb4fcfc704b40a",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Tech conferences",
+      "repo_name": "yt-conferences",
+      "github_owner": "electrocucaracha",
+      "author_name": "Victor Morales",
+      "default_branch": "main",
+      "collection_description": "A curated knowledge base from YouTube playlists.",
+      "model": "ollama/llama3.2",
+      "api_base": "http://localhost:11434",
+      "language": "en",
+      "template_url": "https://github.com/electrocucaracha/yt-summarizer-template",
+      "_copy_without_render": [
+        "scripts/*"
+      ],
+      "_template": "https://github.com/electrocucaracha/yt-summarizer-template",
+      "_commit": "1d67e6778f419459e05b45c5fbcb4fcfc704b40a"
+    }
+  },
+  "directory": null
+}
