@@ -1,0 +1,37 @@
+---
+layout: default
+title: "Stanford CME295: Transformers and Large Language Models I Autumn 2025"
+has_children: true
+nav_order: 17
+okf_version: "0.2"
+resource: "https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy"
+---
+
+# Stanford CME295: Transformers and Large Language Models I Autumn 2025
+
+## Executive Overview
+
+Stanford’s CME 295 course, "Transformers and Large Language Models I," provides a comprehensive technical roadmap from the foundational mechanics of the Transformer architecture to the advanced training and deployment strategies of modern Large Language Models (LLMs).
+The curriculum begins by establishing the limitations of recurrent neural networks and the evolution of tokenization and embeddings, leading to the core innovations of self-attention and parallelizable processing.
+It systematically details architectural refinements such as Rotary Position Embeddings, RMSNorm, and Grouped Query Attention, which optimize memory usage and long-range dependency modeling.
+The course distinguishes between encoder-only, encoder-decoder, and decoder-only paradigms, noting the dominance of decoder-only models for their scalability in next-token prediction.
+Key mechanisms for enhancing model capacity and efficiency, including Mixture of Experts (MoE) and various inference optimizations like KV caching and speculative decoding, are examined to address the computational bottlenecks inherent in large-scale inference.
+The latter half of the course focuses on the multi-stage training pipeline that transforms base models into aligned, reasoning-capable assistants.
+This progression includes pre-training guided by scaling laws, supervised fine-tuning (SFT) for instruction following, and preference tuning via Reinforcement Learning from Human Feedback (RLHF) or Direct Preference Optimization (DPO) to ensure safety and helpfulness.
+A significant portion is dedicated to the emergence of reasoning models, which utilize reinforcement learning with verifiable rewards and algorithms like Group Relative Policy Optimization (GRPO) to generate explicit multi-step logic for complex tasks in mathematics and coding.
+Beyond internal model capabilities, the course explores external integration through Retrieval-Augmented Generation (RAG), tool calling, and agentic workflows, highlighting the necessity of robust evaluation frameworks that move beyond traditional metrics to include LLM-as-a-Judge and specialized benchmarks for reasoning and safety.
+The final lectures address future directions, including the application of transformers to non-text domains, diffusion-based generation, and the democratization of agentic systems, emphasizing that a deep understanding of these underlying mechanisms is critical for navigating the rapidly evolving landscape of AI capabilities and preparing for practical implementation challenges.
+
+## Talks
+
+| Talk Title                                                                                                              | Core Summary                                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Stanford CME295 Transformers & LLMs \| Autumn 2025 \| Lecture 1 - Transformer](ub3gofaucds.md)                         | In the introductory lecture for Stanford’s CME 295 course on Transformers and Large Language Models, instructors Afshin and Shirvin outline the curriculum’s focus on understanding the underlying me... |
+| [Stanford CME295 Transformers & LLMs \| Autumn 2025 \| Lecture 2 - Transformer-Based Models & Tricks](yt84y5zcnaa.md)   | This lecture from CME295 reviews the self-attention mechanism and transformer architecture before detailing key architectural variations that have evolved since the original 2017 paper.                |
+| [Stanford CME295 Transformers & LLMs \| Autumn 2025 \| Lecture 3 - Tranformers & Large Language Models](q5balehv5so.md) | In Lecture 3 of CME 295, the instructors introduce Large Language Models (LLMs) as decoder-only architectures that are large in parameter count, training data, and computational requirements.          |
+| [Stanford CME295 Transformers & LLMs \| Autumn 2025 \| Lecture 4 - LLM Training](vla_jt_3qc4.md)                        | Lecture 4 of CME 295 focuses on the training of Large Language Models (LLMs), beginning with an overview of exam logistics and a recap of previous topics such as Mixture of Experts and decoding str... |
+| [Stanford CME295 Transformers & LLMs \| Autumn 2025 \| Lecture 5 - LLM tuning](pmw_tmq3l0i.md)                          | This lecture introduces LLM preference tuning as a critical third step following pre-training and supervised fine-tuning (SFT), aimed at aligning model outputs with human preferences regarding tone... |
+| [Stanford CME295 Transformers & LLMs \| Autumn 2025 \| Lecture 6 - LLM Reasoning](k5fh-ugtuco.md)                       | Lecture 6 of CME295 introduces LLM reasoning models, which enhance standard language models by generating explicit multi-step reasoning chains before providing final answers to complex problems in ... |
+| [Stanford CME295 Transformers & LLMs \| Autumn 2025 \| Lecture 7 - Agentic LLMs](h-7s6hnq0vg.md)                        | Lecture 7 of CME 295 focuses on enabling Large Language Models (LLMs) to interact with external systems by covering Retrieval-Augmented Generation (RAG), tool calling, and agentic workflows.           |
+| [Stanford CME295 Transformers & LLMs \| Autumn 2025 \| Lecture 8 - LLM Evaluation](8fnp4n46rro.md)                      | Lecture 8 of CME295 focuses on LLM evaluation, emphasizing that quantifying performance is essential for identifying areas of improvement.                                                               |
+| [Stanford CME295 Transformers & LLMs \| Autumn 2025 \| Lecture 9 - Recap & Current Trends](q86qzj1k1ss.md)              | This final lecture of CM295 concludes the course by recapping the progression from foundational transformer architectures to advanced Large Language Model (LLM) training techniques, including pre-t... |

@@ -1,0 +1,34 @@
+---
+title:
+  Continuous Delivery in a World of Constant Change • Abby Bangser & Dave Farley
+  • GOTO 2025
+type: Video Note
+description:
+  Notes for Continuous Delivery in a World of Constant Change • Abby Bangser
+  & Dave Farley • GOTO 2025.
+resource: https://www.youtube.com/watch?v=Juk6SBz8zEc
+tags:
+  - developer-productivity
+  - video
+  - learning
+status: stable
+generated:
+  by: process:yt-conferences-okf
+  at: "2026-09-12T00:00:00+00:00"
+---
+
+# Summary
+
+Notes for Continuous Delivery in a World of Constant Change • Abby Bangser & Dave Farley • GOTO 2025.
+
+# Main Points
+
+|   # | Main point                                        |
+| --: | ------------------------------------------------- |
+|   1 | Main points were not provided in the source note. |
+
+# Video
+
+[![Video thumbnail](https://img.youtube.com/vi/Juk6SBz8zEc/hqdefault.jpg)](https://www.youtube.com/watch?v=Juk6SBz8zEc)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=Juk6SBz8zEc)

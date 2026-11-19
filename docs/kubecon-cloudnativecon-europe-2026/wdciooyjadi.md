@@ -1,0 +1,37 @@
+---
+title:
+  Towards Building an Open Source AI Reference Stack for EU Sov... Madhav Bhargava
+  & Sanjay Chatterjee
+type: Video Note
+description:
+  In this talk, Sanji Chari from Nvidia and Madav Bharu from SAP discuss
+  building an open-source AI reference stack tailored for the EU sovereign cloud,
+  emphasizing transparency, GDPR compliance, and data sovereignty. They outline the
+  evolving.
+resource: https://www.youtube.com/watch?v=WdcIOOyJaDI
+tags:
+  - kubecon-cloudnativecon-europe-2026
+  - video
+  - learning
+status: stable
+generated:
+  by: process:yt-conferences-okf
+  at: "2026-09-12T00:00:00+00:00"
+---
+
+# Summary
+
+In this talk, Sanji Chari from Nvidia and Madav Bharu from SAP discuss building an open-source AI reference stack tailored for the EU sovereign cloud, emphasizing transparency, GDPR compliance, and data sovereignty.
+They outline the evolving.
+
+# Main Points
+
+|   # | Main point                                        |
+| --: | ------------------------------------------------- |
+|   1 | Main points were not provided in the source note. |
+
+# Video
+
+[![Video thumbnail](https://img.youtube.com/vi/WdcIOOyJaDI/hqdefault.jpg)](https://www.youtube.com/watch?v=WdcIOOyJaDI)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=WdcIOOyJaDI)

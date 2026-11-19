@@ -1,66 +1,63 @@
-SUMMARIZER_SOURCE ?= git+https://github.com/electrocucaracha/yt-summarizer.git@561994d3fba4016a5b774e0b0660028d3cd66e80
-COLLECTION ?=
-PORT ?= 8099
-QMD_COLLECTION ?= yt-conferences
-export QMD_FORCE_CPU ?= 1
-TOOLS := uv run --no-project --python 3.12 --with-requirements requirements-dev.txt
+# SPDX-license-identifier: Apache-2.0
+##############################################################################
+# Copyright (c) 2026
+# All rights reserved. This program and the accompanying materials
+# are made available under the terms of the Apache License, Version 2.0
+# which accompanies this distribution, and is available at
+# http://www.apache.org/licenses/LICENSE-2.0
+##############################################################################
 
-.PHONY: install summarize summarize-dry-run lint fmt check build preview qmd-setup qmd-update qmd-embed qmd-check qmd-mcp template-check template-diff template-update
+.PHONY: fmt check validate build preview qmd-setup qmd-update qmd-embed qmd-check qmd-mcp clean
+DOCKER_CMD ?= $(shell which docker 2> /dev/null || which podman 2> /dev/null || echo docker)
 
-install:
-	uv tool install --python 3.12 "$(SUMMARIZER_SOURCE)"
-	uv tool install cruft==2.16.0
+cleanup:
+	rm -rf node_modules
 
-summarize:
-	python3 scripts/summarize.py $(if $(COLLECTION),--collection "$(COLLECTION)")
-
-summarize-dry-run:
-	python3 scripts/summarize.py --dry-run $(if $(COLLECTION),--collection "$(COLLECTION)")
-
-lint:
-	$(TOOLS) black --check scripts
-	$(TOOLS) isort --check-only scripts
-	$(TOOLS) ruff check scripts
-	$(TOOLS) pylint scripts
-	$(TOOLS) mypy scripts
-	$(TOOLS) bandit --recursive --severity-level medium --confidence-level medium scripts
-
-fmt:
-	$(TOOLS) isort scripts
-	$(TOOLS) black scripts
+fmt: cleanup
+	command -v textlint > /dev/null && npm list --global --depth=0 textlint-rule-terminology > /dev/null 2>&1 || sudo npm install --global textlint textlint-rule-terminology
+	textlint . --fix
+	command -v shfmt > /dev/null || curl -s "https://i.jpillora.com/mvdan/sh!!?as=shfmt" | bash
+	shfmt -l -w -s .
+	command -v yamlfmt > /dev/null || curl -s "https://i.jpillora.com/google/yamlfmt!!" | bash
+	yamlfmt -dstar **/*.{yaml,yml}
+	command -v prettier > /dev/null || npm install prettier
+	npx prettier . --write > /dev/null 2>&1
+	uvx ruff format .
+	uvx black .
+	uvx isort .
+	uv run --script scripts/format_okf.py
 
 check:
-	kiso check --source=docs
+	bash scripts/run_kiso.sh
+
+validate: check
+	@destination=$$(mktemp -d) && \
+		trap 'rm -rf "$$destination"' EXIT && \
+		bash scripts/run_kiso.sh build --destination="$$destination"
 
 build:
-	kiso build --source=docs --destination=public
+	bash scripts/run_kiso.sh build --destination=public
+	python3 scripts/style_site.py public
 
-preview: build
-	python3 -m http.server $(PORT) --bind 127.0.0.1 --directory public
+preview: PORT ?= 8099
+preview:
+	bash scripts/run_kiso.sh build --destination=public --profile local
+	python3 scripts/style_site.py public
+	python3 -m http.server $(PORT) --directory public
 
-qmd-setup:
-	qmd init
-	qmd collection add "$(CURDIR)/docs" --name "$(QMD_COLLECTION)"
-	qmd context add "qmd://$(QMD_COLLECTION)" "OKF video notes organized by playlist and topic."
+qmd-setup: fmt
+	bash scripts/configure_qmd.sh
 
 qmd-update:
-	qmd update
+	QMD_FORCE_CPU=1 qmd update
 
 qmd-embed:
-	qmd embed -c "$(QMD_COLLECTION)"
+	QMD_FORCE_CPU=1 qmd embed -c yt-conferences
 
 qmd-check:
-	qmd status
-	qmd ls "$(QMD_COLLECTION)"
+	QMD_FORCE_CPU=1 qmd status
+	QMD_FORCE_CPU=1 qmd ls yt-conferences
 
 qmd-mcp:
-	qmd mcp
+	QMD_FORCE_CPU=1 qmd mcp
 
-template-check:
-	cruft check
-
-template-diff:
-	cruft diff
-
-template-update:
-	cruft update
