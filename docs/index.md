@@ -14,6 +14,7 @@ okf_version: "0.2"
 - [Cloud Native & Kubernetes AI Day 2025 - Europe (16 notes)](cloud-native-kubernetes-ai-day-2025-europe/index.md) - Topic collection
 - [Cloud Native Kubernetes Ai Day 2025 Na (19 notes)](cloud-native-kubernetes-ai-day-2025-na/index.md) - Topic collection
 - [Developer Productivity (143 notes)](developer-productivity/index.md) - Topic collection
+- [GopherCon 2025 (24 notes)](gophercon-2025/index.md) - Topic collection
 - [Kubecon Cloudnativecon Europe 2025 (372 notes)](kubecon-cloudnativecon-europe-2025/index.md) - Topic collection
 - [Kubecon Cloudnativecon Europe 2026 (397 notes)](kubecon-cloudnativecon-europe-2026/index.md) - Topic collection
 - [Kubecon Cloudnativecon North America 2025 (343 notes)](kubecon-cloudnativecon-north-america-2025/index.md) - Topic collection
