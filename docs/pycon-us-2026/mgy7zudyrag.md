@@ -30,25 +30,25 @@ The tool, which supports Python versions up to 3.14 and is slated for open-sourc
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Hala Ali, a PhD student at Virginia Commonwealth University, presented on generating post-incident runtime Software Bill of Materials (SBOM) from Python memory. |
+|   # | Main point                                                                                                                                                                                                    |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Hala Ali, a PhD student at Virginia Commonwealth University, presented on generating post-incident runtime Software Bill of Materials (SBOM) from Python memory.                                              |
 |   2 | The core problem is determining which packages were actually loaded and running in a compromised Python process, as file system data and static tools like pip freeze may not reflect the true runtime state. |
-|   3 | Python’s dynamic nature allows for runtime imports and module manipulation, making static SBOM tools insufficient for accurate incident response. |
-|   4 | In 2025, over 2,000 malware reports were processed by PyPI, including malicious versions of popular packages like Mistral AI and Elementary Data that trigger payloads upon import. |
-|   5 | Runtime SBOMs differ from build or deployed SBOMs by capturing the exact components and versions active in memory, which is critical for identifying actual vulnerabilities. |
-|   6 | Existing SBOM tools often rely on configuration files or metadata, leading to version estimation errors and missed runtime-only modules. |
-|   7 | The research introduces MemSBOM, a novel memory forensic tool built on Volatility 3 to parse Python processes directly from memory dumps. |
-|   8 | MemSBOM identifies Python runtime entry points, accesses interpreter data structures, and recovers modules from threads, garbage collectors, and heap arenas. |
-|   9 | The tool handles multi-process applications by parsing memory from all related processes, such as Apache Airflow’s 26+ concurrent processes. |
-|  10 | Version information is often missing in memory, so MemSBOM extracts cached metadata using regular expressions and normalizes names to query PyPI for accurate version mapping. |
-|  11 | To determine dependency relationships, the tool parses function bytecode from memory to identify transitive calls between modules. |
-|  12 | Evaluation against 51 real-world Python applications showed that existing tools missed 4-6% of runtime modules and had limited support for modern configuration files like PEP 621. |
-|  13 | In five tested applications, the installed version on the file system differed from the version actually running in memory, highlighting the unreliability of static analysis. |
-|  14 | A case study involving Tornado 6.4.2 demonstrated that MemSBOM can reduce false positives by identifying which specific applications actually call vulnerable functions. |
-|  15 | The tool supports Python versions up to 3.14 and 3.15, accounting for changes in garbage collector data structures across versions. |
-|  16 | MemSBOM was accepted for the Black Hat Arsenal and is planned to be open-sourced within two months of the presentation. |
-|  17 | The researchers acknowledge the adversarial nature of memory forensics, noting that attackers can manipulate memory structures, which necessitates multi-layered scanning techniques. |
+|   3 | Python’s dynamic nature allows for runtime imports and module manipulation, making static SBOM tools insufficient for accurate incident response.                                                             |
+|   4 | In 2025, over 2,000 malware reports were processed by PyPI, including malicious versions of popular packages like Mistral AI and Elementary Data that trigger payloads upon import.                           |
+|   5 | Runtime SBOMs differ from build or deployed SBOMs by capturing the exact components and versions active in memory, which is critical for identifying actual vulnerabilities.                                  |
+|   6 | Existing SBOM tools often rely on configuration files or metadata, leading to version estimation errors and missed runtime-only modules.                                                                      |
+|   7 | The research introduces MemSBOM, a novel memory forensic tool built on Volatility 3 to parse Python processes directly from memory dumps.                                                                     |
+|   8 | MemSBOM identifies Python runtime entry points, accesses interpreter data structures, and recovers modules from threads, garbage collectors, and heap arenas.                                                 |
+|   9 | The tool handles multi-process applications by parsing memory from all related processes, such as Apache Airflow’s 26+ concurrent processes.                                                                  |
+|  10 | Version information is often missing in memory, so MemSBOM extracts cached metadata using regular expressions and normalizes names to query PyPI for accurate version mapping.                                |
+|  11 | To determine dependency relationships, the tool parses function bytecode from memory to identify transitive calls between modules.                                                                            |
+|  12 | Evaluation against 51 real-world Python applications showed that existing tools missed 4-6% of runtime modules and had limited support for modern configuration files like PEP 621.                           |
+|  13 | In five tested applications, the installed version on the file system differed from the version actually running in memory, highlighting the unreliability of static analysis.                                |
+|  14 | A case study involving Tornado 6.4.2 demonstrated that MemSBOM can reduce false positives by identifying which specific applications actually call vulnerable functions.                                      |
+|  15 | The tool supports Python versions up to 3.14 and 3.15, accounting for changes in garbage collector data structures across versions.                                                                           |
+|  16 | MemSBOM was accepted for the Black Hat Arsenal and is planned to be open-sourced within two months of the presentation.                                                                                       |
+|  17 | The researchers acknowledge the adversarial nature of memory forensics, noting that attackers can manipulate memory structures, which necessitates multi-layered scanning techniques.                         |
 
 # Video
 

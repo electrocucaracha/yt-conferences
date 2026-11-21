@@ -30,23 +30,23 @@ Although the tool introduces performance overhead and is intended strictly for t
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Blanket is a Python library designed to make multi-threaded code deterministic for unit testing by replacing non-deterministic threading primitives with controlled versions. |
-|   2 | The primary motivation is to achieve 100% code coverage by making rare race conditions reproducible on demand, rather than relying on random OS scheduler behavior. |
-|   3 | Blanket wraps standard synchronization objects like Lock, RLock, Barrier, and Semaphore, binding them to a central Scenario object that acts as the root controller. |
-|   4 | The core mechanism involves "parking" threads before and after method calls, allowing the main test thread to act as the scheduler and dictate the exact order of operations. |
-|   5 | The library uses a three-layer API structure: low-level transaction control, medium-level driver objects, and high-level custom APIs like relay for locks and cycle for barriers. |
-|   6 | Transactions represent specific method calls on primitives and function as state machines that only move forward, enabling precise inspection and control of thread progress. |
-|   7 | The Scenario.wait method allows the scheduler to wait for specific signals, such as a thread terminating, a transaction completing, or a specific method being called. |
-|   8 | Blanket objects masquerade as standard threading objects, passing isinstance checks for threading primitives while failing checks for Blanket-specific types to maintain compatibility. |
-|   9 | The library supports injecting Blanket replacements into existing modules via scenario.inject, allowing control over code that creates its own threading objects. |
+|   # | Main point                                                                                                                                                                                          |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Blanket is a Python library designed to make multi-threaded code deterministic for unit testing by replacing non-deterministic threading primitives with controlled versions.                       |
+|   2 | The primary motivation is to achieve 100% code coverage by making rare race conditions reproducible on demand, rather than relying on random OS scheduler behavior.                                 |
+|   3 | Blanket wraps standard synchronization objects like Lock, RLock, Barrier, and Semaphore, binding them to a central Scenario object that acts as the root controller.                                |
+|   4 | The core mechanism involves "parking" threads before and after method calls, allowing the main test thread to act as the scheduler and dictate the exact order of operations.                       |
+|   5 | The library uses a three-layer API structure: low-level transaction control, medium-level driver objects, and high-level custom APIs like relay for locks and cycle for barriers.                   |
+|   6 | Transactions represent specific method calls on primitives and function as state machines that only move forward, enabling precise inspection and control of thread progress.                       |
+|   7 | The Scenario.wait method allows the scheduler to wait for specific signals, such as a thread terminating, a transaction completing, or a specific method being called.                              |
+|   8 | Blanket objects masquerade as standard threading objects, passing isinstance checks for threading primitives while failing checks for Blanket-specific types to maintain compatibility.             |
+|   9 | The library supports injecting Blanket replacements into existing modules via scenario.inject, allowing control over code that creates its own threading objects.                                   |
 |  10 | An injector feature allows modifying Python bytecode to insert synchronization calls into lockless data structures, effectively converting them into deterministic, single-threaded-like execution. |
-|  11 | The architecture relies on a single internal "score lock" to synchronize access to the core state, ensuring regularity and determinism at the cost of some performance. |
-|  12 | Blanket is intended for development and testing environments to reproduce bugs, not for production use, as it intentionally introduces overhead to ensure precise control. |
-|  13 | The project was developed using AI assistance and evolved through several eras, moving from total object simulation to a simpler model where external scheduling controls internal state. |
-|  14 | High-level APIs like relay and cycle are tailored to specific synchronization idioms, yielding control points that allow the scheduler to interleave other operations between thread steps. |
-|  15 | The library's design philosophy is that tests should be effectively single-threaded, requiring developers to slow down execution to ensure every possible interleaving can be explicitly tested. |
+|  11 | The architecture relies on a single internal "score lock" to synchronize access to the core state, ensuring regularity and determinism at the cost of some performance.                             |
+|  12 | Blanket is intended for development and testing environments to reproduce bugs, not for production use, as it intentionally introduces overhead to ensure precise control.                          |
+|  13 | The project was developed using AI assistance and evolved through several eras, moving from total object simulation to a simpler model where external scheduling controls internal state.           |
+|  14 | High-level APIs like relay and cycle are tailored to specific synchronization idioms, yielding control points that allow the scheduler to interleave other operations between thread steps.         |
+|  15 | The library's design philosophy is that tests should be effectively single-threaded, requiring developers to slow down execution to ensure every possible interleaving can be explicitly tested.    |
 
 # Video
 

@@ -30,31 +30,31 @@ Ultimately, the tool uses the Smart on FHIR Python client and Pandas to validate
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Lisa Smith is a full-stack Python developer and data engineer at the Wilmot Cancer Institute, University of Rochester. |
-|   2 | The project transforms messy healthcare data into structured, standards-compliant HL7 FHIR output to improve interoperability. |
-|   3 | Healthcare data is often disorganized and fragmented across over 600 different EHR vendors, making seamless data transfer difficult. |
-|   4 | HL7 FHIR standards were introduced to replace older HL7 standards, offering a modern, database-like approach to data exchange. |
-|   5 | Design constraints include high speed, simplicity, human-in-the-loop validation, scalability, and strict security for healthcare data. |
-|   6 | The system uses a "garbage in, garbage out" model where health professionals are the sole source of truth to prevent data corruption. |
-|   7 | The application is stateless, processing uploads transiently in memory to enhance security and reduce operational complexity. |
-|   8 | The backend architecture utilizes Flask, Pandas, SQL, and the Smart on FHIR Python client library. |
-|   9 | An offline LLM-assisted generation process created dictionaries for fast, deterministic auto-matching of column names to FHIR elements. |
-|  10 | Python dictionaries were chosen for their speed and efficiency in handling finite static vocabularies for initial data matching. |
-|  11 | A two-layer matching process handles both column name identification and specific value standardization, such as vital status or race. |
-|  12 | Deterministic dictionary matching was preferred over runtime generative LLM matching for speed, reproducibility, and ease of validation. |
-|  13 | Users can upload CSV or Excel files and select deterministic or random UUID generation for patient continuity. |
-|  14 | FHIR extensions are used to preserve important data that lacks a specific FHIR element, such as days between diagnosis and treatment. |
+|   # | Main point                                                                                                                                                   |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   1 | Lisa Smith is a full-stack Python developer and data engineer at the Wilmot Cancer Institute, University of Rochester.                                       |
+|   2 | The project transforms messy healthcare data into structured, standards-compliant HL7 FHIR output to improve interoperability.                               |
+|   3 | Healthcare data is often disorganized and fragmented across over 600 different EHR vendors, making seamless data transfer difficult.                         |
+|   4 | HL7 FHIR standards were introduced to replace older HL7 standards, offering a modern, database-like approach to data exchange.                               |
+|   5 | Design constraints include high speed, simplicity, human-in-the-loop validation, scalability, and strict security for healthcare data.                       |
+|   6 | The system uses a "garbage in, garbage out" model where health professionals are the sole source of truth to prevent data corruption.                        |
+|   7 | The application is stateless, processing uploads transiently in memory to enhance security and reduce operational complexity.                                |
+|   8 | The backend architecture utilizes Flask, Pandas, SQL, and the Smart on FHIR Python client library.                                                           |
+|   9 | An offline LLM-assisted generation process created dictionaries for fast, deterministic auto-matching of column names to FHIR elements.                      |
+|  10 | Python dictionaries were chosen for their speed and efficiency in handling finite static vocabularies for initial data matching.                             |
+|  11 | A two-layer matching process handles both column name identification and specific value standardization, such as vital status or race.                       |
+|  12 | Deterministic dictionary matching was preferred over runtime generative LLM matching for speed, reproducibility, and ease of validation.                     |
+|  13 | Users can upload CSV or Excel files and select deterministic or random UUID generation for patient continuity.                                               |
+|  14 | FHIR extensions are used to preserve important data that lacks a specific FHIR element, such as days between diagnosis and treatment.                        |
 |  15 | RapidFuzz is employed for secondary fuzzy matching of medical observations, procedures, and medications against standardized codes like LOINC and SNOMED CT. |
-|  16 | The application identifies missing metadata, such as age units or observation statuses, which are critical for accurate FHIR resource construction. |
-|  17 | Pandas handles data cleaning, formatting, encoding, and vectorization to assemble FHIR resources efficiently. |
-|  18 | The final output is validated using the Smart on FHIR library to ensure compliance before providing JSON or XML downloads. |
-|  19 | The tool is currently in testing and is designed modularly to allow for the addition of more FHIR resources. |
-|  20 | Future plans include releasing the tool publicly and applying the data transformation methodology to cybersecurity compliance standards. |
-|  21 | The project emphasizes that a confident wrong answer is worse than an incomplete one, prioritizing user control and data integrity. |
-|  22 | The system supports mapping ICD-10, SNOMED CT, LOINC, and RxNorm codes using a small set of database tables. |
-|  23 | Data provenance is preserved, and the tool deduplicates records while flagging potential errors for user review. |
+|  16 | The application identifies missing metadata, such as age units or observation statuses, which are critical for accurate FHIR resource construction.          |
+|  17 | Pandas handles data cleaning, formatting, encoding, and vectorization to assemble FHIR resources efficiently.                                                |
+|  18 | The final output is validated using the Smart on FHIR library to ensure compliance before providing JSON or XML downloads.                                   |
+|  19 | The tool is currently in testing and is designed modularly to allow for the addition of more FHIR resources.                                                 |
+|  20 | Future plans include releasing the tool publicly and applying the data transformation methodology to cybersecurity compliance standards.                     |
+|  21 | The project emphasizes that a confident wrong answer is worse than an incomplete one, prioritizing user control and data integrity.                          |
+|  22 | The system supports mapping ICD-10, SNOMED CT, LOINC, and RxNorm codes using a small set of database tables.                                                 |
+|  23 | Data provenance is preserved, and the tool deduplicates records while flagging potential errors for user review.                                             |
 
 # Video
 

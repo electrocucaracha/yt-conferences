@@ -30,25 +30,25 @@ Finally, the speaker introduces T-strings in Python 3.14 as a significant advanc
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The talk explores the historical evolution of string handling, moving from raw bytes to modern abstractions like T strings. |
-|   2 | Jol Spolski's 2003 article on Unicode is recommended as foundational context for understanding string complexity. |
-|   3 | String length is not always intuitive; for example, a family emoji has a length of seven due to invisible zero-width joiners. |
-|   4 | ASCII represents 128 characters in one byte, which is insufficient for non-English languages and emojis. |
-|   5 | In C, strings are contiguous memory regions terminated by a null byte, leading to security risks like buffer overflows. |
-|   6 | Unicode expands the character set to fit in four bytes, solving the limitation of ASCII for global languages. |
-|   7 | Naive Unicode encoding wastes memory by padding bytes, while variable-length encoding creates ambiguity in byte boundaries. |
-|   8 | UTF-8 is backward compatible with ASCII and uses control bits to efficiently encode multi-byte characters without wasting memory. |
-|   9 | The family emoji measures seven characters because it consists of four individual emojis joined by three invisible zero-width joiners. |
-|  10 | Python 2 treated strings as bytes and Unicode separately, causing errors when mixing encodings or calculating lengths. |
-|  11 | Python 3 standardizes strings as Unicode code points, enforcing a clear distinction between bytes and text. |
-|  12 | The Unicode Sandwich model in Python 3 ensures all internal text is Unicode, with encoding and decoding occurring only at I/O boundaries. |
-|  13 | Python string formatting has evolved from printf-style substitution to format methods, then f-strings, and finally T strings. |
-|  14 | F-strings perform immediate substitution, resulting in a final string where the distinction between literal text and variables is lost. |
+|   # | Main point                                                                                                                                                |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The talk explores the historical evolution of string handling, moving from raw bytes to modern abstractions like T strings.                               |
+|   2 | Jol Spolski's 2003 article on Unicode is recommended as foundational context for understanding string complexity.                                         |
+|   3 | String length is not always intuitive; for example, a family emoji has a length of seven due to invisible zero-width joiners.                             |
+|   4 | ASCII represents 128 characters in one byte, which is insufficient for non-English languages and emojis.                                                  |
+|   5 | In C, strings are contiguous memory regions terminated by a null byte, leading to security risks like buffer overflows.                                   |
+|   6 | Unicode expands the character set to fit in four bytes, solving the limitation of ASCII for global languages.                                             |
+|   7 | Naive Unicode encoding wastes memory by padding bytes, while variable-length encoding creates ambiguity in byte boundaries.                               |
+|   8 | UTF-8 is backward compatible with ASCII and uses control bits to efficiently encode multi-byte characters without wasting memory.                         |
+|   9 | The family emoji measures seven characters because it consists of four individual emojis joined by three invisible zero-width joiners.                    |
+|  10 | Python 2 treated strings as bytes and Unicode separately, causing errors when mixing encodings or calculating lengths.                                    |
+|  11 | Python 3 standardizes strings as Unicode code points, enforcing a clear distinction between bytes and text.                                               |
+|  12 | The Unicode Sandwich model in Python 3 ensures all internal text is Unicode, with encoding and decoding occurring only at I/O boundaries.                 |
+|  13 | Python string formatting has evolved from printf-style substitution to format methods, then f-strings, and finally T strings.                             |
+|  14 | F-strings perform immediate substitution, resulting in a final string where the distinction between literal text and variables is lost.                   |
 |  15 | T strings in Python 3.14 preserve the template structure, allowing values to be bound while maintaining information about literal and interpolated parts. |
-|  16 | T strings enable safer operations like SQL injection prevention by allowing libraries to sanitize interpolated values before execution. |
-|  17 | PEP 393 describes Python's internal optimization for string memory usage, ensuring characters occupy only the necessary space. |
+|  16 | T strings enable safer operations like SQL injection prevention by allowing libraries to sanitize interpolated values before execution.                   |
+|  17 | PEP 393 describes Python's internal optimization for string memory usage, ensuring characters occupy only the necessary space.                            |
 
 # Video
 

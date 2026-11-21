@@ -31,23 +31,23 @@ The speakers concluded by urging the community to support the Python Software Fo
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Seth Larson and Mike Fiedler from the Python Software Foundation presented on evolving security threats and recent infrastructure improvements. |
-|   2 | Malware attacks are increasingly targeting upstream dependencies to exploit transitive blast radius issues, affecting projects like num2words and light-llm. |
-|   3 | Attackers utilize lateral movement to compromise secrets stored in monorepos that manage multiple language SDKs and CI systems. |
-|   4 | Recent incidents include the Shai Hulud worm, which has been made public and is being improved via community pull requests. |
+|   # | Main point                                                                                                                                                                                   |
+| --: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Seth Larson and Mike Fiedler from the Python Software Foundation presented on evolving security threats and recent infrastructure improvements.                                              |
+|   2 | Malware attacks are increasingly targeting upstream dependencies to exploit transitive blast radius issues, affecting projects like num2words and light-llm.                                 |
+|   3 | Attackers utilize lateral movement to compromise secrets stored in monorepos that manage multiple language SDKs and CI systems.                                                              |
+|   4 | Recent incidents include the Shai Hulud worm, which has been made public and is being improved via community pull requests.                                                                  |
 |   5 | PyPI has implemented trusted publishers to minimize token exposure, ensuring tokens are short-lived, cryptographically bound to repositories, and eliminating the risk of credential replay. |
-|   6 | The Python Software Foundation passed its second security audit conducted by Trail of Bits, funded by the Sovereign Tech Agency. |
-|   7 | The audit identified and fixed high-severity bugs, including a silent permission transfer issue during project ownership changes. |
-|   8 | Trail of Bits contributed CodeQL queries to the CI/CD pipeline to prevent future occurrences of identified vulnerabilities. |
-|   9 | The number of published CVEs for Python and pip is rising, with approximately 65 vulnerabilities expected in the current year. |
-|  10 | A white paper identified seven vulnerabilities related to zip and tar archive format inconsistencies that could cause different tools to interpret packages differently. |
-|  11 | The Python Security Response Team established governance through PEP 811, enabling the addition of nine new team members to handle increased reporting volumes. |
-|  12 | Software Bill of Materials (SBOM) adoption is expanding, with around 300 packages explicitly adding SBOMs to improve vulnerability detection across ecosystems. |
-|  13 | The new PyCon US security talk track received high attendance, reflecting strong community interest in security education. |
-|  14 | Supporting the Python Software Foundation through sponsorship is crucial for maintaining the security of the Python ecosystem. |
-|  15 | Security news and updates are regularly published on the PyPI and Python Software Foundation blogs. |
+|   6 | The Python Software Foundation passed its second security audit conducted by Trail of Bits, funded by the Sovereign Tech Agency.                                                             |
+|   7 | The audit identified and fixed high-severity bugs, including a silent permission transfer issue during project ownership changes.                                                            |
+|   8 | Trail of Bits contributed CodeQL queries to the CI/CD pipeline to prevent future occurrences of identified vulnerabilities.                                                                  |
+|   9 | The number of published CVEs for Python and pip is rising, with approximately 65 vulnerabilities expected in the current year.                                                               |
+|  10 | A white paper identified seven vulnerabilities related to ZIP and tar archive format inconsistencies that could cause different tools to interpret packages differently.                     |
+|  11 | The Python Security Response Team established governance through PEP 811, enabling the addition of nine new team members to handle increased reporting volumes.                              |
+|  12 | Software Bill of Materials (SBOM) adoption is expanding, with around 300 packages explicitly adding SBOMs to improve vulnerability detection across ecosystems.                              |
+|  13 | The new PyCon US security talk track received high attendance, reflecting strong community interest in security education.                                                                   |
+|  14 | Supporting the Python Software Foundation through sponsorship is crucial for maintaining the security of the Python ecosystem.                                                               |
+|  15 | Security news and updates are regularly published on the PyPI and Python Software Foundation blogs.                                                                                          |
 
 # Video
 

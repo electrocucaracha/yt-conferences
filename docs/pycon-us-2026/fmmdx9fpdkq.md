@@ -30,28 +30,28 @@ Rodriguez emphasizes the need for sponsorship over mere mentorship and advocates
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Veronica Rodriguez is an Afro-Latina economist from Cali, Colombia, who works in tech focusing on fraud, identity, and fintech. |
-|   2 | She is a self-taught professional who learned coding and English through YouTube, Coursera, and bootcamps rather than formal classroom education. |
-|   3 | Colombia has become a significant tech hub in South America, attracting US companies due to cost-effectiveness, shared time zones, and proximity. |
-|   4 | Medellín is known as the "Silicon Valley of Latin America," hosting major tech companies like IBM, Google, and Oracle, along with active community events. |
-|   5 | Rodriguez moved to Medellín to engage with the tech community, initially attending events and later becoming an organizer to give back. |
-|   6 | She observed a lack of representation for Black and Latino individuals in tech spaces, often being the only person of color in the room. |
-|   7 | Despite Colombia having the second-largest Black population in South America, Black and Indigenous people are underrepresented in the tech industry. |
-|   8 | A McKinsey study cited in the talk indicates that women hold only 26.7% of tech jobs, while Latino and Black individuals hold 8% and 7% respectively. |
-|   9 | Rodriguez argues that diversity drives innovation, improves decision-making, and expands market reach by ensuring products are tested on diverse users. |
-|  10 | She advocates for sponsorship over mentorship, urging professionals to actively recommend and advocate for underrepresented talent. |
+|   # | Main point                                                                                                                                                    |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Veronica Rodriguez is an Afro-Latina economist from Cali, Colombia, who works in tech focusing on fraud, identity, and fintech.                               |
+|   2 | She is a self-taught professional who learned coding and English through YouTube, Coursera, and bootcamps rather than formal classroom education.             |
+|   3 | Colombia has become a significant tech hub in South America, attracting US companies due to cost-effectiveness, shared time zones, and proximity.             |
+|   4 | Medellín is known as the "Silicon Valley of Latin America," hosting major tech companies like IBM, Google, and Oracle, along with active community events.    |
+|   5 | Rodriguez moved to Medellín to engage with the tech community, initially attending events and later becoming an organizer to give back.                       |
+|   6 | She observed a lack of representation for Black and Latino individuals in tech spaces, often being the only person of color in the room.                      |
+|   7 | Despite Colombia having the second-largest Black population in South America, Black and Indigenous people are underrepresented in the tech industry.          |
+|   8 | A McKinsey study cited in the talk indicates that women hold only 26.7% of tech jobs, while Latino and Black individuals hold 8% and 7% respectively.         |
+|   9 | Rodriguez argues that diversity drives innovation, improves decision-making, and expands market reach by ensuring products are tested on diverse users.       |
+|  10 | She advocates for sponsorship over mentorship, urging professionals to actively recommend and advocate for underrepresented talent.                           |
 |  11 | The principle "nothing about us without us" is emphasized, meaning Black leaders should be allowed to speak for themselves and participate in product design. |
-|  12 | Rodriguez co-founded Digital Diaspora, a nonprofit community in Medellín aimed at increasing Afro-Colombian presence in technology. |
-|  13 | Digital Diaspora started as a small group chat and brunch, growing into a community that organizes meetups and collaborates with larger tech events. |
-|  14 | The community partners with organizations like TransUnion, which provided a free bootcamp and hired three graduates from the community. |
-|  15 | Digital Diaspora collaborates with Manos Visibles and Platzi to provide scholarships and training for underrepresented groups. |
-|  16 | A branch of the community, Ubuntu Tech, travels to El Chocó to teach coding in areas with limited electricity and internet access. |
-|  17 | Rodriguez is currently working with activists to push for a law guaranteeing electricity and internet coverage in Black regions of Colombia. |
-|  18 | She is the only Black person in Colombia holding the title of product manager, highlighting the need for more representation in leadership roles. |
-|  19 | The community encourages tech creation over consumption and aims to remove educational barriers for underrepresented communities. |
-|  20 | Rodriguez invites the audience to connect with Digital Diaspora on social media to support their mission and find opportunities. |
+|  12 | Rodriguez co-founded Digital Diaspora, a nonprofit community in Medellín aimed at increasing Afro-Colombian presence in technology.                           |
+|  13 | Digital Diaspora started as a small group chat and brunch, growing into a community that organizes meetups and collaborates with larger tech events.          |
+|  14 | The community partners with organizations like TransUnion, which provided a free bootcamp and hired three graduates from the community.                       |
+|  15 | Digital Diaspora collaborates with Manos Visibles and Platzi to provide scholarships and training for underrepresented groups.                                |
+|  16 | A branch of the community, Ubuntu Tech, travels to El Chocó to teach coding in areas with limited electricity and internet access.                            |
+|  17 | Rodriguez is currently working with activists to push for a law guaranteeing electricity and internet coverage in Black regions of Colombia.                  |
+|  18 | She is the only Black person in Colombia holding the title of product manager, highlighting the need for more representation in leadership roles.             |
+|  19 | The community encourages tech creation over consumption and aims to remove educational barriers for underrepresented communities.                             |
+|  20 | Rodriguez invites the audience to connect with Digital Diaspora on social media to support their mission and find opportunities.                              |
 
 # Video
 

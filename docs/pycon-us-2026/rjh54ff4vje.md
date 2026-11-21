@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "PyCon US 2026 Tutorial Sneak Peak: \"All about decorators\" - Reuven M. Lerner"
+title: 'PyCon US 2026 Tutorial Sneak Peak: "All about decorators" - Reuven M. Lerner'
 nav_order: 88
 parent: PyCon US 2026
 type: Video Note
@@ -30,18 +30,18 @@ Lerner encourages interested individuals to sign up for the tutorial to explore 
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Reuven Lerner presents a tutorial on Python decorators at PyCon US in Long Beach. |
-|   2 | Decorators are identified by the at sign preceding function or class definitions. |
-|   3 | The tutorial explains how decorators work and how they are implemented. |
-|   4 | Participants will learn the underlying syntax and what happens behind the scenes. |
-|   5 | Attendees will build various decorators with guidance from the instructor. |
+|   # | Main point                                                                                  |
+| --: | ------------------------------------------------------------------------------------------- |
+|   1 | Reuven Lerner presents a tutorial on Python decorators at PyCon US in Long Beach.           |
+|   2 | Decorators are identified by the at sign preceding function or class definitions.           |
+|   3 | The tutorial explains how decorators work and how they are implemented.                     |
+|   4 | Participants will learn the underlying syntax and what happens behind the scenes.           |
+|   5 | Attendees will build various decorators with guidance from the instructor.                  |
 |   6 | The curriculum covers decorators ranging from simple implementations to sophisticated ones. |
-|   7 | Complex examples include decorators involving three nested functions. |
-|   8 | The session includes exercises, time for questions, and humorous commentary. |
-|   9 | The instructor provides support and walks through the entire world of decorators. |
-|  10 | The goal is to make the concept of decorators clean, clear, and easy to understand. |
+|   7 | Complex examples include decorators involving three nested functions.                       |
+|   8 | The session includes exercises, time for questions, and humorous commentary.                |
+|   9 | The instructor provides support and walks through the entire world of decorators.           |
+|  10 | The goal is to make the concept of decorators clean, clear, and easy to understand.         |
 
 # Video
 

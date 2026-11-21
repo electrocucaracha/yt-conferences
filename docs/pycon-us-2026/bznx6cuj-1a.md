@@ -30,23 +30,23 @@ The talk concludes with actionable recommendations, such as targeting specific h
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Standard data science tools like P-values and confidence intervals often fail to tell the entire story in product launches, potentially leading to inaccurate results with long-term negative effects. |
-|   2 | The speaker presents a case study on Loom editing, where initial data showed a 38% increase in videos recorded per user with a very small P-value, suggesting a successful launch. |
-|   3 | Three key assumptions must be questioned in any experiment: whether assignment was truly random, if treatment outcomes impact control users (spillover), and if the effect is constant across all users. |
-|   4 | Selection bias occurs when comparing users who opted in versus those who did not, as opt-in users are often highly engaged power users, making the comparison non-random and biased. |
+|   # | Main point                                                                                                                                                                                                          |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Standard data science tools like P-values and confidence intervals often fail to tell the entire story in product launches, potentially leading to inaccurate results with long-term negative effects.              |
+|   2 | The speaker presents a case study on Loom editing, where initial data showed a 38% increase in videos recorded per user with a very small P-value, suggesting a successful launch.                                  |
+|   3 | Three key assumptions must be questioned in any experiment: whether assignment was truly random, if treatment outcomes impact control users (spillover), and if the effect is constant across all users.            |
+|   4 | Selection bias occurs when comparing users who opted in versus those who did not, as opt-in users are often highly engaged power users, making the comparison non-random and biased.                                |
 |   5 | Spillover effects happen when a user's treatment leaks into another user's outcome, contaminating the control group; this can be detected by regressing control users' activity on the number of treated teammates. |
-|   6 | Propensity Score Matching (PSM) is recommended to correct for selection bias by matching opt-in users to similar non-opt-in users based on pre-engagement scores and other covariates. |
-|   7 | PSM involves scoring users with logistic regression, matching nearest neighbors, applying a caliper threshold to drop poor matches, and calculating the difference in means for the matched sample. |
-|   8 | In the Loom case, PSM corrected the estimated impact from a 4.28 increase to a 1.00 increase in videos per user, revealing that the initial naive baseline was wrong by a factor of five. |
-|   9 | Standardized Mean Difference (SMD) should be checked before and after matching to ensure balance; an SMD below 0.1 indicates that the groups are sufficiently comparable. |
-|  10 | Heterogeneous effects analysis, or uplift modeling, helps identify which specific user segments benefit most from a feature, rather than just looking at the average treatment effect. |
-|  11 | Team-based users and enterprise accounts often benefit more from social features like Loom editing due to feedback cycles, while solo creators may see less value. |
-|  12 | Uplift models can be built using simple methods like the S-learner, predicting outcomes for treated and control scenarios to determine individual user impact. |
-|  13 | Key curves visualize the concentration of lift, showing that targeting the top 20% of users can capture 41% of the total value, allowing for more efficient resource allocation. |
-|  14 | Product recommendations should be tailored to high-value segments, such as defaulting features on for team accounts and emphasizing collaboration in marketing copy. |
-|  15 | Data scientists should spend time verifying randomization, checking for spillover, and applying PSM before finalizing launch decisions to avoid irreversible errors based on biased data. |
+|   6 | Propensity Score Matching (PSM) is recommended to correct for selection bias by matching opt-in users to similar non-opt-in users based on pre-engagement scores and other covariates.                              |
+|   7 | PSM involves scoring users with logistic regression, matching nearest neighbors, applying a caliper threshold to drop poor matches, and calculating the difference in means for the matched sample.                 |
+|   8 | In the Loom case, PSM corrected the estimated impact from a 4.28 increase to a 1.00 increase in videos per user, revealing that the initial naive baseline was wrong by a factor of five.                           |
+|   9 | Standardized Mean Difference (SMD) should be checked before and after matching to ensure balance; an SMD below 0.1 indicates that the groups are sufficiently comparable.                                           |
+|  10 | Heterogeneous effects analysis, or uplift modeling, helps identify which specific user segments benefit most from a feature, rather than just looking at the average treatment effect.                              |
+|  11 | Team-based users and enterprise accounts often benefit more from social features like Loom editing due to feedback cycles, while solo creators may see less value.                                                  |
+|  12 | Uplift models can be built using simple methods like the S-learner, predicting outcomes for treated and control scenarios to determine individual user impact.                                                      |
+|  13 | Key curves visualize the concentration of lift, showing that targeting the top 20% of users can capture 41% of the total value, allowing for more efficient resource allocation.                                    |
+|  14 | Product recommendations should be tailored to high-value segments, such as defaulting features on for team accounts and emphasizing collaboration in marketing copy.                                                |
+|  15 | Data scientists should spend time verifying randomization, checking for spillover, and applying PSM before finalizing launch decisions to avoid irreversible errors based on biased data.                           |
 
 # Video
 

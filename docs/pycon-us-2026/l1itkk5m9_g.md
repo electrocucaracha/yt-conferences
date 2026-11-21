@@ -31,30 +31,30 @@ Matres emphasizes that by lowering the barrier to entry for hardware design, GDS
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The speaker, Joaquín Matres, introduced a Python-based tool for designing quantum computers and other chips. |
-|   2 | GDS Factory aims to make chip design tools for photonics, quantum, and MEMS more accessible to everyone. |
-|   3 | The library was created because traditional chip design tools are over 30 years old and lack intuitive interfaces. |
-|   4 | The tool leverages the Python ecosystem, including scientific libraries and community contributions from companies and universities. |
-|   5 | The project has achieved 4 million downloads, over 100 developers, and supports 43 chip foundries. |
-|   6 | There are 10 open-source libraries and over 33 private libraries available for users. |
-|   7 | The GDS Factory library is based on the KLayout library, using a C++ backend for fast chip drawing. |
-|   8 | Two main technologies for quantum computers are superconductors and photonics. |
+|   # | Main point                                                                                                                            |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The speaker, Joaquín Matres, introduced a Python-based tool for designing quantum computers and other chips.                          |
+|   2 | GDS Factory aims to make chip design tools for photonics, quantum, and MEMS more accessible to everyone.                              |
+|   3 | The library was created because traditional chip design tools are over 30 years old and lack intuitive interfaces.                    |
+|   4 | The tool leverages the Python ecosystem, including scientific libraries and community contributions from companies and universities.  |
+|   5 | The project has achieved 4 million downloads, over 100 developers, and supports 43 chip foundries.                                    |
+|   6 | There are 10 open-source libraries and over 33 private libraries available for users.                                                 |
+|   7 | The GDS Factory library is based on the KLayout library, using a C++ backend for fast chip drawing.                                   |
+|   8 | Two main technologies for quantum computers are superconductors and photonics.                                                        |
 |   9 | Superconducting qubits interact due to gigahertz frequencies, while photonic qubits use terahertz frequencies for better compactness. |
-|  10 | Photonic technology allows qubits to stop interacting when separated by more than 1.5 microns. |
-|  11 | The Python tool is 200 times faster than traditional tools and includes a library of 250 components. |
-|  12 | The business model provides support and services to companies, universities, and research centers for private libraries. |
-|  13 | Quantum circuits can be simulated and optimized, with a 4-qubit simulation taking approximately 10 minutes. |
-|  14 | Quantum computers are better suited for problems like molecular modeling, nitrogen fixation, and battery efficiency. |
-|  15 | At least 1,000 qubits are needed for useful computations, with a long-term goal of millions of qubits. |
-|  16 | Quantum computers require significant infrastructure, such as cryogenic temperatures, resembling a data center. |
-|  17 | Qubits are analog and prone to errors, requiring fault-tolerant algorithms for error correction. |
-|  18 | Quantum computers will coexist with classical processors, acting as specialized units for optimization and AI tasks. |
-|  19 | Specialized chips like TPUs offer more efficiency for specific computations than general-purpose GPUs. |
-|  20 | The goal is to create a "Linux for chips," making hardware design as accessible as software development. |
-|  21 | Open-source libraries allow companies and researchers to reuse and contribute to chip design standards. |
-|  22 | Future architectures will distribute workloads across heterogeneous chips based on problem efficiency. |
+|  10 | Photonic technology allows qubits to stop interacting when separated by more than 1.5 microns.                                        |
+|  11 | The Python tool is 200 times faster than traditional tools and includes a library of 250 components.                                  |
+|  12 | The business model provides support and services to companies, universities, and research centers for private libraries.              |
+|  13 | Quantum circuits can be simulated and optimized, with a 4-qubit simulation taking approximately 10 minutes.                           |
+|  14 | Quantum computers are better suited for problems like molecular modeling, nitrogen fixation, and battery efficiency.                  |
+|  15 | At least 1,000 qubits are needed for useful computations, with a long-term goal of millions of qubits.                                |
+|  16 | Quantum computers require significant infrastructure, such as cryogenic temperatures, resembling a data center.                       |
+|  17 | Qubits are analog and prone to errors, requiring fault-tolerant algorithms for error correction.                                      |
+|  18 | Quantum computers will coexist with classical processors, acting as specialized units for optimization and AI tasks.                  |
+|  19 | Specialized chips like TPUs offer more efficiency for specific computations than general-purpose GPUs.                                |
+|  20 | The goal is to create a "Linux for chips," making hardware design as accessible as software development.                              |
+|  21 | Open-source libraries allow companies and researchers to reuse and contribute to chip design standards.                               |
+|  22 | Future architectures will distribute workloads across heterogeneous chips based on problem efficiency.                                |
 
 # Video
 

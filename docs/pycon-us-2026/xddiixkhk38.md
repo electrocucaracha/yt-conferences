@@ -30,23 +30,23 @@ Ultimately, the core lesson is that the future of AI infrastructure lies in choo
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Modern LLM inference systems are heterogeneous where Python acts as an orchestration layer rather than executing heavy tensor computations directly. |
-|   2 | The primary performance question is determining which components should run in Python versus native code to optimize overall system efficiency. |
-|   3 | Multi-process runtime architecture isolates CPU-intensive tasks like tokenization and detokenization into separate processes to prevent GIL contention from blocking GPU work. |
-|   4 | CPU-GPU overlap execution allows the CPU to prepare the next inference step while the GPU executes the current one, effectively hiding scheduling overhead behind GPU execution time. |
-|   5 | CUDA graphs capture and replay stable execution patterns to significantly reduce per-iteration kernel launch and Python dispatch overhead on the critical path. |
-|   6 | Performance-critical operations are implemented in native kernels such as CUDA, Triton, or vendor-specific libraries, which are exposed to Python via PyTorch custom ops. |
-|   7 | PyTorch serves as the tensor runtime layer handling memory management and stream semantics, while Python coordinates the broader execution plan. |
-|   8 | As inference systems scale, complexity shifts from tensor computation to state management, resource ownership, and asynchronous orchestration correctness. |
-|   9 | Large-scale control planes require strong inference and interface constraints, often implemented in C++ with Python bindings to ensure robust state transition and rollback safety. |
+|   # | Main point                                                                                                                                                                               |
+| --: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Modern LLM inference systems are heterogeneous where Python acts as an orchestration layer rather than executing heavy tensor computations directly.                                     |
+|   2 | The primary performance question is determining which components should run in Python versus native code to optimize overall system efficiency.                                          |
+|   3 | Multi-process runtime architecture isolates CPU-intensive tasks like tokenization and detokenization into separate processes to prevent GIL contention from blocking GPU work.           |
+|   4 | CPU-GPU overlap execution allows the CPU to prepare the next inference step while the GPU executes the current one, effectively hiding scheduling overhead behind GPU execution time.    |
+|   5 | CUDA graphs capture and replay stable execution patterns to significantly reduce per-iteration kernel launch and Python dispatch overhead on the critical path.                          |
+|   6 | Performance-critical operations are implemented in native kernels such as CUDA, Triton, or vendor-specific libraries, which are exposed to Python via PyTorch custom ops.                |
+|   7 | PyTorch serves as the tensor runtime layer handling memory management and stream semantics, while Python coordinates the broader execution plan.                                         |
+|   8 | As inference systems scale, complexity shifts from tensor computation to state management, resource ownership, and asynchronous orchestration correctness.                               |
+|   9 | Large-scale control planes require strong inference and interface constraints, often implemented in C++ with Python bindings to ensure robust state transition and rollback safety.      |
 |  10 | TokenSpeed is an open-source inference engine designed with a layered architecture that separates responsibilities for iteration speed, hardware efficiency, and scheduling correctness. |
-|  11 | The TokenSpeed architecture consists of a kernel layer for GPU computation, a Python execution plan layer, a C++ scheduler for state management, and a frontend for API serving. |
-|  12 | TokenSpeed achieves performance competitive with or exceeding TensorRT-LLM by leveraging optimized MLA attention kernels and efficient CUDA graph usage. |
-|  13 | The TokenSpeed MLA attention kernel is packaged as a standalone PyPI library and integrated into frameworks like vLLM to benefit the broader AI community. |
-|  14 | Benchmarking against TensorRT-LLM on Blackwell hardware shows TokenSpeed can be 10% to 20% faster in iteration time due to optimized timeline and kernel selection. |
-|  15 | The future of AI inference lies in choosing the right abstraction boundaries for each layer rather than competing between Python and native languages. |
+|  11 | The TokenSpeed architecture consists of a kernel layer for GPU computation, a Python execution plan layer, a C++ scheduler for state management, and a frontend for API serving.         |
+|  12 | TokenSpeed achieves performance competitive with or exceeding TensorRT-LLM by leveraging optimized MLA attention kernels and efficient CUDA graph usage.                                 |
+|  13 | The TokenSpeed MLA attention kernel is packaged as a standalone PyPI library and integrated into frameworks like vLLM to benefit the broader AI community.                               |
+|  14 | Benchmarking against TensorRT-LLM on Blackwell hardware shows TokenSpeed can be 10% to 20% faster in iteration time due to optimized timeline and kernel selection.                      |
+|  15 | The future of AI inference lies in choosing the right abstraction boundaries for each layer rather than competing between Python and native languages.                                   |
 
 # Video
 

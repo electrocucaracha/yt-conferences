@@ -30,28 +30,28 @@ Schilling and Cahoun emphasize that sustainable open source growth requires inte
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Tim Schilling and Rachel Cahoun are co-founders of Django Space, a contributor mentorship program for Django. |
-|   2 | The program addresses open source contributor pipeline and diversity issues by actively welcoming new contributors. |
-|   3 | Django Space is an eight-week mentorship program that matches mentees, called Jangonauts, with technical navigators and community captains. |
-|   4 | Navigators provide technical guidance through weekly group meetings, helping mentees run projects locally and submit pull requests. |
-|   5 | Captains offer bi-weekly one-on-one support focused on community integration, career advice, and overcoming impostor syndrome. |
-|   6 | Session organizers handle logistics, candidate selection, and community communication to ensure a supportive environment. |
-|   7 | The program has run six sessions with over 100 mentees, achieving a 100% recommendation rate from surveyed alumni. |
-|   8 | Participants report increased confidence, with average self-rated confidence rising from 2.4 to 4.2 out of 5. |
-|   9 | Jangonauts contribute approximately three times more during the program and continue contributing at two-thirds of that rate afterward. |
-|  10 | The program has a 15% acceptance rate, selecting candidates based on resilience, motivation, and community involvement. |
+|   # | Main point                                                                                                                                          |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Tim Schilling and Rachel Cahoun are co-founders of Django Space, a contributor mentorship program for Django.                                       |
+|   2 | The program addresses open source contributor pipeline and diversity issues by actively welcoming new contributors.                                 |
+|   3 | Django Space is an eight-week mentorship program that matches mentees, called Jangonauts, with technical navigators and community captains.         |
+|   4 | Navigators provide technical guidance through weekly group meetings, helping mentees run projects locally and submit pull requests.                 |
+|   5 | Captains offer bi-weekly one-on-one support focused on community integration, career advice, and overcoming impostor syndrome.                      |
+|   6 | Session organizers handle logistics, candidate selection, and community communication to ensure a supportive environment.                           |
+|   7 | The program has run six sessions with over 100 mentees, achieving a 100% recommendation rate from surveyed alumni.                                  |
+|   8 | Participants report increased confidence, with average self-rated confidence rising from 2.4 to 4.2 out of 5.                                       |
+|   9 | Jangonauts contribute approximately three times more during the program and continue contributing at two-thirds of that rate afterward.             |
+|  10 | The program has a 15% acceptance rate, selecting candidates based on resilience, motivation, and community involvement.                             |
 |  11 | Django Space intentionally cultivates diversity, with 48% of participants being women or gender minorities compared to 8% in the broader community. |
-|  12 | Financial aid grants have supported 13 participants in attending conferences worldwide, fostering leadership and networking. |
-|  13 | Former participants often return as mentors, organizers, or DSF board members, creating a sustainable cycle of community growth. |
-|  14 | The program emphasizes active inclusion, requiring mentors to go beyond opening doors by personally inviting and supporting contributors. |
-|  15 | Maintainers benefit from the program by receiving pre-vetted contributors and improving their own mentoring and communication skills. |
-|  16 | The community invests approximately $350,000 in volunteer time and resources to sustain the program and its participants. |
-|  17 | Django Space encourages participants to present technical work, attend sprints, and engage in social events to build lasting connections. |
-|  18 | The program aims to transform the contributor experience from feeling isolated to feeling a sense of belonging and capability. |
-|  19 | Future growth depends on recruiting more navigators to increase capacity and expanding financial aid for conference attendance. |
-|  20 | The initiative demonstrates that sustainable open source contribution requires intentional community building and structured support. |
+|  12 | Financial aid grants have supported 13 participants in attending conferences worldwide, fostering leadership and networking.                        |
+|  13 | Former participants often return as mentors, organizers, or DSF board members, creating a sustainable cycle of community growth.                    |
+|  14 | The program emphasizes active inclusion, requiring mentors to go beyond opening doors by personally inviting and supporting contributors.           |
+|  15 | Maintainers benefit from the program by receiving pre-vetted contributors and improving their own mentoring and communication skills.               |
+|  16 | The community invests approximately $350,000 in volunteer time and resources to sustain the program and its participants.                           |
+|  17 | Django Space encourages participants to present technical work, attend sprints, and engage in social events to build lasting connections.           |
+|  18 | The program aims to transform the contributor experience from feeling isolated to feeling a sense of belonging and capability.                      |
+|  19 | Future growth depends on recruiting more navigators to increase capacity and expanding financial aid for conference attendance.                     |
+|  20 | The initiative demonstrates that sustainable open source contribution requires intentional community building and structured support.               |
 
 # Video
 

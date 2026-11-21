@@ -3,7 +3,7 @@ layout: default
 title: Cómo Python ayudó a descubrir criminales que se estaban postulando v2
 parent: PyCon US 2026
 type: Video Note
-description: 
+description:
 resource: "https://www.youtube.com/watch?v=o6imZlk34RY"
 youtube_stats:
   view_count: 342
@@ -25,8 +25,8 @@ _Not available yet._
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
+|   # | Main point           |
+| --: | -------------------- |
 |   1 | _Not available yet._ |
 
 # Video

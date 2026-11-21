@@ -30,28 +30,28 @@ The session concludes with a Q&A where Manti addresses practical challenges, suc
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The speaker, Anshul Jain Manti, is a computer science student interested in software engineering, Python, and back-end systems. |
-|   2 | The presentation focuses on debugging Python in production using practical techniques beyond simple print statements. |
-|   3 | Print statements are effective for small projects with single developers and small codebases but are insufficient for production systems. |
-|   4 | Production systems involve multiple users, servers, and real money, making reliable debugging critical to prevent failures. |
-|   5 | Modern production debugging relies on a system comprising logging, tracking, tracing, and monitoring. |
-|   6 | Logging acts as a digital diary that records important events, errors, application IDs, user IDs, and request IDs. |
-|   7 | Logs provide optimized output by saving time and displaying timestamps, severity levels, and server information. |
-|   8 | Tracebacks show the sequence of function calls leading to an error, identifying the exact location and cause of the crash. |
-|   9 | Exceptions are errors during execution that stop code execution, and handling them prevents program crashes and provides meaningful error messages. |
-|  10 | Common built-in Python exceptions include ZeroDivisionError, FileNotFoundError, TypeError, ValueError, IndexError, KeyError, and NameError. |
-|  11 | Monitoring systems continuously track the health and performance of applications, such as CPU usage, memory usage, and server health. |
-|  12 | Engineers use monitoring data to restart overloaded services, scale servers, roll back bad deployments, or optimize database queries. |
-|  13 | Prometheus is a monitoring and alerting toolkit, while Grafana is an open-source web application that visualizes data through graphs. |
-|  14 | Sentry is another popular tool mentioned for monitoring and error tracking. |
-|  15 | Tracing helps engineers follow requests step-by-step through an application to identify where errors or slowdowns occur. |
-|  16 | In distributed systems, tracing is used at the application level to debug individual services, unlike tracebacks which operate at the code level. |
+|   # | Main point                                                                                                                                                  |
+| --: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The speaker, Anshul Jain Manti, is a computer science student interested in software engineering, Python, and backend systems.                              |
+|   2 | The presentation focuses on debugging Python in production using practical techniques beyond simple print statements.                                       |
+|   3 | Print statements are effective for small projects with single developers and small codebases but are insufficient for production systems.                   |
+|   4 | Production systems involve multiple users, servers, and real money, making reliable debugging critical to prevent failures.                                 |
+|   5 | Modern production debugging relies on a system comprising logging, tracking, tracing, and monitoring.                                                       |
+|   6 | Logging acts as a digital diary that records important events, errors, application IDs, user IDs, and request IDs.                                          |
+|   7 | Logs provide optimized output by saving time and displaying timestamps, severity levels, and server information.                                            |
+|   8 | Tracebacks show the sequence of function calls leading to an error, identifying the exact location and cause of the crash.                                  |
+|   9 | Exceptions are errors during execution that stop code execution, and handling them prevents program crashes and provides meaningful error messages.         |
+|  10 | Common built-in Python exceptions include ZeroDivisionError, FileNotFoundError, TypeError, ValueError, IndexError, KeyError, and NameError.                 |
+|  11 | Monitoring systems continuously track the health and performance of applications, such as CPU usage, memory usage, and server health.                       |
+|  12 | Engineers use monitoring data to restart overloaded services, scale servers, roll back bad deployments, or optimize database queries.                       |
+|  13 | Prometheus is a monitoring and alerting toolkit, while Grafana is an open-source web application that visualizes data through graphs.                       |
+|  14 | Sentry is another popular tool mentioned for monitoring and error tracking.                                                                                 |
+|  15 | Tracing helps engineers follow requests step-by-step through an application to identify where errors or slowdowns occur.                                    |
+|  16 | In distributed systems, tracing is used at the application level to debug individual services, unlike tracebacks which operate at the code level.           |
 |  17 | Observability is the understanding of system states that helps engineers investigate failures, understand performance issues, and detect unusual behaviors. |
-|  18 | A typical debugging workflow involves monitoring alerts, checking logs, analyzing tracebacks, and using tracing to fix and redeploy services. |
-|  19 | When facing sudden memory spikes in production, engineers may need to clear unused resources to address potential memory leaks. |
-|  20 | Effective traceback analysis requires logging every function call to capture detailed execution data for investigation. |
+|  18 | A typical debugging workflow involves monitoring alerts, checking logs, analyzing tracebacks, and using tracing to fix and redeploy services.               |
+|  19 | When facing sudden memory spikes in production, engineers may need to clear unused resources to address potential memory leaks.                             |
+|  20 | Effective traceback analysis requires logging every function call to capture detailed execution data for investigation.                                     |
 
 # Video
 

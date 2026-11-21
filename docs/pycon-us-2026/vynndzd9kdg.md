@@ -30,29 +30,29 @@ This architecture, which includes a kickstart phase to bootstrap initial metrics
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | JetBrains began working on text-to-SQL approximately 1.5 years ago and has significantly evolved its approach to the task. |
-|   2 | The core problem involves translating natural language business questions into SQL to reduce reliance on data analysts. |
-|   3 | State-of-the-art benchmarks like Spider 2.0 and Bird show high accuracy rates, often exceeding 80-90%. |
-|   4 | Benchmark questions are typically well-formulated, have pre-specified databases, and include external knowledge, unlike real-world scenarios. |
-|   5 | Achieving top benchmark results requires extensive context engineering, generating multiple candidate answers, and using voting mechanisms. |
-|   6 | High benchmark accuracy does not guarantee production readiness because benchmarks lack discovery, ambiguity resolution, and conversational context. |
-|   7 | A major issue in production is the trust problem, where 10% of incorrect but plausible results can erode user confidence. |
-|   8 | Business users cannot easily distinguish correct from incorrect SQL results, leading to slower workflows and loss of trust in the system. |
-|   9 | The removal of the human validation layer in text-to-SQL systems increases the cost of errors and shifts accountability to the system. |
-|  10 | Semantic layers provide trusted, deterministic metric definitions that allow systems to answer questions without generating arbitrary SQL. |
-|  11 | Metrics in semantic layers include definitions, formulas, and dimensions, enabling deterministic SQL compilation without AI. |
-|  12 | Using semantic layers shifts the validation step from post-query to pre-deployment, ensuring only trusted business abstractions are used. |
-|  13 | Building and maintaining semantic layers is expensive and time-consuming, similar to writing comprehensive documentation for evolving data. |
-|  14 | A self-learning approach allows semantic layers to be built lazily by generating metrics for new questions and sending them for human validation. |
+|   # | Main point                                                                                                                                                           |
+| --: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | JetBrains began working on text-to-SQL approximately 1.5 years ago and has significantly evolved its approach to the task.                                           |
+|   2 | The core problem involves translating natural language business questions into SQL to reduce reliance on data analysts.                                              |
+|   3 | State-of-the-art benchmarks like Spider 2.0 and Bird show high accuracy rates, often exceeding 80-90%.                                                               |
+|   4 | Benchmark questions are typically well-formulated, have pre-specified databases, and include external knowledge, unlike real-world scenarios.                        |
+|   5 | Achieving top benchmark results requires extensive context engineering, generating multiple candidate answers, and using voting mechanisms.                          |
+|   6 | High benchmark accuracy does not guarantee production readiness because benchmarks lack discovery, ambiguity resolution, and conversational context.                 |
+|   7 | A major issue in production is the trust problem, where 10% of incorrect but plausible results can erode user confidence.                                            |
+|   8 | Business users cannot easily distinguish correct from incorrect SQL results, leading to slower workflows and loss of trust in the system.                            |
+|   9 | The removal of the human validation layer in text-to-SQL systems increases the cost of errors and shifts accountability to the system.                               |
+|  10 | Semantic layers provide trusted, deterministic metric definitions that allow systems to answer questions without generating arbitrary SQL.                           |
+|  11 | Metrics in semantic layers include definitions, formulas, and dimensions, enabling deterministic SQL compilation without AI.                                         |
+|  12 | Using semantic layers shifts the validation step from post-query to pre-deployment, ensuring only trusted business abstractions are used.                            |
+|  13 | Building and maintaining semantic layers is expensive and time-consuming, similar to writing comprehensive documentation for evolving data.                          |
+|  14 | A self-learning approach allows semantic layers to be built lazily by generating metrics for new questions and sending them for human validation.                    |
 |  15 | This crowdsourcing method reduces the need for constant human validation of every question, as the number of unique metrics is smaller than the number of questions. |
-|  16 | The system can kickstart the semantic layer by introspecting the database and generating initial metrics for likely questions. |
-|  17 | JetBrains ranks first on the Spider DBT track benchmark and offers an open-source Python agent for breaking benchmarks. |
-|  18 | The company built a product called Data Bew, which includes a CLI for semantic layer building and a Slack bot for business users. |
-|  19 | Disambiguation mechanisms are used to distinguish between similar metrics, such as revenue versus revenue growth. |
-|  20 | Semantic layers are continuously validated by executing associated questions to detect changes in data models or schemas. |
-|  21 | Dashboards serve as a valuable source for generating initial semantic layer metrics, reducing the time required for setup. |
+|  16 | The system can kickstart the semantic layer by introspecting the database and generating initial metrics for likely questions.                                       |
+|  17 | JetBrains ranks first on the Spider DBT track benchmark and offers an open-source Python agent for breaking benchmarks.                                              |
+|  18 | The company built a product called Data Bew, which includes a CLI for semantic layer building and a Slack bot for business users.                                    |
+|  19 | Disambiguation mechanisms are used to distinguish between similar metrics, such as revenue versus revenue growth.                                                    |
+|  20 | Semantic layers are continuously validated by executing associated questions to detect changes in data models or schemas.                                            |
+|  21 | Dashboards serve as a valuable source for generating initial semantic layer metrics, reducing the time required for setup.                                           |
 
 # Video
 

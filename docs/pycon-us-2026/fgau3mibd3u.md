@@ -4,7 +4,7 @@ title: "PyCon US 2026 - Highlight Reel"
 nav_order: 90
 parent: PyCon US 2026
 type: Video Note
-description: "The provided transcript consists solely of the interjection \"Mhm,\" which indicates a non-verbal acknowledgment or agreement."
+description: 'The provided transcript consists solely of the interjection "Mhm," which indicates a non-verbal acknowledgment or agreement.'
 resource: "https://www.youtube.com/watch?v=fGAU3mibd3U"
 youtube_stats:
   view_count: 777
@@ -29,8 +29,8 @@ No further details or context are available within the source material.
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
+|   # | Main point                                               |
+| --: | -------------------------------------------------------- |
 |   1 | The transcript contains only the single utterance "Mhm." |
 
 # Video

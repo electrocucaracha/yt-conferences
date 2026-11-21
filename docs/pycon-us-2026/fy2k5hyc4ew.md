@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "PyCon US 2026 Tutorial Sneak Peek: \"Lazy Looping in Practice...\" - Trey Hunner"
+title: 'PyCon US 2026 Tutorial Sneak Peek: "Lazy Looping in Practice..." - Trey Hunner'
 nav_order: 89
 parent: PyCon US 2026
 type: Video Note
@@ -29,18 +29,18 @@ To participate in this hands-on session, attendees must register by adding the t
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Python's for loop is not a traditional C-style loop and lacks an initialization step, looping condition, and incrementer. |
-|   2 | Python for loops are special-purpose tools designed exclusively for looping over a single iterable one item at a time. |
-|   3 | Python for loops cannot loop in reverse, iterate over multiple iterables simultaneously, or count upward while looping. |
-|   4 | Built-in looping helpers such as enumerate, zip, and reversed are available to address the limitations of standard for loops. |
-|   5 | Additional looping helpers exist in the standard library and third-party libraries. |
-|   6 | Users can create custom looping helpers using iterators and generators. |
-|   7 | The speaker, Trey, offers team training and individual learning services to help people improve their skills. |
+|   # | Main point                                                                                                                                      |
+| --: | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Python's for loop is not a traditional C-style loop and lacks an initialization step, looping condition, and incrementer.                       |
+|   2 | Python for loops are special-purpose tools designed exclusively for looping over a single iterable one item at a time.                          |
+|   3 | Python for loops cannot loop in reverse, iterate over multiple iterables simultaneously, or count upward while looping.                         |
+|   4 | Built-in looping helpers such as enumerate, ZIP, and reversed are available to address the limitations of standard for loops.                   |
+|   5 | Additional looping helpers exist in the standard library and third-party libraries.                                                             |
+|   6 | Users can create custom looping helpers using iterators and generators.                                                                         |
+|   7 | The speaker, Trey, offers team training and individual learning services to help people improve their skills.                                   |
 |   8 | A PyCon tutorial titled "lazy looping in Python" is available for attendees who want to understand for loops and create custom looping helpers. |
-|   9 | Attendance at the tutorial requires registration by adding it to a ticket via the PyCon US website dashboard. |
-|  10 | The tutorial is hands-on, so participants must bring a laptop. |
+|   9 | Attendance at the tutorial requires registration by adding it to a ticket via the PyCon US site dashboard.                                      |
+|  10 | The tutorial is hands-on, so participants must bring a laptop.                                                                                  |
 
 # Video
 

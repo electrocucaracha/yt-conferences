@@ -30,22 +30,22 @@ Finally, the event concluded with the presentation of PSF Community Service Awar
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The Python Software Foundation (PSF) is a nonprofit dedicated to promoting the Python language and supporting a diverse, international community of programmers. |
-|   2 | The PSF manages trademarks, servers, and PyPI to build tools for the community without relying on commercial vendors or profit motives. |
-|   3 | The organization views open source as a path toward a collaborative "Star Trek" future rather than a corporate-controlled "Star Wars" future. |
-|   4 | The PSF turned down a $1.5 million grant from the National Science Foundation because the contract included restrictive "no DEI" language that conflicted with their values. |
+|   # | Main point                                                                                                                                                                        |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The Python Software Foundation (PSF) is a nonprofit dedicated to promoting the Python language and supporting a diverse, international community of programmers.                  |
+|   2 | The PSF manages trademarks, servers, and PyPI to build tools for the community without relying on commercial vendors or profit motives.                                           |
+|   3 | The organization views open source as a path toward a collaborative "Star Trek" future rather than a corporate-controlled "Star Wars" future.                                     |
+|   4 | The PSF turned down a $1.5 million grant from the National Science Foundation because the contract included restrictive "no DEI" language that conflicted with their values.      |
 |   5 | Following the rejection of the government grant, the community raised nearly $600,000 from 5,561 donors to support CPython development, PyPI security, and community initiatives. |
-|   6 | Major sponsors include Anthropic, Alpha Omega, Meta, Bloomberg, Vercel, Nvidia, Google, Fastly, and Hudson River Trading, who fund staff, security roles, and developers. |
-|   7 | The PSF staff consists of 11 people with two current openings for infrastructure and PyPI sustainability roles. |
-|   8 | Key staff members include Olivia, the program director, and Lauren, the deputy executive director, who lead PyCon US operations. |
-|   9 | Volunteer conference chairs Elaine and John, along with temporary staff Sal, Georgie, and Molly, played crucial roles in the success of PyCon US. |
-|  10 | PSF Community Service Awards were presented to Katie McLaughlin, Michaela Reyes, Matt LeBron, and Rodrigo Girão Serrão for their global community contributions. |
-|  11 | In-person Community Service Awards were given to Jay Miller for supporting Black Python Devs and Sarah Kuchinsky for leading PyCon US tutorials. |
-|  12 | Outstanding PyLadies Awards recognized Huayang Chung, Maria Jose Molina Contreras, Fay Shah, and Denney Perez for their leadership and community building efforts. |
-|  13 | The PSF encourages community engagement through Python Discord, local meetups, PyLadies, PyData, and regional PyCon events worldwide. |
-|  14 | The organization is currently engaged in strategic planning to determine the direction of the PSF over the next five years. |
+|   6 | Major sponsors include Anthropic, Alpha Omega, Meta, Bloomberg, Vercel, Nvidia, Google, Fastly, and Hudson River Trading, who fund staff, security roles, and developers.         |
+|   7 | The PSF staff consists of 11 people with two current openings for infrastructure and PyPI sustainability roles.                                                                   |
+|   8 | Key staff members include Olivia, the program director, and Lauren, the deputy executive director, who lead PyCon US operations.                                                  |
+|   9 | Volunteer conference chairs Elaine and John, along with temporary staff Sal, Georgie, and Molly, played crucial roles in the success of PyCon US.                                 |
+|  10 | PSF Community Service Awards were presented to Katie McLaughlin, Michaela Reyes, Matt LeBron, and Rodrigo Girão Serrão for their global community contributions.                  |
+|  11 | In-person Community Service Awards were given to Jay Miller for supporting Black Python Devs and Sarah Kuchinsky for leading PyCon US tutorials.                                  |
+|  12 | Outstanding PyLadies Awards recognized Huayang Chung, Maria Jose Molina Contreras, Fay Shah, and Denney Perez for their leadership and community building efforts.                |
+|  13 | The PSF encourages community engagement through Python Discord, local meetups, PyLadies, PyData, and regional PyCon events worldwide.                                             |
+|  14 | The organization is currently engaged in strategic planning to determine the direction of the PSF over the next five years.                                                       |
 
 # Video
 

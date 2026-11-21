@@ -28,27 +28,27 @@ Ultimately, the talk encourages developers to treat mental reframing like code r
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Major project failures are often sociological rather than technological, as noted in the book Peopleware. |
-|   2 | Stating facts like "this code is confusing" can trigger hidden evaluations and defensiveness in others. |
-|   3 | Using "I statements" such as "I find this code confusing" is more accurate and collaborative than global assertions. |
-|   4 | Blame inhibits ownership of problems, whereas owning one's own confusion allows for collaborative problem-solving. |
-|   5 | When a conversation is framed as blame, owning the problem becomes synonymous with accepting fault, which people avoid. |
-|   6 | Asking curious questions about design choices allows the other engineer to explain their rationale and take ownership. |
+|   # | Main point                                                                                                                        |
+| --: | --------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Major project failures are often sociological rather than technological, as noted in the book Peopleware.                         |
+|   2 | Stating facts like "this code is confusing" can trigger hidden evaluations and defensiveness in others.                           |
+|   3 | Using "I statements" such as "I find this code confusing" is more accurate and collaborative than global assertions.              |
+|   4 | Blame inhibits ownership of problems, whereas owning one's own confusion allows for collaborative problem-solving.                |
+|   5 | When a conversation is framed as blame, owning the problem becomes synonymous with accepting fault, which people avoid.           |
+|   6 | Asking curious questions about design choices allows the other engineer to explain their rationale and take ownership.            |
 |   7 | Even after resolving confusion, one may still need to own a different problem, such as discomfort with code risk or requirements. |
-|   8 | Weak references to problems, where neither party owns the issue, lead to the problem being ignored or garbage collected. |
-|   9 | While "I statements" can feel formulaic, they provide metadata that softens the tone and prevents intentional criticism. |
-|  10 | Starting with curiosity helps individuals realize they are often wrong, leading to genuine interest in others' perspectives. |
-|  11 | Approaching discussions with blame triggers a defensiveness exception, making subsequent arguments unreachable code. |
-|  12 | Building airtight legal arguments to force compliance rarely produces genuine interest or curiosity in the other person. |
-|  13 | The average familiarity trap causes experts to overestimate others' knowledge in their specific area of strength. |
-|  14 | Recognizing complementary strengths helps reframe annoyance at others' weaknesses into appreciation for their expertise. |
-|  15 | Mental refactoring, or analyzing why conversations went wrong, helps prevent future conversational mistakes. |
-|  16 | In group settings, taking ownership of one's own contribution to a problem is more effective than blaming the group. |
-|  17 | De-escalation strategies vary by individual, with some needing immediate resolution and others requiring time to calm down. |
-|  18 | Making people feel valued during disagreements helps prevent conflicts from becoming personal attacks. |
-|  19 | Clarifying individual problems rather than dictating solutions facilitates compromise and win-win outcomes in code reviews. |
+|   8 | Weak references to problems, where neither party owns the issue, lead to the problem being ignored or garbage collected.          |
+|   9 | While "I statements" can feel formulaic, they provide metadata that softens the tone and prevents intentional criticism.          |
+|  10 | Starting with curiosity helps individuals realize they are often wrong, leading to genuine interest in others' perspectives.      |
+|  11 | Approaching discussions with blame triggers a defensiveness exception, making subsequent arguments unreachable code.              |
+|  12 | Building airtight legal arguments to force compliance rarely produces genuine interest or curiosity in the other person.          |
+|  13 | The average familiarity trap causes experts to overestimate others' knowledge in their specific area of strength.                 |
+|  14 | Recognizing complementary strengths helps reframe annoyance at others' weaknesses into appreciation for their expertise.          |
+|  15 | Mental refactoring, or analyzing why conversations went wrong, helps prevent future conversational mistakes.                      |
+|  16 | In group settings, taking ownership of one's own contribution to a problem is more effective than blaming the group.              |
+|  17 | De-escalation strategies vary by individual, with some needing immediate resolution and others requiring time to calm down.       |
+|  18 | Making people feel valued during disagreements helps prevent conflicts from becoming personal attacks.                            |
+|  19 | Clarifying individual problems rather than dictating solutions facilitates compromise and win-win outcomes in code reviews.       |
 
 # Video
 

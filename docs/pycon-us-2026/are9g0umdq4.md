@@ -30,24 +30,24 @@ Finally, the council emphasizes the importance of community contributions, such 
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The steering council consists of five members elected by the Python core team to lead the project, manage organizational tasks, and direct technical development. |
-|   2 | Council members spend PSF funds to support Python development, including sponsoring developers in residence and hosting the annual core team sprint. |
-|   3 | Developers in residence are core developers paid to work on CPython, sponsored by companies like Meta, Bloomberg, and Vercel without those sponsors influencing the work. |
-|   4 | Łukasz Langa has left his role as developer in residence but remains a core team member, with a replacement to be hired under the ongoing Meta sponsorship. |
-|   5 | The core team sprint is a week-long collaboration event held annually in September or October, alternating between the US and Europe, to foster team cohesion and technical progress. |
-|   6 | Python 3.15 introduces lazy imports, a new keyword that defers module loading until first use to improve startup performance for large applications. |
-|   7 | Python 3.15 includes frozen dict, an immutable dictionary type that is hashable if all its contents are hashable, simplifying use cases previously requiring custom implementations. |
-|   8 | Python 3.15 features enhanced color output across the ecosystem and a new high-performance profiler with zero overhead for standard library profiling and HTML output. |
-|   9 | The Python 3.15 beta is available, with the release candidate scheduled for August and the final release in October, while Python 3.16 alpha one is expected in mid-October. |
-|  10 | The core team is establishing a packaging council following PEP 772 to address packaging issues, with elections to begin after PyCon for PSF members. |
-|  11 | Free threading is not expected to become the default in Python 3.16, with estimates suggesting it may occur before Python 3.20, pending further real-world testing and feedback from maintainers. |
-|  12 | PEP evaluation considers user impact, empirical evidence, and community consensus, with the steering council often reaching out to library maintainers to verify claims in proposals. |
+|   # | Main point                                                                                                                                                                                              |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The steering council consists of five members elected by the Python core team to lead the project, manage organizational tasks, and direct technical development.                                       |
+|   2 | Council members spend PSF funds to support Python development, including sponsoring developers in residence and hosting the annual core team sprint.                                                    |
+|   3 | Developers in residence are core developers paid to work on CPython, sponsored by companies like Meta, Bloomberg, and Vercel without those sponsors influencing the work.                               |
+|   4 | Łukasz Langa has left his role as developer in residence but remains a core team member, with a replacement to be hired under the ongoing Meta sponsorship.                                             |
+|   5 | The core team sprint is a week-long collaboration event held annually in September or October, alternating between the US and Europe, to foster team cohesion and technical progress.                   |
+|   6 | Python 3.15 introduces lazy imports, a new keyword that defers module loading until first use to improve startup performance for large applications.                                                    |
+|   7 | Python 3.15 includes frozen dict, an immutable dictionary type that is hashable if all its contents are hashable, simplifying use cases previously requiring custom implementations.                    |
+|   8 | Python 3.15 features enhanced color output across the ecosystem and a new high-performance profiler with zero overhead for standard library profiling and HTML output.                                  |
+|   9 | The Python 3.15 beta is available, with the release candidate scheduled for August and the final release in October, while Python 3.16 alpha one is expected in mid-October.                            |
+|  10 | The core team is establishing a packaging council following PEP 772 to address packaging issues, with elections to begin after PyCon for PSF members.                                                   |
+|  11 | Free threading is not expected to become the default in Python 3.16, with estimates suggesting it may occur before Python 3.20, pending further real-world testing and feedback from maintainers.       |
+|  12 | PEP evaluation considers user impact, empirical evidence, and community consensus, with the steering council often reaching out to library maintainers to verify claims in proposals.                   |
 |  13 | The steering council is optimistic about the potential use of Rust in CPython, particularly for extension modules, though significant challenges remain regarding build processes and platform support. |
-|  14 | There is a consensus that the standard library should not expand significantly, as maintaining modules in lockstep with Python releases is costly, favoring PyPI for most new functionality. |
-|  15 | The governance structure is under continuous reevaluation, with discussions about potential changes such as two-year terms for steering council members to improve continuity. |
-|  16 | Contributors are encouraged to test Python 3.15 and provide feedback on bugs, especially regarding free threading, to help inform future release decisions. |
+|  14 | There is a consensus that the standard library should not expand significantly, as maintaining modules in lockstep with Python releases is costly, favoring PyPI for most new functionality.            |
+|  15 | The governance structure is under continuous reevaluation, with discussions about potential changes such as two-year terms for steering council members to improve continuity.                          |
+|  16 | Contributors are encouraged to test Python 3.15 and provide feedback on bugs, especially regarding free threading, to help inform future release decisions.                                             |
 
 # Video
 

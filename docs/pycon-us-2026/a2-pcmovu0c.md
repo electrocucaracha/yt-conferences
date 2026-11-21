@@ -30,30 +30,30 @@ This approach ensures that end users can run the application without needing to 
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The speaker is Russell Keith McGee, a principal engineer at Anaconda and founder of the BeeWare project. |
-|   2 | BeeWare is an open-source project enabling native cross-platform user interfaces using only Python. |
-|   3 | Packaging Python code for distribution is complex due to varying deployment needs and environment dependencies. |
-|   4 | Not all Python code is a runnable tool; websites and notebooks require deployment configuration rather than direct execution. |
-|   5 | PEP 723 allows inline script metadata to specify minimum Python versions and dependencies. |
-|   6 | Script runners like UV, Hatch, and Pex can utilize PEP 723 metadata to manage environments and dependencies. |
-|   7 | PEP 338 enables directories with a __main__.py file to be executed as Python objects. |
-|   8 | PEP 441 allows zip files containing __main__.py to be executed directly as zip apps. |
-|   9 | PEP 621 defines project-level metadata in pyproject.toml, including name, version, and dependencies. |
-|  10 | Entry points defined in PEP 621 allow packages to be invoked as command-line scripts without referencing the Python interpreter. |
-|  11 | Tools like UVX and Pipx can install and run PyPI packages with entry points in isolated environments. |
-|  12 | Requiring users to install Python or specific runtimes creates significant barriers to tool adoption. |
+|   # | Main point                                                                                                                                 |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------ |
+|   1 | The speaker is Russell Keith McGee, a principal engineer at Anaconda and founder of the BeeWare project.                                   |
+|   2 | BeeWare is an open-source project enabling native cross-platform user interfaces using only Python.                                        |
+|   3 | Packaging Python code for distribution is complex due to varying deployment needs and environment dependencies.                            |
+|   4 | Not all Python code is a runnable tool; sites and notebooks require deployment configuration rather than direct execution.                 |
+|   5 | PEP 723 allows inline script metadata to specify minimum Python versions and dependencies.                                                 |
+|   6 | Script runners like UV, Hatch, and Pex can utilize PEP 723 metadata to manage environments and dependencies.                               |
+|   7 | PEP 338 enables directories with a **main**.py file to be executed as Python objects.                                                      |
+|   8 | PEP 441 allows ZIP files containing **main**.py to be executed directly as ZIP apps.                                                       |
+|   9 | PEP 621 defines project-level metadata in pyproject.toml, including name, version, and dependencies.                                       |
+|  10 | Entry points defined in PEP 621 allow packages to be invoked as command-line scripts without referencing the Python interpreter.           |
+|  11 | Tools like UVX and Pipx can install and run PyPI packages with entry points in isolated environments.                                      |
+|  12 | Requiring users to install Python or specific runtimes creates significant barriers to tool adoption.                                      |
 |  13 | Single-file executables via tools like PyInstaller and PyOxidizer offer portability but face issues with dynamic imports and GUI toolkits. |
-|  14 | Platform-specific packaging solutions include macOS .app bundles, Windows MSI installers, and Linux Flatpaks or system packages. |
-|  15 | Briefcase is a BeeWare tool that packages Python applications into standalone, distributable artifacts for various platforms. |
-|  16 | Briefcase supports generating installers for Windows, macOS, Linux, iOS, and Android without requiring users to have Python installed. |
-|  17 | Briefcase handles application signing and notarization to ensure security and compatibility. |
-|  18 | Self-contained installers facilitate distribution via app stores and mobile device management systems. |
-|  19 | The choice of packaging method depends on the target audience's technical expertise and environment constraints. |
-|  20 | Briefcase can build Linux packages using Docker containers, allowing cross-distribution builds from a single host. |
-|  21 | Building macOS or Windows packages requires the respective native operating systems due to platform-specific build tools. |
-|  22 | The BeeWare project welcomes financial support and contributions from the community. |
+|  14 | Platform-specific packaging solutions include macOS .app bundles, Windows MSI installers, and Linux Flatpaks or system packages.           |
+|  15 | Briefcase is a BeeWare tool that packages Python applications into standalone, distributable artifacts for various platforms.              |
+|  16 | Briefcase supports generating installers for Windows, macOS, Linux, iOS, and Android without requiring users to have Python installed.     |
+|  17 | Briefcase handles application signing and notarization to ensure security and compatibility.                                               |
+|  18 | Self-contained installers facilitate distribution via app stores and mobile device management systems.                                     |
+|  19 | The choice of packaging method depends on the target audience's technical expertise and environment constraints.                           |
+|  20 | Briefcase can build Linux packages using Docker containers, allowing cross-distribution builds from a single host.                         |
+|  21 | Building macOS or Windows packages requires the respective native operating systems due to platform-specific build tools.                  |
+|  22 | The BeeWare project welcomes financial support and contributions from the community.                                                       |
 
 # Video
 

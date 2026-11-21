@@ -30,24 +30,24 @@ The session concludes with a discussion on the ergonomics of sentinels and the p
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | An HTTP PATCH endpoint bug occurs when a missing key and an explicit null value are both treated as null, causing unintended data overwrites. |
-|   2 | The core issue is conflating three distinct states: missing key, null value, and omitted argument, which require different handling logic. |
-|   3 | The speaker advocates for using typing.TypedDict to define payload shapes, distinguishing between required and NotRequired fields. |
-|   4 | NotRequired allows keys to be omitted from the payload, while Optional allows a key to be present with a null value. |
-|   5 | Read-only fields in TypedDict prevent accidental mutation of payload data, enforcing type safety at the boundary. |
-|   6 | Using None as a default argument is problematic because it cannot distinguish between an explicitly sent null and an omitted argument. |
-|   7 | Python 3.15 introduces the sentinel function, and typing_extensions provides backport support for older Python versions. |
-|   8 | The sentinel object serves as a unique marker to represent an "unset" state, allowing type checkers to distinguish it from None. |
-|   9 | A helper function can be created to check if a value is unset and return the existing database value or the new update value. |
-|  10 | Type guards using the type is statement provide runtime validation and narrow types for type checkers in complex payload scenarios. |
-|  11 | Dataclasses are recommended for internal business logic because all fields must exist, unlike TypedDicts which support optional keys. |
-|  12 | A conversion pattern should be used to transform boundary TypedDict payloads into internal dataclass models for domain logic. |
-|  13 | This separation keeps wire-format concerns out of business code and ensures all dataclass fields are explicitly initialized. |
-|  14 | Pydantic currently lacks full support for the unset sentinel pattern, making standard library typing solutions more portable. |
+|   # | Main point                                                                                                                                          |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | An HTTP PATCH endpoint bug occurs when a missing key and an explicit null value are both treated as null, causing unintended data overwrites.       |
+|   2 | The core issue is conflating three distinct states: missing key, null value, and omitted argument, which require different handling logic.          |
+|   3 | The speaker advocates for using typing.TypedDict to define payload shapes, distinguishing between required and NotRequired fields.                  |
+|   4 | NotRequired allows keys to be omitted from the payload, while Optional allows a key to be present with a null value.                                |
+|   5 | Read-only fields in TypedDict prevent accidental mutation of payload data, enforcing type safety at the boundary.                                   |
+|   6 | Using None as a default argument is problematic because it cannot distinguish between an explicitly sent null and an omitted argument.              |
+|   7 | Python 3.15 introduces the sentinel function, and typing_extensions provides backport support for older Python versions.                            |
+|   8 | The sentinel object serves as a unique marker to represent an "unset" state, allowing type checkers to distinguish it from None.                    |
+|   9 | A helper function can be created to check if a value is unset and return the existing database value or the new update value.                       |
+|  10 | Type guards using the type is statement provide runtime validation and narrow types for type checkers in complex payload scenarios.                 |
+|  11 | Dataclasses are recommended for internal business logic because all fields must exist, unlike TypedDicts which support optional keys.               |
+|  12 | A conversion pattern should be used to transform boundary TypedDict payloads into internal dataclass models for domain logic.                       |
+|  13 | This separation keeps wire-format concerns out of business code and ensures all dataclass fields are explicitly initialized.                        |
+|  14 | Pydantic currently lacks full support for the unset sentinel pattern, making standard library typing solutions more portable.                       |
 |  15 | The recommended workflow is to use TypedDict for external payloads, convert to dataclasses for internal use, and use sentinels for partial updates. |
-|  16 | This approach ensures safe partial updates by explicitly handling missing keys, null values, and omitted arguments. |
+|  16 | This approach ensures safe partial updates by explicitly handling missing keys, null values, and omitted arguments.                                 |
 
 # Video
 

@@ -31,24 +31,24 @@ The talk concludes with a demonstration of Flyte 2, a reference implementation t
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The speaker is the author of Pandera and core maintainer of Flyte, presenting on async IO for production AI workflows. |
-|   2 | Production AI workflows often fail at scale due to rate limits, connection pileups, and out-of-memory errors that kill entire processes. |
-|   3 | Traditional orchestrators often impose a Domain Specific Language (DSL), which the speaker argues is unnecessary for many use cases. |
+|   # | Main point                                                                                                                                         |
+| --: | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The speaker is the author of Pandera and core maintainer of Flyte, presenting on async IO for production AI workflows.                             |
+|   2 | Production AI workflows often fail at scale due to rate limits, connection pileups, and out-of-memory errors that kill entire processes.           |
+|   3 | Traditional orchestrators often impose a Domain Specific Language (DSL), which the speaker argues is unnecessary for many use cases.               |
 |   4 | Production AI workflows are effectively dynamic execution graphs where the primary coordination task is waiting for compute to complete elsewhere. |
-|   5 | Async IO is the standard library solution for expressing concurrency and parallelism in plain Python without a new grammar. |
-|   6 | Container orchestration is required to solve production-scale problems like heterogeneous compute requirements, isolation, and back pressure. |
-|   7 | The recommended architecture combines async Python for logic and data flow with a container orchestrator for scheduling and isolation. |
-|   8 | Async IO constructs like asyncio.gather, task groups, and semaphores allow for bounded concurrency and handling partial failures. |
-|   9 | Queues and timeouts in async IO provide mechanisms for back pressure and preventing application stalls during API calls. |
-|  10 | Streaming responses using async iterators ensures constant memory usage by processing tokens individually rather than buffering entire outputs. |
-|  11 | Container orchestration enables arbitrary scaling, GPU provisioning, and multi-tenancy, which are not possible with local hardware alone. |
-|  12 | Flyte 2 serves as a reference implementation where Python functions are decorated with tasks and run on Kubernetes clusters. |
-|  13 | Flyte uses Python type hints to determine serialization methods and manages state via blob stores like S3 or MinIO. |
-|  14 | A key trade-off of distributed systems is the inability to share global Python objects or state directly between isolated containers. |
-|  15 | The speaker advises learning async IO to better debug and understand the internals of modern AI and ML libraries. |
-|  16 | The core message is to distinguish between needing isolation (solved by containers) and needing a DSL (often unnecessary). |
+|   5 | Async IO is the standard library solution for expressing concurrency and parallelism in plain Python without a new grammar.                        |
+|   6 | Container orchestration is required to solve production-scale problems like heterogeneous compute requirements, isolation, and back pressure.      |
+|   7 | The recommended architecture combines async Python for logic and data flow with a container orchestrator for scheduling and isolation.             |
+|   8 | Async IO constructs like asyncio.gather, task groups, and semaphores allow for bounded concurrency and handling partial failures.                  |
+|   9 | Queues and timeouts in async IO provide mechanisms for back pressure and preventing application stalls during API calls.                           |
+|  10 | Streaming responses using async iterators ensures constant memory usage by processing tokens individually rather than buffering entire outputs.    |
+|  11 | Container orchestration enables arbitrary scaling, GPU provisioning, and multi-tenancy, which are not possible with local hardware alone.          |
+|  12 | Flyte 2 serves as a reference implementation where Python functions are decorated with tasks and run on Kubernetes clusters.                       |
+|  13 | Flyte uses Python type hints to determine serialization methods and manages state via blob stores like S3 or MinIO.                                |
+|  14 | A key trade-off of distributed systems is the inability to share global Python objects or state directly between isolated containers.              |
+|  15 | The speaker advises learning async IO to better debug and understand the internals of modern AI and ML libraries.                                  |
+|  16 | The core message is to distinguish between needing isolation (solved by containers) and needing a DSL (often unnecessary).                         |
 
 # Video
 

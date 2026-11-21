@@ -31,29 +31,29 @@ The session concludes with a Q&A addressing concerns about Python latency compar
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Python can be used for all CUDA accelerated computing tasks, including AI, simulations, and data processing. |
-|   2 | CUDA is a platform for developing accelerated computing applications, not just a programming language. |
-|   3 | A GPU is a distinct system with its own processor, memory hierarchy, and instruction set, separate from the host CPU. |
+|   # | Main point                                                                                                                             |
+| --: | -------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Python can be used for all CUDA accelerated computing tasks, including AI, simulations, and data processing.                           |
+|   2 | CUDA is a platform for developing accelerated computing applications, not just a programming language.                                 |
+|   3 | A GPU is a distinct system with its own processor, memory hierarchy, and instruction set, separate from the host CPU.                  |
 |   4 | CUDA kernels execute the same function across thousands of threads simultaneously, using indices to access different memory locations. |
-|   5 | Numba CUDA allows writing CUDA kernels directly in Python using the @cuda decorator, mirroring C++ syntax. |
-|   6 | Modern CUDA development avoids writing low-level kernels from scratch by using higher-level abstractions and libraries. |
-|   7 | CuPy provides an idiomatic, NumPy-like API for GPU arrays and operations, simplifying data manipulation. |
-|   8 | Cutlass Python introduces a block-level programming paradigm, abstracting thread management for linear algebra operations. |
-|   9 | CCCL (CUDA Core Compute Libraries) offers optimized algorithms like transform, scan, reduce, and sort for GPU execution. |
-|  10 | CuMATH Python provides access to linear algebra libraries such as cuBLAS, cuFFT, and cuSolver with host and device APIs. |
-|  11 | Kernel fusion combines multiple operations into a single kernel to minimize memory transfers and improve performance. |
-|  12 | NCCL and BHMem for Py enable efficient communication and data transfer between multiple GPUs in large-scale systems. |
-|  13 | RAPIDS is an umbrella of data science libraries, including cuDF for pandas-like dataframes and cuML for machine learning. |
-|  14 | CuDF allows running pandas code on the GPU with minimal changes, automatically handling data movement between CPU and GPU. |
-|  15 | All Python CUDA libraries are built on foundational bindings like CuPy and cuCIM.Core, ensuring seamless interoperability. |
-|  16 | Python introduces minimal latency compared to C++, with the primary performance cost being host-to-device data transfers. |
-|  17 | CUDA libraries only run on Nvidia hardware and do not support Apple Metal or other non-Nvidia GPU architectures. |
-|  18 | Affordable Nvidia GPUs, such as the RTX 3070, are sufficient for learning and experimenting with CUDA Python libraries. |
-|  19 | Libraries like cuVS support vector search for RAG applications, and cuGraph optimizes network analysis algorithms. |
-|  20 | The CUDA Python ecosystem supports multi-node computing and advanced features like green contexts for GPU partitioning. |
-|  21 | Installation of these libraries is straightforward using pip, making them accessible for developers of varying experience levels. |
+|   5 | Numba CUDA allows writing CUDA kernels directly in Python using the @cuda decorator, mirroring C++ syntax.                             |
+|   6 | Modern CUDA development avoids writing low-level kernels from scratch by using higher-level abstractions and libraries.                |
+|   7 | CuPy provides an idiomatic, NumPy-like API for GPU arrays and operations, simplifying data manipulation.                               |
+|   8 | Cutlass Python introduces a block-level programming paradigm, abstracting thread management for linear algebra operations.             |
+|   9 | CCCL (CUDA Core Compute Libraries) offers optimized algorithms like transform, scan, reduce, and sort for GPU execution.               |
+|  10 | CuMATH Python provides access to linear algebra libraries such as cuBLAS, cuFFT, and cuSolver with host and device APIs.               |
+|  11 | Kernel fusion combines multiple operations into a single kernel to minimize memory transfers and improve performance.                  |
+|  12 | NCCL and BHMem for Py enable efficient communication and data transfer between multiple GPUs in large-scale systems.                   |
+|  13 | RAPIDS is an umbrella of data science libraries, including cuDF for pandas-like dataframes and cuML for machine learning.              |
+|  14 | CuDF allows running pandas code on the GPU with minimal changes, automatically handling data movement between CPU and GPU.             |
+|  15 | All Python CUDA libraries are built on foundational bindings like CuPy and cuCIM.Core, ensuring seamless interoperability.             |
+|  16 | Python introduces minimal latency compared to C++, with the primary performance cost being host-to-device data transfers.              |
+|  17 | CUDA libraries only run on Nvidia hardware and do not support Apple Metal or other non-Nvidia GPU architectures.                       |
+|  18 | Affordable Nvidia GPUs, such as the RTX 3070, are sufficient for learning and experimenting with CUDA Python libraries.                |
+|  19 | Libraries like cuVS support vector search for RAG applications, and cuGraph optimizes network analysis algorithms.                     |
+|  20 | The CUDA Python ecosystem supports multi-node computing and advanced features like green contexts for GPU partitioning.                |
+|  21 | Installation of these libraries is straightforward using pip, making them accessible for developers of varying experience levels.      |
 
 # Video
 

@@ -30,27 +30,27 @@ Ultimately, he argues that learning Rust cultivates a mindset of rigorous safety
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Rust surfaces many errors at compile time, unlike Python which often reveals them at runtime. |
-|   2 | The Rust compiler enforces type and memory safety, requiring explicit handling of potential null values or type mismatches. |
-|   3 | In Rust, all values are immutable by default, requiring explicit declaration to allow mutation. |
-|   4 | Passing immutable references guarantees that the data will not be changed by the receiving function. |
-|   5 | Rust ownership ensures memory safety without a garbage collector by tracking who owns data allocations. |
-|   6 | Moving ownership transfers data, preventing the original variable from being used after the move. |
-|   7 | Borrowing allows sharing data without transferring ownership, enabling multiple immutable references or a single mutable reference. |
-|   8 | Concurrent mutable and immutable borrows are prohibited to prevent data races and invalid memory access. |
-|   9 | Rust's compiler checks concurrency safety, forcing the use of types that safely share data across threads. |
-|  10 | Rust's compiler provides detailed error messages and suggestions that aid learning and assist coding agents. |
-|  11 | Linters like Clippy enforce best practices and simplify code, providing immediate feedback for developers and agents. |
-|  12 | Rustfmt is a standardized formatter that ensures consistent code style across Rust projects. |
-|  13 | Learning Rust complements Python by offering high performance and systems-level control where Python excels in rapid iteration and data science. |
-|  14 | Rust's safety concepts, such as handling all cases and managing shared state, improve coding habits when writing Python. |
-|  15 | Python developers must be more careful with error handling and state management since they lack Rust's compile-time safety net. |
-|  16 | The Rust compiler's instant feedback loop helps resolve issues quickly, reducing the learning curve for new users. |
+|   # | Main point                                                                                                                                             |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   1 | Rust surfaces many errors at compile time, unlike Python which often reveals them at runtime.                                                          |
+|   2 | The Rust compiler enforces type and memory safety, requiring explicit handling of potential null values or type mismatches.                            |
+|   3 | In Rust, all values are immutable by default, requiring explicit declaration to allow mutation.                                                        |
+|   4 | Passing immutable references guarantees that the data will not be changed by the receiving function.                                                   |
+|   5 | Rust ownership ensures memory safety without a garbage collector by tracking who owns data allocations.                                                |
+|   6 | Moving ownership transfers data, preventing the original variable from being used after the move.                                                      |
+|   7 | Borrowing allows sharing data without transferring ownership, enabling multiple immutable references or a single mutable reference.                    |
+|   8 | Concurrent mutable and immutable borrows are prohibited to prevent data races and invalid memory access.                                               |
+|   9 | Rust's compiler checks concurrency safety, forcing the use of types that safely share data across threads.                                             |
+|  10 | Rust's compiler provides detailed error messages and suggestions that aid learning and assist coding agents.                                           |
+|  11 | Linters like Clippy enforce best practices and simplify code, providing immediate feedback for developers and agents.                                  |
+|  12 | Rustfmt is a standardized formatter that ensures consistent code style across Rust projects.                                                           |
+|  13 | Learning Rust complements Python by offering high performance and systems-level control where Python excels in rapid iteration and data science.       |
+|  14 | Rust's safety concepts, such as handling all cases and managing shared state, improve coding habits when writing Python.                               |
+|  15 | Python developers must be more careful with error handling and state management since they lack Rust's compile-time safety net.                        |
+|  16 | The Rust compiler's instant feedback loop helps resolve issues quickly, reducing the learning curve for new users.                                     |
 |  17 | Rust idioms differ from Python, requiring developers to check safety conditions before executing operations rather than relying on exception handling. |
-|  18 | Integrating Python with Rust is possible, though specific infrastructure details may require further research. |
-|  19 | CPU-bound tasks can potentially be optimized by writing specific portions of the code in Rust. |
+|  18 | Integrating Python with Rust is possible, though specific infrastructure details may require further research.                                         |
+|  19 | CPU-bound tasks can potentially be optimized by writing specific portions of the code in Rust.                                                         |
 
 # Video
 

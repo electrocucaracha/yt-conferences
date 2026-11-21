@@ -30,25 +30,25 @@ Benedetta concludes that Textual enables developers to build accessible, cross-p
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The terminal is evolving into a primary interface, replacing browser-based tools due to superior performance and reduced resource consumption. |
-|   2 | Context switching is considered expensive in computer science, making terminal-based workflows more efficient for developers and non-developers alike. |
-|   3 | The terminal is the most automation-friendly UI, allowing users to instruct computers to perform tasks without memorizing complex command-line flags. |
+|   # | Main point                                                                                                                                                                          |
+| --: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The terminal is evolving into a primary interface, replacing browser-based tools due to superior performance and reduced resource consumption.                                      |
+|   2 | Context switching is considered expensive in computer science, making terminal-based workflows more efficient for developers and non-developers alike.                              |
+|   3 | The terminal is the most automation-friendly UI, allowing users to instruct computers to perform tasks without memorizing complex command-line flags.                               |
 |   4 | A distinction is made between CLI (Command Line Interface), which is stateless and executes single commands, and TUI (Terminal User Interface), which is stateful and event-driven. |
-|   5 | The Python ecosystem offers libraries like Rich and Textual, both maintained by the same team, to build beautiful terminal applications. |
-|   6 | Rich is a library that enhances terminal output with colors, formatting, tables, and progress bars without adding significant complexity. |
-|   7 | Textual is a full framework for building TUIs, providing classes, services, widgets, and events to create feature-rich applications. |
-|   8 | Textual includes a CSS-like styling system that separates styling from logic, supporting selectors, IDs, and classes similar to web development. |
-|   9 | The framework is cross-platform, supports remote applications via SSH, and includes built-in accessibility features. |
-|  10 | Textual's architecture is comparable to React or Flutter, utilizing widgets as fundamental building blocks and reactive attributes for data binding. |
-|  11 | Reactive attributes allow variables to be bound to UI widgets, automatically updating the interface when the variable changes without manual refreshes. |
-|  12 | The framework provides a screen-level API where the App manages the lifecycle, Screens represent individual pages, and Modals handle floating dialogs. |
-|  13 | Built-in widgets include common UI elements like buttons, checkboxes, and list views, with the list view handling complex memory management and virtualization. |
-|  14 | Events are triggered by user actions or application lifecycle changes and are handled using Python decorators to attach logic to specific interactions. |
-|  15 | Textual supports complex layouts, multiple screen navigations, rich text, markdown, and database integration for local or remote synchronization. |
-|  16 | The framework enables keyboard-first UX, composable widgets, and testable logic, making it suitable for professional application development. |
-|  17 | Textual applications can be deployed as web applications, expanding their reach beyond the traditional terminal environment. |
+|   5 | The Python ecosystem offers libraries like Rich and Textual, both maintained by the same team, to build beautiful terminal applications.                                            |
+|   6 | Rich is a library that enhances terminal output with colors, formatting, tables, and progress bars without adding significant complexity.                                           |
+|   7 | Textual is a full framework for building TUIs, providing classes, services, widgets, and events to create feature-rich applications.                                                |
+|   8 | Textual includes a CSS-like styling system that separates styling from logic, supporting selectors, IDs, and classes similar to web development.                                    |
+|   9 | The framework is cross-platform, supports remote applications via SSH, and includes built-in accessibility features.                                                                |
+|  10 | Textual's architecture is comparable to React or Flutter, utilizing widgets as fundamental building blocks and reactive attributes for data binding.                                |
+|  11 | Reactive attributes allow variables to be bound to UI widgets, automatically updating the interface when the variable changes without manual refreshes.                             |
+|  12 | The framework provides a screen-level API where the App manages the lifecycle, Screens represent individual pages, and Modals handle floating dialogs.                              |
+|  13 | Built-in widgets include common UI elements like buttons, checkboxes, and list views, with the list view handling complex memory management and virtualization.                     |
+|  14 | Events are triggered by user actions or application lifecycle changes and are handled using Python decorators to attach logic to specific interactions.                             |
+|  15 | Textual supports complex layouts, multiple screen navigations, rich text, Markdown, and database integration for local or remote synchronization.                                   |
+|  16 | The framework enables keyboard-first UX, composable widgets, and testable logic, making it suitable for professional application development.                                       |
+|  17 | Textual applications can be deployed as web applications, expanding their reach beyond the traditional terminal environment.                                                        |
 
 # Video
 

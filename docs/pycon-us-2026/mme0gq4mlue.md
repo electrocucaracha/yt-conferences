@@ -30,25 +30,25 @@ Consequently, the speaker urges everyone to attend the event in Long Beach to sh
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The speaker describes PyCon as one of the coolest conferences. |
-|   2 | The speaker will attend PyCon for the first time next year. |
-|   3 | The speaker invites everyone to attend PyCon next year in Long Beach. |
-|   4 | Individuals working in security are encouraged to submit talks. |
-|   5 | Speakers are asked to share any security-related topics with the Python community. |
-|   6 | Attending the conference to discuss security is an option for those not submitting talks. |
-|   7 | The speaker also invites everyone to PyCon US. |
-|   8 | PyCon US is described as a lovely and extremely unique venue. |
-|   9 | The venue is ideal for spreading ideas and learning from others. |
-|  10 | The conference allows attendees to see various domains of Python usage. |
-|  11 | Python is noted as a varied language used in many different areas. |
-|  12 | All uses of Python converge in one place at the conference. |
-|  13 | This convergence is considered a unique opportunity. |
-|  14 | The event is suitable for those coming to learn about security. |
-|  15 | The event is also suitable for those coming to teach others about security. |
+|   # | Main point                                                                                        |
+| --: | ------------------------------------------------------------------------------------------------- |
+|   1 | The speaker describes PyCon as one of the coolest conferences.                                    |
+|   2 | The speaker will attend PyCon for the first time next year.                                       |
+|   3 | The speaker invites everyone to attend PyCon next year in Long Beach.                             |
+|   4 | Individuals working in security are encouraged to submit talks.                                   |
+|   5 | Speakers are asked to share any security-related topics with the Python community.                |
+|   6 | Attending the conference to discuss security is an option for those not submitting talks.         |
+|   7 | The speaker also invites everyone to PyCon US.                                                    |
+|   8 | PyCon US is described as a lovely and extremely unique venue.                                     |
+|   9 | The venue is ideal for spreading ideas and learning from others.                                  |
+|  10 | The conference allows attendees to see various domains of Python usage.                           |
+|  11 | Python is noted as a varied language used in many different areas.                                |
+|  12 | All uses of Python converge in one place at the conference.                                       |
+|  13 | This convergence is considered a unique opportunity.                                              |
+|  14 | The event is suitable for those coming to learn about security.                                   |
+|  15 | The event is also suitable for those coming to teach others about security.                       |
 |  16 | The speaker states that the Python ecosystem offers an unmatched environment for security topics. |
-|  17 | The speaker strongly encourages attendees to come to Long Beach and share their knowledge. |
+|  17 | The speaker strongly encourages attendees to come to Long Beach and share their knowledge.        |
 
 # Video
 

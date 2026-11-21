@@ -14,9 +14,7 @@
       "api_base": "http://localhost:11434",
       "language": "en",
       "template_url": "https://github.com/electrocucaracha/yt-summarizer-template",
-      "_copy_without_render": [
-        "scripts/*"
-      ],
+      "_copy_without_render": ["scripts/*"],
       "_template": "https://github.com/electrocucaracha/yt-summarizer-template",
       "_commit": "1d67e6778f419459e05b45c5fbcb4fcfc704b40a"
     }

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "PyCon US 2026 Tutorial Sneak Peek: \"Build your first MCP server in Python\" - Pamela Fox"
+title: 'PyCon US 2026 Tutorial Sneak Peek: "Build your first MCP server in Python" - Pamela Fox'
 nav_order: 87
 parent: PyCon US 2026
 type: Video Note
@@ -29,17 +29,17 @@ Fox emphasizes that understanding how to build and use these servers is crucial 
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Pamela Fox is presenting a tutorial at PyCon 2026 on building a first MCP server. |
-|   2 | MCP stands for Model Context Protocol, an open standard defining how agents retrieve context and tools from external sources. |
+|   # | Main point                                                                                                                                                             |
+| --: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Pamela Fox is presenting a tutorial at PyCon 2026 on building a first MCP server.                                                                                      |
+|   2 | MCP stands for Model Context Protocol, an open standard defining how agents retrieve context and tools from external sources.                                          |
 |   3 | The protocol enhances interoperability, allowing a single MCP server to be consumed by various agents such as Claude Code, GitHub Copilot, ChatGPT, and custom agents. |
-|   4 | The tutorial focuses on building an MCP server using the fast MCP package. |
-|   5 | Additional functionality, specifically authentication, is added to make the server production-ready. |
-|   6 | Authentication differentiates MCP servers from skills. |
-|   7 | An open source OAuth provider is used for authentication to enable local execution on personal machines. |
-|   8 | The session explores new MCP features, including MCP apps. |
-|   9 | MCP apps allow for the presentation of user interfaces within agent MCP experiences. |
+|   4 | The tutorial focuses on building an MCP server using the fast MCP package.                                                                                             |
+|   5 | Additional functionality, specifically authentication, is added to make the server production-ready.                                                                   |
+|   6 | Authentication differentiates MCP servers from skills.                                                                                                                 |
+|   7 | An open source OAuth provider is used for authentication to enable local execution on personal machines.                                                               |
+|   8 | The session explores new MCP features, including MCP apps.                                                                                                             |
+|   9 | MCP apps allow for the presentation of user interfaces within agent MCP experiences.                                                                                   |
 
 # Video
 

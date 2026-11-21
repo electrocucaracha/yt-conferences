@@ -30,23 +30,23 @@ The speakers conclude by encouraging developers to adopt these tools and standar
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | PhD students Abhishek from Purdue and Sanchit from NYU address the issue of non-reproducible Python builds caused by hidden native dependencies. |
-|   2 | Common installation failures occur when pip reports success but imports fail due to missing shared objects or CUDA mismatches, as seen in libraries like vLLM and cryptography. |
-|   3 | Pip metadata and requirements files only capture explicit Python packages, leaving invisible native libraries like OpenSSL and Rust code untracked. |
-|   4 | These hidden dependencies create significant security risks, as evidenced by attacks like SolarWinds and Log4Shell where compromised build processes went undetected. |
-|   5 | Software Bill of Materials (SBOMs) are required by US and EU governments to provide a machine-readable inventory of all software components. |
+|   # | Main point                                                                                                                                                                                       |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   1 | PhD students Abhishek from Purdue and Sanchit from NYU address the issue of non-reproducible Python builds caused by hidden native dependencies.                                                 |
+|   2 | Common installation failures occur when pip reports success but imports fail due to missing shared objects or CUDA mismatches, as seen in libraries like vLLM and cryptography.                  |
+|   3 | Pip metadata and requirements files only capture explicit Python packages, leaving invisible native libraries like OpenSSL and Rust code untracked.                                              |
+|   4 | These hidden dependencies create significant security risks, as evidenced by attacks like SolarWinds and Log4Shell where compromised build processes went undetected.                            |
+|   5 | Software Bill of Materials (SBOMs) are required by US and EU governments to provide a machine-readable inventory of all software components.                                                     |
 |   6 | Current SBOM generation tools often produce inaccurate data because they rely on stale manifest files or scan outputs after the build, missing transitive dependencies and build-time artifacts. |
-|   7 | Analysis of 5,000 Docker Hub images revealed that 30% of files are untracked by package managers, a systemic issue also found in Maven Central, Jenkins, and VS Code extensions. |
-|   8 | The proposed solution, SBOMit, moves SBOM generation to the build time to capture real-time data on file access, network calls, and spawned processes. |
-|   9 | SBOMit uses the Witness tool and in-toto specifications to record cryptographically signed attestations of build activities, ensuring data integrity and verifiability. |
-|  10 | Witness monitors system calls using strace and network traffic using eBPF to detect unexpected registry access or malicious network calls during the build. |
-|  11 | The enriched SBOM combines traditional software composition analysis with in-toto attestations to reveal missed packages, shared object files, and accurate version information. |
-|  12 | A demonstration using a Rust-based Python wheel showed that SBOMit identified cargo packages and shared libraries that standard tools like Sift and Trivy missed. |
-|  13 | SBOMit is an open-source project supported by the OpenSSF, encouraging users to verify their packaging contents and contribute to the tool’s development. |
-|  14 | The project advocates for treating SBOMs as active security tools rather than mere compliance documents to effectively combat supply chain vulnerabilities. |
-|  15 | Users are advised to inspect wheel files for unlisted dependencies and adopt PEP 770 standards to improve package detection and SBOM accuracy. |
+|   7 | Analysis of 5,000 Docker Hub images revealed that 30% of files are untracked by package managers, a systemic issue also found in Maven Central, Jenkins, and Visual Studio Code extensions.      |
+|   8 | The proposed solution, SBOMit, moves SBOM generation to the build time to capture real-time data on file access, network calls, and spawned processes.                                           |
+|   9 | SBOMit uses the Witness tool and in-toto specifications to record cryptographically signed attestations of build activities, ensuring data integrity and verifiability.                          |
+|  10 | Witness monitors system calls using strace and network traffic using eBPF to detect unexpected registry access or malicious network calls during the build.                                      |
+|  11 | The enriched SBOM combines traditional software composition analysis with in-toto attestations to reveal missed packages, shared object files, and accurate version information.                 |
+|  12 | A demonstration using a Rust-based Python wheel showed that SBOMit identified cargo packages and shared libraries that standard tools like Sift and Trivy missed.                                |
+|  13 | SBOMit is an open-source project supported by the OpenSSF, encouraging users to verify their packaging contents and contribute to the tool’s development.                                        |
+|  14 | The project advocates for treating SBOMs as active security tools rather than mere compliance documents to effectively combat supply chain vulnerabilities.                                      |
+|  15 | Users are advised to inspect wheel files for unlisted dependencies and adopt PEP 770 standards to improve package detection and SBOM accuracy.                                                   |
 
 # Video
 

@@ -30,29 +30,29 @@ The result was a more efficient and transparent operation that raised over $55,0
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Mariatta is a nine-time conference organizer who previously ran PyCon US, PyCascades, and PyLadies Con. |
-|   2 | PyLadies Con is a free, fully online, 24-hour conference serving the global PyLadies community with multilingual support. |
-|   3 | The conference relies heavily on volunteers who speak various languages and cover different time zones to provide 24-hour programming. |
-|   4 | Organizers initially managed operations using spreadsheets, which caused issues with data duplication, access control, and readability. |
-|   5 | Spreadsheets created a bottleneck where skilled volunteers spent time on administrative copy-pasting rather than high-impact contributions. |
-|   6 | The team decided to build a custom web portal to replace spreadsheets, aiming for better data management and volunteer enablement. |
-|   7 | The PyLadies Con portal is built with Python, Django, and Postgres, featuring 100% test coverage and Dockerized local development. |
-|   8 | The portal is hosted on PSF infrastructure, specifically on Cabochon, the same platform that hosts PyPI. |
-|   9 | Django Allauth was used to handle user authentication, including login, logout, and email verification. |
-|  10 | MailDev is used during local development to test automated emails sent to volunteers and sponsors. |
-|  11 | The portal allows for granular access control, restricting specific data fields and pages based on user roles. |
+|   # | Main point                                                                                                                                              |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Mariatta is a nine-time conference organizer who previously ran PyCon US, PyCascades, and PyLadies Con.                                                 |
+|   2 | PyLadies Con is a free, fully online, 24-hour conference serving the global PyLadies community with multilingual support.                               |
+|   3 | The conference relies heavily on volunteers who speak various languages and cover different time zones to provide 24-hour programming.                  |
+|   4 | Organizers initially managed operations using spreadsheets, which caused issues with data duplication, access control, and readability.                 |
+|   5 | Spreadsheets created a bottleneck where skilled volunteers spent time on administrative copypasting rather than high-impact contributions.              |
+|   6 | The team decided to build a custom web portal to replace spreadsheets, aiming for better data management and volunteer enablement.                      |
+|   7 | The PyLadies Con portal is built with Python, Django, and Postgres, featuring 100% test coverage and Dockerized local development.                      |
+|   8 | The portal is hosted on PSF infrastructure, specifically on Cabochon, the same platform that hosts PyPI.                                                |
+|   9 | Django Allauth was used to handle user authentication, including login, logout, and email verification.                                                 |
+|  10 | MailDev is used during local development to test automated emails sent to volunteers and sponsors.                                                      |
+|  11 | The portal allows for granular access control, restricting specific data fields and pages based on user roles.                                          |
 |  12 | Volunteer management was improved by automating invitation emails and tracking status without context switching between spreadsheets and email clients. |
-|  13 | Sponsorship management was streamlined by enabling one-click data sharing with the PSF for contract preparation. |
-|  14 | The portal provides meaningful, stable URLs for sharing data, replacing long, confusing spreadsheet links. |
-|  15 | In 2025, the conference raised $55,000 in sponsorships, more than double the combined total of the first two years. |
-|  16 | Public dashboards were created to display real-time sponsorship and attendance data, enhancing transparency and accountability. |
-|  17 | The system supports multi-language features, including Brazilian Portuguese, to better serve the global community. |
-|  18 | Integrations with ticketing systems allow for live data updates on attendee numbers without manual spreadsheet entry. |
-|  19 | Future plans include replacing remaining spreadsheets with dedicated modules for speaker tracking and financial auditing. |
-|  20 | The project emphasizes open source principles, allowing community members to contribute code and fix issues via pull requests. |
-|  21 | The decision to build a custom tool was driven by the need to own data, avoid third-party dependencies, and utilize developer skills effectively. |
+|  13 | Sponsorship management was streamlined by enabling one-click data sharing with the PSF for contract preparation.                                        |
+|  14 | The portal provides meaningful, stable URLs for sharing data, replacing long, confusing spreadsheet links.                                              |
+|  15 | In 2025, the conference raised $55,000 in sponsorships, more than double the combined total of the first two years.                                     |
+|  16 | Public dashboards were created to display real-time sponsorship and attendance data, enhancing transparency and accountability.                         |
+|  17 | The system supports multi-language features, including Brazilian Portuguese, to better serve the global community.                                      |
+|  18 | Integrations with ticketing systems allow for live data updates on attendee numbers without manual spreadsheet entry.                                   |
+|  19 | Future plans include replacing remaining spreadsheets with dedicated modules for speaker tracking and financial auditing.                               |
+|  20 | The project emphasizes open source principles, allowing community members to contribute code and fix issues via pull requests.                          |
+|  21 | The decision to build a custom tool was driven by the need to own data, avoid third-party dependencies, and utilize developer skills effectively.       |
 
 # Video
 

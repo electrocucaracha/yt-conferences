@@ -29,20 +29,20 @@ Describing the event as a beautiful and amazing conference, the speaker strongly
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Inclusion is the most important aspect of PyCon, fostering a sense of love and support from day one. |
-|   2 | Attendees are eager to learn about others' work and offer assistance. |
-|   3 | The speaker is attending PyCon for the second time and intends to continue attending in the future. |
-|   4 | The conference provides opportunities to meet diverse individuals with different perspectives. |
-|   5 | Participants observe various approaches to solving the same problems. |
-|   6 | PyCon allows attendees to reconnect with old friends and meet interesting new people. |
-|   7 | The event offers significant learning opportunities. |
-|   8 | The PyCon community is described as a beautiful place and an amazing conference. |
+|   # | Main point                                                                                                    |
+| --: | ------------------------------------------------------------------------------------------------------------- |
+|   1 | Inclusion is the most important aspect of PyCon, fostering a sense of love and support from day one.          |
+|   2 | Attendees are eager to learn about others' work and offer assistance.                                         |
+|   3 | The speaker is attending PyCon for the second time and intends to continue attending in the future.           |
+|   4 | The conference provides opportunities to meet diverse individuals with different perspectives.                |
+|   5 | Participants observe various approaches to solving the same problems.                                         |
+|   6 | PyCon allows attendees to reconnect with old friends and meet interesting new people.                         |
+|   7 | The event offers significant learning opportunities.                                                          |
+|   8 | The PyCon community is described as a beautiful place and an amazing conference.                              |
 |   9 | The speaker encourages listeners to attend PyCon to explore and meet the best people in the Python community. |
-|  10 | Attending PyCon is considered a fantastic experience. |
-|  11 | The speaker invites others to attend whenever they have the opportunity. |
-|  12 | Missing the chance to attend PyCon is described as missing out. |
+|  10 | Attending PyCon is considered a fantastic experience.                                                         |
+|  11 | The speaker invites others to attend whenever they have the opportunity.                                      |
+|  12 | Missing the chance to attend PyCon is described as missing out.                                               |
 
 # Video
 

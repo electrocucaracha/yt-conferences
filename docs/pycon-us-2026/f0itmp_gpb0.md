@@ -3,7 +3,7 @@ layout: default
 title: Title not found
 parent: PyCon US 2026
 type: Video Note
-description: 
+description:
 resource: "https://www.youtube.com/watch?v=F0iTMP_GpB0"
 tags:
   - pycon-us-2026
@@ -21,8 +21,8 @@ _Not available yet._
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
+|   # | Main point           |
+| --: | -------------------- |
 |   1 | _Not available yet._ |
 
 # Video

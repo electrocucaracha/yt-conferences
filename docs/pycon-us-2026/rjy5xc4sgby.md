@@ -29,23 +29,23 @@ These efforts are driven by the mission to ensure Python is accessible and welco
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Georgie, the chair of the DNI work group, introduced the panel, noting it is the fourth or fifth year of the group's activities. |
-|   2 | Panel members Teresa, Deborah, Abhijit, and Ola introduced themselves, representing the African, South American, and North American regions respectively. |
-|   3 | The DNI work group includes members from North America, South America, the Middle East, Oceania, Africa, Asia, and Europe. |
+|   # | Main point                                                                                                                                                                                                                                             |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   1 | Georgie, the chair of the DNI work group, introduced the panel, noting it is the fourth or fifth year of the group's activities.                                                                                                                       |
+|   2 | Panel members Teresa, Deborah, Abhijit, and Ola introduced themselves, representing the African, South American, and North American regions respectively.                                                                                              |
+|   3 | The DNI work group includes members from North America, South America, the Middle East, Oceania, Africa, Asia, and Europe.                                                                                                                             |
 |   4 | Additional members shared pre-recorded greetings, including Julio from Europe, Kalyan from APAC, Kenya from North America, Nathan from Oceania, Ebulunamma from Africa, Marine from North America, Juliana from South America, and Reuben from Israel. |
-|   5 | Reuben highlighted the active Python community in Israel, citing recent conferences like PyCon Israel and PyData Tel Aviv that focused on welcoming newcomers. |
-|   6 | The group emphasized that despite geopolitical tensions, members maintain regular communication and mutual support across borders. |
-|   7 | Members joined the DNI work group to amplify unheard voices, ensure inclusivity, and uphold the principle that Python is for everyone. |
-|   8 | Abhijit joined to mentor students from diverse backgrounds, drawing from his experience teaching Python in Malaysia using local languages. |
-|   9 | Deborah joined to ensure people feel welcome in the Python community, reflecting her long-standing involvement with PyLadies Brazil. |
-|  10 | The work group identified three main initiatives: gathering community information into a central hub, supporting the setup of local Python communities, and conducting survey feedback to guide improvements. |
-|  11 | Abhijit shared a story of starting a Python meetup in Penang, Malaysia, where he taught in English while a colleague explained in Malay, helping shy individuals become developers. |
-|  12 | Deborah recounted how PyLadies Brazil launched crowdfunding campaigns after a speaker was unable to attend due to financial reasons, eventually increasing women presenters at PyCon Brazil to 40%. |
-|  13 | Teresa shared that her involvement began when she borrowed a laptop for a Django Girls workshop in 2018, which led to her learning Python and joining PyLadies Ghana. |
-|  14 | Teresa credited the welcoming nature of the Python community and mentors like Abigail and Noah for her growth into a PyLadies lead and DNI member. |
-|  15 | The session concluded with an invitation for the audience to share their stories and needs through a survey to help the work group better support the community. |
+|   5 | Reuben highlighted the active Python community in Israel, citing recent conferences like PyCon Israel and PyData Tel Aviv that focused on welcoming newcomers.                                                                                         |
+|   6 | The group emphasized that despite geopolitical tensions, members maintain regular communication and mutual support across borders.                                                                                                                     |
+|   7 | Members joined the DNI work group to amplify unheard voices, ensure inclusivity, and uphold the principle that Python is for everyone.                                                                                                                 |
+|   8 | Abhijit joined to mentor students from diverse backgrounds, drawing from his experience teaching Python in Malaysia using local languages.                                                                                                             |
+|   9 | Deborah joined to ensure people feel welcome in the Python community, reflecting her long-standing involvement with PyLadies Brazil.                                                                                                                   |
+|  10 | The work group identified three main initiatives: gathering community information into a central hub, supporting the setup of local Python communities, and conducting survey feedback to guide improvements.                                          |
+|  11 | Abhijit shared a story of starting a Python meetup in Penang, Malaysia, where he taught in English while a colleague explained in Malay, helping shy individuals become developers.                                                                    |
+|  12 | Deborah recounted how PyLadies Brazil launched crowdfunding campaigns after a speaker was unable to attend due to financial reasons, eventually increasing women presenters at PyCon Brazil to 40%.                                                    |
+|  13 | Teresa shared that her involvement began when she borrowed a laptop for a Django Girls workshop in 2018, which led to her learning Python and joining PyLadies Ghana.                                                                                  |
+|  14 | Teresa credited the welcoming nature of the Python community and mentors like Abigail and Noah for her growth into a PyLadies lead and DNI member.                                                                                                     |
+|  15 | The session concluded with an invitation for the audience to share their stories and needs through a survey to help the work group better support the community.                                                                                       |
 
 # Video
 

@@ -30,27 +30,27 @@ The talk also covered new debugging capabilities, such as CUDA-GDB integration, 
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The speaker, Andy from NVIDIA's CUDA Python product group, presented a sponsored talk at PyCon covering GPU hardware, the CUDA Python stack, and kernel programming. |
+|   # | Main point                                                                                                                                                                                                      |
+| --: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The speaker, Andy from NVIDIA's CUDA Python product group, presented a sponsored talk at PyCon covering GPU hardware, the CUDA Python stack, and kernel programming.                                            |
 |   2 | AI inference performance has improved significantly, with NVIDIA's Blackwell chip offering 15x faster performance than previous generations, driven by better energy efficiency and chip-to-chip interconnects. |
-|   3 | GPU architecture has evolved from fixed-function accelerators to general-purpose processors with specialized tensor cores, lower precision support, and complex memory hierarchies. |
-|   4 | Modern data center GPUs feature 96 GB of memory and 125 teraflops of compute, requiring software evolution to utilize new features like sparsity and tensor memory accelerators. |
-|   5 | Efficient GPU computing requires managing data movement between host and device, utilizing libraries like cuDF and cuPy to bypass CPU bottlenecks and use direct I/O. |
-|   6 | Pinned memory and device-side memory management reduce latency by keeping data on the GPU, enabling faster chip-to-chip interactions without returning to the CPU. |
-|   7 | The CUDA Python 1.0 stack enables Python programmers to access full hardware capabilities on day one of new CUDA releases, removing the need for C++ toolchains. |
-|   8 | Three primary methods for kernel authoring in Python are supported: Numba CUDA for thread-based computing, CuTile for tile-based programming, and CUTLASS DSL for low-level control. |
-|   9 | NVIDIA provides a suite of libraries including CCCL for parallel algorithms, NVMath Python for linear algebra and transforms, and communication libraries like NCCL and NVShmem. |
-|  10 | A new MLIR backend for Numba CUDA offers 5x faster launch latencies and improved compilation speed by leveraging modern compiler infrastructure. |
-|  11 | The CUDA graph builder allows users to record and launch sequences of kernels as a single graph, achieving up to 35x speedup by hiding launch and copy latencies. |
-|  12 | Fusion operations in CUDA Compute and NVMath Python combine multiple operations into single kernels, reducing memory access overhead and improving performance by up to 5x. |
-|  13 | New debugging tools allow setting breakpoints and inspecting variables in GPU kernels directly from Python, integrated with Visual Studio and other IDEs. |
-|  14 | Performance profiling is simplified with a decorator-based interface that visualizes kernel execution and performance metrics within Jupyter notebooks. |
-|  15 | Tile programming in CuTile abstracts thread-level management by operating on blocks of data, mapping them to tensor cores and memory hierarchies automatically. |
-|  16 | This abstraction is necessary because tensor core requirements have changed across generations, making manual warp-level management difficult and error-prone. |
-|  17 | CuTile supports multiple frontends including Python, Julia, Rust, and C++, lowering code to MLIR dialects and then to PTX for execution on NVIDIA hardware. |
-|  18 | The Tile Gym repository provides high-performance reference kernels for AI inference tasks, demonstrating the capabilities of the CuTile programming model. |
-|  19 | CuTile requires CUDA 13.1 and supports Ampere, Ada, or Blackwell GPUs, but does not currently support Turing architectures. |
+|   3 | GPU architecture has evolved from fixed-function accelerators to general-purpose processors with specialized tensor cores, lower precision support, and complex memory hierarchies.                             |
+|   4 | Modern data center GPUs feature 96 GB of memory and 125 teraflops of compute, requiring software evolution to utilize new features like sparsity and tensor memory accelerators.                                |
+|   5 | Efficient GPU computing requires managing data movement between host and device, utilizing libraries like cuDF and cuPy to bypass CPU bottlenecks and use direct I/O.                                           |
+|   6 | Pinned memory and device-side memory management reduce latency by keeping data on the GPU, enabling faster chip-to-chip interactions without returning to the CPU.                                              |
+|   7 | The CUDA Python 1.0 stack enables Python programmers to access full hardware capabilities on day one of new CUDA releases, removing the need for C++ toolchains.                                                |
+|   8 | Three primary methods for kernel authoring in Python are supported: Numba CUDA for thread-based computing, CuTile for tile-based programming, and CUTLASS DSL for low-level control.                            |
+|   9 | NVIDIA provides a suite of libraries including CCCL for parallel algorithms, NVMath Python for linear algebra and transforms, and communication libraries like NCCL and NVShmem.                                |
+|  10 | A new MLIR backend for Numba CUDA offers 5x faster launch latencies and improved compilation speed by leveraging modern compiler infrastructure.                                                                |
+|  11 | The CUDA graph builder allows users to record and launch sequences of kernels as a single graph, achieving up to 35x speedup by hiding launch and copy latencies.                                               |
+|  12 | Fusion operations in CUDA Compute and NVMath Python combine multiple operations into single kernels, reducing memory access overhead and improving performance by up to 5x.                                     |
+|  13 | New debugging tools allow setting breakpoints and inspecting variables in GPU kernels directly from Python, integrated with Visual Studio and other IDEs.                                                       |
+|  14 | Performance profiling is simplified with a decorator-based interface that visualizes kernel execution and performance metrics within Jupyter notebooks.                                                         |
+|  15 | Tile programming in CuTile abstracts thread-level management by operating on blocks of data, mapping them to tensor cores and memory hierarchies automatically.                                                 |
+|  16 | This abstraction is necessary because tensor core requirements have changed across generations, making manual warp-level management difficult and error-prone.                                                  |
+|  17 | CuTile supports multiple frontends including Python, Julia, Rust, and C++, lowering code to MLIR dialects and then to PTX for execution on NVIDIA hardware.                                                     |
+|  18 | The Tile Gym repository provides high-performance reference kernels for AI inference tasks, demonstrating the capabilities of the CuTile programming model.                                                     |
+|  19 | CuTile requires CUDA 13.1 and supports Ampere, Ada, or Blackwell GPUs, but does not currently support Turing architectures.                                                                                     |
 
 # Video
 

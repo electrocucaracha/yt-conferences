@@ -31,26 +31,26 @@ Finally, he addresses the limitations of the stack, advising that it is best sui
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The speaker, Nicolás Mejíágreda from Santa Cruz, Bolivia, discusses building applications using Streamlit and Supabase. |
-|   2 | He organizes tech communities and events in Bolivia, including the first Supabase event in the country. |
-|   3 | Streamlit is recommended for Python developers who want to create web apps without using HTML, CSS, or JavaScript. |
-|   4 | This stack is ideal for hackathons, MVPs, prototypes, and quickly creating dashboards using company data. |
-|   5 | Streamlit allows users to build a basic app with just five lines of code and supports cloud deployment via Streamlit Cloud. |
-|   6 | Supabase provides a backend database solution with improving security features and specific documentation for Python. |
-|   7 | The combination of Streamlit and Supabase supports CRUD operations, standard login systems, and dashboard creation using pure Python. |
-|   8 | The stack is compatible with data analysis libraries such as NumPy, Pandas, Plotly, and Matplotlib. |
+|   # | Main point                                                                                                                                 |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------ |
+|   1 | The speaker, Nicolás Mejíágreda from Santa Cruz, Bolivia, discusses building applications using Streamlit and Supabase.                    |
+|   2 | He organizes tech communities and events in Bolivia, including the first Supabase event in the country.                                    |
+|   3 | Streamlit is recommended for Python developers who want to create web apps without using HTML, CSS, or JavaScript.                         |
+|   4 | This stack is ideal for hackathons, MVPs, prototypes, and quickly creating dashboards using company data.                                  |
+|   5 | Streamlit allows users to build a basic app with just five lines of code and supports cloud deployment via Streamlit Cloud.                |
+|   6 | Supabase provides a backend database solution with improving security features and specific documentation for Python.                      |
+|   7 | The combination of Streamlit and Supabase supports CRUD operations, standard login systems, and dashboard creation using pure Python.      |
+|   8 | The stack is compatible with data analysis libraries such as NumPy, Pandas, Plotly, and Matplotlib.                                        |
 |   9 | A demo dashboard was created using a Spotify database from Hugging Face to analyze acoustic properties of 5,000 songs across eight genres. |
-|  10 | Supabase Row Level Security (RLS) is suggested as a best practice for handling user and password databases securely. |
-|  11 | Deployment options include Streamlit Cloud, VPS with Docker and Coolify, Railway, or Render. |
-|  12 | Streamlit is particularly useful for data science apps, machine learning demos, and visualizing data for clients. |
-|  13 | The tool is less suitable for applications requiring high SEO, extensive customization, or supporting a massive number of users. |
-|  14 | Recent Streamlit updates include native audio input, drop-down menus, external page embedding, and filter modes. |
-|  15 | Supabase has introduced a new API system for better security and limits, upgraded PostgreSQL to version 17, and enhanced ETL creation. |
-|  16 | Supabase now ensures tables are not exposed by default to improve data security. |
-|  17 | Basic Streamlit applications do not require a dedicated internet server for deployment, as Streamlit Cloud handles hosting. |
-|  18 | More complex architectures may still require a dedicated server for deployment. |
+|  10 | Supabase Row Level Security (RLS) is suggested as a best practice for handling user and password databases securely.                       |
+|  11 | Deployment options include Streamlit Cloud, VPS with Docker and Coolify, Railway, or Render.                                               |
+|  12 | Streamlit is particularly useful for data science apps, machine learning demos, and visualizing data for clients.                          |
+|  13 | The tool is less suitable for applications requiring high SEO, extensive customization, or supporting a massive number of users.           |
+|  14 | Recent Streamlit updates include native audio input, drop-down menus, external page embedding, and filter modes.                           |
+|  15 | Supabase has introduced a new API system for better security and limits, upgraded PostgreSQL to version 17, and enhanced ETL creation.     |
+|  16 | Supabase now ensures tables are not exposed by default to improve data security.                                                           |
+|  17 | Basic Streamlit applications do not require a dedicated internet server for deployment, as Streamlit Cloud handles hosting.                |
+|  18 | More complex architectures may still require a dedicated server for deployment.                                                            |
 
 # Video
 

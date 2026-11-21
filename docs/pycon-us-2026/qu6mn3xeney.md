@@ -31,25 +31,25 @@ While acknowledging that `pathlib` may have a slight performance overhead in spe
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | File paths should be represented using pathlib.Path objects instead of strings to improve code quality and maintainability. |
-|   2 | Historically, path utilities were scattered across os, os.path, glob, and shutil modules, making them difficult to find and use. |
-|   3 | Representing paths as strings is error-prone because manual string manipulation can lead to bugs, especially regarding cross-platform separator differences. |
-|   4 | Stringly typed code makes it difficult to distinguish file paths from other strings, reducing type safety and code clarity. |
-|   5 | Pathlib.Path objects support chained method calls and attribute access, which is more readable than nested function calls required by string-based approaches. |
-|   6 | The pathlib module provides convenient methods like read_text, glob, and mkdir that simplify common file operations compared to legacy modules. |
-|   7 | Since Python 3.6, the built-in open function and most standard library utilities accept pathlib.Path objects directly, eliminating the need for string conversion. |
-|   8 | Most modern third-party libraries, including Django, pandas, and Pillow, support pathlib.Path objects, ensuring broad compatibility. |
-|   9 | When creating path objects, forward slashes can be used in string literals for cross-platform compatibility, as pathlib normalizes separators automatically. |
-|  10 | Path components can be joined using the join_path method, the slash operator, or by passing multiple arguments to the Path constructor. |
-|  11 | Pathlib.Path methods and attributes, such as name, parent, and suffix, are better named and more intuitive than their os.path counterparts. |
-|  12 | Custom path classes can be created by inheriting from pathlib.Path, allowing for specialized functionality and metadata preservation via with_segments. |
-|  13 | The pathlike protocol defined in PEP 519 allows any object with a __fspath__ method to be used anywhere a path is expected, enabling duck typing. |
-|  14 | Users should avoid using the Path.open method, as it is a legacy feature; the built-in open function is the preferred and standard approach. |
-|  15 | Converting path objects to strings should be avoided unless necessary for display or logging, as most operations accept path objects directly. |
+|   # | Main point                                                                                                                                                                      |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | File paths should be represented using pathlib.Path objects instead of strings to improve code quality and maintainability.                                                     |
+|   2 | Historically, path utilities were scattered across os, os.path, glob, and shutil modules, making them difficult to find and use.                                                |
+|   3 | Representing paths as strings is error-prone because manual string manipulation can lead to bugs, especially regarding cross-platform separator differences.                    |
+|   4 | Stringly typed code makes it difficult to distinguish file paths from other strings, reducing type safety and code clarity.                                                     |
+|   5 | Pathlib.Path objects support chained method calls and attribute access, which is more readable than nested function calls required by string-based approaches.                  |
+|   6 | The pathlib module provides convenient methods like read_text, glob, and mkdir that simplify common file operations compared to legacy modules.                                 |
+|   7 | Since Python 3.6, the built-in open function and most standard library utilities accept pathlib.Path objects directly, eliminating the need for string conversion.              |
+|   8 | Most modern third-party libraries, including Django, pandas, and Pillow, support pathlib.Path objects, ensuring broad compatibility.                                            |
+|   9 | When creating path objects, forward slashes can be used in string literals for cross-platform compatibility, as pathlib normalizes separators automatically.                    |
+|  10 | Path components can be joined using the join_path method, the slash operator, or by passing multiple arguments to the Path constructor.                                         |
+|  11 | Pathlib.Path methods and attributes, such as name, parent, and suffix, are better named and more intuitive than their os.path counterparts.                                     |
+|  12 | Custom path classes can be created by inheriting from pathlib.Path, allowing for specialized functionality and metadata preservation via with_segments.                         |
+|  13 | The pathlike protocol defined in PEP 519 allows any object with a **fspath** method to be used anywhere a path is expected, enabling duck typing.                               |
+|  14 | Users should avoid using the Path.open method, as it is a legacy feature; the built-in open function is the preferred and standard approach.                                    |
+|  15 | Converting path objects to strings should be avoided unless necessary for display or logging, as most operations accept path objects directly.                                  |
 |  16 | While pathlib may have a slight performance penalty in tight loops involving many files, readability and maintainability are generally more important than micro-optimizations. |
-|  17 | Pathlib represents a proper data type for file paths, acknowledging their importance and providing a dedicated, well-designed API for path operations. |
+|  17 | Pathlib represents a proper data type for file paths, acknowledging their importance and providing a dedicated, well-designed API for path operations.                          |
 
 # Video
 

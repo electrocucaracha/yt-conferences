@@ -30,25 +30,25 @@ Finally, Fraser shared technical lessons learned from building complex libraries
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The speaker, Dan Fraser, is a principal engineer at Chainguard working on Python libraries and has a background in Linux distributions like Debian and Ubuntu. |
-|   2 | Chainguard aims to be a safe source for open source, providing hardened container images and libraries built from upstream source code with Salsa V3 provenance. |
-|   3 | The software supply chain is vulnerable to attacks such as typosquatting, dependency confusion, tag hijacking, account takeovers, and brand jacking. |
-|   4 | PyPI is a significant target for malware due to its scale, with 40 terabytes of data and 4.4 billion daily downloads. |
-|   5 | Recent high-profile attacks include the Trivy scanner compromise, the LightLLM malware injection, and the Mini Worm attack on TanStack CI/CD. |
-|   6 | AI tools like Claude and ChatGPT are increasingly used by attackers to automate malware creation, data theft, and ransomware drafting. |
+|   # | Main point                                                                                                                                                        |
+| --: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The speaker, Dan Fraser, is a principal engineer at Chainguard working on Python libraries and has a background in Linux distributions like Debian and Ubuntu.    |
+|   2 | Chainguard aims to be a safe source for open source, providing hardened container images and libraries built from upstream source code with Salsa V3 provenance.  |
+|   3 | The software supply chain is vulnerable to attacks such as typosquatting, dependency confusion, tag hijacking, account takeovers, and brand jacking.              |
+|   4 | PyPI is a significant target for malware due to its scale, with 40 terabytes of data and 4.4 billion daily downloads.                                             |
+|   5 | Recent high-profile attacks include the Trivy scanner compromise, the LightLLM malware injection, and the Mini Worm attack on TanStack CI/CD.                     |
+|   6 | AI tools like Claude and ChatGPT are increasingly used by attackers to automate malware creation, data theft, and ransomware drafting.                            |
 |   7 | Recommended security practices include scanning for malware, verifying signatures, using cooldown periods for new packages, and limiting dependency surface area. |
-|   8 | Developers should use PyPI trusted publishing, CI/CD for builds, and avoid long-lived tokens to reduce security risks. |
-|   9 | Chainguard libraries provide two indexes: one for malware-resistant builds matching PyPI and another for CVE remediation with backported patches. |
-|  10 | Building Python wheels correctly requires matching upstream build practices, such as static linking decisions for libraries like MKL and OpenSSL. |
-|  11 | Statically linking libstdc++ can cause crashes due to global state conflicts; the solution involves using compatibility layers similar to manylinux images. |
-|  12 | Chainguard uses automated parity testing to compare their wheels against upstream versions, checking shared libraries, ABIs, and runtime test results. |
-|  13 | S-bombs and Salsa provenance files allow users to trace the exact source code, build environment, and dependencies used to create a library. |
-|  14 | The team discovered that opportunistic linking of libraries like OpenBLAS during builds can introduce duplicate dependencies and crashes. |
-|  15 | Chainguard libraries are currently freely available until the end of June, and the company is hiring for various roles. |
-|  16 | For libraries built in private mirrors, signing artifacts and including S-bombs are recommended to prove integrity and provenance. |
-|  17 | A cooldown period of 2 to 3 days is advised for pulling new packages to allow time for malware detection, while monitoring for critical CVEs. |
+|   8 | Developers should use PyPI trusted publishing, CI/CD for builds, and avoid long-lived tokens to reduce security risks.                                            |
+|   9 | Chainguard libraries provide two indices: one for malware-resistant builds matching PyPI and another for CVE remediation with backported patches.                 |
+|  10 | Building Python wheels correctly requires matching upstream build practices, such as static linking decisions for libraries like MKL and OpenSSL.                 |
+|  11 | Statically linking libstdc++ can cause crashes due to global state conflicts; the solution involves using compatibility layers similar to manylinux images.       |
+|  12 | Chainguard uses automated parity testing to compare their wheels against upstream versions, checking shared libraries, ABIs, and runtime test results.            |
+|  13 | S-bombs and Salsa provenance files allow users to trace the exact source code, build environment, and dependencies used to create a library.                      |
+|  14 | The team discovered that opportunistic linking of libraries like OpenBLAS during builds can introduce duplicate dependencies and crashes.                         |
+|  15 | Chainguard libraries are currently freely available until the end of June, and the company is hiring for various roles.                                           |
+|  16 | For libraries built-in private mirrors, signing artifacts and including S-bombs are recommended to prove integrity and provenance.                                |
+|  17 | A cooldown period of 2 to 3 days is advised for pulling new packages to allow time for malware detection, while monitoring for critical CVEs.                     |
 
 # Video
 

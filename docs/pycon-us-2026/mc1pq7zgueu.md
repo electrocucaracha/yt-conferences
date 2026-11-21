@@ -30,25 +30,25 @@ Eckel advises developers to carefully evaluate whether migrating to free-threadi
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The session explores the side effects of removing the Global Interpreter Lock (GIL) in Python, focusing on what was previously provided for free by the GIL. |
-|   2 | A simple counter example demonstrates that `counter += 1` is not atomic without the GIL, leading to race conditions and incorrect results due to multiple threads interleaving opcodes. |
-|   3 | Before Python 3.11, context switches could occur between any opcodes, but after 3.11, simple increments are atomic only when the GIL is active. |
-|   4 | Using a lock (mutex) to serialize access to shared variables resolves race conditions but introduces contention, which can make free-threaded code slower than GIL-protected code. |
+|   # | Main point                                                                                                                                                                                             |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   1 | The session explores the side effects of removing the Global Interpreter Lock (GIL) in Python, focusing on what was previously provided for free by the GIL.                                           |
+|   2 | A simple counter example demonstrates that `counter += 1` is not atomic without the GIL, leading to race conditions and incorrect results due to multiple threads interleaving opcodes.                |
+|   3 | Before Python 3.11, context switches could occur between any opcodes, but after 3.11, simple increments are atomic only when the GIL is active.                                                        |
+|   4 | Using a lock (mutex) to serialize access to shared variables resolves race conditions but introduces contention, which can make free-threaded code slower than GIL-protected code.                     |
 |   5 | Contention causes significant CPU overhead and cache misses at the machine level, a phenomenon described as the "camel's nose" effect where concurrency complexity expands beyond the initial problem. |
-|   6 | Embarrassingly parallel tasks, where threads operate on independent data without shared state, benefit significantly from free threading, showing up to seven times faster performance. |
-|   7 | Free threading is also useful for offloading long-running tasks from the async event loop to prevent blocking the main thread. |
-|   8 | There is an inherent performance overhead of approximately 16% for regular single-threaded code when using the free-threaded version of Python. |
-|   9 | The GIL originated from the need to manage reference counting for automatic garbage collection and to support C extensions via the Application Binary Interface (ABI). |
+|   6 | Embarrassingly parallel tasks, where threads operate on independent data without shared state, benefit significantly from free threading, showing up to seven times faster performance.                |
+|   7 | Free threading is also useful for offloading long-running tasks from the async event loop to prevent blocking the main thread.                                                                         |
+|   8 | There is an inherent performance overhead of approximately 16% for regular single-threaded code when using the free-threaded version of Python.                                                        |
+|   9 | The GIL originated from the need to manage reference counting for automatic garbage collection and to support C extensions via the Application Binary Interface (ABI).                                 |
 |  10 | Python piggybacked on operating system threads for context switching, leading to the implementation of a single interpreter-wide lock to protect reference counts and ensure accidental thread safety. |
-|  11 | Previous attempts to remove the GIL failed due to excessive overhead, while multiprocessing offers isolation but incurs high communication costs between processes. |
-|  12 | Sub-interpreters and async I/O are alternative strategies that solve specific subsets of concurrency problems but do not replace the GIL entirely. |
-|  13 | The speaker advises against using concurrency unless necessary, recommending profiling, hardware upgrades, or rewriting hotspots in Rust via PyO3 as simpler solutions. |
-|  14 | Concurrency is complex and requires understanding the entire system architecture, as local fixes may fail due to global interactions like cache behavior and memory consistency. |
-|  15 | Libraries and dependencies may not be thread-safe even if the main code is, creating hidden risks when migrating to free threading. |
-|  16 | The decision to migrate from multiprocessing to free threading is case-specific and requires experimentation to determine if the trade-offs are worth the potential performance gains. |
-|  17 | AI tools can assist in generating experiments and optimizing code, making it easier to test different concurrency strategies and evaluate their effectiveness. |
+|  11 | Previous attempts to remove the GIL failed due to excessive overhead, while multiprocessing offers isolation but incurs high communication costs between processes.                                    |
+|  12 | Sub-interpreters and async I/O are alternative strategies that solve specific subsets of concurrency problems but do not replace the GIL entirely.                                                     |
+|  13 | The speaker advises against using concurrency unless necessary, recommending profiling, hardware upgrades, or rewriting hotspots in Rust via PyO3 as simpler solutions.                                |
+|  14 | Concurrency is complex and requires understanding the entire system architecture, as local fixes may fail due to global interactions like cache behavior and memory consistency.                       |
+|  15 | Libraries and dependencies may not be thread-safe even if the main code is, creating hidden risks when migrating to free threading.                                                                    |
+|  16 | The decision to migrate from multiprocessing to free threading is case-specific and requires experimentation to determine if the trade-offs are worth the potential performance gains.                 |
+|  17 | AI tools can assist in generating experiments and optimizing code, making it easier to test different concurrency strategies and evaluate their effectiveness.                                         |
 
 # Video
 

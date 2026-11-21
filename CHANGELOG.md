@@ -12,67 +12,80 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [5.15.1] - 2026-11-16
 
 ### Changed
+
 - Introduced a comprehensive topic collection for Stanford CME295: Transformers and Large Language Models I Autumn 2025, now indexed on the home page for improved discoverability, providing a detailed overview of transformer architecture, LLM training pipelines, preference tuning, reasoning models, agentic workflows, evaluation methods, and current research trends. [9e02c513](https://github.com/electrocucaracha/yt-conferences/commit/9e02c51361235997689a0088b05d23711c2bb1fe)
 
 ## [5.15.0] - 2026-11-16
 
 ### Added
+
 - Introduced a structured documentation set for the Maintainer Summit 2026 - Europe, providing maintainers and contributors with a quick reference to key outcomes, technical advances, and best practices on topics such as infrastructure sustainability, AI's impact on open source workflows, supply chain security, and innovations in Kubernetes and CNCF project governance. [8747bd8d](https://github.com/electrocucaracha/yt-conferences/commit/8747bd8d55a0be2ea0bd65ab619bbec23cc9b3bd)
 
 ## [5.14.0] - 2026-11-16
 
 ### Added
+
 - Enabled developers to quickly understand the technical focus and innovations of the Cloud Native & Kubernetes AI Day 2025 Europe event through the introduction of detailed video notes and executive overviews for each session. [029541f3](https://github.com/electrocucaracha/yt-conferences/commit/029541f314cd5c73a7ef653d09c3f560ff822b7f)
 
 ## [5.13.0] - 2026-11-16
 
 ### Added
+
 - Introduced key discussions and advancements from the Maintainer Summit 2025 North America conference, including the CNCF Technical Leadership Principles and significant advancements in Kubernetes and AI workloads. [be0897f6](https://github.com/electrocucaracha/yt-conferences/commit/be0897f6919534d782b3769ed983fd5d4cf66136)
 
 ## [5.12.0] - 2026-11-16
 
 ### Added
+
 - Enabled maintainers to access detailed notes and an executive report from the Maintainer Summit 2025 Europe, providing valuable insights into community discussions and technical advancements. [8284f770](https://github.com/electrocucaracha/yt-conferences/commit/8284f77014577b9686ca14f14708f29eca910849)
 
 ## [5.11.5] - 2026-11-16
 
 ### Changed
+
 - Unified YAML front matter across session note files, clarifying navigation order and revising content for improved consistency, discoverability, and clarity in the MCP Dev Summit NA 2026 documentation. [4f967073](https://github.com/electrocucaracha/yt-conferences/commit/4f967073e863e74e4d6c57128e2a96152f6ecaea)
 
 ## [5.11.4] - 2026-11-13
 
 ### Changed
+
 - Updated GitHub Actions and pre-commit hooks to the latest versions, specifically v13.3.1 for the linter and update workflows, and v20.14.1 for the ai-prepare-commit-msg hook, to ensure workflows continue to function correctly and securely. [a0b74075](https://github.com/electrocucaracha/yt-conferences/commit/a0b740758792496cfa97d1692cb95b19e51e11fa)
 
 ## [5.11.3] - 2026-11-13
 
 ### Changed
+
 - Upgraded CI and pre-commit hook dependencies to leverage recent tool improvements and maintain integration quality. [dad5be8d](https://github.com/electrocucaracha/yt-conferences/commit/dad5be8d5b977d31ad1107af9689bca10ebe64fd)
 
 ## [5.11.2] - 2026-11-13
 
 ### Changed
+
 - Updated session pages for AGNTCon + MCPCon North America 2026 to accurately reflect that referenced YouTube videos are no longer available. [af1191cd](https://github.com/electrocucaracha/yt-conferences/commit/af1191cddb7344a0c61a041ea9b25d1418554da0)
 
 ## [5.11.1] - 2026-11-10
 
 ### Fixed
+
 - Resolved issues with YouTube link syntax and resource handling across affected files for improved compatibility. [1aa68d35](https://github.com/electrocucaracha/yt-conferences/commit/1aa68d35cc7f83bcbaa3de8644b82f2e5f642e39)
 
 ## [5.11.0] - 2026-11-07
 
 ### Added
+
 - Centralized a comprehensive resource site for AGNTCon + MCPCon North America 2026, featuring over 100 session notes with key takeaways and video links on agentic AI best practices, MCP standards, security, governance, open source initiatives, and industry adoption. [430b6391](https://github.com/electrocucaracha/yt-conferences/commit/430b63911f6b1d3539cb0adcf0f9aab9f03ca3d3)
 
 ## [5.10.1] - 2026-11-06
 
 ### Changed
+
 - Optimized the documentation for the MCP Dev Summit NA 2026 collection by correcting YouTube video links, updating note counts, and adding missing talk references to maintain link integrity and content accuracy. [9c220027](https://github.com/electrocucaracha/yt-conferences/commit/9c220027b048a1fb93f7f46dae27c4015d3bc7e8)
 
 ## [5.10.0] - 2026-11-06
 
 ### Added
-- Enabled detailed release notes for versions 5.3.0 through 5.9.0, covering new features, dependency upgrades, workflow changes, documentation enhancements, and bug fixes, providing a complete history of significant changes and supporting transparency and future maintenance. [d6645cf7](https://github.com/electrocucaracha/yt-conferences/commit/d6645cf74455bdcc6a9a1f68aa22882f733e3ff8)
+
+- Enabled detailed release notes for versions 5.3.0 through 5.9.0, covering new features, dependency upgrades, workflow changes, documentation enhancements, and bugfixes, providing a complete history of significant changes and supporting transparency and future maintenance. [d6645cf7](https://github.com/electrocucaracha/yt-conferences/commit/d6645cf74455bdcc6a9a1f68aa22882f733e3ff8)
 
 ## [5.9.0] - 2026-11-06
 

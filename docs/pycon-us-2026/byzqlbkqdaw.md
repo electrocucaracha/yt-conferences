@@ -30,26 +30,26 @@ The presentation concludes by detailing the implementation process, which involv
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The talk focuses on cybersecurity and application infrastructure, specifically addressing gaps in Python applications that lack native infrastructure elements like Single Sign-On. |
-|   2 | Python is widely used for scripts and diverse applications but requires external tools for infrastructure components such as load balancing, reverse proxies, and security management. |
-|   3 | The speaker, Samuel Palacios from Guatemala, has 12 years of experience in cloud and data center infrastructure, supporting teams in securing projects and implementing infrastructure. |
-|   4 | The agenda covers application infrastructure concepts, an introduction to OpenID Connect, its features, advantages, disadvantages, and implementation methods. |
-|   5 | An application server acts as middleware connecting clients to backend systems like databases and queues, with Java being the primary language with formal application server support. |
+|   # | Main point                                                                                                                                                                                                                     |
+| --: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   1 | The talk focuses on cybersecurity and application infrastructure, specifically addressing gaps in Python applications that lack native infrastructure elements like Single Sign-On.                                            |
+|   2 | Python is widely used for scripts and diverse applications but requires external tools for infrastructure components such as load balancing, reverse proxies, and security management.                                         |
+|   3 | The speaker, Samuel Palacios from Guatemala, has 12 years of experience in cloud and data center infrastructure, supporting teams in securing projects and implementing infrastructure.                                        |
+|   4 | The agenda covers application infrastructure concepts, an introduction to OpenID Connect, its features, advantages, disadvantages, and implementation methods.                                                                 |
+|   5 | An application server acts as middleware connecting clients to backend systems like databases and queues, with Java being the primary language with formal application server support.                                         |
 |   6 | Python web servers like Uvicorn and Gunicorn are lighter and more agile than Java application servers but lack native features for distributed transactions, messaging, clustering, and comprehensive administration consoles. |
-|   7 | Java application servers are heavier and more expensive to maintain due to additional layers, while Python servers offer better agility for microservices and asynchronous tasks. |
-|   8 | Application security requires elements such as monitoring, observability, multi-factor authentication, authorization, roles, realms, certificates, and secret management. |
-|   9 | Single Sign-On provides a unified entry point for multiple applications, reducing the complexity of managing individual logins across numerous systems. |
-|  10 | OpenID Connect is an open-source identity and access manager sponsored by the Cloud Native Computing Foundation and supported by Red Hat in an enterprise version. |
-|  11 | OpenID Connect ensures authentication and authorization for all applications with minimal effort, supporting various identity sources including SQL databases, Microsoft Entra, and Active Directory. |
-|  12 | Key features of OpenID Connect include single login points, clustering capabilities, and compatibility with standards like OpenID Connect, OAuth 2.0, and SAML. |
-|  13 | The system supports federation with social networks like Gmail and Facebook, though protocol changes by these providers may require updates. |
-|  14 | OpenID Connect offers a management console for audits and configuration, allowing custom login pages and execution of actions like audits during the login process. |
-|  15 | Adapters facilitate the integration of OpenID Connect into various platforms and technologies, such as AWS and Azure, making deployment easier. |
-|  16 | Implementation involves setting up OpenID Connect as a container or in Kubernetes, creating clients with specific keys and redirect URLs for application integration. |
-|  17 | Service accounts can be configured within OpenID Connect to manage users, create administrative accounts, or federate with existing directories like Active Directory. |
-|  18 | Python applications can connect to OpenID Connect if they support the required protocols, utilizing available libraries to enable secure single sign-on functionality. |
+|   7 | Java application servers are heavier and more expensive to maintain due to additional layers, while Python servers offer better agility for microservices and asynchronous tasks.                                              |
+|   8 | Application security requires elements such as monitoring, observability, multi-factor authentication, authorization, roles, realms, certificates, and secret management.                                                      |
+|   9 | Single Sign-On provides a unified entry point for multiple applications, reducing the complexity of managing individual logins across numerous systems.                                                                        |
+|  10 | OpenID Connect is an open-source identity and access manager sponsored by the Cloud Native Computing Foundation and supported by Red Hat in an enterprise version.                                                             |
+|  11 | OpenID Connect ensures authentication and authorization for all applications with minimal effort, supporting various identity sources including SQL databases, Microsoft Entra, and Active Directory.                          |
+|  12 | Key features of OpenID Connect include single login points, clustering capabilities, and compatibility with standards like OpenID Connect, OAuth 2.0, and SAML.                                                                |
+|  13 | The system supports federation with social networks like Gmail and Facebook, though protocol changes by these providers may require updates.                                                                                   |
+|  14 | OpenID Connect offers a management console for audits and configuration, allowing custom login pages and execution of actions like audits during the login process.                                                            |
+|  15 | Adapters facilitate the integration of OpenID Connect into various platforms and technologies, such as AWS and Azure, making deployment easier.                                                                                |
+|  16 | Implementation involves setting up OpenID Connect as a container or in Kubernetes, creating clients with specific keys and redirect URLs for application integration.                                                          |
+|  17 | Service accounts can be configured within OpenID Connect to manage users, create administrative accounts, or federate with existing directories like Active Directory.                                                         |
+|  18 | Python applications can connect to OpenID Connect if they support the required protocols, utilizing available libraries to enable secure single sign-on functionality.                                                         |
 
 # Video
 

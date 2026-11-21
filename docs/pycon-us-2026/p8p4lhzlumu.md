@@ -30,24 +30,24 @@ Finally, the presentation concludes with practical advice on structuring data to
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | GPU code translation involves a complex process where Just-In-Time (JIT) compilation is implicitly required at runtime to adapt code to specific GPU architectures. |
-|   2 | JIT compilation causes initial execution delays, but enabling persistent caching in libraries like CuPy, Torch, and JAX prevents repeated compilation costs in ephemeral environments. |
-|   3 | Launching CUDA kernels is significantly more expensive than calling CPU functions, with overhead reaching three orders of magnitude higher. |
-|   4 | Kernel fusion allows multiple point-wise operations to be combined into a single kernel, reducing launch overhead and improving performance. |
-|   5 | GPU execution is asynchronous, allowing the CPU to continue processing or launch additional kernels while the GPU is busy, which helps hide latency. |
-|   6 | Synchronization points are expensive and should be minimized to prevent the CPU from stalling while waiting for GPU completion. |
-|   7 | Unlike CPUs, which handle memory hierarchy automatically, GPUs require explicit management of data transfers and special memory spaces like shared memory. |
-|   8 | Manual memory migration is often necessary on GPUs because automatic decisions can lead to significant performance penalties due to high latency and lack of built-in latency hiding. |
-|   9 | GPUs are designed to maximize throughput rather than minimize latency, utilizing massive parallelism to process large volumes of data simultaneously. |
-|  10 | Modern GPUs offer significantly higher memory bandwidth and parallel thread counts compared to CPUs, enabling them to utilize large data transfers efficiently. |
-|  11 | Branching code is highly inefficient on GPUs because they lack the branch prediction and pre-fetching hardware optimizations found in CPUs. |
-|  12 | To optimize GPU performance, data should be structured to avoid branching, such as by sorting or chunking data so that all threads follow the same code path. |
-|  13 | Floating-point arithmetic is non-associative, meaning parallel execution can produce slightly different results than sequential execution due to the order of operations. |
+|   # | Main point                                                                                                                                                                                           |
+| --: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | GPU code translation involves a complex process where Just-In-Time (JIT) compilation is implicitly required at runtime to adapt code to specific GPU architectures.                                  |
+|   2 | JIT compilation causes initial execution delays, but enabling persistent caching in libraries like CuPy, Torch, and JAX prevents repeated compilation costs in ephemeral environments.               |
+|   3 | Launching CUDA kernels is significantly more expensive than calling CPU functions, with overhead reaching three orders of magnitude higher.                                                          |
+|   4 | Kernel fusion allows multiple point-wise operations to be combined into a single kernel, reducing launch overhead and improving performance.                                                         |
+|   5 | GPU execution is asynchronous, allowing the CPU to continue processing or launch additional kernels while the GPU is busy, which helps hide latency.                                                 |
+|   6 | Synchronization points are expensive and should be minimized to prevent the CPU from stalling while waiting for GPU completion.                                                                      |
+|   7 | Unlike CPUs, which handle memory hierarchy automatically, GPUs require explicit management of data transfers and special memory spaces like shared memory.                                           |
+|   8 | Manual memory migration is often necessary on GPUs because automatic decisions can lead to significant performance penalties due to high latency and lack of built-in latency hiding.                |
+|   9 | GPUs are designed to maximize throughput rather than minimize latency, utilizing massive parallelism to process large volumes of data simultaneously.                                                |
+|  10 | Modern GPUs offer significantly higher memory bandwidth and parallel thread counts compared to CPUs, enabling them to utilize large data transfers efficiently.                                      |
+|  11 | Branching code is highly inefficient on GPUs because they lack the branch prediction and prefetching hardware optimizations found in CPUs.                                                           |
+|  12 | To optimize GPU performance, data should be structured to avoid branching, such as by sorting or chunking data so that all threads follow the same code path.                                        |
+|  13 | Floating-point arithmetic is non-associative, meaning parallel execution can produce slightly different results than sequential execution due to the order of operations.                            |
 |  14 | Deterministic modes in libraries like Torch and TensorFlow can provide consistent results during prototyping, though these guarantees do not persist across different hardware or software versions. |
-|  15 | When scheduling multiple concurrent kernels, developers must calculate resource allocation to ensure the GPU scheduler can execute them in parallel without exceeding hardware limits. |
-|  16 | Unified memory systems reduce the cost of data transfer between CPU and GPU, but peak performance still requires application-specific benchmarking. |
+|  15 | When scheduling multiple concurrent kernels, developers must calculate resource allocation to ensure the GPU scheduler can execute them in parallel without exceeding hardware limits.               |
+|  16 | Unified memory systems reduce the cost of data transfer between CPU and GPU, but peak performance still requires application-specific benchmarking.                                                  |
 
 # Video
 

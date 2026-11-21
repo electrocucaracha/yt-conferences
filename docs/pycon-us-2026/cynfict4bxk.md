@@ -31,29 +31,29 @@ The session concluded by reinforcing the accessibility of open-source quantized 
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Nvidia and Anaconda sponsored the PyCon AI track, offering resources like Spark DGX and local inference models. |
-|   2 | Quantization reduces model weight and activation precision to lower memory footprint and enable LLMs on laptops. |
-|   3 | QLoRA, developed by Tim Dettmers, uses quantization to facilitate lower-rank adaptations for efficient model training. |
+|   # | Main point                                                                                                                             |
+| --: | -------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Nvidia and Anaconda sponsored the PyCon AI track, offering resources like Spark DGX and local inference models.                        |
+|   2 | Quantization reduces model weight and activation precision to lower memory footprint and enable LLMs on laptops.                       |
+|   3 | QLoRA, developed by Tim Dettmers, uses quantization to facilitate lower-rank adaptations for efficient model training.                 |
 |   4 | K-bit quantization utilizes K-means clustering to group weights, preserving relationships and minimizing error in critical components. |
-|   5 | Different quantization levels (S, M, L, XL) compress varying degrees of model layers, trading off accuracy for size. |
-|   6 | Lower bit quantization, such as 2-bit, significantly degrades image and text quality compared to 16-bit or 8-bit versions. |
-|   7 | Major AI companies release LLMs, and open-source developers provide quantized versions on platforms like Hugging Face. |
-|   8 | GGUF and GGML are unified formats created by Georgi Gerganov for running quantized LLMs efficiently on local hardware. |
-|   9 | Bits and Bytes is a Python library supporting 8-bit block-wise quantization, easily installed via pip. |
-|  10 | Popular quantized models are provided by researchers like Unsloth, Tim Dobbins, and Butowski for free access. |
-|  11 | Perplexity measures model confidence and error; high perplexity indicates poor performance and confusion. |
-|  12 | Choosing the right quantization depends on model size, use case, and the balance between accuracy and memory constraints. |
-|  13 | Context length is often more critical than model weights for memory usage, requiring careful calculation of KV cache size. |
-|  14 | VRAM requirements can be calculated using parameter count, bits per weight, and context length to determine feasibility. |
-|  15 | Quantized LLMs are accessible via applications like LLaMA CPP, LM Studio, Ollama, and Local AI. |
-|  16 | The speaker’s thesis applied quantization techniques to mental health datasets, evaluating accuracy and memory trade-offs. |
-|  17 | Quantization-aware training (AWQ) is preferred by the speaker as it quantizes weights during training for better stability. |
-|  18 | 8-bit quantization was identified as the sweet spot for balancing memory savings and high accuracy in the speaker’s research. |
-|  19 | Models like LLaMA performed better under quantization compared to Gemma and Qwen, which showed higher perplexity. |
-|  20 | Sequential training of multiple LLMs allows researchers to compare memory footprint and accuracy across different models. |
-|  21 | The open-source community has made it easier for developers to run large models locally without specialized hardware. |
+|   5 | Different quantization levels (S, M, L, XL) compress varying degrees of model layers, trading off accuracy for size.                   |
+|   6 | Lower bit quantization, such as 2-bit, significantly degrades image and text quality compared to 16-bit or 8-bit versions.             |
+|   7 | Major AI companies release LLMs, and open-source developers provide quantized versions on platforms like Hugging Face.                 |
+|   8 | GGUF and GGML are unified formats created by Georgi Gerganov for running quantized LLMs efficiently on local hardware.                 |
+|   9 | Bits and Bytes is a Python library supporting 8-bit block-wise quantization, easily installed via pip.                                 |
+|  10 | Popular quantized models are provided by researchers like Unsloth, Tim Dobbins, and Butowski for free access.                          |
+|  11 | Perplexity measures model confidence and error; high perplexity indicates poor performance and confusion.                              |
+|  12 | Choosing the right quantization depends on model size, use case, and the balance between accuracy and memory constraints.              |
+|  13 | Context length is often more critical than model weights for memory usage, requiring careful calculation of KV cache size.             |
+|  14 | VRAM requirements can be calculated using parameter count, bits per weight, and context length to determine feasibility.               |
+|  15 | Quantized LLMs are accessible via applications like LLaMA CPP, LM Studio, Ollama, and Local AI.                                        |
+|  16 | The speaker’s thesis applied quantization techniques to mental health datasets, evaluating accuracy and memory trade-offs.             |
+|  17 | Quantization-aware training (AWQ) is preferred by the speaker as it quantizes weights during training for better stability.            |
+|  18 | 8-bit quantization was identified as the sweet spot for balancing memory savings and high accuracy in the speaker’s research.          |
+|  19 | Models like LLaMA performed better under quantization compared to Gemma and Qwen, which showed higher perplexity.                      |
+|  20 | Sequential training of multiple LLMs allows researchers to compare memory footprint and accuracy across different models.              |
+|  21 | The open-source community has made it easier for developers to run large models locally without specialized hardware.                  |
 
 # Video
 

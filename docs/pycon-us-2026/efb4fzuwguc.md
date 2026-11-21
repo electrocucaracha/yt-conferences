@@ -30,24 +30,24 @@ Consequently, teams should shift their focus from solely policing the deploy bou
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | The speaker, Constance, is a staff product manager at Astronomer, which builds a managed Apache Airflow platform. |
-|   2 | The talk analyzes 400 million production pipeline runs from 2025 to investigate the relationship between deploys and failures. |
-|   3 | The cohort-wide failure rate is 7%, but this is driven by a small tail where 3% of DAGs account for 67% of all failures. |
-|   4 | Most failures are not caused by recent code deploys but by runtime stranding, long-running workloads, and structurally broken pipelines. |
+|   # | Main point                                                                                                                                                        |
+| --: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | The speaker, Constance, is a staff product manager at Astronomer, which builds a managed Apache Airflow platform.                                                 |
+|   2 | The talk analyzes 400 million production pipeline runs from 2025 to investigate the relationship between deploys and failures.                                    |
+|   3 | The cohort-wide failure rate is 7%, but this is driven by a small tail where 3% of DAGs account for 67% of all failures.                                          |
+|   4 | Most failures are not caused by recent code deploys but by runtime stranding, long-running workloads, and structurally broken pipelines.                          |
 |   5 | A direct comparison of failure rates 24 hours before and after deploys shows no significant difference, indicating deploys are not the primary cause of failures. |
-|   6 | Deploys act as attention anchors that make pre-existing failures more noticeable rather than causing new ones. |
-|   7 | In data engineering, upstream data and constraints control the shape of the code, inverting the application development model where code controls behavior. |
-|   8 | CI/CD and code reviews effectively catch layer one errors like syntax and logic bugs, reducing dev failure rates from 15% to 7% in production. |
-|   9 | The remaining 7% production failure rate represents a structural floor caused by issues outside the codebase, such as schema drift and late data. |
-|  10 | A five-layer reliability framework is proposed, with layer one covering code correctness and layers two through five covering data, time, state, and recovery. |
-|  11 | Most software engineering tooling focuses on layer one, while the majority of data engineering failures occur in layers two through five. |
-|  12 | Teams should contract test inputs for schema and freshness rather than just testing code logic. |
-|  13 | Time should be treated as a first-class concern by instrumenting SLA misses and late-arriving data as failures. |
-|  14 | Systems should be designed for graceful degradation, including dead letter paths and idempotent backfills, to handle unexpected inputs. |
-|  15 | Teams should identify and triage chronically broken DAGs separately to prevent them from skewing overall reliability metrics. |
-|  16 | The core takeaway is that time and data state are primary failure surfaces, not edge cases, and must be addressed to improve reliability. |
+|   6 | Deploys act as attention anchors that make pre-existing failures more noticeable rather than causing new ones.                                                    |
+|   7 | In data engineering, upstream data and constraints control the shape of the code, inverting the application development model where code controls behavior.       |
+|   8 | CI/CD and code reviews effectively catch layer one errors like syntax and logic bugs, reducing dev failure rates from 15% to 7% in production.                    |
+|   9 | The remaining 7% production failure rate represents a structural floor caused by issues outside the codebase, such as schema drift and late data.                 |
+|  10 | A five-layer reliability framework is proposed, with layer one covering code correctness and layers two through five covering data, time, state, and recovery.    |
+|  11 | Most software engineering tooling focuses on layer one, while the majority of data engineering failures occur in layers two through five.                         |
+|  12 | Teams should contract test inputs for schema and freshness rather than just testing code logic.                                                                   |
+|  13 | Time should be treated as a first-class concern by instrumenting SLA misses and late-arriving data as failures.                                                   |
+|  14 | Systems should be designed for graceful degradation, including dead letter paths and idempotent backfills, to handle unexpected inputs.                           |
+|  15 | Teams should identify and triage chronically broken DAGs separately to prevent them from skewing overall reliability metrics.                                     |
+|  16 | The core takeaway is that time and data state are primary failure surfaces, not edge cases, and must be addressed to improve reliability.                         |
 
 # Video
 

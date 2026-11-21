@@ -30,30 +30,30 @@ Finally, the talk highlights Ty’s sophisticated diagnostic system, which lazil
 
 # Main Points
 
-|   # | Main point |
-| --: | ---------- |
-|   1 | Ty is a Python type checker and language server developed by Astral, which is now part of OpenAI. |
-|   2 | The tool operates as a command-line checker for static analysis and as an LSP server providing real-time feedback in editors. |
+|   # | Main point                                                                                                                         |
+| --: | ---------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Ty is a Python type checker and language server developed by Astral, which is now part of OpenAI.                                  |
+|   2 | The tool operates as a command-line checker for static analysis and as an LSP server providing real-time feedback in editors.      |
 |   3 | Ty prioritizes speed through a lazy, query-based architecture that computes only the necessary information for requested feedback. |
-|   4 | Fine-grained laziness allows Ty to check only the minimal portion of dependencies used by the code, ignoring unused parts. |
-|   5 | Salsa, a Rust library for incremental computation, manages caching and invalidation to avoid stale results and redundant work. |
-|   6 | Salsa uses a dependency graph where queries are automatically memoized and invalidated only when their inputs change. |
-|   7 | Semantic indexing extracts control flow information from a single file in isolation to prevent cross-file invalidation. |
-|   8 | Use-def chains record live bindings for variables to track possible values at specific points in control flow. |
-|   9 | Semantic indexing records pointers to AST nodes and narrowing conditions rather than resolving types immediately. |
-|  10 | Type inference uses live bindings to determine variable types, creating unions for multiple possible bindings. |
-|  11 | Narrowing conditions from control flow create intersection types, representing values that satisfy multiple constraints. |
-|  12 | Set-theoretic types include unions, intersections, and negations, which map directly to set theory concepts. |
-|  13 | Ty normalizes types into disjunctive normal form, allowing intersections inside unions but not vice versa. |
-|  14 | Union filtering for sum types is achieved through general intersection type simplification rather than special casing. |
-|  15 | Diagnostics include severity levels, codes, summaries, and detailed context such as related code locations. |
-|  16 | Ty performs a "five whys" analysis to provide nested explanations for complex assignability errors. |
-|  17 | Diagnostic context collection is lazy to avoid performance overhead when errors are not present or suppressed. |
-|  18 | The "possibly unresolved reference" diagnostic is disabled by default due to the difficulty of avoiding false positives. |
-|  19 | Ty is MIT licensed and developed in the open, welcoming contributions from the community. |
-|  20 | Support for frameworks like Django is currently evaluated through improved stubs rather than built-in special cases. |
-|  21 | Ty experiments with non-standard typing features like intersection types to test their practical utility. |
-|  22 | Dynamic attribute checks using variables work if the variable has a literal string type, otherwise no narrowing occurs. |
+|   4 | Fine-grained laziness allows Ty to check only the minimal portion of dependencies used by the code, ignoring unused parts.         |
+|   5 | Salsa, a Rust library for incremental computation, manages caching and invalidation to avoid stale results and redundant work.     |
+|   6 | Salsa uses a dependency graph where queries are automatically memoized and invalidated only when their inputs change.              |
+|   7 | Semantic indexing extracts control flow information from a single file in isolation to prevent cross-file invalidation.            |
+|   8 | Use-def chains record live bindings for variables to track possible values at specific points in control flow.                     |
+|   9 | Semantic indexing records pointers to AST nodes and narrowing conditions rather than resolving types immediately.                  |
+|  10 | Type inference uses live bindings to determine variable types, creating unions for multiple possible bindings.                     |
+|  11 | Narrowing conditions from control flow create intersection types, representing values that satisfy multiple constraints.           |
+|  12 | Set-theoretic types include unions, intersections, and negations, which map directly to set theory concepts.                       |
+|  13 | Ty normalizes types into disjunctive normal form, allowing intersections inside unions but not vice versa.                         |
+|  14 | Union filtering for sum types is achieved through general intersection type simplification rather than special casing.             |
+|  15 | Diagnostics include severity levels, codes, summaries, and detailed context such as related code locations.                        |
+|  16 | Ty performs a "five whys" analysis to provide nested explanations for complex assignability errors.                                |
+|  17 | Diagnostic context collection is lazy to avoid performance overhead when errors are not present or suppressed.                     |
+|  18 | The "possibly unresolved reference" diagnostic is disabled by default due to the difficulty of avoiding false positives.           |
+|  19 | Ty is MIT licensed and developed in the open, welcoming contributions from the community.                                          |
+|  20 | Support for frameworks like Django is currently evaluated through improved stubs rather than built-in special cases.               |
+|  21 | Ty experiments with non-standard typing features like intersection types to test their practical utility.                          |
+|  22 | Dynamic attribute checks using variables work if the variable has a literal string type, otherwise no narrowing occurs.            |
 
 # Video
 
