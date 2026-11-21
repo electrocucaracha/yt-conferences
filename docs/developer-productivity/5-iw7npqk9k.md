@@ -1,5 +1,7 @@
 ---
+layout: default
 title: You're Testing WHAT? • Gojko Adzic • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses how advances in technology and cloud computing

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The 5 Pillars of Collaborative Product Ownership • John Le Drew • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker, John LeDrew, discusses the five pillars of collaborative

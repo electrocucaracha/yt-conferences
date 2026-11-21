@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes SIG Storage: Intro & Deep Dive - Xing Yang, Michelle Au, Hemant
   Kumar"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session, led by members of SIG Storage from organizations like VMware,

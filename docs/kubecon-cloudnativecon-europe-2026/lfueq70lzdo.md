@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Data on Kubernetes Day: Tuning Elastic on Kube... Luuk
   Stolk and Artur Gromek"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Arthur Groc and Luke Stalk from ING describe their experience

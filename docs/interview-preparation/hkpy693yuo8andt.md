@@ -1,5 +1,7 @@
 ---
+layout: default
 title: If I Were Looking For A Tech Job in 2026
+parent: "Interview Preparation"
 type: Video Note
 description:
   To stand out in the job market, one must shift their focus from showcasing

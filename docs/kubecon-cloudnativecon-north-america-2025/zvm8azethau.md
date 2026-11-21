@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Confidential Observability on Kubernetes: Protecting Telemetry End-to-End-
   Jitendra Singh, Microsoft"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Jitendra Singh introduces the topic of confidential observability on

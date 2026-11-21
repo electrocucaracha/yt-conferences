@@ -1,5 +1,7 @@
 ---
+layout: default
 title: An Introduction to Capture The Flag
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Fabian and John from Control Plane introduce an upcoming Capture the

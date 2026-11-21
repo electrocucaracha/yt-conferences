@@ -1,5 +1,7 @@
 ---
+layout: default
 title: End-to-End Security With gRPC in Kubernetes - Shiva & Abhishek Agrawal, Google
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this CubeCon Atlanta session, Abhishek and Shiva from Google’s GPC

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] From Embeddings to Edges: A Graph Based Approach to Tool Selection"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The speaker discusses challenges in tool call selection within MCP (Multi-Connector

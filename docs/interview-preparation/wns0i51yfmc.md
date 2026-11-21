@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Contact Hiring Managers Effectively | Job Search Tips
+parent: "Interview Preparation"
 type: Video Note
 description:
   She recommends connecting with 20 people per day on LinkedIn, focusing

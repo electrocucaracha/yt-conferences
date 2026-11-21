@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Managing Netflix’s Compute Infrastructure With Kubernetes and Dynamic... Charles
   Zheng & Nick Parker
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Charles and Nick from Netflix's compute platform

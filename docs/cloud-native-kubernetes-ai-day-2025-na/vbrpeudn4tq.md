@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "KServe Next: Advancing Generative AI Model Serving - Yuan Tang, Red Hat &
   Dan Sun, Bloomberg"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   The video features Yan Tan from Red Hat and Dan from Bloomberg introducing

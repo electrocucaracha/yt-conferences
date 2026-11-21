@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Introduction to OpenAPI • Lorna Jane Mitchell • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   Lorna, a developer advocate at Next MOU (now Vonage), discusses the importance

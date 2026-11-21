@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Explain How Kubernetes Works With GPU Like I’m 5 - Carlos Santana, AWS
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Carlos Santana, a CNCF ambassador, shares his experience of learning

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Generative AI Model Data Pre-Training on Kubernetes: A Use Case St... Alexey
   Roytman & Anish Asthana"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Anish Astana, an engineering manager at Red Hat's Open Shift AI group,

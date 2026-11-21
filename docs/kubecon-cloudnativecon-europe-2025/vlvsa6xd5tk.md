@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: The Cloud (And Your $$$) is Not Infinite: Dyna... Corentin
   Debains & Laura Lorenz"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Kubernetes is evolving to address emerging AI and ML needs by introducing

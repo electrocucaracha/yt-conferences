@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Five Minutes by CloudNativePG River - Gabriele Quaresima,
   Contributor"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Gabriel Quarisima, a staff engineer and CloudNativePG contributor, introduces

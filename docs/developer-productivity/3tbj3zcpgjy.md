@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Modern Platform Engineering: 9 Secrets of Generative Teams • Liz Fong-Jones
   • GOTO 2023"
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the importance of creating a generative culture

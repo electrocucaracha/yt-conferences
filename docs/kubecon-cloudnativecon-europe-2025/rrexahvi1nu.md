@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: What’s New in Kuma: Advanced Service Mesh Capabilities
   - Marcin Skalski"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Martin from Kong discusses the latest updates in Kuma, an envoy-based

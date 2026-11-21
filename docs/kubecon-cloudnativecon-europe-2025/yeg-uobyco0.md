@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "A Fork to Reckon With: Minimizing Friction When Adopting... Alexander Perlman
   & Narayanamurthi Mari"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the importance of avoiding "NIH" (Not Invented

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Wasm Whiplash: WasmCloud's Wild Ride To Standards - Brooks Townsend, Cosmonic"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker is a senior software engineer at Cosmonic, discussing their

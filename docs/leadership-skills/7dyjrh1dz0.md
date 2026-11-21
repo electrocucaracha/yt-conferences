@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Moving From Individual Contributor to Managing Remote Team of Engineers | Interview
   Vince Marvin
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Vince Marvin discusses his recent promotion to his first

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "How to Integrate Your Brain (Guided Practices) | Sandra Suter: Growth Session
   #2"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta charla, se explica cómo el cerebro humano está compuesto por

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Smoothed and Anchored Rate Calculation in PromQL - Björn Rabenstein, Grafana
   Labs
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   "Bern from Kofana Labs discusses recent advancements in Prometheus rate

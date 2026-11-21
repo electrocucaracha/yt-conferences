@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "GitOps and the Manifest Dilemma: Helm, Kustomize, Crossplane, Kro, and Beyond
   - Dag Bjerre Andersen"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The talk discusses GitOps and the manifest dilemma, focusing on templating

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | KubeVirt Summit: Achieving 10× Faster VM Migration
   to Kube... Ryosuke Tatsumi"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Ryosuke Tatsumi, chief researcher at Hitachi America, discusses the challenges

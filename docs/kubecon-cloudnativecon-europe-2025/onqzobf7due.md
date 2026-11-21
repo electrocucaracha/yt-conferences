@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   A Practical Guide To Benchmarking AI and GPU Workloads in Kubernetes - Yuan
   Chen & Chen Wang
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Yen Chen from Nvidia introduces the use of the Nvidia DJX cloud to build

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Sponsored Keynote: Evolving the Kubernetes User Experience - Andrew Randall"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the challenges of scaling Kubernetes adoption,

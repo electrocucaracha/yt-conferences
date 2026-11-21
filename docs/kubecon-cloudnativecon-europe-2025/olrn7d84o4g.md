@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "A Practical Guide To Cloud Native Solutions: Demonstrating ROI and... Danielle
   Cook & Simon Forster"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video discusses the challenges of investing in cloud-native solutions,

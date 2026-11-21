@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "API-Driven Infrastructure as Code: Kubernetes APIs as the Con... Florian Hopfensperger
   & Yury Tsarev"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Florian Hoffinsburgger and Yuri from Abound discuss building

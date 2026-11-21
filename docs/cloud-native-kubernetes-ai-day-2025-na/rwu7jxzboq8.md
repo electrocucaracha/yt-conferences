@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "This Lying Has To Stop: Keeping AI Honest with OpenTelemetry - Whitney Lee,
   Datadog"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   The speaker introduces Commit Story, an automated engineering journal

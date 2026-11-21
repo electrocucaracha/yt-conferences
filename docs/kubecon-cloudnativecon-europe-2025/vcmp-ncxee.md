@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "SIG API Machinery: Project Updates and Release Planning - Joe Betz, Google"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The SIG API Machinery is a broad cross-cutting Special Interest Group

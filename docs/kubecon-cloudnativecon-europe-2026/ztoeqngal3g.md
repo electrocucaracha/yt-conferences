@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "AI-Powered Cloud Native Modernization: From Real Challe... Savitha R, Daniel
   O, Kenneth K & Duncan D"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel discussion focused on the challenges and strategies of AI-powered

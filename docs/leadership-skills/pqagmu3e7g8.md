@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Why Engineering Managers and Technical Leaders Struggle With Giving Negative
   Feedback | 10 Reasons
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard addresses the common challenges engineering

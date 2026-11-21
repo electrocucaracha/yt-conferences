@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Navigating the Rapid Evolution of Large Mod... Jiaxin Shan, Yuan Tang, Sergey
   Kanzhelev & Rita Zhang
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session, led by members from Google, Red Hat, Bance, and Microsoft,

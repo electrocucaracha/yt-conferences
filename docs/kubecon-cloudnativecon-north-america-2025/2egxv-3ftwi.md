@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   What's New With Kubectl and Kustomize... Marly Salazar, Arda Guclu, Maciej
   Szulik & Eddie Zaneski
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Kubernetes SIG CLI is responsible for developing and maintaining

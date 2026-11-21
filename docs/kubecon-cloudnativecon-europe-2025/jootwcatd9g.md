@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Kubernetes Data Protection WG Deep Dive - Dave Smith-Uchida, Veeam
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Kubernetes data protection working group aims to address the limitations

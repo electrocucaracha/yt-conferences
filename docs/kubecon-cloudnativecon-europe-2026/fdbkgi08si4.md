@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Cloud Native University: AI + Kubernetes: What Beginners...
   Michael Forrester"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses the evolving landscape of AI workloads and Kubernetes,

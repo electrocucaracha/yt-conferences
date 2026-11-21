@@ -1,5 +1,6 @@
 ---
 title: Human in the Loop, Agent in the Flow - Harald Kirschner & Connor Peet, Microsoft
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   The speakers discuss how modern agent interfaces, particularly in VS

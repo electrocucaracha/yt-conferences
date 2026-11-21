@@ -2,6 +2,7 @@
 title:
   "Keynote: One-To-Many: Enabling MCP, Agents, and Intelligent Systems... Ola
   Hungerford & Sandeep Bhat"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   Ola Hungerford and Sandeep from Nordstrom’s AI Enablement team discuss

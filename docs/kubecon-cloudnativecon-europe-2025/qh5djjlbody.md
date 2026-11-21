@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Optimizing Model Serving on Kubernetes With Model Streaming - Ekin Karabulut
   & Ronen Dar, Run:ai
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses optimizing model serving inference on a Kubernetes

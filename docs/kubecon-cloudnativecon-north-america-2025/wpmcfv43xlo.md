@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Kubestronaut To Production Hero: Turning Study Paths Into Real-W... David
   Pech & Pedro Célestin"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Pedro Celestan and David, both members of the first batch of "golden

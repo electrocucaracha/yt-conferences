@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Kueue: Save Some QPS for the Rest of Us! How To Manage 100k
   Updates Pe... P. Bundyra"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Google engineers have been developing Q, a cloud-native queuing system

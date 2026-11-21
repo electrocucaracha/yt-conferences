@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Autoscaling GPU Clusters Anywhere — Hyperscalers, Neoclouds
   & Ba... Lukas Gentele"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   The speaker discusses the challenges of providing Kubernetes access on

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Welcome + Opening Remarks - Chris Aniszczyk, CTO, Cloud Native Computing
   Foundation"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Cloud Native Computing Foundation (CNCF) has reached its 10-year

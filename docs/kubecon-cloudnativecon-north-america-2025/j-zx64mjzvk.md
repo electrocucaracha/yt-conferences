@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Fix First, Investigate Later: When an eBPF Rollout Brought Down Our... Zain
   Malik & Grzegorz Głąb"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The team investigated a network outage caused by an EBPF rollout, which

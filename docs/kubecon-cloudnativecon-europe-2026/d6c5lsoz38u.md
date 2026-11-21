@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Inside Saxo Service Blueprint: Implementing Kubernetes Operators for Legacy
   Ent... Oskar Kristiansen"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Oscar Christensen, a senior enterprise platform engineer at Saxo Bank,

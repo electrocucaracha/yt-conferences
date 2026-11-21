@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Making Kubernetes for AI Optimized and Reproducible - Nathan Taber
   & Mark Chmarny"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Nathan Taber and Mark Smalley from Nvidia discuss their efforts to simplify

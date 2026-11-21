@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Protect your Kubernetes Clusters with Ratify and Attestations
   - Yi Zha"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Ratify project is a sandbox verification engine that safeguards the

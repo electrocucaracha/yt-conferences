@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 3: Learning II"
+parent: "Stanford Cs221 Artificial Intelligence Principles"
 type: Video Note
 description:
   In this lecture, the instructor builds on previous discussions of linear

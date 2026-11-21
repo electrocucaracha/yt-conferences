@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Keynote] Engineering the Future-Making MCP Enterprise Ready for Finance -
   Shawn Edwards, Bloomberg"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The speaker introduces Laughlinberg as a global provider of business

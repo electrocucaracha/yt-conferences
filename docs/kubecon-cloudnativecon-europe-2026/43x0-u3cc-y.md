@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Platform Mesh: Breaking API Lock-In for True Multi-Cloud Service... Mirza
   Kopic & Mangirdas Judeikis"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Ma Kopich from SAP and MJ from Clyiso introduce Platform Mesh, a toolkit

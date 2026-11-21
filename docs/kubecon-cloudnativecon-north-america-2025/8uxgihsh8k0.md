@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Who Wants To Secure Clusters ? - Henrik Rexed & Simon Reisinger, Dynatrace
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video is a live quiz show where contestants compete to win prizes

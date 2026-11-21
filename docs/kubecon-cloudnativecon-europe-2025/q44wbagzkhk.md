@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "gRPC: 5 Years Later, Is It Still Worth It? - Konstantin Ostrovsky, Torq.io"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Constantine, is the chief architect at Torque, a cybersecurity

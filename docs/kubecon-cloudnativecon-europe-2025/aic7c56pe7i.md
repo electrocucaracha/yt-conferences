@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Beyond Security: Leveraging OPA for FinOps in Kubernetes - Sathish Kumar Venkatesan"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Satishh Kumar Wingen, a Canadian DevOps expert, discusses leveraging

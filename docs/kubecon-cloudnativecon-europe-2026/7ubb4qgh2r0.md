@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Amplifying End User Voices: Platform Architects on the... Rajas K, Zach S,
   Kevin K, Elias T & Dawn C"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel discussion brought together platform architects and engineers

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Building a Closed-Source AI DevTool for Open Source and Enterprise - Devin
   Stein, Dosu
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Devin Stein, founder and CEO of DOSU, discusses the rationale and success

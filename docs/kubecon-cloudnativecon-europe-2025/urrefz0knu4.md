@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Consistent Volume Group Snapshots, Unraveling the Magic - Leonardo Cecchi,
   EDB & Xing Yang
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Shining, a principal software engineer at EDB, introduces the concept

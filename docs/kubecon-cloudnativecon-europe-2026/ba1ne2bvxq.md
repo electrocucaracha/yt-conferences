@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Cloud Native in Europe: Regulation, Sovereignty, and the Future of
   Open Collab... Jan Melen"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses how the concept of digital sovereignty, particularly

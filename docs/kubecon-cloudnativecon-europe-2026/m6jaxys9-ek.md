@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Enterprise-Scale Migrations Using Agentic Workflows with Human-in... Alvaro
   Saurin & Jose M Navarro
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Albert Saurin and Jose Manuel Navaro, senior software engineers at Adobe,

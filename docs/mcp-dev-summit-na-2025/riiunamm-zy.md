@@ -1,5 +1,7 @@
 ---
+layout: default
 title: MCP Developers Summit Highlights - May 23, 2025
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   The speaker expresses enthusiasm about staying current with advancements

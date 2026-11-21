@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Perses: Update - Augustin Husson, Maintainer"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Augugusta, a maintainer of the Pers project, provides an update on its

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: What Can Crossplane Actually Do? A Real World Feel.
   Jonasz Łasut-Balcerzak"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Yonwas Baleshak from the Swiss insurance company Baloas discusses the

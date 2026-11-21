@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   ¿Por qué algunas personas impactan cuando hablan y otras no? Elisa Mass – Sesión
   33
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este video, la especialista en voz Elisa Más explica que todos tienen

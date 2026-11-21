@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Navigating the Gateway API Maze: 40+ Implementations, 55+ Features... Beka
   Modebadze & Christine Kim"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation, "Navigating the Gateway API Maze," discusses the evolution

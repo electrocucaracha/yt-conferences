@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Future of Data on Kubernetes... Rob Strechay, Nimisha Mehta, Gabriele Bartolini
   & Brian Kaufman
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The panel discussion on data management in Kubernetes focused on the

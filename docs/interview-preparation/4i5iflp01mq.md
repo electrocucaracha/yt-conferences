@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Three Things Preventing Your Promotion to Senior Engineer (from a Principal
   at Amazon)
+parent: "Interview Preparation"
 type: Video Note
 description:
   "He identifies four universal traits: being technically deep, delivering

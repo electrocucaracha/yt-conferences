@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Modelpack: Standardizing The Packaging And Distribution
   Of... Andrew Block"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker introduces Model Pack, a vendor-neutral, open standards project

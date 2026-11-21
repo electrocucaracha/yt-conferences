@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Why You Should Look Into Low Code • Christoph Windheuser • GOTO 2022
+parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=MBKeKso6mtw

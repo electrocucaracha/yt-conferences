@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Lessons Learned Orchestrating Multi-Tenant GPUs on OpenShift AI with NVIDIA
   KAI (G/H2... Luca Berton
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Luca Berton outlines a practical approach to building

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Instantly Better Presentations • Damian Conway • YOW! 2014
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker emphasizes the importance of effective communication in presentation

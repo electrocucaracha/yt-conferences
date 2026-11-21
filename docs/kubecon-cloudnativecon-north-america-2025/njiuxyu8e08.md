@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Accelerating Innovation: The Evolution of Kubernetes and
   the Road A... J. Macleod"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   JGO Mloud, lead open source Kubernetes at Google, gave an update on the

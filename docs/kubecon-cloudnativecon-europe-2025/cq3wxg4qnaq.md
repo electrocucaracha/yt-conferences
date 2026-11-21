@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Scale Smarter Not Harder: How Extending Cluster Autoscaler Saves Mi... Rahul
   Rangith & Ben Hinthorne"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=CQ3Wxg4qNaQ

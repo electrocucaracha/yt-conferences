@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | EnvoyCon: Inside Spotify’s Envoy Architecture: What
   We Le... Leonardo da Mata"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Leonardo Damata, an engineer at Spotify, shared insights from migrating

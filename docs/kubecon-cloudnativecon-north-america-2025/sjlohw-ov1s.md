@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Closing Remarks - Day 02"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video transcript highlights various activities and events taking

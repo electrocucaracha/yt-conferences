@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Return of the Mesh: Gateway API's Epic Quest for Unity - Henrik Rexed, Dynatrace"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker, Henrik Cruxed, introduces a comparative analysis of service

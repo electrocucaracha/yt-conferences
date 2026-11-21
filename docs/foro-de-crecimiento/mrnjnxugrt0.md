@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en Neurociencia: ¡Tu sistema nervioso es la clave de tu éxito! | Marco
   Ratti #44"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta conversación, Marco Rati, neurocientífico y terapeuta, explica

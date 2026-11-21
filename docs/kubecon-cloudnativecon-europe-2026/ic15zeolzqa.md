@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The 10x DevOps Engineer’s Toolkit: Argo CD + AI-Dr... Alexander Matyushentsev
   & Leonardo Luz Almeida"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation from the Argo maintainers track at KubeCon, Leonardo

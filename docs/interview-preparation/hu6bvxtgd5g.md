@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Don't Get Down-Leveled or How to Tell a Good Story (From a Principal at Amazon)
+parent: "Interview Preparation"
 type: Video Note
 description:
   Down leveling occurs when companies extend an offer at a lower level

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Meta’s Kubernetes-based Portable AI Research Environment - Shaun Hopper, Meta
   & Navarre Pratt
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Navar Pratt from CoreWeave and Sean Hopper from Meta describe

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Deal With a Toxic Boss Without Quitting | Do These 3 Things | Advice
   from Engineering Manager
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard discusses the detrimental effects of working

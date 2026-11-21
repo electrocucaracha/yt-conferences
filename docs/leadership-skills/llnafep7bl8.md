@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Time Management Tips for Engineering Managers and Tech Leaders!
+parent: "Leadership Skills"
 type: Video Note
 description:
   The video discusses why engineering managers and technical leaders often

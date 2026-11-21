@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Supercharge Your Canary Deployments With Argo Rollouts St... Kostis Kapelonis
   & Alexandre Gaudreault
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Argo Rollouts has introduced a new feature called Canary Steps, which

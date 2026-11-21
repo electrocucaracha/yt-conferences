@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Lightning Talk: There Is a New Volume Type in Town! - Mario Loriedo, Red Hat"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Mario, a software engineer at Red Hat, discusses the introduction of

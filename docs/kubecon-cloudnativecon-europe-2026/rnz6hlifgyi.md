@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Redis on EC2 to Valkey on Kubernetes: A Zero-Downtime Case Study - Joe Heyburn,
   Braze"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Joe Hayburn, a staff engineer at Braze, describes how his team migrated

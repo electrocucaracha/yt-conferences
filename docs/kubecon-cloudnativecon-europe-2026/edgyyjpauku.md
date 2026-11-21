@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Advancing Kubernetes AI Conformance: Current State and Road... Yuan Tang,
   Mario Fahlandt & Janet Kuo"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The Kubernetes AI Conformance program, led by representatives from Google,

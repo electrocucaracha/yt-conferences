@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: From Pilot to Production: Scaling and Optimizing Agen...
   Idit Levine & Keith Babo"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses the challenges AI developers face in moving from

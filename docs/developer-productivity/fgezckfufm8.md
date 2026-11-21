@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Productivity Panel • C. Majors, B. Böckeler, M. Greiler, D. Terhorst-North
   & J. Lewis • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   The discussion revolves around developer productivity, measuring it,

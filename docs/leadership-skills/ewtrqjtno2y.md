@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Overcoming Burnout in Engineering & Tech | Strategies to Thrive in Your Career
   and Wellbeing
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this episode, the host interviews Richard Donovan, a former software

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Técnicas de Ventas y PNL: La Psicología Secreta para Cerrar Más | Marcelo
   Yaguna | Sesión 38"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Marcelo Yaguna, empresario y coach, comparte cómo

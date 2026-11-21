@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Your Application, Batteries In... Brandt K, Austin A, William C,
   Merijn K & Jessica K-D"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video presents a tutorial session on Zarf, an open-source air gap

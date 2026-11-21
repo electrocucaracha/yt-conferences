@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "On the Origin of Platforms: Evolution of a Capital One Enterprise. Bradley
   Whitfield & Jacob Walden"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   "In this talk, Brad Whitfield and Jake Walden from Capital One describe

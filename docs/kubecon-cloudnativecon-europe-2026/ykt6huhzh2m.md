@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Metal3.io’s Path to CNCF Incubation: Governance, Processes, and Comm... Kashif
   Khan & Dmitry Tantsur"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The talk details the journey of the metalcube.io project from CNCF sandbox

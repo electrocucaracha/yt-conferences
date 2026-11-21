@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Taming 50 Billion Time Series: Operating Global-Scale Prometheus Dep... Orcun
   Berkem & Alan Protasio"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses operating global-scale Prometheus deployments on

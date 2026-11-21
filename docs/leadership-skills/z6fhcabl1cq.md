@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Motivate an Underperforming Direct Report in 1 Conversation | Leadership
   Training
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard addresses the challenge of helping a younger

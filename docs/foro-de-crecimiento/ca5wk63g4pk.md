@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "El experto que está ayudando a cientos de empresas a crecer en 2026 | Rafa
   Rojas #45"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   "En este video se aborda por qué el 68% de los emprendimientos en México

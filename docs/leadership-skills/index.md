@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Leadership Skills"
+has_children: true
+nav_order: 13
+okf_version: "0.2"
+---
+
 # Leadership Skills
 
 ## Executive Overview

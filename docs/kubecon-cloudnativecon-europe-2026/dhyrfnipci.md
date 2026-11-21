@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: From Complexity to Clarity: Engineering an Invisible Kubernetes
   - Jesse Butler"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses the foundational role of Kubernetes in managing

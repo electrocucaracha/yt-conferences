@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "KubeEdge Graduation Journey: Creating a Diverse and Collaborative Open S...
   Yue Bao & Hongbing Zhang"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Hongang, introduces Kubage, an open-source cloud-native

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "35 AÑOS de EXPERIENCIA en Redes de Mercadeo Resumidos en 1 HORA | Sesión #11
   con Lourdes Enríquez \U0001F680"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Lourdes Enríquez comparte su experiencia de más de

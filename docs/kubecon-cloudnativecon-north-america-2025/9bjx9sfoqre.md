@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Anatomy of a Kubernetes Scheduler: Narrate Workloads Priority in Sequence
   - Hoon Jo, Megazone"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker introduces a beginner-level session focused on Kubernetes,

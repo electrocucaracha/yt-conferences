@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   '"Izzy Saves the Birthday" - A Story-Driven Live Demo Exploring the Ma... Lin
   Sun & Faseela Kundattil'
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Facila, a member of the CNCF TOC and cloud native developer at Ericson,

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Diagnosing Application Performance With EBPF, Pyroscope, and Kubernetes - Liam
   Mackie
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Liam, a lead cloud engineer from Octopus Deploy, shares his experience

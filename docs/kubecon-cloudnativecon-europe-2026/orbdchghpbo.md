@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Building the Next Generation of Multi-Cluster with Gateway API - Mike Morris
   & Alan Grosskurth
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Mike from Microsoft and Alan from Google discuss the evolution

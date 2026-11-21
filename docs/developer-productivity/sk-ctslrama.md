@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Log Analytics: Understanding Complex Systems at Scale • Kresten Krab Thorup
   • GOTO 2020"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Kristen, CTO at Humio, discusses log analytics and its importance in

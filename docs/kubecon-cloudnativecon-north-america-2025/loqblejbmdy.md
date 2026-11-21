@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Getting up To Date With Docsy: The Ku... Natali Vlatko, Rey Lejano, Divya
   Mohan & Sayak Mukhopadhyay"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video features members of the Kubernetes SIG Docs team—Ray Laano,

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: KubeEdge Updates and Use Cases In Multiple Scenarios
   - Hongbing Zhang"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Hungin provides an update on the KubeEdge project, an open-source cloud-native

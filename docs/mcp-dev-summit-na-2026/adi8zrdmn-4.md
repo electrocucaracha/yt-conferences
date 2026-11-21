@@ -1,5 +1,6 @@
 ---
 title: Threat Modeling Authorization in MCP - Sarah Cecchetti, OpenID Foundation
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   The speaker, Sarah Jetty, discusses threat modeling and authorization

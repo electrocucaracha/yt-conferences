@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Istio Day: Zero-Downtime Migration from ingress-nginx
   to Isti... Joe Abellard"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Joe, a senior software engineer at Bloomberg, presents on executing a

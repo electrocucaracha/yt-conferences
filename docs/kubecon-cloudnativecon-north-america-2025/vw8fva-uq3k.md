@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   SIG Scheduling Intro & Updates - Kensei Nakada, Independent & Dominik Marciński,
   Google
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Ken and Dominic, maintainers of the Kubernetes SIG Scheduling group,

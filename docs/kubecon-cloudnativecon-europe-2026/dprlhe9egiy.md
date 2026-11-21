@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Improving Pod Disruption and Node Lifecycle - Filip Křepinský, Lucy Sweet &
   Ryan Hallisey
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Lucy from Uber, Philip from Red Hat, and Ryan from

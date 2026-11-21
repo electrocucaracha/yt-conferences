@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Streamlined Efficiency: Unshackling Kubernetes Image Volumes for Rapid AI
   Model... E. Rey & Y. Yuan"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=nHGzMmstR0E

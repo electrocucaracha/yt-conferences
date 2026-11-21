@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The KEP Lifecycle: How the Release Team Guides Enhanceme... Kat C, Sreeram
   V, Rayan D & Subhasmita S"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video features a panel of Kubernetes release team members who explain

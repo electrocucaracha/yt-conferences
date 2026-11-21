@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Building Cloud Native Agentic Workflows on Kubernetes for Prevent... Benjamin
   Consolvo & Daron Yöndem
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Ben Consalo, an AI engineer at AMD, presented a cloud-native preventive

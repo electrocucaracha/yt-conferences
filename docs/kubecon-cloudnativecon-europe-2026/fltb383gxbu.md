@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "A Tale of Two KEPs: How the Community is Taming Kubernetes' CrashLoopBackoff
   - Yang Li, Google"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Yang, a technical solutions engineer at Google Cloud, shares his experience

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "What Happens in Kubernetes SIG Scalability: Intro + DeepDive - Wojciech Tyczyński,
   Google"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Voytech Tachinski, a technical lead for the Kubernetes SIG Scalability,

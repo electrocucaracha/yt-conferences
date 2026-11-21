@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Simplifying Cloud-Native Security: eBPF-Powered Encryption
   in... Muyang Tian"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 4 sentences.
 resource: https://www.youtube.com/watch?v=D7vwFFeEn00

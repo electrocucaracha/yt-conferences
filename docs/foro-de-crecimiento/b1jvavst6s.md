@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Negociador de la policía: los secretos del lenguaje corporal para leer a cualquiera
   | Juan García"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa entrevista, Juan Manuel García, experto en ciencias del

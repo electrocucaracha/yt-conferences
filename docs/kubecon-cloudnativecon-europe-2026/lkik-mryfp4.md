@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Argo CD Source Hydrator: Rendered Manifests Made Easy!
   - Michael Crenshaw"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Michael Crenshaw, a senior staff software engineer at Intuit and lead

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Flink on Karmada: Building Resilient Data Pipelines on Multi-Cluster K8s -
   Michas Szacillo & Wang Li"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speakers from Bloomberg discuss their experience with Flink on Carmada,

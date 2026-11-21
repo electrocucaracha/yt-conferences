@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Communication expert: The problem isn't your idea, it's how you communicate
   it | Paco Benítez"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este episodio, los anfitriones y el invitado Paco Benítez, reconocido

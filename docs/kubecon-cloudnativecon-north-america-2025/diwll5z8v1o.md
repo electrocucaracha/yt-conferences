@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Intelligent LLM Routing: A New Paradigm for Multi-Model AI Orchestration...
   Chen Wang & Huamin Chen"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session introduces an open-source project called VM Semantic Router,

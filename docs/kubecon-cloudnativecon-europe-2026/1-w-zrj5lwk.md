@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: OpenFGA For Agents: Safe Delegation In 5 Minutes -
   Andres Aguiar, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Andreas, an OpenFGA maintainer, presents on behalf of Sedant, introducing

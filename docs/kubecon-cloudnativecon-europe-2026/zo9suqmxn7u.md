@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | EnvoyCon: The End of a De... Erica H, Kateryna N, Yan
   A, Rohit A & Leonardo M"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel discusses the evolution of Envoy, reflecting on its origins,

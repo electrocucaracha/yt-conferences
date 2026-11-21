@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Kubernetes SIG-Windows Updates - Mark Rossetti, Microsoft & Jose Valdes, Red
   Hat
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Kubernetes SIG Windows project maintainer talk, led by Mark Rosetti

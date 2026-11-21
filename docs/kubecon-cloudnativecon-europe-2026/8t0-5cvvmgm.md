@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: From Cloud-Native Apps to Cloud-Native Platforms - Abby Bangser,
   Principal Engineer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses the importance of platform engineering in enabling

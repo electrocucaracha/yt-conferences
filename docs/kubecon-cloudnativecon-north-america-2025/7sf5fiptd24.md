@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Performance Tuning Java Apps for Kubernetes: From Startup Time To Conta...
   Ryan Jarvinen & Daniel Oh"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Daniel from Red Hat IBM and Ryan Jarvin discuss

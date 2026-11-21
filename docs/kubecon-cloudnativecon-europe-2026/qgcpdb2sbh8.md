@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Keeping the Cloud Afloat with Deterministic Simulation Testing - Marcus Hodgson
   & Marek Siarkowicz
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Marcus from Antithesis and Mark from Google discuss how

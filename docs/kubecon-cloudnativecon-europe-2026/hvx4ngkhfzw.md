@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Envoy in the Era of Agentic Workloads - Yan Avlasov, Google & Erica Hughberg,
   Tetrate
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Erica Huberg and Yan, both maintainers of the Envoy

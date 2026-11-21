@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Day 1 - KubeCon + CloudNativeCon 2025 Europe Highlights from London
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The CubeCon Cloud Native Con 2025 keynotes kicked off, highlighting 10

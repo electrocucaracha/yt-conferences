@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Achieving Peak Performance Through Hardware Alignment in DRA - Gaurav Ghildiyal
   & Byonggon Chun
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, presenters Gorov from Google and Bang from Fluid Stack

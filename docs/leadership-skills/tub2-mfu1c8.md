@@ -1,5 +1,7 @@
 ---
+layout: default
 title: 10 Books Every Leader Must Read
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a leadership mentor and coach, shares his

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   What's New With Kubectl and Kustomize … and How You... Marly S, Yugo K, Eddie
   Z, Maciej S & Arda G
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video features a panel of Kubernetes SIG CLI maintainers discussing

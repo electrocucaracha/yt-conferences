@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Day-2’000 - Migration From Kubeadm+Ansible To ClusterAPI+Talos: A Swiss Bank’s...
   Clément Nussbaumer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Clemon Bame, a Swiss software engineer at Post Finance, presented on

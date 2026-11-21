@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Incident Analysis Before Chaos Engineering • Nora Jones • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker shares their journey through chaos engineering, highlighting

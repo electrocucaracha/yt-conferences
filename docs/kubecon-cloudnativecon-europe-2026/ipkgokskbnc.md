@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Enterprise Challenges with MCP Adoption - Christian Posta, Solo.io
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Christian Posta, Global Field CTO at Solo.io, discusses the adoption

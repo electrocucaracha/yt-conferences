@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Ambient Global Compute: Orchestrating the Non-Elastic Cloud With Kubernetes
   - Jago Macleod, Google"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   JGO Mloud discusses the evolution of public cloud computing, highlighting

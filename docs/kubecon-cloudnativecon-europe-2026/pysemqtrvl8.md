@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Accelerating Thanos at Scale: Faster and Cheaper Queries With Parquet - Giedrius
   Statkevičius"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses efforts to accelerate Thanos at scale by adopting

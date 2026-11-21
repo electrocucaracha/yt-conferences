@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Uncharted Waters: Dynamic Resource Allocation for Networking - Miguel Duarte
   Barroso & Lionel Jouin"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The presentation discusses dynamic resource allocation for networking

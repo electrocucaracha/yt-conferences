@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Putting the XP in Scrum • Roy Osherove • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=JtvSp3BPG8I

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Prometheus Intro, Deep Dive, and Open Q+A - Owen Williams, Grafana Labs & David
   Ashpole, Google
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker, David Ashpole from Google, discusses the Prometheus monitoring

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Streamlining Large-Scale Java Development Using Error Prone • Sander Mak •
   GOTO 2022
+parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=C5MBsKZHqrY

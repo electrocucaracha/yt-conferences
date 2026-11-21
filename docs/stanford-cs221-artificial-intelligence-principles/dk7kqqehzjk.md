@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 13: Bayesian Networks and Gibbs Sampling"
+parent: "Stanford Cs221 Artificial Intelligence Principles"
 type: Video Note
 description:
   The lecture continues the discussion on Bayesian networks, focusing on

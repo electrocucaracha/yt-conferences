@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Building WebAssembly Like It's 2011 - David Justice, Microsoft & Terence Lee,
   Heroku/Salesforce
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video transcript discusses the concept of Web Assembly (WASM) and

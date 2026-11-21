@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Sailing Multi-Host Inference with LWS - Kante Yin,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Kent, introduces himself as a software engineer from Dark

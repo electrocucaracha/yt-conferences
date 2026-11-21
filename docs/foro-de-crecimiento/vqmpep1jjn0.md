@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en Liderazgo: Cómo Multiplicar tu Influencia y tu Impacto! | Yamil
   Raidan"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Yamil Raidán, un líder empresarial con amplia experiencia

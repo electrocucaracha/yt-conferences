@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Experto en mentalidad: Los 7 pasos para cambiar tu vida | Luis Topete"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este video, Luis Topete, empresario y coach de alto rendimiento, comparte

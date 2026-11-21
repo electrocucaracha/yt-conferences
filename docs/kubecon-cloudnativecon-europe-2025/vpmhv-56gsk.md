@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Quick Intro to CI/CD Observability with OpenTelemetry
   - Dotan Horovits"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses CI/CD observability with open telemetry, building

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Shared Service Blueprint: A Guide to Multi-Tenancy, Illustrated With KEDA
   - Aya Igarashi"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Aaya Garash, a software engineer at Preferred Networks, discusses the

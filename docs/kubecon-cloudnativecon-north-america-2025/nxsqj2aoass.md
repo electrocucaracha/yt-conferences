@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Economics of Platforms: Building Marketplaces Beyond Golden Paths - Atulpriya
   Sharma"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   "The speaker, Prashant Sharma, discusses the challenges of maintaining

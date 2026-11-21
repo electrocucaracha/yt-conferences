@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Contributing To Kubernetes in Its... Nabarun Pal, Mario Fahlandt, Madhav Jivrajani
   & Priyanka Saggu
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "The Kubernetes community has grown significantly over the past decade,

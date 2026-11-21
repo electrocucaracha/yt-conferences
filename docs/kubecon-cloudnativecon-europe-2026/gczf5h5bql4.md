@@ -1,5 +1,7 @@
 ---
+layout: default
 title: SIG-Windows Updates - Claudiu Belu, Cloudbase Solutions & JR Valdes, Red Hat
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this SIG Windows maintainer track session, Claudia and Jar present

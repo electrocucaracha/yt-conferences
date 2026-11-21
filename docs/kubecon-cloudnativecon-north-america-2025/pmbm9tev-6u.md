@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Project Harbor Maintainers Update - Where Are We Heading? - Orlin Vasilev &
   Vadim Bauer
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Harbor project has made significant progress over the past year,

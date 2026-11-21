@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Simplicity & Complexity: The Beauty & the Beast? • Sander Hoogendoorn & Kevlin
   Henney • GOTO 2022"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Kevlin Henney discusses the importance of simplicity in software development,

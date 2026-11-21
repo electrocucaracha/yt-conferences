@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Authenticating and Authorizing Every Connection at Uber - Yangmin Zhu & Matt
   Mathew, Uber
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Uber’s engineering security team discusses their

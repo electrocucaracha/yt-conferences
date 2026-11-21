@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 11: Games II"
+parent: "Stanford Cs221 Artificial Intelligence Principles"
 type: Video Note
 description:
   The lecture begins by reviewing two-player zero-sum games and the minmax

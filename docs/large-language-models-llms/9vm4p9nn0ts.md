@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   "The lecture provides an overview of how large language models (LLMs)

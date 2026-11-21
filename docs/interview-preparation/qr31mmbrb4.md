@@ -1,5 +1,7 @@
 ---
+layout: default
 title: 5 Signs Your Interview Went Well (From a Former Recruiter)
+parent: "Interview Preparation"
 type: Video Note
 description:
   "During an interview, candidates often look for subtle signs that indicate

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Just Do It: OpAMP - Panos Tsilopoulos & Bob Johnson, Nike, Inc."
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Panos and Bob from Nike discuss their experience

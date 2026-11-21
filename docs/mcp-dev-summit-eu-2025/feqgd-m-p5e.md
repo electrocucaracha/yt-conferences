@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Multi-Agent Multi-User Collab thru MCP: Enabling Asynchronous Human-Agent
   Agent-Human Workflows"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   In this presentation, Andrew Culverson and Mun Burid introduce MAMU,

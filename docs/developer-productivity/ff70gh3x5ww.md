@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Navigating Backstage: A Year in Developer Life • Helen Greul • GOTO 2024"
+parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Ff70GH3X5Ww

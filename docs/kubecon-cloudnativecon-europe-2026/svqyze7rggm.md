@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Longhorn: Intro, Deep Dive and Q&A - David Ko & Divya Mohan, SUSE"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   David Co, engineering director at Susa, and Da, the new community manager

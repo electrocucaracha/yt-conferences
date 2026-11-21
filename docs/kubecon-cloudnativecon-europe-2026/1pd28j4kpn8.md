@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Real-World Supply-Chain Security - Alex Leong, Buoyant
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Alex Leong, a software engineer at Buoyant and long-time contributor

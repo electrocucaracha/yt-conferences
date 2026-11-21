@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en programación mental: Cómo reprogramar tu mente y cambiar tu destino
   | Marcelo Yaguna"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este video, Marcelo Yaguna, empresario y conferencista, comparte su

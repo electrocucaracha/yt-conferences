@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: From Cloud Native to Accelerator Native: Kubernetes as
   the Distri... Jago Macleod"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   JGO Mloud, leader of Kubernetes at Google, discusses the rapid evolution

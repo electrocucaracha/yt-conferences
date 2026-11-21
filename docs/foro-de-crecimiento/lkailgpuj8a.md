@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cofundador de Rappi: Cómo se construye un negocio millonario desde cero |
   Andrés Bilbao"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Andrés Bilbao, cofundador de Rappi y primer unicornio

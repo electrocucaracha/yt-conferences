@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Evolution of Platform APIs in the Age of LLMs - Mauricio "Salaboy" Salatino
   & Viktor Farcic
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker discusses the challenges and considerations of integrating

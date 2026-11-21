@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   JetBrains IDE Developer Productivity & Code Generation Support • Garth Gilmour
   • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   G Gilmore, a developer advocate at Jet Brain, discusses his experience

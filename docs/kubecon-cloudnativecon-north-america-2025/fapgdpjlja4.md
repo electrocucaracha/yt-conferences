@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Resilient by Design: Building Durable AI Agents on Kubernetes - Yaron Schneider,
   Diagrid"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Iron Schneider, CTO and co-founder of Diagrid and co-creator of the Dapper

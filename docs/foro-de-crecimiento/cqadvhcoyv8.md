@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Domina el juego del dinero: educación financiera para la vida real || Manuel
   Ramos · Sesión 19"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, el experto financiero Manuel Ramos comparte estrategias

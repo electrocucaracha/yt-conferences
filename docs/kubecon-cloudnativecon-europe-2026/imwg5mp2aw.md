@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Namespace Multi-Tenancy, But All The Problems Related
   To It - Hristo Hristov"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Christopher, a maintainer of the CNCF sandbox project Capsule, discusses

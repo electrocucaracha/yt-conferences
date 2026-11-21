@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Harbor Update - Prasanth Baskar, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Prashant, a core contributor to Harbor, provided updates on the project,

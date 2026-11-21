@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Highlights from MPC Dev Summit EU 2025 - London - 2 Oct 2025
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The speaker, a developer, expresses appreciation for the note-taking

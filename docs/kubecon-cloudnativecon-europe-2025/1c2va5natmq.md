@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Practical Zombie Hunting for Kubernetes Users - Holly Cummins, Red Hat
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Holly Cumins, a professional, discusses the "zombie problem" of underutilized

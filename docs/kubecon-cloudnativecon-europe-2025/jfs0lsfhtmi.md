@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The State of Prometheus and OpenTelemetry Interoperability - Arthur Sens &
   Juraj Michálek
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The discussion centered around Prometheus and Open Telemetry interoperability,

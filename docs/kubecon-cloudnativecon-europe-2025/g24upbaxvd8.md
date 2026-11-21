@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Enhancing Software Composition Analysis Resilience Against Contai... Agathe
   Blaise & Jacopo Bufalino
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=G24upbAXVd8

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Identity-based Trust - Till Death Do We Part? - John Kjell & Kairo De Araujo
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses identity-based trust and its implementation in

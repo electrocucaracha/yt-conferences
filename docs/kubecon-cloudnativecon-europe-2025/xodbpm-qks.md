@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   etcd V3.6.0 and etc... Benjamin Wang, Ivan Valdes Castillo, Siyuan Zhang, Arka
   Saha & Ciprian Hacman
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The latest release of LCD 3.6.0 and LCD operator 0.1.0 introduce several

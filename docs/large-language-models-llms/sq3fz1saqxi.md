@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 1: Overview
   and Tokenization"
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   The CS 336 course, "Language Models from Scratch," is designed to provide

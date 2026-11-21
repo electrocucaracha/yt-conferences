@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes Infra SIG: Intro and Updates - Mahamed Ali, Arab Center for Research
   & Policy Studies"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Muhammad, a senior DevOps engineer and Kubernetes maintainer, provides

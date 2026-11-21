@@ -1,5 +1,7 @@
 ---
+layout: default
 title: What's New in gRPC - Kevin Nilson, Google
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The gRPC project has seen significant growth, with 1.7 million downloads

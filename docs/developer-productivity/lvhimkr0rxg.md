@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Live Kubernetes Debugging with the Elastic Stack • Philipp Krenn • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses various tools and techniques for debugging and

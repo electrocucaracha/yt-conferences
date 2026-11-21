@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "REPLs All The Way Up: A Rubric For Better Feedback Loops • Avdi Grimm • GOTO
   2023"
+parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=k9lwn-RqEsE

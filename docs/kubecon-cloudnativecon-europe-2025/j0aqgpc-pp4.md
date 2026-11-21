@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: AI Enabled Observability Explainers - We Actually Did Something With
   AI! - Vijay Samuel"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Vijay Samuel, a principal MTS architect at eBay, discusses AI-enabled

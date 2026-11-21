@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond the Limits: Scaling Kubernetes Controllers Horizontally - Tim Ebert,
   STACKIT"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses how Kubernetes controllers are not scalable horizontally

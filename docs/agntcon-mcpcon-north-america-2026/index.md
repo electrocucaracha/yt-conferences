@@ -1,3 +1,11 @@
+---
+layout: default
+title: "AGNTCon + MCPCon North America 2026"
+has_children: true
+nav_order: 2
+okf_version: "0.2"
+---
+
 # AGNTCon + MCPCon North America 2026
 
 ## Executive Overview

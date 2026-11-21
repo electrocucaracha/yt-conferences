@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SIG Apps Updates: Building the Next Generation of Kubernetes Workloads...
   Maciej Szulik & Janet Kuo"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this SAPS talk, Janet and Mache, co-leads of SIG Apps, discuss recent

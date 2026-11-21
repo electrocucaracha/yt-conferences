@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Dispatch from the Future: building an AI-native Company – Dan Shipper, Every,
   AI & I"
+parent: "Aie Code 2025 Ai Leadership"
 type: Video Note
 description:
   The speaker, as the final presenter of the day, discusses the evolving

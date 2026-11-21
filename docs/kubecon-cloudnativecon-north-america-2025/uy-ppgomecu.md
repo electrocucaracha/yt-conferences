@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Kubewarden: The Universal Policy Engine For Kubernetes"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Robert introduces Kuborton, a universal policy engine for Kubernetes,

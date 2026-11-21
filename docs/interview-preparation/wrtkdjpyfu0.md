@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Everything I Learned at MIT (That Made Me a Multimillionaire)
+parent: "Interview Preparation"
 type: Video Note
 description:
   Five principles. The first principle is the importance of understanding

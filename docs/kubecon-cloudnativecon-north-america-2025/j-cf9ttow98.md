@@ -1,5 +1,7 @@
 ---
+layout: default
 title: It’s 2025; Why Are You OK With an Insecure Network? - Alex Leong, Buoyant
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Alex Leong, a software engineer at Buoyant, discusses network security

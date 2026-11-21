@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Unlocking Financial Progress: Credit Karma's AI Assista... Raj Kiran Gupta
   Katakam & Sukanya Moorthy"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speakers, staff machine learning engineers at Credit Karma (part

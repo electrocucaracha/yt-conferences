@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Automating Kubernetes Cluster Updates: Achieving Z... Haitao Zhang, Ling Ling,
   Wei Jiang & Baofa Fan"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "The speaker discusses the challenges of updating Kubernetes clusters,

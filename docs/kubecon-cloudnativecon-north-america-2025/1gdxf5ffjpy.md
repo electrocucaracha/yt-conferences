@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Making Platform Engineering Accessible: From Newcomer To Power... Luke Philips
   & Julia Furst Morgado"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Julia and Luke, both platform engineers from different backgrounds, discuss

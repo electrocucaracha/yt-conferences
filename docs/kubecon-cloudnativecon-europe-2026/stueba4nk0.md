@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Spin-Up, Test, Tear-Down: How Trivago Runs Developer Preview Environm... Armin
   Aminian & Jan Wozniak"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Armen, S, and Jan from Trivago discuss how they

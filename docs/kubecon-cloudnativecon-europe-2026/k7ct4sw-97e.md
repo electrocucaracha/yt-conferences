@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Choose Your Own Adventure: AI Meets Internal Developer Platform - Whitney
   Lee & Viktor Farcic"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video discusses the evolution from traditional developer tooling

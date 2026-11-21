@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Resource Fairness and Utilization for Heterogeneous Batch/M...
   Yuki Iwai & Gabe Saba"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   In this talk, Yuki from CyberAgent and Gabe from Google introduce Q,

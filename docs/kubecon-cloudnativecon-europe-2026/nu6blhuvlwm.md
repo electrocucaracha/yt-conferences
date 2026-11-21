@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "GPUs on Kubernetes: What Actually Happens When You Request Nvidia... Gulcan
   Topcu & Daniele Polencic"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speakers introduce the complexities of using GPUs, particularly within

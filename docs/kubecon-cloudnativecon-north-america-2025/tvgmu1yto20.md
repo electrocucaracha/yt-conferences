@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   'Capabilities, APIs, and Experiences: Blueprints To By... Kyle Penfound & Mauricio
   "Salaboy" Salatino'
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Kyle discusses the challenges and strategies involved in

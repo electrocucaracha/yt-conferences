@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Essential Skills for Engineers to Thrive in the AI Era
+parent: "Interview Preparation"
 type: Video Note
 description:
   To thrive in the AI era, engineers should prioritize core skills such

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond Chat: Bringing Agents To Kubernetes - Nimisha Mehta, Confluent & Nina
   Polshakova, Solo.io"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   In this presentation, Nimisha and Nina introduce Kagent, a Kubernetes-native

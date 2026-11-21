@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Taming the Complexity Beast... Moderated by Katie Norton, Alex Zenla, Jason
   Hall & Jon Ceanfaglione
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In the panel "Taming the Complexity Beast," experts discuss how organizations

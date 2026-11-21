@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Cloud Native Kubernetes Ai Day 2025 Na"
+has_children: true
+nav_order: 5
+okf_version: "0.2"
+---
+
 # Cloud Native Kubernetes Ai Day 2025 Na
 
 ## Executive Overview

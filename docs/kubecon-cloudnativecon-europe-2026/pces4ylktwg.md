@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Discover Cortex: High Scalability Metrics in 2026 - Friedrich Gonzalez & Charlie
   Le, Apple"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Charlie and Frederick, software engineers at Apple and maintainers of

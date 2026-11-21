@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Set Boundaries with Difficult People
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, leadership coach Doug Howard addresses the growing issue

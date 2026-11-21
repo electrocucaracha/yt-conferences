@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Fourth Pillar Arrives: OpenTelemetry Profiling Alpha in A... Felix Geisendörfer
   & Florian Lehner"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation introduces the alpha release of OpenTelemetry profiling,

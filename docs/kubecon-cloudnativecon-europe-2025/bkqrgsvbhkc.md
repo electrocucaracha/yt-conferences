@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Data Processing Efficiency: Optimizing Batch Workloads on Kubernetes With
   Custom... Hichem Kenniche"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, a data engineering expert, discusses their experience with

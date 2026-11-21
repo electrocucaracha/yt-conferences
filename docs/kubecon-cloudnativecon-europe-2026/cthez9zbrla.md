@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Kubernetes Third Party Aud... Iain Smart, Amir Montazery, Rey Lejano, Tabitha
   Sable & Pietro Tirenna
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The Kubernetes SIG Security team provided an update on their third-party

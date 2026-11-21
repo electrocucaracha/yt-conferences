@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Enforce VIP Access Only Through Node Attestation - Alice Frosi & Jakob Naucke,
   Red Hat
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Alicha Frosi and Jacob N. from Reddit present on confidential computing

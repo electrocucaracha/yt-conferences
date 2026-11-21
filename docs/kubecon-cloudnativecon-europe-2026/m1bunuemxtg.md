@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Virtualizing Large Scale GPU Cluster for Sovereign AI: Petasus AI Cloud Journey
   with Kube... Jian Li"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Jen, a principal engineer at SK Telecom, presents their

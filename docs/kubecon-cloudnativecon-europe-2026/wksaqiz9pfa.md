@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Platform Engineering 2.0: Just-Enough Kubernetes and AI-Native DevOps - Shweta
   Vohra, Booking.com"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Shuah, lead architect at Booking.com, explores the true

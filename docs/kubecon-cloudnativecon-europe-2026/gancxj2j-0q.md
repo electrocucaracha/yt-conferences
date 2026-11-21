@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Why Security of Kubernetes Comes Down to Linux Security - Marina Moore, Edera
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Marina, head of research at ADA and co-chair of CNCF’s security group,

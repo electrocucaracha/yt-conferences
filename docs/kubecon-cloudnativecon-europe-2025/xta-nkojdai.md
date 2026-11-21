@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Open Policy Agent (OPA) Intro & Deep Dive - Charlie Egan & Anders Eknert, Styra
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses Open Policy Agent (OPA) and its role in implementing

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Discontinuous Improvement • Kevlin Henney • YOW! 2020
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the importance of embracing continuous improvement

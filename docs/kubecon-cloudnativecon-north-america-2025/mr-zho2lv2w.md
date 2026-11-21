@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Catch Up With Crossplane v2 - Scott Rosenberg, Contributor"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Scott Rosenberg introduces Crossplane v2, highlighting

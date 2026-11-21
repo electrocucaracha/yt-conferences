@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Convince Your Boss to Let You Work From Home in 5 Steps | Tips from
   an Engineering Manager
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering

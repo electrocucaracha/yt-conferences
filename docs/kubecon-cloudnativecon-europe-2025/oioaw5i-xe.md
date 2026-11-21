@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "AI Beyond Autocomplete: Using LLMs To Create 1000 Kubernetes... Justin Santa
   Barbara & Walter Fender"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Justin Santa Barbara, a Google software engineer, discusses how his team

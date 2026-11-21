@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "LLMs on Kubernetes: Squeeze 5x GPU Efficiency With Cache, Route, Repea...
   Yuhan Liu & Suraj Deshmukh"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Suraj from Microsoft and Yuan from the University of Chicago

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How Much Platform Is Enough Platform? - John Keates, Wehkamp Retail Group
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   John, a platform engineer at the VA retail group, shares the company's

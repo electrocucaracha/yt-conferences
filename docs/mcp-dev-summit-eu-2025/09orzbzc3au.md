@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] Scaling MCP Observability: How Natoma Monitors Thousands of MCP
   Servers"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Capil, a software engineer at Numa Labs, discusses the observability

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Introduction To Tag Infrastructure - Kashif Khan, Ericsson & Dylan Page, Lambda.ai
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Dylan Paige and Kashif, co-chairs of the CNCF Technical Advisory Group

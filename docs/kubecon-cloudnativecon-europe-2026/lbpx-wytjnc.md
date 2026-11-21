@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SB\U0001F4A3\U0001F4A3M: Making SBOMs Play Together - Jacopo Bufalino, CNAM
   & Agathe Blaise, Thales SIX GTS France"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation explores the interoperability challenges of Software

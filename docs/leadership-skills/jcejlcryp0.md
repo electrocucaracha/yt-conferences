@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Breaking the Bad Leadership Cycle in Engineering and Tech
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a former director of engineering, discusses

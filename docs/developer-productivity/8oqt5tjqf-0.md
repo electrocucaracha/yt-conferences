@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Better Value Sooner Safer Happier • Simon Rohrer & Eduardo da Silva • GOTO
   2025
+parent: "Developer Productivity"
 type: Video Note
 description:
   The book "Better Value, Sooner, Safer, Happier" by John Smart and Simon

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How To Prep For Tech Interviews While Working Full-Time
+parent: "Interview Preparation"
 type: Video Note
 description:
   Preparing for interviews while holding a full-time job is a daunting

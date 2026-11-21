@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: A Cross-Industry Benchmarking Tutorial for Distributed LLM Inference...
   Multiple Speakers"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video presents a comprehensive tutorial on cross-industry benchmarking

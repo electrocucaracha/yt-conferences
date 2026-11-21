@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Resource Roulette: Winning the Kubernetes Allocation Game
   - Daniele Polencic"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Kubernetes' restore, requests, and limits are crucial concepts to understand

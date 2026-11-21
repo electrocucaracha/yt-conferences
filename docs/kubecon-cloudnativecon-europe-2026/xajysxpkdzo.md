@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Creepers to Clusters: Evolving Minecraft Into a Cloud Native... Jaden
   Walderich & Alex Mizerak"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Alex and Jaden, platform engineers at ZAX, shared the evolution of CubeCraft,

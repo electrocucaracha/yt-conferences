@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Quantify ROI on Personal Growth and Professional Development
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard addresses the challenge of quantifying the

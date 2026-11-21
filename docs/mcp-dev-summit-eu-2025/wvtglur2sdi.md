@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Why is MCP Auth Hard and What Are We Planning to Do About It"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   In this talk, Paul, a technical staff member at Anthropic and MCP core

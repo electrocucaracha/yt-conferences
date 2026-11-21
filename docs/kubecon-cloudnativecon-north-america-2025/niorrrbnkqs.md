@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Beyond YAML: Visualising Kubernetes Ontologies With
   Meshery - Yash Sharma"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Yash, a maintainer of the CNCF sandbox project Meshery and a developer

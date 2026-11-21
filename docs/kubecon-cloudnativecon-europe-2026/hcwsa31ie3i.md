@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Continuous AI Conformance: The kOp... Arnaud Meukam, Janet Kuo, Justin Santa
   Barbara, Ciprian Hacman"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video features a panel of Kubernetes experts discussing the need

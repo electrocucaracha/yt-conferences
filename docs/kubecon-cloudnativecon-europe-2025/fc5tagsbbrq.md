@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Empowering AI-Driven Drug Discovery: Overcoming Challenges... Marius Tanawa
   Tsamo & Gustav Rasmussen"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Novanorisk, a pharmaceutical company, aims to extend Kubernetus with

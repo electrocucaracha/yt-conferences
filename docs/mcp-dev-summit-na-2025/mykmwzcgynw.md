@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Intro to OAuth for MCP Servers with Aaron Parecki, Okta"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Aaron Pari from Octa discusses the complexities and evolution of OAuth,

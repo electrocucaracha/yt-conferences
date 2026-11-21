@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Locking Down Ray Serve: How to Secure Ur ML Models? - Kateryna Hrytsaienko,
   Valtech"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Katina begins by sharing her personal experience with learning to secure

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Rook: Intro and Deep Dive With Ceph Storage - Artem Torubarov, Deepika Upadhyay
   & Niels de Vos"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presenters introduce Rook, an open-source operator that simplifies

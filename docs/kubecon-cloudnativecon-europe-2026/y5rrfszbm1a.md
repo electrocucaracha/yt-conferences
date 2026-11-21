@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Policy Engines for Kubernetes: Picking One Without Losing Your Mind - Nabarun
   Pal, Broadcom"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Nabarun discusses the complexities of policy enforcement

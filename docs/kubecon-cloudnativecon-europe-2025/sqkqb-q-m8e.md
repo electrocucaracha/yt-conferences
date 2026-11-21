@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubespray: Driving Cost-Efficiency for AI on Kubernetes - Antoine Legrand
   & Mohamed Zaian"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Antoan Lron, a senior engineer at New York, discussed Cubespray, an orchestrator

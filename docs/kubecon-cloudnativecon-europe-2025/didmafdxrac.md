@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Building a Ubiquitous Cloud Native: Beyond the Intersectionality"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Cloud Native Computing Foundation (CNCF) hosts community-driven meetups

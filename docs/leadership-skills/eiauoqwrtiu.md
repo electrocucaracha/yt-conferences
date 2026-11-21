@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Deal with Difficult Employee as a New Manager | Advice for Engineering
   Leaders
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard discusses the challenges new managers face

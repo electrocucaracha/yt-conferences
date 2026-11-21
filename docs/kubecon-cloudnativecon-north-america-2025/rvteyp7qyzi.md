@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Simplifying Cloud Native App Testing Across Environments - Laurent Broudoux
   & Artur Ciocanu
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video discusses the challenges of deploying cloud-native applications

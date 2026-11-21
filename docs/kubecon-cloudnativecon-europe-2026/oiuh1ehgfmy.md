@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Forensics With Falco - Gerald Combs, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Gerald Combmes, creator of Wireshark and a Falco maintainer, introduces

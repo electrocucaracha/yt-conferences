@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Closing Remarks"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The first day of CubeCon CloudNative Con concluded with an amazing set

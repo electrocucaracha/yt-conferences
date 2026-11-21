@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: 221B Cloud Native Street - Ricardo Rocha & Katie Gamanji"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Cloud Native Computing Foundation (CNCF) Technical Oversight Committee

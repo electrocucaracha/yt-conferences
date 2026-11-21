@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Crea Tu Mente Empresarial | Mauricio Correa #49"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Mauricio Correa, líder en la industria del network

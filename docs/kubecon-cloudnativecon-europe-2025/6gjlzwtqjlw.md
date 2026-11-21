@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Driving Chaos Engineering Forward: What’s New and Next With LitmusCha... Sarthak
   Jain & Saranya Jena"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Sna, introduces herself as a senior software engineer at

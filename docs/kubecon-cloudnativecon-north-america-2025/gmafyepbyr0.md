@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Beyond Operations: Scaling Platform Engineering in the CNCF Community
   - Abby Bangser"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   "The speaker discusses how software delivery changes require more from

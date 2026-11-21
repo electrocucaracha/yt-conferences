@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes Network Driver Unpacked: Modularity, Tra... Lionel J, Sebastian
   S, Antonio O & Sunyanan C"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this panel discussion, experts from Google, Red Hat, IBM, and Reddit

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Developer’s Nightmare: How To Survive Compliance Che... Alexandra Hou
   Aldershaab & Thomas Vitale"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Alexandra and Thomas discuss the challenges developers

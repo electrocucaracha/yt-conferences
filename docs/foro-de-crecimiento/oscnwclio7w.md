@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Especialista en Adolescencia: Cómo formar hijos preparados para la vida real
   | Ana María Arizti"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este video, Ana María Aristi, terapeuta gestal y especialista en la

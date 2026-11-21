@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Models as Microservices, Platforms as Partners: Collaboratively Building ML
   Inf... Stephanie Pavlick"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Stephanie Pavick, a machine learning platform engineer at Hinge, presented

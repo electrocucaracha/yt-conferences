@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Multi-Cluster Orchestration System: Karmada Updates
   A... Joe Nathan Abellard"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Joe, a senior software engineer at Bloomberg and core owner of the Kamada

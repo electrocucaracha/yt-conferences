@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: The CRA and What it Means for Open Source Communities - Greg Kroah-Hartman"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses the impact of the EU’s Cyber Resilience Act (CRA)

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "K8s-sigs NFD × SYLVA: Declarative Image-to-Node Compatibi... Eduardo Arango
   Gutierrez & Chaoyi Huang"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation discusses a collaborative project between the Kubernetes

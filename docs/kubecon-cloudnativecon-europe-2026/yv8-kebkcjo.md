@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Session: Performance at Enterprise Cloud Scale: Coupa’s Ku... Peter
   Irwin & Carl Baumcratz"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Peter from ScaleOps and Carl from Koopa discuss

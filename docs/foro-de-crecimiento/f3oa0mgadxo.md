@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Andes Survivor: What I Learned in the Mountains | Roberto Canessa #50"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Roberto Canessa relata su experiencia como sobreviviente

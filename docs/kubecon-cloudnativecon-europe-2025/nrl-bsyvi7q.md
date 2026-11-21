@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Prometheus 3.0 Speedrun - Ben Kochie, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Ben Koshi from the Prometheus team welcomes viewers to the Prometheus

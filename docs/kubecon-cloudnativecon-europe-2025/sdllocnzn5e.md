@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Defusing the Kubernetes API Performance Minefield - Madhav Jivrajani & Marek
   Siarkowicz
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Marik Sharkovich, SIG lead of ATC and contributor to API machinery, discusses

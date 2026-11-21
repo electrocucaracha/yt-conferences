@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Attack Defense: Leverage eBPF To Reveal Attack Flows... Constanze
   R, Markus G & Teodor P"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The transcript details a CBPF attack-defense gamified workshop focused

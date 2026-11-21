@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Lourdes Enríquez: Build a Successful Character | Growth Session #1"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta conversación se abordan temas fundamentales para el desarrollo

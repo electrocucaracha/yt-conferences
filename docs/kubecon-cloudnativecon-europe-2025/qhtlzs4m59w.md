@@ -1,5 +1,7 @@
 ---
+layout: default
 title: A Day in the Life of a Kubernetes Engineer
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   A Kubernetes engineer is not a fixed role but rather a person who solves

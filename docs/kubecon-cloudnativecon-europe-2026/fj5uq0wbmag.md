@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Demystifying the Kubernetes Network Stack (From Pod to Pod) - Simone Rodigari,
   Microsoft
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Simone Rodigari, a software engineer at Microsoft, presents an overview

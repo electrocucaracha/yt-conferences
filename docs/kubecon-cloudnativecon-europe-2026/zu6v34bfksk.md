@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Crossplane - The Cloud Native Framework for Platform Engineering - Jared Watts
   & Adam Wolfe Gordon
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Jared and Adam, core maintainers of the Crossplane project, introduce

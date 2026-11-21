@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How Work Works & Other Curiosities • James Lewis • GOTO 2023
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses various topics, including the evolution of technology,

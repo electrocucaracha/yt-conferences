@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: CNCF Sandbox Project K8Up Under The Hood - Aarno Aukia,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker, a maintainer of the KUP CNCF sandbox project, discusses

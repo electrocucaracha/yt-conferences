@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Explore TAG Workloads Foundation: Advancing Cloud Native Ex... Stephen R,
   Yuan T, Marlow W & Kante Y"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video features a panel of leaders from various organizations discussing

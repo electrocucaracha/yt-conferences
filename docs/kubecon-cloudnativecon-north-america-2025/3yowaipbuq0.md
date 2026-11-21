@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Quantum-Resistant Kubernetes: Realities, Risks & (Versioning) Pitfalls - Fabian
   Kammel, ControlPlane"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Fabian, a principal security consultant at Control Plane, introduces

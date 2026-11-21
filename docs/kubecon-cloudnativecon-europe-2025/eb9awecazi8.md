@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Buildpacks: Pragmatic Solutions To Quick and Secure Image Builds - Juan Bustamante
   & Aidan Delaney"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Cloud Native Build Pack project allows users to transform application

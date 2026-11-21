@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Building Better Software: Why Workflows Beat Code Every Time • Ben Smith &
   James Beswick • GOTO 2025"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Ben Smith, a staff developer advocate at Stripe, discusses the importance

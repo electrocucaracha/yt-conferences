@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Security Theater or Real Defense? Navigating... Rotem R, Constanze R, Megan
   W, Stefana M & Oshrat N
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The panel discussion, moderated by Ora from Metalbear, explores the distinction

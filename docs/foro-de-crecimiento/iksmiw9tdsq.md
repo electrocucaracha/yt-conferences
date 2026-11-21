@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Lessons on self-love that no one taught you | Consuelo Hernández
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Consuelo Hernández, experta en desarrollo humano,

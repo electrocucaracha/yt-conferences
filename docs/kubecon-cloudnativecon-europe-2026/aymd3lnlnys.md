@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubeflow in Cloud Native AI: Orchestrati... Johnu G, Valentina S, Antonin
   S, Alexander P & Michael Z"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The session introduces Kubeflow as a comprehensive, cloud-native AI platform

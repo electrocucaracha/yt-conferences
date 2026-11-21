@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "How to show up in any room with a low heart rate: Silicon Valley’s missing
   etiquette playbook"
+parent: "Interview Preparation"
 type: Video Note
 description:
   Sam Lesson emphasizes the importance of showing up with a low heart rate,

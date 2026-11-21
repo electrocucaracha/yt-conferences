@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Guiding Kubernetes: The Steering Committee's Role in Project Evo... Maciej
   Szulik & Stephen Augustus"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Kubernetes steering committee is a governing body responsible for

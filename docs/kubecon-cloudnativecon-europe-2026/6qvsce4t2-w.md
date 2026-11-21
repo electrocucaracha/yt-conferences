@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Exploring NRI for Automated CA Trust Injection - Tsuzuki Tsuchiya & Kento Kubo,
   LY Corporation
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Suzuit and Kent Kubo discuss the challenges of

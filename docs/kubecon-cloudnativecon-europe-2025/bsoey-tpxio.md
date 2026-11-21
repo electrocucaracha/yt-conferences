@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Efficient Transparent Checkpointing of AI/ML Workloads in Kub... R. Stoyanov,
   A. Reber, V. Spišáková
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The presentation discusses efficient transparent checkpointing for AI

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Wait! Can Your Pod Survive a Restart? - Aya Ozawa, CloudNatix Inc.
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Ay Zawa, a member of technical staff at Crownatics, discusses the importance

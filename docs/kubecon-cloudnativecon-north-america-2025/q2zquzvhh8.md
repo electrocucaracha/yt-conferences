@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Cozystack: Build Your Own Open Source AWS On Bare
   Metal - Andrei Kvapil"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Andre Quel introduces Cozy Stack, a CNCF sandbox project launched in

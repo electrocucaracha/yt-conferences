@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Chaos Unleashed: LitmusChaos and Its Journey Towards
   CNC... Vedant Shrotria"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Vant, a maintainer of Litmas Chaos, discusses the tool's journey towards

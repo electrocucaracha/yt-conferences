@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Typed Composition with MCP - Solomon Hykes from Dagger"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   The speaker, co-founder of Dagger.io, introduces their build engine designed

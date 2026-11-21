@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Harbor Project - The Maintainers Session - Yan Wang, Broadcom & Vadim Bauer,
   8gears
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Vadim Bower and Yan, maintainers of Harbor, provided updates on the Harbor

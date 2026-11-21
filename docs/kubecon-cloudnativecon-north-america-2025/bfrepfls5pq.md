@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Deep Dive: Handling Kubernetes Memory Pressure & Achievi... Ajay Sundar Karuppasamy,
   & Itamar Holder"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker, a software engineer at Google, discusses optimizing swap

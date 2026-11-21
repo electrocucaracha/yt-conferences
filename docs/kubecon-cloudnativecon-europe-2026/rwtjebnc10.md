@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Is the Agent in the Room with Us Right Now? - Nick Rutigliano & Andrew Halaney,
   Netflix
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Andrew Heleni and Nicotiano, senior engineers at Netflix,

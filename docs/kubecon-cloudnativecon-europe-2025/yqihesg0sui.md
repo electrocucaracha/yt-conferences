@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "More Nodes, More Problems: Solving Multi-Host GPU/TPU Scheduli... John Belamaric
   & Morten Torkildsen"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=YqIHESG0suI

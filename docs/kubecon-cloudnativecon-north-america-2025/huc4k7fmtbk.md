@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "In-Place Pod Resize in Kubernetes: Dynamic Resource Management Without...
   Tim Allclair & Mofi Rahman"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The talk discusses "In-Place Pod Resize" and its benefits for Kubernetes

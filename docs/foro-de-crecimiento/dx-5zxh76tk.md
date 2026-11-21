@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Michel Domit: Ser, Hacer y Tener | sesión 40"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta masterclass, Michelle Domit enfatiza la importancia de planear

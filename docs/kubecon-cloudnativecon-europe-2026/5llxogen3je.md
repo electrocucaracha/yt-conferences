@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Building Autonomous Networks for the AI Era - Gergely Csatari"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   G. Chhatari from Nokia explains that the company now focuses on building

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Navigating the Waters: Balancing Open Source Activities in Corporate... Kim
   McMahon & Amanda Katona"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The presentation discusses connecting open-source activities with corporate

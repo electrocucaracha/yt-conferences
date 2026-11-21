@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Talk To Your Dashboards: Using MCP and LLMs To Simplify Observab... Prashant
   Gupta & Raj Bhensadadia"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, Prashant and Raj, machine learning engineers at Apple,

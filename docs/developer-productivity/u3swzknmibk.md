@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Reverse Software Entropy • Saleem Siddiqui • GOTO 2023
+parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=U3sWzKnMIbk

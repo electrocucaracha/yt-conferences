@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Fluent Bit - Eduardo Silva, Maintainer"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker introduces Fluent Bit, a widely used, high-performance, low-resource

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "CRI-O: Thriving in a Changing World, One Container at a Time - Ayato Tokubi
   & Sohan Kunkerkar"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presenters, San Kerkar and Ayatkobi from Red Hat, discuss the past

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Missing Half of Performance Profiling: Understanding Memory in Cloud Native
   System... Dom Delnano"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker introduces the topic of memory profiling in cloud-native

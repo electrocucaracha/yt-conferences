@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Looking Back to Look Forward • Adrian Hornsby • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses chaos engineering, a process of stressing an application

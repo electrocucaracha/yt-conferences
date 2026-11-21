@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Evolving OpenID Connect and Observability in Keycloak - Ryan Emerson & Takashi
   Norimatsu
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Takashin Matsu from Hitachi Limited Japan, presented a two-part

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Gateway API: Bridging the Gap from Ingress t... Nick Y, James S, Katarzyna
   Ł, Rostislav B & Norwin S"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Mario Sabat and Maya from IBM Research discuss

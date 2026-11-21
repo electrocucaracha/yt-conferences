@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "OTel Me How To Get My Open Source Community Taken Seriously: Lessons... Reese
   Lee & Adriana Villela"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Open Telemetry project, a vendor-neutral open-source standard for

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Translating Ebpf Into Business Value: Lessons From
   The Cili... Bill Mulligan"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker reflects on their long experience with CubeCon and the evolution

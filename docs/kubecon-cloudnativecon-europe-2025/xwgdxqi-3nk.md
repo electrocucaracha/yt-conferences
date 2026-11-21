@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How We Tackle KubeVirt’s Growth and Scalability - Ľuboslav Pivarč, Red Hat
   & Alay Patel, NVIDIA
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Cubert upstream CI system has undergone significant changes to improve

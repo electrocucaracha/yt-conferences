@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Mind the Gap: Bridging Supply Chain Policy With Git-less GitOps... Michael
   Lieberman & Andrew Martin"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video discusses the Cyber Resilience Act (CRA) and its implications

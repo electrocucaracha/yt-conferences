@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Open Policy Agent (OPA) Intro & Deep Dive - Philip Conrad, Tyler Schade, Rita
   Zhang & Jaydip Gabani
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Open Policy Agent (OPA) is a general-purpose policy engine that generates

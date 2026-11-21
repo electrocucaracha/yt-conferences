@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Securing Data Applications at Pinterest With Finer Grained Access Cont... Soam
   Acharya & William Tom
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk at CubeCon, Pinterest’s data engineering team discusses

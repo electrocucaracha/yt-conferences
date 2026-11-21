@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Lessons Learned From Architecting the Highest-scale Operational Systems in
   the World - Artur Bergman
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Arur Bergman, founder and CTO of Fastly, discusses the company's mission

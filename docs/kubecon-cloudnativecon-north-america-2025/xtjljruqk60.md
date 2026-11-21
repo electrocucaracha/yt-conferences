@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Scaling Generative AI: Building Production-Ready LLM Applications - Daniel
   Oh & Kevin Dubois, IBM"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, Daniel O and Kevin, both experienced Java developers

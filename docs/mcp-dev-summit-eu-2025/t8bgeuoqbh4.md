@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Keynote] Scaling Commerice Interactivity Lessons from Shopify's Implementation
   of MCP UI"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Samuel and Brett, engineers from Shopify, discuss the future of user

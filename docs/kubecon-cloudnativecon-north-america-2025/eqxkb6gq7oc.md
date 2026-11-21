@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Build Your Internal Developer Platform With the Experts: A Hands-On...
   Multiple Speakers"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   'The workshop introduces participants to building an internal developer

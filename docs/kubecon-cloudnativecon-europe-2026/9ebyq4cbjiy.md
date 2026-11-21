@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   OpenFeature Update From the Ma... Lukas Reining, André Silva, Thomas Poignant
   & Alexandra Oberaigner
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The OpenFeature maintainers provided an update on the project's progress,

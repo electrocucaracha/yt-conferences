@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Small Steps Are the Fastest Way Forward: Life Beyond Agile & Scrum • Sander
   Hoogendoorn • GOTO 2023"
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker, a professional programmer, discusses the challenges of building

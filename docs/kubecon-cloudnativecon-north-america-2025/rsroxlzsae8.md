@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Rage Against the Machine: Fighting AI Complexity With Kubernetes Simplicity
   - Paul Yu & Sachi Desai"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, the presenters discuss simplifying the integration of

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Durable Execution in DevOps: How Uniphar Built Reliable Syst... Alice Gibbons
   & Vaclav (Oisin) Haken"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Alice Gibbons from DiGrid and Oshin from UniFar

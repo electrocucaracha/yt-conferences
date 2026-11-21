@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Transforming your Application Behavior to Kubernetes
   Ob... Matthias Bertschy"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Matias, co-maintainer of Cubscape, discusses the evolution of their static

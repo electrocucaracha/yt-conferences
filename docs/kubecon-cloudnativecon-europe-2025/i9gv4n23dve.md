@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How the SIG-Multicluster API Specifications Are Used for Real World... August
   Simonelli & Ryan Zhang
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The SIG multicluster API specifications are used for real-world multicluster

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Keynote] Revolutionizing Travel with AI How We Built the Turkish Airlines
   MCP"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The speaker, delivering their first major international speech, introduces

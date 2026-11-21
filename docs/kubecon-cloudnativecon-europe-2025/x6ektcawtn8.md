@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Asimov's Zeroth Law of Robotics: Observability for AI - Nicole van der Hoeven,
   Grafana Labs"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Nicole Vanderhovven, a senior developer advocate at Graphfana Labs, discusses

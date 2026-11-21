@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Intelligent Routing for Optimized Inference - Antonio Berben, Solo.io & Felipe
   Vicens, Telefonica
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Philipe Visense from Telefonica and Antonio from

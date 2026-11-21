@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The RAG Really Ties the App Together • Jeff Vestal • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   Jeff Esel, a professional at Elastic, introduces himself and explains

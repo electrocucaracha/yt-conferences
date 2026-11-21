@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Experto en Ingresos: El Mercado No Paga Esfuerzo, Paga Habilidades"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa conversación, Mauricio Benoist, rector de la Universidad

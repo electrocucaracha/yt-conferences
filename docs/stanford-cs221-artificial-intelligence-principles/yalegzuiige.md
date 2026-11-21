@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 1: Course Overview and AI Foundations"
+parent: "Stanford Cs221 Artificial Intelligence Principles"
 type: Video Note
 description:
   In this introductory lecture for Stanford's CS221 course on artificial

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Gateway API: Table Stakes - Shane Utt, Candace Holman, Mike Morris, Lior Lieberman
   & Kellen Swain"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video presents an overview and update on the Gateway API, a next-generation

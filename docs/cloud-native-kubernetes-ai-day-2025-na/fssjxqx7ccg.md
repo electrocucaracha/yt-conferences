@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Wasm't That Easy: Securing MCP With Wasm Sandboxes - Jiaxiao Zhou, Microsoft
   & Taylor Thomas, Akuity"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   In this talk, Joe from Microsoft Azure and Taylor from Acuy discuss the

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Unlock the Future of Kubernetes and Accelerators With Dynamic Resource
   Alloc... Rey Lejano"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this tutorial, Ray Lano from Red Hat introduces dynamic resource allocation

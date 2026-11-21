@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Lightning Talk: Extending Envoy With WebAssembly - Yuki Ito, newmo, Inc."
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 4 sentences.
 resource: https://www.youtube.com/watch?v=bOhaJV3_7X4

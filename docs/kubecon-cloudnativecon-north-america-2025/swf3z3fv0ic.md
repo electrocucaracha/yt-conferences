@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "AdminNetworkPolicy: From Alpha To Beta... Dan Winship, Surya Seetharaman,
   Nadia Pinaeva & Bowei Du"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video presents an overview of the evolution of Kubernetes cluster

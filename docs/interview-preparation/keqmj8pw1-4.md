@@ -1,5 +1,7 @@
 ---
+layout: default
 title: 20 Quantum Cheat Codes That I Wish I Knew In My 20’s
+parent: "Interview Preparation"
 type: Video Note
 description:
   They emphasize the importance of financial literacy, automation, and

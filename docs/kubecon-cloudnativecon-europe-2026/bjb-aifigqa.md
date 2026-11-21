@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Get To Where You're Going With Kgateway - David Jumani,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   David, an engineer at Solo and maintainer of the K Gateway project, presents

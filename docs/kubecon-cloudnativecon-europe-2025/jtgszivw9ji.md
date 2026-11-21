@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond Kubernetes: Adapting To Spe... Rags Srinivas, Dawn Chen, Sachi Desai,
   Vara Bonthu & Erin Boyd"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The panel discussion focuses on adapting Kubernetes to specialized application

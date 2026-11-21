@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Tracing the Untraceable: OpenTelemetry for ‘Vibe-Coded’ LLM
   Apps - Pranay Prateek"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Prane, a co-founder of Signos, introduces the importance of tracing and

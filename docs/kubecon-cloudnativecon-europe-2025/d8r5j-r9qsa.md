@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Logs, Metrics, Traces and Mayhem: An Interactive Observability Adventure...
   Jay Clifford & Tom Glenn"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=D8r5j_R9QsA

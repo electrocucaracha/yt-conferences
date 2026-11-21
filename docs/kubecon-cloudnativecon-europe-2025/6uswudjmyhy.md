@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "What's New in Knative Eventing: Security, Discovery, Int... Pierangelo Di
   Pilato & Christoph Stäbler"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The presentation discusses various features and updates in KNative Eventing,

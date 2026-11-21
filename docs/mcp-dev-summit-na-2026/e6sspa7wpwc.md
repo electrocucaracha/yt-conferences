@@ -1,5 +1,6 @@
 ---
 title: "Keynote: MCP Apps: Extending the Frontier - Ido Salomon & Liad Yosef"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   The speakers introduce MCP apps, a rapidly evolving open standard that

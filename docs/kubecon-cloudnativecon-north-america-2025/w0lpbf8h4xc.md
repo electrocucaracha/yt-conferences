@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Future of Virtualization in Kubernetes: What's Next for KubeVirt - Vladik
   Romanovsky, Red Hat"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Vlatty Kromanski, a maintainer of the KubeVirt project, provided an update

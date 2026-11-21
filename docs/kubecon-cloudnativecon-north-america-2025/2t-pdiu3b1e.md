@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Harmonizing Strategy and Engineering: Lessons Learnt in Building. S. Chandrasekaran
   & K. Klymkovska"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Shri and Kate, senior product manager and engineer at Spotify respectively,

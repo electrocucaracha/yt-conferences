@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Hyperscale Uncertainty Principle: Debugging Tail Latency in a Trillion-Object...
   Yashraj Kakkad"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Yashraj Gakkad, a software engineer at Google Photos, discusses the challenges

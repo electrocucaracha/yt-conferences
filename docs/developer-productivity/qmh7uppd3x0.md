@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Mastering the Linux Command Line • Bert Jan Schrijver • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker, Rachel, discusses her experiences with Linux and shares

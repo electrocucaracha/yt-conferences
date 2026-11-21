@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Redesigning Ingress: Docker’s Transition To the Next-Gen Gate... Kateryna
   Nezdolii & Ryan Hristovski"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Katina Onesik and Ryan, an infrastructure engineer at Docker, presented

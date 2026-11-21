@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: OVN-Kubernetes: Scalable, Production-Grade Networking...
   Surya Seetharaman"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Surya, an engineer at Red Hat and maintainer of the OVN Kubernetes project,

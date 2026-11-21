@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Orchestrating Your Data Pipelines with Apache Airflow • Ricardo Sueiras • GOTO
   2022
+parent: "Developer Productivity"
 type: Video Note
 description:
   Ricardo Suarez, a developer advocate at AWS, discusses the problem of

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Maximum Acceleration: Cloud Native at the Speed of AI - Joseph Sandoval,
   Adobe"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker reflects on the evolution of the cloud-native community,

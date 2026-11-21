@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Stanford Webinar - Large Language Models Get the Hype, but Compound Systems
   Are the Future of AI
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   The speaker emphasizes that while large language models (LLMs) receive

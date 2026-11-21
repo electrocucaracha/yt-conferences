@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Kubernetes at the Edge – Come See It in Action! - Xavier Avrillier & Antonia
   von den Driesch
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Antonia and Savvi from Giantswarm introduce Kubernetes at the edge, explaining

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Expert Talk: Code Refactoring • Adam Tornhill & Christian Clausen • GOTO 2022"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Christian Clausen and Adam Tornhill discuss the social side of refactoring

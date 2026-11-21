@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Closing Remarks - Day 01"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker thanked the audience for their support, expressing inspiration

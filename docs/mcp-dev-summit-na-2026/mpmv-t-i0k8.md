@@ -2,6 +2,7 @@
 title:
   "Shadow MCP: Finding the MCPs Nobody Approved - Aidan Sochowski & Alexander
   Frazer, Runlayer"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   In this talk, Alex and Aiden discuss the security challenges posed by

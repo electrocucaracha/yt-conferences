@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Summarizing the Noise: LLM Observability With Open Data Hub,
   VLLM... Twinkll Sisodia"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Twinkle Sodia, a senior software engineer at Red Hat, presents an open-source

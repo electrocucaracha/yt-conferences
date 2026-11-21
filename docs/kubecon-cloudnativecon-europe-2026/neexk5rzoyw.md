@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Scaling the Kubernetes Ecosystem: Uber's Approach to Cluster... Silvio Simunic
   & Vadim Plakhtinskii"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Vadim and Sylvia present how Uber manages its large-scale Kubernetes

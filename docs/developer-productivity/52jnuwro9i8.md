@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Programming: Now & Then • Eamonn Boyle & Garth Gilmour • GOTO 2021"
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker reflects on the evolution of technology and programming over

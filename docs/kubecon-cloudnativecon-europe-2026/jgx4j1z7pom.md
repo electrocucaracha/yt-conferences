@@ -1,5 +1,7 @@
 ---
+layout: default
 title: What LLMs Do, and Don't, Know About Securing Kubernetes - Rory McCune, Datadog
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   "The speaker presents an in-depth exploration of how large language models

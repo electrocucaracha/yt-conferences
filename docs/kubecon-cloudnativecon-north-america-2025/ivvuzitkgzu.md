@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Message In, Job Out: Build Event-Driven Workflows in Kubernetes Using... Colin
   Lacy & Grace Brickley"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Colin Lacy and Grace Brickley, software engineers

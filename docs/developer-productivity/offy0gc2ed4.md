@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Get Started With Practical Process Automation • Bernd Rücker & Richard
   Seroter • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   Bernd, co-founder of Carmona, discusses the importance of process automation,

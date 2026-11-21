@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: DRA-matically Simple: On-Demand GPUs for MLOps - Doug Smith & Miguel
   Duarte Barroso"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this workshop, Doug Smith and Miguel introduce and demonstrate Dynamic

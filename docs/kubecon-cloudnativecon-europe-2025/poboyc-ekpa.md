@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Istio: The Past, Present and Future of the Project and Communi... Lin Sun,
   Louis Ryan & Raymond Wong"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The ISTO project has made significant progress in its history, from its

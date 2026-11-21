@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Fit-to-Serve: How a New DRA Capability for Dynamic Device... Sunyanan Choochotkaew
   & Tatsuhiro Chiba"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   The presentation discusses optimizing distributed AI model inference

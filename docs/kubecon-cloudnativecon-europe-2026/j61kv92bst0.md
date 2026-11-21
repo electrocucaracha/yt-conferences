@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Peeking Into the GPU Black Box: Continuous Profiling on Kubernetes With eBPF
   - Zahari Dichev"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Zahari, a software engineer at Buoyant, discusses the challenges

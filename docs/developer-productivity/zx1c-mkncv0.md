@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Domain Storytelling • Stefan Hofer, Henning Schwentner & Avraham Poupko • GOTO
   2022
+parent: "Developer Productivity"
 type: Video Note
 description:
   'Avraham Poupko interviews Stefan Hofer and Henning Schwentner about

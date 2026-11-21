@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Platform Engineering as a (Community) Service • Nicki Watt • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=4N2ywun-wTE

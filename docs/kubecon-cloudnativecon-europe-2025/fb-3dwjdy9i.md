@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Tutorial: Exploring Multi-Tenant Kubernetes APIs and Controllers With Kcp"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Fb_3dWJdY9I

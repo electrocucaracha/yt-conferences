@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "WIT Happens: Exploring the Latest Evolution of the SPIFFE and... Noah Stride
   & Arndt Schwenkschuster"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session of WIT Happens, Noah Stride and Arn provide an overview

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] Next Generation Agent Architectures with MCP with Darren Shepherd
   from Acorn Labs"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   The speaker, a co-founder at Acorn Labs with a background in automation

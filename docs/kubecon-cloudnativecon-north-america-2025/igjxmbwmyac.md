@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "GAMMA in Action: How Careem Migrated To Istio Without Downtime - Suren Raju
   & Sergey Marunich"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presentation details Kareem’s migration of its critical digital platform,

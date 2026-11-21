@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Opening/ Intro - Jorge Castro, CNCF"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   George Castra, a CNCF staffer, welcomes attendees to CubeCon, highlighting

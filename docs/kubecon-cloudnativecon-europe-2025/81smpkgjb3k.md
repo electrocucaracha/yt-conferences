@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Perses Update - Augustin Husson, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Augusta, a perser, updates on the Pers project, now a CNCF sandbox since

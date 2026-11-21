@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Securing the AI/ML Lifecycle With MLSecOps: Open Source Best... Bahaulddin
   Shammary & Andrey Shorov"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Baja, a lead AI engineer at Openext, and Andre

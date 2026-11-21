@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Missing Metrics: Measuring Memory Interference in Cloud Native Systems
   - Jonathan Perry"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses "memory noisy neighbor," a phenomenon where one

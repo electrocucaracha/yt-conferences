@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Build, Operate, and Use a Multi-Tenant AI Cluster Base... C. Misale,
   O. Tardieu & D. Grove"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Ab7mRoJYsMo

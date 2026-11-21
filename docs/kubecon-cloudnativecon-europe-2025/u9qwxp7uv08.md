@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes Backup Legitimized: CSI Changed Block Tracking Has Arrived- M.
   Lavi, C. Braganza, X. Yang"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=U9qwxp7Uv08

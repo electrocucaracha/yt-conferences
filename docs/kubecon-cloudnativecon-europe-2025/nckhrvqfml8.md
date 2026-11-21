@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Reliable K8s Resource Submission & Bookkeeping - Tiancheng Yin & Yao Lin, Bloomberg
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Yaoin, introduces themselves as part of the workflow orchestration

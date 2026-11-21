@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Demystifying Why the World Is Built on Kubernetes: Learning To Lev... Abby
   Bangser & Sebastien Blanc"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "Sebastian Blonde, a developer advocate for Port, introduced himself

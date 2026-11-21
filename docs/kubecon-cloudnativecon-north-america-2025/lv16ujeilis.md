@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Knative Project Update - Dave Protasowski, Independent
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   "Dave, a full-time Knative maintainer and serving lead, provides an update

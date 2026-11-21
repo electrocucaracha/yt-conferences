@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Intro to Product Thinking: Building Human-Centric Tools • Flavia Naezer &
   Julian Wood • GOTO 2024"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Flavio, a product owner with a tech background, shares his experience

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Designing Platforms With Judgment: Agentic Flows With MCP - Shivay Lambda &
   Ekansh Gupta"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, Ianch and Shai discuss the evolution of platform engineering

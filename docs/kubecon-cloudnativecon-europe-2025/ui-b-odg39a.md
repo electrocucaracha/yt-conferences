@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Sponsored Keynote: Lessons Learned in LLM Prompt Security - Jakub Suchy"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Jacob from Haroxy Technologies discusses the security risks of Large

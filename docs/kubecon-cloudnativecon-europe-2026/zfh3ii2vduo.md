@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Hack Me If You Can: Learning Kubernetes Security Through a Role-P... Aoi Takahashi
   & Keita Mochizuki"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this roleplay-based presentation, Ai Takahashasi and Ka Mosuki introduce

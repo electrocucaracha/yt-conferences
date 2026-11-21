@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Invisible Guardrails: Enabling Developer Velocity W... James Elías Sigurðarson
   & Vignir Hafsteinsson"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, James and Vign from Asana describe their journey in building

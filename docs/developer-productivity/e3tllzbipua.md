@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Deal with Hypergrowth • Lena Reinhard & Blake Walters • GOTO 2022
+parent: "Developer Productivity"
 type: Video Note
 description:
   Blake Walters, Director of Engineering at CircleCI, and Lena Reinhard,

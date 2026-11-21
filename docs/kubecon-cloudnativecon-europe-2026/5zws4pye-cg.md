@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Build Your Cloud Native Balance Sheet - Danielle Cook, Akamai & Simon
   Forster, Stackegy
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Simon Forester and Danielle Cook discuss the concept

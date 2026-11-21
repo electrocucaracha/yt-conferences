@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond the Cloud(s): Falco’s Ascent in Performance and... Leonardo Grasso
   & Leonardo Di Giovanna"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Lonardo Graaso and Leonardo de Joanna, both maintainers

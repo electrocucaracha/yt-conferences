@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   12 Reasons Why Constructive Feedback is Critical Skill for Engineering Managers
   + Technical Leaders
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard emphasizes the importance of providing constructive

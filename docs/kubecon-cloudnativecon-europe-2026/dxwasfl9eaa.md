@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Route, Serve, Adapt, Repeat: Adaptive Routing for AI Inference Workl... Nir
   Rozenbaum & Kellen Swain"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Kellen, a software engineer at Google, introduces adaptive

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Project Copacetic - Jeremy Rickard, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Copa is a tool that directly patches vulnerabilities in container images

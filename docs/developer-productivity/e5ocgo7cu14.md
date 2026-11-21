@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "130 People – No Bosses: Too Good To Be True? • Helle Markmann • GOTO 2023"
+parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=E5oCgo7cu14

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Adventures of Building a Platform as a Service for the Gover... H.K.
   Flaatten & A.F. Strand"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Adun, a Norwegian public sector professional, shares the story of building

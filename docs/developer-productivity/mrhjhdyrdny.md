@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Changing your Habits & Environment to get more Professional Productivity •
   Linda Rising • GOTO 2012
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker emphasizes the importance of reducing sitting time, citing

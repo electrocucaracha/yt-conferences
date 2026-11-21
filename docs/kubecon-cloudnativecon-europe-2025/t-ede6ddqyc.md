@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Graduated Project Updates - KubeCon + CloudNativeCon Europe 2025
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video transcript discusses various projects related to Kubernetes,

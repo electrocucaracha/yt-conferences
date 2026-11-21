@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 14: Bayesian Networks and Learning"
+parent: "Stanford Cs221 Artificial Intelligence Principles"
 type: Video Note
 description:
   The lecture reviews Bayesian networks, which define joint probability

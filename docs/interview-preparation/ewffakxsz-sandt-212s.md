@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "You’re Not Behind (Yet): How to Learn AI in 17 Minutes"
+parent: "Interview Preparation"
 type: Video Note
 description:
   The first step is learning "machine English," which involves understanding

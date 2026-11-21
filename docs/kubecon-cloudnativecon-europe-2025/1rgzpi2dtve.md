@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Why Allyship Matters and Your Role in Creating a More Diverse Cloud Native
   Community
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The panel discussion on allyship and accessibility in the cloud-native

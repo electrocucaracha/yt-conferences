@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Sponsored Keynote: Anchoring Trust in the Age of AI - Yuan Tang & Anjali Telang"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The CNCF ecosystem has been instrumental in defining trust in computing

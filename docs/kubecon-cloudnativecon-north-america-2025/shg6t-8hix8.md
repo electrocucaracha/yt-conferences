@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Scaling Smarter: Simplifying Multicluster AI with KAITO
   and KubeFl... Jorge Palma"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker discusses the importance of using AI in a responsible and

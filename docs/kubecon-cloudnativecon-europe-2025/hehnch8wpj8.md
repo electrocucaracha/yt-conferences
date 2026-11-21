@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Leveraging the Little Known Features of Artifact Hub - Matt Farina, SUSE
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses ArtifactHub, a CNCF incubating project that allows

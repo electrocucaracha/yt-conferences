@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Como dar un salto cuántico | Mauricio Benoist - sesión 42
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta conversación, Mauricio Benoist, experto en neurociencia y desarrollo

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Modern Continuous Delivery • Ken Mugrage • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the history of continuous delivery, starting from

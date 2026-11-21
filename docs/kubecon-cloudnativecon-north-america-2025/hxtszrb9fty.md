@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Safely Sourcing OSS - Beyond 0 CVEs - John Kjell, ControlPlane
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker begins by sharing personal experiences and background in

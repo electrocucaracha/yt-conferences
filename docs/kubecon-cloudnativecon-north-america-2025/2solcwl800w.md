@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Patch Me If You Can: Tackling Outdated Addons Before They Become... Stevie
   Caldwell & Andy Suderman"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Stevie Caldwell and Andy from Fairwinds discuss the critical

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Encryption, Identities, and Everything in Between; Building Se... Lior Lieberman
   & Igor Velichkovich
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Leo Lieberman, engineer lead at Google, and Igor Velichkovich, engineer

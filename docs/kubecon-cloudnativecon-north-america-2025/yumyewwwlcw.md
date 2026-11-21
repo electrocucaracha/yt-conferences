@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Taming the AI Hydra: Real-World Lessons in Governin... Brian Fox, Sarah Evans
   & Christopher Robinson"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The panel discusses the complex challenges of AI governance, likening

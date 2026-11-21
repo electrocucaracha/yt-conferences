@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   AI Workload Preemption in a Multi-Cluster Scheduling System at Bloomberg -
   Leon Zhou & Wei-Cheng Lai
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Bloomberg's AI workflow management system utilizes a multicluster Kubernetes

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Turn Up the Heat: Driving Cloud Native Innovation into Real-World
   Impact- Multiple Speakers"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Mora Kelly, director of engineering at Init, discussed the company's

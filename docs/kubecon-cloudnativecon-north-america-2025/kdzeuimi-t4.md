@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Instrumentation Score: The Difference Between Telemetr... Juraci Paixão Kröhling
   & Michele Mancioppi"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Judas, Mikuel, and Julie introduce the concept

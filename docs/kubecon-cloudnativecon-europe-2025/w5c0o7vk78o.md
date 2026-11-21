@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "eBPF and Wasm: Unifying Userspace Extensions With Bpftime - Yusheng Zheng,
   eunomia-bpf"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Jun, a PhD student and maintainer of open-source projects, discusses

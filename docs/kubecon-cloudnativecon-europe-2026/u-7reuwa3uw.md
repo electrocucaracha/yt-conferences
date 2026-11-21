@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Cloud Native University: Kubernetes and the Answer
   is… 42! - Jan Stomphorst"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Yan Stoneport, a solutions architect at a Dutch

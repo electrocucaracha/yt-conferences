@@ -2,6 +2,7 @@
 title:
   "Keynote: Lessons Learned from Driving Enterprise MCP Adoption - Sheng Liang,
   CEO, Obot AI"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   The speaker reflects on the rapid growth of the MCP community since the

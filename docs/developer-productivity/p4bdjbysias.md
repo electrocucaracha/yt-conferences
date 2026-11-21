@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Digital Nudge • Fabio Pereira & Linda Rising • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   In this conversation, Linda Rising and Fabio Pereira discuss the influence

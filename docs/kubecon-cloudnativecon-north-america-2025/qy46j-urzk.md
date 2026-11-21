@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Prepare for Disruptions: How We Upgrade the Whole ML Training Fleet Bi-week...
   Cong Gu & Ankit Goyal"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Monkit and Frank from LinkedIn’s AI Platforms team

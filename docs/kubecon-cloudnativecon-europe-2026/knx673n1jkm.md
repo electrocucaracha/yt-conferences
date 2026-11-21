@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Optimize Sidecarless Service Mesh With A Brand-New
   Rust-Base... Zengzeng Yao"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Yaoenzen from Huawei introduces a new approach to optimizing service

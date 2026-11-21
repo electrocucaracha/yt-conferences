@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Bricks That Make Us – How the LEGO Group Avoids 50 Medio... Thomas Øther
   Rasmussen & Paul Farver
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The LEGO Group, a toy company, has adopted a platform engineering mindset

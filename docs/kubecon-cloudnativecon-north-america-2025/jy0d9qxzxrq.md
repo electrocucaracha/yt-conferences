@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Debugging Your Cluster When It’s on Fire - Nikola Grcevski, Grafana Labs &
   Tyler Yahn, Splunk
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Tyler Yan from Splunk and Mario Matias from Grafana

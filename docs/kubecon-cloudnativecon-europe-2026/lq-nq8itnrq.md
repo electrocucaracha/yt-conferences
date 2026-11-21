@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond Stateless: Distributed Transactions with Autoscaling and Consistency
   on K... Jumpei Nishitani"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this CubeCom session, Jere Nishani, a software engineer at Hitachi,

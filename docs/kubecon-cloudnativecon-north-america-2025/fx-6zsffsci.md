@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Young? First-Gen? Female? New? Here’s Why You Belong Here
   Too - Jennifer Weir"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Jennifer Weir shares her journey as a young, first-generation female

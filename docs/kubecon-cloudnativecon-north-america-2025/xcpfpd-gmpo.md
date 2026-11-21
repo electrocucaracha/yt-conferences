@@ -1,5 +1,7 @@
 ---
+layout: default
 title: People-first Path To Cell-based Architecture - Martin Jones & Asanka Abeysinghe
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, the speakers discuss their transition of 60,000 users from

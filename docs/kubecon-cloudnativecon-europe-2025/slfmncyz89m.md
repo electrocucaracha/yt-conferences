@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Simplifying Apache Kafka on Kubernetes With Strimzi - Paolo Patierno & Gantigmaa
   Selenge, Red Hat
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=sLFmnCyZ89M

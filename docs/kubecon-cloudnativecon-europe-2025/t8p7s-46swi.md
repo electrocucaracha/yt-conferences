@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Harbor and LFX Mentorship Projects - Vadim Bauer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Vadim Mau, co-maintainer of Project Harour, discusses their experience

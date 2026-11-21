@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Pay Less for More: A Practitioner's Playbook for Kubern... Malgorzata Widelicka
   & Lukasz Ogrodowczyk"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Ma Gojata and Gash, DevOps specialists at Roche, discuss their experiences

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Wheel of Fortune: 5 Spins for 5 Topics! - Steve Wade, & Matteo
   Bianchi"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video discusses cloud-native topics, including air-gapped environments,

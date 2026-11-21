@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Masculinidad, Feminidad y el Caos de los Roles Modernos | Rodrigo García Platas
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa conversación con Rodrigo García Platas, psicopedagogo

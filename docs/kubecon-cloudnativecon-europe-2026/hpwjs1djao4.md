@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Day 0 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   CubeCon CloudNative Con Europe has returned to Amsterdam, welcoming attendees

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Scheduling AI Workload Among Multiple Clusters - Josh
   Packer, Supporter"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Joshua Packer, a member of the Open Cluster Management steering committee,

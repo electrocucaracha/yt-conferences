@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Kubernetes SIG Architecture Intro and Updates - John Belamaric, Google & Davanum
   Srinivas, AWS
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The SIG Architecture discussion focuses on the role of architecture in

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   A Unified Management and Control Plane for Cloud Native Robots Wi... Sitong
   Mao, Huan Wei & Yin Ding
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation at KubeCon Europe 2026, Juan and Ding, both KubeEdge

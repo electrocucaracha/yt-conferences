@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 12 - Efficient Training,
   Shikhar Murty"
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   In this lecture, the instructor shifts focus from natural language processing

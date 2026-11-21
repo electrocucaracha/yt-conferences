@@ -2,6 +2,7 @@
 title:
   "MCP at 18 Months: Protocols, Patterns, and What We Didn't See Coming - Shaun
   Smith, Hugging Face"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   Sean Smith from Hugging Face discusses the evolution and impact of the

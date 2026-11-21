@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Lessons Learned Building the Chrome DevTools MCP Server"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Jack, a member of the Google Chrome DevTools team, introduces the newly

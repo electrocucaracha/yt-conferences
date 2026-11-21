@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Software Design: Beyond Boxes & Lines • Jessica Kerr • YOW! 2021"
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses software design, emphasizing its importance in

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: ModelPack: An Open Standard for Packaging, Distributing,
   and... Tao Peng"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Top from Mr introduces Model Bank, a new open-source project aimed at

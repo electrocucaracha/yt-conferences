@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Public Technical Oversight Committee (TOC) Meeting - Moderated by Bob Killen,
   CNCF
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Technical Oversight Committee (TOC) of the Cloud Native Computing

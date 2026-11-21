@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Security Chaos Engineering: From Theory to Practice • Jamie Dicken • GOTO
   2021"
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker, Jamie Dicken, discusses how applying chaos engineering principles

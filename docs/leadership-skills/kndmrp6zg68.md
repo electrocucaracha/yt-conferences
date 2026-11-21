@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Convince a Top Performing Employee to Stay After Resigning | Advice
   for Engineering Man
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard shares his experience as an engineering manager

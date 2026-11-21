@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Detect, Decide, Defend: Building Cloud Native Security That Fights Back -
   Matthias Bertschy, ARMO"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Matias, a Kubernetes security expert and CNCF project maintainer,

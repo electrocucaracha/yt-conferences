@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes IP Management: From Core Concepts To Strategic Solutions - Ivy
   Zhuang & Whitney Jenkins"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Whitney Jenkins and Ivy from Google discuss Kubernetes

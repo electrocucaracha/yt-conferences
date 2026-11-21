@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Do You Trust Your PodDisruptionBudgets? You Shouldn’t! - Kārlis Akots Gribulis,
   Saxo Bank
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Carlo Sakos Gribbles, a container platform engineer at Saxo Bank, discusses

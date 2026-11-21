@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Redefining MLOps at Scale on Top of Kubernetes - Randy
   Bias, Mirantis"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the challenges of managing exponentially growing

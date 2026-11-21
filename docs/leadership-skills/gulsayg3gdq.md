@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How Women in STEM Can Navigate the Gender Gap to Advance Your Career TEDx Speaker
   Prashha Dutra
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, confidence coach and TEDx speaker Prasha Dutra discusses

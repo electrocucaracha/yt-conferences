@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Bob and Alice Revisited: Understanding Encryption in Kubernetes - Jackie Maertens
   & Mitch Connors"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speakers introduce encryption standards in Kubernetes by first explaining

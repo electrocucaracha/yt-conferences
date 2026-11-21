@@ -1,5 +1,7 @@
 ---
+layout: default
 title: El Éxito en los Negocios Se Aprende – Carlo Ledezma | Sesión 28
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Carlos Ledesma, economista y experto en ventas directas,

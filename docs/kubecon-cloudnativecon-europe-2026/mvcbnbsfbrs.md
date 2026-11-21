@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "API is the New SSH: Forging a Zero-Trust VM Platform on Kubernetes - Evangelista
   Tragni, Devoteam"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The session focused on running virtual machines (VMs) within Kubernetes

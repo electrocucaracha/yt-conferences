@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Optimized Scheduling for Big Data Workloads - The Why, What... Rahul Sharma
   & Wilfred Spiegelenburg
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presentation discusses optimizing scheduling for large-scale big

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Doubling Engineering Productivity at eBay Through DevOps • Randy Shoup • YOW!
   2022
+parent: "Developer Productivity"
 type: Video Note
 description:
   Randy Shapp, former eBay engineer, shares his experience of doubling

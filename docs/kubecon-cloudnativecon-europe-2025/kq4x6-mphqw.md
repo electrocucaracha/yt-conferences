@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Rust in the Linux Kernel: A New Era for Cloud Native Performance
   and... Greg Kroah-Hartman"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Greg, a kernel maintainer, discusses the importance of C and Rust in

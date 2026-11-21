@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Simplicity • Pragmatic Dave Thomas & Sarah Taraporewalla • GOTO 2025
+parent: "Developer Productivity"
 type: Video Note
 description:
   Dave Thomas, co-founder of The Pragmatic Programmer, discusses his new

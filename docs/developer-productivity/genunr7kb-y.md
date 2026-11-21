@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Deprecating Simplicity - Building a New Test Culture • Casey Rosenthal • GOTO
   2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses continuous verification, a proactive experimentation

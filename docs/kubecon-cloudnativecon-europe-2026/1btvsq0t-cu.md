@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The Road To Strimzi 1.0 - Jakub Scholz, Cloudera & Paolo Patierno, IBM
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Paulo and Jakob, core maintainers of the StreamZ project, shared their

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "We Deleted Our Observability Stack and Rebuilt It With OTEL: 12 Engine...
   Yash Sharma & Kunju Perath"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Yash and Kunju from DigitalOcean discuss the evolution

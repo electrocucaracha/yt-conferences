@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sync or Swim: Building Platforms You Can See - Heather Lee & Mike Cutsail,
   Apple"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Mike and Heather from Apple discuss the challenges and

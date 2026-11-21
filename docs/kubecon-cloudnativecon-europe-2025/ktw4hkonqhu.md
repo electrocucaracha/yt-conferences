@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Conveying the Importance of Platform as a Product in the Cloud Native Ecosystem
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video transcript discusses the importance of platform as a product

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Scaling MCP with Antje Barth from AWS"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Auntie, a principal developer advocate at AWS, discusses practical approaches

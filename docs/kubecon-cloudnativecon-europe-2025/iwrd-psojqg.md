@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Pushing the Limits of Prometheus at Etsy - Chris Leavoy, Etsy & Bryan Boreham,
   Grafana Labs
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The talk discusses the challenges of operating Prometheus at scale, specifically

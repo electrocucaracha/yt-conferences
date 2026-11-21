@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Buildpacks: Towards 1.0, AI and Other Things - Aidan Delaney, Bloomberg"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Aiden, a maintainer of the Buildpacks project, introduces

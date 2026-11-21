@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Progressive Delivery: Patterns & Benefits of Decoupling Deploy from Release
   • Dave Karow • GOTO 2020"
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses progressive delivery, a concept that builds on

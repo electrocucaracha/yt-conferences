@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: From Learner To Contributor: A LFX Mentee’s Kubernetes Story
   - Lavish Pal"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this lightning talk, Lesh Pal shares his journey from a learner to

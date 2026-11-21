@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Give Me 18 Minutes and I’ll Make you Dangerously Smart (with AI)
+parent: "Interview Preparation"
 type: Video Note
 description:
   The top 1% of people use AI to enhance their intelligence by outsourcing

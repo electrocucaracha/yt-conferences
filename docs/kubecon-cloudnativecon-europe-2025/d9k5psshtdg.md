@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Extending Kubernetes for AI | Lessons Learned From Platform... - Susan, Lucy,
   Andrea, Etienne, Tim
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The panel discussion focuses on extending Kubernetes for AI workloads,

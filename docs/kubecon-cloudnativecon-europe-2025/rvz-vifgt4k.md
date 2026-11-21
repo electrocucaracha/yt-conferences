@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Strengthening Auth in Kubernetes: Image Pulling, DRA Admin Access. Rita Zhang
   & Stanislav Láznička"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Microsoft engineer Rita discusses updates in SIG O for a and authorization,

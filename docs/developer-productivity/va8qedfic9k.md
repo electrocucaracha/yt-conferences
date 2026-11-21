@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Scaling Agile: The Small-is-Beautiful of Hubs • James Coplien • GOTO 2021"
+parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Va8QedfiC9k

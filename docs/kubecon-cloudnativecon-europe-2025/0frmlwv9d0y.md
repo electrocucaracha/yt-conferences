@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Kepler Project Updates - Sunyanan Choochotkaew, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Syan from IBM Research introduces the Kepler project, a research initiative

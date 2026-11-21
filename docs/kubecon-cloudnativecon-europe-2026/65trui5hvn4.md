@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Fusing FinOps, Forecasting, and Kubernetes at Scale - Ankur Singh & Satyam
   Bhardwaj
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Ankur Singh from Red Hat and Satyam from Mirantis

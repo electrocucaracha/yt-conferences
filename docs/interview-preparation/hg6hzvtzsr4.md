@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Tell Me About Yourself (Copy This Answer)
+parent: "Interview Preparation"
 type: Video Note
 description:
   The most important question in an interview is not about your experience

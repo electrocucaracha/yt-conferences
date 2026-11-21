@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Production-Ready LLMs on Kubernetes: Patterns, Pitfalls, and Performa... Priya
   Samuel & Luke Marsden"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The presentation discusses running generative AI models on own infrastructure

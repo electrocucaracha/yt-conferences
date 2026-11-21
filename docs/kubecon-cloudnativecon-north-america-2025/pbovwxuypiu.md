@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: How One Line of Code Freed 30,000 CPU Cores: Deep-Diving Fluent Bit
   at Petabyte... F. Ponce"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Fabian, a member of OpenAI's applied observability team, discusses the

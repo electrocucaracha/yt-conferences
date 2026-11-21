@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Scaling Valkey the Right Way: Kubernetes at XL Scale - Sarthak Aggarwal &
   Madelyn Olson, AWS"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Maline Olsen and Sarthik from Amazon Elasticache discuss Valky, an open-source,

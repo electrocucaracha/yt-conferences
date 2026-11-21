@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en sueño: ¿estás durmiendo mal y no lo sabes? | Dr. Pablo Ferrero
   #48"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa entrevista, el Dr. Pablo Ferrero, especialista en medicina

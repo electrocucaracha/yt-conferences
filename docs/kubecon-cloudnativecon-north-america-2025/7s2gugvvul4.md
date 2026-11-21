@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Adapt, Include, Thrive: Disability-Informed Strategies for Cloud Native Resilience
   - Panel"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The panel discussion on cloud-native resilience and accessibility featured

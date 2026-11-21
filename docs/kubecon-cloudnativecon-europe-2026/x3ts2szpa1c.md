@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Building Intelligent Apps with RAG on Kube... Cedric C, Natale V,
   Christopher N & Legare K"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The workshop introduces participants to building Retrieval-Augmented

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "La mentalidad que me hizo millonario, venció mis miedos… y transformó mi cuerpo
   - #25 Rafael Coppola"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Rafael Cópola, piloto, empresario y conferencista,

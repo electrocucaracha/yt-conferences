@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Panel: How Platforms Can Save Junior Engineers (and Thus... Jennifer R, Leena
   M, Molly C & Paula K"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel discussion centers on the importance of platform engineering

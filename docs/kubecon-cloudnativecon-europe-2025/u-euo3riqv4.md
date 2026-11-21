@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "An Exemplary Path: Leveraging EBPFs and OpenTelemetry To Aut... Charlie Le
   & Kruthika Prasanna Simha"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=u-eUO3rIQV4

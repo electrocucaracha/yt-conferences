@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "18 Bluetooth Controllers Walk into a Bar: Observability & R... Simon Schrottner
   & Manuel Timelthaler"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this CubeCon talk, the presenters describe their experience enhancing

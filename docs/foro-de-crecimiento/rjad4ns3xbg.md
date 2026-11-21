@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Make your money work for you \U0001F4B0 Session #16 with Yoel Sardiñas"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este video, se aborda la importancia de tomar control personal sobre

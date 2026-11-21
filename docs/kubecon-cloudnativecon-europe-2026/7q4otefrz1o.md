@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Sovereign Identities for Your Cloud Native Architecture... Alexander Schwartz
   & Sebastian Łaskawiec
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk at KubeCon, Alexander Schwarz and Sebastian Wascavis discuss

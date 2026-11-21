@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Introduction To TAG Infrastructure - Dylan Page & Kashif Khan
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Dylan Paige and Kashifan, co-chairs of the CNCF Technical Advisory Group

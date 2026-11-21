@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Maximizing the Launch Reliability: Ensuring Stable Application Lift-off and
   Orbi... Hiroshi Hayakawa"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Hiroshi, a product owner at LY Corporation’s private cloud division,

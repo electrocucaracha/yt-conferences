@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Simplify Kubernetes Operator Development With a Modular Desi... Mostafa Hadadian
   & Alexander Lazovik
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses building an AI serving platform using Kubernetes

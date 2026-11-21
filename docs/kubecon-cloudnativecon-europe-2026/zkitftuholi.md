@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Welcome + Opening Remarks - Jonathan Bryce & Chris Aniszczyk"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The opening keynote at KubeCon Amsterdam 2026 celebrated the event’s

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Taking Care of Your Control Plane With API Priority and Fairness an... Matteo
   Ruina & Ayaz Badouraly
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "The speaker, Mateo, discusses the importance of taking care of the Kubernetes

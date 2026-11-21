@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Day 1 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Uche welcomes viewers to the first day of KubeCon CloudNativeCon Europe

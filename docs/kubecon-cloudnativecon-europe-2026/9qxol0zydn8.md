@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Orchestrating Document Data Extraction with Dapr Agents - Fabian
   Steinbach"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Fabian, a software architect at Zeiss, explains the challenges of extracting

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Operators in Action: Making Kubernetes Work for You - Verena Traub, b'nerd
   GmbH"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   "The speaker begins by introducing themselves and their background, then

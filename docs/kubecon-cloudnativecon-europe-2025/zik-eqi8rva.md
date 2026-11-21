@@ -1,5 +1,7 @@
 ---
+layout: default
 title: SIG Scheduling Intro & Updates - Maciej Skoczeń, Google; Kensei Nakada, Tetrate.io
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Google team is working on improving the performance and efficiency

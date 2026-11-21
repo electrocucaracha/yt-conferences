@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] Beyond API Wrappers: Workflow-Based MCP Servers with Elicitation
   and Sampling"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   In this talk, Tom McLolin from Tomorrow AI discusses moving beyond the

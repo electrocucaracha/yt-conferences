@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Habits of Efficient Developers • Daniel Lebrero Berna • GOTO 2020
+parent: "Developer Productivity"
 type: Video Note
 description:
   "The speaker, Daniel, emphasizes the importance of being efficient as

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Ultimate Guide to Growing on Instagram and TikTok (and Making a Living
   from It) || Andrea Mex...
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa conversación, se aborda la evolución y el impacto de

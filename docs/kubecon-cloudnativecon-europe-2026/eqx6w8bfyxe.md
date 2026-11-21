@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Open Source To Enterprise Scale and Back: A Journey... Michael Kuhnt
   & Gabriel Adrian Samfira"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Michael from Mercedes-Benz Tech Innovation and Gabriel

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Powering the European Space Agency’s Space Missions with Open Source
   So... Aaron Whitehouse"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The European Space Agency (ESA) has a long history of advancing space

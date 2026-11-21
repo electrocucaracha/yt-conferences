@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Evolution or Revolution: Istio as the Network Platform for Cloud Nat... Mitch
   Connors & Daniel Grimm"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this STO maintainer track talk, presenters Mitch Connors and Daniel

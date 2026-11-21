@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Influence Without Authority at Work [Persuasion - Part 1 of 3]
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Katelyn Lesse – Evolving Claude APIs for Agents, Anthropic
+parent: "Aie Code 2025 Ai Leadership"
 type: Video Note
 description:
   Katelyn, leader of the Claude developer platform team at Anthropic, discusses

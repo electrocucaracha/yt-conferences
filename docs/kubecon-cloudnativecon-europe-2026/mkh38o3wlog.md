@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Hacking GPU Observability: eBPF & Ephemeral Containers in Action on Kubernetes
   - Brandon Kang"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Brendan from Akami discusses the challenges of

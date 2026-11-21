@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: You Can Score It! Shift Down to the Platform. Do Not
   Shift... Mathieu Benoit"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker represents the Score project, a CNCF initiative aiming to

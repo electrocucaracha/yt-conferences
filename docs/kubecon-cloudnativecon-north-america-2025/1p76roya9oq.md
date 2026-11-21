@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Panic To Peace: Making K8s Controller Observability Suck Less - Cat Morris
   & Derik Evangelista"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presenters discuss improving Kubernetes controller observability

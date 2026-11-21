@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Solving Industrial Challenges With KubeEdge: A Post-Graduation... Yue Bao,
   Hongbing Zhang & Yin Ding"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video presents an overview of the Kubedge project, which addresses

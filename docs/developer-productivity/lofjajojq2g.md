@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Making Mutants Work for You • Henry Coles • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the concept of mutation testing, which involves

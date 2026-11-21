@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Domina el Escenario \U0001F3A4: Secretos para Hablar en Público | Paco Benitez
   sesión de crecimiento #6"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta conversación, Paco Benítez, coach de conferencistas, comparte

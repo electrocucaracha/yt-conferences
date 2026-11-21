@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Myth of Portability: Why Your Cloud Native App Is Married To Your Provider
   - Corey Quinn"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Corey Quinn critiques the common practice of over-engineering

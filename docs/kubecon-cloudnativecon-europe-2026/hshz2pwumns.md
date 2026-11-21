@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: The Cloud Native Feedback Loop... Karena Angell, Katie Gamanji, Chad
   Beaudin & Ahmed Bebars"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video transcript presents a keynote discussion emphasizing that cloud

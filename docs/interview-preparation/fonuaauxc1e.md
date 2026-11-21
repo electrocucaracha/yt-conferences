@@ -1,5 +1,7 @@
 ---
+layout: default
 title: If I Were Looking For A Tech Job In 2025 I'd Do This
+parent: "Interview Preparation"
 type: Video Note
 description:
   A recent graduate with a computer science degree is struggling to find

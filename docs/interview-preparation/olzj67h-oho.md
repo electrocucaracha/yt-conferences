@@ -1,5 +1,7 @@
 ---
+layout: default
 title: It Took Me 40 Years To Learn What I’ll Tell You In 13 Minutes
+parent: "Interview Preparation"
 type: Video Note
 description:
   He reveals the reason for their stagnation was not due to their skills,

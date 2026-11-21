@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Cómo Liberarte del Juicio, Perdonar y Crear Abundancia | Papá Jaime
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Papá Jaime, reconocido líder humanista y nominado

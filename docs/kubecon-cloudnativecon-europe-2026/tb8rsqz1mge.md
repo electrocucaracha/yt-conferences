@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: MCP Routing In Linkerd - Flynn, Technical Evangelist"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Flynn, a technical evangelist for the Linkerd project, discusses MCP

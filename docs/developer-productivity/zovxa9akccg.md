@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Calling Functions Across Languages • Richard Feldman • GOTO 2023
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the challenges of calling functions across languages,

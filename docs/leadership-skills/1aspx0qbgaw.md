@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Best Way to Introduce Yourself In Any Setting | Follow This Simple 3 Step
   Formula!
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a mentor and career coach for engineers,

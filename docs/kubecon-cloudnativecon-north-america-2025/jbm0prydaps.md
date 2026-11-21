@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Tools and Strategies for Making the Most of Kubernetes Access Con... Lucas
   Käldström & Micah Hausler
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=JBM0PRyDaPs

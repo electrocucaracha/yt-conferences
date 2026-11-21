@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Mission Abort: Intercepting Dangerous Deletes Before Helm Hits Apply - Payal
   Godhani, Oracle"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   P Gdani from Oracle Cloud Infrastructure discusses the importance of

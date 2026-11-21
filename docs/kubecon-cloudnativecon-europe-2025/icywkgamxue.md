@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Kubernetes Ontologies With Meshery - Yash Sharma,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, a developer advocate at Digital Ocean, introduces Mishri,

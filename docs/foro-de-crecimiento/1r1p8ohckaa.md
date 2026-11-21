@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "¿Estás respirando mal? \U0001F92F La forma correcta de respirar || Esteban
   Jaramillo #17"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Esteban Jaramillo, especialista en respiración y

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "De Cero a 32 Clínicas: El Éxito Empresarial de Jackie Nuñez | sesión de crecimiento
   #7"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Jacki Núñez comparte su inspiradora historia de emprendimiento

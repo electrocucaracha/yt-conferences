@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Dapr: Start Building Distributed Applications with
   Ease Using... Marc Duiker"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=iPd-IQfbVLA

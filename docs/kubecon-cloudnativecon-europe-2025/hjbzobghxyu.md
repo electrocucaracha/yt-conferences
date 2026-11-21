@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Get WITty: Evolving Kubernetes Scheduling With the WebAssembly... Dejan Pejchev
   & Jonathan Giannuzzi"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speakers, Dan Pchev and Jonathan, discuss their journey of applying

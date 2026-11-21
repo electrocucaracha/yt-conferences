@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Rust Vs. Go: Building a Container Network Stack From Scratch - Matt Heon &
   Shivang K Raghuvanshi"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Matt Heon, principal engineer at Red Hat and core maintainer of Podman,

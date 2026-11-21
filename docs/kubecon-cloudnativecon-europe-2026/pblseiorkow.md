@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: 10 Years of Building Platforms in the Public Sector - Hans
   Kristian Flaatten"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Hans Christian from the Norwegian Labor and Welfare Administration (NAV)

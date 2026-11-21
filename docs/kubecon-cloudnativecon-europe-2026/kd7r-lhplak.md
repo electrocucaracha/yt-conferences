@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Evolving Policy Management with Agentic AI: Kyverno MCP and Kagent for...
   Shuting Zhao & Dahu Kuang"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The session introduces an evolved solution for managing Kubernetes clusters,

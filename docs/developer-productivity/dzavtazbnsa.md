@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Building HTTP API SDKs that Really Are a Kit • Darrel Miller • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   Darrell Miller, a Microsoft program manager, discusses building HTTP

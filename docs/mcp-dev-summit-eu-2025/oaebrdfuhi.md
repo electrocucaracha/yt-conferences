@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Keynote] MCP Project Update with David Soria Parra - Anthropic"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   David, co-creator of MCP and technical staff at Anthropic, provides an

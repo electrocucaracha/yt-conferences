@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Untangling CSI: Powering Persistent Storage for KubeVirt - Brenda McLaren
   & Chris Keller, Red Hat"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Brendan McLaren and Chris Keller from Red Hat discuss

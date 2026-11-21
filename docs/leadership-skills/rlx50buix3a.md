@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Are You Feeling Stuck in Your Career? Escape Your Comfort Zone Part 1 of 2
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and career

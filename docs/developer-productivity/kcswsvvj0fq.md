@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Dungeons, Dragons & Developers • Matt Brunt • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   In a game of Dungeons & Dragons, a balanced party consists of characters

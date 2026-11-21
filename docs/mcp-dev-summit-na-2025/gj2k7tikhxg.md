@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] Building and Deploying Remote MCP Servers with Dina Kozlov from
   Cloudflare"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Dina Coslov, a product manager at Cloudflare, shares her experience working

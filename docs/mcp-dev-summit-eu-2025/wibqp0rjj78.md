@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Hidden powers of MCP Gateways: Solving OAuth and Analytics Challenges"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Philip Mlinsy, co-founder of Glass Cube, shares the story behind building

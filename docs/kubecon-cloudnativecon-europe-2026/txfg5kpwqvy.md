@@ -1,6 +1,8 @@
 ---
+layout: default
 title: "Project Lightning Talk: What's Exciting Now In Bootc, And What's Next? -
   Colin Walters, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Colin Walters introduces updates on two CNCF projects, Bootsie and ComposifS,

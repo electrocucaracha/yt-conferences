@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Evolving Baremetal-as-a-Service: Secure Multi-Cluster Network... Yushiro Furukawa
   & Mitsuhiro Tanino"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation introduces Flava, a next-generation private cloud platform

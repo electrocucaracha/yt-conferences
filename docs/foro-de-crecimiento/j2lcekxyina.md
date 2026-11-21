@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en negocios: las 5 etapas para construir una empresa! | Daniel Marcos
   #47"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   "En esta entrevista, Daniel Marcos, emprendedor y experto en escalamiento

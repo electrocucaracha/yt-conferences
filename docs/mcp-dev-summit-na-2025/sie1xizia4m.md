@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Please Make Jarvis So I Don't Have To with Kent C. Dodds from EpicAI.pro"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Katy Dods introduces herself as a teacher focused on building MCP servers

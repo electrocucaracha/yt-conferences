@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Most Tech Interview Prep is GARBAGE. (From a Principal Engineer at Amazon)
+parent: "Interview Preparation"
 type: Video Note
 description:
   How to effectively prepare for technical interviews, particularly for

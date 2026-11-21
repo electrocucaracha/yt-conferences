@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Platform Engineering in Action: Test-Driven Development App... Charles-Edouard
   Brétéché & Sara Qasmi"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, the speakers discuss the often-overlooked importance

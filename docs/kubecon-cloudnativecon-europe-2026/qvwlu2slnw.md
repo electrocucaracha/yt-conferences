@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SPIFFE Meets OAuth: Federated Identity for Cloud Native Workloads - Yoshiyuki
   Tabata, Hitachi, Ltd."
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Yoshik Tabata discusses how Spiffy and OAuth can be

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Deep Dive To AI Agent Observability - Guangya Liu, IBM & Karthik Kalyanaraman,
   Langtrace AI
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the challenges of building reliable and observable

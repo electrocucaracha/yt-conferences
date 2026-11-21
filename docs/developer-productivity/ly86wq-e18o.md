@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Amazing Code Reviews: Creating a Superhero Collective • Alejandro Lujan •
   GOTO 2019"
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker shares their experience of struggling with code reviews during

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Advancements in AI/ML Inference Workloads on Kubernetes From... Yuan Tang &
   Eduardo Arango Gutierrez
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "The working group serving aims to enhance Kubernetes controllers and

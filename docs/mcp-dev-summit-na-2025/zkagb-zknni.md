@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] Building a MCP Server for Agentic Commerce with Brenden Lane and
   Nitin Sharma from PayPal"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   In this presentation, Brendan and Nitten from PayPal introduce the MCP

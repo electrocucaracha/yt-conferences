@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Making Kubescape Storage Scale From Small and Mid-Size
   To... Ben Hirschberg"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Ben, CTO and co-founder of Armo and a maintainer of the CNCF project

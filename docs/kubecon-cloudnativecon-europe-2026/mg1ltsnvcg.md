@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   What's Coming Next in Containerd 2.3? - Mike Brown, IBM & Krisztian Litkey,
   Intel
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video features core maintainers and contributors of containerd discussing

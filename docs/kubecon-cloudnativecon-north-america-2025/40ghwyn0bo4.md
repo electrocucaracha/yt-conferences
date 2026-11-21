@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Fluent Bit: Smarter Telemetry Routing, Faster Pipelines - Eduardo Silva, Chronosphere"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Eduardo Silva, creator and maintainer of Fluent Bit, opened his conference

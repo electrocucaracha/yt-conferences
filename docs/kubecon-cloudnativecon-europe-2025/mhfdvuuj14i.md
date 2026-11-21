@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The NATS Stack - Libraries Extensions and the Execution Engine - Tomasz Pietrek
   & Jordan Rash
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Maurice Fain and Jordan Rash from Senia discussed the NATS (Advanced

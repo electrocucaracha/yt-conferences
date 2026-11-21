@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Open Source Malware or a Vulnerability?... Brian Fox, Madelein van der Hout
   & Santiago Torres-Arias
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   A panel discussion on software supply chain attacks and vulnerabilities

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Closing Remarks"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker expresses gratitude to the keynote speakers, co-chairs, and

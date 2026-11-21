@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Day 2 - KubeCon + CloudNativeCon 2025 Europe Highlights from London
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The CubeCon Cloud Native Con Europe 2025 day 2 conference kicked off

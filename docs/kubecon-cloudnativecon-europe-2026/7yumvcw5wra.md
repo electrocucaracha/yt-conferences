@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Advanced Kyverno Patterns : Automating Platform Security and Ope... Frank
   Jogeleit & Johannes Sonner"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Frank and Johannes introduce Kyverno, a Kubernetes-native

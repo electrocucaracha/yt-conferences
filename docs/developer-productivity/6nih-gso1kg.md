@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Improving Business Resiliency with Chaos Engineering • Olga Hall • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker, a practitioner in chaos engineering, discusses building

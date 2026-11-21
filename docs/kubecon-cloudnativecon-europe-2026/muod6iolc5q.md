@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: How Ubisoft Orchestrates Global Multiplayer Games with. Jean-François
   Hubert & Mark Mandel"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Jean-François, Software Development Director at Ubisoft, and Mark Mandel,

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: I’ve Got 99 Problems and They’re All Controllers - Tim Goodwin, UC Santa Cruz
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Tim Goodwin, a PhD student at UC Santa Cruz, discusses the challenges

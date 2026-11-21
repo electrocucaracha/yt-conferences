@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Awards Ceremony"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Community Awards ceremony recognized outstanding contributions to

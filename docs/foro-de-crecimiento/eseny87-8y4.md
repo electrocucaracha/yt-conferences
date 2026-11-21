@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en Trabajo en Equipo: Cómo decidir mejor y liderar equipos ganadores
   | Arturo Brizio"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Arturo Brizio, reconocido exárbitro mexicano de fútbol,

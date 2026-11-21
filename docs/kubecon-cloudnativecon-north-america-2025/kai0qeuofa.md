@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Node Manager - How Yahoo Manages Thousands of Nodes at Scale? - Payal Patel,
   Yahoo
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Piyal Patel, a principal software development engineer at Yahoo, presents

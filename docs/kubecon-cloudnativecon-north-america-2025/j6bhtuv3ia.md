@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "OpenTelemetry Logs Driving a Major Shift: Events, Richer Data, and Smarter
   Semantics - Robert Pająk"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Robert Pyong’s talk focuses on the evolving role of logs in OpenTelemetry,

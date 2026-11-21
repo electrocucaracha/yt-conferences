@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: The Weight of Data: Rethinking Cloud-Native Systems f...
   V. Caldeira & H. Cummins"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses how the industry's fundamental shift occurred with

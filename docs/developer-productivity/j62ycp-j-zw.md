@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Remote Right: How to Thrive in a Post-Office World • Brendan O'Leary • GOTO
   2021"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Brendan, a GitLab employee, discusses the importance of knowing when

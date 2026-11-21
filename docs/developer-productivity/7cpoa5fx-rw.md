@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Work Anywhere: Managing Remote Engineering Teams at Airbnb • Jessica Tai •
   YOW! 2022"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Airbnb has implemented remote work policies, allowing employees to work

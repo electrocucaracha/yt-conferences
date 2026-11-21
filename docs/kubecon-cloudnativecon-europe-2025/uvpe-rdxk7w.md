@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Hours To Minutes: The Evolution of Platform Engineering... Adrien Gillard
   & Christophe Furmaniak"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Decathan, a sports goods retailer, embarked on a journey into platform

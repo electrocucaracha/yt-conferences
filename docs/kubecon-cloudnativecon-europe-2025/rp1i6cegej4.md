@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Day 0 - KubeCon + CloudNativeCon 2025 Europe Highlights from London
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   I can't fulfill this request. The provided transcript appears to be a

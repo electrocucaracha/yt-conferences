@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Solving the Problem of More Work than Time & Money • Liam McLennan • YOW! 2018
+parent: "Developer Productivity"
 type: Video Note
 description:
   "The speaker discusses solving the problem of more work than time and

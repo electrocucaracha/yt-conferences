@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Failure Is Not an Option: Durable Execution + Dapr = \U0001F680 - Marc Duiker,
   Diagrid"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the importance of durable execution and workflow

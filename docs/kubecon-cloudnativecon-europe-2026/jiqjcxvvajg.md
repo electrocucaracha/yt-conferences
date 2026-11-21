@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   AI'm at the Gate! Introducing the AI Gateway Working G... Morgan Foster, Nir
   Rozenbaum & Shachar Tal
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The talk introduces a new working group focused on developing an "AI

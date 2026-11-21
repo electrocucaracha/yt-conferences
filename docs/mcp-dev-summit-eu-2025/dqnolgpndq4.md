@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] MCP Registry: The Path To (De-)Centralizing Discovery"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The video discusses the MCP registry, emphasizing its role in enabling

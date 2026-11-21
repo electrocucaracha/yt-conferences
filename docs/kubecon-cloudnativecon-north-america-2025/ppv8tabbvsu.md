@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Linkerd, mTLS, and Bungled Bundles - Flynn, Technical
   Evangelist"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Flynn from the Linkerd project discusses the challenges of managing MTLS

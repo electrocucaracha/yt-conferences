@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Navigating the AI/ML Networking Maze in Kubernetes: Lessons From the Trenches
   - Antonio Ojea, Google"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Antonio from Google’s SIG Network shares his experiences

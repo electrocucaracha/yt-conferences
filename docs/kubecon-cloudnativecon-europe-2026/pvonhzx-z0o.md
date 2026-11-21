@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Optimizing Error Recovery for Cost-Ef... Radostin Stoyanov, Andrey Velichkevich
   & Viktória Spišáková
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation discusses research on optimizing error recovery for

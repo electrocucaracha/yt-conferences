@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Reimagining Insurance Infrastructure: CopperPoint's Cloud Native Blueprint
   - Sid Dixit & Sham Rao"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Sid Dixit and Shamar Rao from Copper Point Insurance

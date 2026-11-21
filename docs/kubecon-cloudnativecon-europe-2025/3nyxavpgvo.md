@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   OSS = Open Source ... Strategy!? Google Is Doubling Down on K8s in the AI Era,
   and Yo... ago Macleod
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "The speaker discusses the evolution of Kubernetes, an open-source container

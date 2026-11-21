@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Taming the Traffic: Select... Spencer Hance, Arko Dasgupta, Christine Kim,
   Kate Osborn & Mike Morris"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video panel discusses the selection of a gateway API implementation

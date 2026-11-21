@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: OpenCost: Cost And Resource Management - Rajith Attapattu,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker introduces the OpenCost project, a vendor-neutral CNCF incubating

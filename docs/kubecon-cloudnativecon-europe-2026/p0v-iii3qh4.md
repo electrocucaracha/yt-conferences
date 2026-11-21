@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | KubeVirt Summit: Bridging Islands: EVPN Overlays for
   Multi-C... Miguel Duarte"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Miguel from Red Hat’s networking team presents on implementing EVPN overlays

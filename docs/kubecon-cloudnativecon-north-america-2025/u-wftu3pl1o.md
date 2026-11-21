@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   SIG-Multicluster Intro and Deep Dive - Stephen Kitt, Pavanipriya Sajja & Jeremy
   Olmsted-Thompson
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The SIG Multicluster session, led by Jeremy, Stephen, and Pawani Priya

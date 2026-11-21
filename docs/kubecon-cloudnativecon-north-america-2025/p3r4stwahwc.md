@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Real-World Strategies for Cutting Kubernetes Costs: Why One Size Doesn’t Fit
   All - Dolis Sharma"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker discusses real-world strategies for reducing Kubernetes cloud

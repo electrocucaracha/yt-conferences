@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Making Topology-Aware Scheduling Practical for AI Workloads: From Discovery
   to Simula... Weizhou Lan"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Wulan, a senior tech lead at docloud, discusses making

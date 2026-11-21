@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: LLM-Aware Load Balancing in Kubernetes: A New Era of Effici... Clayton
   Coleman, Jiaxin Shan"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Kubernetes gateway API inference extension project aims to enable

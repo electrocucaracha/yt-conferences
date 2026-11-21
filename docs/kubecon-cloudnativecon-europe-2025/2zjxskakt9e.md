@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: ORAS: Create and Distribute a Multi-platform Image
   with Secu... Andrew Block"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Andrew Black, a distinguished architect at Red Hat, discusses the use

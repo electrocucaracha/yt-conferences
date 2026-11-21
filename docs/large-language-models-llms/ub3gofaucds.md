@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 1 - Transformer
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   The transcript is from the introductory lecture of CME 295, a Stanford

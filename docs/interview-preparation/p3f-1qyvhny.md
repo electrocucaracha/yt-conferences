@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Success Is Hard Until You Build Systems Like This
+parent: "Interview Preparation"
 type: Video Note
 description:
   To reach the top 1%, one must design systems that do the hard work for

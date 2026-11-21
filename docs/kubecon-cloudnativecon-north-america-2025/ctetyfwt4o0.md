@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Creating and Maintaining Ephemeral Runtime Environments for 18,000 Deve...
   Alexandre Astolpho Thomaz
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Ali Shandri, a software engineer with 18 years of experience, introduces

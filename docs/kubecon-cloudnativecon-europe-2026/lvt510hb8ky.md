@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   One Controller to Rule Them All - Taming Multiple Orchestrator... Srikar Paruchuru
   & Egor Grishechko
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Sri and Eager from Uber’s compute team in Amsterdam discussed their experience

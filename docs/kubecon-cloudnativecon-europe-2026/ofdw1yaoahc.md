@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Smart Routing at Scale: How Spotify’s XDS Control Plane Cut 75%... Yannick
   Epstein & Anya Hristova"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this CubeCon presentation, Ana Christoa and Yanikai from Spotify describe

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 4: Learning III"
+parent: "Stanford Cs221 Artificial Intelligence Principles"
 type: Video Note
 description:
   The lecture introduces deep learning, beginning with a review of linear

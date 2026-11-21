@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   9 Lessons Learned from Deploying GenAI at Scale • Garth Gilmour & Stuart Greenlees
   • GOTO 2025
+parent: "Developer Productivity"
 type: Video Note
 description:
   Stuart, a leader at Liberty Mutual, shares his experience with deploying

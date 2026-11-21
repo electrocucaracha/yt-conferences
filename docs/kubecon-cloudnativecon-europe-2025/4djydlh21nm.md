@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Resilient Multi-Cloud Strategies: Harnessing Kubernetes, Cluster API, and...
   T. Rahman & J. Mosquera"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=4DjydLH21nM

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Drasi: A New Take on Change-driven Architectures - Aman Singh, Microsoft"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Aman Singh, maintainer of the CNCF project DRSI, introduces how DRSI

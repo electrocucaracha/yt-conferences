@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Hybrid-Confidential-Cloud: Democratize Secure AI With GPUs and Confidential
   Contain... Zvonko Kaiser"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, Kaiser from Nvidia’s cloud native team discusses the

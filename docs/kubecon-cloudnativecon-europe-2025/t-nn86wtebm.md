@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Zero Trust at Shopify Scale: Automating MTLS Across Thousands of Serv... Dani
   Santos & Michelle Mali"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Shopify's journey with MTLS (Mutual Transport Layer Security) highlights

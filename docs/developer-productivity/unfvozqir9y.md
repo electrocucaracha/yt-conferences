@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Combining Product Thinking & Spotify’s Backstage • Flavia Naezer & Vijai Ramcharan
   • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   The team at NN built an internal developer platform (IDP) called Zelda,

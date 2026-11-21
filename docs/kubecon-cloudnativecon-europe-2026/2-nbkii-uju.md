@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "OpenAPI Meets Kubernetes: Auto-Generating CRDs and Oper... Sergiusz Urbaniak
   & Jose Vázquez González"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this CubeCon talk, Sergio and Jose from MongoDB discuss the challenges

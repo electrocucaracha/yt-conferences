@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   A Journey To Modernizing a Regulated Cloud Control Plane - Pranita Praveen
   & Steven Borrelli
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=TELnK0PrKHU

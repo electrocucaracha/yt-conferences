@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Multi Agent Collaboration in MCP with Nicholas Aldridge from AWS"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Nick Aldridge, a principal engineer at AWS, shares his frustrating experience

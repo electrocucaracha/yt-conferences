@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   CNCF TAG Network and Cloud Native Network Landscape - Zhonghu Xu, Huawei &
   Nic Jackson, Hashicorp
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The CNCF is rebranding its network reboot initiative, merging tag networks

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Welcome Back + Opening Remarks"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The final day of keynotes at CubeCon and Cloud Neton has begun, with

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Cloud Native University: Introduction to GitOps - Chris
   Plank, NatWest"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Chris Plank, a CNCF platform engineering community leader and UK bank

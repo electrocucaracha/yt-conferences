@@ -1,5 +1,7 @@
 ---
+layout: default
 title: On-Call the Easy Way With Agents - Ryan Tay & Kartikeya Pharasi, Intuit
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   In this talk, Karthik and Ryan from Intuit’s service mesh team discuss

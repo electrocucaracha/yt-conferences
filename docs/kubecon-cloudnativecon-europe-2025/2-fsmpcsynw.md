@@ -1,5 +1,7 @@
 ---
+layout: default
 title: KubeCon FamilyFortune, Episode 2 - Tim Hockin, Google & Lucy Sweet, Uber
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   In the Family Feud-style game show "Kubernetes Family Fortune," two teams,

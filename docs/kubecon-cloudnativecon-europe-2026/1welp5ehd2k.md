@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Closing - Robert Sirchia"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker expresses heartfelt gratitude to attendees and emphasizes

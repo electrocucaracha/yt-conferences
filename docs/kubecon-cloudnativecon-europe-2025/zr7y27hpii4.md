@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Set Your Developers Free: Fleet Management at Spotify - Stefan Särne, Spotify"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Stefan, a Spotify engineer, shares the story of how they handled a security

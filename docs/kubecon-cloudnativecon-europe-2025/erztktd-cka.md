@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Vitess: Unlimited Database Scalability - Shlomi Noach,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Schlomi from Planet Scale introduces unlimited scaling in Vitess, an

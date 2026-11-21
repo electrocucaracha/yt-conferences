@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Multi-Cluster Configuration Management With KubeStellar
   - Andy Anderson"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Andy Anderson, a software architect at IBM Research, introduces Coupe

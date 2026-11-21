@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Latest in GPU, TPU, NIC and Other Device Support - WG Device Ma... John
   Belamaric & Patrick Ohly
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The working group device management meeting, led by engineers from Intel,

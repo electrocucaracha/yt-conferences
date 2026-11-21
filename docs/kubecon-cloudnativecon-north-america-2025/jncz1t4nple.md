@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Building AI/ML Pipelines on Kubernetes - Susan Wu, Ian Chakares, Lu Qiu, Anant
   Vyas & Lucy Sweet
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The panel discussion, led by Susan Wu and featuring experts from Google,

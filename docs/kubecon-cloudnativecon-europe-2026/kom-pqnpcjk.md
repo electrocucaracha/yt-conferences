@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Observing Chaos: Real-Time Monitoring of AI-Driven Kubernetes Destr... Josh
   Halley & Ricardo Aravena"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this CubeCon session, Josh Halley and Ricardo present their project

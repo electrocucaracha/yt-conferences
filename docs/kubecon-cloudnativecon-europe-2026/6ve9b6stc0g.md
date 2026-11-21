@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Prometheus V3 One Year In: OpenMetrics 2.0 and More! - Jan Fajerski & Bartłomiej
   Płotka"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation provides an overview of recent developments and future

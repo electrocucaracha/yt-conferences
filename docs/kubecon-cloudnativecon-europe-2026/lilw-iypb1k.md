@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Emissary-ingress: Version 4 and What Comes Next - Flynn, Buoyant"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Flynn from Buoyant led a session discussing the release of Emissary 4.0.1,

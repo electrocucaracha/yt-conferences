@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Sink or Swim? Team Lead and "Junior" SREs Debate... Verena T, David P, Melody
   E, Patrick S & Petr R
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel discussion, moderated by Verina, explored the challenges and

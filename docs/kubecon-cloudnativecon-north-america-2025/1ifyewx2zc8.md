@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: The Community-Driven Evolution of the Kubernetes Network Dri... Lionel
   Jouin & Antonio Ojea"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Lionel from Red Hat and Antonio from Google share a story about the evolution

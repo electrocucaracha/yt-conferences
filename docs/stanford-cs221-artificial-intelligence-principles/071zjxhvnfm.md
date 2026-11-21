@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 18: AI & Society"
+parent: "Stanford Cs221 Artificial Intelligence Principles"
 type: Video Note
 description:
   The lecture shifts focus from the technical aspects of AI to its societal

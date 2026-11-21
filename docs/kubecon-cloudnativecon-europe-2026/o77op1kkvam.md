@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   To Upstream or Not? Why Becoming the Maintainer of Your Dependencies Matters
   - Christos Markou
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Christo Marco, a software engineer at Elastic and maintainer in the OpenTelemetry

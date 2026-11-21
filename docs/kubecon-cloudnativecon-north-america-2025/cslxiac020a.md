@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "UX Research Report: Prometheus and OTel's Resource Attributes. - Victoria
   Nduka & Amy Super"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presentation detailed a UX research project focused on how Prometheus

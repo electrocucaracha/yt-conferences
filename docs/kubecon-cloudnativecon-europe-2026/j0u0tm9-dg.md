@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Next Chapter of Developer Experience: TAG De... Julien S, Graziano C,
   Mona B, Kevin D & Daniel O"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   "The TAG Developer Experience team discussed their ongoing efforts to

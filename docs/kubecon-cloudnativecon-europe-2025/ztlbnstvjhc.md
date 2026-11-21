@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How To Gateway With Ingress - 140 Days InGate - Marco Ebert & James Strong
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Ingress Engine X project has been facing several security vulnerabilities,

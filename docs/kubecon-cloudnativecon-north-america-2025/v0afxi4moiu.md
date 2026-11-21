@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Not Forking Around: Leveraging NRI To Extend Kubernetes at Scale - Johan Jensen
   & Wesley Bermbach"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Johan and Wesley, software engineers at Uber, discuss their work on migrating

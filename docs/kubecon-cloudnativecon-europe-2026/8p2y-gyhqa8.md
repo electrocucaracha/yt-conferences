@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Idle to Savings: Building a Global Scheduler for Cost‑Efficient Data
   P... Rainie Li & Ang Zhang"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Rainey, a senior engineering manager at Pinterest, outlines

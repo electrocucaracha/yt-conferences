@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Streamlined Efficiency: Unshackling Kubernetes Image Volumes for Rapid A...
   Esteban Rey & Yifan Yuan"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The presentation discusses how to speed up loading of large data sets

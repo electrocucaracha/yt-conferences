@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "What Survived Production: Operating Game Backends at Million-Player Scale
   - Berkay Uckac"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   At CubeCon 2026 in Amsterdam, Barai shared insights from three years

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Ping SRE? I Am the SRE! Awesome Fun I Had Drawing a Zine for Troubleshooting
   Kubern... René Dudfield
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker introduces the concept of zines—small, DIY booklets often

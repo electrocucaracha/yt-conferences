@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How Technical Problems Cause Organizational Friction • Adam Tornhill • GOTO
   2023
+parent: "Developer Productivity"
 type: Video Note
 description:
   "The speaker discusses socio-technical smells, which are organizational

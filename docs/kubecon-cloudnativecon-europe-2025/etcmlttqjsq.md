@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Trust No One: Secure Storage With Confidential Containers - Aurélien Bombo,
   Microsoft"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Aurelian Bombo from Microsoft discusses confidential computing, a future

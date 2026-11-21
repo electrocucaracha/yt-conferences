@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Make GenAI Production-Ready With Kubernetes Patterns - Roland Huss, Red Hat
   & Bilgin Ibryam, Diagrid
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, the speakers introduce themselves as experts in Kubernetes

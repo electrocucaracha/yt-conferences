@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   OpenTelemetry Project Update and 'Ask the Experts' - Pablo B, Juraci P, Marylia
   G & Severin N
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The OpenTelemetry product update session covered several major advancements

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "A Parallel World: Understanding CNCF's TOC, TAGs, and TCGs - Eddie Knight,
   Sonatype"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Eddie Knight, a sponsored contributor at Sonatype, shares his journey

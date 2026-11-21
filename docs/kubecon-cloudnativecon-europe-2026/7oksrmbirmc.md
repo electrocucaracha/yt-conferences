@@ -1,6 +1,8 @@
 ---
+layout: default
 title: "Cloud Native Theater | EnvoyCon: The Future of AI Traffic: What's New in
   Envoy AI Tra... Xiaolin Lin"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Shins from the AI traffic team at Boomber presented on the future of

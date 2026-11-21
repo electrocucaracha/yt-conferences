@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "10 Years of Cilium: Connecting, Securing... Bill Mulligan, Paul Arah, Neha
   Aggarwal, Satish Krishnan"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session began with an update on the Psyllium project, marking its

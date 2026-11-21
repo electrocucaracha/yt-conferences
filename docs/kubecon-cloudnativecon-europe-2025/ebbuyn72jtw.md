@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   'Authz as a Dev Workflow: Architecting Better Cloud Native Apps - Dan "phrawzty"
   Maher, Cerbos'
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Dan discusses the challenges of authorization in modern applications,

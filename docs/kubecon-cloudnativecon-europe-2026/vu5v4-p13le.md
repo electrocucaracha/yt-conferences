@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: “Naming Things Is Hard”: A Guide to Naming Using Network Science
   - Nick Travaglini"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Nick, a senior technical customer success manager at Honeycomb.io,

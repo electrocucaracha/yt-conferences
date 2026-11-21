@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: KV-Cache Wins You Can Feel: Building AI-Aware... Tyler S, Kay Y,
   Vita B, Nili G & Maroon A"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation provides a deep dive into LMD, focusing on KV cache

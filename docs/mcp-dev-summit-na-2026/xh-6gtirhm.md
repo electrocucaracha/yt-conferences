@@ -2,6 +2,7 @@
 title:
   "MCP Apps Best Practices: Patterns and Pitfalls - Olivier Chafik & Anton Pidkuiko,
   Anthropic"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   Olivier and Anton from Anthropic introduced MCP apps, describing them

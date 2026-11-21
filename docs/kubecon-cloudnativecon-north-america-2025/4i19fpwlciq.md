@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Dapr in 2026: Durable Execution and Resilient Eventing for AI Agents - Yaron
   Schneider & Rajesh Iyer"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Ron Schneider, CTO and co-founder of DIG Grid, introduces Dapper as a

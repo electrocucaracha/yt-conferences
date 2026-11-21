@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Live Demo Showcase"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video features presentations on three open-source projects. First,

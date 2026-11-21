@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] Secure from Day One Building Production Ready MCP Servers with Nick
   Taylor - Pomerium"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Nick, a developer advocate at Primarium, presents on building production-ready

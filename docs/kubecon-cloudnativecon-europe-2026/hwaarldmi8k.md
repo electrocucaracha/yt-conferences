@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | KubeVirt Summit: Breaking the Performance Barrier...
   Jian Li & Yves Weisser"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Jen from SK Telecom and Eve from NetApp discuss

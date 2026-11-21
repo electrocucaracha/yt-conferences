@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   What Are The Most Important Skills for Engineers? | Advice from an Engineering
   Manager
+parent: "Leadership Skills"
 type: Video Note
 description:
   Doug Howard, a licensed structural engineer and former engineering manager,

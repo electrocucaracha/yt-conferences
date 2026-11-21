@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 7 - Attention, Final Projects
   and LLM Intro"
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   The lecture begins by discussing the evaluation of machine translation

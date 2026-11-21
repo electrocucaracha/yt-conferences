@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Integrating Data Center Observability Into Cloud Native Envi... Pedro Célestin
   & Julia Furst Morgado
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Julia and Pedro discuss the challenges and solutions involved

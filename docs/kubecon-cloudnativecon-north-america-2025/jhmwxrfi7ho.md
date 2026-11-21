@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: What's New In Kubernetes Storage - Xing Yang"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this project lightning talk for SIG Storage, Shing Yang from VMware

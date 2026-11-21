@@ -1,5 +1,7 @@
 ---
+layout: default
 title: GitOps Without Variables - Brian Grant & Alexis Richardson, ConfigHub Inc.
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Brian Grant, the original architect of Kubernetes, discusses the challenges

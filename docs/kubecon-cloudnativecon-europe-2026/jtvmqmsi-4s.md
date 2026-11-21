@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Stop Flying Blind: Real-Time, Enforceable Cluster-Wide Quotas with Ky... Mariam
   Fahmy & Adam Crowder"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Adam Crowder from AWS and Mariam Fahmy from Cloudflare

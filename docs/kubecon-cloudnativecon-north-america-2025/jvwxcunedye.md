@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Evicted! All the Ways Kubernetes Kills Your Pods (and How To Avoid Them) -
   Ahmet Alp Balkan
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this CubeCon presentation, Amad Al Palkin, who leads Kubernetes infrastructure

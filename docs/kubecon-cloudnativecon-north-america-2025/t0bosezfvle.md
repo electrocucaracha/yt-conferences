@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Let's Have Harbor Everywhere! - Orlin Vasilev, Maintainer/Community
   Manager"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Olen, the Harvard community maintainer, CNCF ambassador, and open source

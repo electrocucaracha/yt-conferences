@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "In-place Updates with Cluster API: The Sweet Spot Between Immu... Fabrizio
   Pandini & Stefan Büringer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The talk, led by Fabritz Pandini and Stefan Ginger, focuses on the introduction

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Serverless GPUs in Production: How Cerebrium Built a Globally... Dave Protasowski
   & Elijah Roussos"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The talk discusses how Cerebrum leverages Knative to deliver serverless

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   SIG Instrumentation Introduction... Damien Grisonnet, Pranshu Srivastava, Yongrui
   Lin & Richa Banker
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The SIG instrumentation team at Kubernetes aims to provide best practices

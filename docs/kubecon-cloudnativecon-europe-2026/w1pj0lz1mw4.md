@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Fluent Bit V5: Pushing the Limits of Observability at Scale - Eduardo Silva"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Eduardo presents the latest advancements in the Fluent Bit project, emphasizing

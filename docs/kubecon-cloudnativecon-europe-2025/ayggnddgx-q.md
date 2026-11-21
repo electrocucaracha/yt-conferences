@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Linkerd Update: Gateway API, Client-Specific Policy, Federated Services, Multicluster...
   Alex Leong"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Linkerd project has made significant progress over the past year,

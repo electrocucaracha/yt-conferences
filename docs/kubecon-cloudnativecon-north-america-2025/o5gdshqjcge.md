@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Retrofitting OTEL Collectors & Prometheus - How To Overcome Scale... Vijay
   Samuel & Sandeep Raveesh
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Vijay Samuel and Sep from eBay’s reliability engineering

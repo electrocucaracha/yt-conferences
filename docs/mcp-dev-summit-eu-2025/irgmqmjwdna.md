@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] Moving Past Simple MCP Tools to MCP Agents with Darren Shepherd
   - Obot AI"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Darren Shepard, chief architect at OOT, discusses the evolution from

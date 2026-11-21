@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Tu mente ya decidió cuánto dinero puedes tener | Tony Velasco – Sesión 35
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este video, se aborda cómo los problemas financieros son en realidad

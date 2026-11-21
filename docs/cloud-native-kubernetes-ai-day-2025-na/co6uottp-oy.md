@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: From Open Source to Real-World Scale - Aleksandr Patrushev,
   Nebius"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   The speaker introduces Nibbus, a NASDAQ-listed, engineering-led company

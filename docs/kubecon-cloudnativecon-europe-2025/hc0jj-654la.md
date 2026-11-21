@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Life (or Death) of a Kubernetes API Request, 2025 Edition - Abu Kashem
   & Stefan Schimanski
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Hc0jj-654lA

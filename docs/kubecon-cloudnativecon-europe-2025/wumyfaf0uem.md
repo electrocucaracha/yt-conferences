@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "KubeEdge DeepDive: Architecture, Use Cases, and Project Graduation Updates
   - Fei Xu & Hongbing Zhang"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Kubage project is a cloud-native edge computing platform that enables

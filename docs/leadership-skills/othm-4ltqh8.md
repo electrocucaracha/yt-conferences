@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Quickly Build Relationships With Anyone | The Secret to Winning Friends,
   Influencing People
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a structural engineer and manager, emphasizes

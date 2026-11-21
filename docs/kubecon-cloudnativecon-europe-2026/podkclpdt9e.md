@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Run Your Data Layer In K8s With Vitess - Matt Lord,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker introduces themselves as a test maintainer at Planet Scale

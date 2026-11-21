@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "How to Make the Impossible Possible: Fernando Anzures and the Formula for
   Connecting with the Gre..."
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Fernando Anzures, emprendedor y fundador de Exma,

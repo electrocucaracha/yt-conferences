@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Fluent Bit V5 - Eduardo Silva, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Eduardo Silva introduces himself and the Fluent Bit project, explaining

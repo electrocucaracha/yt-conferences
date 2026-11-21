@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "El Arte de AMARTE: Aprende a Vivir SIN CULPA - Eugenio Cobo sesión de crecimiento
   #5"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta conversación, Eugenio Cobo, reconocido actor, productor y director

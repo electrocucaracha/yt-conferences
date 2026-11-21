@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en marca personal: Hacer esto te dará más dinero! | Humberto Gutiérrez
   #46"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este episodio se aborda la importancia de la marca personal como el

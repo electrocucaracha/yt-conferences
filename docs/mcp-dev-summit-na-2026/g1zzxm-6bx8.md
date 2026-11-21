@@ -2,6 +2,7 @@
 title:
   "Building MARVIN: What Teaching a Non-Technical Marketer To Use MCP Taught
   Me About... Sterling Chin"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   Sterling, a founding developer relations and applied AI engineer at Ingest

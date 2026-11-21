@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Going Global: Lessons From Internationalizing... Severin Neumann
   & Tiffany Hrabusa"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Tiffany and Severin from the OpenTelemetry project discuss their approach

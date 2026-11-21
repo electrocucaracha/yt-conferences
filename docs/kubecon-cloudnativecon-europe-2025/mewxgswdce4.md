@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Type-safe Feature Flagging in OpenFeature: Lessons Learned F... Michael Beemer
   & Florin-Mihai Anghel"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video discusses type-safe feature flagging in Open Feature, a CNCF

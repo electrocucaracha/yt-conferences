@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The Enterprise Is Ready for gRPC - Alex Van Boxel, Collibra
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Alex, a principal architect at Calibra, discusses the benefits

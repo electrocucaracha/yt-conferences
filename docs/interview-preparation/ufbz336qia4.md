@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The One Thing You Should Never Tell a Recruiter...
+parent: "Interview Preparation"
 type: Video Note
 description:
   When a recruiter asks about your job search, they're not just looking

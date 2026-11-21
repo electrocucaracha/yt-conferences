@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Automating and Scaling of Threat Modelling for Cloud Native Archit... Hanna
   Papirna & Emma Yuan Fang
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Emma and Hannah from EPAM Systems discuss the complexities of threat

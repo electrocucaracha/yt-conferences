@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Signed, Sealed, Delivered - Sign and Verify All the Things - Jeremy Rickard,
   Microsoft
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Jeremy Rickard, a principal software engineer at Microsoft

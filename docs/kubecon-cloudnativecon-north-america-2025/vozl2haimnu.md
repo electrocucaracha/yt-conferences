@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Progressive Configuration Delivery for Zero-Downtime Cloud Workloads - Yuxing
   Yuan & Hao Wu
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presentation introduces a new approach to configuration management

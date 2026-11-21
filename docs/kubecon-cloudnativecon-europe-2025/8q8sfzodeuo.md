@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Hacking up a Storm With Kubernetes - Rory McCune, Datadog; Marion
   McCune & Iain Smart"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The tutorial demonstrated how to bypass Kubernetes security controls

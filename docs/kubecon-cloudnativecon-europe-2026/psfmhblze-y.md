@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Visualizing GitOps: A Tour of Flux UIs in the Open Source Ecosystem - Stefan
   Prodan, ControlPlane"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker provides an overview of recent developments in the Flux ecosystem,

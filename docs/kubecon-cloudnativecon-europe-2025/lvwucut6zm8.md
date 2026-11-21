@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The Great Sidecar Debate - William Morgan, Buoyant
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, William Morgan, CEO of Buoyant, discusses the concept of

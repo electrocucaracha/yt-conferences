@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From NLB Sprawl To Mesh Efficiency: How Skyscanner Handles 60M Reque... John
   Clark & Steven Thwaites"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, John from Skyscanner and Steven from Solo describe

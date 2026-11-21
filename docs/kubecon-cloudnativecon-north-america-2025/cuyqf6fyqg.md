@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Turbocharging Argo CD: Replacing Redis With Dragonfly for... Soumya Ghosh
   Dastidar & Justin Marquis"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description: Here is a summary of the video transcript in one paragraph.
 resource: https://www.youtube.com/watch?v=_cUyqF6fyQg

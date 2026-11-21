@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   RAG and Fine Tuning With Kubeflow - Francisco Javier Arceo, Red Hat & Andrey
   Velichkevich, Apple
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Francisco, a senior principal software engineer at Red Hat, and Shia

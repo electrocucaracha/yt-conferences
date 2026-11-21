@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: How To Responsibly and Effectively Contribute To Open Source
   Using... Tyler Helmuth"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Tyler Helmouth, a software engineer at Honeycomb and maintainer of several

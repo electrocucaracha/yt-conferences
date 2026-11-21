@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Revolutionizing Software with Moldable Development • Tudor Girba & Julian Wood
   • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   Tudor Girba discusses moldable development, a concept that aims to make

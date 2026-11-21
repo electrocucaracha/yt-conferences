@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Backstage Celebrations: Stable Foundations and MCP Innovations - Ben Lambert
   & Patrik Oldsberg"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Backstage maintainer track talk discussed the project's updates,

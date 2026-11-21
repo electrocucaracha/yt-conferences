@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Stanford CS25: V5 I On the Biology of a Large Language Model, Josh Batson
   of Anthropic"
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   Joshua Batson from Anthropic presents an overview of his team's work

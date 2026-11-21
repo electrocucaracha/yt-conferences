@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond Classical Cryptography: Building Quantum-Resistant Cloud Native...
   Andrés Vega & Hugo Landau"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the threat of quantum computers to current cryptographic

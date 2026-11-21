@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   What We Left Behind - 10 Valuable Skills From The 1990s • Garth Gilmour & Eamonn
   Boyle • GOTO 2020
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speakers, Amon and Eamon, discuss the importance of learning from

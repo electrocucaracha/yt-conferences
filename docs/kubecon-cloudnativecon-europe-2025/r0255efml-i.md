@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Into the Black Box: Observability in the Age of LLMs - Christine
   Yen"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Christine Yen, co-founder and CEO of Honeycomb, discusses the implications

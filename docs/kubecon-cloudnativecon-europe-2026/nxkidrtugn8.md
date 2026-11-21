@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How To (Not) Fork Headlamp - Joaquim Rocha, Amutable
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Raim, a maintainer of Headlamp at Immutable, presents an overview of

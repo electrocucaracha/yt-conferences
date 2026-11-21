@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Inference and Sovereign AI: Scaling Cloud-Nat... Karena
   Angell & Vincent Caldeira"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses the challenges and solutions involved in scaling

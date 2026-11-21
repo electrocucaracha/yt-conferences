@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Software Design X-Rays Part 1/2 • Adam Tornhill & Sven Johann • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   Adam Tornhill, a programmer and psychologist, shares his insights on

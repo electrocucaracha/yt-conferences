@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Aligning Enterprise AI Security With MITRE ATLAS Using Op... Doron Caspin &
   Valentina Rodriguez Sosa
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, Valentina Rodriguez and Dan Kaspin discuss the distinction

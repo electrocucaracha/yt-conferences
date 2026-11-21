@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 6 - LLM Reasoning
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   In this lecture, the instructor introduces the concept of reasoning in

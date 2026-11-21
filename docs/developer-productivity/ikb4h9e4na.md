@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   State of the Art of DORA Metrics & AI Integration • Nathen Harvey & Charles
   Humble • GOTO 2025
+parent: "Developer Productivity"
 type: Video Note
 description:
   Charles Humble, a seasoned programmer and CTO, introduces his new miniseries

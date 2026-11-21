@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Prerequisites for Chaos Engineering • Courtney Nash • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the prerequisites for chaos engineering, a practice

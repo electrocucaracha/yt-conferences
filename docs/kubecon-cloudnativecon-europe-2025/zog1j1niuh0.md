@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Chaos To Control: Migrating Access Control... Jo Guerreiro & Poovamraj
   Thanganadar Thiagarajan"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Graphana team, led by Joe, shared their experience migrating to Open

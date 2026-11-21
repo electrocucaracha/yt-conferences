@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Extend Large Language Model Training Beyond Single
   Kubernetes Cl... Klaus Ma"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Klaus from Nvidia introduces himself as the founder of Volcano Project,

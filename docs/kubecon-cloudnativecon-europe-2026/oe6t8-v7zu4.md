@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Your Models Are Vulnerable: How KitOps Turns KServe Into a Zero-Tru... Brad
   Micklea & Gavrish Prabhu"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presenters discuss the vulnerabilities of AI deployments and introduce

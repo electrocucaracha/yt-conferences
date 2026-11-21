@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Your Kubernetes Playbook at Your Fingertips: Advanced Troubleshooti... David
   vonThenen & Yash Sharma"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speakers introduced a session focused on integrating AI with Kubernetes

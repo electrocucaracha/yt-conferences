@@ -2,6 +2,7 @@
 title:
   "MCP Servers in the Wild: Managing Tool Complexity at Scale - Arnav Balyan,
   Concierge AI"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   "The speaker discusses strategies for managing MCP servers as tool complexity

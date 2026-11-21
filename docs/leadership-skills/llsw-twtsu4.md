@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Engineer Career Coach Shares Secrets on How to Apply Up and Get Promoted Part
   2 of 2
+parent: "Leadership Skills"
 type: Video Note
 description:
   The video provides comprehensive advice for professionals aiming to move

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "TAG Operational Resilience: Sustainability Month To... Mario F, Alolita S,
   Carol V, N Pal & Saiyam P"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The TAG Operational Resilience group, part of the CNCF, provided updates

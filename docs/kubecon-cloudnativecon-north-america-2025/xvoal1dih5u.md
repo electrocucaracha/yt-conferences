@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Comms & Social Media - Why Does a Project Need It - Chris Short, CIQ & Kaslin
   Fields, Google
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Chris Short and Kaslyn Fields discuss the evolution and

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Offline, Not Off-Limits: Edge Fleet Management With Argo CD - Alexander Matyushentsev,
   Akuity"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Alexander Matense, co-creator of Argo CD, discusses strategies

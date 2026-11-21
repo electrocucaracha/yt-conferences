@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Notary Project: The Key To Secure Software Supply Chain - Yi Zha & Guillaume
   Gill"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Not Project is a cloud-native security solution that aims to ensure

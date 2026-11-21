@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: A Security Engineer’s Guide to TAG Security - Brandt
   Keller, Technical Lead"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Brent Keller, Technical Lead for Tag Security, discusses the importance

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Deliver Quality Software Against All Odds • Daniel Terhorst-North &
   Julian Wood • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   Daniel Terhorst-North discusses the evolution of software delivery and

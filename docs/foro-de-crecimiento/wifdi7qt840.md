@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto #1 en Productividad: Por Qué Tu Cerebro No Está Rindiendo al Máximo
   | Nico Fernandez #51"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este video, se desmitifica la idea de que se necesitan 10,000 horas

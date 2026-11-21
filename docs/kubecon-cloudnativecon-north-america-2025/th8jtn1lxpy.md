@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Agent-Driven MCP for AI Workloads on Kubernetes - Ganeshkumar Ashokavardhanan
   & Qinghui Zhuang
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, Ganesh Kumar from the Azure Kubernetes Service team

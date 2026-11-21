@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Community Capital: Making OSS and Businesses Successful Together - Liz Rice,
   Isovalent at Cisco"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Liz, an engineer at ISVent and long-time CNCF participant, discusses

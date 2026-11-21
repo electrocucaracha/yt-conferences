@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Retroactive Sampling with OpenTelemetry: Cut 90% Distributed Traci... Roman
   Khavronenko & Zhu Jiekun"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Shu-Jie Khun and Roman Khvoroenkov from VictoriaMetrics

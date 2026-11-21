@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cutting Metrics Traffic, Cutting Costs: The AZ-Aware Observe. Iris Dyrmishi
   & Rodrigo Fior Kuntzer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Rodrigo and Iris, engineers at Miro, discuss their experience optimizing

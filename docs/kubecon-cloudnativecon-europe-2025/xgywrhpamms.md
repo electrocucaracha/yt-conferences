@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Rook: Intro and... Travis Nielsen, Madhu Rajanna, Artem Torubarov, Deepika
   Upadhyay & Sebastien Han"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Rook is an open-source Kubernetes operator that automates self-storage

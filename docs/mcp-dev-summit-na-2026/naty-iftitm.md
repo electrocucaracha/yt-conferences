@@ -1,5 +1,6 @@
 ---
 title: Datadog Built 100 AI Agents. Here's What Broke.
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   "The speaker discusses their experience building AI agents at Data Dog,

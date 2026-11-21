@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "#1 Personal Branding Expert: How to Make Clients Seek You | Humberto Herrera"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este episodio del Foro de Crecimiento, Humberto Herrera, experto en

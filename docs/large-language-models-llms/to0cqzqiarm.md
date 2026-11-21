@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 11 - Benchmarking
   by Yann Dubois"
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   In this lecture, Yan, a third-year PhD student, discusses the importance

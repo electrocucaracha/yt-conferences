@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Influence Anybody to Do Anything in 5 Steps [Persuasion - Part 3 of 3]
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering

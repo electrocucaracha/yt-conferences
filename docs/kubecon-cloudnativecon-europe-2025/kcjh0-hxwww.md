@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Museum of Weird Bugs: Our Favorites From 8 Years of Service Mesh Debugging
   - Alex Leong, Buoyant"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Kcjh0-hXwWw

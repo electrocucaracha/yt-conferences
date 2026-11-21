@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   El método para entender cómo piensa y actúa cualquier persona | Rodrigo García
   Platas
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Rodrigo García Platas, psicopedagogo y experto en

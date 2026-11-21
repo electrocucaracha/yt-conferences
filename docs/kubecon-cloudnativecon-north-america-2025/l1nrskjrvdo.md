@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Share With Care: Efficient Device Sharing With Guaranteed... Sunyanan Choochotkaew
   & John Belamaric"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   John Bellame and Syan introduce a new alpha feature in Kubernetes called

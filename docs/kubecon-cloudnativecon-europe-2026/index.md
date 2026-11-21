@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Kubecon Cloudnativecon Europe 2026"
+has_children: true
+nav_order: 10
+okf_version: "0.2"
+---
+
 # Kubecon Cloudnativecon Europe 2026
 
 ## Executive Overview

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Awards Ceremony"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   George, a project maintainer emeritus, opened the event by emphasizing

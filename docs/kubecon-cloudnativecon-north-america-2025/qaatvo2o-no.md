@@ -1,5 +1,7 @@
 ---
+layout: default
 title: AI-Assisted GitOps With Flux MCP Server - Stefan Prodan, ControlPlane
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Stefan Pradan, a long-time Flux maintainer, discusses the

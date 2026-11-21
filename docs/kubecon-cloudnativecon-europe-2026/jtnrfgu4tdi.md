@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | KubeVirt Summit: KubeVirt on GB200: Vi... Fan Zhang,
   Kevin Klues & Alay Patel"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Fan Fan Jang, Kevin Clues, and Ali Patel from Nvidia

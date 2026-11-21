@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Revolutionizing Legacy Migrations with Konveyor AI
   - Jonah Sussman"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Jonah Susman, a software engineer at Red Hat, introduces Conveyor AI,

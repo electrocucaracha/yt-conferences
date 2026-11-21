@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How To Supercharge AI/ML Observability With OpenTelemetry and Fluent Bit -
   Celalettin Calis
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses supercharging AIM ML observability using open telemetry

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Next Decoupling: From Monolithic Cluster, To Control-Pl... Justin Santa
   Barbara & Ciprian Hacman"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Cyprian Hackman from Microsoft and Justin Santa Barbara

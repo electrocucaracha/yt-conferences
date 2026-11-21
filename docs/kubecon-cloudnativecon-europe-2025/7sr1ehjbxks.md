@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SIG-Node: Intro and Deep Dive - Sergey Kanzhelev, Google; Francesco Romani
   & Peter Hunt, Red Hat"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=7sr1eHJBXKs

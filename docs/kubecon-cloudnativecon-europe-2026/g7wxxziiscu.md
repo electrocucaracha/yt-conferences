@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Jenkins to Tekton: Our Journey Toward a Kubernetes-Native CI... Mustafa
   Barış Ege & Özge Aygül"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Ozge and Baris share their DevOps team's migration

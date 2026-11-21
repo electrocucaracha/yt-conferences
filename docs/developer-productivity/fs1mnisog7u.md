@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Scaling Yourself • Scott Hanselman • GOTO 2012
+parent: "Developer Productivity"
 type: Video Note
 description:
   Scott Hanselman, a software professional, shares his approach to scaling

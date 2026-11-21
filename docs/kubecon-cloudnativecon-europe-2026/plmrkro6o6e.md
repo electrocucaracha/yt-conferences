@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Snapshots Gone Wild: Taming Multi-PVC Chaos with VolumeGroupSna... Shubham
   Pampattiwar & Scott Seago"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Shuan Pampachar and Scott Sego from Red Hat discuss the

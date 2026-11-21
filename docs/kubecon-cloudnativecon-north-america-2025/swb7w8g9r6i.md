@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Istio: Set Sailing With Istio Without Sidecars - Lin
   Sun"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker introduces Istio Ambient, a service mesh architecture that

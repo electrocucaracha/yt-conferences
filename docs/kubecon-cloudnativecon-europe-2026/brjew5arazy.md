@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Avoiding CPU Throttling: How Go 1.25's Container-Aware Runtime
   Fix... Adarsh K Kumar"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Adash, a principal engineer at Rapido, discusses a throttling issue in

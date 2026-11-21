@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: CRI-O: Container Runtime Intensifies - Sascha Grunert,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Cryo, a lightweight container runtime built specifically for Kubernetes,

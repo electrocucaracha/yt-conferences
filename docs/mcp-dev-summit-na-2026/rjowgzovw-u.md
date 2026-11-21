@@ -1,5 +1,6 @@
 ---
 title: When MCP Becomes a Product - Gautam Baghel, HashiCorp & Roy Derks, IBM
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   In this session, the speakers from IBM discussed their experiences transitioning

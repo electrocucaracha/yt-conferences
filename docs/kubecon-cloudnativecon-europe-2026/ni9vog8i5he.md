@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Evolving KServe: The Unified Model Inference Platform for Both Predic... Filippe
   Spolti & JooHoo Lee"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Phillip and Julie, senior engineers at Red Hat, introduce KServe, an

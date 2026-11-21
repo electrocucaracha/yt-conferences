@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Expanding the Contributor Pipeline Through Inclusion
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The panel discussion focused on inclusiveness in open-source projects,

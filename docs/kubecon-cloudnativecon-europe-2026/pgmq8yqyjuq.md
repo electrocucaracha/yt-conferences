@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Banking on Reliability: Cloud Native SRE Practices in Financial Services -
   Clément Nussbaumer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker, a systems engineer at Post Finance, a major Swiss bank,

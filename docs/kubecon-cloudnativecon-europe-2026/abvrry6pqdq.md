@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Scaling Kubescape to Thousands of Nodes - Matthias
   Bertschy, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Matias, a maintainer of Cubescape, shares the challenges faced when scaling

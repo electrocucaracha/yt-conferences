@@ -1,5 +1,7 @@
 ---
+layout: default
 title: OpenTelemetry Project Update
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Open Telemetry project has made significant progress over the past

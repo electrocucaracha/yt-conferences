@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Know Before You Go! Speedrun Intro To Gateway API - Christine
   Kim"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Christine from Isovalent introduces the Gateway API as the successor

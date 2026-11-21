@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: kcp: Scaling The Kubernetes Control Plane For The
   Multi-Clust... Jan Willies"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Jan Viegas from Accenture introduces the KCP project, addressing challenges

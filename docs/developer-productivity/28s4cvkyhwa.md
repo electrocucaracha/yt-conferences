@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Mob Programming & the Power of Flow • Woody Zuill • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   Woody Zul, a software developer with 35 years of experience, shares his

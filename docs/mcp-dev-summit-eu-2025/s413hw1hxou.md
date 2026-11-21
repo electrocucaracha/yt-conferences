@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] MCP & Contextual Smart Tooling with Jason Kneen - BouncingFish"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Jason, an experienced developer in the MCP (Model Context Protocol) ecosystem,

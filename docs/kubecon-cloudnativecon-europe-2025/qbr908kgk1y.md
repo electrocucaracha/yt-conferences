@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Thousands of Virtual Kubelets: 1-to-1 Mapping a Supercomputer To Kubernetes
   With... Dennis Marttinen"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Deness, a security and cloud computing master student, discussed bridging

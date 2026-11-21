@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] Resources: Building the Next Wave of MCP Apps with Shaun Smith,
   LLMindset"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   The speaker discusses their experience integrating with MCP (Modular

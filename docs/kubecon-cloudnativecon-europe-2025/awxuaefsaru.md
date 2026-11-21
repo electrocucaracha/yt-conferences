@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "WG-Batch Updates: What’s New and What Is Next? - Marcin Wielgus, Google"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The batch working group aims to enhance Kubernetes support for high-performance

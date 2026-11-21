@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: The Kyverno Five: New Policy Types And What You Can
   Do... Cortney Nickerson"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Courtney Nickerson introduces Kyverno, a Kubernetes-native policy engine,

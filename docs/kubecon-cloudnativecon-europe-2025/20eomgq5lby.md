@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Rust Here, Rust There, Rust Everywhere! How a Crab Conquers
   the Cl... Sascha Grunert"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Sasha, discusses the use of Rust in cloud-native projects,

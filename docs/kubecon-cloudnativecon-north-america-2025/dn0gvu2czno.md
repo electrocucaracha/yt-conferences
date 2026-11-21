@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Where’s My Pod? End-to-End Tracing for Kubernetes With OpenTelemetry - Artem
   Tkachuk & JP Phillips
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk at CubeCon, JP and Artem from Netflix’s compute runtime

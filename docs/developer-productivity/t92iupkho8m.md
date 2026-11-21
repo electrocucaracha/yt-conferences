@@ -1,5 +1,7 @@
 ---
+layout: default
 title: You Must Be Crazy To Do Pair Programming • Dave Farley • GOTO 2022
+parent: "Developer Productivity"
 type: Video Note
 description:
   Pair programming is an agile software development technique where two

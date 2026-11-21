@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Perses General Overview - Augustin Husson, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Augustin, a maintainer of Perses, introduces the project as a CNCF sandbox

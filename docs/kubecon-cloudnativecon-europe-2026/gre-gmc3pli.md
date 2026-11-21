@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Kubernetes Data Protection WG Intro & Deep Dive - Dave Smith-Uchida, Veeam
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The Kubernetes Data Protection Working Group session, led by Dave Smith

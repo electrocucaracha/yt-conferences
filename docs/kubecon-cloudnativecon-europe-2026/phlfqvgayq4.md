@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Let Your Network Speak! - Nadia Pinaeva, NVIDIA & Joel Takvorian, Red Hat
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Nadia from NVIDIA and Joel from Red Hat introduce

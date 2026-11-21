@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Konveyor AI for Every Language and the Future of App
   Moderniza... Shaaf Syed"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Sha discusses the challenges of modernizing legacy enterprise applications,

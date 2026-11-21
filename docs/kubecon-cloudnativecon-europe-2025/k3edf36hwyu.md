@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Awards Ceremony"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Cloud Native Computing Foundation (CNCF) has established a formal

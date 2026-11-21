@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Contributing To Kubernetes in an Age of AI - Mario F, Nabarun P, Priyanka S,
   Madhav J & Kaslin F
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session, led by chairs and technical leads of the Kubernetes SIG

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Respond When a Top Performing Direct Report Resigns
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a licensed engineer and leadership coach,

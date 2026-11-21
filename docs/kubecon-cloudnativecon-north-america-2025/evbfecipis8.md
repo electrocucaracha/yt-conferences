@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Bespoke To Bulletproof: SPIFFE/SPIRE With ESO for Enterprise Zero...
   May Large & Ivy Alkhaz"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   At CubeCon, Ivy Alcaz and May Large from State Farm shared their journey

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 10 - Post-training
   by Archit Sharma"
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   In this lecture, Archa Sharma, a Stanford PhD student, provides an overview

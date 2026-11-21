@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The Power of a Dream - Consuelo Hernandez | Session 30
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Consuelo Hernández, empresaria, conferencista y experta

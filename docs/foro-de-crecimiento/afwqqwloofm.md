@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Experto en riqueza: ¡No compres una casa! Haz esto mejor | Fernando Palacio"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa entrevista, Fernando Palacio, empresario y coach financiero,

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "1000 Services, 1 Year, 0 Downtime: Airbnb’s Zonal Cluster Migration - Sunny
   Beatteay, Airbnb"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Sunny B presents a case study on Airbnb’s largest zonal cluster migration,

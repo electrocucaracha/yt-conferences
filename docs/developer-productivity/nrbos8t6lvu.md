@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Efficiency vs Effectiveness in Agile • Aino Vonge Corry & Klaus Bucka-Lassen
   • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   The CEO of Volkswagen, Herbert Diess, recently emphasized the importance

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "1000 Clusters, 1 Brain: Salesforce’s Approach To Self-Healin... Vikram Venkataraman
   & Srikanth Rajan"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session, led by Vikramatraan from AWS and Shri Kant from Salesforce,

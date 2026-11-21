@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes-Native ≠ Cloud Native: Avoiding Architecture Theater - Prerit Munjal,
   Groupon"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker, a senior technical product manager at Groupon, discusses

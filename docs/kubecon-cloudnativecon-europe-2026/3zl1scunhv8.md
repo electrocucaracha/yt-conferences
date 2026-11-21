@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | KubeVirt Summit: Opening Remarks and Commu... Andrew
   Burden and Itamar Holder"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Andrew Burton and Lubishlav Pivar opened the first in-person Cubert Summit,

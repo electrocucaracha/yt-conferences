@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Cloud Native University: A Simple and Practical Guide
   to Obser... Diana Todea"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker, an OpenTelemetry contributor and cloud native community

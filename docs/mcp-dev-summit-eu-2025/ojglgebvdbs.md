@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Effortless User Onboarding with MCP with Pedro Rodrigues - SingleStore"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Pedro, a software engineer at Single Store (formerly MemSQL), discusses

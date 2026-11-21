@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Envoy Today: What’s New In Managing Cloud-Native And
   AI Workl... Karol Szwaj"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker celebrates the 10th anniversary of the Envoy project, highlighting

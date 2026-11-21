@@ -2,6 +2,7 @@
 title:
   "From Benchmarks To Business Value: Building a Use-Case Specific Agen... Gaurav
   Saxena & Matvey Kukuy"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   In this presentation, Gor of Saxa and Metway discuss the challenges of

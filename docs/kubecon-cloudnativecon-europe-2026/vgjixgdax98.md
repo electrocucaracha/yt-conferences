@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Disaster Resilient Trino on Kubernetes: Multi-Cluster Setup With Karma...
   Sung Yun & Antoine Marthey"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, S and Antoine from Bloomberg detail the evolution

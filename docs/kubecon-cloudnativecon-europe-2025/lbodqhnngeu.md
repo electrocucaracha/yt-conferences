@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   SIG Network Intro and Updates - Dan Winship, Nadia Pinaeva, Bowei Du & Daman
   Arora
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Sig Network, responsible for Kubernetes networking components, interfaces,

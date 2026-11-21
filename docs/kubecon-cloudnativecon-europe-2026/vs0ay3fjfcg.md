@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Dynamic Mocking for Event-Driven APIs: A Cloud Native Approa... Harshvardhan
   Parmar & Anushka Saxena"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker introduces the challenge of testing event-driven APIs, noting

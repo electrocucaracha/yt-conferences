@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Smooth Scaling With the OpAMP Supervisor: Managing Thousands of OpenTe...
   Evan Bradley & Andy Keller"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Open Agent Management Protocol (Opamp) is a network protocol for

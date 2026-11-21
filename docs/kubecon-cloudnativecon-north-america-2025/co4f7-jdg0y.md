@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Code To Cluster: Orchestrating 100,000+ Kubernetes Deployments With 1
   Pipel... Andrada Raducanu"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Andrada, a DevOps engineer at ING Hubs Romania, will share the story

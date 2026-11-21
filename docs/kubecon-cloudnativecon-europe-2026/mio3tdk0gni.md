@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Static Tokens to Attestation: The Evoluti... Ciprian H, Jack Francis
   M, Josephine P, & Justin B"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel discusses the ongoing challenges of secure node joining in

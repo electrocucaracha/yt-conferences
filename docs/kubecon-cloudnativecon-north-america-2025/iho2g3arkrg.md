@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Closing Remarks"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The conference has come to a close, with a special thank you to the speakers,

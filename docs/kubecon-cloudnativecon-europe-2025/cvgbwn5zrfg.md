@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "IAM, Agent: Identity for Autonomous AI - Matthew Bates, Cofide"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Matt Bates, founder of Kofi, discusses workload identity and its importance

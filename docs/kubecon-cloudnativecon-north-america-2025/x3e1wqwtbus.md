@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   A Journey To Zero-Downtime Upgrades With Keycloak - Martin Bartoš, Ryan Emerson,
   IBM
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=x3e1wqWTbUs

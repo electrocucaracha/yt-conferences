@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Addressing Non-Deterministic Scheduling: Introducing... Ajay K, Sreeram V,
   Karthik N & Priyanka S"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation introduces the Node Readiness Controller (NRC), a new

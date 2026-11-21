@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloudy With a Chance of Kubernetes: Going From One To Three... Laurent Bernaille
   & Maxime Visonneau"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Maxim Vizeno from DataDog's Infrastructure Engineering team discussed

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Building a Kubernetes Platform That Scales From SaaS To Self-Managed - Florian
   Forster, GitLab
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Florian, an SRE and tech lead at GitLab, discusses how GitLab is evolving

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Agents as First-Class Users in Production - Mathias Biilmann, Co-Founder
   and CEO, Netlify"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Matt Bilman, CEO and co-founder of Netifi, introduces the company as

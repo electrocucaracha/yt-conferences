@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Superpowers for Humans of Kubernetes: How K8sGPT Is Transforming Enter...
   Alex Jones & Anais Urlichs"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Alex Jones, introduces Kate's GBT (Generalized Behavioral

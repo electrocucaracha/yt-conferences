@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Lightning Talk: Graceful Controller Operations - Jeffrey Ying, Google"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Jeffrey, a software engineer at Google, discusses graceful controller

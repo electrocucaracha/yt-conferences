@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Modern Software Practices in a Legacy System • Audun Strand & Kevlin Henney
   • GOTO 2022
+parent: "Developer Productivity"
 type: Video Note
 description:
   Audun Strand, a fundamental principle engineer at NAV, Norway's largest

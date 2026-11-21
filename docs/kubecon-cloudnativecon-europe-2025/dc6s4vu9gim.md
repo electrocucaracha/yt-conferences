@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Image Snapshotters for Efficient Container Execution in Particle P... Clemens
   Lange & Valentin Volkl
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video discusses image snapshoters, specifically lazy pulling snapshoters,

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Istio Day: Running State of the Art Inference... Jackie
   Maertens and Nili Guy"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Nili from IBM and Jackie from Microsoft discuss

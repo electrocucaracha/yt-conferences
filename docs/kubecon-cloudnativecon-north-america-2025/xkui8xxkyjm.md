@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Crossplane - The Cloud Native Framework for Platform Engineering - Jared Watts
   & Nic Cope, Upbound
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this twice-annual update, Nick and Jared, maintainers of Crossplane,

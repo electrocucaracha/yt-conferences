@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: KubeEdge Everywhere: From Graduation To Global Adoption
   - Yue Bao"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Hin, a member of the technical steering committee for KubeEdge, introduces

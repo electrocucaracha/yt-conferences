@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Day 3 - KubeCon + CloudNativeCon 2026 highlights from Amsterdam
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video reflects on an exciting week at KubeCon and CloudNativeCon

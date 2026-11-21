@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How Team Structure Influences Code Quality • Adam Tornhill & John Le Drew •
   GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   Adam Tornhill, founder of Empear, discussed prioritizing technical depth

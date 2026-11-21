@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Ultimate Container Challenge: An Interactive Trivia Game on OC... Aurélie
   Vache & Sherine Khoury"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video transcript discusses the Open Container Initiative (OCI) and

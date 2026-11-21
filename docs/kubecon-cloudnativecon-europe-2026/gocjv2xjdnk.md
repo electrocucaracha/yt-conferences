@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "KubeVirt's Evolution: Governance, Features, and Community Growth - Sreeja
   Varnam & Luboslav Pivarc"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Lo Slapage and Sria present on the evolution and management of the KubeVirt

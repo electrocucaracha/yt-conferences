@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Building Scalable MCP Servers with Node with Matteo Colina - Platformatic.dev"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The speaker introduces themselves as a Node.js developer and board member

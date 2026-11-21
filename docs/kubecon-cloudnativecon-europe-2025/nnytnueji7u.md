@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Workshop: Developing as a Team for Kubernetes With Nix an... Leigh
   Capili & Tanja Ulianova"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker is discussing the Nyx package manager, which allows for declarative

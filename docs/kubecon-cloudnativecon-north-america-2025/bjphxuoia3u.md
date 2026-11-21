@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Final Boss Fights - What Zynga Monitors When Game Teams Per... Molly S, Krunal
   S, Steve P & Justin S
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Zinga team from Take Two Interactive discussed their approach to

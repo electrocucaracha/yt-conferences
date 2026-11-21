@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Benchmarking GenAI Foundation Model Inference Optimizations on Kubernetes -
   S.M. Varghese & B. Slabe
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The talk "Benchmarking Foundation Models on Kubernetes" discusses the

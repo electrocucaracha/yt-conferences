@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Mentor de emprendedores: Tu vida en 5 años depende de lo que haces hoy | Theo
   Galan Jr."
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Theo Galán Junior, empresario y conferencista internacional,

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: What's New in gRPC - Kevin Nilson & John Feig, Google
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presenters provided an overview of recent developments in gRPC, highlighting

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   '"Will it Kubernetes?" A Tinkerer’s Journey From Curiosity To Career - Niklas
   Frick'
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Nicholas recounts his journey into the world of Docker, containers, and

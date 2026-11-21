@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "A Bug’s-Eye View: Kubernetes SIG Security Explains It... Ian C, Tabitha S,
   Rory M, Iain S & Mahé T"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video features a Kubernetes SIG Security maintainer track talk, led

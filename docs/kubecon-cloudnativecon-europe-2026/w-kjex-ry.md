@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Moving Spotify’s Infrastructure Management Up the Stack from Kubebu... Alexander
   Buck & Tomas Aschan
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Thomas and Alex from Spotify discuss their efforts to simplify

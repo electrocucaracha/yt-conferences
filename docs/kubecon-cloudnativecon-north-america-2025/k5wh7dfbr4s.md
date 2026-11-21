@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Cloud Is Lying To You: What It Really Takes To Run On-Prem - Paris Nakita
   Kejser, Terma A/S"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Paris, an advanced platforms engineer at Turma, discusses his experience

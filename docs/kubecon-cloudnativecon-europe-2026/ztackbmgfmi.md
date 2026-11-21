@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | EnvoyCon: Zone Aware Routing With Per-Locality Load
   Awareness- Isaac Wilson"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Isaac from The Trade Desk discusses challenges and solutions related

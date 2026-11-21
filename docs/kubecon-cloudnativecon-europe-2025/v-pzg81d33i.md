@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: What's New in Kubernetes Storage - Xing Yang, Co-chair
   SIG Storage"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "The speaker from VML by BCON in S Storage, Shinyang, discusses two exciting

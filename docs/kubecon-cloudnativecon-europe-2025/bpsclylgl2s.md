@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Mastering Efficiency in Argo CD: Scaling Smarter, Not Costlier - Alexander
   Matyushentsev, Akuity"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the cost of running Argo CD at scale, highlighting

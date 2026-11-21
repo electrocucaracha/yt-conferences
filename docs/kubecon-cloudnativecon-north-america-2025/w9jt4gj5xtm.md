@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Rook: Intro and Deep Dive With Ceph Storage - Blaine Gardner & Benamar Mekhissi,
   IBM"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presentation introduces Rook, an open-source storage orchestrator

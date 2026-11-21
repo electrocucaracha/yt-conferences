@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Discover CNCF TAG Runtime: Advancing Cloud-Native Innovation from AI to Edge"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "The CNCF Technical Advisory Group (TAG) is a collaborative effort between

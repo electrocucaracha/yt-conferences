@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "One Dozen To One Thousand Clusters: How Argo Kept up as We Scaled - Jérémy
   Albuixech & Kahou Lei"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Kahal and Jeremy, engineers at Octa, discuss how their Ozero platform

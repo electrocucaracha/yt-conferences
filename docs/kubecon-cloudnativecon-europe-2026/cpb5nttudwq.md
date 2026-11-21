@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Day-2 Reality Check: Taming Wasteful Telemetry - Juraci Paixão Kröhling &
   Elena Kovalenko"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In the final session of CubeCon, Edina and Jasi discussed the pervasive

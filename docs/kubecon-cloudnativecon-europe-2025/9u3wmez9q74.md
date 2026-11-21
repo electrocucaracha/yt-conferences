@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Journey at the New York Times: Is Sidecar-Less Service Mesh Disappearing I...
   Lin Sun & Ahmed Bebars"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Lynn and Ahmed from the New York Times presented their journey with service

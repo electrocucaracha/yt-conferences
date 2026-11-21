@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Zero-Downtime Telemetry: Hot Reloading OpenTelemetry Collector Pipel... Amir
   Jakoby & Shiran Melamed"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speakers discuss the challenges of managing telemetry data, such

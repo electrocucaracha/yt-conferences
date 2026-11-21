@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "How We Solved TLS at Scale: Self-Service, Multi-Tenant Cert-manager - Erik
   Godding Boye & Tim Ramlot"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The presentation discusses how Eric set up Search Manager, a CNCF graduated

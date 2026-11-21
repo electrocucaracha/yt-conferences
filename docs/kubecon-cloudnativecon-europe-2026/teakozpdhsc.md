@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Least-Privilege for AI: Authorizing Agents and MCP Tools with A... Luc Chmielowski
   & Nina Polshakova"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Nina Pushkova and Luke Miroski discuss the challenges of

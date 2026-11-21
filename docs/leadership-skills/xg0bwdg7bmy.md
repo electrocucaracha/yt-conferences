@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Top Delegation Challenges Engineering Managers and Tech Leaders Face and
   How to Overcome Them
+parent: "Leadership Skills"
 type: Video Note
 description:
   The video emphasizes that the primary reason engineering managers and

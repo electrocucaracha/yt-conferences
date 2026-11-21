@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Spiderpool: Dynamic Topology-Aware RDMA Allocation
   For GPU... Weizhou Lan"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker discusses Sparo, a dynamic topology-aware RDMA allocation

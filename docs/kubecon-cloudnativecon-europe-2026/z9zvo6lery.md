@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Istio Day: Panel: Horrors and Successes of Running
   Istio in Production"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel, moderated by Yophikova, brought together end users from organizations

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Prioritizing Technical Debt as if Time and Money Matters • Adam Tornhill •
   GOTO 2020
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses prioritizing technical depth in large-scale software

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Flux - The GitLess GitOps Edition - Stefan Prodan, ControlPlane & Dipti Pai,
   Microsoft
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video features a discussion with Dipy, a Flux maintainer, about advancements

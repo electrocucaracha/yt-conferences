@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Routing Stateful AI Workloads in Kubernetes - Maroon Ayoub, IBM & Michey Mehta,
   Red Hat
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Aruna Yub from IBM Research and Mishi Ma from Red Hat discuss

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "No Code Needed: From Emojis To Glory on the Contribution Ladder - Nancy Chauhan
   & Carol Valencia"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Nancy, is a CNCF ambassador and developer advocate who also

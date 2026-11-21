@@ -2,6 +2,7 @@
 title:
   "Keynote: Navigating Primitives for Agent Collaboration - Nick Aldridge, Co-founder
   & CEO, Mousecat"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   Nick Aldridge, a former AWS principal engineer and current startup founder,

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native AI: Harness the Power of Advanced Scheduling for High-P... William
   Wang & Xuzheng Chang"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "The presentation discusses the Volcano project, a cloud-native AI infrastructure

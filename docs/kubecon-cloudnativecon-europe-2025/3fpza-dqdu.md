@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Jaeger V2: OpenTelemetry at the Core of Modern Distributed Tracing - Jonah
   Kowall, Paessler"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Jonah Cowell, a maintainer of the Jerger project, introduces himself

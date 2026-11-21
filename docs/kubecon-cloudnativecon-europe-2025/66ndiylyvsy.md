@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Closing - Jorge Castro, CNCF"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video concludes with the hosts expressing gratitude to their audience

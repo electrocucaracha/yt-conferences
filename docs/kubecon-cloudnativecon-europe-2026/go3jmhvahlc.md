@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "To Swap or Not To Swap: Memory Management Design Patterns for AI Workloads
   in Kuber... Nic Vermande"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Nick from Scaleups discusses the complexities and trade-offs

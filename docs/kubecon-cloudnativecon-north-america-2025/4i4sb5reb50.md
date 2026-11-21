@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Mapping the Next Phase: Updating the Cloud Native Ma... Danielle Cook, Simon
   Forster & Robert Glenn"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   "The Cloud Native Maturity Model is an evolving framework designed to

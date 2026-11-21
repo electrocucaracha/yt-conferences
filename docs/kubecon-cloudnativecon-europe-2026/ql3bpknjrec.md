@@ -1,5 +1,7 @@
 ---
+layout: default
 title: OpenCost - Cost and Resource Management Deep Dive - Rajith Attapattu, Randoli
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Rajit Tatawatu, founder and CTO of Randoli and maintainer of the OpenCost

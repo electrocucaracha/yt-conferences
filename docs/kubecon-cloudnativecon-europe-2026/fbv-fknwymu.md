@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Let’s Deploy etcd Operator - Arka Saha, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Orco Shaha, a software engineer at Broadcom and reviewer for the etcd

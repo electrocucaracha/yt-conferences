@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Experto en Liderazgo: cómo convertirte en un LÍDER que INSPIRA | Luis Fallas"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   Luis Fallas, fundador y presidente del Centro de Superación Personal,

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The State of Backstage in 2026 - Ben Lambert & Patrik Oldsberg, Spotify
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk at CubeCon EU, Ben and Patrick, maintainers of Backstage

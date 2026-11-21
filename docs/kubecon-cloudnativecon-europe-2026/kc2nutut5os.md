@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   When an Agent Acts on Your Behalf, Who Holds the Keys? - Mariusz Sabath & Maia
   Iyer, IBM Research
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Mario and Maya from IBM Research present their work on securing agentic

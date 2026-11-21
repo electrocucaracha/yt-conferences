@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lima Project Updates: Expanding the Focus To Hardening AI - Akihiro Suda,
   NTT & Anshuman Sahoo"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video features maintainers of the Lima project discussing recent

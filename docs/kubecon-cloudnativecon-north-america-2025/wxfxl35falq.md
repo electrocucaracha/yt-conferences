@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: GitOps With Or Without Git Using Flux - Tamao Nakahara,
   Community Maintainer"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Tama O Nakahara introduces the Flux graduated project, highlighting its

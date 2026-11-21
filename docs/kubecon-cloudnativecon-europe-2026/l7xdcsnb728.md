@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Automate Once, Run Anywhere: The Docker Moment for Security Workflows - Nancy
   Chauhan & Aseem Shrey"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presenters introduce "Ships Studio," an open-source project designed

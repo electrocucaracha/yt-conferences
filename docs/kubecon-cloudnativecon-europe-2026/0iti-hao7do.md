@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Blocking Vulnerable Workloads Out (And Catching What
   Got I... Alessio Greggi"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Alessio introduces a new integration for Cube Warden,

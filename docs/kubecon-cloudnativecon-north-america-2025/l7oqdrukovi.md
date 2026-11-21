@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Journey of Deploying Backstage in a Large Organization - Mathieu Girard
   & Teddy Poingt, Beneva
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presenters describe their experience deploying Backstage, an open-source

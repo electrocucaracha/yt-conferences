@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cortex: Insights, U... Friedrich Gonzalez, Daniel Sabsay, Charlie Le, Alolita
   Sharma & Daniel Blando"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Alolita Sharma from Apple introduces Cortex, a highly scalable and horizontally

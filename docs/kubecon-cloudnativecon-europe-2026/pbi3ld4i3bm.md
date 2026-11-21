@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Scheduling at the Edge of Reason: Multi-Cluster AI
   & OCM - August Simonelli"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses the importance of multicluster management and introduces

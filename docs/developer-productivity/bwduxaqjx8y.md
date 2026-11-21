@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Command-line, The Underestimated Tool • Bert Jan Schrijver • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   Bertrand Schreifer, CTO at Open Value and an experienced Java developer

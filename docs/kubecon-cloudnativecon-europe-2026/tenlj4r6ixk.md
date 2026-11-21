@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Open Policy Agent. (OPA) Intro & Deep Dive - Charlie Egan & Anders Eknert,
   Apple
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speakers welcomed a full audience to the Open Maintainer track, introducing

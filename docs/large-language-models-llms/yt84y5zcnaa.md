@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 2 - Transformer-Based
   Models & Tricks
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   In this lecture, the instructors addressed logistical updates regarding

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Observing Dark Matter With OpenTelemetry - Sam Alipio & Mario Macías, Grafana
   Labs
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Mario Matias and Sam discuss approaches to instrumenting

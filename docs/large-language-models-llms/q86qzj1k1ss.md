@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 9 - Recap & Current
   Trends
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   In the final lecture of CM295, the instructors provided a comprehensive

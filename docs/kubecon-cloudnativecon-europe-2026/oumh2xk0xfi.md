@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: K3s Lightning Update - Manuel Build, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Manuel, a K3s maintainer, provides an update on recent and upcoming developments

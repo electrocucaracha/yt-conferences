@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: OpenFGA: Google Zanzibar Style Authorization Made
   Developer-Fri... Tyler Nix"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Tyler Nicks, a product manager at Octa, introduces Open FGA, a centralized,

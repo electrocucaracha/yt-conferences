@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Vitess: More Data, No Problems - Matt Lord & Rohit Nayak, PlanetScale"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Matt and Rohit from PlanetScale discuss Vitess,

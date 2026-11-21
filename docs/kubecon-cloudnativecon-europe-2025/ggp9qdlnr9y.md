@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Kubeflow Ecosystem: What’s Next for Cloud Native AI/ML and LLMOps"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Qflow community has released Qflow 1 at QC Con, bringing several

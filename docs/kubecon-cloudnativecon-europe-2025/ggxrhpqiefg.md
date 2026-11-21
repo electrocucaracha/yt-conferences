@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Into the Shopfloor: Moving Manufacturing Execution System... Manuel Peuster
   & Andrei Traian Cucuruzac"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Bosch Connected Industry, a software provider within Bosch, has successfully

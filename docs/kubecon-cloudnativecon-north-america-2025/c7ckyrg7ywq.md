@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Predictive Scaling and Capacity Planning With Machine Learni... Artur
   Souza & Chunpeng Wang"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Amazon uses a combination of reactive and proactive scaling strategies

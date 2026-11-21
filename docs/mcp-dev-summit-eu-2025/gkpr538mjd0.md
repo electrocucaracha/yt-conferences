@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Roundtable] Why Financial Services Companies are Investing in MCP"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   In this roundtable discussion, representatives from Evergreen Wealth,

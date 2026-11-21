@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Finally, a Cluster Inventory I Can USE! - Corentin Debains, Google & Ryan Zhang,
   Microsoft
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Cluster Profile API is a community-driven, CRD-based namespace for

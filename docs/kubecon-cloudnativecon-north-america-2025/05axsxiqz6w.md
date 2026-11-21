@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Composable Platforms in the Wild: Patterns That Work (and Fail) - Daniel Bryant,
   Syntasso"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   "The speaker introduces the topic of composable platforms, emphasizing

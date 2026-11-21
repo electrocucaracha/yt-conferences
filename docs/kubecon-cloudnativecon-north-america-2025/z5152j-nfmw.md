@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Shaping LTS Together: What We’ve Learned the... Nikhita R, Nikhila K, Micah
   H, Jeremy R & Aniket P"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The panel discussion focused on the challenges and lessons learned in

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: From Orbit to the Grid: Automating a Green... Faseela K, Chris Holmes
   & Michael Reichenbach"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   "The discussion centers on the critical role of cloud native technologies

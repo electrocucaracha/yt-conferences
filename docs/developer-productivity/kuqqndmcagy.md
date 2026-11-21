@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Become an Empowered Software Developer • Johannes Stern • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   Notes for How to Become an Empowered Software Developer • Johannes Stern

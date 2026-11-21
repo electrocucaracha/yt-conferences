@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Modern PostgreSQL Authorization With Keycloak: Cloud Native... Yoshiyuki Tabata
   & Gabriele Bartolini"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presentation introduces a new collaboration between two CNCF projects—Keycloak,

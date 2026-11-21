@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Urunc: The New Kid In The Block Of Sandboxed Container...
   Charalampos Mainas"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Haralamus, also known as Bobby, introduces Uran C, a CNCF sandbox project

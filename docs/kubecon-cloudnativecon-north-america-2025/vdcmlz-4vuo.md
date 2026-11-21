@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Istio Project Updates: AI Inference, Ambient Multicluster & Default Deny -
   Keith Mattix, Microsoft"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Keith, a principal engineer at Microsoft and member of the SEO technical

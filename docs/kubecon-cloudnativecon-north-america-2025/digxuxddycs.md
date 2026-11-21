@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Platform Engineering: Day Zero, The Origin Story - Murriel McCabe, Google"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker, an engineering manager at Google Cloud, introduces the concept

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: external-secrets: Zero Trust Secrets Management with
   ESO - Moritz Johner"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Morris Joner, one of the creators of External Secrets Operator (ESO),

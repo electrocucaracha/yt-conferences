@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Istio Day: The Good, The Ugly, and The Bad... Alfonso
   Ming and Jorge Turrado"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Alonso and Jorge introduce their experiences transitioning from the traditional

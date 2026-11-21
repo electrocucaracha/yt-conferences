@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "José Bobadilla: El poder del LIDERAZGO | sesión de crecimiento #9"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa conversación, José Bobadilla reflexiona sobre la importancia

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Inference Awakens: Tools for the Age of GenAI - Alexa Griffith, Bloomberg
   & Erica Hughberg, Tetrate"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The transcript features a lively, cinematic-themed discussion about the

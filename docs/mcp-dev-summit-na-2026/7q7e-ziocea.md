@@ -2,6 +2,7 @@
 title:
   "When MCP Isn’t Enough: Product Decisions Behind Scalable Agent Systems - Cansu
   Berkem, Datadog"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   In this session, John Su, Product Director at Datadog, discusses the

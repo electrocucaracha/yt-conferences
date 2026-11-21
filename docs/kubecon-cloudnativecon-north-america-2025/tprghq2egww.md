@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Day 3 Highlight: KubeCon + CloudNativeCon Atlanta 2025"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker is excited to be at KubeCon CloudNative Con Atlanta on day

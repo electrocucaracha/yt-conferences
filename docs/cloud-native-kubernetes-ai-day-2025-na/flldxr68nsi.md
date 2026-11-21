@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Cloud-Native GraphRAG: AI’s Logical Edge - Stephen Chin,
   Neo4j"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   The speaker, who is VP at Neo Forj and content chair at the AI LFN Data

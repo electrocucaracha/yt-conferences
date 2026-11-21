@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: 5 Key Lessons From 8 Years of Building Kgateway -
   Yuval Kohavi"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Yuval Kohave, chief architect at Solo.io and K Gateway maintainer, shares

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: K3s Project Update - Orlin Vasilev, Community Manager"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Orland, the K3S community manager and CNCF ambassador, introduces K3S,

@@ -1,6 +1,8 @@
 ---
+layout: default
 title: "Lightning Talk: My Job Says 'Running' but Nothing's Running: Kubernetes
   Status Reality... Ron Kahn"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   "Ron, a senior software developer at Nvidia, discusses a common issue

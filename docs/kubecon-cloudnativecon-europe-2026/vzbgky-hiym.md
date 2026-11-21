@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cert-manager – Project Update: Beyond 2026 - Tim Ramlot & Maël Valais, Palo
   Alto Networks"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation provides an overview of the cert-manager project, its

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Why Is It So Hard to Run a 5G Core on Kubernetes—And What Needs... Joel Studler
   & Ashan Senevirathne
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation discusses the challenges and progress of running 5G

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Visualize And Manage Your Cloud-Native Infrastructure
   With Me... Yash Sharma"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Yash, a developer advocate at D Solution and maintainer

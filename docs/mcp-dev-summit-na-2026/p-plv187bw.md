@@ -1,5 +1,6 @@
 ---
 title: "Keynote: Welcome Remarks from the AAIF Governing Board Chair - David Nalley"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   In less than four months since its launch, the Agentic AI Foundation

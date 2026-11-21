@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Effortlessly Build High-Performance AI/ML Processing Pipelines Within the ML
   Life... Kazuki Yamamoto
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Yamamoto, a researcher at LT Corporation in Japan, presented a photo

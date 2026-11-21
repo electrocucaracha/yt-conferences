@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   DRA is GA! Kubernetes WG Device Management - GPUs, TPUs, NICs and More... Kevin
   Klues & Patrick Ohly
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The CubeCon North America update meeting for the Kubernetes Device Management

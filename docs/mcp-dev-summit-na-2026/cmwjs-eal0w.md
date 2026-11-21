@@ -2,6 +2,7 @@
 title:
   "Sponsored Session: Who's Driving? Delegation and the Confused Deput... Vitor
   Balocco & Alvaro Inckot"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   The speaker, a founding identity engineer at Run Layer, discusses the

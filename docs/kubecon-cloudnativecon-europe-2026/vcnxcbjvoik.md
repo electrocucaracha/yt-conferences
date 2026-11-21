@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Unleashing Event Driven Capabilities With KEDA - Jorge Turrado & Zbynek Roubalik
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Horge Dorado and Beign, both maintainers of the KEDA

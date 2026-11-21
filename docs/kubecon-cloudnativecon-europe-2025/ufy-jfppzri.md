@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Dancing With the Pods: Live Migration of a Database Fleet While Serving...
   Jayme Bird & Manish Gill"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the migration of their company's database from

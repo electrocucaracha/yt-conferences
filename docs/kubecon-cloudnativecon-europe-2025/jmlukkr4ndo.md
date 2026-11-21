@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: What's New in K3s? (and How You Can Help!) - Orlin
   Vasilev"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Orland, a CSF ambassador and technology advocate at SUSA, recently took

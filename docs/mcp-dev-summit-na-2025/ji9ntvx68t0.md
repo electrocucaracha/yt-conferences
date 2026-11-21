@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "MCP Registry: Designing For Server Discovery Tadas A. (PulseMCP) Alex H.(Block),
   and Toby P.(GitHub)"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   The video introduces the official MCP server registry, aiming to consolidate

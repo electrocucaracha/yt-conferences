@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Optimizing LLM Inference for the Rest of Us - Abdel Sghiouar, Google
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Abdel, a developer advocate at Google, discusses strategies

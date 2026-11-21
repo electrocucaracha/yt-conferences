@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   'Tutorial: "Working Code Wins": Win Big With a Cloud Native Hackathon Start...
   P. Morton & A. Bangser'
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Phil and Abby welcome to "Working Code Wins" at CubeCon, where they'll

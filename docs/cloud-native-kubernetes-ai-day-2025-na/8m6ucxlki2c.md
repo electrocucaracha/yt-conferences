@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   You Got a Match! LLM Prefix Aware Routing With Kubernetes - Ricardo Noriega
   & Cong Liu
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   The presentation discusses the Gateway API Inference Extension, a Kubernetes

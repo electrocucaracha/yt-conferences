@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Universal Mesh: Connect and Secure Everything - Baptiste
   Assmann"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses the challenges of managing evolving IT infrastructures

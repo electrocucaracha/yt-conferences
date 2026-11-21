@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: WasmEdge: What's New In WasmEdge? - Miley Fu, Second
   State"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker discusses the CNCF project, which uses WebAssembly for AI

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Linkerd: Reliable Production in an AI/MCP World - William Morgan, Buoyant"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   William Morgan, director of the Linkerd project, opens his talk by introducing

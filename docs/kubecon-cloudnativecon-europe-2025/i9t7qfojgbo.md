@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Container Runtimes... on Lockdown: The Hidden Costs of Multi... Lewis Denham-Parry
   & Caleb Woodbine"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the importance of isolation in container runtimes,

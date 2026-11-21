@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Red Vs. Blue: A Live Attacker-Defender Showdown in Kubernetes Securi... Lucy
   Sweet & Sandeep Kanabar"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this live "Red Versus Blue" Kubernetes security demo, Lucy and Sandeep

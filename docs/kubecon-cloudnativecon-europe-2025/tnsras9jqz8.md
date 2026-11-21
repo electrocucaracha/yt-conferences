@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Don't Write Controllers Like Charlie Don't Does: Avoiding Common Kubernetes
   Controller... Nick Young"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=tnSraS9JqZ8

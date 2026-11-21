@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "How to Master Behavioral Interviews \U0001F3A4 — with Austen McDonald"
+parent: "Interview Preparation"
 type: Video Note
 description:
   Austin McDonald, former hiring committee chair at Meta and author of

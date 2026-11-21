@@ -1,5 +1,7 @@
 ---
+layout: default
 title: 3 Career Killers for Software Engineers (from a Principal at Amazon)
+parent: "Interview Preparation"
 type: Video Note
 description:
   Three crucial mistakes he made in his career that can be avoided with

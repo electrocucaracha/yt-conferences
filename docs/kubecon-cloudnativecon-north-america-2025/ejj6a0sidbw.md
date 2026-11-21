@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Spark on Kubernetes, a Practical Guide - Damon Cortesi, Airbnb
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Damon Cortezy, a staff software engineer at Airbnb, discusses the company's

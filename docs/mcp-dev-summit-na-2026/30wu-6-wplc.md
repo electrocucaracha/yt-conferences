@@ -2,6 +2,7 @@
 title:
   "Keynote: Using MCP for Skills Orchestration and Enterprise Integration - Jacob
   Wilson"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   Jake Wilson, a partner at PwC’s analytics practice, discusses how modern

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Cloud Scale Enterprise AI: How Cohere Runs... Aanand Krishnan
   & Autumn Moulder"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Autumn Moulder and Anan Krishnan from Oracle discuss the need for a platform

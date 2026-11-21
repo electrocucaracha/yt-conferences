@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "When DNS Blinks: Scaling and Hardening CoreDNS in Critical Cloud Infra...
   Yong Tang & John Belamaric"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Yan Tang and John Palmer from Google discuss the evolution

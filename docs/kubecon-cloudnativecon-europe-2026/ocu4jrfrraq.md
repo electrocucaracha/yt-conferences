@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Cloud Native Theater | Cloud Native University... Cansu Kavili Örnek and Anneli
   Sara Banderby
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Jans Su, an architect with a platform engineering background, and Sarah,

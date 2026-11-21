@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Securing AI Agent Infrastructure: AuthN/AuthZ Patterns for MCP and A2A - Yoshiyuki
   Tabata"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Yoshik Tabata’s session focuses on securing AI agent infrastructure through

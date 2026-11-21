@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   An Immersive and Visual Journey Into Kubernetes Networking - Benoit Entzmann,
   Feesh
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker, Benoman, a DevSecOps consultant with extensive networking

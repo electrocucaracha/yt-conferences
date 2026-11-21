@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: A Curator’s Guide to the CNCF Landscape - Katherine
   Druckman"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Kathern Duckman welcomes newcomers to the CNCF (Cloud Native

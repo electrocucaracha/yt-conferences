@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Containerd: Project Update and Deep Dive - M. Pavlenko, A. Suda, L. Brehm,
   S. Karp, J. Zhou"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=5ZWbS01wCMk

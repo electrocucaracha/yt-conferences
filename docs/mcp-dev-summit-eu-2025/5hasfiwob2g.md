@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] What are Profiles? A Proposed Foundational Feature of MCP Servers"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The speaker introduces their background in standards development and

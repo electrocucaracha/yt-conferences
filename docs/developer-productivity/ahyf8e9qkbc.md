@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Learning Git: A Hands-On & Visual Guide • Anna Skoulikari & Helen Scott •
   GOTO 2024"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Anna Skoulikari, a creative and technical writer, has written a book

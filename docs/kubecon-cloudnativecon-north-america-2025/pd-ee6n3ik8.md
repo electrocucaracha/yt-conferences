@@ -1,5 +1,7 @@
 ---
+layout: default
 title: What's New in gRPC - Kevin Nilson, Google & Israel Shapiro, Broadcom
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video features a panel of gRPC maintainers and contributors discussing

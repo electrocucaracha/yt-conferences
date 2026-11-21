@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Confidential Platforms for Regulated Industries - William Rizzo, Mirantis
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker describes an experiment initiated to maximize the utilization

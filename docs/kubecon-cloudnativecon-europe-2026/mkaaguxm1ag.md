@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Privacy as Infrastructure: Declarative Data Protection of... Joaquin Rodriguez
   & Krishnendu Dasgupta"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Hain Rodriguez and Krishna Dazgupta Kish discuss

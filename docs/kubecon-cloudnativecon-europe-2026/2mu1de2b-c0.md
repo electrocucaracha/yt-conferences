@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Shell Awakens: Cloud Native Workflows for Particle Ph... Raulian-Ionut
   Chiorescu & Hannes Hansen"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Hannes and Raul, computing engineers at CERN, present their

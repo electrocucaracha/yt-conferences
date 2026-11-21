@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "No es cuánto trabajas: es cómo piensas sobre el dinero | Natalia Perez"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   El video aborda la psicología del dinero y cómo la mayoría de nuestras

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Welcome Back + Opening Remarks - Jorge Castro"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker welcomes attendees to the third day of the event, acknowledging

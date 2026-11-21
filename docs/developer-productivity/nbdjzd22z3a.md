@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Transforming Programming • Pragmatic Dave Thomas • YOW! 2018
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses their approach to coding, focusing on making code

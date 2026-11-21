@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Supercharge Cloud Native SQL Database With Object Storage: Scaling TiKV With
   S3 as... Jinpeng Zhang"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker discusses scaling databases with S3 at the backbone, focusing

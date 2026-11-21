@@ -1,5 +1,7 @@
 ---
+layout: default
 title: What Are Your Salary Expectations? (Best Answer From A Former Recruiter)
+parent: "Interview Preparation"
 type: Video Note
 description:
   Employers ask about salary expectations because they want to determine

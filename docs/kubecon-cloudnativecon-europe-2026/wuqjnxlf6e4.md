@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Finally Incubated! What Comes Next For Metal3?- Ádám
   Rozmán, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Adam Rosman presents an update on the Metal Cubed project, which aims

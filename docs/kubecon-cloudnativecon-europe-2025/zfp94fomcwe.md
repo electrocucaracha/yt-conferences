@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Breaking Free From the Cloud: Banking on Self... Kārlis Akots Gribulis & Per
   Hedegaard Christiansen"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Popensson, is the head of container platform engineering

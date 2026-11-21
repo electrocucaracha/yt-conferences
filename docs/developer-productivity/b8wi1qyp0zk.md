@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Collaborative Software Design • E. van Kelle, G. Verschatse, K. Baas-Schwegler
   & X. Yao • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   'The three authors, Evelyn van Kelle, Gien Verschatse, and Kenny Baas-Schwegler,

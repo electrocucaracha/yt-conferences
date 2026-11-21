@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Full-Stack Observability on a Budget: A Guide to Strategic Sampling
   and Da... Pavol Loffay"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The tutorial builds on previous sessions about Kubernetes observability,

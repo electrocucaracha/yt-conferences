@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Bare Metal Provisioning With Tinkerbell - Jacob Weinstock,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Jacob Weintock, the core maintainer of the Tinkerbell project, introduces

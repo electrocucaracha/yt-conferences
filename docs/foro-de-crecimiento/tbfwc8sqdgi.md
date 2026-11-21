@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Si Te Sientes Solo, Esto es Para Ti | Sebastián Struck – Sesión 36
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Sebastián Struck, creador de Maestría Emocional,

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "How to Grow Your Network Marketing | Lourdes Enriquez Growth Session #4"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa entrevista, Lourdes Enríquez comparte su experiencia

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How To Manage Your Time Like a CEO
+parent: "Interview Preparation"
 type: Video Note
 description:
   "To manage time like the top 1%, you need to stop following traditional

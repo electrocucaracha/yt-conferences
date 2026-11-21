@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Compliance at the Speed of Innovation: Leveraging AI-Driven Automation for
   Real-Time Regulatory Read"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The discussion centered around compliance as code, with experts from

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: 8 Questions You MUST ASK in EVERY Interview - Tips from an Engineering Manager!
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, an engineering manager with extensive interview

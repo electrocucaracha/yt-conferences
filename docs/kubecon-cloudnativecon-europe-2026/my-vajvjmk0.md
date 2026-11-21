@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Data on Kubernetes Day: From PVC to Mount Point: Dissecting
   a... Vivek Singh"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Vivee, a software engineer at MongoDB, explains the

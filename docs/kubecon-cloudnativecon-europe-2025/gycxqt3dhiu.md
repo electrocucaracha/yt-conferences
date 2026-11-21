@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How Do You Measure Devel... Jennifer Riggins, Cat Morris, Akshaya Aradhya,
   Laura Tacho & Helen Greul
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The panel discussion on developer productivity focused on the challenges

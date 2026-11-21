@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How To Learn So Fast It’s Almost Unfair
+parent: "Interview Preparation"
 type: Video Note
 description:
   Learning how to learn faster than others. The key to success lies in

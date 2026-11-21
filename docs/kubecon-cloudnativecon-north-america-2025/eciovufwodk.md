@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Bringing OCI Into the GitOps World - Jesse Suen, Akuity
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker discusses how Open Container Initiative (OCI) is becoming

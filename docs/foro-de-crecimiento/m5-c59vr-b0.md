@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en IA: Qué es la Inteligencia Artificial? Explicado Fácil y Rápido
   | Dr Fernando de la Peña"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   Fernando de la Peña, ingeniero mexicano y empresario, relata su trayectoria

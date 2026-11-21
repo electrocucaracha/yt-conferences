@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   A Cloud Native Workflow for Hardware-in-the-Loop Software Development - Miguel
   Angel Ajo, Red Hat
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses hardware-in-loop testing with Kubernetes, a technique

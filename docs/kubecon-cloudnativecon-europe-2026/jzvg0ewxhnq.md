@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: From Inference to Agents: Where Op... Jonathan Bryce, Brian Stevens,
   Mark Collier & Lin Sun"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel discussion brings together leaders from across the AI and open

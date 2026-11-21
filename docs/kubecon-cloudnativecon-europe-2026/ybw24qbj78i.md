@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Argo Workflows 4, What's New And What's Next - Alan
   Clucas, Lead"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker introduces Argo Workflows, a Kubernetes-native batch processing

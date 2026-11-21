@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Psychology says you can land any job once you understand these 6 principles
+parent: "Interview Preparation"
 type: Video Note
 description:
   Brilliant people get rejected and average candidates get offers despite

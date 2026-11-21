@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Five Lines of Codes • Christian Clausen • GOTO 2022
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker, a technical agile coach, shares his experience of transforming

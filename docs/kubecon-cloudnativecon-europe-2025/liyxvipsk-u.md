@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   TUF-en up Your Software Supply Chain - Marina Moore, Edera & Kairo De Araujo,
   Independent
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Kaido and Marina discuss the software supply chain metadata distribution

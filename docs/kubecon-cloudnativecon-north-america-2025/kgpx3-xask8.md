@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Designing for Observability: From Noise To Insight - Andrea Chomiak, Dash0"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In her first CubeCon talk, Andrea Homc emphasizes the importance of usability

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Scaling Geo-Temporal ML: How Pokémon Go Optimizes Global Gameplay
   With... Y. Liu & A. Zhang"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The team at Niantic Labs used machine learning to optimize global gameplay

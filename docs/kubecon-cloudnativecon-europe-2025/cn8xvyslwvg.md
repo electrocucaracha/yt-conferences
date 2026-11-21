@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "In the Eye of Falco: Tr... Luca Guerra, Jason Dellaluce, Aldo Lacuku, Leonardo
   Grasso, Aurélie Vache"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Falco is a cloud-native runtime security tool that detects security traits

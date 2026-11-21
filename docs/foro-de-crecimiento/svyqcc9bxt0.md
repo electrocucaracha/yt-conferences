@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Estratega emocional: cómo dominar la depresión, la ansiedad y las adicciones
   | Manuel Salmun"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Manuel Salmón, experto en adicciones, ansiedad, depresión

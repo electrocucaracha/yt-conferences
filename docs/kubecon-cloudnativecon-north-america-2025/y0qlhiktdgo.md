@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "TikTok's IPv6 Journey To Cilium: Pitfalls and Lessons Learned - Giri Kuncoro
   & Joseph Pallamidessi"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, TikTok’s security engineering team detailed their two-year

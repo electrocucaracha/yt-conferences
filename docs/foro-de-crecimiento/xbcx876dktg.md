@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Soñar Te Transforma – Lourdes Enríquez | Sesión 37
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   El video explora la importancia de soñar como motor de transformación

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Let's dream big for MCP Auth with Tobin South - WorkOS"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The speaker, drawing on their background in AI security and experience

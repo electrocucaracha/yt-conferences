@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Logs to Decisions: Autonomous AI Agents for Real-Time Kubernetes Threat
   R... Willem Berroubache"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, William Burbash, a security architect at Orange in Paris,

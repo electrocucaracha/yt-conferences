@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Welcome Back + Opening Remarks"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker welcomes attendees and expresses excitement for CubeCon,

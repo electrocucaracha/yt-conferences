@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Surviving Day2 : Picking the Right Tool To Secure Your... Bruno Gabriel da
   Silva & Henrique Santana"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, a principal cloud support engineer at AWS, discusses the

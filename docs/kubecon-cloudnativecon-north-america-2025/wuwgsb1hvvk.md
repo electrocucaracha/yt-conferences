@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: A Hitchhiker's Guide to... Katherine Druckman, Gerald
   Venzl & Lori Lorusso"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session of Project Lightning Talks, Katherine Duckman and Lori

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   5 Keys to Navigating Difficult Conversations at Work | Leadership Training
   for Engineering Managers
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard addresses the challenge of having difficult

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to introduce yourself—and get hired | Rebecca Okamoto | TEDxNorthwesternU
+parent: "Interview Preparation"
 type: Video Note
 description:
   The speaker shares their personal experience of how a simple change in

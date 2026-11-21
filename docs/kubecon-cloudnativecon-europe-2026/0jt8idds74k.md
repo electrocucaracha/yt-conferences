@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Operationalizing AI Workloads on Kubernetes With OpenKruise - Zhang Zhen &
   Vec Sun
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   John from the OpenKruise community discusses the challenges and solutions

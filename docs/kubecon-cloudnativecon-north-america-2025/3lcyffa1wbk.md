@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Hidden Risks in AI/ML Supply Chains: How To Secure Your Workloads - Yash
   Pimple, Chainguard"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker discusses the hidden risks in the machine learning (ML) supply

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: 7 Steps to Recover from Burnout
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering

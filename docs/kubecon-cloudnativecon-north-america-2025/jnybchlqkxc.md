@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Smarter Together: Orchestrating Multi-Agent AI Systems... Ana Maria Lopez
   Moreno & Sharon Camacho"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Sharon Camacho and Anna Lopez discuss the challenges

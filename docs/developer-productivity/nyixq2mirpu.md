@@ -1,5 +1,7 @@
 ---
+layout: default
 title: AI-Powered Software Development From the Trenches • Henrik Kniberg • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the hype surrounding AI, comparing it to the internet

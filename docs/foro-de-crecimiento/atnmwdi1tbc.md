@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Especialista en longevidad: hábitos para vivir más y mejor | Alejandra silva
   #15 \U0001F9EC"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, la experta en longevidad y nutrición Alejandra Silva

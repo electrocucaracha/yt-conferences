@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: What's New in Istio? - Mitch Connors, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "Mitch Connors, a principal engineer at Microsoft, is giving a talk on

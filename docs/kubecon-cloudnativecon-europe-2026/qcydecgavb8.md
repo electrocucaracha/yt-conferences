@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native at the Far(m) Edge: Running Kubernetes and AI... Mauro Morales
   & Jordan Karapanagiotis"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation discusses the application of cloud-native technologies,

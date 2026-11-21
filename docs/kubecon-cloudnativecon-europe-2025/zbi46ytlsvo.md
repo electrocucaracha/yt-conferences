@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Vitess: Schema Changes at Scale - Rohit Nayak & Shlomi Noach, PlanetScale"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video transcript discusses Vitess, an open-source project that enables

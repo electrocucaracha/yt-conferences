@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: The Future of Cloud Native Is… Agentic - Lin Sun, Head of Open Source,
   Solo.io"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker recounts their experiences attending Cube Con, highlighting

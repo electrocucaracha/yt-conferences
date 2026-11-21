@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Continuous Delivery in a World of Constant Change • Abby Bangser & Dave Farley
   • GOTO 2025
+parent: "Developer Productivity"
 type: Video Note
 description:
   Notes for Continuous Delivery in a World of Constant Change • Abby Bangser

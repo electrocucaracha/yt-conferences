@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Foro De Crecimiento"
+has_children: true
+nav_order: 7
+okf_version: "0.2"
+---
+
 # Foro De Crecimiento
 
 ## Executive Overview

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Unleash the Power of Inplace Pod Resource Resizing for Startup and Cost...
   Zhang Zhen & Yuxing Yuan
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   J from Alibaba Cloud, maintainer of the OpenKruise project, introduces

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Hot Takes: Kubernetes Paintainers Bring the Heat"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video is an episode of "Hot Takes," a panel discussion show where

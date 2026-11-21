@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Taming Rollout Risks in Distributed Web Apps: A Location-Aware Gradual Deployment...
   Angela Victorio"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Angela Victoria, a technical lead at JP Morgan Chase and former American

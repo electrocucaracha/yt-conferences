@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "KubeEdge DeepDive: Extending Kubernetes To the... Tina Tsou, Hongbing Zhang,
   Huan Wei & Yin Ding"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video features a deep dive into the KubeEdge project, presented by

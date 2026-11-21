@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Chaos To Control: Building ML Platform - George Markhulia & Steve Larkin,
   Volvo Cars"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: "The Abacus platform, built by Volvo Cars' ML platform team, allows
   users to onboard, create projects, and deploy models without manual intervention

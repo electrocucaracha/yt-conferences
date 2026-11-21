@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Emissary-ingress: Version 4 and the Road Ahead - Flynn, Buoyant"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker is discussing Emissary Ingress maintainer talk, focusing

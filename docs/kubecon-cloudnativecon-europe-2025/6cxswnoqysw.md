@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Empowering Data Protection for Stateful Applications
   on Kuberne... Mark Lavi"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Mark Lavy discusses the storage track data protection canister project,

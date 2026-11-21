@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Leveraging Internal Knowledge: Building AiKA at Spotify - Majd Salman & Jofre
   Mateu Matesanz"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Majid and Joffra, platform engineers at Spotify's platform developer

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 4 - LLM Training
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   The lecture begins with logistics about the upcoming midterm and final

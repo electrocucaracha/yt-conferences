@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Securing MCP in an Agentic World with Arjun Sambamoorthy from Cisco"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Arjun, head of R&D for Cisco's AI security product, discusses the security

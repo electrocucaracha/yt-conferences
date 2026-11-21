@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Improve Your Listening Skills by the End of This Video | Leadership Training
   for Engineering Manager
+parent: "Leadership Skills"
 type: Video Note
 description:
   "The video emphasizes the importance of listening skills for effective

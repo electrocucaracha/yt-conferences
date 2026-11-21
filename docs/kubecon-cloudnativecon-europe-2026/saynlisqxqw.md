@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "REST in Peace: AI Needs to Be Async - Meet Asya - Artem Yushkovskiy, Delivery
   Hero"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Artam introduces a talk on AI orchestration, focusing on the challenges

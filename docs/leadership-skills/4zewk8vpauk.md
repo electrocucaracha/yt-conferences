@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Why Engineers Struggle With Soft Skills | How to Improve Your Communication!
+parent: "Leadership Skills"
 type: Video Note
 description:
   Doug Howard, a licensed structural engineer and engineering manager,

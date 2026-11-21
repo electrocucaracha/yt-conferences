@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Kubernetes Challenges at Lambda - Andrew Godwin, Lambda
   Labs"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   The speaker, Lambda’s lead software architect, provides an overview of

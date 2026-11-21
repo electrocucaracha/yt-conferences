@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Day 0 Highlight: KubeCon + CloudNativeCon Atlanta 2025"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The CubeCon and CloudNative Con North America 2025 conference kicked

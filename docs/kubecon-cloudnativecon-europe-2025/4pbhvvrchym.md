@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Balancing Cost and Efficiency: Day2 Optimization of Multi-Cluster AI Infrastructure
   - Kevin Wang"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Kevin Juan, a professional working on multiple projects at CNCF, will

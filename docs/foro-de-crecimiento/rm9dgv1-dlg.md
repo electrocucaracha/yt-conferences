@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experta en voz: cómo hablar para que realmente te escuchen | Elisa Mass -
   Sesión 23"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, la especialista en voz Elisa Más explica cómo la

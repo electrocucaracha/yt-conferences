@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Scaling GPU Clusters Without Melting Down! - Alay Patel & Ryan Hallisey, NVIDIA
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   NVIDIA engineers Ryan Haly and Olay Patel discuss their experiment to

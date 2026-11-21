@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] One Test a Day Keeps the Issues Away with Oleksandr Kotov - Grafana
   Labs"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Alexander introduces the importance of testing MCP servers, emphasizing

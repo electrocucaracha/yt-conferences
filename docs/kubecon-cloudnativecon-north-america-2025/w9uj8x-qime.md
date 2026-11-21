@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Open Source at the Edge: Hardware, Firmware, and AI Stacks - Miley Fu & Saiyam
   Pathak"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Miley Fu and Sam Bak introduce Echo Kit, an open-source,

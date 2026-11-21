@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Stir to Combine: Creating Porter Mixins - Sarah Christoff,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=4YVSW8UuHac

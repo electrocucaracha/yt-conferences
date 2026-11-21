@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Software Engineering - Development in 100 Years Time • Dave Farley • GOTO 2020
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the durability of certain ideas in software development,

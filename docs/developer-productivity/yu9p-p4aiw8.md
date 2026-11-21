@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Lizard Optimization • Gojko Adzic & Dave Farley • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   Gojko Gogichaichvili, a prolific author and software developer, discusses

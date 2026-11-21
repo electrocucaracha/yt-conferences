@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes and etcd: Common Pitfalls and How To Avoid Them - Arka Saha & Nabarun
   Pal, Broadcom"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session focused on common pitfalls and best practices for managing

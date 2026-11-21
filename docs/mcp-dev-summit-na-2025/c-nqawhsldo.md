@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Keynote] MCP201: The Protocol in Depth with David Soria Parra at Anthropic"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   In this talk, David, a technical staff member at Anthropic and co-creator

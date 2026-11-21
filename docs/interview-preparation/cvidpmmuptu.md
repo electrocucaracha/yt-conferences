@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How To Speak Like A Billion-Dollar CEO
+parent: "Interview Preparation"
 type: Video Note
 description:
   "The 1% elite use specific communication skills to sound powerful in

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Ctrl-X, Ctrl-V Your Pods: WG Checkpoint Restore in Kub... Peter H, Adrian
   R, Radostin S & Viktória S"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Razin, Peter, and Victoria introduce the Kubernetes

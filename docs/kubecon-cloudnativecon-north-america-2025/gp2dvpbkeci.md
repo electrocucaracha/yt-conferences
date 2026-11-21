@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Copacetic: Directly Patch Container Image Vulnerabilities
   - Jeremy Rickard"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Jeremy from Microsoft introduces Copaetic, a CNCF sandbox project designed

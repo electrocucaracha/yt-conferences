@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Investigation & Creation of Software • Jessica Kerr • GOTO 2020
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker, a developer, shares their experience with learning CSS by

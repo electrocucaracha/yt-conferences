@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Towards Building an Open Source AI Reference Stack for EU Sov... Madhav Bhargava
   & Sanjay Chatterjee
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Sanji Chari from Nvidia and Madav Bharu from SAP discuss

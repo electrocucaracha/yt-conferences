@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "More Data Please: Hands on Green Cloud Experiments - Leonard Pahlke & Antonio
   Di Turi"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Antonio, discusses the challenges of measuring energy consumption

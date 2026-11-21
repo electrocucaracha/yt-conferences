@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Vitess: Unlimited Database Scalability - Matt Lord,
   Maintainer"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Matt Lord introduces Vitess, a CNCF project designed as

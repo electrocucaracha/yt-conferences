@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Your mood defines how you lead | Session 32 · Elena Espinal
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Elena Espinal, pionera en coaching y experta en liderazgo,

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] What MCP Middleware Could Look Like with Yoko Li from A16Z"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Yoko, a partner at Andre and Horwood and an active developer, introduces

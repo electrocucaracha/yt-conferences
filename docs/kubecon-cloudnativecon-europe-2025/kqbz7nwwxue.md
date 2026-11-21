@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   What's New With Kubectl and Kustomiz... Eddie Zaneski, Maciej Szulik, Marly
   Salazar & Yugo Kobayashi
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The CLI SIG leads a discussion on cube control and customize, focusing

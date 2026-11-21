@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Freedom Through Boundaries: Building Configurations That Age Well - Bogdan
   Stancu, Adobe"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Bogdan, from Adobe's observability team, discusses the importance of

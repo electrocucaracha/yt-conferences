@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SIG Cloud Provider Deep Dive: Expanding Our Miss... Bridget K, Michael M,
   Joel S, Walter F & Jesse B"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The SIG cloud provider deep dive discussed the future of Kubernetes cloud

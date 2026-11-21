@@ -2,6 +2,7 @@
 title:
   "My MCP Server Code Works, but the Agent Fails: The Case for MCP-specify...
   Calum Murray & Wesley Chun"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   In this talk, Wesley and Callum introduce MCP Checker, an open-source

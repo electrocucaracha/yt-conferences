@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From GitOps to AIOps: Evolving RBI's Kubernetes Platform with Cross... Gabor
   Horvath & Ewald Überall"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Gabbor War and Evadar from Raiffeisen Bank International

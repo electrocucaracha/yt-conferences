@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From “It Works!” to “It’s Secure!”: Hardening Your First Kub... Paul Zerdilas-Herrera
   & Leon Schulze"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation at CubeCon, Paul from Nutanix and Leon from Palo

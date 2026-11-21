@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "No Pain No Drain: Lessons From Node Drains at Scale - Ryan Hallisey & Natalie
   Bandel, NVIDIA"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Ryan Haly and Natalie Vanell from Nvidia describe their

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   A Huge Cluster or Multi-Clusters? Identifying the Bottleneck - Paco Xu & Saiyam
   Pathak
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   'The video discusses the challenges of managing large Kubernetes clusters,

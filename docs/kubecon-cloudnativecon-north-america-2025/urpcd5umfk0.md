@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Konveyor: Mining Developer Wisdom to Modernize Legacy
   Apps... Jonah Sussman"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Jonah Susman introduces Conveyor, a tool designed to accelerate large-scale

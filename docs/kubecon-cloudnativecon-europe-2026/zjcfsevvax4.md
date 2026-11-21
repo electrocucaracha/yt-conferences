@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Dragonfly V2.4.0 - Intro, Updates, Data Distribution in AI Infrastructure -
   Wenbo Qi & Chenyu Zhang
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Gio, the maintainer of Dronefly, introduces the

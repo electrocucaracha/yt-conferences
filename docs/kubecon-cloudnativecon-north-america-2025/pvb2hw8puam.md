@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Simplifying Advanced AI Model Serving on Kubernetes Using Helm... Ajay Vohra
   & Tianlu Caron Zhang
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, Karen John from Apple and AJ Vora from AWS discuss the

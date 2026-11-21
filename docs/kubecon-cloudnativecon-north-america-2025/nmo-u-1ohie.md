@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Closing - Jeffrey Sica, CNCF"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker, representing the CNCF, announces the conclusion of the last

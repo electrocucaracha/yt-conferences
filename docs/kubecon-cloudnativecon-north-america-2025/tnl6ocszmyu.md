@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Cloud Native for Good - Faseela K, O. Mohsine, R. Machorro, B. Thomas,
   J. Workman"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video transcript discusses how cloud-native technology is being used

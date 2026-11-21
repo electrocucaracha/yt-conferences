@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Panel: AI Infra Best Practices: Enterprise Do’s and Don’ts - Madhuri Yechuri
   & Andrew Leung"
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   The discussion centers on Uber’s extensive experience building and operating

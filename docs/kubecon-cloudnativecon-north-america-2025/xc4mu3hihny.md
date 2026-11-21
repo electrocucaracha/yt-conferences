@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Upgrade Nightmare To Uptime Dream: The Cloud Provider's Playbook for... Yuchen
   Zhou & Uttam Kumar"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Utam Kumar from Salesforce and a representative

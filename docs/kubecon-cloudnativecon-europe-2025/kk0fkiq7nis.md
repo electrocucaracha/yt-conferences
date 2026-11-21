@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Wasm I Right or Wasm I Wrong? a Review of the Wasm Ecosystem - Taylor Thomas
   & David Justice
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "Tara Thomas and David Justice, co-chairs of the WebAssembly (WASM) working

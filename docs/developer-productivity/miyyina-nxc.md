@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Expert Talk: Scaling Down Complexity in Software • James Lewis & Kevlin Henney
   • GOTO 2022"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Kevlin Henney is in conversation with James Lewis, technical director

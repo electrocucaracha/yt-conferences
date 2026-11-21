@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kill the Ticket Queue: A CNCF Blueprint for Self-Service Platfor... Bhavani
   Indukuri & Aparna Prabhu"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Bhavani Indukuri and Aparna Prabhu from DigitalOcean describe

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   A Practical Guide To Kubernetes Policy as Code - Jim Bugwadia, Rita Zhang,
   Andy Suderman & Joe Betz
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Kubernetes policy as code guide focuses on using code to manage and

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Missing Manual for Open Source Community Sustainability - Taylor Dolezal
   & Erica Hughberg
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   "The transcript captures an interactive workshop focused on building

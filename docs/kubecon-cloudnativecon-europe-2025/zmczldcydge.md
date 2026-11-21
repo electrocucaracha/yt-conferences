@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How Millennium Bcp Leverages Radius To Empower Developer + Operator... Nuno
   Guedes & Jonathan Smith
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Millennium BCP leverages Radius to empower developer and operator collaboration

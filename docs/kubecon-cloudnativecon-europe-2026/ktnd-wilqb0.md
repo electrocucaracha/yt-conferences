@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "LLM Inference at Scale: Orchestrating Prefill-Decode Disaggregation - Zhonghu
   Xu"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Junhu from Haw Club discusses the challenges and solutions for orchestrating

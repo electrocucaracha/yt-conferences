@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   SIG Instrumentation Introduction and Deep Dive - Catherine Fang & David Ashpole,
   Google
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, David Ashpole and Katherine from Google introduce

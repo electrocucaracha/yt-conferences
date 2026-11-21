@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Achieving Resilient Multi-Cluster AI Inference on Kubernetes With Kar... Wei-Cheng
   Lai & Han-Ju Chen
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Hanuch Chen and Wan Lai present a practical approach for running AI inference

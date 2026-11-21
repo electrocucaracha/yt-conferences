@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Under the Hood of Vitess: Database Engineered for Scale and Resilien... Matt
   Lord & Florent Poinsard"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Florent and Matt, maintainers of the Vitess project and software engineers

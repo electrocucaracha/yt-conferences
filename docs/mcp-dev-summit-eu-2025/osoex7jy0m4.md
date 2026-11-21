@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Streams, Sessions, Stats Transport and Client Behaviour in Practice"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Sean Smith from Hugging Face introduces his work on the MCP server and

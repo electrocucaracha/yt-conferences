@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Getting (and Staying) up To Speed on DRA With the DRA Example
   Driver - Jon Huhn"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   John Hune, a software engineer at Microsoft, introduces dynamic resource

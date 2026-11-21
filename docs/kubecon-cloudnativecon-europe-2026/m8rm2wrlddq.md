@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: A Maintainer’s Tour Of Tag Security And Compliance
   - Marina Moore"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The TAG Security and Compliance group is a Technical Advisory Group focused

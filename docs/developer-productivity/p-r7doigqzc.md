@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond the Hype: What AI Actually Can (and Can't) Do • Jodie Burchell & Michelle
   Frost • GOTO 2026"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Jodie Virtual and Michelle Frost, AI advocates at Jet Brains, discuss

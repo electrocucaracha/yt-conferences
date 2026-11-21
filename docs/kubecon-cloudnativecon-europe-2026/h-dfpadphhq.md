@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "WG-Batch Updates: What’s New and What Is Next? - Yuki Iwai, CyberAgent, Inc.
   & Kevin Hannon, Red Hat"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation provides an update from the Kubernetes Batch Working

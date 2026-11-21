@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: AI on Kubernetes Without the Chaos: Building Reproducible ML Environment.
   Nourhan Mohamed"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Norhan Muhammad introduces a talk focused on achieving reproducible and

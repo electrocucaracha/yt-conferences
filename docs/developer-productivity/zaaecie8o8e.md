@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Engineering for Software - How to Amplify Creativity • Dave Farley • YOW! 2022
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the importance of adopting engineering principles

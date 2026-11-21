@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Starting and Scaling a Platform Engineering Team - Camille Fournier & Ian Nowland
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Camille Fornier, co-author Ian Noland, and their platform engineering

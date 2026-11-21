@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Platform Engineering Loves Security: Shift Down To Your Platform... Maxime
   Coquerel & Mathieu Benoit"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Matthew Benois, Clative ambassador and customer success engineer at Humanit,

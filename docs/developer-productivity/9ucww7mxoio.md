@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Experiment to Innovate • Anders Toxboe • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the importance of experimentation in innovation,

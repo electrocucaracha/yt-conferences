@@ -2,6 +2,7 @@
 title:
   "Keynote: MCP @ Amazon Scale - James Hood, Principal Software Engineer, Amazon
   Web Services"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   James Hood, a senior principal engineer at Amazon, shares his journey

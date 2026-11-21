@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The OS Behind the Curtain: What Happens on Your Nodes When Things Happen in
   Your Clu... Joe Thompson"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Joe Thompson introduces himself and outlines his background in IT and

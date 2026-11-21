@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Influence Upward, Downward, and Cross Functionally at Work
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, leadership coach Doug Howard introduces the AEC framework—Appreciate,

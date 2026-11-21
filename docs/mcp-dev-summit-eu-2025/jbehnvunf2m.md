@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Do You Need an AI Gateway with Ignasi Barrera - Tetrate"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The session discusses the growing need for AI gateways amid the rapid

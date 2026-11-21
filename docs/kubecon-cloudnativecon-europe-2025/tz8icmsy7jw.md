@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Dynamic Multi-Cluster Controllers With Controller-runtime - Marvin Beckers
   & Stefan Schimanski
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Marvin Beckers, a team lead at Kubernetic, discusses writing dynamic

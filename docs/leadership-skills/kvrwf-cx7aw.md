@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Avoid the 4 Biggest Mistakes Every New Engineering Manager + Tech Leader
   Makes!
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard addresses the four most common mistakes new

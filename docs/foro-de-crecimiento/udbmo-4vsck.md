@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Coach de conferencistas: 5 secretos para hablar en público con impacto | Francisco
   Yáñez #49"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Francisco Yáñez, reconocido conferencista y coach

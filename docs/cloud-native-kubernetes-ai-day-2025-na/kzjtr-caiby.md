@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Cloud Native + Kubernetes AI Day | Closing Remarks - Yuzhui Lui & Yuan Tang
+parent: "Cloud Native Kubernetes Ai Day 2025 Na"
 type: Video Note
 description:
   The event concluded with expressions of gratitude to all attendees, platinum

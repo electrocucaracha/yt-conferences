@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "DevUX: Improving Developer-Designer Collaboration • Yu Ling Cheng & France
   Wang • GOTO 2019"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Julien, a developer, shares his experiences with collaboration between

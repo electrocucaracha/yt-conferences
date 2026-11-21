@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Safe By Design: AI-Powered Auto-Healing For SREs -
   Arik Alon, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Ari, CEO of Robusta and maintainer of Holmes GPT, introduces Holmes GPT

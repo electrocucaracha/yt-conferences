@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Public End User Technical Advisory Board (TAB) Town Hall
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The End User Technical Advisory Board (TAB) aims to represent the end-user

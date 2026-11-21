@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: What’s New In Kairos, 2026 Edition - Mauro Morales,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Mar Morales, a maintainer of the Kyros project, provides an update on

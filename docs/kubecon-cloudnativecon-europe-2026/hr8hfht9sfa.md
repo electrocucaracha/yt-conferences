@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Build a European Cloud Orchestration Platform From With... Maximilian
   Techritz & Johannes Ott
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Johannes and Max from SAP share their three-year

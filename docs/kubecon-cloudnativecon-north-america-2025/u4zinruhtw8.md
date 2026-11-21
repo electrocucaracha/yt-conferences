@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Shipping Secure, Reusable, and Composable Infrastructure as Code... Feynman
   Zhou & Katherine Pitz
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Feman from Microsoft Azure and Katie Pittz from

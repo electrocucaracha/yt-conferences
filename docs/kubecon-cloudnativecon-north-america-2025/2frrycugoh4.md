@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Don't Panic! A Beginner's Guide To K8s Debugging - Ivan Porta & Phil Henderson,
   Buoyant
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Phil Henderson and Ivan Pora present a beginner-friendly guide to troubleshooting

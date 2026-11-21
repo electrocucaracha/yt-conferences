@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: OpenFGA: The Cloud Native Way to Implement Fine Grained
   Aut... Andres Aguiar"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Andres Agar, a product manager at Octa, introduces Open FJ, an authorization

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Build an Inclusive Distributed Team • Adam Schuck • YOW! 2018
+parent: "Developer Productivity"
 type: Video Note
 description:
   As the Director of Engineering at Canva, Michelle shares her experiences

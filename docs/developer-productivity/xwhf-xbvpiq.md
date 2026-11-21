@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Getting Buy-In: Overcoming Larman's Law • Allen Holub • YOW! 2024"
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the importance of creating a culture in large organizations

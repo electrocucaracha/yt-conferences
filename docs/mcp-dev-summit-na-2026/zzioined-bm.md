@@ -2,6 +2,7 @@
 title:
   "OCI Images as MCP Packaging: Supply Chain Security for AI Tools - Juan Antonio
   Osorio, Stacklok"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   The speaker, Juan Antonio (Oz), discusses the importance of using OCI

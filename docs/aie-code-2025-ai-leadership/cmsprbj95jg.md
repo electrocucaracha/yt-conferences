@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "AIE CODE 2025: AI Leadership ft Anthropic, OpenAI, McKinsey, Bloomberg, Google
   Deepmind, and Tenex"
+parent: "Aie Code 2025 Ai Leadership"
 type: Video Note
 description:
   The transcript details a full-day AI engineering summit featuring presentations,

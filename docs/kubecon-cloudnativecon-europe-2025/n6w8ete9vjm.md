@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "BoF | Fueling Cloud Native: The Data We Have, the Data We Need - Hilary Carter,
   SVP Research"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Hillilary Carter, from the Linux Foundation, discussed fueling cloud-native

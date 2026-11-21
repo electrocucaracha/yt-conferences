@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Simplifying the Networking and Secure. Bill Mulligan, Anna Kapuścińska, Bowei
   Du & Amir Kheirkhahan
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Psyllium project has made significant advancements in cloud-native

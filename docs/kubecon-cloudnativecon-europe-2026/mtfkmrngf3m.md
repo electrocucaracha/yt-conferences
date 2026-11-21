@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Leveling up with Radius: Custom Resources and Headlamp Integration for R...
   Nuno Guedes & Will Tsai"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Will, a principal product manager at Microsoft Azure’s open source incubations

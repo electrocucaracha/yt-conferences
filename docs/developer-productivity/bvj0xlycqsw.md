@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Deal with Software Complexity • Gail Murphy & Charles Humble • GOTO
   2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   Dr. Gail Murphy, a professor and vice president of research at the University

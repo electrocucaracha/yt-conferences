@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Agentic Networking: Securing AI Agents on Kubernetes - Haiyan Meng, Google
   & Evaline Ju, IBM"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Hayen from Google and Evelyn Ju from IBM introduce the

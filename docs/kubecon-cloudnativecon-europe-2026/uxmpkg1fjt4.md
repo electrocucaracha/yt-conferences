@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Strengthening CNCF Projects: Impact of Security... Eddie K, Bradley A, Justin
   C, Shuting Z & Orlin V"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this panel discussion, Eddie Knight introduces a session focused on

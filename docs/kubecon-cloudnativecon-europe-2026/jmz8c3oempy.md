@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How Many Spark Applications Can Your Etcd Really Handle? - João Soares & João
   Azevedo, Feedzai
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Jean Asveu and Jean Swage from FISA discuss their

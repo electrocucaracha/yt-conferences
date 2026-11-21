@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Entrenador de Perros: La guía completa para entrenar a tu perro | Darwin Angulo"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa entrevista, Darwin Angulo, instructor canino con más

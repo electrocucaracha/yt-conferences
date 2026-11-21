@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Highly Scalable AI Search Engine and AI Data Lake With Kubernetes and Lance...
   Lu Qiu & Chanchan Mao
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presenters discuss the challenges of managing AI data, emphasizing

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "When OTTL Goes Off the Rails: Debugging Transformations with. Edmo Vamerlatti
   Costa & Tyler Helmuth"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Tyler Helmouth and Aimo provide an intermediate-level

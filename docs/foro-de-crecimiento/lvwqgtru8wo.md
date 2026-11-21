@@ -1,5 +1,7 @@
 ---
+layout: default
 title: La Guía de Liderazgo que Cambiará Tu Forma de Ver el Mundo (por Pablo Chalakani)
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   El video explora la naturaleza del liderazgo, argumentando que un líder

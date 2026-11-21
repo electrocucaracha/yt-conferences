@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "OTel+K8s= ❤️: An Introduction To OpenTelemetry for Kubernetes... Christos
   Markou & Jacob Aronoff"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presentation introduces OpenTelemetry (OTEL) and its integration

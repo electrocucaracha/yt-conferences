@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | EnvoyCon: External Processing, Internal Leverage: MCP
   Tool Calls... Jens Kat"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Jen Scott, a senior software engineer at ING, explains

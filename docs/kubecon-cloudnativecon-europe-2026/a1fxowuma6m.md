@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tailor Made: Dynamic Fine-Grained Authorization for API Traffic - Erica Hughberg
   & Andres Aguiar"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, the speakers discuss the challenges of implementing

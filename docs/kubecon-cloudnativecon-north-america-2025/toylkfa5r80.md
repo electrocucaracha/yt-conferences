@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Apple Containerization: Secure, Private Containers on macOS - Madhu
   Venugopal, Apple"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Apple has introduced its containerization framework, enabling developers

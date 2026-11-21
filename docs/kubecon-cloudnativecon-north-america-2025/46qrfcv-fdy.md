@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond the Dashboard: Modern Observability... Danielle C, Whitney L, Stevie
   C, Khallai T & Payal B"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session explores modern observability in platform engineering, emphasizing

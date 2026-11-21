@@ -1,5 +1,7 @@
 ---
+layout: default
 title: No More Slop – swyx
+parent: "Aie Code 2025 Ai Leadership"
 type: Video Note
 description:
   The speaker opens by expressing nervousness and asking for audience support,

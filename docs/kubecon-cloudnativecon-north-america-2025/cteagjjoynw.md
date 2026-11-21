@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Metal3.io Project Updates - Kashif Khan, Maintainer"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Kashif Khan, co-chair of CNCF tag infrastructure and open source architect

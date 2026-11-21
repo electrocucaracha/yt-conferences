@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Audit-Ready Kubernetes: How Chase UK Leveraged Policy as Code for Co... Jim
   Bugwadia & Nischay Goyal"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video discusses how platform engineers can automate the process of

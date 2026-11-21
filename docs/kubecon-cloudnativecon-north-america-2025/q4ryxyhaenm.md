@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Butterfly Effect: What Kubernetes SIG Security Has in F... I. Coldwater, S.
   Raghunathan, C. Valencia"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The SIG Security Maintainer Track talk introduces the Kubernetes SIG

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Strengthening Kubernetes Trust: SIG Auth's Latest Se... Anish R, Mo K, Stanislav
   L, Rita Z & Peter E"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The SIGOT deep dive session covered numerous updates and features in

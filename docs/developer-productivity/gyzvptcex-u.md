@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Leveraging Our "Brains" in Software Development • Fahran Wallace & Benjamin
   Mitchell • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speakers, Farron Wallace and Benjamin Mitchell, discuss the importance

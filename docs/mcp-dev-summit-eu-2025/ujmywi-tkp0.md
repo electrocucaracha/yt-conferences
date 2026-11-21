@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] OAuth Everywhere: What I Learned Building MCP Clients, Servers,
   & the Gateway Between Them"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Donnie Adams, a software architect at OTO AI, discusses the team's experience

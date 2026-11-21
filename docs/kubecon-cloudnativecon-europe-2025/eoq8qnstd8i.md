@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "The API Gateway Maturity Matrix: Where Do You Rank? - Joel Hans, ngrok"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a concise summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=EOQ8qNstD8I

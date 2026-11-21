@@ -2,6 +2,7 @@
 title:
   "Context Middleware for MCP: From Enterprise Needs To Protocol Extension -
   Peder Holdgaard Pedersen"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   Peter, an MCP maintainer and developer at Saxo Bank, discusses the evolution

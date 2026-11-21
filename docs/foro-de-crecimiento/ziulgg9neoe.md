@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Descifrando el Código de la Riqueza \U0001F4B0 | Camilo Pinto – Sesión 41"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   "En esta extensa conversación sobre finanzas personales, Camilo Pinto,

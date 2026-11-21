@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Why Don’t We Have Both? Track Build- and Run-time Information for S... Jeff
   Mendoza & Ben Hirschberg
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "Ben, a software engineer at Kusari, discusses two projects: Guac and

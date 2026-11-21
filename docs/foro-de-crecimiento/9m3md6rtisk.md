@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto #1 en sueño: las causas reales del insomnio y cómo solucionarlo |
   Eduard Estivill"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa entrevista, el experto en sueño Edward Stevil, con más

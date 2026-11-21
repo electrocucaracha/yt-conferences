@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Build-a-Bot Workshop... Maia Iyer, Alan Cha, Mariusz Sabath, Anjali
   Telang & Andrew Block"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video presents a comprehensive walkthrough on building secure, trusted

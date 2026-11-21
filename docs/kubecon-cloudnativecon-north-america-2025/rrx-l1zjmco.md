@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "OpenTelemetry: Unpacking 2025, Charti... Alolita Sharma, Morgan McLean, Josh
   Suereth & Austin Parker"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, leaders and contributors from the OpenTelemetry project

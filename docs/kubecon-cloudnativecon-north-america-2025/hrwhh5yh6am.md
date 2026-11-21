@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Package Management for Your Clust... Jordan Keister, Rashmi Gottipati, Joe
   Lanford & Attila Mészáros
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Operator Life Cycle Manager (OLM) is a project under the Cloud Native

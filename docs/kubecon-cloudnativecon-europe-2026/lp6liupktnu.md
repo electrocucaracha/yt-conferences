@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: The $100K GPU Mystery: Why Your AI Training Dies at 99% -
   Michael Ifeanyi, Google"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Mike Elifi, a technical solutions engineer at Google,

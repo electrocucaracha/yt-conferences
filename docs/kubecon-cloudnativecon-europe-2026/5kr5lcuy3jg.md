@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | CNCF Members: Leaving Your Ma... David Palilonis, Jake
   Pineda & Danielle Cook"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation, led by David from CNCF along with colleagues Jake and

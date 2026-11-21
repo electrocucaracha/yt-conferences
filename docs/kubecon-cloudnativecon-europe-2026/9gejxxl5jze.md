@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Dapr in the AI Era: Orchestrating Complex Multi-agent Workflows With Automatic...
   Yaron Schneider"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Yaron Schneider, CTO and co-founder of Dapr Grid, introduces the Dapr

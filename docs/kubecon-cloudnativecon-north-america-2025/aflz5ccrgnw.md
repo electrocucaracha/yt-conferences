@@ -1,5 +1,7 @@
 ---
+layout: default
 title: SIG Autoscaling Projects Update - Jack Francis, Microsoft & Jason Deal, AWS
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Jack Francis from Microsoft and Jason Deal from AWS present an overview

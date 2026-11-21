@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | EnvoyCon: Opening Remarks - Kateryna Nezdolii and Erica
   Hughberg"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speakers celebrate Envoy's 10-year anniversary at Envoy Con in the

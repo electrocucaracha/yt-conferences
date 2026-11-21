@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Kubernetes Data Protection WG Intro & Deep Dive - Dave Smith-Uchida, Veeam
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session, led by Shing Yang and Dave Smith, provided an update on

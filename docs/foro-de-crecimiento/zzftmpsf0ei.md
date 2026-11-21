@@ -1,5 +1,7 @@
 ---
+layout: default
 title: La Arquitectura de la Riqueza Personal | Jonathan Quiroz
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Jonathan Quiroz, empresario e inversionista, comparte

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Straight Into the Deep End! Learning Kubernetes and Cloud Native From... Éamon
   Ryan & Ayah Elshaikh
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Aean Ryan and Ya Alshik from Grafana Labs share their experiences

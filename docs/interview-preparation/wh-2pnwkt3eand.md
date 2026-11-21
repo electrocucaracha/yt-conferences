@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Steal this LinkedIn strategy to get recruiters blowing up your inbox
+parent: "Interview Preparation"
 type: Video Note
 description:
   A strategy for job seekers to attract recruiters and hiring managers

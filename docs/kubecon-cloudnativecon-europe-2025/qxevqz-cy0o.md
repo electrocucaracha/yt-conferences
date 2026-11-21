@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Securing AI Workloads: Building Zero-Trust Architecture for LLM Appl... Rohit
   Ghumare & Joinal Ahmed"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses securing AI workloads, specifically LLM applications,

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Multi-Network Step-by-Step: Enabling SR-IOV Support From Kubernetes... Masaharu
   Kanda & Lionel Jouin"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation discusses the integration of SR-IOV (Single Root I/O

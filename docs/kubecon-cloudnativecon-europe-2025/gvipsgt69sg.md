@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "K8s in Wonderland: Why? Many of Unknown Code in My Workload? - Hoon Jo, Megazone"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses Kubernetes, a container orchestration system, and

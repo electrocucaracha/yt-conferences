@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Give Constructive Feedback Without the Stress | Leadership Training
   for Engineers
+parent: "Leadership Skills"
 type: Video Note
 description:
   The video discusses the challenges many leaders face when giving constructive

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Tools, Not Endpoints: The Layered MCP Pattern for Task‑Centric Agents"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The speaker introduces the concept of the "layered tool pattern" in API

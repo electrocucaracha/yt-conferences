@@ -2,6 +2,7 @@
 title:
   'Enterprise-Ready MCP: Security Patterns and the "4-Legged" Identity Challenge
   - Paulina Xu'
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   In this talk, Paulina, CEO of Aentic Fabric, explains the challenges

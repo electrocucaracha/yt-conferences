@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Rearchitecting Compute at Coinbase: Migrating To Karpenter for Fast, Reliable
   Scali... Frances Chong"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Francis, a staff software engineer at Coinbase, discusses

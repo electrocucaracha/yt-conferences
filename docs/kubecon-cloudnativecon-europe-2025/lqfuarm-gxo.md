@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Navigating the Inevitable: Kubernetes Breaking Changes Behind the Scenes -
   Marko Mudrinić"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=lQFUarM_GXo

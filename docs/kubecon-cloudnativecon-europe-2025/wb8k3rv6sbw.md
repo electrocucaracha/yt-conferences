@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Cloud Native Communities in Action: How Japan Shaped Its Path To KubeCon"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Japanese community has made significant progress in adopting cloud-native

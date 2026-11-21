@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Keynote] Building an AI Voice Agent to Automate a Robot Cafe with Google
   Gemini Live and MCP"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   In this talk, Gerard Sans introduces himself as an international speaker

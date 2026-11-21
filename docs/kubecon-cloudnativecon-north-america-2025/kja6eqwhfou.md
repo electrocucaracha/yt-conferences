@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Manifesting Millions: No Luck Required, Just Tenacity - Emily Long, Edera"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker, a first-time founder with a background in tech and financial

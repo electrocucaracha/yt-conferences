@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Redefining Access Control: Scaling Policy as Code for Humans and AI Agents
   - Raz Cohen, Permit.io"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Rasco Kuan, an entrepreneur from Israel, discusses the importance of

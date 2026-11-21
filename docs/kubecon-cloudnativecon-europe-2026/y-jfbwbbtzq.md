@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Unifying Inner & Outer Loops To Bridge the Gaps Between Devs... Laurent Broudoux
   & Mathieu Benoit
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, the presenters address the common challenge of ensuring

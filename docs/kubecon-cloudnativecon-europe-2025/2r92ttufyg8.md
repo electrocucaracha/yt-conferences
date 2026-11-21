@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Fresh Secrets From the Docks: Lessons Learnt From Analyzing 180,000 Public
   Dock... Guillaume Valadon"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, a French security researcher, discusses the importance of

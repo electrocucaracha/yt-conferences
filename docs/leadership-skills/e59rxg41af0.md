@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How to Apply Up for a Position One Level Higher in Engineering and Tech Nader
   Mowlaee Part 1 of 2
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, the host welcomes engineering career coach Nader Malai

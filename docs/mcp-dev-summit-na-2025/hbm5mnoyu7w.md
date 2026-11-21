@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Generating Use Case Specific MCP Servers with Josh Dzielak at Postman"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Josh Jelik, a staff engineer at Postman, introduces himself and shares

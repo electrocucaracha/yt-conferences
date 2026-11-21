@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Storage and Data: The CNCF Storage TAG Projects, The... Raffaele
   Spazzoli & Alex Chircop"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "The Cloud Native Storage and Storage Tag session discussed the importance

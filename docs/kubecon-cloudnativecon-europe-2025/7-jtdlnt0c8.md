@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Enhancing CRI-O With CDI: Streamlining Device Integration in Kubernetes -
   Harshal Patil, Red Hat"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Harsh Patil discusses enhancing device support in Kubernetes using CDI

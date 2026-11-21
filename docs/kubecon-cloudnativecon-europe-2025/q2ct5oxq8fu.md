@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Challenges of and Solutions for Migrating Spark From Legacy Hadoop Clu... Neha
   Singla & Rasik Pandey
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=Q2ct5OXQ8fU

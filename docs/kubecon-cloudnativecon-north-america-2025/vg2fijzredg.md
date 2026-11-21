@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Managing a Million Infra Resources at Spotify: Designing the Platfo... Oliver
   Soell & Fredrik Sommar"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this KubeCon talk, Spotify engineers Frederick and Oliver discuss

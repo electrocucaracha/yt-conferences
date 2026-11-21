@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How To Break Multi-Tenancy Again and Again ...and What We Can Learn F... Lorin
   Lehawany & Sven Nobis
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, security analysts Lauren Lehavani and Sven Nois from a

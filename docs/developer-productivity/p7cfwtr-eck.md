@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Expert Talk: How to Manage Complexity in Software • Hadi Hariri & Kevlin Henney
   • GOTO 2022"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Kevlin Henney is joined by Hadi Hariri from JetBrains to discuss developer

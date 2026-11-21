@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Orchestrating AI Models in Kubernetes: Deploying Ollama as a Nati... Samuel
   Veloso & Lucas Fernández"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Samuel Beloso from Cast AI and Lucas from Red Hat discuss deploying Olama,

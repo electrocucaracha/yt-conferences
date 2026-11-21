@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Rust Is the Language of AGI - Miley Fu, Second State
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Miley Fu, a CNCF ambassador, presented on behalf of Michael about the

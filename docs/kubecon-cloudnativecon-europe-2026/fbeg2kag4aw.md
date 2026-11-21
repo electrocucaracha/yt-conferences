@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes Security at Shopify Scale: Automating Security Across an Infrastr...
   Jie Wu & Pulkit Garg"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Jay and Pulkit from Shopify’s infrastructure security

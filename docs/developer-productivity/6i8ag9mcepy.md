@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The DiRT on Chaos Engineering at Google • Jason Cahoon • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   As a Site Reliability Engineer at Google, Jason Kahu discusses chaos

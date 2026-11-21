@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Kick-starting "Inventing the Future" • Allen Wirfs-Brock • YOW! 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker, a technical leader with experience in large and small companies,

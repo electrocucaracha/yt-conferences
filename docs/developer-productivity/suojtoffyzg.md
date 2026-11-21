@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Moving Fast At Scale • Randy Shoup • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   Randy Chou discusses the importance of high-performance cultures, autonomous

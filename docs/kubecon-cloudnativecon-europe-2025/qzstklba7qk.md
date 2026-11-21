@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   OTel Sucks (But Also Rocks!) - Juraci Paixão Kröhling, OllyGarden & Daniel
   Dyla, Dynatrace
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video transcript discusses the challenges and limitations of Open

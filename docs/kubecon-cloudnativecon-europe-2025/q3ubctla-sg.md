@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Day 3 - KubeCon + CloudNativeCon 2025 Europe Highlights from London
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   CubeCon 2025 was a wild ride, offering an incredible experience due to

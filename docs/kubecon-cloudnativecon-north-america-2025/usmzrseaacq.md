@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "High-Performance AI Workloads in KubeVirt VMs With NVIDIA GPUs: Ch... Ezra
   Silvera & Michael Hrivnak"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Ezra Syla and Michael Rivven from IBM and Red Hat, respectively, presented

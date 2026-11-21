@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Combining Chaos, Observability & Resilience to get Chaos Engineering • Yury
   Niño • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   Juli Nino, a Site Reliability Engineer at Adl Digital Labs, discusses

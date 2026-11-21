@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How Burnout Got Me Misdiagnosed with ADHD
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this episode, the speaker shares a personal story about being misdiagnosed

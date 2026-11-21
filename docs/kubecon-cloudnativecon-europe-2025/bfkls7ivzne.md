@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Mind Your Pod's Business: Netwo... Surya Seetharaman, Miguel Duarte
   Barroso & Keith Burdis"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses network segmentation in Kubernetes, highlighting

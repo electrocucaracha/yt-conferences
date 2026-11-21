@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: API Management in the CRD World: What Linkerd Has
   Learned - Phil Henderson"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Phil Henderson, discusses API management in the CRD world

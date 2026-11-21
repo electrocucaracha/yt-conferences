@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Schema Inference and Automation: A New Era for Telemetry Mana... Nicolas Takashi
   & Arthur Silva Sens"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Arthur Silva Sense and Nico Takash introduce OpenTelemetry

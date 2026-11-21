@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: A Hitchhiker's Guide to the CNCF Landsc... Katherine
   Druckman & Lori Lorusso"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Cloud Native Computing Foundation (CNCF) is an umbrella organization

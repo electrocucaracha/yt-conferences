@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Bridging the Gap with Gen Z - 9 Keys to Effective Leadership
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, leadership coach Doug Howard addresses the challenges

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How the Bad Leadership Cycle in Engineering is Burning Out Engineers and Stifling
   Innovation
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this episode, Doug Howard, a leadership coach for engineers, discusses

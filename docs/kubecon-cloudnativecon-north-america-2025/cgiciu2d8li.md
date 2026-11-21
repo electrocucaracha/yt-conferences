@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SIG-Node: Intro and Deep Dive - Peter Hunt, Red Hat; Sergey Kanzhelev, Google;
   Mrunal Patel, Red Hat"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session, led by Peter from Red Hat and Sergey from Google, provided

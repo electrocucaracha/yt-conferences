@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How We Progressively Deliver Changes To Kubernetes Using Canary Deployments
   and Feature... Bob Walker
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=zZ7bDPZMCqY

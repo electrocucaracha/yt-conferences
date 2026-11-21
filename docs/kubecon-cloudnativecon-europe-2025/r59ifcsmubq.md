@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Scaling Shopify's Search: Enhancing Elasticsearch Resilience With Kubernetes
   and KE... Leila Vayghan"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=r59IfCSmUBQ

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: 3 Powerful Techniques That Will Improve Your Patience and Focus
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering

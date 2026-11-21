@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Cloud Native University: Platform Engineering - About
   Tools... Max Körbächer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Max, an open source community leader and author on platform engineering,

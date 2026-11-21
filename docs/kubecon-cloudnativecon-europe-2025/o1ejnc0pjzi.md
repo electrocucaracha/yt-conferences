@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Solving Real-World Edge Challenges With K0s, NATS, and Raspberry
   Pi Clu... P. Ramhit"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Prashant, senior DevOps at Morantis, presented a real-world case study

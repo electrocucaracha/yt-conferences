@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Enhancing Database Observability With OpenTelemetry - Marylia Gutierrez, Grafana
   Labs
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Maril Jes, a staff software engineer at Graphfana Labs, discusses how

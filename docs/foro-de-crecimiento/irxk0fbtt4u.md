@@ -1,5 +1,7 @@
 ---
+layout: default
 title: 10 keys to designing your life and creating abundance | Sergio Fernández
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Sergio Fernández, experto en desarrollo personal

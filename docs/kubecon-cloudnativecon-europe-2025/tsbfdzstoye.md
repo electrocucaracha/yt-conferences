@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: The Observability Platform Engineering Advantage: From Zero-Code
   to M... Kasper Borg Nissen"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the shift towards coalition, standardization, and

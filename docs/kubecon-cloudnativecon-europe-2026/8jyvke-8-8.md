@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Scaling Platform Engineering: Lessons From Europe’s Larges... Cat M, Stéphane
   C, Anna K & Gayathri T"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel discussion focused on the challenges and strategies involved

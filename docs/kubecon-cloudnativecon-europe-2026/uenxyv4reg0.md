@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How Will Customized Kubernetes Distributions Work... Michael M, Joel S, Bridget
   K, Jesse B & Bowei D
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel discussed the concept of customized Kubernetes distributions,

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Slinky: Slurm in Kubernetes, Performant AI and HPC Workload Management in
   Kubernetes - Tim Wickberg"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=gvp2uTilwrY

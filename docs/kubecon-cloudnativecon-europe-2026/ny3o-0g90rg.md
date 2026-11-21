@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Multi-cluster Orchestration System: Karmad... Hongcai Ren, Tessa Pham, Michas
   Szacillo & Zongqing Li"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The session introduces Karmada, a project designed to manage and schedule

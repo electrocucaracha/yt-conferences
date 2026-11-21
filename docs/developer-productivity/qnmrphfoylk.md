@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   A Path to Better Programming • Robert "Uncle Bob" Martin & Allen Holub • GOTO
   2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the importance of thinking architecturally, rather

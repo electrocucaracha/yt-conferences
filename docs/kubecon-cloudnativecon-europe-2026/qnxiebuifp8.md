@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Symbiosis of Storage and Workloads: Longhorn for Hyperconverged Bl...
   Jinhong Kim & Jangseon Ryu"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, the speakers from Naver, a leading South Korean

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond the Cloud: Managing Baremetal the Kubernetes Way Using Metal... Ádám
   Rozmán & Nicolas Belouin"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Adam Rosman from Ericsson and Nicolola Bulwa from

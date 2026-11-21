@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: From Cloud-Native to Agent-Native: Context Engineering
   for... I. Levine & K. Babo"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The video transcript discusses the challenges of deploying agentic AI

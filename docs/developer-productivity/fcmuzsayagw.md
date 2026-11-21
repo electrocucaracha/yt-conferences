@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How Microteams Change the Way We Collaborate. Again • Sander Hoogendoorn •
   GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the rapid pace of change in technology, citing

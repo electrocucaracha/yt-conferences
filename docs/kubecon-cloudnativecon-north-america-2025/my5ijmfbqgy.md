@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: k0s: CNCF Sandbox Distro Updates - Jussi Nummelin,
   Technical lead"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Yusi introduces Kzer, a Kubernetes distribution and CNCF sandbox project

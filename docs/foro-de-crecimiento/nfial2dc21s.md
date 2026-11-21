@@ -1,5 +1,7 @@
 ---
+layout: default
 title: El Éxito es una Habilidad que Se Aprende – Oscar Velasco | Sesión 27
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Óscar Velasco, empresario, inversionista y autor,

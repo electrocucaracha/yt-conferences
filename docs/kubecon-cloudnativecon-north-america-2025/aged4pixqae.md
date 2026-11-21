@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Introducing TAG Workloads Foundat... Yuan Tang, Paco Xu, Alex Scammon, Rajas
   Kakodkar & Stephen Rust
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The Tag Workloads Foundation inaugural CubeCon session introduced the

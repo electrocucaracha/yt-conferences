@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Demonstration of Automatic Kubernetes Network Policies Generation - Boaz Michaely
   & Adi Sosnovich
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Boaz from Red Hat and Adi from IBM Research discuss

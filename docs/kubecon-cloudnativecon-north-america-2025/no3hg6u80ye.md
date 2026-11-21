@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Strengthening Supply Chain for Kubernetes: Cross-Cloud SLSA Attestation...
   Feynman Zhou & Dahu Kuang"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Feman from Microsoft Azure and Dahu from Alibaba Cloud introduced the

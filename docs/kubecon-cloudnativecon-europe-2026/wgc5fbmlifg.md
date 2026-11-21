@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: KRafting the Cloud: Building a Free, Open, and Accessible
   Cloud - Alex Bissessur"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Alex discusses the challenges of cloud infrastructure in Mauritius, where

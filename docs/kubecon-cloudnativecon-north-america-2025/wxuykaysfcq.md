@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Fast and the Furious: CICD Pipeline for eBPF Programs at Meta S... Theophilus
   Benson & Prankur Gupta"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presentation discusses the challenges and solutions involved in building

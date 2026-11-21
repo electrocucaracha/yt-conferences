@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Optimizing Multi-Agent LLM Workloads With AMD GPUs and Kueue - Yuchen Fama,
   Jodie Su & Zhiming Shen
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presentation, led by representatives from Cognality, AMD, and AXeller,

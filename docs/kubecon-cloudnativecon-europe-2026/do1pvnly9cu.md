@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SIG Network: The State of Networking for AI on Ku... David M, Haiyan M, Bowei
   D & Kellen S & Nadia P"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The SIG Network update session introduced panelists from Google, Red

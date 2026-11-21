@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Aprende a AUMENTAR tus VENTAS con Marca Personal | Julio iero - Sesión de
   Crecimiento #8"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este episodio del Foro de Crecimiento, Julio Yero comparte su experiencia

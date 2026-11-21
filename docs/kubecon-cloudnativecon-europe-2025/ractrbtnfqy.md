@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: CNCF at 10: Navigating Challenges, Embracing Opportunit... J. Sandoval,
   L. Rice, K. Gamanji"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the growth and evolution of the Cloud Native Computing

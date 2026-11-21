@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Enriching Telemetry Signals Through Lookups in the OTel Collector - João Duarte,
   Elastic
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Jan from Elastic discusses enriching telemetry signals

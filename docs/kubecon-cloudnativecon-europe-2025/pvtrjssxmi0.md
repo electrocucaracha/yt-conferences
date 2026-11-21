@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes Meets Climate Science: Building Large-scale Feature De... Armagan
   Karatosun & Roope Tervo"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Arman, introduces himself as an online cloud data access

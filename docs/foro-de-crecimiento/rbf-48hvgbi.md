@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "REPITE estos MANTRAS todos los días y CAMBIA tu VIDA | Prem Dayal \U0001FAB7
   #14"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Prem Dayal, autor de "Me vale madres", explora la

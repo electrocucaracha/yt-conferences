@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Accidental Platform Team: Kubernetes Operators at Swisscom - Fabian Schulz
   & Jelena Malic"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, the Swisscom team describes their journey from building

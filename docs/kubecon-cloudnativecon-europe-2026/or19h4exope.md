@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SIG API Machinery: SIG Updates and Deep Dive in the AI/ML Era - Stefan Schimanski,
   NVIDIA"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker provides an update on the SIG API Machinery, focusing on

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The Future of Kubernetes Node Lifecycle - Lucy Sweet, Uber & Dawn Chen, Google
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speakers discuss the evolution and future of Kubernetes node lifecycle

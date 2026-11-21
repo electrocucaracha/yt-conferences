@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Unveiling Automation: How Mercantil Transformed Data Streaming With Strimzi,
   Argo... Marcelo Costa"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Marcelo Costa, Head of Data at Mechanu Bank in Brazil, discusses how

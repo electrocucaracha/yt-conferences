@@ -2,6 +2,7 @@
 title:
   "Mix-Up Attacks in MCP: Multi-Issuer Confusion and Mitigations - Emily Lauber,
   Microsoft"
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   Emily Lober, a senior product manager at Microsoft, discusses the challenges

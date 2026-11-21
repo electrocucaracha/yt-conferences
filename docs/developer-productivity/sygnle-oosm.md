@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The Zen of Programming • Sander Hoogendoorn • GOTO 2022
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker shares a personal journey of over 44 years in programming,

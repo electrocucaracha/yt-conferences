@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How Green Is My OpenTelemetry Collector? - Nancy Chauhan, Student & Adriana
   Villela, Dynatrace
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=ea2CKLX5vEs

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Keynote: Mind the Gap: Bridging Cloud Native Innovation with Real-World Use"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   HSBC's Kubernetes journey began in 2018, with hundreds of clusters supporting

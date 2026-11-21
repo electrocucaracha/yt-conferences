@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Breaking the Monolith: Decomposing and Governing Giant LLM Jobs Across Clusters
   - Kevin Wang, Huawei"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Kevin Juan discusses his experience as a maintainer and member of the

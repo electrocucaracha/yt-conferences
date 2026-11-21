@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] Pragmatic Scaling of Enterprise GenAI with MCP with Sambhav Kothari
   at Bloomberg"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Sambukqari, head of AI productivity at Bloomberg, discusses the company's

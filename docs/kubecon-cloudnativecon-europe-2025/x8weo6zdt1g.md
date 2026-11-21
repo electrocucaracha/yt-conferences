@@ -1,6 +1,8 @@
 ---
+layout: default
 title: "Securing the Gateway: A Deep Dive Into Envoy Gateway's Advanced Security
   Pol... Huabing (Robin) Zhao"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, No, discusses advanced security policies for gateways, specifically

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Karmada Updates and Use Cases - Hongcai Ren, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Hungai from Huawei is a maintainer of the Kamada project, an open-source

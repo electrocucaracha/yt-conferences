@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: FluxCD - Gitops For All Sizes - Matheus Pimenta, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Matos Pimementa, a Flux maintainer at Control Plane, introduces Flux

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   In AI We Trust? Securing the Future, One Agent... Lin S, Yuval K, Hannah F,
   Andrew M & Ricardo A
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The panel at CubeCon, moderated by Lensa from solo.io, focused on the

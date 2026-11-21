@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Stanford CS221 | Autumn 2025 | Lecture 10: Games I"
+parent: "Stanford Cs221 Artificial Intelligence Principles"
 type: Video Note
 description:
   In this lecture, the focus is on games as state-based models, building

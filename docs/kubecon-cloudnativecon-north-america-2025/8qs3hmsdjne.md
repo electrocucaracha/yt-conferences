@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Making Application Rollouts Observable, Actionable and Boring - Vasudev Bongale,
   LinkedIn
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Vasuv, a software engineer at LinkedIn, discusses how his team improved

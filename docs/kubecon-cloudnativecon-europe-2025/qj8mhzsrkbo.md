@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Scheduling Success: Precision Updates for Continuous Manufacturing
   Op... J.C. Orozco"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Juan Rosco, a DevOps manager at Bosch Connected Industry, discussed the

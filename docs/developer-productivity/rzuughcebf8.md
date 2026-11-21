@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Embedded Application Development (for Web Developers) • Devon Estes • GOTO
   2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   As a freelancer, Devon has worked on various web development projects,

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Data Gravity and Kubernetes: Managing Large-Scale Data Ingest... Abhishek
   Bhattacharjee & Arya Soni"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses data gravity, a concept where accumulated data

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Not Yet Another Envoy Implementation - Exploring Kgateway To Write Your Own
   GatewayA... Ricardo Katz
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Ricardo, a software engineer at Red Hat and Kubernetes

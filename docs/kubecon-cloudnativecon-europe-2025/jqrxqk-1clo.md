@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How To Adopt OpenTelemetry in an Enterprise Where Incumbent Vendor Tools Reign
   Supre... Chris Weldon
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The company Walter Clure, a large software provider, adopted Open Telemetry

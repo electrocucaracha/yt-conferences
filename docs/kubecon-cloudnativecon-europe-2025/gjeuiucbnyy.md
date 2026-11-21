@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Many Cooks, One Platform: Balancing Ownership and Contribution for the Perfect
   Broth - Lian Li"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Lean, shares his experiences as a platform engineer with

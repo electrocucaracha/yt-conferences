@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Multi-cluster Orchestration System: Karmada Updates and Use Cas... Hongcai
   Ren & Joe Nathan Abellard"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Joe, a maintainer of the Commander project, presented an overview of

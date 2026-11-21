@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "OpenTelemetry Logs Driving a Major Shift: Events, Richer Data, and Smarter
   Semantics - Robert Pająk"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker, Robert Pajonk, introduces updates to logging in OpenTelemetry,

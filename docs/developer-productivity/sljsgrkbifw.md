@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Learning Test-Driven Development (TDD) • Saleem Siddiqui & Dave Farley • GOTO
   2022
+parent: "Developer Productivity"
 type: Video Note
 description:
   Dave Farley, a software developer and author, discusses his book "Modern

@@ -1,6 +1,8 @@
 ---
+layout: default
 title: "In Falco's Nest: The Evolution of Cloud Native Runtime Security - Iacopo
   Rozzo & Aldo Lacuku"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Jako Parazzo and Aldo Lutaku present recent developments and future plans

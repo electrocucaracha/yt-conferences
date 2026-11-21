@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Scaling Platform Ops with AI Agents: Troubleshooting...
   Jorge Palma & Natan Yellin"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The video discusses the growing integration of AI into daily workflows,

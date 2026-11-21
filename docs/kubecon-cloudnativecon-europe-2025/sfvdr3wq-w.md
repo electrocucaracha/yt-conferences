@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   SIG-Multicluster Intro and Deep... Jeremy Olmsted-Thompson, Laura Lorenz, Stephen
   Kitt & Ryan Zhang
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The SIG Multicluster project aims to provide a standardized way for managing

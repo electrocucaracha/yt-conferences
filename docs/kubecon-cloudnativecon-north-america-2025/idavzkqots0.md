@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Deploying Lightweight AI Agents at the Healthcare Edge With K8s + Ollama -
   Gary Arora & Samarth Shah
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Gary Aurora and Samarth Sha, architects specializing in cloud and AI

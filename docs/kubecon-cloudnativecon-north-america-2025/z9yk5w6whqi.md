@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Help! My LLM Is a Resource Hog: How We Tamed Inference With Kubernetes...
   Aditya Soni & Hrittik Roy"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker, Sunni, discusses the challenges of inference in Large Language

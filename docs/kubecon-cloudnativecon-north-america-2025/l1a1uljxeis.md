@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   MUST/SHOULD/MAY - A Tour of TAG Security and Compliance Project... Evan Anderson
   & Brandt Keller
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Evan Anderson and Brian Keller, leaders within CNCF’s TAG Security, discuss

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: DNS Tracing & Metrics Via eBPF in OpenTelemetry - Endre Sara & Nikola Grcevski
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Nikola Grachevski and Andras Szabo present on DNS observability using

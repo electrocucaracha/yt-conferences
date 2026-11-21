@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Still Burning GPUs On Debugging? Scale AI In One Line
   - Anna Kramar"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Ana Kmer, a certified engineer at Red Hat and maintainer of the KFL SDK,

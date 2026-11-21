@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Merge Forward: Branching Inclusion, Merging Belo... Jay J, Jay T, Bhavani
   I, Catherine P & Michiel P"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel discussion introduces Merge Forward, a CNCF initiative aimed

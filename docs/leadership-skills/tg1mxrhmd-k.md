@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Effective Delegation Strategies for Engineering Managers - 5 Step Framework
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard addresses the common struggle engineering

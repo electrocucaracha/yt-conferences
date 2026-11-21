@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The Development Metrics You Should Use (but Don’t) • Cat Swetel • GOTO 2020
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker, Kat, discusses the importance of understanding why metrics

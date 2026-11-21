@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from
   LlamaIndex"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Lori, VP of Developer Relations at Llama Index, introduces a rapid overview

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Signs, Signs, Everywhere a Sign • Andy Fleener • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker discusses the concept of "weak signals" in the context of

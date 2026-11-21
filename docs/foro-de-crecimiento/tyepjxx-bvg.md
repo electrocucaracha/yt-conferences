@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en comunicación: el error que te impide conectar con los demás – Santos
   Lever sesión #26"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Santos Lever, experto en comunicación, destaca la

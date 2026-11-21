@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   But What About Reliability? - The Multi-Million Dollar Kubernetes Cost Op...
   Zain Malik & Nibir Bora
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Zan Malik and Nibir discuss the challenges organizations

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Storytelling Profesional: Así se Escriben Historias Memorables | Luis Eduardo
   Reyes – Sesión 21"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa entrevista, Luis Eduardo Reyes, reconocido productor,

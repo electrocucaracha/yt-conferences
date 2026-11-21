@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   10 Ways to Accelerate Your Personal Growth | Escape Your Comfort Zone - Part
   2 of 2
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a licensed structural engineer and engineering

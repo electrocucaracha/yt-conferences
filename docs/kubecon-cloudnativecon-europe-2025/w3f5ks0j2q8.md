@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Scalable DNS With CoreDNS Plugins: A Deep Dive - Yong Tang, Ivanti & John
   Belamaric, Google"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Cord DNS project is a general-purpose DNS server that offers flexibility

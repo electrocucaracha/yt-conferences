@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SIG Contributor Experience: Guiding C... Nabarun Pal, Priyanka Saggu, Arpit
   Agrawal & Mario Fahlandt"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The session featured the SIG Contributor Experience (SIG ContribEx) team,

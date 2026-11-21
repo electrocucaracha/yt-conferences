@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Why Is My Query Slow? Real AI Use Cases With Vitess + Kubernetes. Brett Warminski
   & Gourav Khanijoe
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Brett Winsky and Gurov from HubSpot discuss how their data

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "How Telemetry Data Moves: Lessons From Building a High-Performance Open Source
   Agent - Eduardo Silva"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Eduardo discusses the fundamental concepts of how data

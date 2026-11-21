@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: How To Add A New Language Feature To OPA - Charlie
   Egan, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Charlie from the OPER project introduces their general-purpose policy

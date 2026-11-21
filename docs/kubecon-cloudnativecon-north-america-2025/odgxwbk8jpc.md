@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Supply Chain Reaction: A Cautionary Tale in K8s Security - S. Potter
   & A.G. Veytia"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   A security expert, Stacey Butter, explains how a malicious payload was

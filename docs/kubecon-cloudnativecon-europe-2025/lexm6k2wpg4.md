@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   OpenFeature Update From the Maintainers - Thomas Poignant, Lukas Reining &
   Alexandra Oberaigner
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Open Feature project is an open specification for a vendor-agnostic

@@ -1,6 +1,8 @@
 ---
+layout: default
 title: "Project Lightning Talk: Strimzi – What's New and What's Next - Gantigmaa
   Selenge, Contributor"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Tina Silen, a software engineer at Red Hat and contributor of StreamZy,

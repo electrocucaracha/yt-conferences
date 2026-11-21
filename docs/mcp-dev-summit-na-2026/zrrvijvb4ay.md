@@ -1,5 +1,6 @@
 ---
 title: Towards Building Safe & Secure Agentic AI - Dawn Song & Matt White
+parent: "MCP Dev Summit NA 2026"
 type: Video Note
 description:
   Matt White, Global CTO of AI at the Linux Foundation, presents on building

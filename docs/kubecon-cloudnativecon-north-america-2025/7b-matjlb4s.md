@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "No More GPU Cold Starts: Making Serverless ML Inference Truly Real-Time -
   Nikunj Goyal & Aditi Gupta"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Nikun Goyel and Adidi Gupta discuss the challenges of serverless GPU

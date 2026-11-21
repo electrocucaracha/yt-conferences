@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Jaeger V2: The Maintainers' Guide To OpenTelemetry-Native Tracing - Pavol
   Loffay, Red Hat"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Pavle, a maintainer of the Jaeger project, introduces

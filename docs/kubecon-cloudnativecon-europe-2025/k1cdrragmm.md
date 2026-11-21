@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Sponsored Keynote: Hand Meet Glove: Why Kubernetes Will Become the Platform
   o... I. Levine & K. Babo"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The cloud-native networking stack is now complete and optimized, thanks

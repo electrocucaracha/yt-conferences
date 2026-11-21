@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Learn Kubernetes Best Practices With OpenCost - Matt
   Bolt , Maintainer"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Matt Bolt, a co-creator and maintainer of OpenCost, introduces the CNCF

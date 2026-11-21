@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SIG Scheduling Update: Transition From Pod To Workload Scheduling - Kensei
   Nakada & Maciej Skoczeń"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, the maintainers of SIG Scheduling discussed recent updates

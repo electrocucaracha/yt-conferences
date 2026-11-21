@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From High Performance Computing To AI Workloads on Kubernetes: M... Andrey
   Velichkevich, & Yuki Iwai"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video transcript discusses the challenges of data scientists working

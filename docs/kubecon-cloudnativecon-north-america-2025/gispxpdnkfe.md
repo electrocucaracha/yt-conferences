@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   To InGate and Beyond Ingress-nginx! - James Strong, Isovalent @ Cisco & Marco
   Ebert, Giant Swarm
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The talk provides an update on the Ingress EngineX project, highlighting

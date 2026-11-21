@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | EnvoyCon: The Next Generation of Envoy Extensibility:
   Dynami... Rohit Agrawal"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Rohit Agarval, a software engineer at Databricks and Envoy maintainer,

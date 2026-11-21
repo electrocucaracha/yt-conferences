@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Extending Kubernetes Resource Model (KRM) Beyond Kubernetes Work... Mangirdas
   Judeikis & Nabarun Pal
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, MJ, introduces himself as a maintainer at KCP (Kubernetes

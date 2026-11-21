@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Container Runtime Customization at Netflix: A Case Study With NRI and OCI
   Hooks - Erikson Tung"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Erikson from Netflix's compute runtime team discusses the

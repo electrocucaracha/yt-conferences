@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Mastering Leadership Adaptability - The Key to Climbing the Career Ladder
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, the host discusses the growing need for adaptability among

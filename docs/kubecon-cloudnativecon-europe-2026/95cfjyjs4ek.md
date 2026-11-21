@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Virtual Power Plants (VPP): How They Work and What They Are - LeRenzo Malcom
   & Mario Flores, Enpal"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this KubeCon presentation, Lorenzo and Mario from Enpal explain the

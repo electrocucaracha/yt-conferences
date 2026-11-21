@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Helm 4 You - Matt Farina, SUSE & Andrew Block, Red Hat
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Helm 4 is the latest version of the popular Kubernetes package manager,

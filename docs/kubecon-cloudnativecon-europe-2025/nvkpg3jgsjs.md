@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   'Breaking Barriers: Bringing Application Developers Cl... Thomas Vitale & Mauricio
   "Salaboy" Salatino'
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses developer experience in the context of Kubernetes,

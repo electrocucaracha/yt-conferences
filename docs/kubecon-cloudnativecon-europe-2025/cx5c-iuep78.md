@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Spiderpool Updates For AI Workloads: DRA, NRI, and
   RDMA Obser... Weizhou Lan"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Wizo L from Dolot discusses the latest updates on the SPAR project, an

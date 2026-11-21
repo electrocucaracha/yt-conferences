@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Mastering Presentation Skills for Engineers and Tech Professionals Tips from
   Communication Expert
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this interview, presentation coach Christopher Chin discusses the

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Lessons Applied Building a Next-generation AI Proxy - John Howard, Solo.io
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   John Howard from Solo.io discusses the evolution of network proxies,

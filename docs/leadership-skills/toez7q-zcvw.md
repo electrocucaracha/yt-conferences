@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   7 Reasons Engineering Managers and Tech Leaders Get Stuck in Their Career Without
   Advancing
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard, a former director of engineering, discusses

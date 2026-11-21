@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From the Observability TAG: Designing a Common Query... lolita Sharma, Pereira
   Braga & Chris Larsen"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Observability Tag, in collaboration with Google, aims to standardize

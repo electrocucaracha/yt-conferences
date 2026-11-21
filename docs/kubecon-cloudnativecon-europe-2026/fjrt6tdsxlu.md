@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   SIG-Multicluster Intro and Deep Dive - Stephen Kitt, Jeremy Olmsted-Thompson
   & Laura Lorenz
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The SIG Multicluster session, led by Jeremy Olstead Thompson and Stephen

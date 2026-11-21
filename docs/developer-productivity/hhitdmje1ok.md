@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Visualizing Cloud Systems • Lynn Langit • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   As an independent cloud architect and developer, Lin Lang shared her

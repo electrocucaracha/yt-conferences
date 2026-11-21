@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Good, the Bad, and the Ugly: Hacking 3 Cloud Native AI Service... Hillai
   Ben-Sasson & Nir Ohfeld"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, researchers from Whiz detailed their discovery of a critical

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Steering the Ship: Ask the Kubernetes Steering Committee... Kat Cosgrove, Maciej
   Szulik & Antonio Ojea"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The Kubernetes Steering Committee held an AMA at KubeCon, marking the

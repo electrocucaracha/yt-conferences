@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Container2Wasm: Running Containers On Wasm Environments
   - Kohei Tokunaga"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Koh Tokunaga from NT Inc. presented recent updates on the Container to

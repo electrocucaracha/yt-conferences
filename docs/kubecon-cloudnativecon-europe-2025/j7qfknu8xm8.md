@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Empowering Federated Learning with Multi-Cluster Management
   for... Meng Yan"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "As a software engineer at Red Hat, Yam shares a user case involving

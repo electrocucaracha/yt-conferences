@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Cutting Through the Fog: Clarifying CRA Compliance in C... Eddie
   Knight & Michael Lieberman"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The European Union's Cyber Resilience Act (CRA) aims to protect consumers

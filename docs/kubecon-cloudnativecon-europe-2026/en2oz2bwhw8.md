@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "CRI-O: Faster Pulls, Better Metrics, and a Future Beyond Images - Sohan Kunkerkar
   & Ayato Tokubi"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this CubeCon session, San Kerkar and Ayatu Tokobi from Red Hat provide

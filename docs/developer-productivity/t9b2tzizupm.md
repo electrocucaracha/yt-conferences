@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The Hidden Costs of Poor Database Access • Denis Rosa • GOTO 2019
+parent: "Developer Productivity"
 type: Video Note
 description:
   Denis, a developer advocate at Couchbase, discusses the hidden costs

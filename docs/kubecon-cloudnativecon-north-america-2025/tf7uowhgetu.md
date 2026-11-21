@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   etcd V3.6 and Beyond... Siyuan Zhang, Justin Santa Barbara, Wei Fu, Arka Saha
   & Ivan Valdes Castillo
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The City CIG City team has announced several updates, including the passing

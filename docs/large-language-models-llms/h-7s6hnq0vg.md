@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 7 - Agentic LLMs
+parent: "Large Language Models Llms"
 type: Video Note
 description:
   In this lecture, the instructors first recap previous discussions on

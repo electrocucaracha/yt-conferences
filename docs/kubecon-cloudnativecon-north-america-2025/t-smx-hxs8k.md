@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Harmonizing Your Platform Domain With Kubernetes and Custom Resource Definitions
   - Sebastien Blanc
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Sebie, a developer advocate at Port, discusses the role

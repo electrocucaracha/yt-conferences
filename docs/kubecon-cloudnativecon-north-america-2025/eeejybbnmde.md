@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Dragonfly v2.3.0 - Intro, Updates, Model Distribution With Cloud Native Infra
   - Wenbo Qi & Tao Peng
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=EeEjybbNMdE

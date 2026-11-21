@@ -1,5 +1,7 @@
 ---
+layout: default
 title: etcd 3.6 Updates and 3.7 Roadmap - Arka Saha, Broadcom & Josh Berkus, Red Hat
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this SCD maintainer session, Josh Burkus and Shaha provided updates

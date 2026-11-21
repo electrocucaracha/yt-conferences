@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "No Shame, Just Pain: How We Migrated Away From Kubernetes. Jannis Relakis
   & Michael Seiwald-McCarty"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Janisle and Michael from Salonus detailed their company’s

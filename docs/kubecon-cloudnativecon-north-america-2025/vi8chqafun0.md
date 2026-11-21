@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Slurm Bridge: Slurm Scheduling Superpowers in Kubernetes - Alan Mutschelknaus
   & Tim Wickberg"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Tim Wber and Alan Moouse introduce the Slurm Bridge,

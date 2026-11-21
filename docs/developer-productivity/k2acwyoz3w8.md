@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Help Your Boss Help You • Ken Kousen & Trisha Gee • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   Ken Kousen, a Java champion and author of "Help Your Boss Help You,"

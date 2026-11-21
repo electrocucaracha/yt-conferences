@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Here’s Why You’re Struggling to Advance in Your Engineering Career | You’re
   Missing These Skills!
+parent: "Leadership Skills"
 type: Video Note
 description:
   Doug Howard, a licensed engineer and manager with 15 years of experience,

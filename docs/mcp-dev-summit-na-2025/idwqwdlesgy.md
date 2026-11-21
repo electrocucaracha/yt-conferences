@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] From Experiment to Enterprise: How Block Operationalized MCP at
   Scale - Angie Jones, Block"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Angie Jones, head of developer relations at Block, describes how the

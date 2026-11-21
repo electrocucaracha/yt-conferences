@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Autonomous Al Agents for Cloud Cost Analysis - Ilya Lyamkin, Spotify
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Ilia from Spotify discusses the challenges of cloud cost management and

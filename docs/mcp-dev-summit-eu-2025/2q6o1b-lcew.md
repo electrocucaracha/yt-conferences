@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Asynchronous Tool Calling with Nick Aldridge - Amazon Web Services"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The speaker discusses challenges with the current synchronous tool-calling

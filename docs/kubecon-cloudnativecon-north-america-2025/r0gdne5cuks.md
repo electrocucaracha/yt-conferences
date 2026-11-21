@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Multi-Cluster Wars: The Scheduler Awakens - Dejan Pejchev & Priyanka Ravi,
   G-Research"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Dan Pachev and Priyanka Ravi discuss the importance of

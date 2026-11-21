@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Transforming Developer Experience: A Tale of Recovery & Innovation • Michaela
   Greiler • GOTO 2024"
+parent: "Developer Productivity"
 type: Video Note
 description:
   A software engineer, Rose, was working on a task when her colleague interrupted

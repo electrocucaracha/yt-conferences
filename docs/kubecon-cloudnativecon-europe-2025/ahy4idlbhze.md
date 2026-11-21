@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Building a Platform Framework: Lessons Learned From Developing a Multi-Cl...
   Cat Morris & Jake Klein"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speakers from Cintaso share their experience building a platform

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: The Forest & The Desert Are Parallel Universes • Kent Beck • GOTO 2025
+parent: "Developer Productivity"
 type: Video Note
 description:
   'The speaker discusses the difference between two approaches to software

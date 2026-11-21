@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Scaling To the Stars: Simulating Massive Clusters With KWOK
   - Soumya Balakrishnan"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses the use of Quark, a tool for simulating large-scale

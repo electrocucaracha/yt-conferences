@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Expanding Crossplane’s Reach - Providers, Bridges,
   and Extend... Ariel Septon"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Ariel discusses the limitations of using infrastructure as code tools

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   'Taming Complexity: Building Observable Workflows... Mauricio "Salaboy" Salatino
   & Kasper Borg Nissen'
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, the presenters discuss the growing complexity of modern

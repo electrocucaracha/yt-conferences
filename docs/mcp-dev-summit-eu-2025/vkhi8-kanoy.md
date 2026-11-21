@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Why Clients Matter: The Other Side of MCP"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   Angie Jones, leading AI tools and enablement at Block, discusses the

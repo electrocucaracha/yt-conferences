@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Open Source in Apple’s Private Cloud Compute - Katie Gamanji, Senior
   Field Engineer, Apple"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Katie Ganji, Senior Engineer at Apple, introduces Apple Intelligence,

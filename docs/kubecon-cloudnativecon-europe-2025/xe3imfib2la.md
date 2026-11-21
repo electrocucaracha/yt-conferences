@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Lightning Talk: Observability Diet: Your 5-Step Plan To Trim the Data Fat
   - Pranay Prateek, SigNoz"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Pray, discusses strategies for getting the best return on

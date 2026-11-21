@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How I Have Time For Everything (From A Principal At Amazon)
+parent: "Interview Preparation"
 type: Video Note
 description:
   Managing time effectively. He advocates for focusing on one's highest

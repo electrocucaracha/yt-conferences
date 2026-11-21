@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Fluent Bit v4: A Decade of Innovation and What’s Next - Leonardo Alminana,
   Chronosphere"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses Fluent Bit, a system designed to make sense of

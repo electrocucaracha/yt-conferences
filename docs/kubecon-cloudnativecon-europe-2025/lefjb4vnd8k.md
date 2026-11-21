@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Optimizing Metrics Collection & Serving When Autoscaling LLM Workloads - Vincent
   Hou & Jiří Kremser
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Vincent Ho, discusses the challenges of autoscaling large

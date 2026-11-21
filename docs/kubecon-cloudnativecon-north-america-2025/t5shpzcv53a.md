@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tuning GenAI Workloads on Kubernetes: What Actually Works (and Wha... Ishaan
   Sehgal & Brian Lockwood"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this presentation, Ean and Brian discuss optimizing generative AI

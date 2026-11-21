@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Projects to Products: The Sociotechnical Journey Behind Sony... Eugenia
   Bergman & Hagen Tonnies"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, the speakers from Sony PlayStation describe their journey

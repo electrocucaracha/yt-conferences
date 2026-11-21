@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] MCP-UI: Next-gen Agentic Experiences"
+parent: "Mcp Dev Summit Eu 2025"
 type: Video Note
 description:
   The speaker introduces MCPUI, an open protocol designed to address the

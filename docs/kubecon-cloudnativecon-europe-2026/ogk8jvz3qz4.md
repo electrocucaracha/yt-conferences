@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Alert Fatigue To Self-Healing: Building AI-Enabled Control Planes...
   Nuno Guedes & Yury Tsarev"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this session, Nunu from Millennium BCP and Yuri from Abound discuss

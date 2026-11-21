@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Data on Kubernetes Day: Opening Remarks - Edith Puclla,
   Percona"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Edith Pukja, technology evangelist at Perona, welcomes attendees to Data

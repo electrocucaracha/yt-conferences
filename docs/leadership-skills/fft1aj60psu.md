@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Why Engineers Struggle with Confidence and Speaking Up At Work Improving Your
   Confidence
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, John Chow, a perspective coach with an HR background in

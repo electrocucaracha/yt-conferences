@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Enhancing Productivity with Tools, Aesthetics & AI • Cassidy Williams & Ben
   Hong • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   Cassidy Williams, a productivity expert, discusses her favorite tools

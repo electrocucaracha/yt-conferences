@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: What's New in k8gb: CNCF's Multicluster Global Balancer
   - Bradley Andersen"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Bradley Anderson, a community manager at KGB, introduces the project

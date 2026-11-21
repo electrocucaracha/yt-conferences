@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Software Is Details • Kevlin Henney • GOTO 2020
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker emphasizes the importance of paying attention to details

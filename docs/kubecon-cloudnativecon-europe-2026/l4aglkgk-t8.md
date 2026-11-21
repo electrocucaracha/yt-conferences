@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: youki: What’s New and What’s Next? - Yusuke Sakurai,
   Reviewer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Yusuke Sakai, a maintainer of Yoki, provides an update on the project's

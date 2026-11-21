@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Zero Downtime Migration of Monolith To K8s Using Sidecar and Contai... Deepak
   Kosaraju & James Dabbs
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   James and Deepak from Procore shared their experience migrating a large,

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Day 1 Highlight: KubeCon + CloudNativeCon Atlanta 2025"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The CubeCon CloudNative Con kicked off in sunny Atlanta, welcoming approximately

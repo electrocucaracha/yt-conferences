@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Right-sized Access Control & Pull with Proof - Stanislav Láznička & Lucas Käldström
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Stlaznichka and Lucas Chastra discuss recent enhancements

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How Data & Software Eng. Teams Collaborate to Ensure Smooth Data Integrations
   • Sam Bail • GOTO 2023
+parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=x-FPdvCCbL8

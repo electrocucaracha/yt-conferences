@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Detect and Respond to Threats in Your Cloud Infrastructure
   Wi... Luca Guerra"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Luca, a maintainer of Falco, introduces the project as a graduated CNCF

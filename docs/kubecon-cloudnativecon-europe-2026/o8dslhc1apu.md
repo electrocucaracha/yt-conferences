@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: What's New And Exciting In Kagent? - Peter Jausovec,
   Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Peter, a maintainer from Solo, introduces K agent, an open-source framework

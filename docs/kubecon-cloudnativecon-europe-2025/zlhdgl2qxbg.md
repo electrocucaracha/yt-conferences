@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Where’s All My Memory Gone? Mapping K8s Memory Metrics To Physical Resources
   - Mahé Tardy
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker discusses mapping Kubernetes memory usage to physical resources.

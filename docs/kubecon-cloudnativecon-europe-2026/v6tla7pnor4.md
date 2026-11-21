@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: From Idle to Ideal: Cross‑Cluster GPU Sharing with
   CoHDI - Takao Indoh"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Taka Indoor from Fujitsu presents a solution for maximizing GPU utilization

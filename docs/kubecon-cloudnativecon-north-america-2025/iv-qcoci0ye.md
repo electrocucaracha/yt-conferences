@@ -1,5 +1,7 @@
 ---
+layout: default
 title: What’s New in Containerd 2.2 - Derek McGowan, Docker & Phil Estes, AWS
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Phil Estus and Derek McGawan present updates on the containerd project,

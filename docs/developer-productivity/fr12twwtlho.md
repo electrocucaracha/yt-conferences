@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "130 People – No Bosses: Too Good To Be True? in 4 Minutes • Helle Markmann
   • GOTO 2023"
+parent: "Developer Productivity"
 type: Video Note
 description:
   Hill Marman, a computer scientist and project manager at Vertica, explains

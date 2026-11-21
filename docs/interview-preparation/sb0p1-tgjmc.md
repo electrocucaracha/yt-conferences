@@ -1,5 +1,7 @@
 ---
+layout: default
 title: I Did 850 Tech Interviews For Amazon And I Learned This
+parent: "Interview Preparation"
 type: Video Note
 description:
   He emphasizes the importance of mental preparation for technical interviews,

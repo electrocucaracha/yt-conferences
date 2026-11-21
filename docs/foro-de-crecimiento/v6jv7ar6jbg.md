@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Therapist Reveals the Secret to Starting a Business as a Couple (Without Destroying
   the Relations...
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa entrevista, Chava Gutiérrez, experto en terapia de pareja,

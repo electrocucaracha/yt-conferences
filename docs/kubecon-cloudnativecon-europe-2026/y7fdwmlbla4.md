@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Future of Kubernetes Scalability: Challenges of the GigaWatt... Maciek
   Różacki & Artur Rodrigues"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Arthur Rodriguez from Anthropic and Mati Kjatski from Google

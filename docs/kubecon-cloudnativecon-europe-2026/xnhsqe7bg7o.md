@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SIG Docs and You: The New Chapter of the Kubernetes API Ref... Kat Cosgrove,
   Lavish Pal & Rey Lejano"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The talk introduces improvements to the Kubernetes API reference generator,

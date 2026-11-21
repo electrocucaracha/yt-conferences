@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | EnvoyCon: From ingress-nginx to Envoy Gateway at Zapier:
   The... Kalen Wessel"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Kayn Wessle, a senior site reliability engineer at Zapier, discusses

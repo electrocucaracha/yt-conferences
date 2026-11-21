@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Principios para hablar en público con Paco Benítez | sesión 43
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta extensa conversación, se destaca que no basta con ser talentoso;

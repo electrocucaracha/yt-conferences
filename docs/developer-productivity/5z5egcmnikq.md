@@ -1,5 +1,7 @@
 ---
+layout: default
 title: 5 Ways to Improve Your Code • Dave Farley • GOTO 2021
+parent: "Developer Productivity"
 type: Video Note
 description:
   "Software development is challenging, with many potential pitfalls. One

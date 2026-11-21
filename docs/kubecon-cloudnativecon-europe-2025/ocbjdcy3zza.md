@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Weaving a VEX Feed Through the Kubernetes Project - Adolfo García Veytia, Stacklok
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Adulo Garcia, discusses building a VEX Kubernetes feed to

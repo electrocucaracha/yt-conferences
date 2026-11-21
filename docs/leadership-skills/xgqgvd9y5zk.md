@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How I Moved from Manager to Director Without Even Asking for the Promotion
+parent: "Leadership Skills"
 type: Video Note
 description:
   In this video, Doug Howard shares his personal experience of advancing

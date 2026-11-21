@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "An Open Source AI Compute Stack: Kubernetes + Ray + PyTorch + VLLM - Robert
   Nishihara, Anyscale"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Robert presents an overview of Ray, an open-source project developed

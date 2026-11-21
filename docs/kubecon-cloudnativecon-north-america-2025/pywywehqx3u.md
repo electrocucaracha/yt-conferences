@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: CloudNativePG: Running Postgres The Kubernetes Way
   - Gabriele Bartolini"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Gabriel, a maintainer of CloudNativePG and a PostgreSQL contributor,

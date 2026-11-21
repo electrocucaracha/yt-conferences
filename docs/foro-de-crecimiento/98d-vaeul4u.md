@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en negocios: No es falta de esfuerzo… es el juego que estás jugando
   | Carlos Castellanos"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Carlos Eduardo Castellanos, experto en negocios y

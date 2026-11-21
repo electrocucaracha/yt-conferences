@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "EVAPorating Kubernetes Security Risk: Adopting Validating Admission P... Kaitlyn
   Lee & Jordan Conard"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Jordan Connard and Kaitlin Lee from DataDog discuss their experience

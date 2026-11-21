@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "No Kubectl, No Problem: The Future With Conversational Kubernetes - Will Case,
   Microsoft"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The transcript describes a presentation by Will Casease, a product manager

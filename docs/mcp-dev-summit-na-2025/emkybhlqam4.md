@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "[Session] MCP Project Update with Jerome Swannack, Member of Technical Staff
   at Anthropic"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   Jerome Swanik, a member of the core engineering team at Anthropic, introduces

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Redefining SLIs for LLM Inference: Managing Hybrid Cloud with. Christopher
   Nuland & Hilliary Lipsig"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Christopher Nuland and Hillary Lipig from Red Hat discuss redefining

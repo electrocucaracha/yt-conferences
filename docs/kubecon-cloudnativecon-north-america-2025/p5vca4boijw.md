@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Flip That Stack: Renovating Edge Infrastructure at the Home Depot - Dillon
   TenBrink, The Home Depot"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Dylan Timberink, a distinguished engineer at The Home Depot, shares insights

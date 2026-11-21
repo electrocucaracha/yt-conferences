@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Code Complete • Steve McConnell & Jeffrey van Gogh • GOTO 2023
+parent: "Developer Productivity"
 type: Video Note
 description:
   Steve McConnell, author of "Code Complete," discusses his thoughts on

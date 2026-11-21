@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "10 Years of Cilium: Connecting, Securing, and Simplifying the... Bill M, Paul
   A, Marcelo M & Neha A"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The session marked the 10th anniversary of Cilium, a CNI project that

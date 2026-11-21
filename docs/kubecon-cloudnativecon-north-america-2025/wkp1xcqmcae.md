@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Introducing Helm 4 - Matt Farina & Robert Sirchia, SUSE
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The presenters introduced Helm 4, assuring the audience that existing

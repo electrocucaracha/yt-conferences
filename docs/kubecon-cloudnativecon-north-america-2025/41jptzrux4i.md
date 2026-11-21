@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Autoscaling Spring Boot Apps in Kubernetes With KEDA - John Coyne, Capital
   One
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=41jPTzrUX4I

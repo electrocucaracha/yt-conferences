@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: The Super Fast TAG Runtime Wasm Review - Taylor Thomas,
   Wasm WG Chair"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Taylor Thomas, is a CNCF WASM working group co-chair who

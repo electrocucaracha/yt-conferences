@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The GPUs on the Bus Go ‘Round and ‘Round - Natalie Bandel & Ryan Hallisey,
   NVIDIA
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker from NVIDIA discusses their experience with device failures

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: El Poder del Enfoque para Crear la Vida que Sueñas | Danny López - Sesión 22
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta conversación, Dani López, empresario y conferencista, profundiza

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Capsule: Launching Multi-Tenancy to New Kubernetes
   Hor... Dario Tranchitella"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Dario, creator of Project Capsule, explains how it solves the multitenance

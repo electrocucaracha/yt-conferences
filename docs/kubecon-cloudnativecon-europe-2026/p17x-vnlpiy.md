@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes SIG Storage: Intro & Deep Dive - Xing Yang, VMware by Broadcom
   & Jan Šafránek, Red Hat"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The Kubernetes SIG Storage session, led by Shinang and Yan, provided

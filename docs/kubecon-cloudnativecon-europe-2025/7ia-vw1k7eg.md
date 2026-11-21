@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Kubernetes CRD Design for the Long Haul: Tips, Tricks, and... Christian Schlotter
   & Fabrizio Pandini"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The talk discusses designing APIs for Kubernetes that can evolve over

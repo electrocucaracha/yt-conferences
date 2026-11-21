@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Opening/Intro - Robert Sirchia"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   "Robert welcomes attendees to the CNCF Project Lightning Talks at KubeCon

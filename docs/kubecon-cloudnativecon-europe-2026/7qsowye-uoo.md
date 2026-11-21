@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Generalizing Kubernetes Controller Sharding: Patterns That Wo... Motohiro
   Otsuka & Tomoyuki Nakamura"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Tommoakamra and Moto Hiroka discuss their experience

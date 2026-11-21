@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond Image Pull-Time: Ensuring Runtime Integrit... Toddy Mladenov, Flora
   Taagen & Dallas Delaney"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation introduces enhancements to the Notary Project, a CNCF

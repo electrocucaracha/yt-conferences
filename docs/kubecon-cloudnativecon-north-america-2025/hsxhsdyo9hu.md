@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Questions Not Asked: A Critical Retrospective on... Whitney L, Ram I Daniel
   B, Kunal K, Aditya S"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The panel discussion focused on the challenges of small teams and smaller

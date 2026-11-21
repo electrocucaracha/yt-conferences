@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Tidy First? A Daily Exercise in Empirical Design • Kent Beck • GOTO 2024
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speaker, a software developer and author, discusses the importance

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Beyond the Edge: Cloud Native Application Management Under Ex... Tobias Nöthlich
   & Maximilian Nitsch"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Tubius and Maximan, R&D engineers from a Dston-based

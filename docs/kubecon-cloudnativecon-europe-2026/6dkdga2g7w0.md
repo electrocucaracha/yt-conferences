@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Laptop to Cluster: Running AI Workloads Seamlessly from Podman... Ashley
   Cui & Urvashi Mohnani"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this talk, Roishi Manani and Ashley from Red Hat discuss how to seamlessly

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Multi-Arch KubeVirt and CDI - C. A. Fillekes, WG Chair"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Cheryl Filicus, a Red Hat partner engineer at IBM Systems, discusses

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Stateful Superpowers: Explore High Performa... Alex Chircop, Chris Milsted
   & Alex Reid, Lori Lorusso"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=JtMYdR50-KU

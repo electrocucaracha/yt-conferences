@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Chaos Engineering Practice Under Ultra-large-scale Cloud Native Edge Computing
   - Yue Bao & yue li
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The presenter discusses the testing of large-scale edge computing using

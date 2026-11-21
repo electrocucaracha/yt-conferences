@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Experto en Inversiones: ¡Invertir es más importante que ganar más! | Alejandro
   Saracho"
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este episodio del Foro de Crecimiento, se aborda el camino hacia la

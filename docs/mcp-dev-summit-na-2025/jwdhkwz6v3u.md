@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "[Session] Building Protected MCP Servers with MCP - Den Delimarsky from Microsoft"
+parent: "Mcp Dev Summit Na 2025"
 type: Video Note
 description:
   The speaker, a Microsoft engineer, introduces a new draft authorization

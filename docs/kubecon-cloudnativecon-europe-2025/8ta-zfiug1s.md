@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   The Explorer's Guide To Cloud Native GenAI Platform Engineering - Max Körbächer
   & Alexa Griffith
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Max Kerbesha and Alexa Griffith, senior software engineers at Bloomberg,

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "No Joke: Two Security Maintainers Walk Into a Cluster - Jackie Maertens &
   Nilekh Chaudhari"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this talk, Jackie Martins and Nilik, both senior software engineers

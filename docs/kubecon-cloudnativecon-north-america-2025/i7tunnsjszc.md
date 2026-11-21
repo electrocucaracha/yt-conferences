@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Building Resilient Cloud Native Infrastructur... Rafael B, Mario F, Saiyam
   P, Carolina V & Nabarun P
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The final session at CubeCon North America 2025 focused on the work of

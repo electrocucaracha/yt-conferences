@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "SIG Docs and You: Modernizing API Reference Generation - Kat Cosgrove & Xander
   Grzywinski"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The current process for generating API reference docs for Kubernetes

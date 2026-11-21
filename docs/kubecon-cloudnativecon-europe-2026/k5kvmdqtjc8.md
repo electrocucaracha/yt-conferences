@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Building Cloud Native Culture in a Bank: With Open Source as a... Marcy Paramonova
   & Stéphane Cusin"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   In this presentation, Marcen and Stefan, DevOps engineers at a Swiss

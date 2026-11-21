@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Notary Project: Securing Binary Artifacts with Fine-grained
   Control - Yi Zha"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Notary Project is an open-source initiative addressing software supply

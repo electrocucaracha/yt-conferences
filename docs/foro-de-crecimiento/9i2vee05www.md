@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Esta conversación puede salvar tu relación – Chava Gutiérrez | Sesión 34
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En esta entrevista, Chava Gutiérrez, terapeuta de parejas y autor, comparte

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Tutorial: Intelligent Failure: Using AI To Push Your Cluster To the Br...
   James Ilse & Michael Levan"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this tutorial, James Isles and Michael Leavon from Solo discuss practical

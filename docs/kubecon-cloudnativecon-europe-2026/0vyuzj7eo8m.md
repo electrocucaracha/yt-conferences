@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Next-Gen AI Orchestration With Volcano On Kubernetes
   - Zhonghu Xu"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker, a maintainer from Huawei Technology, introduces Volcano,

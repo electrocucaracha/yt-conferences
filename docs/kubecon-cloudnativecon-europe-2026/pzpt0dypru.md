@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Cloud Native University: How Kube... Michael Forrester
   and Mumshad Mannambeth"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation discusses how Kubernetes governs itself, focusing on

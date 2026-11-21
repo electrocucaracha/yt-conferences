@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Dapr + Score: Mixing the Perfect Cocktail for an Enhanced Develop... Mathieu
   Benoit & Kendall Roden"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Kendall Rhoden, a product manager at Diagrid, introduces Dapper and Score,

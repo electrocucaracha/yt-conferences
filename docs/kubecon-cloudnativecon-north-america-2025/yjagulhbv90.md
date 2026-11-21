@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Feature Flag Driven Development: Seamlessly Integrate Feature Flags... Kris
   Coleman & Michael Beemer"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Chris Coleman from Testify SAC discussed feature flag-driven development,

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Cloud Native University: Kubernetes: The API of Everything
   - Tibo Beijen"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Tibayian, an experienced Kubernetes professional at DPG Media, introduces

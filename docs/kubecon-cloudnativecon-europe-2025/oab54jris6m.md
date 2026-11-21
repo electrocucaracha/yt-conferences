@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Quantum-Ready Kubernetes: How Do We Get There?"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The panel discussion focused on quantum computing and its integration

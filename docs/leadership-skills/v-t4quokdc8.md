@@ -1,5 +1,7 @@
 ---
+layout: default
 title: How to Figure Out Your Career Path | Career Advice from Engineering Manager
+parent: "Leadership Skills"
 type: Video Note
 description:
   "In this video, Doug Howard, an engineering manager, mentor, and coach,

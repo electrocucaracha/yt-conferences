@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Keynote: Rules of the Road for Shared GPUs: AI Inference Scheduling at Wayve
   - Mukund Muralikrishnan"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker from Wave discusses their work in developing end-to-end AI

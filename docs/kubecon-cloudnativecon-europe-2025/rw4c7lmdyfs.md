@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   How To Rename Metrics Without Impacting Somebody’s Observabili... Bartłomiej
   Płotka & Arianna Vespri
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The video discusses the challenges of renaming metrics in a system, particularly

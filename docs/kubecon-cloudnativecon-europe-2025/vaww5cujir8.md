@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Unlocking How To Efficiently, Flexibly, Manage and Schedule Seven AI Chi...
   Xiao Zhang & Mengxuan Li
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   "The video discusses the challenges of managing heterogeneous AI chips

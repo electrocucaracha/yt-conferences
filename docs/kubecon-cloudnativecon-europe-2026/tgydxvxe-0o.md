@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Cloud Native Theater | Cloud Native University: Cloud Native vs. Platform
   Native vs... Ruckus Voxi"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker discusses the evolving understanding of "cloud native," tracing

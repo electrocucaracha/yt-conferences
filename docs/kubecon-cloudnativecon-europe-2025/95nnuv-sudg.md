@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Learning Kubernetes Through the Lens of Metrics - Priyanka Saggu & Mario Jason
   Braganza
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   This talk by Priyanka Sagu and Jason Banza explores the concept of learning

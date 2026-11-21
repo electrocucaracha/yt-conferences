@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Bringing Cloud Native PaaS To Space: Onboard Edge Computing f... Adele Karam
   Hankache & Sergiu Weisz"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation introduces the Orchid project, a European initiative

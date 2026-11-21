@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Working Effectively with Legacy Code • Michael Feathers & Christian Clausen
   • GOTO 2023
+parent: "Developer Productivity"
 type: Video Note
 description:
   Christian Clausen, a technical agile coach and author, sat down with

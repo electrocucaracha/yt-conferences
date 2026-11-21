@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Debugging Envoy Tunnels: A Deep Dive - Carlos Sanchez & Alexandra Stoica,
   Adobe"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The speaker, Alexandra Stoka, is a site reliability engineer at Adobe

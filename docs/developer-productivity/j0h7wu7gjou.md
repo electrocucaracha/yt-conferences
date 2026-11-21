@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Quarkus in Action • Martin Stefanko, Jan Martiska & Holly Cummins • GOTO 2025
+parent: "Developer Productivity"
 type: Video Note
 description:
   The speakers, Martin Safenko and Yan, discuss their experience writing

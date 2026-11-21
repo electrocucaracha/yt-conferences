@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "OpenTelemetry Collector SIG: Project Updates - Jade G, Dmitrii A, Alex B,
   Evan B & Antoine T"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The OpenTelemetry Collector team provided a comprehensive update on the

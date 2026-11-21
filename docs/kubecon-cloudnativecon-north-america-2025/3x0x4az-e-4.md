@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "QEMU in the Fast Lane: Accelerating KubeVirt Networking With... Daniel Borkmann
   & Anton Protopopov"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The talk discusses accelerating virtual machine (VM) networking in Kubernetes

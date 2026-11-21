@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "On-Prem Load Balancing Reimagined: Serving 20 Million QPS With Gateway API
   and Envoy... Isaac Wilson"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Isaac Wilson, an engineer at The Trade Desk, discussed the company’s

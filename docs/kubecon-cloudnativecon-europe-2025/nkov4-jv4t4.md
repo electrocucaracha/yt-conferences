@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Project Lightning Talk: Kubeflow Helm Chart - Krzysztof Romanowski, Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   Raman, lead Kubernetes engineer at Raj, presented a work-around for Helmchart

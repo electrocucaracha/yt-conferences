@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Adopting a Fleet-first Mindset - Andy Beane, Spotify
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The speaker, an engineer at Spotify, discusses the challenges of managing

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Maximizing Global Potential: Cost-Op... Wei Jiang, Jingkang Jiang, Michael
   McCune & Praseeda Sathaye"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   The session discusses strategies for cost-optimized, resilient GPU workload

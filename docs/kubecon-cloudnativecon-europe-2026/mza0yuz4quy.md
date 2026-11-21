@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Volcano: Orchestrating the Full AI Lifecycle – From Training To Inferen...
   Chen Zicong & Hajnal Máté"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The presentation introduces Volcano, a unified batch scheduling platform

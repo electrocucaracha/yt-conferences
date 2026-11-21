@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   Design Patterns for Consistent Centralized Authorization - José Padilla & Alice
   Gibbons
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, Alice Gibbons from Diagrid and Jose Padija from Ozero

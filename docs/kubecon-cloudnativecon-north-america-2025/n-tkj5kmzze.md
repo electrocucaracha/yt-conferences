@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "The Ultimate Container Challenge: An Interactive Trivia Game on Su... Aurélie
   Vache & Sherine Khoury"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   'The video presents the "Ultimate Kutan Challenge: Secret Chain Edition,"

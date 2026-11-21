@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Dolor crónico, masa muscular y los secretos de la longevidad | Alan Abruch
+parent: "Foro De Crecimiento"
 type: Video Note
 description:
   En este episodio, se aborda la importancia fundamental del ejercicio

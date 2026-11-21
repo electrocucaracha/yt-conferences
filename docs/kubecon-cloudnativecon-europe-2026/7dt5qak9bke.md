@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "From Classroom To Container: Teaching Distributed Systems With CNCF & Cloud
   Na... Matthias Haeussler"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The speaker, a guest lecturer and cloud native consultant, shares his

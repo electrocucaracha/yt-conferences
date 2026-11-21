@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: Flux - What is it & What's New? - Tamao Nakahara,
   Community Maintainer"
+parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description:
   The Flux project is a graduated project in the Cloud Native Computing

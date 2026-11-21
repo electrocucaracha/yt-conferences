@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Project Lightning Talk: The Same Great OPA, Only Faster! - Philip Conrad,
   Maintainer"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   Philip Conrad, a maintainer of the Open Policy Agent (OPA) project, presented

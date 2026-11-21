@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "AI Agents & Platform Engineering: Efficiency Boost... Hasith K, Vincent C,
   Sara Q, Idit L & Carlos S"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   The panel at CubeCon discussed the current state and challenges of integrating

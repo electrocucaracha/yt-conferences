@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "BoF | Beyond Nginx Ingress: Higress as the K8s Gateway for the AI Era"
+parent: "Kubecon Cloudnativecon Europe 2026"
 type: Video Note
 description:
   Hushing from Alibaba Cloud introduces Higress, a new Kubernetes gateway

@@ -1,7 +1,9 @@
 ---
+layout: default
 title:
   "Partitionable Devices: Putting the “Dynamic” Back in... Morten Jæger Torkildsen
   & Jan-Philip Gehrcke"
+parent: "Kubecon Cloudnativecon North America 2025"
 type: Video Note
 description:
   In this session, Morton Torlson from Google and Yan Phillip from Nvidia
