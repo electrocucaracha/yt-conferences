@@ -36,7 +36,7 @@ def is_removed(url: str, attempts: int, delay: float) -> bool:
     )
     for attempt in range(1, attempts + 1):
         try:
-            with urllib.request.urlopen(endpoint, timeout=30):
+            with urllib.request.urlopen(endpoint, timeout=30):  # nosec B310
                 return False
         except urllib.error.HTTPError as error:
             # 401/403 mean embedding is disabled, but the video still exists.

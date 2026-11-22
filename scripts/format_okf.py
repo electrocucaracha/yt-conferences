@@ -49,13 +49,16 @@ def add_video_thumbnail(text: str, frontmatter: str) -> str:
 
     Examples:
         >>> doc = '# Video\\n\\n[Watch on YouTube](https://youtu.be/x)\\n'
-        >>> out = add_video_thumbnail(doc, 'resource: https://y.com/watch?v=abcdefghijk\\n')
+        >>> resource = 'resource: https://y.com/watch?v=abcdefghijk\\n'
+        >>> out = add_video_thumbnail(doc, resource)
         >>> 'img.youtube.com/vi/abcdefghijk/hqdefault.jpg' in out
         True
-        >>> out = add_video_thumbnail(doc, 'resource: "https://y.com/watch?v=abcdefghijk"\\n')
+        >>> resource = 'resource: "https://y.com/watch?v=abcdefghijk"\\n'
+        >>> out = add_video_thumbnail(doc, resource)
         >>> '](https://y.com/watch?v=abcdefghijk)' in out
         True
-        >>> add_video_thumbnail(out, 'resource: https://y.com/watch?v=abcdefghijk\\n') == out
+        >>> resource = 'resource: https://y.com/watch?v=abcdefghijk\\n'
+        >>> add_video_thumbnail(out, resource) == out
         True
         >>> add_video_thumbnail(doc, 'type: test\\n') == doc
         True
