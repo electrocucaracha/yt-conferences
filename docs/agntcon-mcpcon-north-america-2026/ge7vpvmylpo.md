@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: The speaker advocates for treating AI skills as standard software by implementing CI/CD pipelines and rigorous evaluations to ensure reliability and security.
 resource: "https://www.youtube.com/watch?v=gE7VpVmyLpo"
+youtube_stats:
+  view_count: 36
+  like_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

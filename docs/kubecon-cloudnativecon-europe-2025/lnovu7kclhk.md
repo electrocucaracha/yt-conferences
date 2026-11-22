@@ -11,6 +11,9 @@ description:
   container images. It has been adopted by major cloud vendors and offers three key
   sce...
 resource: https://www.youtube.com/watch?v=lNovu7Kclhk
+youtube_stats:
+  view_count: 84
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

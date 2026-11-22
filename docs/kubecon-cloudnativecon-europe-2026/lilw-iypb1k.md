@@ -9,6 +9,9 @@ description:
   security flaws in the older Envoy version, as no further Emissary 3 releases will
   occ...
 resource: https://www.youtube.com/watch?v=LIlW-iYpB1k
+youtube_stats:
+  view_count: 59
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

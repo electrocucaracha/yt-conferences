@@ -11,6 +11,10 @@ description:
   die. They recommend standing and moving throughout the day, even if it's just for
   a few...
 resource: https://www.youtube.com/watch?v=mrHjHdyRDNY
+youtube_stats:
+  view_count: 6725
+  like_count: 82
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

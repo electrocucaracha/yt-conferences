@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "Leang Yan from CoreWeave presents a benchmarking tool for distributed machine learning on Kubernetes, designed to address the unique performance and reliability challenges of pure GPU cloud infrast..."
 resource: "https://www.youtube.com/watch?v=6DKpI8pc3m0"
+youtube_stats:
+  view_count: 168
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

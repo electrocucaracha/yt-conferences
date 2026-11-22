@@ -10,6 +10,10 @@ description:
   open source projects, discusses the impact of AI tools on open source contributions.
   He notes that while AI has made it easier for both new and experienced contribut...
 resource: https://www.youtube.com/watch?v=hBiJ5ZQDVds
+youtube_stats:
+  view_count: 179
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

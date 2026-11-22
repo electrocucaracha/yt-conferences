@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Matt Goldsborough, founder and CEO of Nimble Brain, presented an open-source runtime that leverages MCP servers and apps to create composable, SaaS-like user interfaces."
 resource: "https://www.youtube.com/watch?v=XErnMwNF4oI"
+youtube_stats:
+  view_count: 8
+  like_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

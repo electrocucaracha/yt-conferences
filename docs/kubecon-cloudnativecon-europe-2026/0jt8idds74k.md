@@ -11,6 +11,10 @@ description:
   applications. He explains that training and inference workloads often require large
   da...
 resource: https://www.youtube.com/watch?v=0JT8iDDS74k
+youtube_stats:
+  view_count: 94
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

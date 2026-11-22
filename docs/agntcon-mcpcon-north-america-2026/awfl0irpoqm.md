@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker, a CNCF tech lead and HAMI project member, outlines the process of building, packaging, and shipping an MCP server, using a GPU monitoring server as a practical example."
 resource: "https://www.youtube.com/watch?v=AWFL0irpOQM"
+youtube_stats:
+  view_count: 15
+  like_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

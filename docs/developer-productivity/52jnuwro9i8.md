@@ -9,6 +9,10 @@ description:
   of cloud computing and managed languages. He notes that while some aspects have
   improv...
 resource: https://www.youtube.com/watch?v=52jnUWrO9i8
+youtube_stats:
+  view_count: 2775
+  like_count: 60
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

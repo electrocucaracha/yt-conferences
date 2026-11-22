@@ -8,6 +8,10 @@ description:
   with different skills, backgrounds, and alignments. Similarly, in software development,
   a well-rounded team requires diverse skill sets, expertise, and perspectives to...
 resource: https://www.youtube.com/watch?v=kcSWsvvJ0fQ
+youtube_stats:
+  view_count: 3326
+  like_count: 82
+  channel_subscriber_count: 105
 tags:
   - developer-productivity
   - video

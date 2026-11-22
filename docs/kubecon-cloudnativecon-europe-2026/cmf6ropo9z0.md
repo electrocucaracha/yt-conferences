@@ -10,6 +10,10 @@ description:
   of in-place updates in Cluster API, a significant and technically complex change
   aimed at reducing disruption during cluster upgrades. Traditionally, Cluster AP...
 resource: https://www.youtube.com/watch?v=CMf6rOPo9Z0
+youtube_stats:
+  view_count: 390
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

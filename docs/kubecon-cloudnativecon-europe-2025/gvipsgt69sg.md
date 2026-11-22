@@ -8,6 +8,10 @@ description:
   its various components, including the unknown code used in deployment and management.
   They explain that Kubernetes has a core part called KS GPT, which is used to deplo...
 resource: https://www.youtube.com/watch?v=GvIPSgt69Sg
+youtube_stats:
+  view_count: 189
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

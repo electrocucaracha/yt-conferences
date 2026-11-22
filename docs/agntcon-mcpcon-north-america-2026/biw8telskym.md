@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Victor from OpenAI’s plugins team introduces MCP extensions, a set of new APIs and proposals designed to make plugins feel more native and first-party within ChatGPT."
 resource: "https://www.youtube.com/watch?v=Biw8telskYM"
+youtube_stats:
+  view_count: 11
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

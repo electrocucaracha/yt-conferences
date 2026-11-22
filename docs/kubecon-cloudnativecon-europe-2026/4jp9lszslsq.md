@@ -10,6 +10,10 @@ description:
   and excitement within the Kubernetes community, emphasizing Google's focus on velocity
   and utilization to shape the platform's future. He explains Kubernetes' "flywhee...
 resource: https://www.youtube.com/watch?v=4jP9lSZslSQ
+youtube_stats:
+  view_count: 166
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

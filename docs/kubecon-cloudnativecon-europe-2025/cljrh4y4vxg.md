@@ -10,6 +10,10 @@ description:
   in their Kubernetes clusters, particularly with GPUs falling off the bus. They share
   that they have 60,000+ GPUs, 30,000+ nodes, and 40+ clusters worldwide, experiencing.
 resource: https://www.youtube.com/watch?v=cLJRh4y4vXg
+youtube_stats:
+  view_count: 165
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

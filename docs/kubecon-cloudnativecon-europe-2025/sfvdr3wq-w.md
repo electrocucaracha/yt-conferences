@@ -10,6 +10,10 @@ description:
   multiple clusters across different environments, such as clouds and on-premises
   infrastructure. The project focuses on developing APIs that enable cluster manageme...
 resource: https://www.youtube.com/watch?v=-SFVDr3wQ_w
+youtube_stats:
+  view_count: 168
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,9 @@ description:
   the project as the first cloud-native edge computing open-source initiative, launched
   in 2018 and graduating in 2024 after significant global contributions. KubeEdge...
 resource: https://www.youtube.com/watch?v=jPz5hIy5Bt4
+youtube_stats:
+  view_count: 97
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

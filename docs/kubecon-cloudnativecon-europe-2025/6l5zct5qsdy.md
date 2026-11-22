@@ -10,6 +10,10 @@ description:
   known as "huge clusters," and the importance of multi-tenency. The speakers highlight
   three key aspects: (1) simplifying the management of huge clusters by leveraging...'
 resource: https://www.youtube.com/watch?v=6l5zCt5QsdY
+youtube_stats:
+  view_count: 593
+  like_count: 13
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

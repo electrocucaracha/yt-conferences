@@ -11,6 +11,10 @@ description:
   its current version, Jaeger V2. He explains that distributed tracing is essential
   for u...
 resource: https://www.youtube.com/watch?v=gH_JzIXFshI
+youtube_stats:
+  view_count: 278
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -8,6 +8,10 @@ description:
   (LLMs) and agentic AI perform in Kubernetes security tasks, detailing a series of
   experiments using five current models across four test categories: manifest creation..."
 resource: https://www.youtube.com/watch?v=jgx4J1z7POM
+youtube_stats:
+  view_count: 524
+  like_count: 12
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

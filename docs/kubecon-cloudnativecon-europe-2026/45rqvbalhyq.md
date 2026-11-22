@@ -10,6 +10,10 @@ description:
   pilot projects to production, particularly the lack of agent representation in Kubernetes.
   To address this, Solo developed the K agent project, which treats agents, skil...
 resource: https://www.youtube.com/watch?v=45rqVBAlHyQ
+youtube_stats:
+  view_count: 1102
+  like_count: 20
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

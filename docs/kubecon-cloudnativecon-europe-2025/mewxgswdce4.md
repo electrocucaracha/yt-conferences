@@ -10,6 +10,10 @@ description:
   project aiming to unify SDKs and provide a standardized way for developers to interact
   with feature flags across various vendors. Google's experience with feature flags...
 resource: https://www.youtube.com/watch?v=mewXGSwDCE4
+youtube_stats:
+  view_count: 833
+  like_count: 22
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

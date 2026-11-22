@@ -11,6 +11,10 @@ description:
   optimized for AI workloads. He discusses the challenges of topology-aware scheduling,
   em...
 resource: https://www.youtube.com/watch?v=o5i7pTWZjfo
+youtube_stats:
+  view_count: 1556
+  like_count: 27
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

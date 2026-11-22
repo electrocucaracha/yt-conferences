@@ -11,6 +11,10 @@ description:
   that as a system evolves, it must continuously adapt or become less useful over
   time...
 resource: https://www.youtube.com/watch?v=FnmYGqZAAuI
+youtube_stats:
+  view_count: 10499
+  like_count: 269
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -10,6 +10,10 @@ description:
   an AI platform and introduce their approach to tackling these issues through "SLOs"
   (Service Level Objectives) and "dashboards." They explain that SLOs are like and...
 resource: https://www.youtube.com/watch?v=KyoxaAtHi-c
+youtube_stats:
+  view_count: 282
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

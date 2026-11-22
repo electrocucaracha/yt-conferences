@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker emphasizes that organizations are rapidly deploying agentic workloads, necessitating a fundamental shift toward open-source infrastructure to support these new demands."
 resource: "https://www.youtube.com/watch?v=SS4e7RLtTH8"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

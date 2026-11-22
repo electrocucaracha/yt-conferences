@@ -11,6 +11,10 @@ description:
   it has limitations and requires careful prompt engineering to achieve the desired
   results...
 resource: https://www.youtube.com/watch?v=SKPZZ54DKSQ
+youtube_stats:
+  view_count: 17806
+  like_count: 62
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

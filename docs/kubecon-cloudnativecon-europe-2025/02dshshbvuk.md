@@ -10,6 +10,10 @@ description:
   issue in Kubernetes by enhancing cluster capabilities with tenant definitions. This
   allows multiple users to share a single cluster while defining boundaries and vir...
 resource: https://www.youtube.com/watch?v=02dSHShBVuk
+youtube_stats:
+  view_count: 454
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

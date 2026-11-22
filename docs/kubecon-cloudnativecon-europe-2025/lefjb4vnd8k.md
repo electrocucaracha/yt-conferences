@@ -11,6 +11,10 @@ description:
   rely on CPU and memory metrics, which don't accurately reflect GPU usage. To address
   th...
 resource: https://www.youtube.com/watch?v=lefjb4Vnd8k
+youtube_stats:
+  view_count: 318
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Nikolai, a founder at Alpec, presents lessons learned from building MCP and ChatGPT apps for major clients, emphasizing that AI agents are becoming the primary users of digital products."
 resource: "https://www.youtube.com/watch?v=98lX-rnv1Do"
+youtube_stats:
+  view_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

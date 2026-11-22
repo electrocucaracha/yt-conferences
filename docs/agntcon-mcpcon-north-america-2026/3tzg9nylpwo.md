@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Kyle Heinslo and Chinmay Prateek from AWS explore the evolving role of dashboards in the agentic era, arguing that while AI agents can investigate issues, human engineers still require visual verif..."
 resource: "https://www.youtube.com/watch?v=3TzG9NYlpwo"
+youtube_stats:
+  view_count: 7
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   challenges of precision updates for continuous manufacturing operations. The company's
   manufacturing execution system (MEES) software integrates over 30 modules and run...
 resource: https://www.youtube.com/watch?v=QJ8MHzSRkbo
+youtube_stats:
+  view_count: 138
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

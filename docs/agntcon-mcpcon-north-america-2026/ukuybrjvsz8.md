@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Austin Brown, a principal engineer at A Place for Mom, presents a framework for an Agentic Software Development Life Cycle (SDLC) that integrates AI tools like Claude and Codex into daily engineeri..."
 resource: "https://www.youtube.com/watch?v=UKuYBrJVsz8"
+youtube_stats:
+  view_count: 9
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

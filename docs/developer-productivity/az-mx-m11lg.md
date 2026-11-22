@@ -5,6 +5,10 @@ parent: "Developer Productivity"
 type: Video Note
 description: Here is a summary of the video transcript in 3-5 sentences.
 resource: https://www.youtube.com/watch?v=az-MX_M11lg
+youtube_stats:
+  view_count: 26697
+  like_count: 362
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

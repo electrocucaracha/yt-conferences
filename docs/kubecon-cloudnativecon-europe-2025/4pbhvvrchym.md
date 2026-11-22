@@ -10,6 +10,9 @@ description:
   discuss his thoughts and experience with multicluster AI infrastructure, particularly
   day2 optimization. He explains that multiple companies have regional business divisi...
 resource: https://www.youtube.com/watch?v=4pBhVVrCHyM
+youtube_stats:
+  view_count: 162
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

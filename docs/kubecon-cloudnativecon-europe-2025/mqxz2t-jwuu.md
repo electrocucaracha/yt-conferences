@@ -10,6 +10,10 @@ description:
   an open-source Kubernetes management system that enables resilient data pipelines
   on multicluster environments. They share their journey of supporting stateful appl...
 resource: https://www.youtube.com/watch?v=mqXZ2T-jWuU
+youtube_stats:
+  view_count: 341
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

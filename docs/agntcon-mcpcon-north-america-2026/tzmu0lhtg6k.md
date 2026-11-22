@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The Agent Host Protocol (AHP) is an open specification designed to decouple AI agent sessions from specific applications, allowing users to start, monitor, and control agents across multiple client..."
 resource: "https://www.youtube.com/watch?v=TZMu0LhTG6k"
+youtube_stats:
+  view_count: 1347
+  like_count: 7
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,9 @@ description:
   the sandbox project's progress, currently at version 43. Kyros transforms Linux
   systems into immutable, image-based, declarative, and container-based systems, supporting...
 resource: https://www.youtube.com/watch?v=6MM2LpqDCTI
+youtube_stats:
+  view_count: 200
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

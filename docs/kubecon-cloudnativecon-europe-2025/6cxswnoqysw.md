@@ -10,6 +10,9 @@ description:
   a 130 sandbox project addressing the growing need for stateful distributed applications
   on Kubernetes clusters. As state is increasingly being stored on clusters, backu...
 resource: https://www.youtube.com/watch?v=6CXsWNOqYSw
+youtube_stats:
+  view_count: 46
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

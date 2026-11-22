@@ -10,6 +10,10 @@ description:
   emphasizes that successful platform engineering is less about specific technologies
   and more about people, culture, and processes. He explains that platform engineering...
 resource: https://www.youtube.com/watch?v=jhF3sTA7B0M
+youtube_stats:
+  view_count: 174
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

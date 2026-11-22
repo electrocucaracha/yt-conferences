@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "A founding engineer at RunLayer explains how their AI control plane helps enterprises monitor and govern the use of AI agents, addressing the fragmented nature of current monitoring solutions."
 resource: "https://www.youtube.com/watch?v=cjdDDq7bfYw"
+youtube_stats:
+  view_count: 19
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   the importance of zero trust adoption and workload identity management for secure
   service-to-service communication. The company implemented Spiffy, an industry-standar...
 resource: https://www.youtube.com/watch?v=T-nN86wTebM
+youtube_stats:
+  view_count: 489
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

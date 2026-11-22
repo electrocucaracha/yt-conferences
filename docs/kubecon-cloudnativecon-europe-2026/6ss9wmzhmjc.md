@@ -11,6 +11,10 @@ description:
   They demonstrate a live setup with pre-provisioned Talos Linux nodes, highlighting
   T...
 resource: https://www.youtube.com/watch?v=6Ss9wMZhMJc
+youtube_stats:
+  view_count: 747
+  like_count: 17
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

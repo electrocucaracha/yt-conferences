@@ -11,6 +11,10 @@ description:
   AI stacks, particularly those using large language models (LLMs) and small language
   mo...
 resource: https://www.youtube.com/watch?v=BM4L74qL8zE
+youtube_stats:
+  view_count: 202
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

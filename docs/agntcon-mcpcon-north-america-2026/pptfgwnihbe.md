@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Mohamed Mokhtal, a solution engineer at Vultr, presents a technical analysis of critical failure modes that occur when integrating Model Context Protocol (MCP) and Agent-to-Agent (A2A) protocols wi..."
 resource: "https://www.youtube.com/watch?v=PpTfGwnIhBE"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

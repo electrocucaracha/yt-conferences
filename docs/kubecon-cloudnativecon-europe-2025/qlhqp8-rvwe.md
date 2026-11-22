@@ -11,6 +11,10 @@ description:
   at Red Hat and a co-host, explain various concepts such as OCI images, Docker image
   forma...
 resource: https://www.youtube.com/watch?v=QLHQP8-RVwE
+youtube_stats:
+  view_count: 128
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

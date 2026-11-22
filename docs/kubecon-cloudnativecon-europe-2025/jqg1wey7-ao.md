@@ -8,6 +8,10 @@ description:
   workloads across various markets. The company has scaled up quickly, encountering
   problems that required sharding workloads across individual markets to manage th...
 resource: https://www.youtube.com/watch?v=JqG1wey7-Ao
+youtube_stats:
+  view_count: 954
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

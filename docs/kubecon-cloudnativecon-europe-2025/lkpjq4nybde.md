@@ -10,6 +10,10 @@ description:
   goals, particularly revenue generation. The speakers, Kim McMahon and Amanda, share
   their experiences working in marketing and advocacy roles for open-source project.
 resource: https://www.youtube.com/watch?v=Lkpjq4nybdE
+youtube_stats:
+  view_count: 80
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

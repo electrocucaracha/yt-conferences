@@ -11,6 +11,9 @@ description:
   crash are restarted with increasing delays, up to five minutes. This mechanism,
   int...
 resource: https://www.youtube.com/watch?v=FlTb383gXbU
+youtube_stats:
+  view_count: 59
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

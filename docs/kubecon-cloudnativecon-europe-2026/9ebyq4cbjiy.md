@@ -10,6 +10,10 @@ description:
   beginning with introductions and an overview for newcomers. OpenFeature is an incubating
   CNCF project that offers a vendor-agnostic, open specification for feature fl...
 resource: https://www.youtube.com/watch?v=9ebYq4cbjIY
+youtube_stats:
+  view_count: 275
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

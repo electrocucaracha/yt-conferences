@@ -11,6 +11,9 @@ description:
   Google's Open Census and CNCF's Open Tracing. The otel community is modeled after
   t...
 resource: https://www.youtube.com/watch?v=Hdrf5QosFTw
+youtube_stats:
+  view_count: 113
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

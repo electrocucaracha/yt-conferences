@@ -10,6 +10,10 @@ description:
   explains why AI training jobs can crash at 99% completion despite GPU monitoring
   tools like Nvidia SMI showing available memory. The root cause is memory fragmentat...
 resource: https://www.youtube.com/watch?v=lp6LiupKtnU
+youtube_stats:
+  view_count: 288
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

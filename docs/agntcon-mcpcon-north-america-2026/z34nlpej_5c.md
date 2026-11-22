@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Kungwa, founder and CEO of Agentree, presents a new project designed to enable multi-agent workflows across organizations, specifically targeting complex business-to-business scenarios like supply ..."
 resource: "https://www.youtube.com/watch?v=z34nlPEJ_5c"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

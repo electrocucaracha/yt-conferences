@@ -8,6 +8,10 @@ description:
   story on mob programming and its benefits. Mob programming involves having all team
   members work together on the same task at the same time, sharing knowledge and skill...
 resource: https://www.youtube.com/watch?v=28S4CVkYhWA
+youtube_stats:
+  view_count: 27914
+  like_count: 554
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

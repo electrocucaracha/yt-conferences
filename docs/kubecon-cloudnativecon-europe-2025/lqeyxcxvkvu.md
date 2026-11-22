@@ -11,6 +11,10 @@ description:
   laws of robotics and notes that current AI systems lack robust access controls,
   leading...
 resource: https://www.youtube.com/watch?v=lQEYxCXVkVU
+youtube_stats:
+  view_count: 393
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

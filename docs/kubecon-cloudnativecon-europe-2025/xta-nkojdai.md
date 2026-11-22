@@ -9,6 +9,10 @@ description:
   their applications, standardize it, and focus on building business value without
   imp...
 resource: https://www.youtube.com/watch?v=XtA-NKoJDaI
+youtube_stats:
+  view_count: 2849
+  like_count: 33
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

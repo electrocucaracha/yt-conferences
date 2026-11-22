@@ -10,6 +10,10 @@ description:
   from VMware to KubeVirt environments, particularly when scaling up to thousands
   of virtual machines (VMs). To address issues such as performance, reliability, recove...
 resource: https://www.youtube.com/watch?v=0s2mSPkE7dw
+youtube_stats:
+  view_count: 311
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

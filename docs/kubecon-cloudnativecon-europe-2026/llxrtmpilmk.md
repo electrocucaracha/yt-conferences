@@ -10,6 +10,10 @@ description:
   Checkpoint Restore Working Group, outlining the background, motivations, and current
   progress of integrating checkpoint and restore functionality into Kubernetes. Checkpoi...
 resource: https://www.youtube.com/watch?v=lLxrtmpIlMk
+youtube_stats:
+  view_count: 209
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -8,6 +8,10 @@ description:
   computing, AI, and machine learning workloads. Q is a workload-level scheduler that
   operates on CS and holds, determining when to start or stop workloads, and s...
 resource: https://www.youtube.com/watch?v=aWxuaEFSarU
+youtube_stats:
+  view_count: 126
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,10 @@ description:
   and its applications in observability and security. He explains how EBPF can provide
   a system-wide view, allowing for broad coverage, reduced effort, and flexibility...
 resource: https://www.youtube.com/watch?v=I236sjooftw
+youtube_stats:
+  view_count: 149
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

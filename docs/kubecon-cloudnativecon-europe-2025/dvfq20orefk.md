@@ -10,6 +10,10 @@ description:
   and Fluent Bit. They highlight challenges in Kubernetes environments, such as ephemeral
   compute, resource organization, and autoscaling, which can lead to blind s...
 resource: https://www.youtube.com/watch?v=DVFQ20OrEFk
+youtube_stats:
+  view_count: 637
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

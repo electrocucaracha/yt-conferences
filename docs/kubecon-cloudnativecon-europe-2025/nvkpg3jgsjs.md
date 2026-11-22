@@ -10,6 +10,10 @@ description:
   focusing on the inner loop where developers work with code, and the outer loop where
   they deploy to production. They introduce tools like DevPod, Scaffold, and Dapper...
 resource: https://www.youtube.com/watch?v=nvKpg3JgSjs
+youtube_stats:
+  view_count: 181
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

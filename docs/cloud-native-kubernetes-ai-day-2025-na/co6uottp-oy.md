@@ -11,6 +11,9 @@ description:
   is a strategic Nvidia partner and is vertically integrated, handling everything
   from.
 resource: https://www.youtube.com/watch?v=Co6uOtTp_OY
+youtube_stats:
+  view_count: 109
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

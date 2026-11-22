@@ -9,6 +9,10 @@ description:
   They describe the scale at which Intuit operates—over 350 Kubernetes clusters and
   16 b...
 resource: https://www.youtube.com/watch?v=oDli4CBkky8
+youtube_stats:
+  view_count: 223
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

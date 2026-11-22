@@ -8,6 +8,10 @@ description:
   per week for Java and Apache Maven, 24 million weekly downloads for Python, and
   13 million weekly downloads for Node.js. The documentation efforts have been improved...
 resource: https://www.youtube.com/watch?v=0qNOZpdW870
+youtube_stats:
+  view_count: 176
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

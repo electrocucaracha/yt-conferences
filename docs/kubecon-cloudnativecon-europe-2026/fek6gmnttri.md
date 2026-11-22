@@ -9,6 +9,10 @@ description:
   affect everyone involved with software, its requirements for individual developers
   a...
 resource: https://www.youtube.com/watch?v=FEk6gmnttRI
+youtube_stats:
+  view_count: 661
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

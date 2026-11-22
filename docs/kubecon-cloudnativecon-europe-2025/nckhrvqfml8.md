@@ -8,6 +8,10 @@ description:
   team at Bloomberg, working with Kubernetes-based platforms. They discuss the importance
   of data center resiliency and high availability in their platform, which...
 resource: https://www.youtube.com/watch?v=NCkHrvqFMl8
+youtube_stats:
+  view_count: 90
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

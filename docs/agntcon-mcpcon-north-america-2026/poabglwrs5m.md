@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: Mark presents a solution for governing Model Context Protocol (MCP) at scale by deterministically enforcing architectural boundaries during code generation and merging.
 resource: "https://www.youtube.com/watch?v=POAbGlwrS5M"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

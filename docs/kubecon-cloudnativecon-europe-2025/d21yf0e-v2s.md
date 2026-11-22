@@ -10,6 +10,10 @@ description:
   on software supply chain security. The CRA aims to hold creators of software responsible
   for timely patching and updating, shifting the burden from unpaid open-source m...
 resource: https://www.youtube.com/watch?v=D21yF0E-v2s
+youtube_stats:
+  view_count: 338
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

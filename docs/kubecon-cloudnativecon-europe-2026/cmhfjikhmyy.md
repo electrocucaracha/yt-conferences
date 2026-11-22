@@ -10,6 +10,10 @@ description:
   package manager, highlighting its first update in six years and marking Helm’s ten-year
   anniversary. Key features in Helm 4 include a new WASM-based plugin engin...
 resource: https://www.youtube.com/watch?v=cmHFJikhmyY
+youtube_stats:
+  view_count: 520
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

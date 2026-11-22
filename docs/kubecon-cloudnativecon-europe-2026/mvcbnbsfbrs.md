@@ -10,6 +10,10 @@ description:
   using KubeVirt, an open-source CNCF project primarily developed by Red Hat. The
   presenter, a Red Hat DevOps lead, explained the motivation for moving VMs into Kubernetes.
 resource: https://www.youtube.com/watch?v=mVcBnbSfBrs
+youtube_stats:
+  view_count: 416
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

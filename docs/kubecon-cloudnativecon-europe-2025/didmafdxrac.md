@@ -8,6 +8,9 @@ description:
   and events to promote cloud-native technologies and foster collaboration among developers.
   The organization has chapters around the world, with a focus on vendor ne...
 resource: https://www.youtube.com/watch?v=didMaFDxRAc
+youtube_stats:
+  view_count: 58
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

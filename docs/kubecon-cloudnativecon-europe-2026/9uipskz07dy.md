@@ -11,6 +11,10 @@ description:
   widely adopted as the default DNS server in Kubernetes since 2017. They provide
   an o...
 resource: https://www.youtube.com/watch?v=9UIPskZ07dY
+youtube_stats:
+  view_count: 289
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

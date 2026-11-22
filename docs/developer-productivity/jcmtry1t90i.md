@@ -10,6 +10,10 @@ description:
   problems that can be improved through refactoring and code improvements. They explore
   five different socio-technical smells: overcrowded systems, coordination ball necks..."
 resource: https://www.youtube.com/watch?v=jCmTry1T90I
+youtube_stats:
+  view_count: 28758
+  like_count: 208
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

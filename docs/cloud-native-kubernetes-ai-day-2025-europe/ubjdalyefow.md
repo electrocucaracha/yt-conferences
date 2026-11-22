@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "The Gateway API Inference Extension is a new initiative designed to address the unique challenges of LLM traffic, which differs from standard web traffic due to larger request sizes, longer process..."
 resource: "https://www.youtube.com/watch?v=UbJdAlyefow"
+youtube_stats:
+  view_count: 501
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

@@ -11,6 +11,10 @@ description:
   initial success and a plateau in metrics, the team revamped the game in 2023, leading
   to a...
 resource: https://www.youtube.com/watch?v=Aa04SuPhxtA
+youtube_stats:
+  view_count: 191
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

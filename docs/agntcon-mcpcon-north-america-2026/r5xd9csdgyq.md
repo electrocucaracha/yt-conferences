@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Karthik Karunanithi from IBM presents a framework for securing and optimizing agentic systems in regulated industries, arguing that while MCP servers simplify tool integration, they create signific..."
 resource: "https://www.youtube.com/watch?v=R5xD9csdGyQ"
+youtube_stats:
+  view_count: 23
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

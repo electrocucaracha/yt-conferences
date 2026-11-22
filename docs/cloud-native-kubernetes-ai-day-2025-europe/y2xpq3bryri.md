@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: 'In a session themed as a "cloud native courtroom," speakers Annie Tvesto and Carl discuss four critical AI security mistakes: supply chain attacks, hallucinations, AI platform jacking, and prompt i...'
 resource: "https://www.youtube.com/watch?v=Y2XPq3BRyrI"
+youtube_stats:
+  view_count: 126
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

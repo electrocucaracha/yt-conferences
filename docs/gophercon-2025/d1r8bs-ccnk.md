@@ -7,7 +7,7 @@ type: Video Note
 description: "Sam Burns, a software architect and application security specialist, presents a technical overview of integrating CUDA GPU programming with Go applications."
 resource: "https://www.youtube.com/watch?v=d1R8BS-ccNk"
 youtube_stats:
-  view_count: 1740
+  view_count: 1745
   like_count: 35
   channel_subscriber_count: 41100
 tags:

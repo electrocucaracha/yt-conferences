@@ -10,6 +10,9 @@ description:
   on their ongoing initiatives and the restructuring that consolidated several focus
   areas—such as observability, business continuity, resource optimization, and sustain...
 resource: https://www.youtube.com/watch?v=cE-lBwHeb1I
+youtube_stats:
+  view_count: 37
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

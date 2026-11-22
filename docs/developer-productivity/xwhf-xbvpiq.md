@@ -8,6 +8,10 @@ description:
   that encourages experimentation and learning. They argue that traditional management
   structures, such as middle management and hierarchical decision-making, c...
 resource: https://www.youtube.com/watch?v=XwhF_xbVpIQ
+youtube_stats:
+  view_count: 5871
+  like_count: 145
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

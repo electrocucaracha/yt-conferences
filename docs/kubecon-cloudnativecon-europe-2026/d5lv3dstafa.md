@@ -8,6 +8,10 @@ description:
   attendees for their energy and contributions to the event, highlighting the significance
   of CubeCon Amsterdam 2023 as a personal milestone and one of the largest attend...
 resource: https://www.youtube.com/watch?v=D5Lv3dstAfA
+youtube_stats:
+  view_count: 196
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   query engine and data store to provide interactive search, alerts, and dashboards.
   The...
 resource: https://www.youtube.com/watch?v=SK_cTsLrAMA
+youtube_stats:
+  view_count: 3323
+  like_count: 40
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

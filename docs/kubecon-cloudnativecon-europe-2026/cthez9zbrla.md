@@ -11,6 +11,10 @@ description:
   a large and complex open-source project. Previous audits in 2019 and 2022 uncovered
   a...
 resource: https://www.youtube.com/watch?v=CThez9zBRlA
+youtube_stats:
+  view_count: 74
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

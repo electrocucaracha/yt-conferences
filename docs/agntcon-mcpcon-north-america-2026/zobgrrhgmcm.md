@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Russell Spitzer, a PMC for Apache projects like Iceberg and Polaris, argues that while LLMs have drastically reduced the cost of code generation, they currently lack the decision-making capabilitie..."
 resource: "https://www.youtube.com/watch?v=ZobgRrhgmCM"
+youtube_stats:
+  view_count: 4
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

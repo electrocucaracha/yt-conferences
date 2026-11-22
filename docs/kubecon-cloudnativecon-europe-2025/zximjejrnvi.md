@@ -9,6 +9,10 @@ description:
   This allows users to specify images as volumes that can be mounted in containers
   and pods...
 resource: https://www.youtube.com/watch?v=zXIMJeJrnvI
+youtube_stats:
+  view_count: 59
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

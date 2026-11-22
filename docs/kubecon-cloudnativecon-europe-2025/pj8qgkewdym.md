@@ -10,6 +10,10 @@ description:
   Cloud and discusses his work on Little Work Set, an open-source AI infrastructure
   project focused on building scalable models. The project aims to address the limitation...
 resource: https://www.youtube.com/watch?v=PJ8qgKEwDyM
+youtube_stats:
+  view_count: 245
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

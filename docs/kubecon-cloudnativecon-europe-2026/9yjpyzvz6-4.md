@@ -11,6 +11,10 @@ description:
   space and other extreme network environments. They outline the unique challenges
   of d...
 resource: https://www.youtube.com/watch?v=9YjpYZVz6_4
+youtube_stats:
+  view_count: 126
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

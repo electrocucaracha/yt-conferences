@@ -11,6 +11,10 @@ description:
   manage extensions called the extension interface model. The current approach has
   limitation...
 resource: https://www.youtube.com/watch?v=W5C0O7vk78o
+youtube_stats:
+  view_count: 274
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Anishma from Empire ID presents a framework for securing authorization in multi-agent AI systems, emphasizing that simply transferring parent agent authority to child agents creates significant sec..."
 resource: "https://www.youtube.com/watch?v=mqz8iS4NrNw"
+youtube_stats:
+  view_count: 3
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

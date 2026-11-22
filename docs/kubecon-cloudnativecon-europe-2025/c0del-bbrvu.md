@@ -11,6 +11,10 @@ description:
   tasked with implementing security scans for critical vulnerabilities in their FedRamp
   env...
 resource: https://www.youtube.com/watch?v=c0dEL_bBRVU
+youtube_stats:
+  view_count: 424
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

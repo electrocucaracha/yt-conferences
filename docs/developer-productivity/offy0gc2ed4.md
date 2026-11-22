@@ -10,6 +10,10 @@ description:
   which involves modeling and executing sequences of tasks to achieve specific business
   outcomes. He emphasizes that most developers think of process automation as...
 resource: https://www.youtube.com/watch?v=ofFy0gc2ED4
+youtube_stats:
+  view_count: 18717
+  like_count: 117
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -10,6 +10,10 @@ description:
   due to leader election, which prevents multiple instances from reconciling objects
   simultaneously. To address this, they introduce a sharding mechanism that appl...
 resource: https://www.youtube.com/watch?v=OTzd9eTtLRA
+youtube_stats:
+  view_count: 791
+  like_count: 26
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

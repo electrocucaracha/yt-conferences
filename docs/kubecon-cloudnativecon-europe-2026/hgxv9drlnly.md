@@ -10,6 +10,10 @@ description:
   shared their experience transforming their technical vision into business-wide adoption
   at Chebo, a traditional German coffee company turned major e-commerce retailer...
 resource: https://www.youtube.com/watch?v=HGxv9DrLnLY
+youtube_stats:
+  view_count: 400
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

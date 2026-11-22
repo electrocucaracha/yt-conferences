@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Google Prabhakaran, a Lead Software Engineer at Capital One, presented a framework for integrating Agentic AI into the API development lifecycle to enhance compliance with the Fair Credit Reporting..."
 resource: "https://www.youtube.com/watch?v=DQuw4OfmEck"
+youtube_stats:
+  view_count: 10
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

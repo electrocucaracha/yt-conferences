@@ -8,6 +8,10 @@ description:
   programming language evolution, the impact of open-source software, and the importance
   of writing readable code. He emphasizes that learning multiple programming language...
 resource: https://www.youtube.com/watch?v=STpbPXW9-pA
+youtube_stats:
+  view_count: 155700
+  like_count: 456
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

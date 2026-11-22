@@ -10,6 +10,10 @@ description:
   team describe how they secure Kubernetes at scale for millions of merchants. They
   explain that Shopify operates hundreds of Kubernetes clusters and processes nearly...
 resource: https://www.youtube.com/watch?v=fBEG2kag4Aw
+youtube_stats:
+  view_count: 475
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

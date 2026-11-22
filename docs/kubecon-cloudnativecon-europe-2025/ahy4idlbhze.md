@@ -11,6 +11,10 @@ description:
   that "don't reinvent the wheel" by leveraging existing ecosystem tools, such as
   GitOp...
 resource: https://www.youtube.com/watch?v=AHY4IDlBhzE
+youtube_stats:
+  view_count: 263
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

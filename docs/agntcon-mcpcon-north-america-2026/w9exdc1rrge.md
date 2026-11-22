@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker argues that while AI has democratized the ability to build software, it simultaneously creates a risk of homogenization because models generate average outputs based on historical data."
 resource: "https://www.youtube.com/watch?v=w9EXDc1rrGE"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

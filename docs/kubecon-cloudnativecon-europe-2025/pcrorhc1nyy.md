@@ -11,6 +11,9 @@ description:
   the landscape at an increasing rate, it's essential to ensure they meet minimum
   secu...
 resource: https://www.youtube.com/watch?v=PcRORHC1NYY
+youtube_stats:
+  view_count: 100
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

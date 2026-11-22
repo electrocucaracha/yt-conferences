@@ -10,6 +10,10 @@ description:
   with Arthur from Graphana Labs presenting updates on their collaboration. Initially,
   there were philosophical differences between pull-based Prometheus and push-...
 resource: https://www.youtube.com/watch?v=JFS0lSfHtMI
+youtube_stats:
+  view_count: 925
+  like_count: 20
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

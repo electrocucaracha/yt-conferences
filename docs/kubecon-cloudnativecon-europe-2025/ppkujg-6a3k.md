@@ -10,6 +10,10 @@ description:
   founded the women in cloud-native community. She shares her experience of contributing
   to open-source projects beyond coding, highlighting the importance of non-code c...
 resource: https://www.youtube.com/watch?v=pPKuJg_6A3k
+youtube_stats:
+  view_count: 124
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

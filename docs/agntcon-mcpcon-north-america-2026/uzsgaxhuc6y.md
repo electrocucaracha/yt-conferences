@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Marcio argues that using non-deterministic AI agents for routine, repetitive tasks like website deployment is inefficient and risky, citing a real-world incident where an agent took a site down dur..."
 resource: "https://www.youtube.com/watch?v=UZsgAXhuc6Y"
+youtube_stats:
+  view_count: 17
+  like_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   workloads in Kubernetes. The goal is to improve resource utilization and provide
   fault tolerance for GPU-accelerated workloads. Researchers from Czech National Infrastruc...
 resource: https://www.youtube.com/watch?v=BSoEY_tpxIo
+youtube_stats:
+  view_count: 503
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

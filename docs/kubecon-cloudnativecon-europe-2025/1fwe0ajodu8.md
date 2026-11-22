@@ -11,6 +11,10 @@ description:
   solutions and tools. It supports the OCI standard for managing artifacts across
   reg...
 resource: https://www.youtube.com/watch?v=1FwE0ajODU8
+youtube_stats:
+  view_count: 208
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

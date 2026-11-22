@@ -10,6 +10,9 @@ description:
   which enable efficient data access and reduce the amount of data downloaded from
   registries. The three main snapshoters explored are Starg, Sochi, and CVMFS. These...
 resource: https://www.youtube.com/watch?v=Dc6S4vU9GiM
+youtube_stats:
+  view_count: 144
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

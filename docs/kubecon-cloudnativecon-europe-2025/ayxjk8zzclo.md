@@ -11,6 +11,10 @@ description:
   both container and pod levels. This feature simplifies configurations and reduces
   the po...
 resource: https://www.youtube.com/watch?v=AYxjk8ZZclo
+youtube_stats:
+  view_count: 716
+  like_count: 13
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -8,6 +8,10 @@ description:
   that emphasizes creating custom tools tailored to each specific development problem,
   aiming to make software systems more explainable for humans. Demonstrating this.
 resource: https://www.youtube.com/watch?v=_ztGZpo9I9E
+youtube_stats:
+  view_count: 6642
+  like_count: 107
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -10,6 +10,10 @@ description:
   maintainer for Argo CD, introduces the Argo CD source hydrator feature, which streamlines
   the rendered manifest pattern for GitOps users. Previously, users either relied...
 resource: https://www.youtube.com/watch?v=Lkik-mrYfP4
+youtube_stats:
+  view_count: 563
+  like_count: 13
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

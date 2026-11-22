@@ -11,6 +11,10 @@ description:
   stateful connections in websockets, particularly with ephemeral ports and connection
   trac...
 resource: https://www.youtube.com/watch?v=h1AyaAIf3HA
+youtube_stats:
+  view_count: 383
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

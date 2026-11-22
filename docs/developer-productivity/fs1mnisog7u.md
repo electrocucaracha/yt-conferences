@@ -8,6 +8,10 @@ description:
   himself and increasing productivity. He emphasizes the importance of triaging tasks,
   focusing on effectiveness rather than efficiency, and eliminating distractions suc...
 resource: https://www.youtube.com/watch?v=FS1mnISoG7U
+youtube_stats:
+  view_count: 124174
+  like_count: 2930
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

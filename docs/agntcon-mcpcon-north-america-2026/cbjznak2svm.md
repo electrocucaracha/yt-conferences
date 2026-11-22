@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Pawan, an engineering manager at WorkOS, presents a solution to the growing challenge of authorizing AI agents that require broad access to enterprise systems while maintaining strict control over ..."
 resource: "https://www.youtube.com/watch?v=CBjzNAK2SVM"
+youtube_stats:
+  view_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

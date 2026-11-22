@@ -10,6 +10,10 @@ description:
   that users' happiness is the ultimate goal. They acknowledge that returning a 503
   "unavailable" status code can be problematic, as it's meant to be retryable. Instead...
 resource: https://www.youtube.com/watch?v=0adVcinYGC8
+youtube_stats:
+  view_count: 95
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

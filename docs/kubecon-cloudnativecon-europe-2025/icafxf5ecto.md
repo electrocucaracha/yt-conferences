@@ -11,6 +11,9 @@ description:
   and GCP) using Kubernetes. Initially, they used managed Kubernetes offerings but
   found...
 resource: https://www.youtube.com/watch?v=iCAFXF5ECto
+youtube_stats:
+  view_count: 158
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

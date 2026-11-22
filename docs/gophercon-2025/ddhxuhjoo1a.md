@@ -7,7 +7,7 @@ type: Video Note
 description: "Khalia Compos presents a talk exploring the application of biological principles, specifically decentralized goal pursuit observed in cell regeneration, to software engineering using Go routines."
 resource: "https://www.youtube.com/watch?v=ddHxUhJoo1A"
 youtube_stats:
-  view_count: 1363
+  view_count: 1365
   like_count: 24
   channel_subscriber_count: 41100
 tags:

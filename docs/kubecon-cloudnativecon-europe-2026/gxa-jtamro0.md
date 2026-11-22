@@ -10,6 +10,10 @@ description:
   the importance of considering non-functional requirements—such as scalability, resilience,
   and security—when designing application architectures, beyond just the ba...
 resource: https://www.youtube.com/watch?v=GXa_jTamRo0
+youtube_stats:
+  view_count: 169
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

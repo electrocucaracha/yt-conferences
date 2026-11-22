@@ -8,6 +8,10 @@ description:
   skills, particularly for technical subjects. They suggest that to improve, one must
   talk about topics they know and love, tell a story, and structure their con...
 resource: https://www.youtube.com/watch?v=JB87qJGSvuk
+youtube_stats:
+  view_count: 3607
+  like_count: 65
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

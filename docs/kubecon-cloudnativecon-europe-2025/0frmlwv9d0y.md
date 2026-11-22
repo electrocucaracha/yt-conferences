@@ -8,6 +8,10 @@ description:
   aiming to answer how much energy consumption is attributed to workload at various
   levels (container, host, metal, etc.). Launched in February 2022, the project offe...
 resource: https://www.youtube.com/watch?v=0FrmlwV9D0Y
+youtube_stats:
+  view_count: 105
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

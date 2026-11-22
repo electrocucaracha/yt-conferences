@@ -9,6 +9,10 @@ description:
   machines in containers on various architectures, including x86, ARM64, and S390X.
   The t...
 resource: https://www.youtube.com/watch?v=Je6GIoagHvU
+youtube_stats:
+  view_count: 227
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

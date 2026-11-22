@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Dwayne, a speaker from GitGuardian, presents a strategy to deterministically prevent non-deterministic coding agents from leaking or using plain text credentials."
 resource: "https://www.youtube.com/watch?v=HIVVDNNb_24"
+youtube_stats:
+  view_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

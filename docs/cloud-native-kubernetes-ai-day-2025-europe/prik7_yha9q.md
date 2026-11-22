@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "This presentation details the challenges and solutions for managing large-scale GPU clusters for AI workloads, focusing on automated fault detection and recovery to maximize utilization."
 resource: "https://www.youtube.com/watch?v=prik7_yha9Q"
+youtube_stats:
+  view_count: 435
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

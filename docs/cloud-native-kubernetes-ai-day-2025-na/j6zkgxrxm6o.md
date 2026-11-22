@@ -11,6 +11,10 @@ description:
   environments. The speakers highlight the complexity of balancing workloads due to
   varying...
 resource: https://www.youtube.com/watch?v=j6zkGxrxm6o
+youtube_stats:
+  view_count: 255
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

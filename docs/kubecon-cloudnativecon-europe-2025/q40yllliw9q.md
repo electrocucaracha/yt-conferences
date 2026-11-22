@@ -11,6 +11,10 @@ description:
   that 79% of online readers strictly skim content when it comes to docs, emphasizing
   th...
 resource: https://www.youtube.com/watch?v=Q40yLLLIW9Q
+youtube_stats:
+  view_count: 176
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

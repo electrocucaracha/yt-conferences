@@ -9,6 +9,10 @@ description:
   focusing on OpenWay (Gway) and its API. They introduce a control plane to simplify
   proxy configuration, allowing users to define traffic policies without manua...
 resource: https://www.youtube.com/watch?v=x8wEo6ZDT1g
+youtube_stats:
+  view_count: 841
+  like_count: 12
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

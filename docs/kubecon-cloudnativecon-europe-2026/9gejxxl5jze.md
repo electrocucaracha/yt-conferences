@@ -11,6 +11,10 @@ description:
   distributed systems challenges such as state management, workflow durability, and
   sec...
 resource: https://www.youtube.com/watch?v=9gejXxl5JzE
+youtube_stats:
+  view_count: 758
+  like_count: 13
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

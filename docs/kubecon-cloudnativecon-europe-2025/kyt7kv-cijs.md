@@ -11,6 +11,10 @@ description:
   plugin for Kubernetes, it leverages EVPF (Extended Berkeley Packet Filter) technology
   to...
 resource: https://www.youtube.com/watch?v=kYT7KV_Cijs
+youtube_stats:
+  view_count: 420
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

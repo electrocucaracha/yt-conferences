@@ -11,6 +11,10 @@ description:
   volume claims (PVCs) are handled. When a PVC is created, the Kubernetes persistent
   volume...
 resource: https://www.youtube.com/watch?v=MY-VaJVJmk0
+youtube_stats:
+  view_count: 141
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

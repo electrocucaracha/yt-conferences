@@ -10,6 +10,10 @@ description:
   at Saxo Bank, which has migrated its critical components from public cloud to on-premises
   Kubernetes. The initial motivation was to ensure compliance with regulations and...
 resource: https://www.youtube.com/watch?v=Zfp94fOMcwE
+youtube_stats:
+  view_count: 356
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

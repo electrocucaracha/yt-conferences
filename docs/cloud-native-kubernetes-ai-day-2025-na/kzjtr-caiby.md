@@ -8,6 +8,9 @@ description:
   sponsors, diamond sponsors, and the startup sponsor, highlighting the event's popularity
   and strong support. Organizers reminded participants about a reception with.
 resource: https://www.youtube.com/watch?v=kZJTR_CaIbY
+youtube_stats:
+  view_count: 49
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

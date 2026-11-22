@@ -11,6 +11,10 @@ description:
   environment. They describe the challenges of their previous setup, which involved
   ma...
 resource: https://www.youtube.com/watch?v=jmz8c3oEmPY
+youtube_stats:
+  view_count: 439
+  like_count: 17
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

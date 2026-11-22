@@ -10,6 +10,10 @@ description:
   from companies like Broadcom, Google, Nvidia, and Amazon to share user feedback
   and challenges in the Kubernetes and cloud native ecosystem. Key issues raised included...
 resource: https://www.youtube.com/watch?v=7uBB4qgh2R0
+youtube_stats:
+  view_count: 106
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

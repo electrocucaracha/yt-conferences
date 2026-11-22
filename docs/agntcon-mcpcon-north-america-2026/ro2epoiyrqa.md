@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Tadas presenta la iniciativa del catálogo de IA, un estándar colaborativo diseñado para descentralizar el descubrimiento y la instalación de artefactos de IA como servidores MCP, permitiendo que lo..."
 resource: "https://www.youtube.com/watch?v=Ro2EpOIYRQA"
+youtube_stats:
+  view_count: 16
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

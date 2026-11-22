@@ -11,6 +11,10 @@ description:
   of building a platform for a process-driven organization with limited interest in
   new...
 resource: https://www.youtube.com/watch?v=gjEuIUCbNYY
+youtube_stats:
+  view_count: 109
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

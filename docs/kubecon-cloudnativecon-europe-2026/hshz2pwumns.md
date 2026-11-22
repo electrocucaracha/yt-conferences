@@ -11,6 +11,10 @@ description:
   loop between end users, technical committees, and project maintainers. Using the
   exa...
 resource: https://www.youtube.com/watch?v=hShZ2PWUmns
+youtube_stats:
+  view_count: 711
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

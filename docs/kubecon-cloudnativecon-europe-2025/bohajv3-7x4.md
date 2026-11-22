@@ -5,6 +5,10 @@ parent: "Kubecon Cloudnativecon Europe 2025"
 type: Video Note
 description: Here is a summary of the video transcript in 4 sentences.
 resource: https://www.youtube.com/watch?v=bOhaJV3_7X4
+youtube_stats:
+  view_count: 122
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

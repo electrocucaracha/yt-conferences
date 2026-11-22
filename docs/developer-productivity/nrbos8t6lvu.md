@@ -11,6 +11,10 @@ description:
   own approach to focusing on building the right products first and then optimizing
   eff...
 resource: https://www.youtube.com/watch?v=nRBoS8T6LvU
+youtube_stats:
+  view_count: 2773
+  like_count: 45
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

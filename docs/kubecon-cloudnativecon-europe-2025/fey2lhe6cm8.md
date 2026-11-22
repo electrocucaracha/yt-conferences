@@ -10,6 +10,10 @@ description:
   experience department, discuss how they're using AI to address productivity blockers
   for their engineers. They've developed an artificial intelligence knowledge assistant...
 resource: https://www.youtube.com/watch?v=FEy2lhe6CM8
+youtube_stats:
+  view_count: 848
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

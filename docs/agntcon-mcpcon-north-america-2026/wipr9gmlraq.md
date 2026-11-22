@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Justin Schrader argues that the current "line shaft" era of AI, where a single large model powers diverse tasks, is inefficient and risky, drawing a parallel to pre-electric factory systems.'
 resource: "https://www.youtube.com/watch?v=wIPr9GmLRaQ"
+youtube_stats:
+  view_count: 407577
+  like_count: 3351
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

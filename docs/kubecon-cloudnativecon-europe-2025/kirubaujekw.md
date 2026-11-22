@@ -10,6 +10,10 @@ description:
   in a secure way, particularly for businesses concerned about data security and compliance.
   The speakers, Priya Samuel and Luke Marsden, introduce the concept of h...
 resource: https://www.youtube.com/watch?v=KIRUbaUjEKw
+youtube_stats:
+  view_count: 1763
+  like_count: 57
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -11,6 +11,10 @@ description:
   reduce code management, scale automatically, and decouple microservices, making
   it...
 resource: https://www.youtube.com/watch?v=SKYbOk2S-xo
+youtube_stats:
+  view_count: 3152
+  like_count: 40
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -11,6 +11,10 @@ description:
   API spec, and modifying markdown files, which fails every time due to lack of automation
   a...
 resource: https://www.youtube.com/watch?v=RdT6P5x_fDM
+youtube_stats:
+  view_count: 122
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Terry Damiba, a developer evangelist at Arcade, presents a critical analysis of the Model Context Protocol (MCP), arguing that while it standardized client-server communication, it failed to standa..."
 resource: "https://www.youtube.com/watch?v=mF_pCrFvGY0"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   described their team's complex migration of an API gateway from an older engineext
   and Lua-based system to a modern stack using Envoy and Argo CD. The migration invol...
 resource: https://www.youtube.com/watch?v=m6jAXyS9_Ek
+youtube_stats:
+  view_count: 187
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   token to gain elevated privileges and create a new role with "star" rights, which
   allowed...
 resource: https://www.youtube.com/watch?v=8Q8sFzODEUo
+youtube_stats:
+  view_count: 452
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -11,6 +11,10 @@ description:
   manager—with Kubernetes environments. They focus on Slurm Bridge, which enables
   Slurm...
 resource: https://www.youtube.com/watch?v=Gy2_BwETo3M
+youtube_stats:
+  view_count: 893
+  like_count: 20
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

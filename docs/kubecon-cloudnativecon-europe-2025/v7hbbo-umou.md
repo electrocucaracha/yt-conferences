@@ -9,6 +9,9 @@ description:
   year. The TOC aims to provide technical oversight over CNCF projects, ensuring they
   are...
 resource: https://www.youtube.com/watch?v=V7HbBO_umOU
+youtube_stats:
+  view_count: 62
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

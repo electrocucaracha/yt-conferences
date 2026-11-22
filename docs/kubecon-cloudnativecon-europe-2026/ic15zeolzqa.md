@@ -11,6 +11,10 @@ description:
   simplify integration between AI clients and third-party services like Argo CD. MCP
   act...
 resource: https://www.youtube.com/watch?v=iC15zeOLZQA
+youtube_stats:
+  view_count: 603
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

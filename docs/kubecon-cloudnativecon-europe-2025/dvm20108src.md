@@ -10,6 +10,10 @@ description:
   alongside Abby Bangzer, principal engineer at Centaso, to discuss Kubernetes' power
   and interaction models. They highlighted three main interaction models: user personality..."
 resource: https://www.youtube.com/watch?v=dVM20108SRc
+youtube_stats:
+  view_count: 397
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

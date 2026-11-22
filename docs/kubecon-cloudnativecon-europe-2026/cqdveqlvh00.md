@@ -10,6 +10,10 @@ description:
   describe their team's transition from GitOps to AIOps using Crossplane and Sharded
   Cargo within their Mercury platform, which supports cloud-native applications acros...
 resource: https://www.youtube.com/watch?v=cqDVeqLvh00
+youtube_stats:
+  view_count: 273
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

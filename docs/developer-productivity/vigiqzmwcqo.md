@@ -9,6 +9,10 @@ description:
   his work and mentions that he will be covering lexical 101, dense vector models,
   and sem...
 resource: https://www.youtube.com/watch?v=vIGIQZmwcqo
+youtube_stats:
+  view_count: 1859
+  like_count: 35
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

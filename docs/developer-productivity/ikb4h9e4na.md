@@ -10,6 +10,10 @@ description:
   "State-of-the-Art" which explores generative AI, platform engineering, security,
   and new practices. He discusses how he's seen five major shifts in enterprise soft...
 resource: https://www.youtube.com/watch?v=_IKB4h9e4NA
+youtube_stats:
+  view_count: 1679
+  like_count: 24
+  channel_subscriber_count: 105
 tags:
   - developer-productivity
   - video

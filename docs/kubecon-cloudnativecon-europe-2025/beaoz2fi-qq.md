@@ -10,6 +10,10 @@ description:
   CNCF graduation. Currently used by over 250 enterprise customers, Litmos Chaos has
   seen a 300% increase in Docker pools and 21 active maintenance releases. The project...
 resource: https://www.youtube.com/watch?v=beAoZ2fI-QQ
+youtube_stats:
+  view_count: 72
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

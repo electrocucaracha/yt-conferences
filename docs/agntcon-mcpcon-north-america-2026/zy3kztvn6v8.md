@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker, CEO of Human Layer, argues that while AI coding agents accelerate development, they often degrade code quality over time, leading to increased bugs and incidents."
 resource: "https://www.youtube.com/watch?v=zY3kZTVN6V8"
+youtube_stats:
+  view_count: 19
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

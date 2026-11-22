@@ -11,6 +11,10 @@ description:
   with Olama and deploy it in a Kubernetes-native way using a custom runtime class.
   T...
 resource: https://www.youtube.com/watch?v=zLpUJBU6sT4
+youtube_stats:
+  view_count: 295
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

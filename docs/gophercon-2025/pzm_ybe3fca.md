@@ -7,7 +7,7 @@ type: Video Note
 description: "Jake, a TypeScript developer at Microsoft, explains the decision to rewrite the TypeScript compiler in Go to overcome JavaScript’s inherent performance limitations, such as memory constraints and t..."
 resource: "https://www.youtube.com/watch?v=PZm_YbE3fcA"
 youtube_stats:
-  view_count: 7053
+  view_count: 7065
   like_count: 225
   channel_subscriber_count: 41100
 tags:

@@ -11,6 +11,10 @@ description:
   participate in the event. The committee, which serves as the governing body for
   the Kub...
 resource: https://www.youtube.com/watch?v=54cqKDVhxyk
+youtube_stats:
+  view_count: 44
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

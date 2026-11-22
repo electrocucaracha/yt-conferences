@@ -8,6 +8,10 @@ description:
   compensating engineers by paying them based on completed story points, similar to
   how salespeople are incentivized. He explains that traditional compensation models—hourly...
 resource: https://www.youtube.com/watch?v=4mRekpZpBZs
+youtube_stats:
+  view_count: 8324
+  like_count: 131
+  channel_subscriber_count: 1060000
 tags:
   - aie-code-2025-ai-leadership
   - video

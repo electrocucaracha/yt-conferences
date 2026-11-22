@@ -11,6 +11,10 @@ description:
   OCI compatible, allowing for seamless integration with other container initiatives.
   C...
 resource: https://www.youtube.com/watch?v=ONuxsPWXNUU
+youtube_stats:
+  view_count: 104
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

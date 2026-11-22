@@ -10,6 +10,10 @@ description:
   like Crossplane and Argo CD for managing critical internal systems, such as databases
   and custom services like secrets management and feature flag management. These unman...
 resource: https://www.youtube.com/watch?v=8-ovtwX2l7k
+youtube_stats:
+  view_count: 265
+  like_count: 21
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

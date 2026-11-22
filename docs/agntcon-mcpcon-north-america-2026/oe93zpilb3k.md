@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Mohit, a log analytics platform lead at Nutanix, presents a talk addressing the identity gap in autonomous agent architectures where standard OAuth patterns fail to provide proper user attribution ..."
 resource: "https://www.youtube.com/watch?v=OE93ZpILb3k"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

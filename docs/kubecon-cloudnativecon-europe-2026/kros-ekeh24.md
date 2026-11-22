@@ -11,6 +11,10 @@ description:
   cluster, using Keda as a case study. She explains that multi-tenancy is essential
   for t...
 resource: https://www.youtube.com/watch?v=krOs-eKeH24
+youtube_stats:
+  view_count: 114
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

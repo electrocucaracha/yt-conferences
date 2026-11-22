@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Professor Munindar Singh from NC State University presents a framework for engineering multi-agent systems that integrates formal social norms with Large Language Models (LLMs) to overcome the limi..."
 resource: "https://www.youtube.com/watch?v=lnRUY44RNSw"
+youtube_stats:
+  view_count: 14
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

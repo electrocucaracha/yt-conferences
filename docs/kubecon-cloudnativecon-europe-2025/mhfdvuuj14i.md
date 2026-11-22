@@ -11,6 +11,10 @@ description:
   They highlighted the challenges of building scalable applications with multiple
   components...
 resource: https://www.youtube.com/watch?v=MHfDvUUJ14I
+youtube_stats:
+  view_count: 523
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

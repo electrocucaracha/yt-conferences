@@ -9,6 +9,10 @@ description:
   organizations struggle to achieve continuous delivery due to outdated rules and
   process...
 resource: https://www.youtube.com/watch?v=zmA5fhV-FGk
+youtube_stats:
+  view_count: 160772
+  like_count: 479
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

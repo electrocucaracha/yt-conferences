@@ -11,6 +11,10 @@ description:
   like Prometheus, Loki, Datadog, and New Relic to assist with incident investigation
   a...
 resource: https://www.youtube.com/watch?v=LW8Z8jOGfZE
+youtube_stats:
+  view_count: 189
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

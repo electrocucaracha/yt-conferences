@@ -8,6 +8,10 @@ description:
   bubble of the 90s. They argue that while AI has the potential to revolutionize industries,
   it's also overhyped and can lead to unemployment if people don't adapt. T...
 resource: https://www.youtube.com/watch?v=NYixq2MIRPU
+youtube_stats:
+  view_count: 4663
+  like_count: 134
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

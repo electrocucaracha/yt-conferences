@@ -9,6 +9,10 @@ description:
   They faced challenges deploying to production due to differences between developer
   wo...
 resource: https://www.youtube.com/watch?v=wjF4X9t3FMk
+youtube_stats:
+  view_count: 28359
+  like_count: 690
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

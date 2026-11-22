@@ -10,6 +10,10 @@ description:
   production and the importance of creating value for users. He emphasized that writing
   code is just one part of the process, and that getting software in front of customers...
 resource: https://www.youtube.com/watch?v=5QWQioN-aXc
+youtube_stats:
+  view_count: 2580
+  like_count: 32
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

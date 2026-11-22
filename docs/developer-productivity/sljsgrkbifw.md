@@ -10,6 +10,10 @@ description:
   Software Engineering" with Saleem Siddiqui, who wrote "Learning Test-Driven Development".
   They talk about the importance of test-driven development (TDD) in software e...
 resource: https://www.youtube.com/watch?v=sLjSGrkbIFw
+youtube_stats:
+  view_count: 27064
+  like_count: 245
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -9,6 +9,10 @@ description:
   security due to containers sharing a single kernel. She traces the evolution of
   contai...
 resource: https://www.youtube.com/watch?v=gaNCXj2j-0Q
+youtube_stats:
+  view_count: 267
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

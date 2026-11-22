@@ -11,6 +11,10 @@ description:
   improved compatibility, native histograms for more efficient data storage, and remote
   w...
 resource: https://www.youtube.com/watch?v=KS_rGWazTio
+youtube_stats:
+  view_count: 403
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Varun, co-founder of Tetrate, introduces Agent Router, an open-source project recently donated to the AI Foundation that leverages the Envoy proxy to manage AI traffic."
 resource: "https://www.youtube.com/watch?v=rQ8KaTQk4Mc"
+youtube_stats:
+  view_count: 8
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

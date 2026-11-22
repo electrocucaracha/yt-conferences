@@ -9,6 +9,10 @@ description:
   application source code into OCI images through a simple and repeatable process.
   He dem...
 resource: https://www.youtube.com/watch?v=Gc4NZlv7F5A
+youtube_stats:
+  view_count: 203
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

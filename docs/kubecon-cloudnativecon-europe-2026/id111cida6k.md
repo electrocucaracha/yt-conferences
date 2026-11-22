@@ -9,6 +9,9 @@ description:
   and remains idle otherwise due to regulatory constraints. The solution involved
   creat...
 resource: https://www.youtube.com/watch?v=id111CIDa6k
+youtube_stats:
+  view_count: 86
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   platforms like Signos. To optimize data, users can employ techniques such as sampling,
   g...
 resource: https://www.youtube.com/watch?v=xE3iMfib2LA
+youtube_stats:
+  view_count: 125
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

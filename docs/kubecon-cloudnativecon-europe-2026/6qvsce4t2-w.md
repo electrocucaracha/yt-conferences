@@ -10,6 +10,10 @@ description:
   injecting private CA certificates into containers within their private cloud infrastructure,
   which operates over 1,000 Kubernetes clusters. They review existing approaches...
 resource: https://www.youtube.com/watch?v=6qvsce4t2_w
+youtube_stats:
+  view_count: 173
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

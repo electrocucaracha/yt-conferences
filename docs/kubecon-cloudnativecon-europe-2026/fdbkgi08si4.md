@@ -10,6 +10,10 @@ description:
   emphasizing that while AI is rapidly being integrated into workflows, most organizations
   are leveraging existing, generally trained models and platforms like Kuber...
 resource: https://www.youtube.com/watch?v=FdBkGi08SI4
+youtube_stats:
+  view_count: 236
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

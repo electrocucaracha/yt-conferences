@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Vultr, the world’s largest private independently held cloud infrastructure platform, presents a new era of enterprise infrastructure designed to support the transition from model training to the ad..."
 resource: "https://www.youtube.com/watch?v=x8gkwutBq6A"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

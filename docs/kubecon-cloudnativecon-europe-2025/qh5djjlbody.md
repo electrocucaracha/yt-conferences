@@ -11,6 +11,10 @@ description:
   an open-source project that accelerates the process of loading model weights onto
   GPUs...
 resource: https://www.youtube.com/watch?v=qH5djJlbodY
+youtube_stats:
+  view_count: 278
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

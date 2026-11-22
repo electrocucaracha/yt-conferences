@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Sohil, a staff engineer at PayPal, presents a session on leveraging the A2A protocol to build scalable multi-agent frameworks in enterprise environments."
 resource: "https://www.youtube.com/watch?v=qoCn-lbQwCY"
+youtube_stats:
+  view_count: 17
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

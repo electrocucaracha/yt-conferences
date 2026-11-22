@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Anthropic reports that MCP tool calls within its Claude products have grown sixteenfold since April, reaching approximately two billion weekly calls across the entire Claude family, including web, ..."
 resource: "https://www.youtube.com/watch?v=a_m0mOJAy_4"
+youtube_stats:
+  view_count: 9
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

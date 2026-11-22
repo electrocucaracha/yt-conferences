@@ -10,6 +10,10 @@ description:
   software builds in a hermetic way. They introduce Flux, an open-source project that
   uses Nyx to create reproducible environments for development and deployment...
 resource: https://www.youtube.com/watch?v=NnYtnUeJi7U
+youtube_stats:
+  view_count: 469
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

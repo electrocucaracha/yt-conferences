@@ -11,6 +11,10 @@ description:
   presenters introduce two solutions: DIA (Dynamic Resource Allocation) and Hami,
   an AI comp..."
 resource: https://www.youtube.com/watch?v=VAWw5CujiR8
+youtube_stats:
+  view_count: 233
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

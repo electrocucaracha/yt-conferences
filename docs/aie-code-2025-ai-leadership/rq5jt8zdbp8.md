@@ -9,6 +9,10 @@ description:
   including New York, San Francisco, Austin, Ecuador, and as far as New Zealand. He
   exp...
 resource: https://www.youtube.com/watch?v=RQ5Jt8zDBp8
+youtube_stats:
+  view_count: 1943
+  like_count: 18
+  channel_subscriber_count: 1060000
 tags:
   - aie-code-2025-ai-leadership
   - video

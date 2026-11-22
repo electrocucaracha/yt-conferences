@@ -7,7 +7,7 @@ type: Video Note
 description: "John Wang, CTO and co-founder of Assembled, explains how the company leverages Go to build a high-performance support operations platform that balances AI efficiency with human interaction."
 resource: "https://www.youtube.com/watch?v=QaODgpJO8bg"
 youtube_stats:
-  view_count: 1517
+  view_count: 1519
   like_count: 33
   channel_subscriber_count: 41100
 tags:

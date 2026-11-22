@@ -8,6 +8,10 @@ description:
   the intersection of music and Kubernetes through the concept of sonification—using
   non-speech audio to represent data. Drawing on the "cocktail party effect," Caldwell...
 resource: https://www.youtube.com/watch?v=fzKp0YvS7Es
+youtube_stats:
+  view_count: 362
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

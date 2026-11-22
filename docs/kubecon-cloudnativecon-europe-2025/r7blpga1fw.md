@@ -10,6 +10,10 @@ description:
   since its founding in 2014, with 28 projects, 257,000 contributors, and 756 members.
   The CNCF landscape is vast, with over 200 projects, but filtering through the options...
 resource: https://www.youtube.com/watch?v=_r7blpGA1Fw
+youtube_stats:
+  view_count: 192
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

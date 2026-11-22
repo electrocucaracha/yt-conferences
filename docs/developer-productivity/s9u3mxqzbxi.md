@@ -8,6 +8,10 @@ description:
   of Open API specifications in software development. She explains how Open API enables
   spec-first API design, which involves describing the API's structure and be...
 resource: https://www.youtube.com/watch?v=s9u3mXQZbXI
+youtube_stats:
+  view_count: 82975
+  like_count: 545
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

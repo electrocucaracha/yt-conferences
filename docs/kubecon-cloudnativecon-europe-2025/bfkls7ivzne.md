@@ -11,6 +11,10 @@ description:
   and security. They explain how cluster-wide services can be isolated using UDNS
   (User-Def...
 resource: https://www.youtube.com/watch?v=bFKls7IvzNE
+youtube_stats:
+  view_count: 225
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

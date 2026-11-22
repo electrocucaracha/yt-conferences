@@ -11,6 +11,10 @@ description:
   introduce Stephen Covey's quadrant system, which helps prioritize tasks based on
   impo...
 resource: https://www.youtube.com/watch?v=vspCZ8Kzs4Y
+youtube_stats:
+  view_count: 3182
+  like_count: 31
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

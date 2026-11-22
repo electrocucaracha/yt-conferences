@@ -11,6 +11,10 @@ description:
   Kubage has grown into a mature community with over 8,000 stars and 2,200 forks on
   GitHub...
 resource: https://www.youtube.com/watch?v=mrKx1M0Idbg
+youtube_stats:
+  view_count: 82
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

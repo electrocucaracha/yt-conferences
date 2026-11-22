@@ -8,6 +8,10 @@ description:
   its architecture, which includes a client subsystem, catch subsystem, metadata subsystem,
   object access zone, and storage subsystem. The system supports multiple protoc...
 resource: https://www.youtube.com/watch?v=_rDE1PD5Z5I
+youtube_stats:
+  view_count: 434
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

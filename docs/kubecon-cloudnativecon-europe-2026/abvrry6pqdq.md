@@ -10,6 +10,9 @@ description:
   their Kubernetes security platform to handle 5,000 nodes, each sending large data
   objects. Initially, their naive approach of having each node agent send full CRDs...
 resource: https://www.youtube.com/watch?v=abVrry6PQdQ
+youtube_stats:
+  view_count: 131
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   The new release aims to improve performance, security, and usability. Grid L3.6.0
   Z...
 resource: https://www.youtube.com/watch?v=_xoDbpm-Qks
+youtube_stats:
+  view_count: 156
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,10 @@ description:
   for AI workloads since 2022. Q acts as a bouncer deciding which job or workload
   can enter a Kubernetes cluster and cues them accordingly. To expose the queue information...
 resource: https://www.youtube.com/watch?v=njNXlZNT3dw
+youtube_stats:
+  view_count: 472
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

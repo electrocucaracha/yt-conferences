@@ -10,6 +10,10 @@ description:
   particularly from a business perspective. The presenters, Simon Foster and Danielle
   Cook, emphasize the importance of understanding customer needs, application compl...
 resource: https://www.youtube.com/watch?v=OLrN7D84o4g
+youtube_stats:
+  view_count: 104
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

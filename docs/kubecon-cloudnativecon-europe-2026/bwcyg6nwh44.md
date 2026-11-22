@@ -11,6 +11,10 @@ description:
   workload identity credentials. They recap SPIFFE as an open-source specification
   for s...
 resource: https://www.youtube.com/watch?v=bwCYG6NWh44
+youtube_stats:
+  view_count: 315
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

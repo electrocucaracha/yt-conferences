@@ -10,6 +10,9 @@ description:
   in preparing organizational data for successful AI adoption. He notes that most
   AI projects fail to deliver ROI, often due to issues in data integration and preparat...
 resource: https://www.youtube.com/watch?v=FIdCXeTnFho
+youtube_stats:
+  view_count: 55
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

@@ -11,6 +11,10 @@ description:
   bad configurations. Using the example of "namespace as a service," he describes
   how K...
 resource: https://www.youtube.com/watch?v=F9AwR41FzGo
+youtube_stats:
+  view_count: 173
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

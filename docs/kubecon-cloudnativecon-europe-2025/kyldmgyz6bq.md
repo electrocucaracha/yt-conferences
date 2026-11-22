@@ -11,6 +11,9 @@ description:
   The conversation centered around the evolution of software supply chain attacks,
   wh...
 resource: https://www.youtube.com/watch?v=kyLdmGYZ6BQ
+youtube_stats:
+  view_count: 93
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

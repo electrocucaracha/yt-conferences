@@ -10,6 +10,10 @@ description:
   Nvidia—leads of the Kubernetes node life cycle working group—discuss ongoing efforts
   to improve pod disruption and node life cycle management in Kubernetes. They intro...
 resource: https://www.youtube.com/watch?v=dpRlhe9EgiY
+youtube_stats:
+  view_count: 263
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

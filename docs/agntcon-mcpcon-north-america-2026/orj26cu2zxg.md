@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Alan and Vishal present a framework for generative UI in AI agents, arguing that text-only outputs are insufficient for complex user interactions and that visual interfaces are necessary to handle ..."
 resource: "https://www.youtube.com/watch?v=orJ26CU2zxg"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   framework to ensure the consistency of their distributed key-value store. The framework
   generates random valid input, simulates race conditions, and injects failures t...
 resource: https://www.youtube.com/watch?v=J93U9n_qxSI
+youtube_stats:
+  view_count: 595
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

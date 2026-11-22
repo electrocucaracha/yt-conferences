@@ -9,6 +9,10 @@ description:
   emphasizes the need for psychological safety, cross-functional collaboration, and
   d...
 resource: https://www.youtube.com/watch?v=suOjtOFfyZg
+youtube_stats:
+  view_count: 7188
+  like_count: 175
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -10,6 +10,10 @@ description:
   distribution similar to K3s, notable for packaging all necessary components into
   a single, statically compiled binary that runs across various Linux distribution...
 resource: https://www.youtube.com/watch?v=8iC49a-h3LU
+youtube_stats:
+  view_count: 177
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

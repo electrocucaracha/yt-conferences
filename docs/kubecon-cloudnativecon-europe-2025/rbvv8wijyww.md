@@ -11,6 +11,10 @@ description:
   and community growth. He discussed how Kamada can be used to manage applications
   across m...
 resource: https://www.youtube.com/watch?v=rbVV8WIJYww
+youtube_stats:
+  view_count: 683
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

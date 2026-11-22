@@ -11,6 +11,10 @@ description:
   point. The goal is to reduce costs associated with onboarding and training users,
   whil...
 resource: https://www.youtube.com/watch?v=1iWD14xvBQA
+youtube_stats:
+  view_count: 278
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

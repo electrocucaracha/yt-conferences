@@ -11,6 +11,10 @@ description:
   critical workloads with important data, highlighting real-world incidents where
   ina...
 resource: https://www.youtube.com/watch?v=NtXvB9gWTu8
+youtube_stats:
+  view_count: 174
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -9,6 +9,10 @@ description:
   500 active contributors. The community has grown globally, with contributors from
   105 cou...
 resource: https://www.youtube.com/watch?v=nclJn1KEjis
+youtube_stats:
+  view_count: 591
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

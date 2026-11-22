@@ -8,6 +8,10 @@ description:
   (OOP) concepts as a young developer to realizing its limitations. They argue that
   OOP's focus on sending messages between objects, rather than modeling processe...
 resource: https://www.youtube.com/watch?v=R9FwIYAM1ao
+youtube_stats:
+  view_count: 4642
+  like_count: 218
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

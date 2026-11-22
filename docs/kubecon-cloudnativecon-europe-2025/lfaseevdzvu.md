@@ -11,6 +11,10 @@ description:
   through Kubernetes. They initially used a vendor-based solution but faced challenges
   wh...
 resource: https://www.youtube.com/watch?v=lFaSEevdZvU
+youtube_stats:
+  view_count: 910
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

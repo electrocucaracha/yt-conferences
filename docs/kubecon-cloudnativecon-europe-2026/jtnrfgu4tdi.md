@@ -10,6 +10,10 @@ description:
   discuss their work on enabling cloud-native virtualization for the GB200 GPU platform,
   focusing on making a single VM behave like a complete compute tray with accura...
 resource: https://www.youtube.com/watch?v=jtnRFgu4tdI
+youtube_stats:
+  view_count: 312
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

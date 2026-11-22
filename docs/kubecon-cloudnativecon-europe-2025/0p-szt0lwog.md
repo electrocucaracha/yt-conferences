@@ -11,6 +11,9 @@ description:
   and concerns, collaborate with other SIGs, and organize working sessions to address
   se...
 resource: https://www.youtube.com/watch?v=0p-sZT0LWOg
+youtube_stats:
+  view_count: 91
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

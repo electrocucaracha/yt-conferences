@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Amit Naik, VP of AI at CData, presents a solution to the problem of AI agents providing confident but incorrect answers or engaging in token-heavy back-and-forth interactions by integrating context..."
 resource: "https://www.youtube.com/watch?v=ukItLVv2rCc"
+youtube_stats:
+  view_count: 17
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

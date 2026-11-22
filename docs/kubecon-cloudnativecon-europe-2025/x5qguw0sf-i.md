@@ -11,6 +11,10 @@ description:
   supply chain data from various sources, including SBOMs (Software Bill of Materials).
   C..."
 resource: https://www.youtube.com/watch?v=x5qguW0SF_I
+youtube_stats:
+  view_count: 154
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

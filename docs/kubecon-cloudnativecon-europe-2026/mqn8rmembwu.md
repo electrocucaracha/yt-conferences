@@ -8,6 +8,10 @@ description:
   the importance of the open source community, which now includes over 300,000 contributors
   from 190 countries across 200 projects. He encouraged attendees to engage with...
 resource: https://www.youtube.com/watch?v=mqN8rmeMBwU
+youtube_stats:
+  view_count: 431
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

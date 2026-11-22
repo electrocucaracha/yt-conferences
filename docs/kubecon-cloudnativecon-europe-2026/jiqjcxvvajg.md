@@ -10,6 +10,10 @@ description:
   gateway," which extends traditional gateway capabilities to better support AI inference
   use cases. Unlike standard gateways that route requests based on headers or paths...
 resource: https://www.youtube.com/watch?v=JiQJcXvvajg
+youtube_stats:
+  view_count: 373
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

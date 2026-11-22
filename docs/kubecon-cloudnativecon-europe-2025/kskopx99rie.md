@@ -10,6 +10,10 @@ description:
   with 95,000 contributors contributing to the project at any point in time. The community
   is structured into three groups: special interest groups (SIGs), working groups..."
 resource: https://www.youtube.com/watch?v=ksKOPx99rIE
+youtube_stats:
+  view_count: 323
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

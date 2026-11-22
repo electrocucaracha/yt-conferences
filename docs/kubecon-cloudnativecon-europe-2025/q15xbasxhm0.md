@@ -11,6 +11,10 @@ description:
   identities. They share examples of security breaches, such as Target and Equifax,
   which...
 resource: https://www.youtube.com/watch?v=Q15XbASxHM0
+youtube_stats:
+  view_count: 283
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

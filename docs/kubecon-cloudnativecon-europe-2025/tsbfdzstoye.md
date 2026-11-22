@@ -10,6 +10,10 @@ description:
   open telemetry in observability. They highlight the limitations of traditional approaches,
   such as relying on humans to correlate signals together, and introduce Open T...
 resource: https://www.youtube.com/watch?v=tSBfDzStoYE
+youtube_stats:
+  view_count: 1456
+  like_count: 17
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

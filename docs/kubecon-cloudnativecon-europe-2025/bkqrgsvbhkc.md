@@ -10,6 +10,10 @@ description:
   custom schedulers in Kubernetes, particularly with Apache Spark. They share their
   journey from using Hadoop to migrating to Kubernetes and how it improved their workflo...
 resource: https://www.youtube.com/watch?v=BkQRGsVBhkc
+youtube_stats:
+  view_count: 327
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

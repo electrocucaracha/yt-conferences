@@ -10,6 +10,10 @@ description:
   the evolution of conversations about AI, from its early days to the current state
   of generative AI models. They highlight the importance of understanding the differences...
 resource: https://www.youtube.com/watch?v=p-R7Doigqzc
+youtube_stats:
+  view_count: 2133
+  like_count: 34
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -10,6 +10,9 @@ description:
   project, which integrates virtual machines into the Kubernetes ecosystem. They describe
   KubeVirt’s growth from a small, chaotic project to a mature community, empha...
 resource: https://www.youtube.com/watch?v=goCjV2xJDnk
+youtube_stats:
+  view_count: 99
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

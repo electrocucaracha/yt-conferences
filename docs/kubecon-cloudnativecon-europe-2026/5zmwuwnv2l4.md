@@ -11,6 +11,10 @@ description:
   AI and machine learning (ML) systems in production as organizations increasingly
   adopt ML...
 resource: https://www.youtube.com/watch?v=5ZmWuwnv2l4
+youtube_stats:
+  view_count: 253
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -9,6 +9,9 @@ description:
   profiling data, with plans to support additional data sources like Polar Signals
   an...
 resource: https://www.youtube.com/watch?v=fZYp4btZaTg
+youtube_stats:
+  view_count: 112
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

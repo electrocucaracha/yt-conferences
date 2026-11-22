@@ -10,6 +10,10 @@ description:
   project, provides an overview of Kamada, a CNCF project designed for Kubernetes-native
   multicluster management. Kamada enables organizations to orchestrate workloads...
 resource: https://www.youtube.com/watch?v=IlXsx4lMrQU
+youtube_stats:
+  view_count: 322
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

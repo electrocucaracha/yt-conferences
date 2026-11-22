@@ -11,6 +11,10 @@ description:
   using Istio and LMD. They explain that AI inference now constitutes a significant
   portion...
 resource: https://www.youtube.com/watch?v=dr03NZmau5g
+youtube_stats:
+  view_count: 516
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   deploying code on hardware without access was a significant challenge, as it limited
   his...
 resource: https://www.youtube.com/watch?v=rZuUGHCeBf8
+youtube_stats:
+  view_count: 2556
+  like_count: 54
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

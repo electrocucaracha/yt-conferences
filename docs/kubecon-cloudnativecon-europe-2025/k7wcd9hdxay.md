@@ -10,6 +10,10 @@ description:
   Foundation (CNCF) that addresses various needs of CI/CD systems, including progressive
   delivery, automation, reliability, security, and scalability. As a community mainta...
 resource: https://www.youtube.com/watch?v=k7Wcd9HdXAY
+youtube_stats:
+  view_count: 140
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

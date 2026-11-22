@@ -10,6 +10,10 @@ description:
   of gaining observability into GPU usage within Kubernetes clusters, especially given
   the high costs and scarcity of GPU resources. He explains that while existing.
 resource: https://www.youtube.com/watch?v=J61kV92bSt0
+youtube_stats:
+  view_count: 394
+  like_count: 12
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

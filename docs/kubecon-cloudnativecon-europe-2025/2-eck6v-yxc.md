@@ -11,6 +11,10 @@ description:
   times. To address these issues, Spotify evaluated market-leading service mesh solutions
   an...
 resource: https://www.youtube.com/watch?v=2_ECK6v_yXc
+youtube_stats:
+  view_count: 977
+  like_count: 19
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

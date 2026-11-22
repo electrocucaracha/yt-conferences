@@ -9,6 +9,10 @@ description:
   including versioning, serialization protocols, resources, sub-resources, and support
   of...
 resource: https://www.youtube.com/watch?v=VCmp--NcxeE
+youtube_stats:
+  view_count: 127
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

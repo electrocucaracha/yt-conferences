@@ -10,6 +10,9 @@ description:
   designed to simplify the packaging, distribution, and management of AI and ML models.
   Model Pack addresses common challenges in the AI/ML space, such as handling di...
 resource: https://www.youtube.com/watch?v=gR-3Sdh1AKU
+youtube_stats:
+  view_count: 92
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

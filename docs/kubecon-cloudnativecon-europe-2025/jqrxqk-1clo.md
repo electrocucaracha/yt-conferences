@@ -10,6 +10,10 @@ description:
   to improve monitoring and observability. They previously relied on multiple vendor
   tools, leading to complexity and difficulties in resolving incidents. To address...
 resource: https://www.youtube.com/watch?v=JqRXqk-1CLo
+youtube_stats:
+  view_count: 425
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

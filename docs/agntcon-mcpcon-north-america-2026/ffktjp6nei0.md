@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Bharat Patel presents the "restraint pattern," a design framework for customer-facing AI agents that prioritizes reliability and trust over simple uptime by disciplining when agents should answer v...'
 resource: "https://www.youtube.com/watch?v=fFKtjp6neI0"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

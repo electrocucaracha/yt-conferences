@@ -10,6 +10,10 @@ description:
   Gen AI at scale in a multinational company. He highlights the importance of understanding
   that "shipping" something doesn't necessarily mean "adoption," and that adopt...
 resource: https://www.youtube.com/watch?v=tRL2sRDg_DA
+youtube_stats:
+  view_count: 1000
+  like_count: 9
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

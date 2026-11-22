@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Joe Agershtenberg, a tech lead at Block, discusses the critical shift in software development where AI models now generate code that is often more reliable than human-written code, making automated..."
 resource: "https://www.youtube.com/watch?v=f6OVURAlYXI"
+youtube_stats:
+  view_count: 13509
+  like_count: 152
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

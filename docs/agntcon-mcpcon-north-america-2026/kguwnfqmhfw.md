@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "At the San Jose conference, the Agentic AI Foundation announced the addition of four major open-source projects to its stack, including Open Sandbox from Alibaba, Open Responses from OpenAI, Agent ..."
 resource: "https://www.youtube.com/watch?v=KGuwNfQMHfw"
+youtube_stats:
+  view_count: 7
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

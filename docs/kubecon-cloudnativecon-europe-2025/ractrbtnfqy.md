@@ -11,6 +11,10 @@ description:
   emergence of interfaces for runtime and networking components, which introduced
   sta...
 resource: https://www.youtube.com/watch?v=rACTrbTnFqY
+youtube_stats:
+  view_count: 571
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

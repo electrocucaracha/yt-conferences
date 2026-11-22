@@ -10,6 +10,10 @@ description:
   (Container Device Interface) and its interaction with Cryo CR runtime. Cryo is a
   Kubernetes-specific CR runtime designed to optimize performance, security, and adaptabil...
 resource: https://www.youtube.com/watch?v=7-JtDLNT0c8
+youtube_stats:
+  view_count: 128
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

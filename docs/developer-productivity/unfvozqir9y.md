@@ -10,6 +10,10 @@ description:
   which aimed to improve engineering culture and experience. They combined product
   thinking with Spotify's backstage approach, resulting in a complex but popular product...
 resource: https://www.youtube.com/watch?v=unfVozQir9Y
+youtube_stats:
+  view_count: 21995
+  like_count: 102
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

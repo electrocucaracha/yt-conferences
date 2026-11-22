@@ -10,6 +10,10 @@ description:
   when it affects queries, dashboards, and alerts. The speakers propose a solution
   using a schema definition that captures metric changes, including name, unit...
 resource: https://www.youtube.com/watch?v=Rw4c7lmdyFs
+youtube_stats:
+  view_count: 581
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

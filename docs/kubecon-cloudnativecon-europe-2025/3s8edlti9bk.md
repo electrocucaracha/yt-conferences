@@ -10,6 +10,10 @@ description:
   that aims to make cloud-native computing ubiquitous, with 28 projects, 257,000 contributors,
   and 96,000 community members. The CNCF has been around for about 10 years...
 resource: https://www.youtube.com/watch?v=3s8EdlTi9bk
+youtube_stats:
+  view_count: 226
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

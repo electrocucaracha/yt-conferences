@@ -10,6 +10,10 @@ description:
   is joined by FA to discuss how Easy Saves Birthday, a book about Kubernetes concepts,
   uses service mesh to demonstrate security features. The story follows Captain Cube...
 resource: https://www.youtube.com/watch?v=mtqUtbMaSDw
+youtube_stats:
+  view_count: 161
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

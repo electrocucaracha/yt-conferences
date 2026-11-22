@@ -9,6 +9,10 @@ description:
   a project under guidance and supervision. Over two and a half years, they've had
   12 meant...
 resource: https://www.youtube.com/watch?v=t8p7S-46SWI
+youtube_stats:
+  view_count: 97
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Felix, a machine learning engineer and Yale graduate, presents Pi, a programmable inference engine designed to address the limitations of current systems like vLLM and SGLang, which he argues are o..."
 resource: "https://www.youtube.com/watch?v=OYAeLb4-_YU"
+youtube_stats:
+  view_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

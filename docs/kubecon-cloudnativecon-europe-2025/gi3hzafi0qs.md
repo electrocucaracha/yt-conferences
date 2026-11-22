@@ -11,6 +11,10 @@ description:
   tools turn application source code into container images without needing Docker
   files...
 resource: https://www.youtube.com/watch?v=gi3hZAFI0qs
+youtube_stats:
+  view_count: 102
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

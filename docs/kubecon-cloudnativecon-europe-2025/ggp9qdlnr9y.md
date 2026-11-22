@@ -9,6 +9,10 @@ description:
   track support, and enhanced security features. The community is working towards
   gradua...
 resource: https://www.youtube.com/watch?v=gGP9QdlNr9Y
+youtube_stats:
+  view_count: 851
+  like_count: 24
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

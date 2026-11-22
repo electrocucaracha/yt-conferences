@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Takshwari, a Product Manager at Uber with a background in AI engineering at Google, presents a product-focused framework for developing AI applications, emphasizing the critical need to validate pr..."
 resource: "https://www.youtube.com/watch?v=O7czSnUtZ14"
+youtube_stats:
+  view_count: 6
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

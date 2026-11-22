@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Dan from Anthropic and Aaron Parecki from Okta explain the emerging ID Jag standard, which streamlines secure authentication for MCP tools in enterprise environments."
 resource: "https://www.youtube.com/watch?v=k8PVWNbnKQs"
+youtube_stats:
+  view_count: 19
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

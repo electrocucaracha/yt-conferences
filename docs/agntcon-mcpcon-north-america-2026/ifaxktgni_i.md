@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: Danny Zolner and Aaron Parecki from Okta discuss how open identity standards are essential for solving governance challenges posed by the rapid deployment of AI agents in enterprises.
 resource: "https://www.youtube.com/watch?v=IfAxktGni_I"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -9,6 +9,10 @@ description:
   Notes for Continuous Delivery in a World of Constant Change • Abby Bangser
   & Dave Farley • GOTO 2025.
 resource: https://www.youtube.com/watch?v=Juk6SBz8zEc
+youtube_stats:
+  view_count: 1221
+  like_count: 24
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

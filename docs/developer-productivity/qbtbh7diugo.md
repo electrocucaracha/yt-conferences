@@ -9,6 +9,10 @@ description:
   in their work. He emphasizes that simplicity is not easy to achieve and requires
   ma...
 resource: https://www.youtube.com/watch?v=qbtbh7dIUgo
+youtube_stats:
+  view_count: 1766
+  like_count: 40
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

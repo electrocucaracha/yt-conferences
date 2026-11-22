@@ -10,6 +10,10 @@ description:
   and delivers alerts to teams. It works by monitoring kernel or cloud events, tapping
   into the kernel using BPF probes or kernel models, and sending events to predefi...
 resource: https://www.youtube.com/watch?v=Cn8xvysLWVg
+youtube_stats:
+  view_count: 168
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

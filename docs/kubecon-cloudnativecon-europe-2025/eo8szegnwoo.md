@@ -9,6 +9,10 @@ description:
   smooth traffic transitions. He explains how to handle single-container restarts
   usi...
 resource: https://www.youtube.com/watch?v=eO8szEGNwoo
+youtube_stats:
+  view_count: 659
+  like_count: 18
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

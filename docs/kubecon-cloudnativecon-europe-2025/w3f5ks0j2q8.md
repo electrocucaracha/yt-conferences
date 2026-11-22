@@ -10,6 +10,10 @@ description:
   and ease of integration with other backends. It's primarily an authoritative DNS
   server but can also handle recursive requests. The project is written in Go, a mem...
 resource: https://www.youtube.com/watch?v=W3f5Ks0j2Q8
+youtube_stats:
+  view_count: 459
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

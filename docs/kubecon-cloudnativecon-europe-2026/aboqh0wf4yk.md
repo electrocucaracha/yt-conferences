@@ -10,6 +10,10 @@ description:
   from Kubernetes' Ingress API to the Gateway API, highlighting the limitations of
   Ingress—such as lack of portability, complexity from annotations, and shared object.
 resource: https://www.youtube.com/watch?v=aBoqH0wf4Yk
+youtube_stats:
+  view_count: 319
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

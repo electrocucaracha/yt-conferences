@@ -6,6 +6,9 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: The video transcript marks the conclusion of the Cloud Native Plus Kubernetes AI Day Europe 2025 event.
 resource: "https://www.youtube.com/watch?v=cCq0YAV7s6g"
+youtube_stats:
+  view_count: 43
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

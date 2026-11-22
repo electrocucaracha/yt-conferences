@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker outlines the evolution of agentic systems, noting that while 2025 focused on coding agents, 2026 will see models autonomously handle long-horizon general knowledge tasks that require ro..."
 resource: "https://www.youtube.com/watch?v=0a_t6raKxTQ"
+youtube_stats:
+  view_count: 30
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

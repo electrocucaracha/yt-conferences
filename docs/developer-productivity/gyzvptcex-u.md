@@ -10,6 +10,10 @@ description:
   of understanding psychological biases in software development. They acknowledge
   that humans are prone to biases, which can impact team dynamics and project outcomes...
 resource: https://www.youtube.com/watch?v=gyZvPtcex_U
+youtube_stats:
+  view_count: 306412
+  like_count: 878
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

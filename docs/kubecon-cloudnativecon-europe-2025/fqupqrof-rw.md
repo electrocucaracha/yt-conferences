@@ -11,6 +11,10 @@ description:
   from scanning containers and that tools like Cavos can help enforce best practices.
   T...
 resource: https://www.youtube.com/watch?v=FqUPqroF-Rw
+youtube_stats:
+  view_count: 229
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

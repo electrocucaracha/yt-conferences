@@ -9,6 +9,9 @@ description:
   that the event is nearing its end. They express excitement about changing up the
   for...
 resource: https://www.youtube.com/watch?v=etJmn2vM4ZE
+youtube_stats:
+  view_count: 245
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

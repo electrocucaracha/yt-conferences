@@ -10,6 +10,10 @@ description:
   discuss the importance of green AI, which focuses on energy efficiency, particularly
   in cloud-native AI systems. They highlight the growing energy consumption of...
 resource: https://www.youtube.com/watch?v=fznzH-gf9h8
+youtube_stats:
+  view_count: 266
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

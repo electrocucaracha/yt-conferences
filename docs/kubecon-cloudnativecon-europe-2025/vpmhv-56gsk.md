@@ -11,6 +11,10 @@ description:
   language for describing telemetry attributes, which cover aspects such as pipeline
   st...
 resource: https://www.youtube.com/watch?v=vpMHv-56gsk
+youtube_stats:
+  view_count: 275
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

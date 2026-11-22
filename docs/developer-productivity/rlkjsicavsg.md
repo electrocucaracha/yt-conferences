@@ -8,6 +8,10 @@ description:
   emphasizes the importance of innovation for organizations. They share their personal
   journey from working on vacuum tube computers to writing the standard for tod...
 resource: https://www.youtube.com/watch?v=RLkjsiCavSg
+youtube_stats:
+  view_count: 948
+  like_count: 20
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

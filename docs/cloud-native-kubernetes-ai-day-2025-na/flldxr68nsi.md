@@ -10,6 +10,10 @@ description:
   Foundation, introduces a session focused on improving AI model quality and accuracy
   using graph RAG (Retrieval-Augmented Generation). After highlighting the importance...
 resource: https://www.youtube.com/watch?v=flldXr68NsI
+youtube_stats:
+  view_count: 64
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

@@ -11,6 +11,10 @@ description:
   enterprises to develop and deploy GenAI solutions. The project aims to provide a
   set o...
 resource: https://www.youtube.com/watch?v=6hWoA4jEk5M
+youtube_stats:
+  view_count: 171
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

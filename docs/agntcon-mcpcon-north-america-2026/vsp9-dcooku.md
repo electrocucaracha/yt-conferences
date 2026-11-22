@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'This workshop, presented by Zay Turner and Chris Miller from Marcato, focuses on securing AI agents by addressing the "lethal trifecta" of prompt injection, access to private data, and external com...'
 resource: "https://www.youtube.com/watch?v=vsP9-DCOokU"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

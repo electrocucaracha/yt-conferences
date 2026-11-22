@@ -10,6 +10,10 @@ description:
   complex software systems. They explain how companies often get stuck in "technical
   death," where they're unable to move forward due to legacy infrastructure and ou...
 resource: https://www.youtube.com/watch?v=OzCE4m9ERvU
+youtube_stats:
+  view_count: 23691
+  like_count: 287
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

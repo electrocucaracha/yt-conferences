@@ -11,6 +11,10 @@ description:
   cases within its mature service mesh, which connects over 2,000 services across
   various tec...
 resource: https://www.youtube.com/watch?v=4XciSKk-Rek
+youtube_stats:
+  view_count: 148
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

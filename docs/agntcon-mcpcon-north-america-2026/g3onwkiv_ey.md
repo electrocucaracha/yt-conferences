@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: The speaker opens the session by expressing gratitude to the program committee for their rigorous selection of nearly a thousand submissions and to the 140 AAIF ambassadors who volunteer globally t...
 resource: "https://www.youtube.com/watch?v=g3ONwKIv_EY"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   Kubernetes-optimized AI infrastructure platforms for AI and GPU workloads. He discusses
   the Triton inference server, a popular open-source tool that can run various mo...
 resource: https://www.youtube.com/watch?v=OnqzoBf7dUE
+youtube_stats:
+  view_count: 715
+  like_count: 12
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

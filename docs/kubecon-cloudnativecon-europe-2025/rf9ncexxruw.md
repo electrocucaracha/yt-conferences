@@ -11,6 +11,10 @@ description:
   of semantic conventions, which define common attributes and names for spans and
   metrics a...
 resource: https://www.youtube.com/watch?v=Rf9NceXXRuw
+youtube_stats:
+  view_count: 685
+  like_count: 15
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

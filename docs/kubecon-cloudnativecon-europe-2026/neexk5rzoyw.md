@@ -11,6 +11,10 @@ description:
   management. Initially, cluster provisioning at Uber was a manual, multi-week process
   in...
 resource: https://www.youtube.com/watch?v=neexk5RZoyw
+youtube_stats:
+  view_count: 348
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

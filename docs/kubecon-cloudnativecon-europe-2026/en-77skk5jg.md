@@ -11,6 +11,10 @@ description:
   powered by eBPF. The speakers highlighted Cilium’s growth to over 1,000 contributors
   and i...
 resource: https://www.youtube.com/watch?v=EN_77SkK5jg
+youtube_stats:
+  view_count: 295
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   mental fatigue, lack of focus, anxiety, and decreased productivity. They compare
   it to ph...
 resource: https://www.youtube.com/watch?v=l6MHyfOA6nk
+youtube_stats:
+  view_count: 16825
+  like_count: 89
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

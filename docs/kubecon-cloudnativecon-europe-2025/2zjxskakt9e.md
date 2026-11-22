@@ -11,6 +11,10 @@ description:
   manage assets in container registries. Auras allows users to store items other than
   cont...
 resource: https://www.youtube.com/watch?v=2zjxSKAkT9E
+youtube_stats:
+  view_count: 167
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

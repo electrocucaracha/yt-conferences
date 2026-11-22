@@ -7,7 +7,7 @@ type: Video Note
 description: "Gotham, a Go developer at Scout Red, presents an overview of the AT Protocol, the decentralized architecture behind Bluesky, which he finds exciting for its potential to foster new applications."
 resource: "https://www.youtube.com/watch?v=7ZbefJSvdQ0"
 youtube_stats:
-  view_count: 1309
+  view_count: 1314
   like_count: 25
   channel_subscriber_count: 41100
 tags:

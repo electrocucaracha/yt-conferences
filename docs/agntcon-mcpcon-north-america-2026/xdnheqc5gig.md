@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Aditi, a software engineer at Apple, presents an independent analysis on managing multi-agent SRE systems in production environments, highlighting that 65% of production incidents are caused by AI ..."
 resource: "https://www.youtube.com/watch?v=xDnheQC5GIg"
+youtube_stats:
+  view_count: 355
+  like_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

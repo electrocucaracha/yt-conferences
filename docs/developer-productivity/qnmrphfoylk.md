@@ -11,6 +11,10 @@ description:
   the need for empathy and understanding between team members, particularly in remote
   wo...
 resource: https://www.youtube.com/watch?v=QnmRpHFoYLk
+youtube_stats:
+  view_count: 169743
+  like_count: 3072
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

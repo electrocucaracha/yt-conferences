@@ -11,6 +11,10 @@ description:
   monadic and functional coding style, resulting in shorter and more robust code.
   H...
 resource: https://www.youtube.com/watch?v=JAl3QFae_dE
+youtube_stats:
+  view_count: 102854
+  like_count: 283
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

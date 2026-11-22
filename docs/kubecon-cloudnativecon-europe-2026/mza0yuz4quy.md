@@ -10,6 +10,10 @@ description:
   that has evolved from a simple batch scheduler to orchestrate the full AI lifecycle,
   including training, inference, and bursty agent workloads. The speakers, Matty Help.
 resource: https://www.youtube.com/watch?v=mzA0yuZ4QuY
+youtube_stats:
+  view_count: 225
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

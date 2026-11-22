@@ -9,6 +9,10 @@ description:
   GPUs into virtual devices to improve workload efficiency and reduce costs, with
   suppo...
 resource: https://www.youtube.com/watch?v=cTXlkhKXgyE
+youtube_stats:
+  view_count: 804
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

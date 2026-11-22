@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Pranay Patil, an AI infrastructure engineer at CoreWeave, argues that agentic workflows are fundamentally distributed systems that inherit complex reliability challenges when crossing cloud boundar..."
 resource: "https://www.youtube.com/watch?v=0m7SvSIeZYs"
+youtube_stats:
+  view_count: 69
+  like_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

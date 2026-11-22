@@ -10,6 +10,10 @@ description:
   a personalized intelligence system that brings powerful generative models to iPhone,
   iPad, and Mac devices. Designed with privacy protection at every step, Apple Intellig...
 resource: https://www.youtube.com/watch?v=7GQRyAxPa9g
+youtube_stats:
+  view_count: 1118
+  like_count: 16
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

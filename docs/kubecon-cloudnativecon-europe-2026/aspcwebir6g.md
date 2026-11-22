@@ -11,6 +11,10 @@ description:
   high-energy physics experiments by managing vast amounts of collision data. They
   descr...
 resource: https://www.youtube.com/watch?v=AsPCWEBiR6g
+youtube_stats:
+  view_count: 204
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

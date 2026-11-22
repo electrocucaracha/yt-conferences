@@ -11,6 +11,10 @@ description:
   main pillars: developer tooling (inner and outer loops), application runtime, and
   plat..."
 resource: https://www.youtube.com/watch?v=_j0u0tm9_dg
+youtube_stats:
+  view_count: 87
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

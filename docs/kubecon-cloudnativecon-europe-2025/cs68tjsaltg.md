@@ -11,6 +11,10 @@ description:
   provides an end-to-end full stack solution. The project has grown significantly
   sinc...
 resource: https://www.youtube.com/watch?v=cs68TjSAlTg
+youtube_stats:
+  view_count: 477
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

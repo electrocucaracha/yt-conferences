@@ -10,6 +10,10 @@ description:
   case studies, and panel discussions on the rapid evolution and impact of AI coding
   agents in software development. Speakers from leading companies like Anthrop...
 resource: https://www.youtube.com/watch?v=cMSprbJ95jg
+youtube_stats:
+  view_count: 27380
+  like_count: 426
+  channel_subscriber_count: 1060000
 tags:
   - aie-code-2025-ai-leadership
   - video

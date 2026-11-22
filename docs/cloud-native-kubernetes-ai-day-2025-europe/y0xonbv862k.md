@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "Jod, a product manager at Cisco’s Outshift team, presents a talk on applying Agentic AI to reduce toil in Infrastructure as Code (IaC) workflows, specifically focusing on OpenTofu and Terraform pul..."
 resource: "https://www.youtube.com/watch?v=y0xOnbV862k"
+youtube_stats:
+  view_count: 556
+  like_count: 17
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

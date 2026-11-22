@@ -10,6 +10,10 @@ description:
   modeling in cloud-native environments, highlighting the challenges posed by numerous
   attack surfaces, dynamic trust boundaries, and distributed microservices. They critiqu...
 resource: https://www.youtube.com/watch?v=GGdc0vihJOI
+youtube_stats:
+  view_count: 101
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

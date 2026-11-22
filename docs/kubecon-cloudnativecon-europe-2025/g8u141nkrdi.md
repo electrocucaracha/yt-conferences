@@ -10,6 +10,10 @@ description:
   low-level components to make it easier for users to run Serbian workloads on Kubernetes.
   The group focuses on three main goals: enhancing Kubernetes controllers, investiga..."
 resource: https://www.youtube.com/watch?v=G8U141NkrDI
+youtube_stats:
+  view_count: 188
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

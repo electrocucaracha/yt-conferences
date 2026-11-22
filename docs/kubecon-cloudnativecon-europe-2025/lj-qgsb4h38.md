@@ -11,6 +11,10 @@ description:
   demonstrate how to improve its security using tools like Trivy, TruffleHog, and
   Gatekeepe...
 resource: https://www.youtube.com/watch?v=lj_qgsb4h38
+youtube_stats:
+  view_count: 591
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

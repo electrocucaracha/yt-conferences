@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "In this conference session, Bar, Head of Research at Capsule Security, explores the security vulnerabilities inherent in AI agents by demonstrating how seemingly benign individual actions can combi..."
 resource: "https://www.youtube.com/watch?v=OUhHjBS-XAA"
+youtube_stats:
+  view_count: 10
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

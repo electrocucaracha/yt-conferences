@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Sarah Evans and Crob present a lighthearted overview of the agentic AI supply chain, using a custom "AI Candy Land" board game to illustrate the various personas and security challenges involved in...'
 resource: "https://www.youtube.com/watch?v=rzqtARYkM_w"
+youtube_stats:
+  view_count: 0
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

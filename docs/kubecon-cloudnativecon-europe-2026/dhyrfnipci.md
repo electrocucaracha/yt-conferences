@@ -11,6 +11,10 @@ description:
   open solutions that address operational challenges. In enterprise environments,
   Kubernetes.
 resource: https://www.youtube.com/watch?v=-DhYRFNipcI
+youtube_stats:
+  view_count: 1284
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

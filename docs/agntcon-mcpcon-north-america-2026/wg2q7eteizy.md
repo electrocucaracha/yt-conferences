@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Liran, a developer advocate and AI security researcher at Snyk, presents a critical analysis of the emerging agent skill security ecosystem, highlighting that the rapid adoption of AI agents has ou..."
 resource: "https://www.youtube.com/watch?v=wG2Q7etEIZY"
+youtube_stats:
+  view_count: 19
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

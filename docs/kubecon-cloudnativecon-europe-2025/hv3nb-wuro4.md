@@ -10,6 +10,10 @@ description:
   (eBPF) for non-invasive instant network monitoring. They explained how EVPF allows
   for basic information at the network level, such as source and destination IP address...
 resource: https://www.youtube.com/watch?v=HV3Nb_wUro4
+youtube_stats:
+  view_count: 579
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

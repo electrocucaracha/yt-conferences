@@ -10,6 +10,10 @@ description:
   introduce a new approach to Kubernetes multi-tenancy called "three shades of isolation,"
   which addresses the growing need for secure, efficient, and isolated environment.
 resource: https://www.youtube.com/watch?v=24E4LDWThAE
+youtube_stats:
+  view_count: 141
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -10,6 +10,10 @@ description:
   source communities to explore the current trajectory of AI development, particularly
   focusing on inference, agentic systems, and the importance of robust, open infrast...
 resource: https://www.youtube.com/watch?v=JzvG0eWxHnQ
+youtube_stats:
+  view_count: 1475
+  like_count: 17
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

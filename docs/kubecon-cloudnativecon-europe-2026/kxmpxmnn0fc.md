@@ -10,6 +10,10 @@ description:
   Kubernetes Agentic Networking subproject, which aims to provide standardized APIs
   for secure, governed communication among AI agents, tools, and language models within...
 resource: https://www.youtube.com/watch?v=KXmPxmNN0fc
+youtube_stats:
+  view_count: 406
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

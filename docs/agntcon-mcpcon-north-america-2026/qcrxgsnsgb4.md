@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "At the governance conference, Robert Karman and Alexander Sklar argue that operating systems must serve as the primary enforcers of security policies for AI agents, rather than relying on the agent..."
 resource: "https://www.youtube.com/watch?v=QcRXgSNsgb4"
+youtube_stats:
+  view_count: 21
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -8,6 +8,10 @@ description:
   a team's codebase from chaos to excellence. He introduces the concept of "Improvement
   Mondays," where developers work on their own projects without interruptions, u...
 resource: https://www.youtube.com/watch?v=APdaacGmDew
+youtube_stats:
+  view_count: 119340
+  like_count: 360
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

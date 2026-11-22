@@ -10,6 +10,10 @@ description:
   discuss their collaborative approach to software design in their book "Collaborative
   Software Design: How to Facilitate Domain Modeling Decisions." They share t...'
 resource: https://www.youtube.com/watch?v=b8WI1QYP0Zk
+youtube_stats:
+  view_count: 1432
+  like_count: 24
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

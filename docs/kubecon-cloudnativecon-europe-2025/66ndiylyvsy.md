@@ -8,6 +8,9 @@ description:
   for participating in the kickoff event of CubeCon. They thank viewers for joining
   them and wish everyone a great week, concluding the session on a positive note.
 resource: https://www.youtube.com/watch?v=66nDIYlyvsY
+youtube_stats:
+  view_count: 24
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

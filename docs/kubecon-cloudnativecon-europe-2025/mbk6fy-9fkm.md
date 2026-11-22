@@ -10,6 +10,9 @@ description:
   in the Kubernetes ecosystem. He explains that there are two types of assessments:
   self-assessment and joint assessment. The self-assessment is a self-service layer..."
 resource: https://www.youtube.com/watch?v=Mbk6FY_9FKM
+youtube_stats:
+  view_count: 66
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

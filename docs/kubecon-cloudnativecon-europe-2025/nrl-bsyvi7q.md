@@ -8,6 +8,10 @@ description:
   3.0 speedrun, highlighting the release's key features. The new UI is visually appealing,
   with improved PromQL learning tools, and many feature flags are now enabled by de...
 resource: https://www.youtube.com/watch?v=NRL-bSYVi7Q
+youtube_stats:
+  view_count: 153
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

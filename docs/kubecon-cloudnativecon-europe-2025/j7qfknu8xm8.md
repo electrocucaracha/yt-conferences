@@ -10,6 +10,10 @@ description:
   three topics: multicluster AI model training, data privacy, and open cluster management
   (OCM). OCM enables the training of language models across public and private cluster..."
 resource: https://www.youtube.com/watch?v=j7QfkNU8XM8
+youtube_stats:
+  view_count: 123
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

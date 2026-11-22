@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Martin Bliss argues that isolated AI agents should share structured contracts rather than raw context, drawing a direct parallel to the microservices principle of avoiding shared databases to preve..."
 resource: "https://www.youtube.com/watch?v=xZXGPyUVSp4"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

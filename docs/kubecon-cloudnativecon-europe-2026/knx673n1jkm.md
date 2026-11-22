@@ -11,6 +11,10 @@ description:
   a Rust-based proxy. Traditional sidecar service meshes have issues such as tight
   applicat...
 resource: https://www.youtube.com/watch?v=knX673N1jKM
+youtube_stats:
+  view_count: 122
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

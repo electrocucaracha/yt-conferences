@@ -7,6 +7,10 @@ description:
   Notes for How to Become an Empowered Software Developer • Johannes Stern
   • GOTO 2019.
 resource: https://www.youtube.com/watch?v=kUQQNDMCAGY
+youtube_stats:
+  view_count: 9888
+  like_count: 139
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

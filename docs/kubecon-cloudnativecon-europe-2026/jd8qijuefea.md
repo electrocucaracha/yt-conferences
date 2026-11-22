@@ -10,6 +10,9 @@ description:
   statistical office, discuss the challenges and solutions involved in moving national
   statistical offices (NSOs) to cloud-native infrastructures. They highlight the institu...
 resource: https://www.youtube.com/watch?v=JD8qIJuEfEA
+youtube_stats:
+  view_count: 52
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The Universal Commerce Protocol (UCP) is an open, machine-to-machine standard designed to provide a shared language for consumer agents and businesses, addressing the complexity of commerce workflo..."
 resource: "https://www.youtube.com/watch?v=IRVqm3N6SKc"
+youtube_stats:
+  view_count: 8
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

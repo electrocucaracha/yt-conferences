@@ -10,6 +10,10 @@ description:
   challenges of monitoring Kubernetes environments at scale, emphasizing the complexity
   introduced by microservices and the explosion of telemetry data such as logs, metric...
 resource: https://www.youtube.com/watch?v=G9Bt-7OHVBk
+youtube_stats:
+  view_count: 155
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

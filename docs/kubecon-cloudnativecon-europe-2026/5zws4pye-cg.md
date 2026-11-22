@@ -11,6 +11,9 @@ description:
   sheets overlook significant intangible assets and liabilities related to people,
   process.
 resource: https://www.youtube.com/watch?v=5ZwS4PYe-Cg
+youtube_stats:
+  view_count: 53
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

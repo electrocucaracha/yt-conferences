@@ -9,6 +9,10 @@ description:
   book focuses on finding and addressing edge cases in product development to improve
   o...
 resource: https://www.youtube.com/watch?v=YU9p_p4aIW8
+youtube_stats:
+  view_count: 11808
+  like_count: 146
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

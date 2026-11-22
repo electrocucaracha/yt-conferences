@@ -10,6 +10,10 @@ description:
   Control Plane) and discusses extending Kubernetes Resource Model (KRM) beyond Kubernetes
   workloads to reach KRM++. He explains that KCP aims to provide a single platform...
 resource: https://www.youtube.com/watch?v=y0JgZ-hQ-Bo
+youtube_stats:
+  view_count: 271
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

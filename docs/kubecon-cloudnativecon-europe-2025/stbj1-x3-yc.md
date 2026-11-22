@@ -8,6 +8,10 @@ description:
   how AI assistance can help. Traditional cost analysis is a manual process with significant
   technical expertise gaps, inefficiencies, and errors. To address these challe...
 resource: https://www.youtube.com/watch?v=sTbJ1-x3_yc
+youtube_stats:
+  view_count: 558
+  like_count: 104
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

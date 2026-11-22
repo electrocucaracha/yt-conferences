@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker argues that the rapid adoption of AI coding agents has fundamentally disrupted the traditional software development lifecycle, creating a critical gap between the volume of generated co..."
 resource: "https://www.youtube.com/watch?v=7XXHDXxkvLg"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

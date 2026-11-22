@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Liad, co-creator of the MCP apps spec and co-founder of the Aura research lab, presents a vision for the "agentic web," where personal assistants serve as the primary entry point to the internet ra...'
 resource: "https://www.youtube.com/watch?v=OC2LB_E6kzs"
+youtube_stats:
+  view_count: 14
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

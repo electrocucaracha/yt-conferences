@@ -10,6 +10,10 @@ description:
   the challenges of Kubernetes API performance. He highlights the issue of CRDs and
   operators causing memory spikes due to their lack of scalability testing, leading.
 resource: https://www.youtube.com/watch?v=SdLLOcNZN5E
+youtube_stats:
+  view_count: 988
+  like_count: 18
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

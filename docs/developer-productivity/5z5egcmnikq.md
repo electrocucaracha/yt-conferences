@@ -9,6 +9,10 @@ description:
   identifies five ways to improve code design: practicing Test-Driven Development
   (TDD)..."
 resource: https://www.youtube.com/watch?v=5z5eGcmNikQ
+youtube_stats:
+  view_count: 7984
+  like_count: 240
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

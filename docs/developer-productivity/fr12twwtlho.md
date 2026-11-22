@@ -10,6 +10,10 @@ description:
   their flat organizational structure with 130 employees. They believe decisions should
   be made close to where competence is relevant, using "Meaningful Affected" - a...
 resource: https://www.youtube.com/watch?v=fR12tWwTLHo
+youtube_stats:
+  view_count: 13114
+  like_count: 88
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

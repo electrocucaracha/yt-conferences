@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Alex from ARM presents Device Connect, an open-source framework designed to bridge the gap between AI agents and physical devices like robots and sensors."
 resource: "https://www.youtube.com/watch?v=7-1R77IkbmQ"
+youtube_stats:
+  view_count: 9
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,9 @@ description:
   engine, which allows users to define and enforce policies—such as deployment permissions
   or repository access—using their policy language, Rego. He explains how policies...
 resource: https://www.youtube.com/watch?v=gPpHTVxHEKQ
+youtube_stats:
+  view_count: 151
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

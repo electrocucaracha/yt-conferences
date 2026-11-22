@@ -10,6 +10,10 @@ description:
   in cloud environments, particularly with regards to scalability and abstraction.
   He presents a hands-on experiment using a custom-built cluster with four Intel m...
 resource: https://www.youtube.com/watch?v=4OdYWliYpPg
+youtube_stats:
+  view_count: 87
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

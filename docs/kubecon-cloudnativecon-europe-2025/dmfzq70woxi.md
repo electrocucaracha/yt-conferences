@@ -10,6 +10,9 @@ description:
   various organizations sharing their experiences and insights on implementing AI-powered
   solutions to improve compliance. The panelists discussed the challenges of scaling...
 resource: https://www.youtube.com/watch?v=DmfZq70WOxI
+youtube_stats:
+  view_count: 163
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

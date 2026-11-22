@@ -10,6 +10,10 @@ description:
   transparent checkpointing for resilient AI/ML workloads in Kubernetes. This approach
   aims to improve resilience by capturing the entire application state, including...
 resource: https://www.youtube.com/watch?v=3oWODC2mdk0
+youtube_stats:
+  view_count: 402
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

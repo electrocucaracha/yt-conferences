@@ -11,6 +11,10 @@ description:
   like banking. The speakers, Jim Beuia from Nirmata and Nisha from JP Morgan Chase
   U...
 resource: https://www.youtube.com/watch?v=B01BQ60PLqM
+youtube_stats:
+  view_count: 183
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

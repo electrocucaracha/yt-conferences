@@ -10,6 +10,10 @@ description:
   chaotic data from various sources, including logs, metrics, and traces. The goal
   is to extract value without incurring unnecessary costs. Fluent Bit aims to be vendor-agno...
 resource: https://www.youtube.com/watch?v=Ae2-LNHtUr8
+youtube_stats:
+  view_count: 494
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

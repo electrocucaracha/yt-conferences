@@ -11,6 +11,10 @@ description:
   in July 2015 with 20 original organizations and has since grown to include over
   275,0...
 resource: https://www.youtube.com/watch?v=85MDID9Ju04
+youtube_stats:
+  view_count: 1981
+  like_count: 17
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

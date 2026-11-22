@@ -10,6 +10,10 @@ description:
   all-in-one Singi solution that supports RDMA network and provides features like
   observability and right limiting. The current challenges with Singi annotation configurat...
 resource: https://www.youtube.com/watch?v=Cx5c-IueP78
+youtube_stats:
+  view_count: 81
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

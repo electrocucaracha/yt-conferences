@@ -10,6 +10,10 @@ description:
   Resource Allocation (DRRA), a new feature in Kubernetes 1.35 designed to improve
   resource management and efficiency. They explain the motivation behind DRRA, highlight.
 resource: https://www.youtube.com/watch?v=BTSvZ3E82_w
+youtube_stats:
+  view_count: 272
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

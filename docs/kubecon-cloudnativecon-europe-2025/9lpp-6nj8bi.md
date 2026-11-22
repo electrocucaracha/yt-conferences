@@ -8,6 +8,10 @@ description:
   team discuss the importance of starting a platform team when scaling to manage complexity,
   create leverage, and improve productivity. They emphasize that platform engineer.
 resource: https://www.youtube.com/watch?v=9lPp-6nJ8bI
+youtube_stats:
+  view_count: 5222
+  like_count: 108
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

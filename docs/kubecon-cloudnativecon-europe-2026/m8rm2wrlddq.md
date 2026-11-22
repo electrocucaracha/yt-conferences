@@ -11,6 +11,10 @@ description:
   reviews, guidance for cybersecurity and compliance readiness, and resources for
   en...
 resource: https://www.youtube.com/watch?v=M8rM2wrLdDQ
+youtube_stats:
+  view_count: 75
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

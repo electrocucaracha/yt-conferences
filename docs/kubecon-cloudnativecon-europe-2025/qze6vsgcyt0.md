@@ -11,6 +11,10 @@ description:
   there is no single "best" implementation, and users should consider factors such
   as fe...
 resource: https://www.youtube.com/watch?v=QzE6vSgcyT0
+youtube_stats:
+  view_count: 181
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

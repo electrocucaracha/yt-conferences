@@ -9,6 +9,9 @@ description:
   as improved kube-proxy fixes, expanded platform logic for image selection, and full
   test...
 resource: https://www.youtube.com/watch?v=GCzF5h5BQl4
+youtube_stats:
+  view_count: 39
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

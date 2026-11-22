@@ -9,6 +9,10 @@ description:
   with a special emphasis on cloud-native technology adoption in various industries.
   The...
 resource: https://www.youtube.com/watch?v=JqKwvN8MaSU
+youtube_stats:
+  view_count: 40
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,10 @@ description:
   of British Columbia, discussed developer productivity and its challenges in software
   engineering. She emphasized that defining productivity is elusive due to vary...
 resource: https://www.youtube.com/watch?v=BvJ0XLyCQsw
+youtube_stats:
+  view_count: 4269
+  like_count: 73
+  channel_subscriber_count: 105
 tags:
   - developer-productivity
   - video

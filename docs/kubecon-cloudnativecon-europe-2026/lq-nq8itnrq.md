@@ -11,6 +11,10 @@ description:
   exclusive in distributed systems. He explains the fragility of traditional online
   tr...
 resource: https://www.youtube.com/watch?v=Lq-nQ8iTnrQ
+youtube_stats:
+  view_count: 161
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   They begin by describing how traditional power grids operate, emphasizing the need
   of...
 resource: https://www.youtube.com/watch?v=95cFjYJS4ek
+youtube_stats:
+  view_count: 1471
+  like_count: 28
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

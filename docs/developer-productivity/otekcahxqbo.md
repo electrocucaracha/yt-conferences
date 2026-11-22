@@ -11,6 +11,10 @@ description:
   sector. He shared his experience with building an open-source platform called NAIS,
   wh...
 resource: https://www.youtube.com/watch?v=oTeKCAhXQbo
+youtube_stats:
+  view_count: 39007
+  like_count: 229
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

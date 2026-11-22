@@ -8,6 +8,10 @@ description:
   are changing best practices in automated testing, challenging the traditional testing
   pyramid that emphasizes fast, isolated unit tests. They argue that as software increa...
 resource: https://www.youtube.com/watch?v=5_IW7npQk9k
+youtube_stats:
+  view_count: 15106
+  like_count: 190
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

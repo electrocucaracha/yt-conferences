@@ -10,6 +10,10 @@ description:
   to the Cloud Native and Kubernetes AI Day, expressing gratitude to participants,
   content submitters, and event sponsors. They emphasized the importance of the code...
 resource: https://www.youtube.com/watch?v=lxxXFjwUQxc
+youtube_stats:
+  view_count: 1155
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

@@ -11,6 +11,10 @@ description:
   part of an all-remote team for three years and highlights five main types of teams
   in remo...
 resource: https://www.youtube.com/watch?v=j62yCp_J-Zw
+youtube_stats:
+  view_count: 3007
+  like_count: 61
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -11,6 +11,10 @@ description:
   DevOps capabilities. The team focused on specific pilot domains, removed bottlenecks,
   and i...
 resource: https://www.youtube.com/watch?v=sjc8UZvlWYQ
+youtube_stats:
+  view_count: 4858
+  like_count: 102
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

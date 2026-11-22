@@ -10,6 +10,10 @@ description:
   and building a zero-trust architecture. They highlight various security risks associated
   with model running and inference, including unauthorized access, data leaka...
 resource: https://www.youtube.com/watch?v=qXEvqZ_cY0o
+youtube_stats:
+  view_count: 244
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

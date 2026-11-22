@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Web developers can now integrate AI agents directly into their websites using WebMCP, a proposed W3 standard that allows agents to interact with web applications through structured tools rather tha..."
 resource: "https://www.youtube.com/watch?v=8qhbtkc-Gpc"
+youtube_stats:
+  view_count: 98
+  like_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

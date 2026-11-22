@@ -10,6 +10,10 @@ description:
   AI infrastructure, particularly on Kubernetes, for both predictive models and emerging
   LLM-based use cases. Andrew Le Young from Uber explains that Uber’s AI power...
 resource: https://www.youtube.com/watch?v=KETngElEQ_k
+youtube_stats:
+  view_count: 137
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

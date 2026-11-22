@@ -10,6 +10,9 @@ description:
   which aims to enhance Kubernetes and language model performance. The main challenges
   are scaling single clusters, resource utilization, and integrating frameworks with...
 resource: https://www.youtube.com/watch?v=BlzHv9KV1Z4
+youtube_stats:
+  view_count: 53
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

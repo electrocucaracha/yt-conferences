@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Katie McCaffrey, a core maintainer of the Model Context Protocol (MCP), outlines the protocol’s evolution from a synchronous request-response system to one supporting complex agentic messaging patt..."
 resource: "https://www.youtube.com/watch?v=h4ZvZpkdslc"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

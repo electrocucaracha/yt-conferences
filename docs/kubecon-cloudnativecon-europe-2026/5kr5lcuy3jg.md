@@ -11,6 +11,10 @@ description:
   individuals. They explained that CNCF, part of the Linux Foundation, hosts over
   280 p...
 resource: https://www.youtube.com/watch?v=5kr5lcUY3Jg
+youtube_stats:
+  view_count: 114
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

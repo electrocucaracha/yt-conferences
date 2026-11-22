@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Speaking at Agent Conf North America, a representative from the PyTorch Foundation highlighted the rapid growth of the AI community and the critical need to move beyond simply pointing agents at la..."
 resource: "https://www.youtube.com/watch?v=Bu5VGq-kWAk"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

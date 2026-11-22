@@ -10,6 +10,10 @@ description:
   starting with Unix pipes and moving to SQL-like syntax in distributed systems. He
   highlights the success of promql, a popular language used in Prometheus, and not...
 resource: https://www.youtube.com/watch?v=iiI91sUMtdg
+youtube_stats:
+  view_count: 429
+  like_count: 15
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

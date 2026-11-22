@@ -10,6 +10,10 @@ description:
   development by sharing data and insights from their community. They have a library
   of 78 unique studies available on Data.World, which can be accessed for free unde...
 resource: https://www.youtube.com/watch?v=N6W8Ete9vJM
+youtube_stats:
+  view_count: 322
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

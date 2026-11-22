@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Chris, CEO and co-founder of Gas City Inc., presents a talk on the evolution from "vibe coding" to structured, orchestrator-based software factories.'
 resource: "https://www.youtube.com/watch?v=plLfvs9QH18"
+youtube_stats:
+  view_count: 282
+  like_count: 11
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

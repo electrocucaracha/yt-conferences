@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "This panel discussion at CubeCon features experts from Apple, NVIDIA, Red Hat, Nutanix, and Canonical who explore the evolution of Kubeflow into a comprehensive, enterprise-ready MLOps platform."
 resource: "https://www.youtube.com/watch?v=eZYBILVeaWY"
+youtube_stats:
+  view_count: 222
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

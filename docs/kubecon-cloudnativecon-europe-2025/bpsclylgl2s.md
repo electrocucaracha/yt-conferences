@@ -10,6 +10,10 @@ description:
   that while it's initially free, costs can add up when managing multiple clusters
   and applications. They share lessons learned from their experience, including optimizi...
 resource: https://www.youtube.com/watch?v=bpsclYlGl2s
+youtube_stats:
+  view_count: 595
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

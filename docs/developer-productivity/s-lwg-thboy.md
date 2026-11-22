@@ -9,6 +9,10 @@ description:
   browser works, using tools like the network tab to analyze the content of style.css.
   As...
 resource: https://www.youtube.com/watch?v=S-LWg-tHboY
+youtube_stats:
+  view_count: 8087
+  like_count: 122
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

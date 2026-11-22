@@ -7,7 +7,7 @@ type: Video Note
 description: "The video demonstrates how to use Go’s tracing tool to identify performance bottlenecks in a single-threaded program that processes 4,000 RSS feeds, revealing that the application is not utilizing ..."
 resource: "https://www.youtube.com/watch?v=Gqo0oCfZSjg"
 youtube_stats:
-  view_count: 3925
+  view_count: 3929
   like_count: 208
   channel_subscriber_count: 41100
 tags:

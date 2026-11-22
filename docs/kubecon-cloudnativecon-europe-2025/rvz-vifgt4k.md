@@ -10,6 +10,10 @@ description:
   including graduated features such as service account token improvements, cluster
   trust bundles, fine-grained cublet API authorization, and external signing for serv...
 resource: https://www.youtube.com/watch?v=rVz-vIFGT4k
+youtube_stats:
+  view_count: 155
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

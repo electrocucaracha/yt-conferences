@@ -10,6 +10,10 @@ description:
   and AI workloads, highlighting the shift from concerns about virtual machines to
   the current focus on deploying and optimizing AI inference, particularly large la...
 resource: https://www.youtube.com/watch?v=V4CNYLxT9DA
+youtube_stats:
+  view_count: 1139
+  like_count: 36
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

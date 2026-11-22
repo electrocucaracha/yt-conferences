@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Alex Salazar, founder and CEO of arcade.dev, presents a framework for implementing control planes in AI to address the critical gap between agent guardrails and enterprise governance."
 resource: "https://www.youtube.com/watch?v=A2uMmhT7dyw"
+youtube_stats:
+  view_count: 12
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -11,6 +11,10 @@ description:
   importance of continuous improvement and decentralization of decision-making to
   empowe...
 resource: https://www.youtube.com/watch?v=8oqT5tjqf-0
+youtube_stats:
+  view_count: 994
+  like_count: 18
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

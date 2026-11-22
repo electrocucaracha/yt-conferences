@@ -11,6 +11,10 @@ description:
   environments to Kubernetes, such as dealing with infrastructure complexities and
   cos...
 resource: https://www.youtube.com/watch?v=Ix5kmLvlA5Y
+youtube_stats:
+  view_count: 131
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

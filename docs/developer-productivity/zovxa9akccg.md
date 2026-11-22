@@ -8,6 +8,10 @@ description:
   particularly when trying to optimize performance. They share their experience with
   Scala, JavaScript, and Ruby, highlighting the difficulties of serializing data an...
 resource: https://www.youtube.com/watch?v=ZOvxa9aKCCg
+youtube_stats:
+  view_count: 16193
+  like_count: 295
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

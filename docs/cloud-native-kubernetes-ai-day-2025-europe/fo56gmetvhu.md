@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "Ventera and Alberto from Control Plane present a comprehensive overview of open-source tools for enhancing AI safety, security, and robustness, distinguishing between pre-deployment evaluations and..."
 resource: "https://www.youtube.com/watch?v=Fo56gmeTvHU"
+youtube_stats:
+  view_count: 165
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

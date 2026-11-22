@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "This panel discussion, featuring experts from Google, Anthropic, and the MCP committee, explores the convergence of MCP Apps and Web MCP as complementary standards for enhancing agent-user interact..."
 resource: "https://www.youtube.com/watch?v=eruWepO0gD0"
+youtube_stats:
+  view_count: 38
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

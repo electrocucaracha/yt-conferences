@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Shub, an FTE at arcade.dev, presents a critical analysis of the security risks associated with AI agents processing untrusted context, arguing that current evaluation systems fail to account for th..."
 resource: "https://www.youtube.com/watch?v=5FotXX0NU_4"
+youtube_stats:
+  view_count: 15
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

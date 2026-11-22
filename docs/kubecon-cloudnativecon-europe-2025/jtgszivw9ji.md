@@ -10,6 +10,10 @@ description:
   workloads, particularly AI and machine learning (ML) workloads, and high-performance
   computing (HPC) nodes. The experts discuss the challenges of scaling data an...
 resource: https://www.youtube.com/watch?v=jtGSzIvw9jI
+youtube_stats:
+  view_count: 230
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

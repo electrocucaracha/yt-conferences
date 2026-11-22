@@ -9,6 +9,10 @@ description:
   He highlights two key elements: doing things right and doing the right things, and
   notes..."
 resource: https://www.youtube.com/watch?v=ZlnSxlF9V_c
+youtube_stats:
+  view_count: 20049
+  like_count: 452
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

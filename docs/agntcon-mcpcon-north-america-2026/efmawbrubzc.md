@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'The speaker from Idan’s developer relations team outlines their journey to make their documentation "agent-ready" by addressing the growing volume of AI bot traffic, which accounts for 11.6% of the...'
 resource: "https://www.youtube.com/watch?v=efMAwbrUbZc"
+youtube_stats:
+  view_count: 27
+  like_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

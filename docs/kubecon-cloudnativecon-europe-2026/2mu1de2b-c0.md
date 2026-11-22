@@ -10,6 +10,10 @@ description:
   cloud-native platform designed to support the diverse computational needs of particle
   physicists working with data from the Large Hadron Collider. The platform, built...
 resource: https://www.youtube.com/watch?v=2MU1de2B_C0
+youtube_stats:
+  view_count: 167
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

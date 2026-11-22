@@ -9,6 +9,10 @@ description:
   metaphor of tech debt as a static ledger is no longer relevant due to changes in
   sof...
 resource: https://www.youtube.com/watch?v=DvfMOJaIzhY
+youtube_stats:
+  view_count: 28173
+  like_count: 419
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

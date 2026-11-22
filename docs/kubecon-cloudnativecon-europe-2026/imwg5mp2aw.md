@@ -10,6 +10,10 @@ description:
   the challenges of scaling Kubernetes environments, particularly around namespace
   multi-tenancy. As organizations grow, managing hundreds of microservices and namespace...
 resource: https://www.youtube.com/watch?v=-imwG5MP2aw
+youtube_stats:
+  view_count: 231
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

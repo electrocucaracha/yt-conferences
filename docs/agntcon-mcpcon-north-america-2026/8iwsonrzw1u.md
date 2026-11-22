@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Sara Drasner, a distinguished engineer at Google, presents the evolution of the web in the age of AI, arguing that the platform must adapt to non-deterministic actors like AI agents while maintaini..."
 resource: "https://www.youtube.com/watch?v=8IwsoNrZW1U"
+youtube_stats:
+  view_count: 20
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

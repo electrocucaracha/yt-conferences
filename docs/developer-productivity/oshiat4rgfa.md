@@ -11,6 +11,10 @@ description:
   the traditional approach of reading code is not efficient due to its high complexity
   an...
 resource: https://www.youtube.com/watch?v=oSHiAT4RGFA
+youtube_stats:
+  view_count: 1509
+  like_count: 30
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -8,6 +8,10 @@ description:
   by interpreting scanner results and generating a new patch layer on top of the existing
   container. It can work without scanning tools like Trivy, instead using package...
 resource: https://www.youtube.com/watch?v=Q9m7eGoBaMA
+youtube_stats:
+  view_count: 89
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

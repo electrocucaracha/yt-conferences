@@ -8,6 +8,9 @@ description:
   of current data protection workflows in Kubernetes. The group is sponsored by Sik
   Storage and Sik Apps, and its primary goal is to provide a standardized approach...
 resource: https://www.youtube.com/watch?v=joOTwCatd9g
+youtube_stats:
+  view_count: 58
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

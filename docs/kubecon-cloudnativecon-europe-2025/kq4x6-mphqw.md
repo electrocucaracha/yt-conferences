@@ -10,6 +10,10 @@ description:
   relation to Linux. He explains that Linux is an operating system that isolates different
   processes to make the hardware look agnostic, allowing users to focus on their tas...
 resource: https://www.youtube.com/watch?v=kQ4X6-mPHqw
+youtube_stats:
+  view_count: 1094
+  like_count: 24
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

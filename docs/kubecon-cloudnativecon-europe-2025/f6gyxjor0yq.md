@@ -10,6 +10,9 @@ description:
   when managing clusters. When a cluster has limited resources, pods may be allocated
   to either node, but without sufficient information, Kubernetes cannot guarantee...
 resource: https://www.youtube.com/watch?v=f6gYxJOr0yQ
+youtube_stats:
+  view_count: 70
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

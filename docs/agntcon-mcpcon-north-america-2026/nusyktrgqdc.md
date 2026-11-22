@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Bartosz Gonczarek, CTO de Vstorm, presenta las lecciones aprendidas al desarrollar un sistema complejo de pedidos de impresión para Renow que utiliza modelos de IA en ambos lados: un asistente del ..."
 resource: "https://www.youtube.com/watch?v=nuSYKTrgQdc"
+youtube_stats:
+  view_count: 8
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

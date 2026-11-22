@@ -11,6 +11,10 @@ description:
   changes represent an evolution or a revolution. They recount ISTIO’s history from
   it...
 resource: https://www.youtube.com/watch?v=4K6s5y8HoBc
+youtube_stats:
+  view_count: 133
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

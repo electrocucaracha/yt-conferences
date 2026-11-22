@@ -11,6 +11,10 @@ description:
   experiences working on various projects, including a funeral home software, where
   he...
 resource: https://www.youtube.com/watch?v=P7CfWtR-ECk
+youtube_stats:
+  view_count: 26673
+  like_count: 724
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

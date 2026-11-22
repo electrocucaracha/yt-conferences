@@ -10,6 +10,10 @@ description:
   to Crossplane, a cloud-native control plane that allows users to provision and manage
   resources across multiple cloud providers. They introduce Composite Resources (CRs)...
 resource: https://www.youtube.com/watch?v=6MrXcbcxnN4
+youtube_stats:
+  view_count: 7584
+  like_count: 110
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

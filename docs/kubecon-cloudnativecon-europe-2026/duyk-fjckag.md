@@ -11,6 +11,10 @@ description:
   While 5G cores are now containerized and deployed on Kubernetes with some GitOps
   and...
 resource: https://www.youtube.com/watch?v=duYk-FjcKAg
+youtube_stats:
+  view_count: 570
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

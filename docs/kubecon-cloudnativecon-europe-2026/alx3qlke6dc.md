@@ -8,6 +8,10 @@ description:
   journey in building and evolving their internal software platform to support efficient
   development and operations. He explains that the group, similar to a smaller Targe...
 resource: https://www.youtube.com/watch?v=aLx3QlKE6Dc
+youtube_stats:
+  view_count: 203
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

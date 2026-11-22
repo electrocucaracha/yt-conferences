@@ -11,6 +11,10 @@ description:
   data protection across multiple volumes. The feature enables users to take a snapshot
   o...
 resource: https://www.youtube.com/watch?v=urRefZ0KnU4
+youtube_stats:
+  view_count: 273
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

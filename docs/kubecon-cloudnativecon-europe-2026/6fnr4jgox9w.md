@@ -11,6 +11,10 @@ description:
   He introduces the Conveyor community’s approach, which centers on a static code
   anal...
 resource: https://www.youtube.com/watch?v=6FNR4jGox9w
+youtube_stats:
+  view_count: 137
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

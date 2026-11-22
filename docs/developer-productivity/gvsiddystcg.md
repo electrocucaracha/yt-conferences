@@ -8,6 +8,10 @@ description:
   and code quality in software development. They emphasize that organization, team
   familiarity with the code, and human factors are crucial aspects of code complexity...
 resource: https://www.youtube.com/watch?v=gvsIddYsTcg
+youtube_stats:
+  view_count: 29009
+  like_count: 136
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

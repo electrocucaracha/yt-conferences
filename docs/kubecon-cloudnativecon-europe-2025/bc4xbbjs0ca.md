@@ -10,6 +10,10 @@ description:
   talk on recent updates in Keycloak, a popular identity and access management platform.
   The first part focused on security future support, introducing the Tro proje...
 resource: https://www.youtube.com/watch?v=bC4xbBJs0CA
+youtube_stats:
+  view_count: 540
+  like_count: 13
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Casey and Vyas from OpenAI’s agent security team present a defense-in-depth strategy for securing internal agent deployments, emphasizing that agents must be constrained to prevent the "lethal trif...'
 resource: "https://www.youtube.com/watch?v=Zozjsr2j1pM"
+youtube_stats:
+  view_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

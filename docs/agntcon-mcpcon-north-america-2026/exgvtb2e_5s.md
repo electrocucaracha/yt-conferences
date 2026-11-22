@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Charlie presents a detailed overview of the Rust EXT Review Toolkit, a plugin for coding agents like Claude Code designed to analyze mixed Python and Rust projects."
 resource: "https://www.youtube.com/watch?v=EXGVtB2E_5s"
+youtube_stats:
+  view_count: 9
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -11,6 +11,10 @@ description:
   networking components, APIs, and subprojects, especially as they relate to AI and
   ma...
 resource: https://www.youtube.com/watch?v=DO1PVnly9cU
+youtube_stats:
+  view_count: 202
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

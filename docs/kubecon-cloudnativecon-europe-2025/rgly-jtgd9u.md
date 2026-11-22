@@ -10,6 +10,10 @@ description:
   project that monitors infrastructure for security events by installing it on clusters,
   nodes, and containerized environments. Falco uses simple rules based on Linux sys...
 resource: https://www.youtube.com/watch?v=RGLy_JtGD9U
+youtube_stats:
+  view_count: 51
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

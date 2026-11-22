@@ -11,6 +11,10 @@ description:
   creator of Linkerd, and co-chair of the Deaf and Heart of Hearing Working Group.
   The pan...
 resource: https://www.youtube.com/watch?v=1rgZPi2dTvE
+youtube_stats:
+  view_count: 126
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

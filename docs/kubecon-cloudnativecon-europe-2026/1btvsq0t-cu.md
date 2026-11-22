@@ -8,6 +8,10 @@ description:
   journey toward the upcoming StreamZ 1.0 release, highlighting its eight-year development
   and the contributions of over 300 collaborators. The 1.0 release, planned for Ap...
 resource: https://www.youtube.com/watch?v=1BtVSQ0t-CU
+youtube_stats:
+  view_count: 309
+  like_count: 12
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

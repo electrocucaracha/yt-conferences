@@ -9,6 +9,10 @@ description:
   and open-source contributions. The conversation covers topics such as how to get
   starte...
 resource: https://www.youtube.com/watch?v=syV-QGZDmWU
+youtube_stats:
+  view_count: 130
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

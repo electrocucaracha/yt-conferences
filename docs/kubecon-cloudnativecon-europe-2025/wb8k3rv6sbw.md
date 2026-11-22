@@ -9,6 +9,10 @@ description:
   chapter in 2022. The CNCJ has successfully organized upstream training, meetups,
   a...
 resource: https://www.youtube.com/watch?v=wb8K3RV6Sbw
+youtube_stats:
+  view_count: 123
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

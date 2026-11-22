@@ -10,6 +10,10 @@ description:
   Cube, Volcano, and KQ. The speakers provide an overview of each scheduler's history,
   features, and performance. They highlight the limitations of the default Kube..."
 resource: https://www.youtube.com/watch?v=njT5r3JjIaA
+youtube_stats:
+  view_count: 2264
+  like_count: 26
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

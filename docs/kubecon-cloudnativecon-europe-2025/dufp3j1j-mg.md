@@ -9,6 +9,10 @@ description:
   with regards to GPU-accelerated workloads. They encountered several challenges,
   including...
 resource: https://www.youtube.com/watch?v=dUfp3j1j-mg
+youtube_stats:
+  view_count: 559
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

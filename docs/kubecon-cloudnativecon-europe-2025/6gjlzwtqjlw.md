@@ -11,6 +11,10 @@ description:
   Native Computing Foundation (CNCF) incubating project that allows users to practice
   Kube...
 resource: https://www.youtube.com/watch?v=6GjLzWtqjlw
+youtube_stats:
+  view_count: 137
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

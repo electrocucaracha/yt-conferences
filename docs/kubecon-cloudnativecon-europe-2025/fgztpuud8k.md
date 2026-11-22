@@ -10,6 +10,10 @@ description:
   two projects aimed at simplifying the development process by abstracting away complexity
   from developers. Dapper provides a set of APIs and SDKs that enable develop.
 resource: https://www.youtube.com/watch?v=-fGztPUuD8k
+youtube_stats:
+  view_count: 626
+  like_count: 16
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

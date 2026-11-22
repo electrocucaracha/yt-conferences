@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Matt Mayborn from Safe Software presents a solution for the "hard 20%" of data integration challenges, where MCP standardizes tool discovery but fails to address governed execution for sensitive, o...'
 resource: "https://www.youtube.com/watch?v=v1FKGB05h48"
+youtube_stats:
+  view_count: 3
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

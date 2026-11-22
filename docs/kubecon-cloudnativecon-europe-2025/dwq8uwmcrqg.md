@@ -10,6 +10,10 @@ description:
   a platform and community called "Nice" that has transformed the way the government
   delivers services. The idea for Nice began at Cubec Con in Berlin 8 years ago, when...
 resource: https://www.youtube.com/watch?v=DWq8UWmcRQg
+youtube_stats:
+  view_count: 1776
+  like_count: 35
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

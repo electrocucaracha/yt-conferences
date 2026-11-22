@@ -11,6 +11,10 @@ description:
   analysis rules to flag code locations for fixing in applications, making it easier
   to mig...
 resource: https://www.youtube.com/watch?v=wO1bWs_LD8w
+youtube_stats:
+  view_count: 151
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

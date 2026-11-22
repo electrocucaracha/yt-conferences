@@ -9,6 +9,10 @@ description:
   a sidecar is a pattern where a container runs alongside an application container,
   sharing.
 resource: https://www.youtube.com/watch?v=lVWUCUt6ZM8
+youtube_stats:
+  view_count: 286
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

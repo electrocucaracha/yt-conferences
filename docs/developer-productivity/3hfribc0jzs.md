@@ -10,6 +10,10 @@ description:
   her, causing her to abandon the task. She then had to troubleshoot an issue that
   took an hour to resolve. After returning to her task, she realized that the req...
 resource: https://www.youtube.com/watch?v=3HFRiBc0JZs
+youtube_stats:
+  view_count: 9275
+  like_count: 1221
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

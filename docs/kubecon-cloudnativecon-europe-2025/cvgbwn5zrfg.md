@@ -8,6 +8,10 @@ description:
   in securing AI agents. He showcases an example of building a chatbot using generative
   AI from OpenAI, which can reason about tasks and make decisions autonomously...
 resource: https://www.youtube.com/watch?v=CvGbwn5ZrFg
+youtube_stats:
+  view_count: 1932
+  like_count: 52
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

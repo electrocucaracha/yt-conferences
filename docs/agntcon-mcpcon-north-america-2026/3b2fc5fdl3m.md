@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "This workshop demonstrates how to build and manage a local AI agent application using Docker Compose, Python, and the Pydantic AI framework."
 resource: "https://www.youtube.com/watch?v=3b2FC5FdL3M"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

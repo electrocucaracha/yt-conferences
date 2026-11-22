@@ -10,6 +10,10 @@ description:
   project's progress, focusing on stabilization efforts and key component improvements.
   They discussed the organization of the collector across three main repositories—co...
 resource: https://www.youtube.com/watch?v=0zwLl8QGOdM
+youtube_stats:
+  view_count: 193
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

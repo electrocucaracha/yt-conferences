@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "The video transcript captures the opening remarks of the 2025 AI Day at KubeCon, hosted by Ricardo from CERN, Yan from Red Hat, and Rajas."
 resource: "https://www.youtube.com/watch?v=IwlN9LwL97s"
+youtube_stats:
+  view_count: 332
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

@@ -10,6 +10,10 @@ description:
   explains that Podman is a single-node, rootless, and daemonless container engine
   with Docker-compatible interfaces, but not intended as a Kubernetes runtime. Initially...
 resource: https://www.youtube.com/watch?v=05wBWDa8W-g
+youtube_stats:
+  view_count: 1434
+  like_count: 25
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Ariel argues that post-training is no longer exclusive to AI labs because new tools allow developers to generate realistic enterprise data for benchmarking and training agents."
 resource: "https://www.youtube.com/watch?v=ff5o3F_SKO0"
+youtube_stats:
+  view_count: 19
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Giovanni, a developer advocate at Amazon, presents "PortHole," an open-source tool designed to facilitate collaboration between humans and AI agents when developing and testing TV applications.'
 resource: "https://www.youtube.com/watch?v=D2Z0CtN1vZo"
+youtube_stats:
+  view_count: 3
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

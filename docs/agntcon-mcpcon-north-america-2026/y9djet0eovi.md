@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Ethan and Jason from Adaptive Security presented two distinct AI agent deployments at Agent Conf, highlighting that both wide-scale internal enablement and deep product-specific pipelines require r..."
 resource: "https://www.youtube.com/watch?v=y9dJET0EOvI"
+youtube_stats:
+  view_count: 54
+  like_count: 7
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

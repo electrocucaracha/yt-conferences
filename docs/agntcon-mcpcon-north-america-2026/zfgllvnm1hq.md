@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Jake, who leads membership development at the Agentic AI Foundation (AIF), explains the foundation’s governance structure, which includes a governing board, a technical committee, and various worki..."
 resource: "https://www.youtube.com/watch?v=zFGLlvNm1HQ"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

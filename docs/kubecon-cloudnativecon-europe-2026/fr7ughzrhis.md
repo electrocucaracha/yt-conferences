@@ -9,6 +9,9 @@ description:
   outlines the format: the first talk, focused on the project landscape, will last
   15 min..."
 resource: https://www.youtube.com/watch?v=fr7uGHZrHIs
+youtube_stats:
+  view_count: 86
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

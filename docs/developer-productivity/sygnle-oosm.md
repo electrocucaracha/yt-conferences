@@ -9,6 +9,10 @@ description:
   approach to writing code. Drawing analogies between traveling and coding, the speaker
   h...
 resource: https://www.youtube.com/watch?v=syGnlE_oosM
+youtube_stats:
+  view_count: 124323
+  like_count: 774
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

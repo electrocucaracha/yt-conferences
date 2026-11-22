@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Lin Sun and Christian Posta from Solo.io led an interactive workshop at AgentCon, introducing the Agent Gateway project as a specialized proxy for mediating traffic between AI agents, MCP servers, ..."
 resource: "https://www.youtube.com/watch?v=US_aAT7-mUE"
+youtube_stats:
+  view_count: 8
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

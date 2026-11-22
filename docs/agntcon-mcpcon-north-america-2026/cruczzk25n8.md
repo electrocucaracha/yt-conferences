@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker from a global open-source middleware company discusses the critical challenges of deploying AI agents into production, emphasizing that their probabilistic nature and ability to execute..."
 resource: "https://www.youtube.com/watch?v=CrucZZk25n8"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

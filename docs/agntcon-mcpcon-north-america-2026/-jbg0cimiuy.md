@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Daryl Miller and Luca present an overview of the A2A protocol, focusing on its extensibility through custom data models, operations, and protocol bindings."
 resource: "https://www.youtube.com/watch?v=-jBG0cIMiuY"
+youtube_stats:
+  view_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

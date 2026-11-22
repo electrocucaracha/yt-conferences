@@ -9,6 +9,10 @@ description:
   argue that software engineers are not yet truly engineers, citing examples such
   a...
 resource: https://www.youtube.com/watch?v=_TnWe9z6xkE
+youtube_stats:
+  view_count: 4046
+  like_count: 32
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

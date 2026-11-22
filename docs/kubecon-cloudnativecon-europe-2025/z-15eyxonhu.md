@@ -11,6 +11,10 @@ description:
   and specialized devices. The group has made significant progress, including the
   intro...
 resource: https://www.youtube.com/watch?v=Z_15EyXOnhU
+youtube_stats:
+  view_count: 712
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,10 @@ description:
   Tinkerbell as a Kubernetes-native bare metal provisioning engine designed to simplify
   and modernize the process of provisioning physical hardware. Unlike older techno...
 resource: https://www.youtube.com/watch?v=DvsMNlrOxcM
+youtube_stats:
+  view_count: 419
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

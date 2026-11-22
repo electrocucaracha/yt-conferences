@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: Alexa Griffith and Tessa Fam from Bloomberg’s AI inference team presented how KServe is evolving to support the next generation of generative AI workloads.
 resource: "https://www.youtube.com/watch?v=ngz-ZlvtZNs"
+youtube_stats:
+  view_count: 1544
+  like_count: 143
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

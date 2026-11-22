@@ -11,6 +11,10 @@ description:
   like MongoDB Atlas. They explain that traditional operator patterns, which often
   inv...
 resource: https://www.youtube.com/watch?v=2_nbkiI_UJU
+youtube_stats:
+  view_count: 198
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

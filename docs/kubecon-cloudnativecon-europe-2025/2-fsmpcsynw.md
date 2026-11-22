@@ -8,6 +8,10 @@ description:
   Team Tabs and Team Spaces, compete to guess the most popular responses from a survey
   of Kubernetes contributors. The teams are led by Tim Hawin and consist of expert...
 resource: https://www.youtube.com/watch?v=2-fSMpCSYnw
+youtube_stats:
+  view_count: 158
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

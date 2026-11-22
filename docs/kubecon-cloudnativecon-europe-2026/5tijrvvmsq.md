@@ -10,6 +10,10 @@ description:
   and future plans for Kubernetes scheduling, focusing on the transition from pod-based
   to pod group (gang) scheduling. They explained the architecture of the schedule...
 resource: https://www.youtube.com/watch?v=-5TIJrVvmsQ
+youtube_stats:
+  view_count: 313
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

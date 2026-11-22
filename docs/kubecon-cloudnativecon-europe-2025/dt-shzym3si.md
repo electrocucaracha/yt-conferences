@@ -10,6 +10,9 @@ description:
   chain security concerns, such as ensuring artifacts come from trusted sources and
   remain unaltered. It provides standard-based solutions and tools, including support...
 resource: https://www.youtube.com/watch?v=dT-ShZYM3SI
+youtube_stats:
+  view_count: 72
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

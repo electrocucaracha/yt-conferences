@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker presents Mycelium, an open-source project developed by Outshift to facilitate peer-to-peer agent collaboration, distinct from traditional orchestrator-sub-agent models."
 resource: "https://www.youtube.com/watch?v=lJVWCQt7Tho"
+youtube_stats:
+  view_count: 22
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

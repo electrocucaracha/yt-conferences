@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Viraj, a Senior Engineering Manager at Endor Labs, presents a talk on the security vulnerabilities inherent in agentic Software Development Life Cycle (SDLC) flows, where AI agents handle coding, r..."
 resource: "https://www.youtube.com/watch?v=XFCG5nXfvBQ"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

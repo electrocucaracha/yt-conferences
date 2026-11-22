@@ -10,6 +10,10 @@ description:
   the challenges of protecting sensitive data when using AI and large language models
   (LLMs) in Kubernetes environments, particularly the risks of unintentionally exposing...
 resource: https://www.youtube.com/watch?v=mkAaguXm1ag
+youtube_stats:
+  view_count: 261
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

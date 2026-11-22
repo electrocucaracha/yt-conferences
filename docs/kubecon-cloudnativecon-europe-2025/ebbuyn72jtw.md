@@ -11,6 +11,10 @@ description:
   concept of authorization as a workflow issue, rather than just a security problem,
   and pro...
 resource: https://www.youtube.com/watch?v=EBbuyn72jtw
+youtube_stats:
+  view_count: 346
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

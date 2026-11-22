@@ -11,6 +11,10 @@ description:
   Hub contain secrets, with 60% of these secrets being leaked before 2024. The most
   com...
 resource: https://www.youtube.com/watch?v=2r92tTuFYg8
+youtube_stats:
+  view_count: 200
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

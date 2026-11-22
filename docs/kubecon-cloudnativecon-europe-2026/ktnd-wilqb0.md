@@ -10,6 +10,10 @@ description:
   large language model (LM) inference at scale, particularly focusing on prefill-decode
   (PD) disaggregation. He explains that traditional Kubernetes deployments stru...
 resource: https://www.youtube.com/watch?v=KtnD-wILqb0
+youtube_stats:
+  view_count: 524
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

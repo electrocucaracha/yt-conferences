@@ -8,6 +8,10 @@ description:
   particularly in product development. They share their personal experience of trying
   to write a book, but instead decided to test ideas through experiments such as creati...
 resource: https://www.youtube.com/watch?v=9UCww7mxOio
+youtube_stats:
+  view_count: 2084
+  like_count: 46
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

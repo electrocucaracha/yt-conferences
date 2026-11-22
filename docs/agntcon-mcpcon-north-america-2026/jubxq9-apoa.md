@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Jinjaipou and Luca from Google present a framework for discovering and verifying Agentic AI resources, addressing the scalability issues of manual installation and trust verification."
 resource: "https://www.youtube.com/watch?v=JUBXq9-apOA"
+youtube_stats:
+  view_count: 7
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

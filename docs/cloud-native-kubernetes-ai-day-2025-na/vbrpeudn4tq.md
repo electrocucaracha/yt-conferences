@@ -10,6 +10,10 @@ description:
   Queserve (Queso), a distributed, scalable, and standardized model inference platform
   for Kubernetes, supporting both generative and predictive AI workloads. They tra...
 resource: https://www.youtube.com/watch?v=vbRpeUDN4TQ
+youtube_stats:
+  view_count: 1087
+  like_count: 23
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

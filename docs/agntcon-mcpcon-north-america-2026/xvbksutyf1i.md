@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Manic, CTO and co-founder of the Agentic AI Foundation, argues that the critical infrastructure for AI agents—referred to as "plumbing"—requires neutral governance to prevent single-vendor capture.'
 resource: "https://www.youtube.com/watch?v=xVbKsutYF1I"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   introduce a Kubernetes-native, open-source solution called Auger to address pain
   points in PHOPS (presumably "FinOps" or cost optimization) within Kubernetes environment.
 resource: https://www.youtube.com/watch?v=65TRuI5hvn4
+youtube_stats:
+  view_count: 207
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

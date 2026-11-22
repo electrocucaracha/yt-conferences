@@ -10,6 +10,10 @@ description:
   of Kubernetes networking with a focus on pod-to-pod communication and packet tracing
   within a cluster. He explains that while Kubernetes abstracts much of the networkin...
 resource: https://www.youtube.com/watch?v=fj5UQ0WBmAg
+youtube_stats:
+  view_count: 2533
+  like_count: 80
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

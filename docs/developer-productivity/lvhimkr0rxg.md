@@ -8,6 +8,10 @@ description:
   monitoring production applications, particularly in a Kubernetes environment. They
   showcase Elastic's stack, which includes Logstash, Kibana, Beats, and the Elasticsearch...
 resource: https://www.youtube.com/watch?v=LvhIMkr0rXg
+youtube_stats:
+  view_count: 3480
+  like_count: 61
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

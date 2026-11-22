@@ -9,6 +9,10 @@ description:
   single sentence describes what needs to be done, and then break down that sentence
   into...
 resource: https://www.youtube.com/watch?v=Nbdjzd22Z3A
+youtube_stats:
+  view_count: 4667
+  like_count: 130
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

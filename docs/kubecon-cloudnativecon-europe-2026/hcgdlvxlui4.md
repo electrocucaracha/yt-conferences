@@ -9,6 +9,10 @@ description:
   the unique opportunity to connect with fellow engineers and interact directly with
   the cre...
 resource: https://www.youtube.com/watch?v=HcgdLVxlui4
+youtube_stats:
+  view_count: 1943
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

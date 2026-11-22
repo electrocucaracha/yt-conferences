@@ -11,6 +11,10 @@ description:
   Novous, which is designed to be highly opinionated and enforce GitOps. To avoid
   50...
 resource: https://www.youtube.com/watch?v=weOIwt1lbvI
+youtube_stats:
+  view_count: 776
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

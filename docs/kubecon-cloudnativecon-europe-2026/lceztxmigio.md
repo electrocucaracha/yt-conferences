@@ -10,6 +10,10 @@ description:
   highlighting how the process has shifted from complex, on-premise, and repetitive
   tasks to a much simpler approach enabled by new technologies. He introduces a solut...
 resource: https://www.youtube.com/watch?v=lceZtXmIGio
+youtube_stats:
+  view_count: 89
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

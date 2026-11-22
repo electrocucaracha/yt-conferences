@@ -10,6 +10,10 @@ description:
   the gap between high-performance computing (HPC) and cloud ecosystems through Kubernetes.
   He highlighted the differences in assumptions between HPC and cloud computing.
 resource: https://www.youtube.com/watch?v=QbR908kgk1Y
+youtube_stats:
+  view_count: 322
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

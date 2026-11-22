@@ -11,6 +11,10 @@ description:
   CD. They describe the challenges faced with Jenkins, such as scalability issues,
   plugi...
 resource: https://www.youtube.com/watch?v=g7WXxziISCU
+youtube_stats:
+  view_count: 361
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -9,6 +9,10 @@ description:
   powering much of the world’s internet infrastructure. Nokia develops cloud-native
   telec...
 resource: https://www.youtube.com/watch?v=5LlXOGeN3jE
+youtube_stats:
+  view_count: 344
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

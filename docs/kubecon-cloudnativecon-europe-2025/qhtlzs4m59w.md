@@ -8,6 +8,10 @@ description:
   real problems with technology, often touching various aspects of the tool, including
   contributing to upstream, using it downstream, or being an end-user. The term enco...
 resource: https://www.youtube.com/watch?v=QhTlZs4m59w
+youtube_stats:
+  view_count: 1518
+  like_count: 15
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

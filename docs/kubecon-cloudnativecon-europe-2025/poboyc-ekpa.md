@@ -11,6 +11,10 @@ description:
   project's adoption and growth have been driven by the community, with Google playing
   a...
 resource: https://www.youtube.com/watch?v=poBOYc_EkpA
+youtube_stats:
+  view_count: 320
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

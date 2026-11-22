@@ -8,6 +8,10 @@ description:
   including CVE-98, which is a critical unauthenticated remote code execution vulnerability.
   The project's maintainers have announced plans to transition out of ma...
 resource: https://www.youtube.com/watch?v=zTLbnstVjHc
+youtube_stats:
+  view_count: 859
+  like_count: 18
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

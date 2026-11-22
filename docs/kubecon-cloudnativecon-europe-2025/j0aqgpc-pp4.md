@@ -11,6 +11,10 @@ description:
   (ML) and large language models (LLMs) to improve incident triage and troubleshooting.
   I...
 resource: https://www.youtube.com/watch?v=j0AqGpC_pp4
+youtube_stats:
+  view_count: 2073
+  like_count: 30
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -11,6 +11,10 @@ description:
   risk management. They share their journey, from starting with tutorial policies
   to evolvi...
 resource: https://www.youtube.com/watch?v=OJ1WoQjYAJo
+youtube_stats:
+  view_count: 229
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

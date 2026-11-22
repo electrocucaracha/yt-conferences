@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Stephen Chin, VP of Developer Relations at Neo4j, presents a whimsical case study at Agent Conf San Jose featuring a stormtrooper named TK-404 to illustrate the power of GraphRAG in enterprise know..."
 resource: "https://www.youtube.com/watch?v=ZZBe8DI3Pbw"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

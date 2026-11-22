@@ -9,6 +9,9 @@ description:
   TOC has 11 members, including new additions, and aims to provide a vision for the
   the...
 resource: https://www.youtube.com/watch?v=jUChVGvSB5g
+youtube_stats:
+  view_count: 181
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

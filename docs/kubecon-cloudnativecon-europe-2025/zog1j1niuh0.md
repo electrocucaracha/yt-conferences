@@ -10,6 +10,10 @@ description:
   FGA (formerly known as Zanzibar) for authorization and access control. They started
   with a small pilot project, focusing on folders and dashboards, and gradually expan...
 resource: https://www.youtube.com/watch?v=ZOG1J1Niuh0
+youtube_stats:
+  view_count: 538
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,10 @@ description:
   can tangibly improve security posture at organizations. He highlights that many
   security programs are based on assumptions and theories rather than evidence, lea...
 resource: https://www.youtube.com/watch?v=jgZAfgDWkOw
+youtube_stats:
+  view_count: 2538
+  like_count: 41
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

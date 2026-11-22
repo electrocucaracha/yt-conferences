@@ -10,6 +10,10 @@ description:
   platform team describe their journey in delivering secure and efficient Kubernetes
   clusters to internal tenants. They explain the bank’s strict regulatory requirements...
 resource: https://www.youtube.com/watch?v=cznwYOK3TtY
+youtube_stats:
+  view_count: 229
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   has developed an AI platform called RunAI, which provides a user-friendly interface
   f...
 resource: https://www.youtube.com/watch?v=FC5TAGsBbRQ
+youtube_stats:
+  view_count: 146
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

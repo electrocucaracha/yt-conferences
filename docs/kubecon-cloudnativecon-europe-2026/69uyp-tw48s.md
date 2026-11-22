@@ -10,6 +10,9 @@ description:
   of the Mishri project, introduces Mishri as a tool designed to simplify and visualize
   Kubernetes and cloud native infrastructure management. He explains that Mishri provi...
 resource: https://www.youtube.com/watch?v=69uYP-TW48s
+youtube_stats:
+  view_count: 152
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

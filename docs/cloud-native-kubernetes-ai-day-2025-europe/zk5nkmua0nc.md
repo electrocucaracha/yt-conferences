@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "This presentation by Donna from CERN and Yan Philip from Nvidia explores the challenges of efficient GPU sharing in high-performance computing environments, specifically addressing the limitations ..."
 resource: "https://www.youtube.com/watch?v=ZK5NKmua0nc"
+youtube_stats:
+  view_count: 273
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

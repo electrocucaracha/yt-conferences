@@ -11,6 +11,10 @@ description:
   With 80 production clusters and 50 microservices per cluster, resource crunch is
   sign...
 resource: https://www.youtube.com/watch?v=QmUVhzdlMII
+youtube_stats:
+  view_count: 211
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,10 @@ description:
   their first few months at Shopify, where they received harsh feedback on their work.
   They realized that great code reviews are both a symptom and a contributing caus...
 resource: https://www.youtube.com/watch?v=ly86Wq_E18o
+youtube_stats:
+  view_count: 34635
+  like_count: 640
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

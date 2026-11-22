@@ -9,6 +9,10 @@ description:
   inaccurate content produced by both humans and AI. They recount the evolution of
   th...
 resource: https://www.youtube.com/watch?v=IoiHI7p12Ao
+youtube_stats:
+  view_count: 8591
+  like_count: 172
+  channel_subscriber_count: 1060000
 tags:
   - aie-code-2025-ai-leadership
   - video

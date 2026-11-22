@@ -7,7 +7,7 @@ type: Video Note
 description: "Vide, a machine learning engineer at The New York Times, explains how the team leveraged Go to streamline machine learning inference pipelines by utilizing interprocess communication via shared mem..."
 resource: "https://www.youtube.com/watch?v=mLGDT2TxPrU"
 youtube_stats:
-  view_count: 1716
+  view_count: 1717
   like_count: 43
   channel_subscriber_count: 41100
 tags:

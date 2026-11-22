@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Shannon Williams and Bill Maxwell from Obot present a hands-on lab focused on securing agentic AI systems by addressing the "lethal trifecta" of risks: access to private data, exposure to untrusted...'
 resource: "https://www.youtube.com/watch?v=3Ke2wRBz3_o"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

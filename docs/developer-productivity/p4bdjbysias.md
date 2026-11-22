@@ -8,6 +8,10 @@ description:
   of technology and behavioral economics on human decision-making, particularly through
   the concept of "digital nudging." Linda reflects on her experiences growing up...
 resource: https://www.youtube.com/watch?v=P4BDJbYSIAs
+youtube_stats:
+  view_count: 14562
+  like_count: 91
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

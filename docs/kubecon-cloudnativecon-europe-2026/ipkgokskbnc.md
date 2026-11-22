@@ -9,6 +9,10 @@ description:
   when moving from pilot projects to production, particularly around security, tenancy,
   obs...
 resource: https://www.youtube.com/watch?v=ipKgoKSkBnc
+youtube_stats:
+  view_count: 855
+  like_count: 33
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

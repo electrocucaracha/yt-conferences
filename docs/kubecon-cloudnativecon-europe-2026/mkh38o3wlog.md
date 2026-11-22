@@ -11,6 +11,10 @@ description:
   GPUs often fail silently and traditional monitoring tools like Nvidia's DCGM only
   provi...
 resource: https://www.youtube.com/watch?v=mkH38O3wLog
+youtube_stats:
+  view_count: 484
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

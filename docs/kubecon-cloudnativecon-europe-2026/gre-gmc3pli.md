@@ -9,6 +9,9 @@ description:
   and restore capabilities for stateful workloads in Kubernetes. The group was formed
   to...
 resource: https://www.youtube.com/watch?v=grE_GMC3PlI
+youtube_stats:
+  view_count: 70
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

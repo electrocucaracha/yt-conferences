@@ -8,6 +8,10 @@ description:
   which will likely remain relevant in 100 years. They argue that iteration, experimentation,
   feedback, and empirical discovery are essential for effective softwar...
 resource: https://www.youtube.com/watch?v=tBw0i2CW0mA
+youtube_stats:
+  view_count: 35368
+  like_count: 194
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

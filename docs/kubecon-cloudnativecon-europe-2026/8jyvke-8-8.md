@@ -11,6 +11,10 @@ description:
   backgrounds and experiences, highlighting that scaling is often driven by increased
   us...
 resource: https://www.youtube.com/watch?v=8JyvkE-8__8
+youtube_stats:
+  view_count: 305
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

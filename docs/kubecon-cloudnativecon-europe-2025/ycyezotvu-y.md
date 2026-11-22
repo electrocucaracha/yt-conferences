@@ -10,6 +10,10 @@ description:
   that aims to simplify and accelerate high-performance AI and machine learning workloads.
   The project focuses on two key trends: resource layer awareness and in..."
 resource: https://www.youtube.com/watch?v=yCyezOTVU_Y
+youtube_stats:
+  view_count: 277
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

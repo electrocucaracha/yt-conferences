@@ -10,6 +10,10 @@ description:
   developers and designers, highlighting the importance of communication, trust, and
   shared goals. He explains how he worked with a designer to improve their collaboration...
 resource: https://www.youtube.com/watch?v=uWIfnPc1wC0
+youtube_stats:
+  view_count: 3614
+  like_count: 72
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -11,6 +11,10 @@ description:
   advocate for identity-based access control using reverse proxies. They explain how
   tools li...
 resource: https://www.youtube.com/watch?v=0tq06AAdKWQ
+youtube_stats:
+  view_count: 198
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

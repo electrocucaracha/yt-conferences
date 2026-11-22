@@ -11,6 +11,10 @@ description:
   agentic AI workloads. They explain how the rise of AI agents, which require complex
   au...
 resource: https://www.youtube.com/watch?v=HvX4nGkhfZw
+youtube_stats:
+  view_count: 290
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -10,6 +10,10 @@ description:
   designed to address the complexities of building and managing platforms across heterogeneous
   environments with multiple providers and administrative domains. They high...
 resource: https://www.youtube.com/watch?v=43X0_U3cc-Y
+youtube_stats:
+  view_count: 180
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

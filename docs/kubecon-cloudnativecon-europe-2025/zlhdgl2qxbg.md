@@ -10,6 +10,10 @@ description:
   They explain that container memory working set bytes is a metric used behind the
   scenes, which is actually computed by CAdvisor inside Kublet. The main culprit beh...
 resource: https://www.youtube.com/watch?v=zLHdgl2qxbg
+youtube_stats:
+  view_count: 336
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

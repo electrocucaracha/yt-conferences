@@ -10,6 +10,10 @@ description:
   Open Lab, has developed an engine for digital twins that serves multiple communities
   and shares resources across different providers. The Interlink project aims to creat...
 resource: https://www.youtube.com/watch?v=bIxw1uK0QRQ
+youtube_stats:
+  view_count: 240
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

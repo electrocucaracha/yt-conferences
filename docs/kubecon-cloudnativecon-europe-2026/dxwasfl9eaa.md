@@ -11,6 +11,10 @@ description:
   requests are routed to model servers. The current system leverages L7 proxies like
   Env...
 resource: https://www.youtube.com/watch?v=DxWAsFl9EAA
+youtube_stats:
+  view_count: 431
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   end-of-life announcement, accumulated technical debt, and the desire for a more
   unified an...
 resource: https://www.youtube.com/watch?v=kIj2U13VZJY
+youtube_stats:
+  view_count: 502
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

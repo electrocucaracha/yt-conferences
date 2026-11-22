@@ -11,6 +11,10 @@ description:
   and interns at Harvard University. He highlights the European public space sector,
   include.
 resource: https://www.youtube.com/watch?v=pvTRjsSXMi0
+youtube_stats:
+  view_count: 160
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

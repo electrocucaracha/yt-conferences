@@ -10,6 +10,10 @@ description:
   CloudNativePG, an open-source operator designed to manage PostgreSQL workloads on
   any supported Kubernetes cluster. He explains that CloudNativePG, a CNCF sandbox...
 resource: https://www.youtube.com/watch?v=Cwz7WAOtr6w
+youtube_stats:
+  view_count: 188
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,9 @@ description:
   club where only authorized entities can access sensitive data. They explain that
   conf...
 resource: https://www.youtube.com/watch?v=3H3n-tZYmlY
+youtube_stats:
+  view_count: 93
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

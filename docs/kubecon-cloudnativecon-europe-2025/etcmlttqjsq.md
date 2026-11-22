@@ -11,6 +11,10 @@ description:
   use. He focuses on storage, specifically enabling secure storage for containers.
   Confi...
 resource: https://www.youtube.com/watch?v=etCmLttqJsQ
+youtube_stats:
+  view_count: 471
+  like_count: 12
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

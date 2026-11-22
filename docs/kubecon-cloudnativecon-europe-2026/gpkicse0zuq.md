@@ -10,6 +10,10 @@ description:
   as businesses grow, acquire other companies, and integrate new technologies, leading
   to increasingly complex and heterogeneous systems. Traditional networking solu...
 resource: https://www.youtube.com/watch?v=gPkiCse0ZUQ
+youtube_stats:
+  view_count: 322
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

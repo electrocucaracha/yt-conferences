@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Roth Mash, CEO of MCP Jam, presents a framework for building, testing, and releasing agent-native software with confidence, arguing that as AI accelerates code generation, the cost of bad code incr..."
 resource: "https://www.youtube.com/watch?v=FmeuQdSLWiI"
+youtube_stats:
+  view_count: 33
+  like_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -11,6 +11,9 @@ description:
   boundaries and best practices. Using the analogy of training his dog to illustrate
   how bound...
 resource: https://www.youtube.com/watch?v=H1g0jnmjJN8
+youtube_stats:
+  view_count: 84
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

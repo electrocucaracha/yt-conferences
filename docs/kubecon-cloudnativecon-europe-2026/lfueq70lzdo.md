@@ -11,6 +11,10 @@ description:
   private cloud infrastructure. They detail the challenges faced when performance
   iss...
 resource: https://www.youtube.com/watch?v=LFuEq70lZdo
+youtube_stats:
+  view_count: 140
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

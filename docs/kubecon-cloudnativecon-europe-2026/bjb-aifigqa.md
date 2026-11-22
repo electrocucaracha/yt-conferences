@@ -10,6 +10,10 @@ description:
   recent updates and features of K Gateway, an Envoy-based Kubernetes gateway API
   that integrates with service meshes and hyperscalers for hybrid connectivity. Major...
 resource: https://www.youtube.com/watch?v=BjB-AIFiGqA
+youtube_stats:
+  view_count: 118
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

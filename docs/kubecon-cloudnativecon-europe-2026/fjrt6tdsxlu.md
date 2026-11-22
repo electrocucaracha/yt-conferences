@@ -10,6 +10,10 @@ description:
   Kit, provided an overview of the group's mission to address the challenges of managing
   and deploying applications across multiple Kubernetes clusters. The presenters d...
 resource: https://www.youtube.com/watch?v=fjRT6tdsXLU
+youtube_stats:
+  view_count: 114
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

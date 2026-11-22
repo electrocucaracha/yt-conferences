@@ -9,6 +9,10 @@ description:
   the other observes and reviews each line. This collaborative approach allows for
   collecti...
 resource: https://www.youtube.com/watch?v=t92iupKHo8M
+youtube_stats:
+  view_count: 8000
+  like_count: 208
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

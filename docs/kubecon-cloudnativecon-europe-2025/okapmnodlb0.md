@@ -10,6 +10,10 @@ description:
   highlighting its benefits in performance, efficiency, and language interoperability.
   JRPC offers support for multiple languages, including C++, Java, Go, Python, an...
 resource: https://www.youtube.com/watch?v=okapmNodLB0
+youtube_stats:
+  view_count: 69
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

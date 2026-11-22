@@ -11,6 +11,10 @@ description:
   and continuous learning. They share nine secrets for achieving this culture, including
   me...
 resource: https://www.youtube.com/watch?v=3tBj3ZCPGJY
+youtube_stats:
+  view_count: 23431
+  like_count: 127
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

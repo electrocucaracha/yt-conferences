@@ -10,6 +10,10 @@ description:
   real-time, fine-grained authorization for API traffic, particularly in complex environments
   where both internal and external resources must be protected. They highlig...
 resource: https://www.youtube.com/watch?v=A1FXOwUmA6M
+youtube_stats:
+  view_count: 118
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

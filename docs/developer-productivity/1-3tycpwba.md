@@ -9,6 +9,10 @@ description:
   solutions, and showing that you respect their ability to solve problems. The pillars
   ar...
 resource: https://www.youtube.com/watch?v=-1_3tyCpWbA
+youtube_stats:
+  view_count: 3089
+  like_count: 36
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

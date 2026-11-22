@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "This hands-on workshop introduces the Agent-to-Agent (A2A) protocol, a standard designed to simplify communication between AI agents by replacing complex, custom REST integrations with a unified, s..."
 resource: "https://www.youtube.com/watch?v=E5r9PfAtw_I"
+youtube_stats:
+  view_count: 14
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

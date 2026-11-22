@@ -10,6 +10,10 @@ description:
   policy engine, highlighting its advanced features for automating platform security
   and operations. Kyverno extends beyond Kubernetes’ built-in admission policies by...
 resource: https://www.youtube.com/watch?v=7YuMvcW5wRA
+youtube_stats:
+  view_count: 254
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

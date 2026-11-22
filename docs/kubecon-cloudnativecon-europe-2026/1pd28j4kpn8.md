@@ -9,6 +9,10 @@ description:
   in software development. He explains that supply chain security involves providing
   det...
 resource: https://www.youtube.com/watch?v=1Pd28J4kpN8
+youtube_stats:
+  view_count: 239
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

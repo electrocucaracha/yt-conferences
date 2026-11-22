@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'The video features a moderated debate on whether the industry is ready for a "headless future," where AI agents increasingly replace human users as the primary consumers of web services.'
 resource: "https://www.youtube.com/watch?v=gEiM4HBtPAU"
+youtube_stats:
+  view_count: 15
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

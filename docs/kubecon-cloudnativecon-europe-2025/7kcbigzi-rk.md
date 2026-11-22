@@ -10,6 +10,10 @@ description:
   in public cloud, with a focus on researcher experience and reliability. The speaker
   explains how they used Kubernetes to manage infrastructure across multiple cloud...
 resource: https://www.youtube.com/watch?v=7KCBigZi_Rk
+youtube_stats:
+  view_count: 1852
+  like_count: 33
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

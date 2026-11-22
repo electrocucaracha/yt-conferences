@@ -10,6 +10,9 @@ description:
   on Kubernetes Day and expresses gratitude to sponsors EDB and A9, volunteers, and
   global ambassadors for their support in organizing the event. She highlights communit...
 resource: https://www.youtube.com/watch?v=JtUqcRRAml4
+youtube_stats:
+  view_count: 87
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

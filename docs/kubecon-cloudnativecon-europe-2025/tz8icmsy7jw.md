@@ -11,6 +11,10 @@ description:
   runtime is an extension of controller runtime, adding a provider concept to enable
   reconcil...
 resource: https://www.youtube.com/watch?v=Tz8IcMSY7jw
+youtube_stats:
+  view_count: 1161
+  like_count: 23
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

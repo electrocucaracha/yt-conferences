@@ -10,6 +10,10 @@ description:
   private bank, describe their 15-year journey modernizing the bank’s infrastructure
   by adopting open source technologies and fostering a collaborative engineering culture...
 resource: https://www.youtube.com/watch?v=K5KVMdQTJc8
+youtube_stats:
+  view_count: 266
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

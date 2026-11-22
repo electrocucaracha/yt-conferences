@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Douwe Osinga, head of the Goose agent at AAIF, argues that the traditional agent loop should be replaced with an agentic state machine to improve reliability, testability, and code readability."
 resource: "https://www.youtube.com/watch?v=Xu_wu17C4b4"
+youtube_stats:
+  view_count: 9
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

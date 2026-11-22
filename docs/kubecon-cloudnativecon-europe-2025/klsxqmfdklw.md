@@ -11,6 +11,9 @@ description:
   deployments, stateful sets, and jobs, addressing issues such as pod disruption budgets,
   r...
 resource: https://www.youtube.com/watch?v=KlsxQMfdKLw
+youtube_stats:
+  view_count: 175
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

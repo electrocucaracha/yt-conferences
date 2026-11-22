@@ -8,6 +8,9 @@ description:
   the importance of the project pavilion, encouraging everyone to visit it as it is
   separate from the vendor booths. Attendees are urged to engage with projects, especially...
 resource: https://www.youtube.com/watch?v=1WELP5EHd2k
+youtube_stats:
+  view_count: 64
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Aaron Parecki, an editor for OAuth 2.1 and a key figure in the MCP OAuth working group, presents a talk on how the Model Context Protocol (MCP) is driving the evolution of OAuth standards to addres..."
 resource: "https://www.youtube.com/watch?v=eSPm7I2bm1M"
+youtube_stats:
+  view_count: 8
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

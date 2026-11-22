@@ -11,6 +11,10 @@ description:
   like Cash App, Cashup blocks, and GitHub to serve millions of queries per second
   out of a...
 resource: https://www.youtube.com/watch?v=ERztKTd-ckA
+youtube_stats:
+  view_count: 99
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

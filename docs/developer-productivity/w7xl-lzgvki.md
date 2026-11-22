@@ -9,6 +9,10 @@ description:
   basically good, want to create value, and work together in a community. It values
   purpos...'
 resource: https://www.youtube.com/watch?v=W7XL_LZgvKI
+youtube_stats:
+  view_count: 4604
+  like_count: 114
+  channel_subscriber_count: 105
 tags:
   - developer-productivity
   - video

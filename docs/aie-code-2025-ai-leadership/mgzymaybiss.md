@@ -11,6 +11,10 @@ description:
   playbook yet and that organizations are collaboratively inventing it in real time.
   Draw...
 resource: https://www.youtube.com/watch?v=MGzymaYBiss
+youtube_stats:
+  view_count: 71187
+  like_count: 1427
+  channel_subscriber_count: 1060000
 tags:
   - aie-code-2025-ai-leadership
   - video

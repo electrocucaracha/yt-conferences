@@ -10,6 +10,10 @@ description:
   Testing), a tool that uses AI-enhanced analysis on codified SRE knowledge to debug
   and triage issues in Kubernetes clusters. The tool allows users to scan their cluster...
 resource: https://www.youtube.com/watch?v=EXtCejkOJB0
+youtube_stats:
+  view_count: 2784
+  like_count: 39
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,10 @@ description:
   who will be discussing debugging Envoy tunnels. She explains that Envoy is an open-source
   edge and service proxy designed for cloud-native applications, focusing on servi...
 resource: https://www.youtube.com/watch?v=vrG5tBDsdd0
+youtube_stats:
+  view_count: 170
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

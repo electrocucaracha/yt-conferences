@@ -11,6 +11,10 @@ description:
   which has now been open sourced and donated to the Neonos Foundation under the Linux
   For.
 resource: https://www.youtube.com/watch?v=hR8hFht9sFA
+youtube_stats:
+  view_count: 369
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

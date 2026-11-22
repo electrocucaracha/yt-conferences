@@ -8,6 +8,10 @@ description:
   with Kubernetes, highlighting the need for security updates to accommodate post-quantum
   cryptography. The experts emphasized that quantum computing won't replace classica...
 resource: https://www.youtube.com/watch?v=OAb54JRIS6M
+youtube_stats:
+  view_count: 178
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

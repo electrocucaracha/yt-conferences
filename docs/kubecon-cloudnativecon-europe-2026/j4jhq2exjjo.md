@@ -11,6 +11,10 @@ description:
   development—such as eBPF and the Psyllium project—to tangible business outcomes.
   Th...
 resource: https://www.youtube.com/watch?v=J4jHq2ExjJo
+youtube_stats:
+  view_count: 151
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

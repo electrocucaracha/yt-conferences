@@ -8,6 +8,10 @@ description:
   song lyrics snippet with no clear connection to a specific topic or event related
   to cloud native technology. Can I help you with something else?.
 resource: https://www.youtube.com/watch?v=rP1I6Cegej4
+youtube_stats:
+  view_count: 10224
+  like_count: 24
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

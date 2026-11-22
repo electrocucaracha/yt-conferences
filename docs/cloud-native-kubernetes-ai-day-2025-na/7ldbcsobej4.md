@@ -11,6 +11,10 @@ description:
   Lambda is an emerging hyperscaler that owns its hardware and infrastructure, running
   both...
 resource: https://www.youtube.com/watch?v=7ldbcSoBEJ4
+youtube_stats:
+  view_count: 144
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

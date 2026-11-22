@@ -10,6 +10,10 @@ description:
   the Kubernetes community, its goals, and its relationship with other SIGs. The goal
   is to facilitate technical architectural decisions while adhering to community values...
 resource: https://www.youtube.com/watch?v=oLZ2EjjKibw
+youtube_stats:
+  view_count: 247
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

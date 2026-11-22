@@ -11,6 +11,10 @@ description:
   modern Envoy Gateway solution. They simplified their ingress system by consolidating
   mul...
 resource: https://www.youtube.com/watch?v=Ea5OuNjpi9M
+youtube_stats:
+  view_count: 248
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

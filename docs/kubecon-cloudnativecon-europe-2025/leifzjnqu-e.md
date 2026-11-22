@@ -10,6 +10,10 @@ description:
   systems, particularly asymmetric cryptography, which could enable "side-channel
   attacks" where attackers can capture encrypted data now and decrypt it later with...
 resource: https://www.youtube.com/watch?v=LEiFzJnqU-E
+youtube_stats:
+  view_count: 260
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

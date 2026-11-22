@@ -8,6 +8,10 @@ description:
   particularly in the Cloud Native Computing Foundation (CNCF). The panelists emphasized
   the importance of creating an inclusive environment that attracts diverse contribu...
 resource: https://www.youtube.com/watch?v=RgzyEc8pPa8
+youtube_stats:
+  view_count: 118
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

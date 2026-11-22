@@ -9,6 +9,10 @@ description:
   their motivations for writing the book, which includes showcasing the developer
   experien...
 resource: https://www.youtube.com/watch?v=j0h7wu7gjoU
+youtube_stats:
+  view_count: 1119
+  like_count: 16
+  channel_subscriber_count: 105
 tags:
   - developer-productivity
   - video

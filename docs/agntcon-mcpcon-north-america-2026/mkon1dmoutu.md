@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker discusses how AI agents amplify existing organizational strengths and weaknesses, highlighting that enterprises often lack the engineering foundations necessary to leverage these tools ..."
 resource: "https://www.youtube.com/watch?v=mkoN1DMoUTU"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

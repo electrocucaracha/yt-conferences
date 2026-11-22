@@ -8,6 +8,10 @@ description:
   experience with Wom Whiplash Womcloud's Wild Ride to Standards, a project that aimed
   to simplify cloud-native microservices development using WebAssembly. The team face...
 resource: https://www.youtube.com/watch?v=lrA6gOpLWMw
+youtube_stats:
+  view_count: 350
+  like_count: 15
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

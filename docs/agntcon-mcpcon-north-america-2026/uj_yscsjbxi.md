@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Alberic, a founding identity engineer at Run Layer, presents a technical overview of the transition from Dynamic Client Registration (DCR) to Client ID Metadata Documents (CIMD) within the Model Co..."
 resource: "https://www.youtube.com/watch?v=uJ_YscSjBXI"
+youtube_stats:
+  view_count: 33
+  like_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

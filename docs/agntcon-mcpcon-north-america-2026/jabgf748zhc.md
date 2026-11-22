@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Shane, VP of Engineering at Solo.io, presents Agent Gateway as an AI-native solution to address the challenge of tracking and controlling LLM token consumption."
 resource: "https://www.youtube.com/watch?v=jABgf748zHc"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   emphasizing the need for better logging standards due to the inefficiency and noise
   of traditional, unstructured logs. He explains that OpenTelemetry now treats log...
 resource: https://www.youtube.com/watch?v=aoEe2FDnnDk
+youtube_stats:
+  view_count: 431
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

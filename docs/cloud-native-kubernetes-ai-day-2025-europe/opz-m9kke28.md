@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "This presentation introduces a solution for managing cloud-native large language model (LLM) workloads across edge and cloud environments using the Wasmage runtime and the Kubedge project."
 resource: "https://www.youtube.com/watch?v=opz-m9KKE28"
+youtube_stats:
+  view_count: 254
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

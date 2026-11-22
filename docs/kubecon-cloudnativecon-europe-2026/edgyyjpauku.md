@@ -11,6 +11,9 @@ description:
   running AI and ML workloads on Kubernetes platforms. Recognizing that traditional
   Ku...
 resource: https://www.youtube.com/watch?v=EdgyyJpauKU
+youtube_stats:
+  view_count: 108
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

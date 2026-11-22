@@ -8,6 +8,10 @@ description:
   ISTO (ISTO Service Mesh Technology Overview) instead of the originally planned title.
   He explains that ISTO is a service mesh with three primary functions: managing conne..."
 resource: https://www.youtube.com/watch?v=B7lpXPZPFoI
+youtube_stats:
+  view_count: 144
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

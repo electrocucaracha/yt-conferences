@@ -10,6 +10,10 @@ description:
   for Kserve, introduces Kserve as a standardized, distributed, and scalable model
   inference platform on Kubernetes, supporting both predictive and generative AI workloa...
 resource: https://www.youtube.com/watch?v=kE6lNBA56vM
+youtube_stats:
+  view_count: 671
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

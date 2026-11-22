@@ -10,6 +10,10 @@ description:
   operating system as one that limits user actions based on known workload to enhance
   security and reduce attack surfaces. Over the past 12 months, the Chyros t...
 resource: https://www.youtube.com/watch?v=PvKCzFaP3gM
+youtube_stats:
+  view_count: 76
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

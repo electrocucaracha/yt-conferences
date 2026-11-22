@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Sydney Runckel, a product manager at LangChain, explains how decision models, such as Jev from Type-Safe AI, are transforming agent development by offering structured, fast, and cost-effective alte..."
 resource: "https://www.youtube.com/watch?v=DilEiawSCjM"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

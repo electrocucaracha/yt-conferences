@@ -10,6 +10,10 @@ description:
   Skyscanner’s journey to improve the efficiency of their service mesh architecture.
   Initially, Skyscanner operated with multiple AWS clusters connected via Istio, using...
 resource: https://www.youtube.com/watch?v=2ZvvGdHfknM
+youtube_stats:
+  view_count: 156
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

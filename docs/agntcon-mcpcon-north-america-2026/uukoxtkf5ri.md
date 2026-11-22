@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Dakota Fabro, a software engineer at Block, presents a framework for evaluating AI collaboration that shifts focus from measuring tools to assessing the human user’s cognitive engagement."
 resource: "https://www.youtube.com/watch?v=uUKOXTKf5RI"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

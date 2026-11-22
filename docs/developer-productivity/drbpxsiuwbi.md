@@ -11,6 +11,10 @@ description:
   that are still relevant today, including the need to draw more diagrams, focus on
   fundamen...
 resource: https://www.youtube.com/watch?v=DrBPXSiUWbI
+youtube_stats:
+  view_count: 14651
+  like_count: 376
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

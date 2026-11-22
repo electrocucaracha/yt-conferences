@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Dawn Song, a computer science professor at UC Berkeley, presents a framework for building safe and secure agentic AI by addressing the critical cybersecurity risks posed by rapidly advancing fronti..."
 resource: "https://www.youtube.com/watch?v=zUle9hrkafQ"
+youtube_stats:
+  view_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

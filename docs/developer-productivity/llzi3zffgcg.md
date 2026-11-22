@@ -11,6 +11,10 @@ description:
   properties. He noted that as teams grow, coordination overhead increases, leading
   to m...
 resource: https://www.youtube.com/watch?v=lLzI3zfFgCg
+youtube_stats:
+  view_count: 5069
+  like_count: 81
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

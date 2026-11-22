@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The Agent Conf MCP North America conference welcomes over 4,200 attendees from more than 1,500 companies, marking its largest event to date with a program featuring over 200 speakers sharing produc..."
 resource: "https://www.youtube.com/watch?v=IxUZWZHzZjQ"
+youtube_stats:
+  view_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Nina Indukwe, Developer Relations Lead at Coda, presents "Policy Nym," an open-source MCP server and CLI tool designed to implement a "shift-left" approach in AI coding by injecting engineering pol...'
 resource: "https://www.youtube.com/watch?v=7exa4ZcZM_c"
+youtube_stats:
+  view_count: 10
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

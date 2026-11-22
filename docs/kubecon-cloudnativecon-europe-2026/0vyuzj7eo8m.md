@@ -11,6 +11,10 @@ description:
   supports heterogeneous devices. As AI workloads have evolved, especially with the
   rise o...
 resource: https://www.youtube.com/watch?v=0vYUzJ7eO8M
+youtube_stats:
+  view_count: 389
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

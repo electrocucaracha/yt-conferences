@@ -10,6 +10,10 @@ description:
   atop the Envoy Gateway to address AI-specific challenges such as extracting model
   names from.
 resource: https://www.youtube.com/watch?v=7OkSrMBirmc
+youtube_stats:
+  view_count: 323
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

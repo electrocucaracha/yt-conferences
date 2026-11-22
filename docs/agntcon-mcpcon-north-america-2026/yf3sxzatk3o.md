@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Austin Parker, a co-founder of OpenTelemetry and former Director of AI Strategy at Honeycomb, shares key lessons on building observability for their MCP server, noting that over 60% of weekly activ..."
 resource: "https://www.youtube.com/watch?v=YF3SxZAtK3o"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

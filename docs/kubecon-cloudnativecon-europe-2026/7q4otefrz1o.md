@@ -11,6 +11,10 @@ description:
   focusing on secure single sign-on (SSO) and resource access delegation via OpenID
   Conn...
 resource: https://www.youtube.com/watch?v=7q4oTEfrz1o
+youtube_stats:
+  view_count: 113
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

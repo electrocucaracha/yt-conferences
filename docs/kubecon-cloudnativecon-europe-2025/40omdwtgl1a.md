@@ -10,6 +10,10 @@ description:
   used to ensure software is tested with final hardware or a subset of it in a lab
   setting. They introduce the project "Yams Arthur," which aims to enable open-source...
 resource: https://www.youtube.com/watch?v=40OmDwTgl1A
+youtube_stats:
+  view_count: 275
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

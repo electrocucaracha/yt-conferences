@@ -8,6 +8,10 @@ description:
   September 2024. The new release (V0.51 in beta) introduces a plug-in system, allowing
   loading of external plugins, supporting more data sources than Prometheus and Tem...
 resource: https://www.youtube.com/watch?v=81SMpKgJb3k
+youtube_stats:
+  view_count: 185
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

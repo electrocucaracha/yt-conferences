@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker from AWS’s Hydra team introduces the concept of universal properties as a new paradigm for ensuring correctness in agent-written software."
 resource: "https://www.youtube.com/watch?v=fbse-wWIjGQ"
+youtube_stats:
+  view_count: 7
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

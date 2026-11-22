@@ -11,6 +11,10 @@ description:
   to CPUs and the need for efficient resource allocation. To address this, the speaker
   intr...
 resource: https://www.youtube.com/watch?v=LGOELO-ah30
+youtube_stats:
+  view_count: 195
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

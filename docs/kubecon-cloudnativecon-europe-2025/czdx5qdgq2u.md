@@ -11,6 +11,10 @@ description:
   using Kubernetes. They introduced the concept of data prep-processing workflows,
   w...
 resource: https://www.youtube.com/watch?v=CzdX5qDgQ2U
+youtube_stats:
+  view_count: 275
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -9,6 +9,10 @@ description:
   technical boards, as well as opportunities for collaboration, contribution, and
   learning...
 resource: https://www.youtube.com/watch?v=K3edF36HWYU
+youtube_stats:
+  view_count: 360
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

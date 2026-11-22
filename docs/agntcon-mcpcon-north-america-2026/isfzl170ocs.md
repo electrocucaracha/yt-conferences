@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Steve Lee, lead of the Spiral organization within Block Inc., presented the evolution of the Goose agent and the upcoming Goose Development Kit (GDK)."
 resource: "https://www.youtube.com/watch?v=ISFzl170ocs"
+youtube_stats:
+  view_count: 8
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   the CNCF Tag Workloads Foundation, its mission, structure, and activities. They
   explain that a TAG (Technical Advisory Group) is an official CNCF body that supports...
 resource: https://www.youtube.com/watch?v=1uaXpZnfcAA
+youtube_stats:
+  view_count: 41
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

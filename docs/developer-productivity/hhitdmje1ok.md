@@ -8,6 +8,10 @@ description:
   experience working with bioinformatics researchers in Australia to visualize their
   system. She realized that visualizing systems is crucial for accessibility, scalability...
 resource: https://www.youtube.com/watch?v=HHitdmje1ok
+youtube_stats:
+  view_count: 3153
+  like_count: 68
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

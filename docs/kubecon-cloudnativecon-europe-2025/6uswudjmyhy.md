@@ -10,6 +10,10 @@ description:
   an open-source project for building event-driven systems. The security features
   include transport encryption via TLS, authentication via OpenID Connect, and author...
 resource: https://www.youtube.com/watch?v=6usWUdJMyHY
+youtube_stats:
+  view_count: 160
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

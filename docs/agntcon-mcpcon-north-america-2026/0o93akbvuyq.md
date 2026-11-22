@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "This presentation discusses the challenges of using AI agents to analyze unstructured data, such as video and sensor logs, stored in object storage systems like S3."
 resource: "https://www.youtube.com/watch?v=0o93aKBvuYQ"
+youtube_stats:
+  view_count: 269
+  like_count: 3
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

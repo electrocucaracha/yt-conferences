@@ -10,6 +10,10 @@ description:
   builders within organizations to work faster, safer, and more efficiently, emphasizing
   that true system optimization requires focusing on the primary bottleneck that l...
 resource: https://www.youtube.com/watch?v=8t0-5cvvMGM
+youtube_stats:
+  view_count: 1087
+  like_count: 17
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

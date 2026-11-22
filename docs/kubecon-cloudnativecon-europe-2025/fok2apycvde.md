@@ -10,6 +10,10 @@ description:
   scanner project from its inception in 2021 to reaching incubation status this year.
   Initially focused on scanning cluster resources against security frameworks, they...
 resource: https://www.youtube.com/watch?v=fok2apYcVdE
+youtube_stats:
+  view_count: 54
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

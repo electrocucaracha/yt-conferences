@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Andrew Baker, a developer at Temporal, presents a talk on building resilient browser agents by treating websites as downstream services rather than direct user interfaces."
 resource: "https://www.youtube.com/watch?v=UnVtvB6OMcM"
+youtube_stats:
+  view_count: 9
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

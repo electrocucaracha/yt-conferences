@@ -10,6 +10,10 @@ description:
   tooling discipline for verifying system behavior. It builds upon continuous integration
   (CI) and continuous delivery (CD), aiming to ensure systems deliver business...
 resource: https://www.youtube.com/watch?v=GeNunR7KB-Y
+youtube_stats:
+  view_count: 3800
+  like_count: 55
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

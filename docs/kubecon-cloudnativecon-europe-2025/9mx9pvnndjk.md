@@ -11,6 +11,10 @@ description:
   secrets from a secure vault and creating Kubernetes secret objects for use by workloads.
   E...
 resource: https://www.youtube.com/watch?v=9mX9PvNNDjk
+youtube_stats:
+  view_count: 150
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

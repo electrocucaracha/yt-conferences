@@ -8,6 +8,10 @@ description:
   a team working on Longhorn, a distributed bar storage solution based on Kubernetes.
   He discusses the project's goals, including promoting Longhorn worldwide, and provides...
 resource: https://www.youtube.com/watch?v=REkSMbRrBU4
+youtube_stats:
+  view_count: 231
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

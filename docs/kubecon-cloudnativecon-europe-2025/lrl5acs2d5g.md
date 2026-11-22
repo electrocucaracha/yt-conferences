@@ -10,6 +10,10 @@ description:
   orchestration tool, Carmada, to efficiently manage thousands of AI training jobs
   across multiple clusters. The system prioritizes workloads based on business urgen...
 resource: https://www.youtube.com/watch?v=LrL5AcS2d5g
+youtube_stats:
+  view_count: 244
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

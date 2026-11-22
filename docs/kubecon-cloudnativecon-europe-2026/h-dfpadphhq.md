@@ -11,6 +11,10 @@ description:
   as AI, ML, and data analytics. The group aims to reduce fragmentation in Kubernetes
   by imp...
 resource: https://www.youtube.com/watch?v=H_dfPaDpHHQ
+youtube_stats:
+  view_count: 83
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

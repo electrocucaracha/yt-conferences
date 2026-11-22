@@ -9,6 +9,10 @@ description:
   but have not yet reached a critical point. These weak signals can be subtle and
   req...
 resource: https://www.youtube.com/watch?v=VNiWLKS4IqQ
+youtube_stats:
+  view_count: 1445
+  like_count: 18
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -10,6 +10,10 @@ description:
   with a focus on improving its performance, security, and usability. The team released
   several new features, including egress rate limiting, federated services, and protoc...
 resource: https://www.youtube.com/watch?v=aYGGnDDGX-Q
+youtube_stats:
+  view_count: 154
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

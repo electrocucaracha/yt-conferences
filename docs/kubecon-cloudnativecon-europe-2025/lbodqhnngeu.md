@@ -10,6 +10,10 @@ description:
   and APIs, has updates on Gateway 1.3, including core support, retry budgets, and
   listener sets. Listener sets allow merging multiple gateways or having a large n...
 resource: https://www.youtube.com/watch?v=lBOdQHNNgEU
+youtube_stats:
+  view_count: 200
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

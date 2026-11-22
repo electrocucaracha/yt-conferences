@@ -11,6 +11,10 @@ description:
   and facilitating the creation of around 3 million sites monthly. Since its inception
   over a...
 resource: https://www.youtube.com/watch?v=2VC22_qHark
+youtube_stats:
+  view_count: 476
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

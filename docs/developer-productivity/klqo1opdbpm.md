@@ -10,6 +10,10 @@ description:
   development over 20 years, from his first experience with JAOO to the current state
   of continuous integration and delivery (CI/CD). He highlights key takeaways, including.
 resource: https://www.youtube.com/watch?v=klqo1oPdbpM
+youtube_stats:
+  view_count: 4804
+  like_count: 80
+  channel_subscriber_count: 105
 tags:
   - developer-productivity
   - video

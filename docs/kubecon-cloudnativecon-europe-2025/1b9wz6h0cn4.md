@@ -10,6 +10,10 @@ description:
   AI agent systems, particularly with the increasing complexity of large language
   models (LLMs) and vector databases. They highlight three broad categories of challenges...
 resource: https://www.youtube.com/watch?v=1B9WZ6H0cn4
+youtube_stats:
+  view_count: 613
+  like_count: 17
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

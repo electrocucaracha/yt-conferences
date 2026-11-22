@@ -8,6 +8,10 @@ description:
   working with distributed teams, lessons learned, and new experiments to adopt inclusive
   practices. She emphasizes the importance of building an inclusive distributed t...
 resource: https://www.youtube.com/watch?v=oCii0KJZRt8
+youtube_stats:
+  view_count: 1301
+  like_count: 22
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

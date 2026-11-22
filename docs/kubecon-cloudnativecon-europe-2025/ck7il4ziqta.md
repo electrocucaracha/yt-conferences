@@ -10,6 +10,10 @@ description:
   KU Edge, a cloud-native edge computing framework designed for edge-cloud collaboration.
   The Kubage community has over 8,000 stars and 2,200 forks on GitHub, with more t...
 resource: https://www.youtube.com/watch?v=CK7Il4ZiqTA
+youtube_stats:
+  view_count: 117
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

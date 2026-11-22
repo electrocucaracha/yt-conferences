@@ -11,6 +11,10 @@ description:
   speaker, David Justice, is joined by Terrence, who explains that they are working
   on build...
 resource: https://www.youtube.com/watch?v=Du0mPGFd7Fc
+youtube_stats:
+  view_count: 140
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

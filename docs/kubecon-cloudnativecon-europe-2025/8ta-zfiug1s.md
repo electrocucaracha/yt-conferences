@@ -11,6 +11,10 @@ description:
   explore how Kubernetes can help adapt to fast changes in the market by providing
   flex...
 resource: https://www.youtube.com/watch?v=8ta_zFiUG1s
+youtube_stats:
+  view_count: 255
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

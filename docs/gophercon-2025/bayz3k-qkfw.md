@@ -7,7 +7,7 @@ type: Video Note
 description: Felix Gazender from Data Dog presents a method for profiling request latency in Go applications using critical path analysis to address the limitations of traditional profiling tools.
 resource: "https://www.youtube.com/watch?v=BayZ3k-QkFw"
 youtube_stats:
-  view_count: 2152
+  view_count: 2156
   like_count: 75
   channel_subscriber_count: 41100
 tags:

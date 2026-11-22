@@ -9,6 +9,10 @@ description:
   providing a platform to stay updated on the latest cloud native and AI trends through
   en...
 resource: https://www.youtube.com/watch?v=q3uBctLa_Sg
+youtube_stats:
+  view_count: 3403
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

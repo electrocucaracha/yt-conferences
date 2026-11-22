@@ -10,6 +10,10 @@ description:
   TSC members, introduce a unified management and control plane for cloud-native robots
   using KubeEdge. They explain that as robotics evolves toward multi-robot collabo...
 resource: https://www.youtube.com/watch?v=e1x5R6dZ-sE
+youtube_stats:
+  view_count: 101
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -10,6 +10,10 @@ description:
   package manager for Kubernetes, with a focus on application portability, determinism,
   and supply chain security. The presenters introduce themselves and outline the sessi...
 resource: https://www.youtube.com/watch?v=BBdrp4KvhEo
+youtube_stats:
+  view_count: 146
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

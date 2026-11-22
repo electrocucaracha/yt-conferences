@@ -8,6 +8,10 @@ description:
   highlighting the recent release of version 2.15, which introduces features such
   as disabling tags for S3 and other storages to enhance garbage collection performance...
 resource: https://www.youtube.com/watch?v=jJVZrXuJZ4Q
+youtube_stats:
+  view_count: 137
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

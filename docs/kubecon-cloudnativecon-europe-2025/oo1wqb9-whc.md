@@ -11,6 +11,10 @@ description:
   easier. By centralizing workload definition in a "Coupellar core," users can deploy
   worklo...
 resource: https://www.youtube.com/watch?v=oo1wqb9_Whc
+youtube_stats:
+  view_count: 116
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

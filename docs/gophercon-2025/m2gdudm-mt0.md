@@ -7,7 +7,7 @@ type: Video Note
 description: "Cameron, the product lead for the Go programming language at Google, presents the Go team’s vision for the future of software engineering, emphasizing that AI and humans share similar needs for pro..."
 resource: "https://www.youtube.com/watch?v=M2gduDM-MT0"
 youtube_stats:
-  view_count: 3564
+  view_count: 3567
   like_count: 123
   channel_subscriber_count: 41100
 tags:

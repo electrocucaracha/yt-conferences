@@ -11,6 +11,10 @@ description:
   This has led to a significant increase in computing power and opportunities for
   innovation...
 resource: https://www.youtube.com/watch?v=fCMuzSAyAGw
+youtube_stats:
+  view_count: 7361
+  like_count: 157
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

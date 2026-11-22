@@ -10,6 +10,10 @@ description:
   to bring the robust practices of software engineering—such as observability, traceability,
   and modular workflows—to the field of security engineering, which often reli...
 resource: https://www.youtube.com/watch?v=l7XdCSNb728
+youtube_stats:
+  view_count: 178
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -10,6 +10,10 @@ description:
   project, to create certificates for a multi-tenant environment in a Kubernetes cluster.
   Initially, Eric used Spiffy and Spir, but faced challenges running it on Ope...
 resource: https://www.youtube.com/watch?v=gWgagjHtnlE
+youtube_stats:
+  view_count: 310
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

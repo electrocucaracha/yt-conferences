@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Jay Mehta, a Principal Solutions Architect, presents a session on harness engineering and the application of the MAST-F framework to improve multi-agent system reliability."
 resource: "https://www.youtube.com/watch?v=6D_xl5Tlr6w"
+youtube_stats:
+  view_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

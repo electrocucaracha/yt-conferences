@@ -10,6 +10,10 @@ description:
   the component model to the Kubernetes scheduler using WebAssembly (WASM). They initially
   encountered challenges with defining their own width and generating bindings of...
 resource: https://www.youtube.com/watch?v=hjbZOBghxYU
+youtube_stats:
+  view_count: 270
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -8,6 +8,9 @@ description:
   in Kubernetes, focusing on improvements to image pulling and authorization mechanisms.
   The first part details changes to how Kubernetes handles private image pu...
 resource: https://www.youtube.com/watch?v=7aRWwlU_ewE
+youtube_stats:
+  view_count: 60
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -10,6 +10,10 @@ description:
   called "Learning Git" aimed at absolute beginners who want to learn version control
   using colors, storytelling, and visuals. The book is designed as a sequential learning...
 resource: https://www.youtube.com/watch?v=ahyF8e9qKBc
+youtube_stats:
+  view_count: 167291
+  like_count: 2412
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

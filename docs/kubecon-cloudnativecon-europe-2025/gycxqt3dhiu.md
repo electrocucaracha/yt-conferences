@@ -10,6 +10,10 @@ description:
   of measuring and improving individual developer performance, highlighting the importance
   of considering organizational systems and workflows rather than solely focusin...
 resource: https://www.youtube.com/watch?v=gycxQT3DHIU
+youtube_stats:
+  view_count: 222
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

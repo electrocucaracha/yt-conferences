@@ -10,6 +10,10 @@ description:
   highlighting its relevance in modern computing environments. They explain that isolation
   is crucial for security and performance, and that different types of isolation...
 resource: https://www.youtube.com/watch?v=I9t7qfOjgbo
+youtube_stats:
+  view_count: 278
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

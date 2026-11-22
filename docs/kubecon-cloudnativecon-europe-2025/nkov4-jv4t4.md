@@ -8,6 +8,10 @@ description:
   to simplify deployments and parameterization of CubeFlow, addressing issues with
   customization and large environments. The goal is to enable proper parameterizati...
 resource: https://www.youtube.com/watch?v=NkOV4_JV4t4
+youtube_stats:
+  view_count: 155
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

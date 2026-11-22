@@ -8,6 +8,10 @@ description:
   how the platform is evolving to help developers build advanced agentic systems using
   Claude, with a focus on the agentic coding product, Claude Code. She outlines...
 resource: https://www.youtube.com/watch?v=aqW68Is_Kj4
+youtube_stats:
+  view_count: 36120
+  like_count: 675
+  channel_subscriber_count: 1060000
 tags:
   - aie-code-2025-ai-leadership
   - video

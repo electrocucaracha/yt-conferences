@@ -9,6 +9,10 @@ description:
   They discuss how these reviews can reveal insights into an organization's strengths
   an...
 resource: https://www.youtube.com/watch?v=CCXR1b0pdaQ
+youtube_stats:
+  view_count: 3987
+  like_count: 94
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

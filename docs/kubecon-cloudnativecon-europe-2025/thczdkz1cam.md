@@ -9,6 +9,10 @@ description:
   They create a deployment with GPU resources, configure the service, and test it.
   The de...
 resource: https://www.youtube.com/watch?v=thCZDKZ1cAM
+youtube_stats:
+  view_count: 1473
+  like_count: 43
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

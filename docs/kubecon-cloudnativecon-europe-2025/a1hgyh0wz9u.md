@@ -11,6 +11,10 @@ description:
   legislation requires manufacturers, open source maintainers, and stewards (those
   who...
 resource: https://www.youtube.com/watch?v=A1HGYh0Wz9U
+youtube_stats:
+  view_count: 282
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

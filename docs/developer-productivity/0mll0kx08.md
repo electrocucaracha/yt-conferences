@@ -8,6 +8,10 @@ description:
   creating powerful systems. They introduce the concept of "participatory sense-making,"
   where teams collaborate to create a shared understanding of their software's capabil...
 resource: https://www.youtube.com/watch?v=_-0mll0kx08
+youtube_stats:
+  view_count: 3408
+  like_count: 60
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

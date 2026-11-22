@@ -8,6 +8,10 @@ description:
   a 12-factor approach to secure resource access. Workload identity is a unique identity
   assigned to a workload for secure resource access, such as an app developer's applic...
 resource: https://www.youtube.com/watch?v=dNb1m84Bp4c
+youtube_stats:
+  view_count: 266
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

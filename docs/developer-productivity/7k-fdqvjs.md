@@ -8,6 +8,10 @@ description:
   are being measured in software development. She argues that if a team doesn't know
   why they're measuring something, it's likely to be a bad idea. Kat shares her experie...
 resource: https://www.youtube.com/watch?v=__7K_fDqVJs
+youtube_stats:
+  view_count: 199836
+  like_count: 696
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

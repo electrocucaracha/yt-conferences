@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'The speaker introduces the concept of "mechanism design" in the AI economy, defining it as reverse game theory where desired outcomes dictate the rules, rather than optimizing play within existing ...'
 resource: "https://www.youtube.com/watch?v=43WOAT2rwCs"
+youtube_stats:
+  view_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

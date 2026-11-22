@@ -11,6 +11,10 @@ description:
   and make it more accessible to developers, operators, and security teams. Three
   key too...
 resource: https://www.youtube.com/watch?v=w1wh9dc6m34
+youtube_stats:
+  view_count: 378
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

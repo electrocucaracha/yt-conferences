@@ -10,6 +10,10 @@ description:
   migrating from Cubadium to Cluster API and Telos. The goal is to keep clusters alive
   for six years instead of recreating new ones with each release. They use large shared...
 resource: https://www.youtube.com/watch?v=uQ_WN1kuDo0
+youtube_stats:
+  view_count: 994
+  like_count: 23
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

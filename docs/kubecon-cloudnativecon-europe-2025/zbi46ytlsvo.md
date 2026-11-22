@@ -8,6 +8,10 @@ description:
   scalable and high-performance database management. The main focus is on schema changes
   at scale, which can be a complex and time-consuming process in traditional dat...
 resource: https://www.youtube.com/watch?v=Zbi46yTlSVo
+youtube_stats:
+  view_count: 329
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,10 @@ description:
   the introduction of Chat GPT, leading to the development of multimodal AI and enormous
   volumes of context state. However, this data became unsustainable and unscaleabl...
 resource: https://www.youtube.com/watch?v=W_EF1HnP4tU
+youtube_stats:
+  view_count: 487
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

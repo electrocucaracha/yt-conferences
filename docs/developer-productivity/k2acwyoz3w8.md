@@ -9,6 +9,10 @@ description:
   employees build a relationship with their boss that benefits both parties. Kousen
   shares...
 resource: https://www.youtube.com/watch?v=k2acwYoz3w8
+youtube_stats:
+  view_count: 18858
+  like_count: 121
+  channel_subscriber_count: 105
 tags:
   - developer-productivity
   - video

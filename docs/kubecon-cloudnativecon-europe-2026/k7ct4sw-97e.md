@@ -10,6 +10,10 @@ description:
   to AI-powered agents, particularly in the context of platform engineering and Kubernetes.
   The presenters explain how agents work by combining user intent, system context...
 resource: https://www.youtube.com/watch?v=k7ct4sW-97E
+youtube_stats:
+  view_count: 511
+  like_count: 15
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

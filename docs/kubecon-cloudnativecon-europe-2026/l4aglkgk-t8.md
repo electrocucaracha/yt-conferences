@@ -11,6 +11,10 @@ description:
   runtime that has grown beyond its experimental phase, now serving as a practical
   com...
 resource: https://www.youtube.com/watch?v=L4AgLkGk_T8
+youtube_stats:
+  view_count: 225
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

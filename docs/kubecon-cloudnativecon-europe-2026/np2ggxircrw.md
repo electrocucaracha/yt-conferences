@@ -11,6 +11,9 @@ description:
   comparing its complexity to a Van Gogh painting. They introduce tools like ask.cncf.io
   an...
 resource: https://www.youtube.com/watch?v=NP2gGXIRcRw
+youtube_stats:
+  view_count: 90
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

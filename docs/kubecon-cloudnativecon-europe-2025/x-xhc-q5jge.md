@@ -10,6 +10,10 @@ description:
   collective of people working on Kubernetes storage APIs, including persistent volume
   claims (PVCs), persistent volumes (PVs), and storage classes. They maintain kubernetes...
 resource: https://www.youtube.com/watch?v=X_xHC_Q5jGE
+youtube_stats:
+  view_count: 173
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

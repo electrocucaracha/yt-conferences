@@ -10,6 +10,10 @@ description:
   orchestration system, and its success. They attribute three key factors to its popularity:
   (1) declarative programming, allowing users to declare desired states with."
 resource: https://www.youtube.com/watch?v=-3NyXaVPGvo
+youtube_stats:
+  view_count: 162
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,10 @@ description:
   moving beyond simple connectivity to intelligent orchestration using tools like
   Kyverno, Civero, and Open Cloud. The speakers highlight the daily challenges faced...
 resource: https://www.youtube.com/watch?v=kd7R-LhPLak
+youtube_stats:
+  view_count: 212
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

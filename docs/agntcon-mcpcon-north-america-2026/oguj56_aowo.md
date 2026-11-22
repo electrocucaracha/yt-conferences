@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker uses a rugby analogy to introduce the concept of governance and rule enforcement in Model Context Protocol (MCP) environments, highlighting that just as sports have specific rules, MCPs..."
 resource: "https://www.youtube.com/watch?v=oGuj56_aOWo"
+youtube_stats:
+  view_count: 47
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

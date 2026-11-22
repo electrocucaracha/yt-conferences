@@ -10,6 +10,10 @@ description:
   is joined by Maxim Kwell, cloud security architect, to discuss platform engineering
   and its role in simplifying developer life while ensuring security. They emphas...
 resource: https://www.youtube.com/watch?v=Es3DBj2UgIE
+youtube_stats:
+  view_count: 344
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

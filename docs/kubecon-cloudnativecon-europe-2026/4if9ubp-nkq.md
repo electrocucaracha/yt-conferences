@@ -10,6 +10,10 @@ description:
   the Kubernetes Enhancement Proposal (KEP) process and how the release team ensures
   enhancements contribute to project stability. They introduce themselves and outline...
 resource: https://www.youtube.com/watch?v=4if9UBP-NKQ
+youtube_stats:
+  view_count: 98
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

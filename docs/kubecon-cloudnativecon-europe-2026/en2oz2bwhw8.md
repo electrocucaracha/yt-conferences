@@ -10,6 +10,10 @@ description:
   an overview and updates on CRI-O, a Kubernetes container runtime. They discuss recent
   features such as server-side streaming RPCs to address message size limits in hi...
 resource: https://www.youtube.com/watch?v=en2oz2BWHW8
+youtube_stats:
+  view_count: 127
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

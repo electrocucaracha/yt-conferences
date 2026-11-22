@@ -9,6 +9,10 @@ description:
   chronologically order vulnerabilities' impact on software. The goal is to make it
   easy f...
 resource: https://www.youtube.com/watch?v=oCbJdcy3zzA
+youtube_stats:
+  view_count: 154
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

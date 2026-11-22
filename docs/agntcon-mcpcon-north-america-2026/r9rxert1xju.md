@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: Lucas introduces Buzz as a collaborative workspace designed to solve the inefficiencies of manually shuffling information between AI agents and traditional communication tools like Slack.
 resource: "https://www.youtube.com/watch?v=R9RxerT1xJU"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

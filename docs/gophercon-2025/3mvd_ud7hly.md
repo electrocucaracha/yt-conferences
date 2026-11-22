@@ -7,7 +7,7 @@ type: Video Note
 description: "The speaker argues that Go is an ideal language for building production-grade LLM agents due to its simple concurrency model, high performance, and strong support for cloud-native deployment."
 resource: "https://www.youtube.com/watch?v=3mvD_Ud7HLY"
 youtube_stats:
-  view_count: 2203
+  view_count: 2207
   like_count: 74
   channel_subscriber_count: 41100
 tags:

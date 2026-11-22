@@ -11,6 +11,10 @@ description:
   an engineer who has been through internal mobility, having worked at the same company
   for...
 resource: https://www.youtube.com/watch?v=ulTUCDmqnsI
+youtube_stats:
+  view_count: 59941
+  like_count: 1285
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -9,6 +9,10 @@ description:
   for attendees to share experiences from around the world. As a first-time attendee
   at this...
 resource: https://www.youtube.com/watch?v=DGE1P5ynmsQ
+youtube_stats:
+  view_count: 4064
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

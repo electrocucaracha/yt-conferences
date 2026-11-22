@@ -11,6 +11,10 @@ description:
   a demo set on each node, but it caused issues when deployed in production due to
   high...
 resource: https://www.youtube.com/watch?v=2BIhTXQd0CI
+youtube_stats:
+  view_count: 495
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

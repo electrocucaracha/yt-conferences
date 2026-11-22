@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Cornelia Davis presents a technical overview of MCP tasks, highlighting the recent adoption of this protocol by major agents like Claude Code to address long-standing gaps in asynchronous support."
 resource: "https://www.youtube.com/watch?v=4v-tltNKHPA"
+youtube_stats:
+  view_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

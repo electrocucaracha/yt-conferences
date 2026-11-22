@@ -11,6 +11,10 @@ description:
   tags to focus on five new areas: data, Kubernetes, disaster recovery, messaging,
   and..."
 resource: https://www.youtube.com/watch?v=0GNjonLfCQA
+youtube_stats:
+  view_count: 128
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

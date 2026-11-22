@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Uchi, founder of the recently sold payment company Chimoney, introduces Airport, a platform that authorizes AI agents before they act using the Open Agent Passport specification."
 resource: "https://www.youtube.com/watch?v=Tw2gjRyoBMY"
+youtube_stats:
+  view_count: 13
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

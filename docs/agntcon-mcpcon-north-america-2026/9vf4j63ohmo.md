@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "AT&T is developing an agentic front door for enterprise HR to streamline complex, siloed processes for its 130,000 employees by replacing manual searches with a unified system that executes tasks r..."
 resource: "https://www.youtube.com/watch?v=9vF4j63OHmo"
+youtube_stats:
+  view_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

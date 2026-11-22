@@ -10,6 +10,10 @@ description:
   an AI workload scheduler designed to optimize resource allocation and fair sharing
   for heterogeneous batch machine learning platforms. Q operates as a secondary scheduler...
 resource: https://www.youtube.com/watch?v=dKhF-hZi7CI
+youtube_stats:
+  view_count: 323
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

@@ -10,6 +10,10 @@ description:
   with Etsy's largest server, which monitors millions of metrics and handles 5 million
   samples per second during peak periods. The team faced issues with data re...
 resource: https://www.youtube.com/watch?v=IWrd-pSojqg
+youtube_stats:
+  view_count: 493
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -8,6 +8,10 @@ description:
   their experience with the Edge browser's developer tools. They explain that instead
   of taking screenshots, they use the live browser to demonstrate features like Focus...
 resource: https://www.youtube.com/watch?v=lz-nUdotdx4
+youtube_stats:
+  view_count: 12477
+  like_count: 258
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

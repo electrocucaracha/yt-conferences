@@ -9,6 +9,10 @@ description:
   behavior. They discuss various examples, including a NASA mission where a faulty
   assumption...
 resource: https://www.youtube.com/watch?v=kX0prJklhUE
+youtube_stats:
+  view_count: 274992
+  like_count: 1138
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

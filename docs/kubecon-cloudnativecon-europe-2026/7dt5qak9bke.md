@@ -11,6 +11,10 @@ description:
   integrating cloud native technologies into his curriculum. He emphasizes a hands-on
   appr...
 resource: https://www.youtube.com/watch?v=7Dt5QAK9bkE
+youtube_stats:
+  view_count: 155
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

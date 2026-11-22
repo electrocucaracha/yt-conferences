@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Amit and Shona from Google present a framework for architecting safe agent e-commerce by following a single purchase end-to-end using two open protocols: UCP for commerce conversations and AP2 for ..."
 resource: "https://www.youtube.com/watch?v=WRnh_fAWhyY"
+youtube_stats:
+  view_count: 95
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

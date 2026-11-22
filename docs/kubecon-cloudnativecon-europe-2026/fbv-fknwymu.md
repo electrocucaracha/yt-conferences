@@ -8,6 +8,9 @@ description:
   operator project, introduces the city operator, a community-supported and native
   operator designed to address challenges in managing etcd clusters, such as authentication...
 resource: https://www.youtube.com/watch?v=FBV-fkNwyMU
+youtube_stats:
+  view_count: 137
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

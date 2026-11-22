@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Minakshi presents a framework for an AI on-call agent designed to automate root cause analysis for critical alerts, addressing the inefficiency of engineers manually navigating multiple dashboards ..."
 resource: "https://www.youtube.com/watch?v=ovEpyYxKJPg"
+youtube_stats:
+  view_count: 25
+  like_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   presents an overview of WebAssembly (WASM). He explains that WASM is a small, portable,
   and secure VM that can be built in any language and compiled to a binary, allowing...
 resource: https://www.youtube.com/watch?v=2fkWLe3OqQg
+youtube_stats:
+  view_count: 73
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

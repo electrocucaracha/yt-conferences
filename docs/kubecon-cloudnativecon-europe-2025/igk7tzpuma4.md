@@ -9,6 +9,10 @@ description:
   participants to engage in allyship and advocacy workshops from Wednesday to Friday,
   w...
 resource: https://www.youtube.com/watch?v=IGK7TZPuma4
+youtube_stats:
+  view_count: 214
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

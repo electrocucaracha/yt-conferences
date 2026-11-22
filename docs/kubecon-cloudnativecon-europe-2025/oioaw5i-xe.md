@@ -11,6 +11,10 @@ description:
   project that manages Google resources. They initially tried using Terraform, but
   found...
 resource: https://www.youtube.com/watch?v=_oIoaW5i-xE
+youtube_stats:
+  view_count: 518
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

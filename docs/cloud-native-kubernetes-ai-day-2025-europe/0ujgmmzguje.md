@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "At CubeCon, Alejandro Saledo and Bartosh from Zalando presented on the state of Generative AI and Machine Learning within the cloud-native ecosystem, highlighting the rapid evolution from simple RA..."
 resource: "https://www.youtube.com/watch?v=0uJGmMZGUJE"
+youtube_stats:
+  view_count: 1882
+  like_count: 31
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

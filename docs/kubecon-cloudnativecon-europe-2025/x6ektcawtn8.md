@@ -10,6 +10,10 @@ description:
   her skepticism about AI and its limitations. She references Isaac Asimov's three
   laws of robotics, which she believes are flawed because they don't account for ob...
 resource: https://www.youtube.com/watch?v=x6EKTCAWtn8
+youtube_stats:
+  view_count: 424
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

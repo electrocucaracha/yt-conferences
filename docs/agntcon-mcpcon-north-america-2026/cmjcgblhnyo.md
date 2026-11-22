@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker from Vapi emphasizes that designing voice agent conversations requires a fundamentally different approach than web development, as users have a single thread of attention and no visual ..."
 resource: "https://www.youtube.com/watch?v=cmJcGbLhNyo"
+youtube_stats:
+  view_count: 3
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

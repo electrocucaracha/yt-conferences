@@ -10,6 +10,10 @@ description:
   training performance for large language models. The team has made significant progress
   in batch system management, computing resource enhancement, and networking op...
 resource: https://www.youtube.com/watch?v=JXcQcofGzrA
+youtube_stats:
+  view_count: 160
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

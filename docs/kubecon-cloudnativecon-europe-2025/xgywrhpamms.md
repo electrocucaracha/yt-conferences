@@ -11,6 +11,10 @@ description:
   its underlying storage solution, which is a distributed file system with features
   like...
 resource: https://www.youtube.com/watch?v=xGywrHPAMms
+youtube_stats:
+  view_count: 277
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

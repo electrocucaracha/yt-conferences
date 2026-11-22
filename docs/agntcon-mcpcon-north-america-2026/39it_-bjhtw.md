@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Kira Sapon, founder of Supermodel Labs, presents a method for predicting Large Language Model (LLM) output token sizes prior to generation to help manage agent costs."
 resource: "https://www.youtube.com/watch?v=39It_-bjhtw"
+youtube_stats:
+  view_count: 6
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

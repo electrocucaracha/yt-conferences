@@ -11,6 +11,10 @@ description:
   ClickHouse. This involves adding capacity in terms of extra replicas and then taking
   aw...
 resource: https://www.youtube.com/watch?v=ufY_JFPpzRI
+youtube_stats:
+  view_count: 527
+  like_count: 13
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

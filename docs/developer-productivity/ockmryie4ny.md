@@ -9,6 +9,10 @@ description:
   introduce three ideas: Peter Drucker's concept of effective executives getting
   the right..."
 resource: https://www.youtube.com/watch?v=OCKmryIE4nY
+youtube_stats:
+  view_count: 1932
+  like_count: 33
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -11,6 +11,10 @@ description:
   while AI and large language models can assist with translation, human review is
   essent...
 resource: https://www.youtube.com/watch?v=MqbRvtJ7D-E
+youtube_stats:
+  view_count: 159
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

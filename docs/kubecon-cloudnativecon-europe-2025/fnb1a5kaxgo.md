@@ -11,6 +11,10 @@ description:
   frameworks and technologies. The presenter introduces Cubeflow Trainer, a project
   th...
 resource: https://www.youtube.com/watch?v=Fnb1a5Kaxgo
+youtube_stats:
+  view_count: 543
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

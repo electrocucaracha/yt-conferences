@@ -10,6 +10,10 @@ description:
   organizer, discusses the challenges and best practices of observability in Kubernetes
   environments. They highlight the complexity caused by the abundance of tools, metrics...
 resource: https://www.youtube.com/watch?v=nNDNw84Uuqg
+youtube_stats:
+  view_count: 213
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

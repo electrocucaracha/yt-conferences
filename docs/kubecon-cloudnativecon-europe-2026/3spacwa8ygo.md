@@ -11,6 +11,10 @@ description:
   by 2030. This expansion presents significant IT challenges, as ESA’s legacy mission
   con...
 resource: https://www.youtube.com/watch?v=3spacWa8YGo
+youtube_stats:
+  view_count: 708
+  like_count: 18
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

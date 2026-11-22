@@ -10,6 +10,10 @@ description:
   and its limitations with containers and Kubernetes. He introduces WebAssembly as
   a solution to these problems, offering a capability-based approach that allows develo...
 resource: https://www.youtube.com/watch?v=HrO5KVMQfHs
+youtube_stats:
+  view_count: 546
+  like_count: 15
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

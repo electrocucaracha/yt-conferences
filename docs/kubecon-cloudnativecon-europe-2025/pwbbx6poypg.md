@@ -8,6 +8,10 @@ description:
   years of CNCF platform engineering, AI observability, accessibility, and more, generating
   excitement in the community. The event announced an update to its program, intr...
 resource: https://www.youtube.com/watch?v=pWBbX6pOyPg
+youtube_stats:
+  view_count: 6456
+  like_count: 13
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

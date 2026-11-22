@@ -10,6 +10,9 @@ description:
   scalability, sustainability, and GitOps. The speakers, Steve Wade and Bianke, share
   their experiences working on Kubernetes clusters in various settings, from fully...
 resource: https://www.youtube.com/watch?v=Pmba7R4_4oU
+youtube_stats:
+  view_count: 49
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

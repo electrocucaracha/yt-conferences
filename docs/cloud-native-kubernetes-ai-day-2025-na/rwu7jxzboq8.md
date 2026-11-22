@@ -10,6 +10,10 @@ description:
   app built with Cloud Code that uses AI to document code changes, commit messages,
   and developer-AI conversations triggered by Git commits. The app is heavily instrumented...
 resource: https://www.youtube.com/watch?v=rwu7JXzbOQ8
+youtube_stats:
+  view_count: 122
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

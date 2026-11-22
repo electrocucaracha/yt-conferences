@@ -10,6 +10,10 @@ description:
   detailing the transition of over 1,000 services from a regional to a zonal Kubernetes
   architecture within a year and achieving zero downtime. Initially, Airbnb used...
 resource: https://www.youtube.com/watch?v=N3NTyUeSlaA
+youtube_stats:
+  view_count: 759
+  like_count: 18
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Michael Greenwich, founder of WorkOS, outlines the paradigm shift in software engineering from human-in-the-loop coding to autonomous agent fleets, drawing an analogy to the evolution of self-drivi..."
 resource: "https://www.youtube.com/watch?v=p7y0PAAQrts"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

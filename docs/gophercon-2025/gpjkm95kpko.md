@@ -7,8 +7,8 @@ type: Video Note
 description: 'Michael from the Go team introduces "Green Tea," a new garbage collection technique designed to make Go''s GC faster, with plans for general availability in Go 26.'
 resource: "https://www.youtube.com/watch?v=gPJkM95KpKo"
 youtube_stats:
-  view_count: 12830
-  like_count: 432
+  view_count: 12841
+  like_count: 433
   channel_subscriber_count: 41100
 tags:
   - gophercon-2025

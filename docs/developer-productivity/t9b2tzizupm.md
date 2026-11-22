@@ -8,6 +8,10 @@ description:
   of poor database access. He emphasizes that as software developers, it's acceptable
   to prioritize productivity over performance, but warns against trading off performance...
 resource: https://www.youtube.com/watch?v=t9b2TZiZUpM
+youtube_stats:
+  view_count: 5432
+  like_count: 107
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

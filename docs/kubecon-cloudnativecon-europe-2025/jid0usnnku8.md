@@ -11,6 +11,9 @@ description:
   in internal tooling and community engagement, while Abby has worked on platform
   engi...
 resource: https://www.youtube.com/watch?v=jid0uSnNku8
+youtube_stats:
+  view_count: 134
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

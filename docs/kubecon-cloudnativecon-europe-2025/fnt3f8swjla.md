@@ -10,6 +10,10 @@ description: "The Abacus platform, built by Volvo Cars' ML platform team, allows
   or waiting times. The platform is designed with three stages: onboarding, day-to-day
   operati..."
 resource: https://www.youtube.com/watch?v=fnt3f8sWJLA
+youtube_stats:
+  view_count: 1480
+  like_count: 363
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,10 @@ description:
   scalability, with a focus on community involvement and collaboration. The introduction
   of SIGs (Special Interest Groups) and SIG chairs aims to distribute workload a...
 resource: https://www.youtube.com/watch?v=xwGDxqI_3Nk
+youtube_stats:
+  view_count: 305
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

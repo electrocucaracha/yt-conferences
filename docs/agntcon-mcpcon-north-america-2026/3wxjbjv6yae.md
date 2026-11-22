@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Shawn Roberts, VP of Applied AI at Netlify, argues that traditional pass/fail evaluations are insufficient for measuring the quality of MCP servers and the broader "Agent Experience" (AX).'
 resource: "https://www.youtube.com/watch?v=3wXJbjV6YAE"
+youtube_stats:
+  view_count: 3
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

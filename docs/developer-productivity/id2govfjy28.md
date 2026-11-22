@@ -8,6 +8,10 @@ description:
   and risks should not be overlooked. While they can be useful in limited, constrained
   problem domains, they often ignore fundamental complexities of software deve...
 resource: https://www.youtube.com/watch?v=iD2GOvfJy28
+youtube_stats:
+  view_count: 7262
+  like_count: 225
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

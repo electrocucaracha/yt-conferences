@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The speaker presents a talk arguing that API modernization is a prerequisite for effective AI governance, emphasizing that organizations must consider the entire AI data path—including APIs, events..."
 resource: "https://www.youtube.com/watch?v=5YilRs9LDxI"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

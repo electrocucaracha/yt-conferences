@@ -10,6 +10,10 @@ description:
   to the donation of Glue to the Cloud Native Computing Foundation (CNCF) as K Gateway.
   This completes a crucial component of the CNCF's efforts to standardize cloud-nati...
 resource: https://www.youtube.com/watch?v=-k1CdrRAGMM
+youtube_stats:
+  view_count: 1027
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

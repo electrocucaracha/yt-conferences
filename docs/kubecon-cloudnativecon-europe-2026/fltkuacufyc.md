@@ -10,6 +10,10 @@ description:
   Ray models and emphasizes the importance of robust security practices in MLOps environments.
   She introduces Ray as an open-source tool for distributed computing, highl...
 resource: https://www.youtube.com/watch?v=FLTKUAcuFyc
+youtube_stats:
+  view_count: 117
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

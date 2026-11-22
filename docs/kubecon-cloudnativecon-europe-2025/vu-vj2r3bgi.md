@@ -9,6 +9,10 @@ description:
   Committee and Governing Board with an end-user-centric perspective. The TAB was
   c...
 resource: https://www.youtube.com/watch?v=VU_vj2r3BgI
+youtube_stats:
+  view_count: 67
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

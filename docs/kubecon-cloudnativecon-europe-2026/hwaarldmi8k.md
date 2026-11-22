@@ -10,6 +10,10 @@ description:
   advancements in high-performance AI storage virtualization, focusing on overcoming
   performance barriers using Kubernetes, KubeVirt, and GPU Direct Storage (GDS) technolog...
 resource: https://www.youtube.com/watch?v=HWaaRLDmI8k
+youtube_stats:
+  view_count: 272
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

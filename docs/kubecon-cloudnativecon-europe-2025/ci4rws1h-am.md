@@ -11,6 +11,10 @@ description:
   and insights. Nimisha from Confluent discussed the use of local SSDs for caching,
   while Bri...
 resource: https://www.youtube.com/watch?v=CI4rws1H-aM
+youtube_stats:
+  view_count: 172
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

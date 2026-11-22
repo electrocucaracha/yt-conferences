@@ -11,6 +11,10 @@ description:
   the Kubernetes control plane and ecosystem. Crossplane allows users to leverage
   familia...
 resource: https://www.youtube.com/watch?v=l1LICWLtXIE
+youtube_stats:
+  view_count: 248
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

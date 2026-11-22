@@ -9,6 +9,10 @@ description:
   plans. Chaos engineering began in 2006 as "disaster resiliency testing" (Dirt) and
   ha...
 resource: https://www.youtube.com/watch?v=6I8Ag9mCEpY
+youtube_stats:
+  view_count: 2767
+  like_count: 54
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

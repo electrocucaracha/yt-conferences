@@ -10,6 +10,9 @@ description:
   Kubernetes through the lens of metrics, highlighting the importance of understanding
   what metrics can tell us about our cluster's features, ports, containers, and m...
 resource: https://www.youtube.com/watch?v=95NNuV-SUdg
+youtube_stats:
+  view_count: 157
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

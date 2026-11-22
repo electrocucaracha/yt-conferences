@@ -10,6 +10,10 @@ description:
   of maintaining referential integrity and managing tail latency at exabyte scale,
   where trillions of objects are stored and verified across massive relational met...
 resource: https://www.youtube.com/watch?v=hpFqElHNLaY
+youtube_stats:
+  view_count: 291
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -9,6 +9,10 @@ description:
   called "PI Test" or "Pit," which uses bytecode manipulation to generate mutants
   and asse...
 resource: https://www.youtube.com/watch?v=LoFJajoJQ2g
+youtube_stats:
+  view_count: 2918
+  like_count: 53
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

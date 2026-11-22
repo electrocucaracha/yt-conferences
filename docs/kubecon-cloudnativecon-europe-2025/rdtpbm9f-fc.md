@@ -8,6 +8,10 @@ description:
   and it brings several significant changes and improvements, including breaking changes
   to make way for new features. The team behind Helm has been working on this update.
 resource: https://www.youtube.com/watch?v=rdTPbm9f_fc
+youtube_stats:
+  view_count: 605
+  like_count: 13
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

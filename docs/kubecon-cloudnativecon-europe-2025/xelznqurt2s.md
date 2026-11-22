@@ -11,6 +11,10 @@ description:
   platform provides a promise to its users, which is to deliver fast and reliable
   service...
 resource: https://www.youtube.com/watch?v=XelZnqurT2s
+youtube_stats:
+  view_count: 603
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

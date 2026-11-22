@@ -7,7 +7,7 @@ type: Video Note
 description: "Hannah, a software engineer at DataDog, presents a talk on auto-instrumentation strategies for Go applications that require no manual code changes."
 resource: "https://www.youtube.com/watch?v=VytHjiN_un0"
 youtube_stats:
-  view_count: 1289
+  view_count: 1293
   like_count: 45
   channel_subscriber_count: 41100
 tags:

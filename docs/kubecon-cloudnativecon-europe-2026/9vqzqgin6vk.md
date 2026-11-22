@@ -10,6 +10,10 @@ description:
   Gateway API maintainer, discusses the recent changes in the K Gateway project, including
   the split of the control plane and the emergence of Agent Gateway, which is orient...
 resource: https://www.youtube.com/watch?v=9VqzQgin6vk
+youtube_stats:
+  view_count: 250
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

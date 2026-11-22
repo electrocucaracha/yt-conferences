@@ -7,7 +7,7 @@ type: Video Note
 description: "Mindy Ratcliffe, a software engineer at Bayer Crop Science, presents a talk at GopherCon on constructing quick and effective data pipelines using Go generics."
 resource: "https://www.youtube.com/watch?v=R-P9Ltjc_uw"
 youtube_stats:
-  view_count: 2268
+  view_count: 2269
   like_count: 75
   channel_subscriber_count: 41100
 tags:

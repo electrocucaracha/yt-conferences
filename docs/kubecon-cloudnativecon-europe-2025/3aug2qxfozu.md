@@ -10,6 +10,10 @@ description:
   available multi-tenant long-term storage solution for Prometheus. Charlie Lee from
   Apple demonstrates Cortex's architecture and features, including its ability...
 resource: https://www.youtube.com/watch?v=3aUg2qxfoZU
+youtube_stats:
+  view_count: 425
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

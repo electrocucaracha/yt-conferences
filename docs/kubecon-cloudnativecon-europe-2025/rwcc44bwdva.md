@@ -10,6 +10,10 @@ description:
   and tools for component owners to instrument their components using signals such
   as metrics, traces, logs, and events. The team has developed various projects, include.
 resource: https://www.youtube.com/watch?v=RwcC44BWDvA
+youtube_stats:
+  view_count: 282
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

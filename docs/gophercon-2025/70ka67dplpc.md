@@ -7,7 +7,7 @@ type: Video Note
 description: "Jess Pentok from Google Cloud presents a critical analysis of the security gaps between reviewed source code and final build artifacts, arguing that traditional human code review is increasingly vu..."
 resource: "https://www.youtube.com/watch?v=70ka67DpLPc"
 youtube_stats:
-  view_count: 1110
+  view_count: 1111
   like_count: 18
   channel_subscriber_count: 41100
 tags:

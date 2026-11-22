@@ -11,6 +11,10 @@ description:
   emphasizing the importance of understanding the OpenTelemetry (OTEL) data model
   a...
 resource: https://www.youtube.com/watch?v=465RlwgsNHg
+youtube_stats:
+  view_count: 122
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   of network topology discovery and cost-effective validation approaches. He explains
   that...
 resource: https://www.youtube.com/watch?v=Jj8DNLA5hYc
+youtube_stats:
+  view_count: 175
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

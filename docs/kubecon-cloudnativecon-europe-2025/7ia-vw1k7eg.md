@@ -11,6 +11,10 @@ description:
   tips and tricks learned from their experience with Cluster API, including avoiding
   common...
 resource: https://www.youtube.com/watch?v=7IA-Vw1K7eg
+youtube_stats:
+  view_count: 512
+  like_count: 15
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

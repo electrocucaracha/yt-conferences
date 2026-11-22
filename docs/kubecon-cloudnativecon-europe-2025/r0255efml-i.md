@@ -10,6 +10,10 @@ description:
   of Large Language Models (LLMs) on software development and observability. She notes
   that LLMs introduce unpredictability and chaos, making traditional testing metho...
 resource: https://www.youtube.com/watch?v=R0255efML-I
+youtube_stats:
+  view_count: 1726
+  like_count: 15
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

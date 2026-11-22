@@ -10,6 +10,10 @@ description:
   project that enables AI-aware routing for inference workloads by transforming traditional
   gateways into smart proxies, known as inference gateways. This extension...
 resource: https://www.youtube.com/watch?v=8M6uCXlKI2c
+youtube_stats:
+  view_count: 339
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

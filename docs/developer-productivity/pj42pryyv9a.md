@@ -11,6 +11,10 @@ description:
   life. He defines chaos engineering as experimenting on a system to build confidence
   in...
 resource: https://www.youtube.com/watch?v=Pj42pryYv9A
+youtube_stats:
+  view_count: 1524
+  like_count: 29
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

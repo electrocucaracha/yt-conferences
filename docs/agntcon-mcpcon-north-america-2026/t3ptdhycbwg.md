@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Hemanth Acham, a Google Developer Expert at PayPal AI Labs, presents Agentoo, a lightweight agent harness designed to address the complexity and context bloat inherent in building scalable AI agents."
 resource: "https://www.youtube.com/watch?v=t3ptdhYCbWg"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

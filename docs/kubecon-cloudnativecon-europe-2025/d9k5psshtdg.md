@@ -11,6 +11,10 @@ description:
   insights. They discuss the challenges of managing stateful loads, such as databases,
   an...
 resource: https://www.youtube.com/watch?v=d9K5PSsHtDg
+youtube_stats:
+  view_count: 210
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

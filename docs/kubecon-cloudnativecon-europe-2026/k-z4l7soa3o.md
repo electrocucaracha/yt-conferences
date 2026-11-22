@@ -11,6 +11,10 @@ description:
   seamlessly translate Kubernetes pod manifests into jobs that can run on supercomputers
   m...
 resource: https://www.youtube.com/watch?v=K-Z4l7SOa3o
+youtube_stats:
+  view_count: 326
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

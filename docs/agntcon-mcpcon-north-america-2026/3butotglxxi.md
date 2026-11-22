@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Dominic Forrest, CTO of i-Prove, introduces HAPS (Human Approval and Presence Specification), an open-source framework designed to ensure that high-risk actions taken by AI agents are explicitly au..."
 resource: "https://www.youtube.com/watch?v=3BUTOTGlxxI"
+youtube_stats:
+  view_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

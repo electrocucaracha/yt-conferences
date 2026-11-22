@@ -8,6 +8,10 @@ description:
   in software development, citing 10 guiding principles that can help improve outcomes.
   These principles include iteration, feedback, incremental development, experimenta...
 resource: https://www.youtube.com/watch?v=ZAAECIe8o8E
+youtube_stats:
+  view_count: 4326
+  like_count: 96
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

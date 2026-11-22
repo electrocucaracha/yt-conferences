@@ -10,6 +10,10 @@ description:
   security risks associated with running MCP (Machine Control Protocol) servers and
   tools, particularly when users copy and run arbitrary binaries or scripts from untrust...
 resource: https://www.youtube.com/watch?v=fSSjxqx7cCg
+youtube_stats:
+  view_count: 235
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

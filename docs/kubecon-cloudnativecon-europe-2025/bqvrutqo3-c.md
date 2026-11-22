@@ -9,6 +9,10 @@ description:
   get started, one needs the device driver, CUDA toolkit, and container toolkit, which
   can be...
 resource: https://www.youtube.com/watch?v=bQvrutQO3-c
+youtube_stats:
+  view_count: 10638
+  like_count: 212
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

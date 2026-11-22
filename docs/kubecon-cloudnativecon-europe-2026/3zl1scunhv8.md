@@ -11,6 +11,10 @@ description:
   and thanking the CNCF and speakers for their support. They encouraged attendees
   to...
 resource: https://www.youtube.com/watch?v=3zl1SCunHV8
+youtube_stats:
+  view_count: 143
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

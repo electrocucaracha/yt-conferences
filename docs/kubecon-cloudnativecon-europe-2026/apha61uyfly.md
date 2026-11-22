@@ -11,6 +11,10 @@ description:
   integrated solutions. George explains how Acast customers commonly use tools like
   He...
 resource: https://www.youtube.com/watch?v=Apha61UYfLY
+youtube_stats:
+  view_count: 1353
+  like_count: 17
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

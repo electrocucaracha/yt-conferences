@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Ingmar from Infoblox presents a solution to the unsolved problem of discovering and trusting Model Context Protocol (MCP) servers, arguing that current methods like hardcoded URLs or central regist..."
 resource: "https://www.youtube.com/watch?v=8iv1NuwOHSc"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

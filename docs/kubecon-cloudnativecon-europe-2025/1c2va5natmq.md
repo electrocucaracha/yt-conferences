@@ -8,6 +8,10 @@ description:
   servers that consume resources without delivering value. She cites research showing
   that up to 30% of servers are idle for six months or more, and that this can l...
 resource: https://www.youtube.com/watch?v=1c2va5nATmQ
+youtube_stats:
+  view_count: 284
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

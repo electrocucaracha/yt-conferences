@@ -10,6 +10,10 @@ description:
   dynamic workload scheduling, which optimizes spending and resource allocation. This
   new approach allows for sophisticated hardware requirements and preferences, enabl...
 resource: https://www.youtube.com/watch?v=VLVSa6xD5tk
+youtube_stats:
+  view_count: 768
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

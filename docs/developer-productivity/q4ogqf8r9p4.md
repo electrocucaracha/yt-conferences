@@ -8,6 +8,10 @@ description:
   and adapting to change in software development. They argue that traditional approaches,
   such as agile methodologies, can oversimplify complex problems and lead to over...
 resource: https://www.youtube.com/watch?v=q4oGqf8r9P4
+youtube_stats:
+  view_count: 7103
+  like_count: 162
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

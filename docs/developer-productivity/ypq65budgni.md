@@ -11,6 +11,10 @@ description:
   project created by Airbnb in 2014 to automate and create data pipelines. Airflow
   us...
 resource: https://www.youtube.com/watch?v=YPQ65budGnI
+youtube_stats:
+  view_count: 96838
+  like_count: 268
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

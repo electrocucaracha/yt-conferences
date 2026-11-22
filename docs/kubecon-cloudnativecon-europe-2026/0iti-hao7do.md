@@ -10,6 +10,10 @@ description:
   a universal policy engine that allows users to write custom policies in various
   programming languages and compile them into OCI artifacts using Wasm. The integratio...
 resource: https://www.youtube.com/watch?v=0ItI-HaO7do
+youtube_stats:
+  view_count: 106
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -10,6 +10,10 @@ description:
   projects targeting the 1.33 release of Kubernetes Sor: volume populators and always
   owner PV reclaim policy features. The volume populators feature aims to allow ge..."
 resource: https://www.youtube.com/watch?v=v_PzG81D33I
+youtube_stats:
+  view_count: 105
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

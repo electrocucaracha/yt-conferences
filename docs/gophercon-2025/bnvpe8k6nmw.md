@@ -7,7 +7,7 @@ type: Video Note
 description: "Katie Hawkman, a Go developer at Merkari, presented a talk at GopherCon on the Model Context Protocol (MCP), an open standard that enables AI agents to interact with external tools and data sources..."
 resource: "https://www.youtube.com/watch?v=BNVPE8k6Nmw"
 youtube_stats:
-  view_count: 4738
+  view_count: 4751
   like_count: 132
   channel_subscriber_count: 41100
 tags:

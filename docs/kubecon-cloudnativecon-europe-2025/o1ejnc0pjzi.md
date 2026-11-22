@@ -10,6 +10,10 @@ description:
   on using edge computing with Ker Nuts and Raspberry Pies for coral restoration projects
   in Vietnam and Mauritius. The team developed an underwater solution to monitor sc...
 resource: https://www.youtube.com/watch?v=O1EJnC0pjZI
+youtube_stats:
+  view_count: 435
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

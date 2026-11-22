@@ -9,6 +9,10 @@ description:
   as a Top Choice by the CNCF for multicluster environments, offering features like
   dynam...
 resource: https://www.youtube.com/watch?v=T_EDE6DDqYc
+youtube_stats:
+  view_count: 1804
+  like_count: 24
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

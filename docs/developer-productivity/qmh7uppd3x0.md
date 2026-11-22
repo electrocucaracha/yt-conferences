@@ -9,6 +9,10 @@ description:
   other commands to navigate directories, filter output, and perform tasks efficiently.
   She...
 resource: https://www.youtube.com/watch?v=qmh7Uppd3x0
+youtube_stats:
+  view_count: 48827
+  like_count: 863
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

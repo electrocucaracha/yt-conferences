@@ -10,6 +10,10 @@ description:
   Google, and Nvidia, provided an update on the progress and future plans for Dynamic
   Resource Allocation (DRA) in Kubernetes. The group was formed to address limitatio...
 resource: https://www.youtube.com/watch?v=MAwL8A1WCjw
+youtube_stats:
+  view_count: 116
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

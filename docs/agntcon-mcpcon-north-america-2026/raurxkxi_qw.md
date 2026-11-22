@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'JR from the Linux Foundation introduces the Tokenomics Foundation, a new initiative focused on defining "AI economics" by tracing the path from energy and capital inputs through hardware to measura...'
 resource: "https://www.youtube.com/watch?v=RAUrxkxI_Qw"
+youtube_stats:
+  view_count: 15
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

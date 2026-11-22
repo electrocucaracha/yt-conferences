@@ -11,6 +11,10 @@ description:
   the costs associated with distributed tracing. They explained the challenges of
   trad...
 resource: https://www.youtube.com/watch?v=ehKzt_kGEeM
+youtube_stats:
+  view_count: 1101
+  like_count: 31
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

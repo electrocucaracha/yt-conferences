@@ -10,6 +10,9 @@ description:
   and stability of new features before releasing them to production. The process involves
   three stages: alpha, beta, and general availability (GA). Alpha features are pr..."
 resource: https://www.youtube.com/watch?v=d_9JNRkT7dg
+youtube_stats:
+  view_count: 201
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

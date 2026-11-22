@@ -9,6 +9,10 @@ description:
   guidance on cloud-native projects. The current structure consists of five tags:
   wo..."
 resource: https://www.youtube.com/watch?v=-yOKr2DOJ_o
+youtube_stats:
+  view_count: 189
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

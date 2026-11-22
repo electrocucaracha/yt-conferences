@@ -6,6 +6,10 @@ parent: "Cloud Native & Kubernetes AI Day 2025 - Europe"
 type: Video Note
 description: "The presentation introduces Q, a Kubernetes-based queue manager designed to optimize computational resource allocation for AI workloads by addressing the limitations of standard Kubernetes scheduli..."
 resource: "https://www.youtube.com/watch?v=F55pFM1M1bU"
+youtube_stats:
+  view_count: 1276
+  like_count: 23
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-europe
   - video

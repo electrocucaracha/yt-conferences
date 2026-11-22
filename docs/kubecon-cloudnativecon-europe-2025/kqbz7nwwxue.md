@@ -10,6 +10,10 @@ description:
   on community involvement and feature enhancements. Yugo Kobayashi explains the current
   status and future plans for customize, including support for plug-in, release auto...
 resource: https://www.youtube.com/watch?v=KQBz7nwWxUE
+youtube_stats:
+  view_count: 201
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

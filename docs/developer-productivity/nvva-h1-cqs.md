@@ -8,6 +8,10 @@ description:
   used to improve system reliability. They dispel myths that chaos engineering requires
   expertise or is only suitable for large companies like Netflix. Instead, they em...
 resource: https://www.youtube.com/watch?v=nvVA_h1_cqs
+youtube_stats:
+  view_count: 1821
+  like_count: 35
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

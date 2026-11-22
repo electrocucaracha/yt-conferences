@@ -9,6 +9,10 @@ description:
   get things done, making it an excellent time for community involvement. The purpose
   of Emi...
 resource: https://www.youtube.com/watch?v=7U6nAxUxG6c
+youtube_stats:
+  view_count: 263
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

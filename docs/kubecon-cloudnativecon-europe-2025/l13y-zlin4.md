@@ -11,6 +11,10 @@ description:
   works as an admission controller and scanner, validating resources and detecting
   n...
 resource: https://www.youtube.com/watch?v=L13y_-zLin4
+youtube_stats:
+  view_count: 643
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

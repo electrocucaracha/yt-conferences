@@ -10,6 +10,10 @@ description:
   migrated its Manufacturing Execution System (MES) to Kubernetes, enabling faster
   and more efficient deployment of its industrial control systems. The company initi...
 resource: https://www.youtube.com/watch?v=GgxRHpQIEfg
+youtube_stats:
+  view_count: 347
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

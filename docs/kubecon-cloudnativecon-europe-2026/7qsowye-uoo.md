@@ -10,6 +10,10 @@ description:
   generalizing command control sharding within a large-scale internal Kubernetes-based
   platform at Li Corporation. They emphasize that sharding is an architectural dec...
 resource: https://www.youtube.com/watch?v=7qsOwyE_uOo
+youtube_stats:
+  view_count: 144
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

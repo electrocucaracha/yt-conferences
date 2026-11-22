@@ -8,6 +8,10 @@ description:
   project that has recently joined the CNCF sandbox, designed to address the retirement
   of NGINX Ingress and its associated challenges such as traffic jitter, load balanc...
 resource: https://www.youtube.com/watch?v=FURcBVNuK0U
+youtube_stats:
+  view_count: 201
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

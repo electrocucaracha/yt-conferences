@@ -10,6 +10,10 @@ description:
   leader. She emphasized the importance of being a business leader, not just an engineering
   leader, and having a clear understanding of how decisions impact the organiz...
 resource: https://www.youtube.com/watch?v=-_nrpj_kJac
+youtube_stats:
+  view_count: 1652
+  like_count: 28
+  channel_subscriber_count: 105
 tags:
   - developer-productivity
   - video

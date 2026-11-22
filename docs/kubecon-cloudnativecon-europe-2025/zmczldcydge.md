@@ -10,6 +10,10 @@ description:
   by providing an application model that allows platform engineers to build IDPs better
   serving their customers. Radius is a cloud-native application platform that...
 resource: https://www.youtube.com/watch?v=ZmcZlDCYDgE
+youtube_stats:
+  view_count: 311
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

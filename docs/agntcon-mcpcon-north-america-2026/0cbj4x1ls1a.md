@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: Curtis y Howie de Google Cloud Databases presentan un canal de evaluación agentic enfocado en evaluar herramientas MCP (Model Context Protocol) para bases de datos.
 resource: "https://www.youtube.com/watch?v=0cBJ4X1LS1A"
+youtube_stats:
+  view_count: 32228
+  like_count: 252
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

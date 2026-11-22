@@ -11,6 +11,9 @@ description:
   project. They explain that traditional Kubernetes conformance, designed for stateless
   an...
 resource: https://www.youtube.com/watch?v=hcwsA31ie3I
+youtube_stats:
+  view_count: 78
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

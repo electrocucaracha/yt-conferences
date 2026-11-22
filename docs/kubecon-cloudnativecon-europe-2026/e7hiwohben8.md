@@ -11,6 +11,10 @@ description:
   processes in their GPU cloud infrastructure, which supports latency-sensitive game
   streami...
 resource: https://www.youtube.com/watch?v=E7HIwOHbeN8
+youtube_stats:
+  view_count: 217
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

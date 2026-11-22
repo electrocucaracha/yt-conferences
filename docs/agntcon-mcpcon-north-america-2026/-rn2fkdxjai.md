@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Paul, the founder of Gamgee, shares his journey of creating the world’s first computationally designed mRNA canine cancer vaccine for his dog, Rosie, after she was misdiagnosed and later developed ..."
 resource: "https://www.youtube.com/watch?v=-rn2FkdXJaI"
+youtube_stats:
+  view_count: 7
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

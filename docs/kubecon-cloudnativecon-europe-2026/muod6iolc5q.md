@@ -11,6 +11,10 @@ description:
   by leveraging cloud-native and open-source technologies, specifically Kubernetes
   an...
 resource: https://www.youtube.com/watch?v=MUOd6IoLC5Q
+youtube_stats:
+  view_count: 914
+  like_count: 15
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

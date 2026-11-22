@@ -11,6 +11,10 @@ description:
   gateway into an inference gateway. This allows teams to self-host LLMs efficiently
   wh...
 resource: https://www.youtube.com/watch?v=BBqDpqATcI0
+youtube_stats:
+  view_count: 1423
+  like_count: 25
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

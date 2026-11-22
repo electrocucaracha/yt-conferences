@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'The speaker highlights critical security vulnerabilities in Model Context Protocol (MCP) implementations, specifically focusing on "rug pull" attacks where legitimate tools are compromised during s...'
 resource: "https://www.youtube.com/watch?v=PPcbuMGGiAE"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   a multi-tenant, GPU-powered AI platform on bare metal OpenShift, drawing on real-world
   experience with an avionics customer in France. He emphasizes that while run.
 resource: https://www.youtube.com/watch?v=nABVTFBmV2M
+youtube_stats:
+  view_count: 611
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

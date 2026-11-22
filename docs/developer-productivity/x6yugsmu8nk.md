@@ -11,6 +11,10 @@ description:
   software development. She argues that traditional scrum masters are not equipped
   to han...
 resource: https://www.youtube.com/watch?v=x6yUGSmU8Nk
+youtube_stats:
+  view_count: 3849
+  like_count: 85
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

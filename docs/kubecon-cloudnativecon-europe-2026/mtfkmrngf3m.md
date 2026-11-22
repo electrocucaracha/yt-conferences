@@ -10,6 +10,10 @@ description:
   team, introduces Radius as an application platform designed to enable developers
   to define portable applications deployable across multiple cloud providers, abst...
 resource: https://www.youtube.com/watch?v=MTFkMRngf3M
+youtube_stats:
+  view_count: 103
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

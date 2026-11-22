@@ -10,6 +10,10 @@ description:
   source code into production-ready OCI images deployable on any OCI runtime environment,
   such as Kubernetes or Podman. The project provides a reference implementation...
 resource: https://www.youtube.com/watch?v=Eb9AweCazi8
+youtube_stats:
+  view_count: 191
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

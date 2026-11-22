@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Thomas Aral from OpenAI’s plugins team emphasizes that developers should expose all their MCP server tools to the model without artificial limits, as the platform is designed to handle hundreds of ..."
 resource: "https://www.youtube.com/watch?v=LDMzI0jGDb0"
+youtube_stats:
+  view_count: 611
+  like_count: 8
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   particularly when it comes to node upgrades. They introduce two strategies for automating
   this process: rowing update and kipanda. Rowing update involves upgrading nodes..."
 resource: https://www.youtube.com/watch?v=rAIcQvKBuZA
+youtube_stats:
+  view_count: 526
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

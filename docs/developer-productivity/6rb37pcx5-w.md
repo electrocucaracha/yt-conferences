@@ -10,6 +10,10 @@ description:
   continuous delivery and feature flags. Progressive delivery involves gradually rolling
   out new versions of software to a subset of users, allowing for testing and learning...
 resource: https://www.youtube.com/watch?v=6rb37PCX5_w
+youtube_stats:
+  view_count: 5595
+  like_count: 111
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

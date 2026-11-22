@@ -10,6 +10,9 @@ description:
   decision-making and oversight in the project. The committee consists of six members,
   including Mache, Stephen, Paco, and four other friends. They oversee various aspects...
 resource: https://www.youtube.com/watch?v=ZManfhV6DZU
+youtube_stats:
+  view_count: 46
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

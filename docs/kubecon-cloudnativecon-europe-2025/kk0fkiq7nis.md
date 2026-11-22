@@ -11,6 +11,10 @@ description:
   level set on the current state of WASM, its evolution, and its applications. They
   hig..."
 resource: https://www.youtube.com/watch?v=KK0FKiQ7nis
+youtube_stats:
+  view_count: 2216
+  like_count: 61
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

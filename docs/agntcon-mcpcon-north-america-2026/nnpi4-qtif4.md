@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Chris Knutson, Director of Agentic at A Place for Mom, presents a framework for treating AI agents as versioned, declarative artifacts to solve issues of non-determinism and lack of observability i..."
 resource: "https://www.youtube.com/watch?v=nNPi4-QtIF4"
+youtube_stats:
+  view_count: 9
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

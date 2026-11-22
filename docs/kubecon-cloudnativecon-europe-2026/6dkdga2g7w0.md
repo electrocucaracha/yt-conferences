@@ -10,6 +10,10 @@ description:
   run AI workloads from a laptop to a Kubernetes cluster using container technologies.
   They outline the recent evolution of AI, from the rise of chatbots like ChatG...
 resource: https://www.youtube.com/watch?v=6DkdGa2G7W0
+youtube_stats:
+  view_count: 184
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

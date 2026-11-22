@@ -11,6 +11,10 @@ description:
   with a product focus, prioritizing developer experience and ease of use; (2) APIs,
   abs..."
 resource: https://www.youtube.com/watch?v=fZ_ULsJ5WGA
+youtube_stats:
+  view_count: 669
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -10,6 +10,9 @@ description:
   addresses the challenges of detecting and responding to security incidents in Kubernetes
   environments, where multiple security tools generate isolated alerts th...
 resource: https://www.youtube.com/watch?v=5DxaxeWNkYY
+youtube_stats:
+  view_count: 71
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

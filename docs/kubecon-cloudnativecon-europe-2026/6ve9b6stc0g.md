@@ -10,6 +10,10 @@ description:
   directions for Prometheus since version 3, highlighting major updates, experimental
   features, and community initiatives. Key technical advancements include the stabiliz...
 resource: https://www.youtube.com/watch?v=6vE9b6StC0g
+youtube_stats:
+  view_count: 199
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

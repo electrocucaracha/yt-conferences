@@ -8,6 +8,9 @@ description:
   Talks session, emphasizing the importance of cloud-native technology and its second
   decade of growth. He encourages participants to think about the ecology of cloud-...
 resource: https://www.youtube.com/watch?v=3Gm5QNXcp2g
+youtube_stats:
+  view_count: 58
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

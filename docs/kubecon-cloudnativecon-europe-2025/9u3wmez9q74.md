@@ -10,6 +10,10 @@ description:
   mesh, specifically ambient, which they used to improve their platform's infrastructure
   and scalability. They started by defining workflows for their engineers and r...
 resource: https://www.youtube.com/watch?v=9U3WMez9q74
+youtube_stats:
+  view_count: 458
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

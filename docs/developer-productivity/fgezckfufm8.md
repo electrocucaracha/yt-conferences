@@ -11,6 +11,10 @@ description:
   a developer individual characteristic but rather a characteristic of the system
   of work...
 resource: https://www.youtube.com/watch?v=fgezCKfUfm8
+youtube_stats:
+  view_count: 18178
+  like_count: 1081
+  channel_subscriber_count: 105
 tags:
   - developer-productivity
   - video

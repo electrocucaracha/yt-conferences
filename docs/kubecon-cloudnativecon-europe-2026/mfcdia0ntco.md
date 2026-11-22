@@ -11,6 +11,10 @@ description:
   configuration system. They explain the SIG CLI’s role in managing Kubernetes CLI
   tooli...
 resource: https://www.youtube.com/watch?v=mfcdIa0NtCo
+youtube_stats:
+  view_count: 290
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

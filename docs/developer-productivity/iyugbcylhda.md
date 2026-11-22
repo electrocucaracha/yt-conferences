@@ -11,6 +11,10 @@ description:
   He emphasizes the importance of understanding the customer's needs and pain points,
   which...
 resource: https://www.youtube.com/watch?v=iyUgBcYLHdA
+youtube_stats:
+  view_count: 11761
+  like_count: 286
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

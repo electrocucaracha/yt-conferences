@@ -10,6 +10,10 @@ description:
   at Thoughtworks, discussing complexity science and its application to software architecture.
   They explore the concept of generative science, which studies complex systems...
 resource: https://www.youtube.com/watch?v=miYyinA-Nxc
+youtube_stats:
+  view_count: 30270
+  like_count: 245
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

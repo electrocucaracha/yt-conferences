@@ -11,6 +11,10 @@ description:
   environments. To address this, they propose various strategies, including optimizing
   d...
 resource: https://www.youtube.com/watch?v=4Pei4LMigQE
+youtube_stats:
+  view_count: 195
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

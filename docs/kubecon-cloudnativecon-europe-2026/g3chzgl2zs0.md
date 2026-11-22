@@ -10,6 +10,9 @@ description:
   its evolution from a proxy at a lift company to a foundational component in the
   cloud-native networking ecosystem. The core Envoy proxy serves as a high-performa...
 resource: https://www.youtube.com/watch?v=g3CHzGl2zS0
+youtube_stats:
+  view_count: 122
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

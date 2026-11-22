@@ -9,6 +9,10 @@ description:
   his hometown. With over 13,500 attendees, this year's conference is the largest
   KubeCo...
 resource: https://www.youtube.com/watch?v=3GIFe0HbRSo
+youtube_stats:
+  view_count: 3684
+  like_count: 22
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

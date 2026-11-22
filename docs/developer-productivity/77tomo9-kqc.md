@@ -10,6 +10,10 @@ description:
   engineer, presented a talk on using Node.js with Google Sheets. They aimed to show
   how anyone can work with sheets, not just developers. The duo created an application.
 resource: https://www.youtube.com/watch?v=77toMO9-kQc
+youtube_stats:
+  view_count: 9742
+  like_count: 125
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

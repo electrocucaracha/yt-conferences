@@ -11,6 +11,10 @@ description:
   administrative tasks and reduce the workload on existing chairs and tech leads.
   Th...
 resource: https://www.youtube.com/watch?v=gMDC1zzHabk
+youtube_stats:
+  view_count: 147
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

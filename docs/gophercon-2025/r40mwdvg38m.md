@@ -7,7 +7,7 @@ type: Video Note
 description: "The panel, featuring experts from Google, Anthropic, and other tech firms, advises Go developers to cut through AI hype by focusing on practical experimentation with specific tools like agentic CLI..."
 resource: "https://www.youtube.com/watch?v=r40Mwdvg38M"
 youtube_stats:
-  view_count: 1576
+  view_count: 1577
   like_count: 48
   channel_subscriber_count: 41100
 tags:

@@ -8,6 +8,10 @@ description:
   Linkerd as a service mesh designed to provide secure, reliable, and observable networking
   for Kubernetes environments, emphasizing simplicity, minimal configurat...
 resource: https://www.youtube.com/watch?v=jPWsMZFpihA
+youtube_stats:
+  view_count: 102
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

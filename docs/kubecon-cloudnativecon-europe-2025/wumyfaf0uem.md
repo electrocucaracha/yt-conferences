@@ -10,6 +10,10 @@ description:
   efficient data processing and analysis at the edge of the network, reducing latency
   and improving real-time decision-making capabilities. With its open governance mod...
 resource: https://www.youtube.com/watch?v=WuMyfaF0UeM
+youtube_stats:
+  view_count: 559
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -11,6 +11,10 @@ description:
   his project "how is Felix today?" which tracks various aspects of life, including
   travel...
 resource: https://www.youtube.com/watch?v=UidgLUbD9uI
+youtube_stats:
+  view_count: 14419
+  like_count: 57
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

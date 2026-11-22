@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "The Secure Agentic Framework (SAF), recently transferred to the OpenSSF, is a vendor-neutral security taxonomy designed to mitigate risks in agentic AI applications by mapping attack techniques to ..."
 resource: "https://www.youtube.com/watch?v=ZRFzc3gqwn0"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

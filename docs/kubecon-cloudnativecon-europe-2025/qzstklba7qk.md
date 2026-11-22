@@ -10,6 +10,10 @@ description:
   Telemetry (OTEL), an open-source framework for monitoring and tracing applications.
   The speakers, Judas Pashon and Dan Dyla, share their experiences with OTEL's auto-inst...
 resource: https://www.youtube.com/watch?v=QzStkLbA7Qk
+youtube_stats:
+  view_count: 596
+  like_count: 11
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

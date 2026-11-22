@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Katherine Druckman, who leads community strategy at JetBrains, argues that the open source ecosystem’s reliance on volunteer maintainers is increasingly unsustainable, particularly as AI accelerate..."
 resource: "https://www.youtube.com/watch?v=W-9xslRp2oo"
+youtube_stats:
+  view_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

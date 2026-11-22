@@ -9,6 +9,10 @@ description:
   He explains that current LLMs are vulnerable to prompt attacks, such as time bandit
   attack...
 resource: https://www.youtube.com/watch?v=UI-b-Odg39A
+youtube_stats:
+  view_count: 211
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -11,6 +11,10 @@ description:
   multiple application platforms such as Kubernetes, Terraform, ECS, Lambda, and GCP
   C...
 resource: https://www.youtube.com/watch?v=hO3xdy2fiK4
+youtube_stats:
+  view_count: 119
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

@@ -11,6 +11,10 @@ description:
   rather than users, interact with enterprise systems. They explain that traditional
   AP...
 resource: https://www.youtube.com/watch?v=kc2NuTUt5Os
+youtube_stats:
+  view_count: 195
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

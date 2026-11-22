@@ -8,6 +8,9 @@ description:
   in software engineering, particularly in cloud-native technologies. Panelists emphasize
   the need to align platform requirements with business goals, understand user pers...
 resource: https://www.youtube.com/watch?v=KtW4HkonQHU
+youtube_stats:
+  view_count: 125
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

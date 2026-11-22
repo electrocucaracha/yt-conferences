@@ -10,6 +10,10 @@ description:
   discuss implementing dynamic, cluster-wide resource quotas in multi-tenant Kubernetes
   clusters using Crow and Kyverno. They explain that while Kubernetes natively...
 resource: https://www.youtube.com/watch?v=JtVMQmsI-4s
+youtube_stats:
+  view_count: 149
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

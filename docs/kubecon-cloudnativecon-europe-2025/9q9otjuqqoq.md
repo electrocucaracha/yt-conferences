@@ -10,6 +10,10 @@ description:
   discusses scheduling AI workload among multiple clusters or fleets of clusters.
   Open Cluster Management is a CNCF sandbox project that uses a hub-and-spoke topology...
 resource: https://www.youtube.com/watch?v=9q9oTJUqQoQ
+youtube_stats:
+  view_count: 138
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -11,6 +11,10 @@ description:
   his approach to legacy code and testing. Michael mentioned that he no longer focuses
   sol...
 resource: https://www.youtube.com/watch?v=P_6eDL1aqtA
+youtube_stats:
+  view_count: 74582
+  like_count: 360
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

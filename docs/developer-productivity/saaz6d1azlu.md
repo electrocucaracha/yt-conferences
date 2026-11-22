@@ -9,6 +9,10 @@ description:
   They argue that traditional approaches to design, such as "design up front," can
   be inef...
 resource: https://www.youtube.com/watch?v=Saaz6D1azlU
+youtube_stats:
+  view_count: 16431
+  like_count: 422
+  channel_subscriber_count: 105
 tags:
   - developer-productivity
   - video

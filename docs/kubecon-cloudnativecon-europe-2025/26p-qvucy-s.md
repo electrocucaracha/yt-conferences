@@ -8,6 +8,10 @@ description:
   various projects, including Ento, Tough, and Sig Store. They explain how signing
   artifacts with private keys and sharing public keys allows for verification of signatures...
 resource: https://www.youtube.com/watch?v=26p_qvuCy-s
+youtube_stats:
+  view_count: 154
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

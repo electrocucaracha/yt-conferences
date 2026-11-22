@@ -11,6 +11,10 @@ description:
   and automate infrastructure and IAM provisioning using Kubernetes operators and
   G...
 resource: https://www.youtube.com/watch?v=D6c5lsOz38U
+youtube_stats:
+  view_count: 285
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

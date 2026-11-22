@@ -11,6 +11,10 @@ description:
   and offering guidance on how to navigate it, especially for first-time attendees
   at e...
 resource: https://www.youtube.com/watch?v=Fh7s04iwOog
+youtube_stats:
+  view_count: 150
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

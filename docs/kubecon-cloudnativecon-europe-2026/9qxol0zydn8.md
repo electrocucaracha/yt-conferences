@@ -10,6 +10,10 @@ description:
   structured optical data from non-standardized documents like handwritten notes and
   forms in various languages, which is crucial for manufacturing precision lenses...
 resource: https://www.youtube.com/watch?v=9QXoL0ZYDn8
+youtube_stats:
+  view_count: 771
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

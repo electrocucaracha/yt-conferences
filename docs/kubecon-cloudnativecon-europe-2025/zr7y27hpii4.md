@@ -8,6 +8,10 @@ description:
   incident involving Log4j 1.4.12, which allowed attackers to execute arbitrary code
   in their backend services. The team realized that their current approach to manag...
 resource: https://www.youtube.com/watch?v=Zr7y27HpII4
+youtube_stats:
+  view_count: 462
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

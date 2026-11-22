@@ -11,6 +11,10 @@ description:
   supply chain security with a focus on signing images and verification. He reminisces
   ab...
 resource: https://www.youtube.com/watch?v=g--50XLcqRw
+youtube_stats:
+  view_count: 277
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

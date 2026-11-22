@@ -11,6 +11,10 @@ description:
   implementations of the protocol, making it extensible and agent-agnostic. Opamp
   enables fe...
 resource: https://www.youtube.com/watch?v=g8rtqqNTL9Q
+youtube_stats:
+  view_count: 1011
+  like_count: 17
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -11,6 +11,10 @@ description:
   introducing a new approach called Dynamic Resource Allocation (DRA). DRA allows
   users to r...
 resource: https://www.youtube.com/watch?v=PgCaIyeRn6Y
+youtube_stats:
+  view_count: 231
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

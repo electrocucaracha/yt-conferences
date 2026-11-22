@@ -10,6 +10,10 @@ description:
   management, and August Simonelli from Red Hat will discuss the standards and their
   implementation in the open cluster management project (OCM) and Kubby Fleet. The...
 resource: https://www.youtube.com/watch?v=I9GV4N23dvE
+youtube_stats:
+  view_count: 371
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

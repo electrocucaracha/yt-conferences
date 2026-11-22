@@ -11,6 +11,10 @@ description:
   which enables relationship-based access control and is designed for scalability.
   The p...
 resource: https://www.youtube.com/watch?v=1_w_ZRJ5lWk
+youtube_stats:
+  view_count: 264
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

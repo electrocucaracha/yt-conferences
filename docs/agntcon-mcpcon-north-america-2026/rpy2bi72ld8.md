@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'The presentation, titled "Your Agent Sandbox is Built Backwards," argues that current AI agent sandboxes rely on insecure "subtractive" security models, where broad permissions are granted and then...'
 resource: "https://www.youtube.com/watch?v=RPy2bI72lD8"
+youtube_stats:
+  view_count: 11
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

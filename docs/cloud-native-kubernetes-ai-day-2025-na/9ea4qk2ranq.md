@@ -10,6 +10,10 @@ description:
   framework for building, running, and managing AI agents, emphasizing its declarative,
   cloud-native design and integration with Kubernetes features like security, s...
 resource: https://www.youtube.com/watch?v=9EA4Qk2RaNQ
+youtube_stats:
+  view_count: 501
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

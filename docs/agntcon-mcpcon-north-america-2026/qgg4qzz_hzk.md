@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Yaron Schneider, CTO of Dial Grid, argues that deploying AI agents in production requires robust guardrails to address the inherent unreliability of distributed systems and the probabilistic nature..."
 resource: "https://www.youtube.com/watch?v=qGG4QzZ_Hzk"
+youtube_stats:
+  view_count: 12
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -11,6 +11,10 @@ description:
   as Mocha. The platform ingests and processes large-scale data using a combination
   o...
 resource: https://www.youtube.com/watch?v=8P2y_gyHQA8
+youtube_stats:
+  view_count: 119
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

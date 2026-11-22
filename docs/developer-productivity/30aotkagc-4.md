@@ -10,6 +10,10 @@ description:
   development. He shares his experience working on game engines at EA and how he eventually
   left to build his own engine, Hazel, which has a simpler architecture than existing.
 resource: https://www.youtube.com/watch?v=30AOTkAgc_4
+youtube_stats:
+  view_count: 32429
+  like_count: 988
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

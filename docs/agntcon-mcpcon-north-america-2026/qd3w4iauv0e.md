@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Riley, ingeniero de software con más de una década de experiencia, presenta los desafíos de crear aplicaciones MCP (Model Context Protocol) que funcionen en tiempo real y en múltiples plataformas."
 resource: "https://www.youtube.com/watch?v=qd3W4iAUv0E"
+youtube_stats:
+  view_count: 18
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

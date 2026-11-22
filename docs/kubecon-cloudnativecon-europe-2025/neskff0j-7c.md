@@ -8,6 +8,9 @@ description:
   gratitude to speakers and the audience alike. They encouraged viewers to check out
   the sponsored demo theater in the solutions showcase during the break, featuring...
 resource: https://www.youtube.com/watch?v=nESkFf0j_7c
+youtube_stats:
+  view_count: 22
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

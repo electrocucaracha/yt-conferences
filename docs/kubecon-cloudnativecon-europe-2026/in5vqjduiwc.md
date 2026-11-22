@@ -11,6 +11,10 @@ description:
   calculations. He explains the limitations of the classic rate function, such as
   incomplet..."
 resource: https://www.youtube.com/watch?v=iN5vQjDuiWc
+youtube_stats:
+  view_count: 238
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

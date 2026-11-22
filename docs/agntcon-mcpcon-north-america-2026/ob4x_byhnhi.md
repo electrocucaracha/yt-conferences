@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Grace Whitinger and Christopher Newlan from Red Hat presented a framework for sensitivity-aware LLM routing designed to optimize cost, data sovereignty, and latency in enterprise environments."
 resource: "https://www.youtube.com/watch?v=OB4x_byHNhI"
+youtube_stats:
+  view_count: 7
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   operators, highlighting the challenges faced and how they overcame them with a design
   pattern. They introduce the concept of microcontrollers, which divide complex logic...
 resource: https://www.youtube.com/watch?v=m8ZnlZTo1OE
+youtube_stats:
+  view_count: 417
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

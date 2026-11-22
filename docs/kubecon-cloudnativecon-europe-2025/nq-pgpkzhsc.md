@@ -11,6 +11,10 @@ description:
   Kubernetes, serverless, and VMs. The goal is to shift abstraction from developers
   to...
 resource: https://www.youtube.com/watch?v=Nq_PgPKZHsc
+youtube_stats:
+  view_count: 136
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

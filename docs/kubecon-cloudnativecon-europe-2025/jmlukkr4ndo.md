@@ -11,6 +11,10 @@ description:
   project under 7 megabytes, designed for IT, IoT, CI/CD, and edge computing, with
   over 1...
 resource: https://www.youtube.com/watch?v=jmLuKkr4ndo
+youtube_stats:
+  view_count: 177
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

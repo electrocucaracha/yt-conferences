@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Geetha Ramachandran, who leads cloud and platform engineering at FINRA, presents a case study on expanding AI capabilities beyond simple code assistance to address the broader Software Development ..."
 resource: "https://www.youtube.com/watch?v=xaFnnKq3xxE"
+youtube_stats:
+  view_count: 7
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

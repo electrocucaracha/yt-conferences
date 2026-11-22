@@ -9,6 +9,10 @@ description:
   case and understanding the customer's needs is crucial. The speaker shares their
   expe...
 resource: https://www.youtube.com/watch?v=6NIh-GsO1Kg
+youtube_stats:
+  view_count: 1727
+  like_count: 24
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

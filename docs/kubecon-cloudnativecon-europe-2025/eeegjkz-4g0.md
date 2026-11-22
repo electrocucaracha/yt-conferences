@@ -11,6 +11,10 @@ description:
   complexity and maintenance challenges. Gateway API has been gaining popularity with
   over...
 resource: https://www.youtube.com/watch?v=EeegJKZ_4g0
+youtube_stats:
+  view_count: 513
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

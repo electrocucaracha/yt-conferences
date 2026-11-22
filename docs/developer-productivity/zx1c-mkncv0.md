@@ -11,6 +11,10 @@ description:
   Domain-Driven Software". The authors explain that domain storytelling is a collaborative
   ap...'
 resource: https://www.youtube.com/watch?v=zx1C_MKncv0
+youtube_stats:
+  view_count: 35937
+  like_count: 172
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

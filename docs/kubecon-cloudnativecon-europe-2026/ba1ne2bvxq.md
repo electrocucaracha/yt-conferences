@@ -10,6 +10,10 @@ description:
   in Europe, is shaping policy and legislation around open source technology, citing
   examples like the Cyber Resilience Act and EU tech initiatives. While these effort...
 resource: https://www.youtube.com/watch?v=_ba1NE2bvXQ
+youtube_stats:
+  view_count: 579
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

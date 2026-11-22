@@ -8,6 +8,10 @@ description:
   and architect, discusses the enduring relevance and power of command line tools
   in modern software development. He explains that command line utilities remain essential...
 resource: https://www.youtube.com/watch?v=bWDuXAQJX8Y
+youtube_stats:
+  view_count: 4915
+  like_count: 71
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

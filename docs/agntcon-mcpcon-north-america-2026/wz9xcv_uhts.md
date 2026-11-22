@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Jonathan Hefner, a developer at Vercel, presents a critical analysis of the challenges involved in developing open standards for AI agent plugins, specifically focusing on the tension between stand..."
 resource: "https://www.youtube.com/watch?v=wz9xCv_UHts"
+youtube_stats:
+  view_count: 10
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

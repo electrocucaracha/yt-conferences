@@ -10,6 +10,10 @@ description:
   of enabling swap on Kubernetes nodes for running large language model (LLM) workloads.
   He explains that while enabling swap can prevent out-of-memory (OM) kills and...
 resource: https://www.youtube.com/watch?v=Go3JMhvAhlc
+youtube_stats:
+  view_count: 207
+  like_count: 8
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

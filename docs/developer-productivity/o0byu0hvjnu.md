@@ -10,6 +10,10 @@ description:
   Edge browser, discussed his current thinking on making development more efficient
   and accessible. He emphasized the importance of breaking up monolithic IDEs int...
 resource: https://www.youtube.com/watch?v=o0bYu0HVjNU
+youtube_stats:
+  view_count: 33676
+  like_count: 107
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

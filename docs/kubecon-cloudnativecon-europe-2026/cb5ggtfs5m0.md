@@ -11,6 +11,10 @@ description:
   machines for running containers on macOS, Lima now supports multiple host and guest
   oper...
 resource: https://www.youtube.com/watch?v=Cb5gGTFS5M0
+youtube_stats:
+  view_count: 304
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

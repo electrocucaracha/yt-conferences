@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'Jeremy Adams, a senior developer advocate at Neo4j, presents a talk arguing that while the Model Context Protocol (MCP) serves as an essential "USB-C connector" for AI agents, it is insufficient fo...'
 resource: "https://www.youtube.com/watch?v=uBNBDNaCuqQ"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

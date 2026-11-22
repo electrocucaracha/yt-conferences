@@ -9,6 +9,10 @@ description:
   is a continuous delivery tool that helps deploy new versions of applications to
   pro...
 resource: https://www.youtube.com/watch?v=jikiO3CC7Zw
+youtube_stats:
+  view_count: 350
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -8,6 +8,10 @@ description:
   in test or production environment to improve its resilience. They share their personal
   experience with outages and how they learned from them, including the impo...
 resource: https://www.youtube.com/watch?v=OHWKr4USyGg
+youtube_stats:
+  view_count: 1949
+  like_count: 33
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

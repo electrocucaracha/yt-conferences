@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Ian, a founder at Proof, introduces the company’s mission to secure internet transactions using legal identity and cryptographic credentials."
 resource: "https://www.youtube.com/watch?v=fo-QeBhyLDA"
+youtube_stats:
+  view_count: 2
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

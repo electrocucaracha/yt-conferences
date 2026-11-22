@@ -11,6 +11,10 @@ description:
   failures. They introduce Deer, an open-source project that provides a distributed
   appl...
 resource: https://www.youtube.com/watch?v=KPNuLwXNkNQ
+youtube_stats:
+  view_count: 289
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

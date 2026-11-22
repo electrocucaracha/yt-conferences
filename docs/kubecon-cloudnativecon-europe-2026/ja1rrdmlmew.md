@@ -11,6 +11,10 @@ description:
   operations. She explains the importance of reproducibility in ML, using an analogy
   of tw...
 resource: https://www.youtube.com/watch?v=JA1rrdMLmew
+youtube_stats:
+  view_count: 333
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

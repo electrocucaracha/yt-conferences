@@ -10,6 +10,10 @@ description:
   designed to simplify and scale machine learning workflows on Kubernetes. Maintainers
   from various organizations discuss Kubeflow’s modular components, including to...
 resource: https://www.youtube.com/watch?v=AYmD3LNlNYs
+youtube_stats:
+  view_count: 298
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

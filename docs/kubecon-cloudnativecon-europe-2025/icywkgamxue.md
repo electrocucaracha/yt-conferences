@@ -11,6 +11,10 @@ description:
   a visual interface for creating infrastructure without writing YAML files. With
   Mishri, u...
 resource: https://www.youtube.com/watch?v=IcYwKgAMXuE
+youtube_stats:
+  view_count: 163
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

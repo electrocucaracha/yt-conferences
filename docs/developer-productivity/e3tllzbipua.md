@@ -9,6 +9,10 @@ description:
   with scaling and hypergrowth in organizations. They emphasize the importance of
   princi...
 resource: https://www.youtube.com/watch?v=E3tllzBipuA
+youtube_stats:
+  view_count: 1278
+  like_count: 15
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

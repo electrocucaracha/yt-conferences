@@ -10,6 +10,10 @@ description:
   and AI to prevent wildfires. Wildfires are destructive events that can cause significant
   loss of life and property. In California, over 60% of the most destructiv...
 resource: https://www.youtube.com/watch?v=1rtyQaTfbdM
+youtube_stats:
+  view_count: 218
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

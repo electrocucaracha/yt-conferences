@@ -8,6 +8,10 @@ description:
   of the Kubernetes scheduler, specifically the Scheduleuler component. Recent updates
   include "queuing hints" to handle unschedulable parts by retrying them after a certa...
 resource: https://www.youtube.com/watch?v=ZIk_EqI8rVA
+youtube_stats:
+  view_count: 271
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

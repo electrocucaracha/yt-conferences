@@ -10,6 +10,10 @@ description:
   Kubernetes from an API-centric perspective rather than just as a container orchestrator.
   He explains that Kubernetes’ core is its API, which enables data exchange and...
 resource: https://www.youtube.com/watch?v=kJCvn4LR5lM
+youtube_stats:
+  view_count: 167
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

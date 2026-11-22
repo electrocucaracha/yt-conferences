@@ -11,6 +11,10 @@ description:
   and observability to workloads without exceptions. It uses shared CRDs, which are
   si...
 resource: https://www.youtube.com/watch?v=5CyAZBUH1f8
+youtube_stats:
+  view_count: 106
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

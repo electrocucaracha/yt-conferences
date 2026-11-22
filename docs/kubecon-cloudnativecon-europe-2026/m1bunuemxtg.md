@@ -11,6 +11,9 @@ description:
   support AI workloads in South Korea. The HANE cluster, built with over 1,000 Blackwell
   GP...
 resource: https://www.youtube.com/watch?v=m1buNUEmXTg
+youtube_stats:
+  view_count: 442
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

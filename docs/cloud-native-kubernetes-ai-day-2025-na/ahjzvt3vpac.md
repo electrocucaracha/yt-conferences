@@ -10,6 +10,10 @@ description:
   be running smoothly, but underlying network or connectivity errors can cause GPUs
   to sit i..."
 resource: https://www.youtube.com/watch?v=AHjZvT3vpAc
+youtube_stats:
+  view_count: 84
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - cloud-native-kubernetes-ai-day-2025-na
   - video

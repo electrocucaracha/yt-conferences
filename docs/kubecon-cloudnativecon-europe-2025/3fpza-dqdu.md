@@ -11,6 +11,10 @@ description:
   tracing system used in microservices architectures. Distributed tracing is essential
   for...
 resource: https://www.youtube.com/watch?v=_3fpZA-DqDU
+youtube_stats:
+  view_count: 907
+  like_count: 10
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -11,6 +11,10 @@ description:
   and knowledge bases for engineers, Backstage aims to be a single pane of glass,
   surfac...
 resource: https://www.youtube.com/watch?v=8kqw3JYFL18
+youtube_stats:
+  view_count: 31026
+  like_count: 94
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -11,6 +11,10 @@ description:
   presents challenges, such as communication and scheduling overhead, it can also
   improve...
 resource: https://www.youtube.com/watch?v=7cPOa5FX_Rw
+youtube_stats:
+  view_count: 3544
+  like_count: 44
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

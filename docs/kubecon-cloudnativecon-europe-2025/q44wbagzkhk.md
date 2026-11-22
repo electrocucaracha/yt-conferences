@@ -8,6 +8,10 @@ description:
   no-code automation startup that uses gRPC for all its services. He shares his experience
   with gRPC, which he has been using for five years, and highlights its benef...
 resource: https://www.youtube.com/watch?v=q44WBAGzKhk
+youtube_stats:
+  view_count: 452
+  like_count: 9
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

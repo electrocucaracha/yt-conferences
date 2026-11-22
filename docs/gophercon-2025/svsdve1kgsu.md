@@ -7,7 +7,7 @@ type: Video Note
 description: 'Patricia Orderingslow presents a talk on the concept of "GOOS=NOOS," a proposed change to the Go runtime that enables bare-metal support by eliminating dependencies on an operating system.'
 resource: "https://www.youtube.com/watch?v=SvsdVe1kgSU"
 youtube_stats:
-  view_count: 12104
+  view_count: 12105
   like_count: 507
   channel_subscriber_count: 41100
 tags:

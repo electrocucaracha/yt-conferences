@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'The speaker, founder of the startup AG2, introduces a new network concept called "dot space" designed to facilitate collaboration between personal AI agents and their human owners.'
 resource: "https://www.youtube.com/watch?v=j5fVujCZtu8"
+youtube_stats:
+  view_count: 4
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

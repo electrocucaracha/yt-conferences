@@ -10,6 +10,10 @@ description:
   participants access a QR code to join the game. The game involves recognizing signs
   using a front camera, with the model trained on this specific camera. The game con...
 resource: https://www.youtube.com/watch?v=YvXCcSjXKEQ
+youtube_stats:
+  view_count: 166
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'The video addresses the "trilemma" facing AI agent developers, who often must sacrifice capability, autonomy, or security when granting agents access to resources.'
 resource: "https://www.youtube.com/watch?v=NI-6iiojItg"
+youtube_stats:
+  view_count: 3
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

@@ -10,6 +10,10 @@ description:
   in the cloud-native era, focusing on HSBC's journey transitioning from virtual machines
   to a Kubernetes-based PostgreSQL platform. Contrary to predictions that the DBA...
 resource: https://www.youtube.com/watch?v=m0LBKjlxrog
+youtube_stats:
+  view_count: 921
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

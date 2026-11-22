@@ -10,6 +10,10 @@ description:
   of implementing machine learning workflows for sign language recognition with CubeFlow.
   He highlights the need for context and spatial awareness in sign language...
 resource: https://www.youtube.com/watch?v=UfYctUtDDfQ
+youtube_stats:
+  view_count: 717
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

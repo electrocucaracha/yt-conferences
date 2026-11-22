@@ -11,6 +11,10 @@ description:
   clusters: horizontal scaling, cluster upgrades, and recovering from backups. By
   l..."
 resource: https://www.youtube.com/watch?v=nTmwmd4fcGI
+youtube_stats:
+  view_count: 185
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

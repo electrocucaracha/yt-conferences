@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Yuki Watanabe from Databricks presents a framework for building production-ready AI agents by addressing the limitations of generic evaluations, which often fail to capture real-world operational f..."
 resource: "https://www.youtube.com/watch?v=t69jk07lMxE"
+youtube_stats:
+  view_count: 11
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

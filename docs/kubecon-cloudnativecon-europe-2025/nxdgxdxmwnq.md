@@ -10,6 +10,10 @@ description:
   application takes more than its fair share of resources on a server, degrading performance
   for other applications. This issue is particularly problematic in cloud-native...
 resource: https://www.youtube.com/watch?v=nXdGXdxmWNQ
+youtube_stats:
+  view_count: 264
+  like_count: 3
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

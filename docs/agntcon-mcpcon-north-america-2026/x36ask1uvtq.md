@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Buzz is an open-source application developed by Block that unifies human teams, AI agents, and projects into a single collaborative system, leveraging a shared messaging protocol to streamline deci..."
 resource: "https://www.youtube.com/watch?v=x36AsK1UvTQ"
+youtube_stats:
+  view_count: 10
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

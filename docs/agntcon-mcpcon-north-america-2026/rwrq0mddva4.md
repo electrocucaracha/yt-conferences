@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: 'This presentation, titled "Gotta Catch Them All: Agent Skills," explores the concept of "skills" as reusable folders containing instructions and supporting files that guide AI agents through specif...'
 resource: "https://www.youtube.com/watch?v=rWrQ0MddvA4"
+youtube_stats:
+  view_count: 5
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

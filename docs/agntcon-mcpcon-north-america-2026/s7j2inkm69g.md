@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Abhishek, co-founder of TrueFoundry, addresses the critical challenge of deploying AI agents in production environments where the inherent unpredictability of large language models poses significan..."
 resource: "https://www.youtube.com/watch?v=s7J2inKm69g"
+youtube_stats:
+  view_count: 5
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

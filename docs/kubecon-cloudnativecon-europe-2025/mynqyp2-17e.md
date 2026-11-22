@@ -9,6 +9,9 @@ description:
   to visit sponsors before it's too late. They also acknowledge co-chair Casper, expressing
   g...
 resource: https://www.youtube.com/watch?v=mynQyP2_17E
+youtube_stats:
+  view_count: 80
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

@@ -11,6 +11,10 @@ description:
   problem or scenario, while generic solutions are flexible and reusable. The speaker
   i...
 resource: https://www.youtube.com/watch?v=lh5qWwIj06s
+youtube_stats:
+  view_count: 41594
+  like_count: 269
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

@@ -10,6 +10,10 @@ description:
   large-scale migration from multiple outdated Kubernetes flavors to a consolidated,
   modern platform. Facing challenges such as six different Kubernetes setups across...
 resource: https://www.youtube.com/watch?v=MNAcbHUBERU
+youtube_stats:
+  view_count: 340
+  like_count: 16
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

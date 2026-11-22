@@ -8,6 +8,10 @@ description:
   to the event. The organizers express hope that participants enjoyed the first day,
   which featured collocated events and lightning talks. They look forward to meet...
 resource: https://www.youtube.com/watch?v=hpwJs1DJAo4
+youtube_stats:
+  view_count: 10012
+  like_count: 18
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

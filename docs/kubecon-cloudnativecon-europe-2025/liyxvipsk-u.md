@@ -10,6 +10,10 @@ description:
   problem, focusing on secure software distribution using the Tough Update Framework
   (TU). They explain how TU uses a principle of compromise resilience to protect again...
 resource: https://www.youtube.com/watch?v=lIYXVIPsk_U
+youtube_stats:
+  view_count: 196
+  like_count: 4
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

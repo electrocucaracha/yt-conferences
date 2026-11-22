@@ -8,6 +8,10 @@ description:
   improving systems in software development. He emphasizes that succeeding with software
   at scale is incredibly hard due to psychological factors such as coordination between.
 resource: https://www.youtube.com/watch?v=-z5EWVyRhOo
+youtube_stats:
+  view_count: 32933
+  like_count: 169
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

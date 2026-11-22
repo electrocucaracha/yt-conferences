@@ -10,6 +10,10 @@ description:
   control plane and shares two techniques: API Priority and Fairness (APF) and Resource
   Quota. APF helps prevent a single user from affecting the stability of the p..."
 resource: https://www.youtube.com/watch?v=c73SzCKx-OY
+youtube_stats:
+  view_count: 352
+  like_count: 6
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

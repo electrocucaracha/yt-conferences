@@ -11,6 +11,10 @@ description:
   escalated into an all-night deep dive. With a background in IT systems engineering
   an...
 resource: https://www.youtube.com/watch?v=_BNw50ccW-0
+youtube_stats:
+  view_count: 40
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

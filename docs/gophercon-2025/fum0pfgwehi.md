@@ -7,7 +7,7 @@ type: Video Note
 description: 'The speaker presents a case study on Go escape analysis, comparing two algorithms designed to find and replace the name "Elvis" in a data stream.'
 resource: "https://www.youtube.com/watch?v=FUm0pfgWehI"
 youtube_stats:
-  view_count: 3703
+  view_count: 3706
   like_count: 100
   channel_subscriber_count: 41100
 tags:

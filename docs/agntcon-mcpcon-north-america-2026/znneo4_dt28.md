@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Will and Taylor from Block presented how engineering and design collaborate within Buzz, a platform built on Nostr technology that emphasizes persistent, shared context through dedicated channels."
 resource: "https://www.youtube.com/watch?v=ZnNeO4_dt28"
+youtube_stats:
+  view_count: 24
+  like_count: 1
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

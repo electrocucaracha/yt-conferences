@@ -10,6 +10,9 @@ description:
   focusing this time on achieving full-stack observability on a budget. The presenter
   guides participants through setting up a Kubernetes cluster, deploying observabilit...
 resource: https://www.youtube.com/watch?v=2iW0DMZqMMA
+youtube_stats:
+  view_count: 82
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

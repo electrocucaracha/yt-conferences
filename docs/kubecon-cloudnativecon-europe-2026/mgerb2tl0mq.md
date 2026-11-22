@@ -10,6 +10,10 @@ description:
   developed by Edy Corporation, designed to provide unified, scalable, and reliable
   infrastructure across multiple regions and availability zones. Built on OpenStack...
 resource: https://www.youtube.com/watch?v=MgerB2Tl0MQ
+youtube_stats:
+  view_count: 156
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

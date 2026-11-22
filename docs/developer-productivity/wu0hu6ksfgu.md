@@ -11,6 +11,10 @@ description:
   Chaos theory explains how systems can be both ordered and chaotic, and how non-linear
   sys...
 resource: https://www.youtube.com/watch?v=WU0hu6KSFGU
+youtube_stats:
+  view_count: 2108
+  like_count: 42
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

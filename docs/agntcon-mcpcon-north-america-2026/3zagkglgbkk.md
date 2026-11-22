@@ -6,6 +6,10 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "James Ward and Alex Yafy present a strategic shift in Model Context Protocol (MCP) design, arguing that MCP endpoints should be treated as active participants in an agentic conversation rather than..."
 resource: "https://www.youtube.com/watch?v=3ZagKglGbkk"
+youtube_stats:
+  view_count: 64
+  like_count: 3
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

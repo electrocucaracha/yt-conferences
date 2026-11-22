@@ -6,6 +6,9 @@ parent: AGNTCon + MCPCon North America 2026
 type: Video Note
 description: "Andrew Nolan, cocreador de Web MCP, presenta un nuevo Comité de Industrias Aplicadas de la AAIF, explicando que durante su licencia de paternidad reflexionó sobre los desafíos que enfrentan diferen..."
 resource: "https://www.youtube.com/watch?v=kOItZdwge2o"
+youtube_stats:
+  view_count: 15
+  channel_subscriber_count: 29000
 tags:
   - agntcon-mcpcon-north-america-2026
   - video

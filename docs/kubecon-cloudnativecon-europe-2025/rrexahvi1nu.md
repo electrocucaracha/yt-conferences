@@ -11,6 +11,10 @@ description:
   policies API, ability to define secrets on zone level, option to exclude policy
   from...
 resource: https://www.youtube.com/watch?v=rRExAhVI1nU
+youtube_stats:
+  view_count: 127
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

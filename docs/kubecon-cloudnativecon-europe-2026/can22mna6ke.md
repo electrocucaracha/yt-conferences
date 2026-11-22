@@ -11,6 +11,10 @@ description:
   Spotify routed every request through a custom Envoy proxy and a Java sidecar for
   re...
 resource: https://www.youtube.com/watch?v=CAn22mnA6kE
+youtube_stats:
+  view_count: 268
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

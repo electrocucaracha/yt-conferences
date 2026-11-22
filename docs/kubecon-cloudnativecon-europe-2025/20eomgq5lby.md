@@ -11,6 +11,10 @@ description:
   250 million lines of code and 370 repositories, Rust is among the top programming
   lan...
 resource: https://www.youtube.com/watch?v=20eoMgq5lbY
+youtube_stats:
+  view_count: 126
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

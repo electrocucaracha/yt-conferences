@@ -11,6 +11,10 @@ description:
   industry-standard open-source solutions. They present four approaches to address
   capabi...
 resource: https://www.youtube.com/watch?v=yeg-uoBYCO0
+youtube_stats:
+  view_count: 124
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

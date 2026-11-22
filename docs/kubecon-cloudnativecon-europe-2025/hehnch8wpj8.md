@@ -9,6 +9,10 @@ description:
   supports various features, including auto-detection of metadata, custom install
   instru...
 resource: https://www.youtube.com/watch?v=HEhnch8Wpj8
+youtube_stats:
+  view_count: 100
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

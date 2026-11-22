@@ -11,6 +11,10 @@ description:
   to be serviced in multiple geographies with low latency, following the Kubernetes
   opera...
 resource: https://www.youtube.com/watch?v=YMyrcqZ2sbU
+youtube_stats:
+  view_count: 187
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

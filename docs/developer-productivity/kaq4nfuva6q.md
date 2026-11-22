@@ -11,6 +11,10 @@ description:
   app that allows users to create a graph relationship between notes, making it easy
   to c...
 resource: https://www.youtube.com/watch?v=kAq4nFuVa6Q
+youtube_stats:
+  view_count: 5406
+  like_count: 53
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

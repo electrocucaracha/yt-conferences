@@ -9,6 +9,10 @@ description:
   a solution by building on existing technologies like Headlamp, which provides an
   embedded...
 resource: https://www.youtube.com/watch?v=d2szUE0jhX4
+youtube_stats:
+  view_count: 701
+  like_count: 7
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video

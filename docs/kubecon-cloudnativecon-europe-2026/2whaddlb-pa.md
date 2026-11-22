@@ -11,6 +11,10 @@ description:
   Notary signs and verifies container images at the manifest level during the pull
   phase...
 resource: https://www.youtube.com/watch?v=2WhADdlb_pA
+youtube_stats:
+  view_count: 153
+  like_count: 2
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

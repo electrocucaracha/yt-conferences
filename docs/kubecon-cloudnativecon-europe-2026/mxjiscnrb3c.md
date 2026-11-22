@@ -11,6 +11,10 @@ description:
   Initially, Asana’s centralized security model created bottlenecks and friction,
   as...
 resource: https://www.youtube.com/watch?v=mxjiSCnrb3c
+youtube_stats:
+  view_count: 132
+  like_count: 1
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

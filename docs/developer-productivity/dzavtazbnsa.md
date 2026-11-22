@@ -9,6 +9,10 @@ description:
   and choose the parts they want to use. He argues that current SDKs are often inflexible
   a...
 resource: https://www.youtube.com/watch?v=dzaVtAZBnsA
+youtube_stats:
+  view_count: 3932
+  like_count: 86
+  channel_subscriber_count: 1050000
 tags:
   - developer-productivity
   - video

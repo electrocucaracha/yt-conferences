@@ -10,6 +10,10 @@ description:
   its development, extensibility, and integration with other projects like Kubernetes,
   Docker, and Rancher. They highlight containerd’s unopinionated design, its wi...
 resource: https://www.youtube.com/watch?v=_mg1LtSNVCg
+youtube_stats:
+  view_count: 230
+  like_count: 5
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2026
   - video

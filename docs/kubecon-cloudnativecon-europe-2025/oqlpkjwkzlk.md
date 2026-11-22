@@ -10,6 +10,10 @@ description:
   Kubernetes, highlighting challenges such as availability, multi-tenancy, and scalability.
   They introduce Cortex, a scalable and open-source project that breaks down Prom...
 resource: https://www.youtube.com/watch?v=OqLpKJwKZlk
+youtube_stats:
+  view_count: 518
+  like_count: 14
+  channel_subscriber_count: 141000
 tags:
   - kubecon-cloudnativecon-europe-2025
   - video
