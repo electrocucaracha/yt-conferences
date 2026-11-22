@@ -7,11 +7,20 @@
 # http://www.apache.org/licenses/LICENSE-2.0
 ##############################################################################
 
-.PHONY: fmt check validate build preview qmd-setup qmd-update qmd-embed qmd-check qmd-mcp clean
+.PHONY: fmt check validate build preview qmd-setup qmd-update qmd-embed qmd-check qmd-mcp clean lint template-check template-diff template-update
 DOCKER_CMD ?= $(shell which docker 2> /dev/null || which podman 2> /dev/null || echo docker)
+TOOLS := uv run --no-project --python 3.12 --with-requirements requirements-dev.txt
 
 cleanup:
 	rm -rf node_modules
+
+lint:
+	$(TOOLS) black --check --config pyproject.toml scripts
+	$(TOOLS) isort --check-only --settings-path pyproject.toml scripts
+	$(TOOLS) ruff check --config pyproject.toml scripts
+	$(TOOLS) pylint --rcfile pyproject.toml scripts
+	$(TOOLS) mypy --config-file pyproject.toml scripts
+	$(TOOLS) bandit --recursive --severity-level medium --confidence-level medium scripts
 
 fmt: cleanup
 	command -v textlint > /dev/null && npm list --global --depth=0 textlint-rule-terminology > /dev/null 2>&1 || sudo npm install --global textlint textlint-rule-terminology
@@ -60,4 +69,13 @@ qmd-check:
 
 qmd-mcp:
 	QMD_FORCE_CPU=1 qmd mcp
+
+template-check:
+	uv run --no-project --python 3.12 --with-requirements requirements-dev.txt cruft check
+
+template-diff:
+	uv run --no-project --python 3.12 --with-requirements requirements-dev.txt cruft diff
+
+template-update:
+	uv run --no-project --python 3.12 --with-requirements requirements-dev.txt cruft update --skip-apply-ask
 
