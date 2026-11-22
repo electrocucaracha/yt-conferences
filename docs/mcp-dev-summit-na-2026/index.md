@@ -1,12 +1,3 @@
----
-layout: default
-title: MCP Dev Summit NA 2026
-has_children: true
-nav_order: 15
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PLjULwdJUtFdhIBhibLEogtK1XYCNaFyFl"
----
-
 # MCP Dev Summit NA 2026
 
 ## Executive Overview

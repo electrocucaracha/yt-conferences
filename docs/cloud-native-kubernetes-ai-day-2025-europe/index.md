@@ -1,12 +1,3 @@
----
-layout: default
-title: "Cloud Native & Kubernetes AI Day 2025 - Europe"
-has_children: true
-nav_order: 4
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PLj6h78yzYM2PRMe1c34bs0sdXo2mlsUov"
----
-
 # Cloud Native & Kubernetes AI Day 2025 - Europe
 
 ## Executive Overview

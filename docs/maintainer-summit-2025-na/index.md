@@ -1,12 +1,3 @@
----
-layout: default
-title: "Maintainer Summit 2025 - NA"
-has_children: true
-nav_order: 15
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PLj6h78yzYM2OPbGEIqJk2AT25wGu9mY8V"
----
-
 # Maintainer Summit 2025 - NA
 
 ## Executive Overview

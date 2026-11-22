@@ -1,12 +1,3 @@
----
-layout: default
-title: PyCon US 2024
-has_children: true
-nav_order: 18
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYhjub9bw4uDAmNtprgAvlJ"
----
-
 # PyCon US 2024
 
 ## Executive Overview

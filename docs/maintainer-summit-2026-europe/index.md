@@ -1,12 +1,3 @@
----
-layout: default
-title: "Maintainer Summit 2026 - Europe"
-has_children: true
-nav_order: 15
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PLj6h78yzYM2PTpNYGMb_gjiMJFzR1n8iD"
----
-
 # Maintainer Summit 2026 - Europe
 
 ## Executive Overview

@@ -1,11 +1,3 @@
----
-layout: default
-title: "Large Language Models Llms"
-has_children: true
-nav_order: 12
-okf_version: "0.2"
----
-
 # Large Language Models Llms
 
 ## Executive Overview

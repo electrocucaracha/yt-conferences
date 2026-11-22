@@ -1,12 +1,3 @@
----
-layout: default
-title: PyCon US 2026
-has_children: true
-nav_order: 20
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYg5fYUg9tzVrY3zCT7W7Y7"
----
-
 # PyCon US 2026
 
 ## Executive Overview

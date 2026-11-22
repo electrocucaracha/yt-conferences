@@ -1,12 +1,3 @@
----
-layout: default
-title: "Stanford CME295: Transformers and Large Language Models I Autumn 2025"
-has_children: true
-nav_order: 17
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy"
----
-
 # Stanford CME295: Transformers and Large Language Models I Autumn 2025
 
 ## Executive Overview

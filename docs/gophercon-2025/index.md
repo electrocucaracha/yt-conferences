@@ -1,12 +1,3 @@
----
-layout: default
-title: GopherCon 2025
-has_children: true
-nav_order: 7
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PL2ntRZ1ySWBeBA1lEnmD3vUedkRDvgnmw"
----
-
 # GopherCon 2025
 
 ## Executive Overview

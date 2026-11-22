@@ -1,12 +1,3 @@
----
-layout: default
-title: "Maintainer Summit 2025 - Europe"
-has_children: true
-nav_order: 14
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PLj6h78yzYM2PfvoC5c0702tr4rk-W6KS4"
----
-
 # Maintainer Summit 2025 - Europe
 
 ## Executive Overview

@@ -1,12 +1,3 @@
----
-layout: default
-title: PyCon US 2025
-has_children: true
-nav_order: 18
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PL2Uw4_HvXqvb98mQjN0-rYQjdDxJ_hcrs"
----
-
 # PyCon US 2025
 
 ## Executive Overview

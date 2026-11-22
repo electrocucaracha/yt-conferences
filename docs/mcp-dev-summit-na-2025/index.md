@@ -1,11 +1,3 @@
----
-layout: default
-title: "Mcp Dev Summit Na 2025"
-has_children: true
-nav_order: 18
-okf_version: "0.2"
----
-
 # Mcp Dev Summit Na 2025
 
 ## Executive Overview
