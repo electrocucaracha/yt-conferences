@@ -1,11 +1,3 @@
----
-layout: default
-title: OpenInfra Summit Europe 2025
-has_children: true
-nav_order: 18
-okf_version: "0.2"
-resource: "https://www.youtube.com/playlist?list=PLKqaoAnDyfgr91wN_12nwY321504Ctw1s"
----
 
 # OpenInfra Summit Europe 2025
 
