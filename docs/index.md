@@ -25,6 +25,7 @@ okf_version: "0.2"
 - [Mcp Dev Summit Eu 2025 (33 notes)](mcp-dev-summit-eu-2025/index.md) - Topic collection
 - [Mcp Dev Summit Na 2025 (20 notes)](mcp-dev-summit-na-2025/index.md) - Topic collection
 - [MCP Dev Summit NA 2026 (137 notes)](mcp-dev-summit-na-2026/index.md) - Topic collection
+- [OpenInfra Summit Europe 2025 (151 notes)](openinfra-summit-europe-2025/index.md) - Topic collection
 - [PyCon US 2024 (209 notes)](pycon-us-2024/index.md) - Topic collection
 - [PyCon US 2025 (119 notes)](pycon-us-2025/index.md) - Topic collection
 - [PyCon US 2026 (130 notes)](pycon-us-2026/index.md) - Topic collection
