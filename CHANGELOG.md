@@ -9,6 +9,66 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.1.0] - 2026-11-22
+
+### Added
+
+- Enabled access to detailed summaries of OpenInfra Summit Europe 2025 sessions, covering topics such as AI integration, migration from VMware, and infrastructure scaling, through a dedicated directory and central index page. [12f958fb](https://github.com/electrocucaracha/yt-conferences/commit/12f958fb7ac8abf454e537515c7fea02f6ae2620)
+
+## [7.0.1] - 2026-11-22
+
+### Changed
+
+- Standardized YouTube engagement tracking across multiple events by enabling view count, channel subscriber count, and like count where available in each event documentation file. [7de0f502](https://github.com/electrocucaracha/yt-conferences/commit/7de0f5026bed7d2911046d91b433b87960a993db)
+
+## [7.0.0] - 2026-11-22
+
+### Removed
+
+- Simplified event documentation pages by eliminating unnecessary metadata such as layout, titles, navigation order, and version information, which is no longer required for processing in certain environments. [ab1ac171](https://github.com/electrocucaracha/yt-conferences/commit/ab1ac17143539844bcb37eaac1a4ab3c10be4632)
+
+## [6.3.2] - 2026-11-22
+
+### Changed
+
+- Enabled streamlined development workflows with new targets for code linting and template management, allowing for consistent code quality enforcement and improved project maintenance. [4a9f8462](https://github.com/electrocucaracha/yt-conferences/commit/4a9f84623cc39117cd0a772765e848c9a4af3540)
+
+## [6.3.1] - 2026-11-22
+
+### Changed
+
+- Optimized code style to suppress false positives from the Bandit security tool and enhance readability by introducing a `nosec` comment and adjusting docstring examples for better maintainability. [7fd32db8](https://github.com/electrocucaracha/yt-conferences/commit/7fd32db8b2c8aeac148cb86489a967a9f5409608)
+
+## [6.3.0] - 2026-11-22
+
+### Added
+
+- Enhanced documentation with 209 new files covering keynotes, talks, tutorials, and sponsor sessions from PyCon US 2024, including executive summaries, main points, and video links, as well as a searchable index and placeholders for pending sessions. [09793bd0](https://github.com/electrocucaracha/yt-conferences/commit/09793bd0c4fdcd4b41a06d74cda00f189dc7f98a)
+
+## [6.2.0] - 2026-11-21
+
+### Added
+
+- Enabled comprehensive navigation and future reference for PyCon US 2025 sessions with over 100 detailed summaries, an executive overview, and structured metadata. [aa635e76](https://github.com/electrocucaracha/yt-conferences/commit/aa635e76eb439f7259ac76c2225258566daef475)
+
+## [6.1.0] - 2026-11-21
+
+### Added
+
+- Introduced a comprehensive collection of talks and resources from GopherCon 2025, including a new topic collection under docs/gophercon-2025 with a comprehensive executive report and detailed summaries for 24 individual talks, covering key trends in Go's AI integration, performance advances, security practices, and emerging areas such as GPU support and decentralized protocols. [1dc00885](https://github.com/electrocucaracha/yt-conferences/commit/1dc00885c6076d45c568c956a31a99e24e1c08d7)
+
+## [6.0.1] - 2026-11-20
+
+### Changed
+
+- Modernized PyCon US 2026 documentation with consistent formatting and standardized terminology, and enabled terminology linting via a new configuration file. [3be9e9e3](https://github.com/electrocucaracha/yt-conferences/commit/3be9e9e329903d55c3674b913a9c459513049733)
+
+## [6.0.0] - 2026-11-20
+
+### Removed
+
+- Streamlined the documentation set by eliminating the leadership, interview preparation, and growth forums topic areas and their associated resources. [eb32bf6e](https://github.com/electrocucaracha/yt-conferences/commit/eb32bf6e1afc220c7c133269302f140bcb01ad66)
+
 ## [5.15.1] - 2026-11-16
 
 ### Changed
