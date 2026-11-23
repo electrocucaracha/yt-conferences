@@ -1,6 +1,7 @@
 """Validate playlist configuration and invoke the installed summarizer safely."""
 
 import argparse
+import re
 import shlex
 import subprocess
 import tomllib
@@ -8,6 +9,7 @@ from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
+LEADING_FRONTMATTER = re.compile(r"\A---\n.*?\n---\n+", re.DOTALL)
 
 
 def commands(config, collection=None):
@@ -59,6 +61,22 @@ def commands(config, collection=None):
     return result
 
 
+def strip_collection_frontmatter(docs_dir):
+    """Remove frontmatter from collection index.md files after summarizing.
+
+    yt_summarizer writes Jekyll-style frontmatter into every playlist index.md,
+    but Kiso only accepts frontmatter on concept files and the bundle root.
+    """
+    root_index = docs_dir / "index.md"
+    for index in docs_dir.rglob("index.md"):
+        if index == root_index:
+            continue
+        text = index.read_text(encoding="utf-8")
+        cleaned = LEADING_FRONTMATTER.sub("", text, count=1)
+        if cleaned != text:
+            index.write_text(cleaned, encoding="utf-8")
+
+
 def main():
     """Run selected playlists sequentially, or print their commands for review."""
     parser = argparse.ArgumentParser(
@@ -79,6 +97,8 @@ def main():
                 print(shlex.join(command))
             else:
                 subprocess.run(command, cwd=ROOT, check=True)
+        if not args.dry_run:
+            strip_collection_frontmatter(ROOT / "docs")
     except (OSError, ValueError, subprocess.CalledProcessError) as error:
         parser.exit(1, f"{error}\n")
 

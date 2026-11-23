@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/electrocucaracha/yt-summarizer-template",
-  "commit": "1d67e6778f419459e05b45c5fbcb4fcfc704b40a",
+  "commit": "88ace4bd503f8235ec2c426bcbfea44c38dc07ec",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -14,9 +14,11 @@
       "api_base": "http://localhost:11434",
       "language": "en",
       "template_url": "https://github.com/electrocucaracha/yt-summarizer-template",
-      "_copy_without_render": ["scripts/*"],
+      "_copy_without_render": [
+        "scripts/*"
+      ],
       "_template": "https://github.com/electrocucaracha/yt-summarizer-template",
-      "_commit": "1d67e6778f419459e05b45c5fbcb4fcfc704b40a"
+      "_commit": "88ace4bd503f8235ec2c426bcbfea44c38dc07ec"
     }
   },
   "directory": null

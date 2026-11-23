@@ -7,9 +7,23 @@
 # http://www.apache.org/licenses/LICENSE-2.0
 ##############################################################################
 
-.PHONY: fmt check validate build preview qmd-setup qmd-update qmd-embed qmd-check qmd-mcp clean lint template-check template-diff template-update
+SUMMARIZER_SOURCE ?= git+https://github.com/electrocucaracha/yt-summarizer.git@561994d3fba4016a5b774e0b0660028d3cd66e80
+COLLECTION ?=
+PORT ?= 8099
+QMD_COLLECTION ?= yt-conferences
+.PHONY: install summarize summarize-dry-run fmt check validate build preview qmd-setup qmd-update qmd-embed qmd-check qmd-mcp clean cleanup lint update-versions template-check template-diff template-update
 DOCKER_CMD ?= $(shell which docker 2> /dev/null || which podman 2> /dev/null || echo docker)
 TOOLS := uv run --no-project --python 3.12 --with-requirements requirements-dev.txt
+
+install:
+	uv tool install --python 3.12 "$(SUMMARIZER_SOURCE)"
+	uv tool install cruft==2.16.0
+
+summarize:
+	python3 scripts/summarize.py $(if $(COLLECTION),--collection "$(COLLECTION)")
+
+summarize-dry-run:
+	python3 scripts/summarize.py --dry-run $(if $(COLLECTION),--collection "$(COLLECTION)")
 
 cleanup:
 	rm -rf node_modules
@@ -37,7 +51,7 @@ fmt: cleanup
 	uv run --script scripts/format_okf.py
 
 check:
-	bash scripts/run_kiso.sh
+	bash scripts/run_kiso.sh check
 
 validate: check
 	@destination=$$(mktemp -d) && \
@@ -55,7 +69,10 @@ preview:
 	python3 -m http.server $(PORT) --directory public
 
 qmd-setup: fmt
-	bash scripts/configure_qmd.sh
+	QMD_COLLECTION="$(QMD_COLLECTION)" bash scripts/configure_qmd.sh
+
+update-versions:
+	bash ci/update_versions.sh
 
 qmd-update:
 	QMD_FORCE_CPU=1 qmd update

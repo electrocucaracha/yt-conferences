@@ -7,6 +7,7 @@
 # resetting the QMD index.
 #
 # Environment variables:
+#   QMD_COLLECTION   Required. Name of the QMD collection (set by `make qmd-setup`).
 #   QMD_FORCE_CPU=1  (default) Use CPU backend. Set to 0 if your QMD has stable GPU support.
 #
 # Usage: make qmd-setup
@@ -18,7 +19,7 @@ set -euo pipefail
 # Avoid a known llama.cpp Metal shutdown crash on some macOS installations.
 export QMD_FORCE_CPU="${QMD_FORCE_CPU:-1}"
 
-readonly COLLECTION_NAME='yt-conferences'
+readonly COLLECTION_NAME="${QMD_COLLECTION:?QMD_COLLECTION must be set}"
 
 #######################################
 # @internal
