@@ -60,7 +60,7 @@ validate: check
 
 build:
 	bash scripts/run_kiso.sh build --destination=public
-	python3 scripts/style_site.py public
+	python3 scripts/inject_youtube_stats.py public
 
 preview: PORT ?= 8099
 preview:

@@ -30,6 +30,8 @@ jobs:
           command: build
           source: docs
           destination: public
+      - name: Style portal
+        run: python scripts/inject_youtube_stats.py public
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
           path: public

@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/electrocucaracha/yt-summarizer-template",
-  "commit": "88ace4bd503f8235ec2c426bcbfea44c38dc07ec",
+  "commit": "d1be5339388512cd0b0a75e4c165fdea635a3bbc",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -10,6 +10,8 @@
       "author_name": "Victor Morales",
       "default_branch": "main",
       "collection_description": "A curated knowledge base from YouTube playlists.",
+      "readme_title": "Tech conferences",
+      "include_diagram": false,
       "model": "ollama/llama3.2",
       "api_base": "http://localhost:11434",
       "language": "en",
@@ -18,7 +20,7 @@
         "scripts/*"
       ],
       "_template": "https://github.com/electrocucaracha/yt-summarizer-template",
-      "_commit": "88ace4bd503f8235ec2c426bcbfea44c38dc07ec"
+      "_commit": "d1be5339388512cd0b0a75e4c165fdea635a3bbc"
     }
   },
   "directory": null
