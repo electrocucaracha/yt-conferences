@@ -1,4 +1,3 @@
-
 # OpenInfra Summit Europe 2025
 
 ## Executive Overview
